@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Radar GT — Noticias con contexto</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap');
+  :root {
+    --paper: #EFEDE6; --paper-raised: #F7F5F0; --ink: #1F2421; --ink-soft: #565750;
+    --line: #C9C4B5; --quetzal: #0F5C4A; --copal: #C77B2E;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font-family: 'Inter', sans-serif; -webkit-font-smoothing: antialiased; }
+  .wrap { max-width: 640px; margin: 0 auto; padding: 0 20px 60px; }
+  header.masthead { padding: 28px 0 18px; border-bottom: 2px solid var(--ink); display: flex; justify-content: space-between; align-items: baseline; }
+  header.masthead h1 { font-family: 'Newsreader', serif; font-size: 30px; font-weight: 600; margin: 0; letter-spacing: -0.01em; }
+  header.masthead .fecha { font-size: 13px; color: var(--ink-soft); }
+  .destacado { margin-top: 28px; padding: 22px; background: var(--paper-raised); border-left: 3px solid var(--quetzal); }
+  .destacado .tag { font-size: 12px; color: var(--quetzal); font-weight: 600; margin-bottom: 10px; }
+  .destacado h2 { font-family: 'Newsreader', serif; font-size: 24px; line-height: 1.25; font-weight: 600; margin: 0 0 12px; }
+  .destacado p { font-size: 15px; line-height: 1.6; margin: 0 0 10px; }
+  .fuentes { font-size: 12.5px; color: var(--ink-soft); margin-top: 14px; }
+  .fuentes span { color: var(--ink); font-weight: 500; }
+  section.radar { margin-top: 40px; }
+  section.radar > h3 { font-family: 'Newsreader', serif; font-size: 19px; font-weight: 600; margin: 0 0 4px; }
+  section.radar > p.sub { font-size: 13px; color: var(--ink-soft); margin: 0 0 18px; }
+  .categoria { margin-bottom: 26px; }
+  .categoria h4 { font-size: 12px; font-weight: 600; color: var(--copal); margin: 0 0 10px; }
+  .item { padding: 12px 0; border-top: 1px solid var(--line); }
+  .item:last-child { border-bottom: 1px solid var(--line); }
+  .item a { color: var(--ink); text-decoration: none; font-size: 15px; line-height: 1.4; display: block; }
+  .item a:hover { color: var(--quetzal); }
+  .item .meta { font-size: 12px; color: var(--ink-soft); margin-top: 4px; }
+  footer { margin-top: 40px; padding-top: 18px; border-top: 1px solid var(--line); font-size: 12px; color: var(--ink-soft); line-height: 1.6; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="masthead">
+      <h1>Radar GT</h1>
+      <div class="fecha">4 de septiembre de 2026</div>
+    </header>
+
+    <div class="destacado"><p>Aún no hay análisis aprobados para hoy. Corre <code>analyze.js</code> y aprueba al menos uno en <code>data/analisis.json</code>.</p></div>
+
+    <section class="radar">
+      <h3>Radar de titulares</h3>
+      <p class="sub">Actualizado: 4/9/2026, 5:48:45 a. m.</p>
+      
+    <div class="categoria">
+      <h4>BBC NEWS MUNDO</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/milei-anuncia-sanciones-a-petroleras-en-las-malvinas-falklands-y-la-construccion-de-una-base-naval-en-tierra-del-fuego/" target="_blank" rel="noopener">Milei anuncia sanciones a petroleras en las Malvinas/Falklands y la construcción de una base naval en Tierra del Fuego</a>
+        <div class="meta">Prensa Libre · hace unos minutos</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/me-dijeron-que-jamas-lo-volveria-a-ver-las-mas-de-250-000-solteras-que-fueron-forzadas-a-dar-sus-hijos-en-adopcion-a-mediados-del-siglo-pasado-en-reino-unido/" target="_blank" rel="noopener">&amp;#8220;Me dijeron que jamás lo volvería a ver&amp;#8221;: las más de 250.000 solteras que fueron forzadas a dar sus hijos en adopción a mediados del siglo pasado en Reino Unido</a>
+        <div class="meta">Prensa Libre · hace 1h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-gobierno-de-transicion-como-el-de-delcy-rodriguez-no-deberia-tomar-decisiones-tan-importantes-como-entregar-el-petroleo-a-ee-uu/" target="_blank" rel="noopener">&amp;#8220;Un gobierno de transición como el de Delcy Rodríguez no debería tomar decisiones tan importantes como entregar el petróleo a EE.UU.&amp;#8221;</a>
+        <div class="meta">Prensa Libre · hace 8h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/en-video-compartimos-casa-con-una-familia-de-osos-que-se-bana-varios-dias-a-la-semana-en-nuestra-piscina/" target="_blank" rel="noopener">EN VIDEO &amp;#124; Compartimos casa con una familia de osos que se baña varios días a la semana en nuestra piscina</a>
+        <div class="meta">Prensa Libre · hace 11h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/economia/bbc-news-mundo-economia/la-boveda-del-oro-en-la-que-ee-uu-guarda-toneladas-de-lingotes-de-otros-paises-y-por-que-algunas-naciones-europeas-han-decidido-retirarlos/" target="_blank" rel="noopener">La Bóveda del Oro en la que EE.UU. guarda toneladas de lingotes de otros países (y por qué algunas naciones europeas han decidido retirarlos)</a>
+        <div class="meta">Prensa Libre · hace 11h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/muere-a-los-92-anos-gloria-steinem-el-icono-feminista-de-ee-uu-que-se-infiltro-en-un-club-de-playboy-para-denunciar-las-duras-condiciones-de-sus-empleadas/" target="_blank" rel="noopener">Muere a los 92 años Gloria Steinem, el ícono feminista de EE.UU. que se infiltró en un club de Playboy para denunciar las duras condiciones de sus empleadas</a>
+        <div class="meta">Prensa Libre · hace 17h</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>ESCENARIO</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/vida/escenario/adria-arjona-brilla-hija-de-ricardo-arjona-recibe-elogios-por-su-actuacion-en-onslaught/" target="_blank" rel="noopener">“Adria Arjona brilla”: hija de Ricardo Arjona recibe elogios por su actuación en &amp;#8220;Onslaught&amp;#8221;</a>
+        <div class="meta">Prensa Libre · hace 2h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/vida/escenario/premios-juventud-2026-ganadores-parejas-que-acapararon-las-camaras-y-mejores-momentos-de-la-gala/" target="_blank" rel="noopener">Premios Juventud 2026: ganadores, parejas que acapararon las cámaras y mejores momentos de la gala</a>
+        <div class="meta">Prensa Libre · hace 4h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/vida/escenario/es-mas-dificil-de-lo-que-solia-ser-robert-pattinson-reconoce-el-desafio-de-las-nuevas-escenas-de-pelea-en-the-batman-2/" target="_blank" rel="noopener">“Es más difícil de lo que solía ser”: Robert Pattinson reconoce el desafío de las nuevas escenas de pelea en “The Batman 2”</a>
+        <div class="meta">Prensa Libre · hace 6h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/vida/escenario/un-prestamo-y-una-discusion-las-hipotesis-de-la-muerte-del-tecladista-de-camilo-septimo-y-su-familia/" target="_blank" rel="noopener">Un préstamo y una discusión: las hipótesis de la muerte del tecladista de Camilo Séptimo y su familia</a>
+        <div class="meta">Prensa Libre · hace 6h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/vida/escenario/festival-de-marimba-en-guatemala-2026-fechas-conciertos-talleres-y-clases-magistrales/" target="_blank" rel="noopener">Festival de Marimba en Guatemala 2026: fechas, conciertos, talleres y clases magistrales</a>
+        <div class="meta">Prensa Libre · hace 8h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/vida/escenario/fallece-la-actriz-carla-jeffery-a-los-33-anos-conocida-por-su-participacion-en-la-saga-zombies-de-disney/" target="_blank" rel="noopener">Fallece la actriz Carla Jeffery a los 33 años, conocida por su participación en la saga Zombies de Disney</a>
+        <div class="meta">Prensa Libre · hace 8h</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>COMUNITARIO</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/comunitario/orquesta-oafa-protesta-durante-concierto-por-el-77-aniversario-de-la-escuela-nacional-de-danza-y-exige-restitucion-de-su-director/" target="_blank" rel="noopener">Orquesta OAFA protesta durante concierto por el 77 aniversario de la Escuela Nacional de Danza y exige restitución de su director</a>
+        <div class="meta">Prensa Libre · hace 2h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/comunitario/antorchas-por-la-independencia-mineduc-regula-recorridos-transporte-y-medidas-de-seguridad-breaking/" target="_blank" rel="noopener">Antorchas por la Independencia: Mineduc regula recorridos, transporte y medidas de seguridad</a>
+        <div class="meta">Prensa Libre · hace 4h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/comunitario/asaltos-en-el-trafico-fallas-de-inteligencia-e-impunidad-frenan-la-respuesta-preventiva-de-la-pnc-segun-analistas/" target="_blank" rel="noopener">Asaltos en el tráfico: fallas de inteligencia e impunidad frenan la respuesta preventiva de la PNC, según analistas</a>
+        <div class="meta">Prensa Libre · hace 4h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/comunitario/transportistas-anuncian-nueva-protesta-por-costo-de-combustibles-y-definen-recorridos-breaking/" target="_blank" rel="noopener">Transportistas anuncian nueva protesta por costo de combustibles y definen recorridos</a>
+        <div class="meta">Prensa Libre · hace 4h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/comunitario/lluvias-dejan-mas-de-95-mil-afectados-y-danos-en-carreteras-y-viviendas/" target="_blank" rel="noopener">Lluvias dejan más de 95 mil afectados y daños en carreteras y viviendas</a>
+        <div class="meta">Prensa Libre · hace 6h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/comunitario/comunidades-alertan-por-muerte-de-especies-y-deterioro-del-mangle-en-manchon-guamuchal/" target="_blank" rel="noopener">Comunidades alertan por muerte de especies y deterioro del mangle en Manchón Guamuchal</a>
+        <div class="meta">Prensa Libre · hace 8h</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>DEPORTES</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/deportes/tengo-como-60-anos-de-razones-el-profe-revela-quien-es-rafael-campos-del-cesped-y-como-nacio-su-pasion-por-el-futbol/" target="_blank" rel="noopener">“Tengo como 60 años de razones”: “El Profe” revela quién es Rafael Campos del Césped y cómo nació su pasión por el futbol</a>
+        <div class="meta">Prensa Libre · hace 3h</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>DEPORTE NACIONAL</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/deportes/deporte-nacional/lester-martinez-conoce-el-proximo-paso-tras-vencer-a-luka-plantic-y-retener-el-titulo-del-cmb/" target="_blank" rel="noopener">Lester Martínez tendría que esperar para acercarse a una pelea contra Canelo o Mbilli</a>
+        <div class="meta">Prensa Libre · hace 4h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/deportes/deporte-nacional/mardoqueo-vasquez-estamos-contentos-con-este-resultado-tras-ganar-la-segunda-etapa-de-la-vuelta-a-honduras-breaking/" target="_blank" rel="noopener">Mardoqueo Vásquez: “Estamos contentos con este resultado” tras ganar la segunda etapa de la Vuelta a Honduras</a>
+        <div class="meta">Prensa Libre · hace 5h</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>POLÍTICA</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/politica/ee-uu-advierte-de-nuevas-revocaciones-de-visas-para-quienes-amenacen-las-instituciones-democraticas-breaking/" target="_blank" rel="noopener">EE. UU. advierte de revocaciones adicionales de visas para quienes amenacen las instituciones democráticas</a>
+        <div class="meta">Prensa Libre · hace 5h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/politica/cacif-afirma-que-modificaciones-en-guatecompras-comprometen-los-estandares-de-transparencia-breaking/" target="_blank" rel="noopener">Cacif afirma que modificaciones en Guatecompras comprometen los estándares de transparencia</a>
+        <div class="meta">Prensa Libre · hace 15h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/politica/ee-uu-evalua-en-guatemala-programas-para-combatir-el-crimen-organizado-transnacional-breaking/" target="_blank" rel="noopener">EE. UU. evalúa en Guatemala programas para combatir el crimen organizado transnacional</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>ECONOMÍA</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/economia/los-precios-de-la-gasolina-en-guatemala-vuelven-a-subir-asi-queda-el-galon-de-la-regular-superior-y-el-diesel-este-3-de-septiembre/" target="_blank" rel="noopener">Los precios de la gasolina en Guatemala vuelven a subir: así queda el galón de la regular, superior y el diésel este 3 de septiembre</a>
+        <div class="meta">Prensa Libre · hace 5h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/economia/aerometro-la-linea-1-se-prepara-para-operar-en-2027-asi-avanza-cada-una-de-sus-cuatro-estaciones/" target="_blank" rel="noopener">AeroMetro: Línea 1 se prepara para el 2027, así se ven sus cuatro estaciones y el avance total del proyecto</a>
+        <div class="meta">Prensa Libre · hace 14h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/economia/sector-de-plantas-ornamentales-y-flores-preve-crecer-7-5-en-el-2027-pero-senalan-al-menos-tres-retos/" target="_blank" rel="noopener">Sector de plantas ornamentales y flores prevé crecer 7.5% en el 2027, pero señalan al menos tres retos</a>
+        <div class="meta">Prensa Libre · hace 16h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/economia/irtra-prepara-nuevas-inversiones-hotel-de-mil-habitaciones-centro-de-convenciones-y-parque-mi-finca/" target="_blank" rel="noopener">Irtra prepara nuevas inversiones: hotel de mil habitaciones, centro de convenciones y parque Mi Finca</a>
+        <div class="meta">Prensa Libre · hace 19h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/economia/presupuesto-2027-de-guatemala-alcanza-q192-mil-millones-y-plantea-deficit-fiscal-de-4-4/" target="_blank" rel="noopener">Presupuesto 2027 de Guatemala alcanza Q192 mil millones y plantea déficit fiscal de 4.4%</a>
+        <div class="meta">Prensa Libre · hace 19h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/economia/presupuesto-2027-analistas-alertan-por-deficit-fiscal-de-4-4-y-mayor-deuda-publica/" target="_blank" rel="noopener">Presupuesto 2027: analistas alertan por déficit fiscal de 4.4% y mayor deuda pública</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>INTERNACIONAL</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/internacional/nicaragua-responde-a-guatemala-por-criticas-a-reformas-constitucionales-la-soberania-de-un-pueblo-no-se-discute/" target="_blank" rel="noopener">Nicaragua responde a Guatemala por críticas a reformas constitucionales: “La soberanía de un pueblo no se discute”</a>
+        <div class="meta">Prensa Libre · hace 6h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/internacional/universitarios-indocumentados-seran-vetados-la-norma-aprobada-para-las-universidades-de-florida/" target="_blank" rel="noopener">¿Universitarios indocumentados serán vetados? la norma aprobada para las universidades de Florida</a>
+        <div class="meta">Prensa Libre · hace 8h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/internacional/suben-a-diez-las-muertes-por-la-bacteria-come-carne-en-ee-uu-que-estados-reportan-mas-casos/" target="_blank" rel="noopener">Suben a diez las muertes por la bacteria &amp;#8220;come carne&amp;#8221; en EE. UU.: qué estados reportan más casos</a>
+        <div class="meta">Prensa Libre · hace 11h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/internacional/hombre-sobrevive-al-impacto-de-un-rayo-en-nueva-york-video-muestra-como-logra-levantarse/" target="_blank" rel="noopener">Hombre sobrevive al impacto de un rayo en Nueva York: video muestra cómo logra levantarse</a>
+        <div class="meta">Prensa Libre · hace 12h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/internacional/regresaba-a-trabajar-ese-mismo-dia-que-paso-con-erin-piacenti-antes-de-ser-apunalada-en-times-square/" target="_blank" rel="noopener">¿Regresaba a trabajar ese mismo día? que pasó con Erin Piacenti antes de ser apuñalada en Times Square</a>
+        <div class="meta">Prensa Libre · hace 12h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/internacional/encuentran-un-picasso-robado-hace-ocho-anos-estaba-colgado-en-un-apartamento-de-milwaukee/" target="_blank" rel="noopener">Encuentran un Picasso robado hace ocho años: Estaba colgado en un apartamento de Milwaukee</a>
+        <div class="meta">Prensa Libre · hace 13h</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>SUCESOS</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/sucesos/trailer-vuelca-derriba-un-poste-y-bloquea-ruta-antigua-de-palin-a-escuintla/" target="_blank" rel="noopener">Tráiler vuelca, derriba un poste y bloquea ruta antigua de Palín a Escuintla</a>
+        <div class="meta">Prensa Libre · hace 6h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/sucesos/padre-e-hijo-resultan-heridos-en-ataque-armado-en-la-zona-1-y-cierres-viales-complican-el-transito-breaking/" target="_blank" rel="noopener">Padre e hijo resultan heridos en ataque armado en la zona 1 y cierres viales complican el tránsito</a>
+        <div class="meta">Prensa Libre · hace 10h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-bus-extraurbano-deja-a-un-hombre-herido-en-la-calzada-roosevelt-breaking/" target="_blank" rel="noopener">Ataque armado en bus extraurbano deja a un hombre herido en la calzada Roosevelt</a>
+        <div class="meta">Prensa Libre · hace 14h</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>JUSTICIA</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/justicia/mp-busca-retirar-inmunidad-a-juan-manuel-asturias-por-caso-de-licencia-municipal-en-antigua-guatemala-breaking/" target="_blank" rel="noopener">MP busca retirar inmunidad a Juan Manuel Asturias por caso de licencia municipal en Antigua Guatemala</a>
+        <div class="meta">Prensa Libre · hace 7h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/justicia/desarrollan-audiencia-de-ofrecimiento-de-pruebas-por-extincion-de-vehiculo-vinculado-con-hermano-de-pedro-duque-breaking/" target="_blank" rel="noopener">Desarrollan audiencia de ofrecimiento de pruebas por extinción de vehículo vinculado con hermano de Pedro Duque</a>
+        <div class="meta">Prensa Libre · hace 12h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/justicia/juez-suspende-audiencia-contra-julio-valentin-monroy-presunto-cabecilla-de-los-taxistas-del-viejo-quien-permanece-libre-breaking/" target="_blank" rel="noopener">Juez suspende audiencia contra Julio Valentín Monroy, presunto cabecilla de “los Taxistas del Viejo”, quien permanece libre</a>
+        <div class="meta">Prensa Libre · hace 13h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/justicia/localizan-y-destruyen-en-peten-una-plantacion-de-marihuana-con-avaluo-superior-a-q31-millones-breaking/" target="_blank" rel="noopener">Localizan y destruyen en Petén una plantación de marihuana con avalúo superior a Q31 millones</a>
+        <div class="meta">Prensa Libre · hace 16h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/justicia/capturan-en-la-reformita-a-dos-senalados-de-asaltar-a-pasajeros-de-un-bus-con-una-replica-de-pistola/" target="_blank" rel="noopener">Capturan en La Reformita a dos señalados de asaltar a pasajeros de un bus con una réplica de pistola</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>GUATEMALA</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/justicia/guatemaltecos-ligados-al-narcotrafico-testificaron-en-juicio-contra-exasesor-de-erik-suniga-el-pocho-en-ee-uu/" target="_blank" rel="noopener">Guatemaltecos ligados al narcotráfico testificaron en juicio contra exasesor de Erik Súñiga, “el Pocho”, en EE. UU.</a>
+        <div class="meta">Prensa Libre · hace 7h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/politica/comisionados-advierten-de-mediocridad-en-la-eleccion-de-contralor-al-acordar-lista-de-candidatos-entre-los-15-mejor-calificados/" target="_blank" rel="noopener">Comisionados advierten de “mediocridad” en la elección de contralor al acordar lista de candidatos entre los 15 mejor calificados</a>
+        <div class="meta">Prensa Libre · hace 8h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/ciudades/guatemala-ciudades/hackers-secuestran-informacion-del-incan-exigen-dinero-y-afectan-radioterapias-de-194-pacientes-con-cancer/" target="_blank" rel="noopener">Hackers secuestran información del Incán, exigen dinero y afectan radioterapias de 194 pacientes con cáncer</a>
+        <div class="meta">Prensa Libre · hace 10h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/politica/eleccion-de-contralor-40-aspirantes-siguen-en-el-proceso-y-18-quedan-excluidos/" target="_blank" rel="noopener">Elección de contralor: 40 aspirantes siguen en el proceso y 18 quedan excluidos</a>
+        <div class="meta">Prensa Libre · hace 12h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/pandillas-buscan-nuevos-negocios-investigan-empresa-de-internet-y-cable-en-zona-18-por-posibles-vinculos-con-el-barrio-18/" target="_blank" rel="noopener">Pandillas buscan nuevos negocios: investigan empresa de internet y cable en zona 18 por posibles vínculos con el Barrio 18</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/guatemala/politica/pnc-en-alerta-por-posible-incidencia-de-pandillas-en-el-proceso-electoral-del-2027-y-plantea-plan-de-resguardo/" target="_blank" rel="noopener">PNC en alerta por posible incidencia de pandillas en el proceso electoral del 2027 y plantea plan de resguardo</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>FÚTBOL NACIONAL</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/deportes/futbol-nacional/suchitepequez-toma-una-decision-con-manuel-castaneda-tras-conseguir-su-primera-victoria-del-apertura-2026/" target="_blank" rel="noopener">Suchitepéquez toma una decisión con Manuel Castañeda tras conseguir su primera victoria del Apertura 2026</a>
+        <div class="meta">Prensa Libre · hace 8h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/deportes/futbol-nacional/marquense-vs-xelaju-mc-cuando-se-juega-el-clasico-de-occidente-y-la-racha-que-pondran-en-juego-los-leones/" target="_blank" rel="noopener">Marquense vs. Xelajú MC: cuándo se juega el Clásico de Occidente y la racha que pondrán en juego los leones</a>
+        <div class="meta">Prensa Libre · hace 11h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-asi-marcha-la-tabla-de-minutos-juveniles-tras-seis-jornadas-del-apertura-2026/" target="_blank" rel="noopener">Liga Nacional: así marcha la tabla de minutos juveniles tras seis jornadas del Apertura 2026</a>
+        <div class="meta">Prensa Libre · hace 13h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/deportes/futbol-nacional/sacachispas-anuncia-la-salida-del-tecnico-marlon-ivan-el-chino-leon-esta-es-la-razon/" target="_blank" rel="noopener">Sacachispas anuncia la salida del técnico Marlon Iván “El Chino” León: esta es la razón</a>
+        <div class="meta">Prensa Libre · hace 16h</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>FÚTBOL INTERNACIONAL</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/deportes/futbol-internacional/el-peor-cesped-neymar-critica-las-condiciones-de-la-cancha-tras-salir-lesionado-con-santos/" target="_blank" rel="noopener">“El peor césped”: Neymar critica las condiciones de la cancha tras salir lesionado con Santos</a>
+        <div class="meta">Prensa Libre · hace 10h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/deportes/futbol-internacional/mourinho-revela-que-hara-para-seguir-viendo-a-messi-en-sus-ultimos-anos-como-futbolista/" target="_blank" rel="noopener">Mourinho revela qué hará para seguir viendo a Messi en sus últimos años como futbolista</a>
+        <div class="meta">Prensa Libre · hace 13h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/deportes/futbol-internacional/soy-madridista-y-siempre-lo-voy-a-ser-luka-modric-habla-de-un-posible-regreso-al-real-madrid/" target="_blank" rel="noopener">“Soy madridista y siempre lo voy a ser”: Luka Modric habla de un posible regreso al Real Madrid</a>
+        <div class="meta">Prensa Libre · hace 14h</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/deportes/futbol-internacional/lautaro-martinez-responde-al-interes-del-barcelona-y-revela-por-que-decidio-quedarse-en-el-inter/" target="_blank" rel="noopener">Lautaro Martínez responde al interés del Barcelona y revela por qué decidió quedarse en el Inter</a>
+        <div class="meta">Prensa Libre · hace 15h</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>CARICATURA</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/opinion/caricatura/gobierno-presenta-el-presupuesto-2027/" target="_blank" rel="noopener">Gobierno presenta el presupuesto 2027</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>EDITORIAL</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/opinion/editorial/aparatoso-operativo-contra-dos-periodistas/" target="_blank" rel="noopener">Aparatoso operativo contra dos periodistas</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>SALUD Y FAMILIA</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/vida/salud-y-familia/como-preservar-la-capacidad-muscular-que-se-va-perdiendo-con-la-edad/" target="_blank" rel="noopener">Cómo preservar la capacidad muscular que se va perdiendo con la edad</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>COLUMNAS DIARIAS</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/opinion/columnasdiarias/ley-de-aguas-no-es-necesaria-es-imprescindible/" target="_blank" rel="noopener">Ley de aguas: no es necesaria, es imprescindible</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/opinion/columnasdiarias/cuando-la-politica-arruina-la-economia/" target="_blank" rel="noopener">Cuando la política arruina la economía</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/opinion/columnasdiarias/pueden-las-instituciones-del-estado-gestionar-el-agua/" target="_blank" rel="noopener">¿Pueden las instituciones del Estado gestionar el agua?</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/opinion/columnasdiarias/correccion-ineludible/" target="_blank" rel="noopener">Corrección ineludible</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/opinion/columnasdiarias/exencion-del-isr-por-ganancia-en-inmuebles/" target="_blank" rel="noopener">Exención del ISR por ganancia en inmuebles</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>VIDA</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-3-de-agosto-de-2026/" target="_blank" rel="noopener">Horóscopo de hoy jueves 3 de agosto de 2026</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>SOCIEDAD</h4>
+      
+      <div class="item">
+        <a href="https://www.guatemala.com/noticias/sociedad/andrea-ortiz-rindio-homenaje-comunidad-chorti-traje-nacional-miss-mundo-2026.html" target="_blank" rel="noopener">El traje nacional de Andrea Ortiz en Miss World 2026 rinde homenaje a la comunidad Ch’orti’</a>
+        <div class="meta">Guatemala.com · hace 1d</div>
+      </div>
+      <div class="item">
+        <a href="https://www.guatemala.com/noticias/sociedad/convocatoria-abierta-nominar-cafeterias-lista-the-best-coffee-shops-guatemala-2026.html" target="_blank" rel="noopener">Nomina tu cafetería favorita a la lista de The Best Coffee Shops Guatemala 2026</a>
+        <div class="meta">Guatemala.com · hace 2d</div>
+      </div>
+      <div class="item">
+        <a href="https://www.guatemala.com/noticias/sociedad/cuentame-tu-cuento-escolar-2027-iniciativa-busca-fomentar-escritura-centros-educativos-guatemala.html" target="_blank" rel="noopener">Cuéntame tu Cuento Escolar 2027: Niños y jóvenes podrán escribir sus propios libros desde las aulas</a>
+        <div class="meta">Guatemala.com · hace 2d</div>
+      </div>
+      <div class="item">
+        <a href="https://www.guatemala.com/noticias/sociedad/cemaco-presenta-guatemala-nuestra-2026.html" target="_blank" rel="noopener">CEMACO presenta Guatemala Nuestra 2026 junto a artesanos guatemaltecos</a>
+        <div class="meta">Guatemala.com · hace 3d</div>
+      </div>
+      <div class="item">
+        <a href="https://www.guatemala.com/noticias/sociedad/credito-hipotecario-bam-hogar-aliado-adquirir-vivienda-de-tus-suenos.html" target="_blank" rel="noopener">Los 5 beneficios de adquirir tu crédito hipotecario con Bam Hogar</a>
+        <div class="meta">Guatemala.com · hace 3d</div>
+      </div>
+      <div class="item">
+        <a href="https://www.guatemala.com/noticias/sociedad/guatemala-vencio-mexico-mundial-de-comidas-ibai-avanza-cuartos-final.html" target="_blank" rel="noopener">Así puedes votar por el pepián guatemalteco en el Mundial de Comidas de Ibai</a>
+        <div class="meta">Guatemala.com · hace 3d</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>TECNOLOGÍA</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/vida/tecnologia/google-pics-la-nueva-aplicacion-de-google-que-busca-competir-con-canva-para-crear-y-editar-imagenes-con-ia/" target="_blank" rel="noopener">Google Pics: la nueva aplicación de Google que busca competir con Canva para crear y editar imágenes con IA</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+      <div class="item">
+        <a href="https://www.guatemala.com/noticias/tecnologia/el-gran-jaguar.html" target="_blank" rel="noopener">El Gran Jaguar es el primer nanochip diseñado completamente en Guatemala por estudiantes, docentes e investigadores de UVG</a>
+        <div class="meta">Guatemala.com · hace 3d</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>VIDA EMPRESARIAL</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/economia/vida-empresarial/inauguran-de-uno-de-los-hubs-mas-grandes-y-completos-de-centroamerica/" target="_blank" rel="noopener">Inauguran de uno de los hubs más grandes y completos de Centroamérica</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+      <div class="item">
+        <a href="https://www.prensalibre.com/economia/vida-empresarial/testimonio-de-excelencia-e-influencia/" target="_blank" rel="noopener">Testimonio de excelencia e influencia</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>ESCUINTLA</h4>
+      
+      <div class="item">
+        <a href="https://www.prensalibre.com/ciudades/escuintla/basura-convertida-en-energia-empresa-con-sede-en-ee-uu-invierte-us185-millones-en-guatemala/" target="_blank" rel="noopener">Basura convertida en energía: empresa con sede en EE. UU. invierte  US$185 millones en Guatemala</a>
+        <div class="meta">Prensa Libre · hace 1d</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>COMUNIDAD</h4>
+      
+      <div class="item">
+        <a href="https://www.guatemala.com/noticias/comunidad/5-formularios-sat-estaran-disponibles-unicamente-agencia-virtual-desde-septiembre-2026.html" target="_blank" rel="noopener">SAT implementó cambios en la presentación de formularios para contribuyentes del Régimen General del IVA</a>
+        <div class="meta">Guatemala.com · hace 1d</div>
+      </div>
+      <div class="item">
+        <a href="https://www.guatemala.com/noticias/comunidad/clima-guatemala-insivumeh-pronostica-dias-calurosos-lluvias-31-de-agosto-al-4-de-septiembre-2026.html" target="_blank" rel="noopener">Así estará el clima en Guatemala del 31 de agosto al 4 de septiembre de 2026</a>
+        <div class="meta">Guatemala.com · hace 4d</div>
+      </div>
+    </div>
+
+    <div class="categoria">
+      <h4>CULTURA</h4>
+      
+      <div class="item">
+        <a href="https://www.guatemala.com/noticias/cultura/guatemalteca-brenda-gonzalez-la-valeria-recibe-primer-reconocimiento-legado-de-oro.html" target="_blank" rel="noopener">Actriz Brenda González destacada con el reconocimiento Legado de Oro por sus más de 40 años de trayectoria</a>
+        <div class="meta">Guatemala.com · hace 3d</div>
+      </div>
+    </div>
+    </section>
+
+    <footer>
+      Radar GT recopila titulares públicos vía RSS con enlace directo a la fuente original.
+      Los análisis son generados a partir de fuentes citadas y revisados antes de publicar.
+    </footer>
+  </div>
+</body>
+</html>
