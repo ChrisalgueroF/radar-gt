@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-04T10:16:02.472Z",
+  "actualizado": "2026-09-04T11:14:08.055Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027: Congreso cuestiona deuda, recursos para Codedes y aumento del déficit fiscal",
+      "link": "https://www.prensalibre.com/economia/presupuesto-2027-congreso-cuestiona-deuda-recursos-para-codedes-y-aumento-del-deficit-fiscal/",
+      "fecha": "Fri, 04 Sep 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Los primeros cuestionamientos al proyecto de presupuesto de ingresos y egresos que presentó el Ejecutivo por Q192 mil millones para el ejercicio fiscal del 2027 comenzaron a surgir. Es el monto presupuestario más alto de los últimos 32 años."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Maga tramita Q1 mil 300 millones más para alimentos: ¿cómo prevé ejecutar los fondos?",
@@ -793,14 +801,6 @@
       "fecha": "Thu, 03 Sep 2026 02:27:04 +0000",
       "categoria": "Guatemala",
       "resumen": "Una empresa de internet y cable de la zona 18 es investigada por posibles vínculos con el Barrio 18, mientras las autoridades buscan determinar quién la operaba, si funcionaba legalmente y si era utilizada para generar recursos para la estructura criminal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elección superintendente de Bancos: estos son los 21 aspirantes al cargo y de ahí la JM elegirá una terna",
-      "link": "https://www.prensalibre.com/economia/eleccion-superintendente-de-bancos-estos-son-los-21-aspirantes-al-cargo-y-de-ahi-la-jm-elegira-una-terna/",
-      "fecha": "Thu, 03 Sep 2026 01:25:38 +0000",
-      "categoria": "Economía",
-      "resumen": "Los nombres de los 21 aspirantes al cargo de superintendente de Bancos, quien deberá asumir el 1 de octubre próximo, fueron divulgados este día. la Junta Monetaria deberá elegir una terna y trasladarla al presidente de la República para la designación para el nuevo período 2026-2030."
     },
     {
       "fuente": "Guatemala.com",
