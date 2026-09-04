@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-04T18:16:51.767Z",
+  "actualizado": "2026-09-04T19:11:49.348Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Viaja durante el fin de semana del Labor Day? Pronóstico de lluvia y costos que tomar en cuenta",
+      "link": "https://www.prensalibre.com/internacional/viaja-durante-el-fin-de-semana-del-labor-day-pronostico-de-lluvia-y-costos-que-tomar-en-cuenta/",
+      "fecha": "Fri, 04 Sep 2026 19:01:04 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las autoridades estadounidenses prevén que este sea el fin de semana del Día del Trabajo (Labor Day) más caro de la historia de Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tribunal declara procedente extradición de integrante de Lev Tahor solicitado por México",
+      "link": "https://www.prensalibre.com/guatemala/justicia/tribunal-declara-procedente-extradicion-de-integrante-de-lev-tahor-solicitado-por-mexico-breaking/",
+      "fecha": "Fri, 04 Sep 2026 18:39:11 +0000",
+      "categoria": "Justicia",
+      "resumen": "Yoel Malka, integrante de la comunidad Lev Tahor, es señalado por la justicia mexicana por el delito de trata de personas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Champions League: cuándo debutan Real Madrid, Barcelona y PSG, calendario y horarios de la primera jornada",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/champions-league-cuando-debutan-real-madrid-barcelona-y-psg-calendario-y-horarios-de-la-primera-jornada/",
+      "fecha": "Fri, 04 Sep 2026 18:15:17 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La Uefa Champions League 2026-2027 inicia su fase de liga con 36 equipos y una jornada inaugural llena de enfrentamientos atractivos entre clubes históricos de Europa."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "Pronóstico del clima en Guatemala para el 5 y 6 de septiembre 2026",
@@ -777,30 +801,6 @@
       "fecha": "Thu, 03 Sep 2026 06:06:00 +0000",
       "categoria": "Caricatura",
       "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aparatoso operativo contra dos periodistas",
-      "link": "https://www.prensalibre.com/opinion/editorial/aparatoso-operativo-contra-dos-periodistas/",
-      "fecha": "Thu, 03 Sep 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Nadie está pidiendo privilegios ni impunidades para periodistas o comunicadores sociales, pero sí la necesaria objetividad y profesionalismo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo preservar la capacidad muscular que se va perdiendo con la edad",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/como-preservar-la-capacidad-muscular-que-se-va-perdiendo-con-la-edad/",
-      "fecha": "Thu, 03 Sep 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Nunca es tarde para empezar a entrenar, pero ¿cómo hacerlo? Un experto explica los pasos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Wall Street invierte para proteger sus propiedades en India ante los riesgos climáticos",
-      "link": "https://www.prensalibre.com/internacional/wall-street-invierte-para-proteger-sus-propiedades-en-india-ante-los-riesgos-climaticos/",
-      "fecha": "Thu, 03 Sep 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Inversionistas destinan millones de dólares a proteger propiedades en India ante inundaciones y otros fenómenos climáticos que amenazan el valor de sus activos."
     },
     {
       "fuente": "Guatemala.com",
