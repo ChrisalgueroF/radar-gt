@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-04T14:14:42.226Z",
+  "actualizado": "2026-09-04T15:15:08.601Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Real Madrid define su lista para la Champions y deja fuera a un jugador del primer equipo",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-define-su-lista-para-la-champions-y-deja-fuera-a-un-jugador-del-primer-equipo/",
+      "fecha": "Fri, 04 Sep 2026 14:55:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Real Madrid presentó sus listas para la Champions League con la novedad de Sergio Martínez en la lista A."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Bloqueos en Guatemala en Vivo: manifestaciones en la capital y Santa Rosa este 4 de septiembre por alto precio del combustible",
@@ -793,14 +801,6 @@
       "fecha": "Thu, 03 Sep 2026 03:14:32 +0000",
       "categoria": "Economía",
       "resumen": "La JM aceptó la renuncia de Juan Carlos Monrroy Véliz como intendente de la IVE, en momentos en que Guatemala se prepara para una evaluación internacional de su sistema contra el lavado de dinero."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Google Pics: la nueva aplicación de Google que busca competir con Canva para crear y editar imágenes con IA",
-      "link": "https://www.prensalibre.com/vida/tecnologia/google-pics-la-nueva-aplicacion-de-google-que-busca-competir-con-canva-para-crear-y-editar-imagenes-con-ia/",
-      "fecha": "Thu, 03 Sep 2026 02:32:35 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Estas son las funciones de Google Pics, la nueva aplicación de Google que permite crear y editar imágenes con inteligencia artificial."
     },
     {
       "fuente": "Guatemala.com",
