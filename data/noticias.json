@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-04T16:15:45.599Z",
+  "actualizado": "2026-09-04T17:13:50.586Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comunicaciones busca reaccionar ante Mixco, pero no podrá contar con uno de sus capitanes",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-busca-reaccionar-ante-mixco-pero-no-podra-contar-con-uno-de-sus-capitanes/",
+      "fecha": "Fri, 04 Sep 2026 16:46:57 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El conjunto crema llegará al Estadio Santo Domingo de Guzmán tras una semana complicada, luego de perder el Clásico 338 ante Municipal y quedar ubicado en la novena posición de la tabla con siete puntos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿De qué murió Peter Cullen? Esto reveló el certificado de defunción del actor de voz de Optimus Prime en Transformers",
+      "link": "https://www.prensalibre.com/vida/escenario/de-que-murio-peter-cullen-esto-revelo-el-certificado-de-defuncion-del-actor-de-voz-de-optimus-prime-en-transformers/",
+      "fecha": "Fri, 04 Sep 2026 16:15:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "A días del anuncio de la muerte del actor que dio voz a Optimus Prime en Transformers e Igor en Winnie the Pooh, se reveló la causa de su fallecimiento."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Tormentas locales y ambiente cálido marcarán el clima en Guatemala este fin de semana",
@@ -44,11 +60,19 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Bloqueos en Guatemala en Vivo: manifestaciones en la capital y Santa Rosa este 4 de septiembre por alto precio del combustible",
+      "titulo": "Liga Nacional: así se jugará la jornada 7 del Apertura 2026, con Municipal defendiendo el liderato",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-asi-se-jugara-la-jornada-7-del-apertura-2026-con-municipal-defendiendo-el-liderato/",
+      "fecha": "Fri, 04 Sep 2026 14:26:54 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Antigua GFC y Aurora FC abrirán este viernes la jornada 7 del Apertura 2026, una fecha que se disputará hasta el domingo en distintos escenarios del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bloqueos en Guatemala en Vivo: Cámara de Comercio pide cumplir resolución de la CC para garantizar la libre locomoción",
       "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-en-vivo-manifestaciones-en-la-capital-y-santa-rosa-este-4-de-septiembre-por-alto-precio-del-combustible-breaking/",
       "fecha": "Fri, 04 Sep 2026 12:42:10 +0000",
       "categoria": "Comunitario",
-      "resumen": "Guatemala vive jornada de bloqueos este viernes 4 de septiembre en rechazo al alto costo del combustible."
+      "resumen": "Guatemala vive jornada de bloqueos este viernes 4 de septiembre en rechazo al alto costo del combustible. Cámara de Comercio pide acciones para garantizar la libre locomoción."
     },
     {
       "fuente": "Prensa Libre",
@@ -769,30 +793,6 @@
       "fecha": "Thu, 03 Sep 2026 06:01:00 +0000",
       "categoria": "Vida",
       "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Exención del ISR por ganancia en inmuebles",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/exencion-del-isr-por-ganancia-en-inmuebles/",
-      "fecha": "Thu, 03 Sep 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Tributar como contribuyente no es sinónimo de estar inscrito como contribuyente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nuevas inversiones se podrían hacer hasta el tercer año de la ley de puertos, según el CIV",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/nuevas-inversiones-se-podrian-hacer-hasta-el-tercer-ano-de-la-ley-de-puertos-segun-el-civ/",
-      "fecha": "Thu, 03 Sep 2026 06:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Conformar el primer Directorio, elegir al gerente general y contratar al equipo técnico serán algunos de los pasos para poner en marcha la nueva Autoridad Portuaria Nacional (APN), luego de que el presidente Bernardo Arévalo sancionara la ley."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La BBC viaja al interior del Líbano ocupado por Israel, donde los ataques y demoliciones siguen a pesar del alto al fuego",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-bbc-viaja-al-interior-del-libano-ocupado-por-israel-donde-los-ataques-y-demoliciones-siguen-a-pesar-del-alto-al-fuego/",
-      "fecha": "Thu, 03 Sep 2026 04:30:09 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Un equipo de la BBC se unió a una misión humanitaria de la fuerza de mantenimiento de la paz de la ONU, que afirma que las tropas israelíes están fortificando posiciones y continuando con las demoliciones."
     },
     {
       "fuente": "Guatemala.com",
