@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-04T21:14:02.529Z",
+  "actualizado": "2026-09-04T22:14:03.093Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso de Lindsay Clancy: ¿Qué sucedió con el jurado y por qué este juicio fue declarado nulo?",
+      "link": "https://www.prensalibre.com/internacional/caso-de-lindsay-clancy-que-sucedio-con-el-jurado-y-por-que-este-juicio-fue-declarado-nulo/",
+      "fecha": "Fri, 04 Sep 2026 21:39:46 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un juez de Massachusetts declaró nulo el juicio contra Lindsay Clancy, la acusada de asesinar a sus tres hijos durante un supuesto brote psicótico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué Dolly Parton decidió mantener en secreto su lucha contra el cáncer? Jada Star habla de cómo la familia afronta el duelo",
+      "link": "https://www.prensalibre.com/vida/escenario/por-que-dolly-parton-decidio-mantener-en-secreto-su-lucha-contra-el-cancer-jada-star-habla-de-como-la-familia-afronta-el-duelo/",
+      "fecha": "Fri, 04 Sep 2026 21:20:24 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante de country Dolly Parton habría enfrentado un diagnóstico de cáncer mientras lidiaba con otras complicaciones de salud, reveló su sobrina."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: así fue el penalti fallado por Mbappé que desató la polémica con el VAR",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-asi-fue-el-penalti-fallado-por-mbappe-que-desato-la-polemica-con-el-var/",
+      "fecha": "Fri, 04 Sep 2026 21:15:34 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Real Betis sorprendió al Real Madrid al vencerlo 1-0 en la cuarta jornada de LaLiga 2026-2027, con un gol de Troy Parrott y una actuación decisiva del portero Álvaro Valles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque armado deja un muerto y un herido en Santa Lucía Milpas Altas y PNC captura a dos presuntos sicarios",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-deja-un-muerto-y-un-herido-en-santa-lucia-milpas-altas-y-pnc-captura-a-dos-presuntos-sicarios-breaking/",
+      "fecha": "Fri, 04 Sep 2026 21:07:44 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Un ataque armado en Santa Lucía Milpas Altas, Sacatepéquez, dejó un muerto y un herido. Tras el hecho, la PNC reportó la captura de dos presuntos sicarios del Barrio 18."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Revelan más detalles de los ataques armados contra tres comercios en Escuintla y quién los ordenó",
@@ -9,6 +41,14 @@
       "fecha": "Fri, 04 Sep 2026 20:56:30 +0000",
       "categoria": "Guatemala",
       "resumen": "La Policía dio nuevos detalles de los ataques contra comercios en Escuintla y sigue pistas sobre extorsionistas y posibles órdenes desde prisión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Localizan cadáver envuelto en bolsas y sábanas entre la maleza en la antigua ruta a Santa Cruz Chinautla",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/localizan-cadaver-envuelto-en-bolsas-y-sabanas-entre-la-maleza-en-la-antigua-ruta-a-santa-cruz-chinautla/",
+      "fecha": "Fri, 04 Sep 2026 20:47:21 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Socorristas localizaron un cadáver envuelto en bolsas y sábanas a pocos metros de la antigua ruta a Santa Cruz Chinautla."
     },
     {
       "fuente": "Prensa Libre",
@@ -761,46 +801,6 @@
       "fecha": "Thu, 03 Sep 2026 15:25:00 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Luka Modric, próximo a cumplir 41 años y actualmente jugador del AC Milan, expresó su deseo de regresar algún día al Real Madrid, aunque aseguró que solo lo haría si puede aportar al club que considera su hogar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mujer de 90 años es atacada en Brooklyn: video muestra cómo ocurrió la agresión en Nueva York",
-      "link": "https://www.prensalibre.com/internacional/mujer-de-90-anos-es-atacada-en-brooklyn-video-muestra-como-ocurrio-la-agresion-en-nueva-york/",
-      "fecha": "Thu, 03 Sep 2026 15:09:40 +0000",
-      "categoria": "Internacional",
-      "resumen": "La mujer de 90 años había salido a un supermercado en Brooklyn, Nueva York, cuando un hombre tomó un objeto lleno de basura y se lo arrojó, aparentemente con la intención de lastimarla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cacif afirma que modificaciones en Guatecompras comprometen los estándares de transparencia",
-      "link": "https://www.prensalibre.com/guatemala/politica/cacif-afirma-que-modificaciones-en-guatecompras-comprometen-los-estandares-de-transparencia-breaking/",
-      "fecha": "Thu, 03 Sep 2026 14:58:16 +0000",
-      "categoria": "Política",
-      "resumen": "El Cacif señala que las modificaciones en el portal Guatecompras reducen las herramientas que permiten a la ciudadanía supervisar y fiscalizar las contrataciones del Estado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lautaro Martínez responde al interés del Barcelona y revela por qué decidió quedarse en el Inter",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lautaro-martinez-responde-al-interes-del-barcelona-y-revela-por-que-decidio-quedarse-en-el-inter/",
-      "fecha": "Thu, 03 Sep 2026 14:22:52 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El delantero argentino Lautaro Martínez reconoció que el interés del Barcelona fue un honor, pero reafirmó su compromiso con el Inter de Milán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sacachispas anuncia la salida del técnico Marlon Iván “El Chino” León: esta es la razón",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/sacachispas-anuncia-la-salida-del-tecnico-marlon-ivan-el-chino-leon-esta-es-la-razon/",
-      "fecha": "Thu, 03 Sep 2026 14:19:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Sacachispas anunció la salida del entrenador guatemalteco Marlon \"Chino\" Iván León, quien deja la dirección técnica del equipo oriental."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sector de plantas ornamentales y flores prevé crecer 7.5% en el 2027, pero señalan al menos tres retos",
-      "link": "https://www.prensalibre.com/economia/sector-de-plantas-ornamentales-y-flores-preve-crecer-7-5-en-el-2027-pero-senalan-al-menos-tres-retos/",
-      "fecha": "Thu, 03 Sep 2026 14:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El sector guatemalteco de plantas ornamentales, flores y follajes prevé aumentar 7.5% sus exportaciones en el 2027, impulsado por la eliminación de aranceles para el 85% de sus productos en Estados Unidos y por el avance en procesos de admisibilidad fitosanitaria, pero si se logran cumplir condiciones de competitividad en el país"
     },
     {
       "fuente": "Guatemala.com",
