@@ -1,0 +1,3 @@
+[build]
+  publish = "public"
+  command = "echo 'Sitio ya generado por GitHub Actions, nada que compilar'"
