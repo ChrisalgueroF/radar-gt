@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-09-04T05:48:45.946Z",
+  "actualizado": "2026-09-04T06:19:09.967Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sector agro prevé caída de 5% en ventas por falta de lluvias y alza en fertilizantes, y granos básicos reportan impactos",
+      "link": "https://www.prensalibre.com/economia/sector-agro-preve-caida-de-5-en-ventas-por-falta-de-lluvias-y-alza-en-fertilizantes-y-granos-basicos-reportan-impactos/",
+      "fecha": "Fri, 04 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El sector agropecuario prevé una caída de 5% en las ventas por la falta de lluvias en el 2026, además de los impactos por las alzas en insumos como combustibles y fertilizantes, según un sondeo de Camagro. Mientras tanto, la Asociación Nacional de Granos Básicos reporta pérdidas de cultivos que representarían millones de quintales de maíz."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Austeridad",
+      "link": "https://www.prensalibre.com/opinion/caricatura/austeridad-3/",
+      "fecha": "Fri, 04 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Casualidades clientelares estorban a las soluciones",
+      "link": "https://www.prensalibre.com/opinion/editorial/casualidades-clientelares-estorban-a-las-soluciones/",
+      "fecha": "Fri, 04 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "El alto costo de combustibles se ha prolongado debido al conflicto en Oriente Medio y se necesita trazar estrategias de corto y largo plazos para paliar su impacto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué debe saber sobre las chinches de cama y sus infestaciones",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/que-debe-saber-sobre-las-chinches-de-cama-y-sus-infestaciones/",
+      "fecha": "Fri, 04 Sep 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Los chinches de cama, parásitos pequeños de color marrón rojizo, son similares a los piojos y las pulgas en que se alimentan de la superficie externa de la piel."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump respalda nuevos planes para reforzar la seguridad alrededor de la Casa Blanca",
+      "link": "https://www.prensalibre.com/internacional/trump-respalda-nuevos-planes-para-reforzar-la-seguridad-alrededor-de-la-casa-blanca/",
+      "fecha": "Fri, 04 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Servicio Secreto impulsa nuevas barreras e instalaciones alrededor de la Casa Blanca, proyectos que administraciones anteriores debatieron sin llegar a aprobar por completo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Para gobernar bien, se necesita un equipo",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/para-gobernar-bien-se-necesita-un-equipo/",
+      "fecha": "Fri, 04 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Una victoria cívica sería un sufragio a favor de alguien a quien se tenga algún mínimo nivel de seguridad y de confianza."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alemania, blanco de la guerra híbrida rusa",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/alemania-blanco-de-la-guerra-hibrida-rusa/",
+      "fecha": "Fri, 04 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La guerra híbrida combina sabotajes, ciberataques, desinformación y operaciones encubiertas para debilitar al adversario sin llegar a una guerra convencional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatecompras, bajo censura",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/guatecompras-bajo-censura/",
+      "fecha": "Fri, 04 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Lejos de facilitar la transparencia, el gobierno de Arévalo obstaculiza la fiscalización."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿El presupuesto del año de Hidalgo?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-presupuesto-del-ano-de-hidalgo/",
+      "fecha": "Fri, 04 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Obras nuevas, repartidas desde la Presidencia, en año de elecciones. ¿Suena sospechoso?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy viernes 4 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-viernes-4-de-septiembre-de-2026/",
+      "fecha": "Fri, 04 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Se avecina hambruna",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/se-avecina-hambruna/",
+      "fecha": "Fri, 04 Sep 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Se prevén dificultades de sobrevivencia para gran parte de la población agrícola."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Milei anuncia sanciones a petroleras en las Malvinas/Falklands y la construcción de una base naval en Tierra del Fuego",
@@ -715,100 +803,12 @@
       "resumen": "Tps Landfill Solution invierte en planta de residuos y proyecta procesar hasta mil 400 toneladas de residuos al día y busca generar energía y combustibles a partir de materiales que actualmente llegan a vertederos."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. evalúa en Guatemala programas para combatir el crimen organizado transnacional",
-      "link": "https://www.prensalibre.com/guatemala/politica/ee-uu-evalua-en-guatemala-programas-para-combatir-el-crimen-organizado-transnacional-breaking/",
-      "fecha": "Thu, 03 Sep 2026 00:51:30 +0000",
-      "categoria": "Política",
-      "resumen": "Un funcionario del Departamento de Estado de EE. UU. visita Guatemala para conocer los programas contra el crimen organizado transnacional, el narcotráfico y los ilícitos transfronterizos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Disparos y gritos: qué se sabe del asesinato del músico de Camilo Séptimo, su esposa embarazada, su hija y hasta su mascota en México",
-      "link": "https://www.prensalibre.com/vida/escenario/que-se-sabe-del-asesinato-del-tecladista-de-la-banda-camilo-septimo-y-de-su-familia-en-su-casa-en-mexico/",
-      "fecha": "Thu, 03 Sep 2026 00:30:17 +0000",
-      "categoria": "Escenario",
-      "resumen": "Crimen brutal: el tecladista de la banda Camilo Séptimo, su esposa embarazada e hija, fueron asesinados en su hogar en México. Policía ya tiene a sospechosos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Boda de Harry Styles y Zoë Kravitz: revelan lo que no podrá faltar en la ceremonia",
-      "link": "https://www.prensalibre.com/vida/escenario/boda-de-harry-styles-y-zoe-kravitz-revelan-lo-que-no-podra-faltar-en-la-ceremonia/",
-      "fecha": "Wed, 02 Sep 2026 23:52:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Harry Styles y Zoë Kravitz están en medio de los preparativos de su boda y ya tienen claro cuáles serán las prioridades para el gran día."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sube 40% la multa por no tener limitador de velocidad, mientras que nueve de cada 10 vehículos obligados aún no lo tienen",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/sube-40-la-multa-por-no-tener-limitador-de-velocidad-mientras-que-nueve-de-cada-10-vehiculos-obligados-aun-no-lo-tienen/",
-      "fecha": "Wed, 02 Sep 2026 23:42:52 +0000",
-      "categoria": "Comunitario",
-      "resumen": "A seis meses de la obligatoriedad del Sistema Limitador de Velocidad para transporte de pasajeros y de carga, la multa para vehículos que no cuenten con el dispositivo aumenta de Q20 mil a Q28 mil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Testimonio de excelencia e influencia",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/testimonio-de-excelencia-e-influencia/",
-      "fecha": "Wed, 02 Sep 2026 23:12:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "El presidente de la Junta Monetaria y del Banco de Guatemala, Alvaro González Ricci, recibió el Citi Distinguished Alumni Award, en la categoría de Liderazgo, reconocimiento que la institución financiera otorga a excolaboradores que, después de su paso por Citi, han desarrollado una trayectoria destacada en los sectores público y privado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los miles de millones en oro que Países Bajos traslada a Londres como medida de &#8220;preparación para la crisis&#8221;",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/los-miles-de-millones-en-oro-que-paises-bajos-traslada-a-londres-como-medida-de-preparacion-para-la-crisis/",
-      "fecha": "Wed, 02 Sep 2026 22:52:44 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El banco central neerlandés retiró parte de sus reservas de oro de Estados Unidos y Canadá por la \"creciente inestabilidad geopolítica\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC en alerta por posible incidencia de pandillas en el proceso electoral del 2027 y plantea plan de resguardo",
-      "link": "https://www.prensalibre.com/guatemala/politica/pnc-en-alerta-por-posible-incidencia-de-pandillas-en-el-proceso-electoral-del-2027-y-plantea-plan-de-resguardo/",
-      "fecha": "Wed, 02 Sep 2026 22:28:12 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Luego de recientes atentados y choques violentos, la Policía Nacional Civil (PNC) propuso al Congreso dar acompañamiento policial preventivo a todos los partidos políticos en zonas de riesgo ante el proceso electoral del 2027."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "SAT implementó cambios en la presentación de formularios para contribuyentes del Régimen General del IVA",
       "link": "https://www.guatemala.com/noticias/comunidad/5-formularios-sat-estaran-disponibles-unicamente-agencia-virtual-desde-septiembre-2026.html",
       "fecha": "Wed, 02 Sep 2026 22:16:24 +0000",
       "categoria": "Comunidad",
       "resumen": "La SAT implementó cambios en la presentación de formularios para contribuyentes del Régimen General del IVA a partir de septiembre de 2026.\nThe post SAT implementó cambios en la presentación de formularios para contribuyentes del Régimen General del IVA appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Pelearon? Justin Bieber y Hailey protagonizan un momento incómodo en la boda del hermano de Billie Eilish",
-      "link": "https://www.prensalibre.com/vida/escenario/pelearon-justin-bieber-y-hailey-protagonizan-un-momento-incomodo-en-la-boda-del-hermano-de-billie-eilish/",
-      "fecha": "Wed, 02 Sep 2026 21:58:12 +0000",
-      "categoria": "Escenario",
-      "resumen": "Imágenes captadas durante la boda muestran a Justin Bieber y su esposa, Hailey, en una aparente discusión. Esto es lo que se sabe sobre el momento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Amparo contra la postuladora de CGC busca anular las herramientas aprobadas para calificar a los aspirantes",
-      "link": "https://www.prensalibre.com/guatemala/politica/amparo-contra-la-postuladora-de-cgc-busca-anular-las-herramientas-aprobadas-para-calificar-a-los-aspirantes/",
-      "fecha": "Wed, 02 Sep 2026 21:55:06 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Un amparo, que presentado al Centro de Servicios Auxiliares del OJ, busca que la comisión haga una nueva tabla de gradación y otra guía de entrevistas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bloqueos en Guatemala: Antimotines lanzan bombas lacrimógenas para retirar protesta de tres días en Cuyotenango",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-antimotines-lanzan-bombas-lacrimogenas-para-retirar-protesta-de-tres-dias-en-cuyotenango-breaking/",
-      "fecha": "Wed, 02 Sep 2026 21:54:47 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Antimotines desalojaron a manifestantes en Cuyotenango, Suchitepéquez, donde se registraron enfrentamientos, lanzamiento de piedras y uso de gases lacrimógenos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué las autoridades de Roma declararon como &#8220;zona roja&#8221; el histórico Coliseo",
-      "link": "https://www.prensalibre.com/internacional/por-que-las-autoridades-de-roma-declararon-como-zona-roja-el-historico-coliseo/",
-      "fecha": "Wed, 02 Sep 2026 21:53:18 +0000",
-      "categoria": "Internacional",
-      "resumen": "Funcionarios de Roma han declarado el histórico Coliseo como una \"zona roja\" y han desplegado más agentes de seguridad."
     },
     {
       "fuente": "Guatemala.com",
