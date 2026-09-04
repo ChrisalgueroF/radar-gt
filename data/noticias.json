@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-04T20:14:43.125Z",
+  "actualizado": "2026-09-04T21:14:02.529Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Revelan más detalles de los ataques armados contra tres comercios en Escuintla y quién los ordenó",
+      "link": "https://www.prensalibre.com/guatemala/justicia/revelan-mas-detalles-de-los-ataques-armados-contra-tres-comercios-en-escuintla-y-quien-los-ordeno/",
+      "fecha": "Fri, 04 Sep 2026 20:56:30 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La Policía dio nuevos detalles de los ataques contra comercios en Escuintla y sigue pistas sobre extorsionistas y posibles órdenes desde prisión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La ONU aprueba un nuevo mapamundi que refleja el tamaño real de África",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-onu-aprueba-un-nuevo-mapamundi-que-refleja-el-tamano-real-de-africa/",
+      "fecha": "Fri, 04 Sep 2026 20:40:43 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La resolución, patrocinada por Togo, contó con el apoyo de 164 naciones; Estados Unidos fue el único país que votó en contra."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué pasará ahora que un juez declaró nulo el juicio contra Lindsay Clancy, la madre acusada de matar a sus tres hijos en EE.UU.?",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-pasara-ahora-que-un-juez-declaro-nulo-el-juicio-contra-lindsay-clancy-la-madre-acusada-de-matar-a-sus-tres-hijos-en-ee-uu/",
+      "fecha": "Fri, 04 Sep 2026 20:26:39 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El juez William Sullivan tomó la decisión después de que el jurado le informara que seguían en un punto muerto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Policía de Nueva York mata a hombre con cuchillo: Así fue la confrontación en el Puente de Brooklyn",
+      "link": "https://www.prensalibre.com/internacional/policia-de-nueva-york-mata-a-hombre-con-cuchillo-asi-fue-la-confrontacion-en-el-puente-de-brooklyn/",
+      "fecha": "Fri, 04 Sep 2026 20:25:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "Durante el operativo, el sospechoso manifestó que tenía una bomba y que quería morir en el distrito más poblado de la Ciudad de Nueva York."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Obras Sociales del Santo Hermano Pedro podrán continuar su labor humanitaria gracias a la Rifa 1 Millón de Amigos 2026: estos fueron los números ganadores",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/obras-sociales-del-santo-hermano-pedro-podran-continuar-su-labor-humanitaria-gracias-a-la-rifa-1-millon-de-amigos-2026-estos-fueron-los-numeros-ganadores/",
+      "fecha": "Fri, 04 Sep 2026 20:10:45 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Con una recaudación millonaria y 12 ganadores, cerró la novena edición de la Rifa 1 Millón de Amigos, en beneficio de miles de pacientes."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "“Dragon Ball Super: Beerus”: fecha de estreno, tema de apertura, novedades y tráiler de la nueva entrega del anime",
@@ -17,6 +57,14 @@
       "fecha": "Fri, 04 Sep 2026 19:35:35 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "El París Saint-Germain confirmó la ampliación de contrato de Luis Enrique, respaldado por una gestión que ya suma dos títulos de Champions League."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El monstruo de colores: función de títeres para niños en Guatemala con entrada gratuita",
+      "link": "https://www.prensalibre.com/vida/escenario/el-monstruo-de-colores-funcion-de-titeres-para-ninos-en-guatemala-con-entrada-gratuita/",
+      "fecha": "Fri, 04 Sep 2026 19:22:32 +0000",
+      "categoria": "Escenario",
+      "resumen": "Esta función de títeres ayudará a los niños a reconocer sus emociones mientras se divierten con “El monstruo de colores”."
     },
     {
       "fuente": "Prensa Libre",
@@ -88,7 +136,7 @@
       "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-betis-vs-real-madrid-siga-el-minuto-a-minuto-del-encuentro-por-la-cuarta-fecha-de-laliga/",
       "fecha": "Fri, 04 Sep 2026 17:10:23 +0000",
       "categoria": "Fútbol Internacional",
-      "resumen": "El Real Madrid visita este viernes al Real Betis en el estadio Benito Villamarín por la cuarta jornada de LaLiga 2026-2027, en un duelo donde los verdiblancos intentarán aprovechar su localía para frenar el paso perfecto del conjunto merengue."
+      "resumen": "El Real Madrid visita este viernes al Real Betis en el estadio La Cartuja por la cuarta jornada de LaLiga 2026-2027, en un duelo donde los verdiblancos intentarán aprovechar su localía para frenar el paso perfecto del conjunto merengue."
     },
     {
       "fuente": "Prensa Libre",
@@ -753,54 +801,6 @@
       "fecha": "Thu, 03 Sep 2026 14:00:00 +0000",
       "categoria": "Economía",
       "resumen": "El sector guatemalteco de plantas ornamentales, flores y follajes prevé aumentar 7.5% sus exportaciones en el 2027, impulsado por la eliminación de aranceles para el 85% de sus productos en Estados Unidos y por el avance en procesos de admisibilidad fitosanitaria, pero si se logran cumplir condiciones de competitividad en el país"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Localizan y destruyen en Petén una plantación de marihuana con avalúo superior a Q31 millones",
-      "link": "https://www.prensalibre.com/guatemala/justicia/localizan-y-destruyen-en-peten-una-plantacion-de-marihuana-con-avaluo-superior-a-q31-millones-breaking/",
-      "fecha": "Thu, 03 Sep 2026 13:50:25 +0000",
-      "categoria": "Justicia",
-      "resumen": "Autoridades destruyen en Petén más de 63 mil matas de marihuana localizadas en un área montañosa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pronóstico del clima en Guatemala: ambiente cálido y tormentas locales este 3 de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/pronostico-del-clima-en-guatemala-ambiente-calido-y-tormentas-locales-este-3-de-septiembre-breaking/",
-      "fecha": "Thu, 03 Sep 2026 13:01:40 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El pronóstico del clima para este 3 de septiembre en Guatemala es de ambiente soleado y húmedo, aunque no se descartan tormentas locales severas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muere a los 92 años Gloria Steinem, el ícono feminista de EE.UU. que se infiltró en un club de Playboy para denunciar las duras condiciones de sus empleadas",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/muere-a-los-92-anos-gloria-steinem-el-icono-feminista-de-ee-uu-que-se-infiltro-en-un-club-de-playboy-para-denunciar-las-duras-condiciones-de-sus-empleadas/",
-      "fecha": "Thu, 03 Sep 2026 12:52:53 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Esta feminista pionera fue una figura emblemática y líder de los derechos de la mujer en Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Irtra prepara nuevas inversiones: hotel de mil habitaciones, centro de convenciones y parque Mi Finca",
-      "link": "https://www.prensalibre.com/economia/irtra-prepara-nuevas-inversiones-hotel-de-mil-habitaciones-centro-de-convenciones-y-parque-mi-finca/",
-      "fecha": "Thu, 03 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El Instituto de Recreación de los Trabajadores de la Empresa Privada de Guatemala (Irtra) proyecta nuevas inversiones para ampliar su oferta de parques, hoteles y espacios para eventos, con obras que se desarrollarán con recursos propios, informó su presidente, Ricardo Castillo Sinibaldi, en una entrevista con Prensa Libre Radio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Un asesinato literario&#8221;: cómo &#8220;Life of M&#8221; desató un escándalo en Hollywood que involucra a Natalie Portman",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-asesinato-literario-como-life-of-m-desato-un-escandalo-en-hollywood-que-involucra-a-natalie-portman/",
-      "fecha": "Thu, 03 Sep 2026 10:46:59 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La nueva novela de Rachel Cusk narra la historia de una actriz de ficción llamada M, cuyos detalles biográficos guardan un parecido sorprendente con los de la estrella de cine Natalie Portman."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto 2027 de Guatemala alcanza Q192 mil millones y plantea déficit fiscal de 4.4%",
-      "link": "https://www.prensalibre.com/economia/presupuesto-2027-de-guatemala-alcanza-q192-mil-millones-y-plantea-deficit-fiscal-de-4-4/",
-      "fecha": "Thu, 03 Sep 2026 10:30:00 +0000",
-      "categoria": "Economía",
-      "resumen": "En el último año de la actual administración, el Ministerio de Finanzas (Minfin) presentó al Congreso de la República un proyecto de presupuesto de Q192 mil millones, el más alto de la historia, con un déficit propuesto de 4.4%."
     },
     {
       "fuente": "Guatemala.com",
