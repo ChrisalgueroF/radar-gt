@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-04T11:14:08.055Z",
+  "actualizado": "2026-09-04T12:19:49.016Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Panqueques de almendras, arándanos o alquitrán?: tarvu, el extraño ingrediente que los finlandeses no pueden dejar de comer",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/panqueques-de-almendras-arandanos-o-alquitran-tarvu-el-extrano-ingrediente-que-los-finlandeses-no-pueden-dejar-de-comer/",
+      "fecha": "Fri, 04 Sep 2026 11:26:39 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Este subproducto vegetal de aroma ahumado, que antaño se utilizaba para impermeabilizar embarcaciones y tratar infecciones, hoy en día sirve para aromatizar desde aguardientes hasta pan. Pero ¿a qué sabe?"
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Presupuesto 2027: Congreso cuestiona deuda, recursos para Codedes y aumento del déficit fiscal",
@@ -793,14 +801,6 @@
       "fecha": "Thu, 03 Sep 2026 02:28:16 +0000",
       "categoria": "Internacional",
       "resumen": "El asesinato de Jonathan Meléndez, tecladista y fundador de Camilo Séptimo, junto con su esposa embarazada, su hija de tres años y una trabajadora del hogar conmocionó a México."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pandillas buscan nuevos negocios: investigan empresa de internet y cable en zona 18 por posibles vínculos con el Barrio 18",
-      "link": "https://www.prensalibre.com/guatemala/pandillas-buscan-nuevos-negocios-investigan-empresa-de-internet-y-cable-en-zona-18-por-posibles-vinculos-con-el-barrio-18/",
-      "fecha": "Thu, 03 Sep 2026 02:27:04 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Una empresa de internet y cable de la zona 18 es investigada por posibles vínculos con el Barrio 18, mientras las autoridades buscan determinar quién la operaba, si funcionaba legalmente y si era utilizada para generar recursos para la estructura criminal."
     },
     {
       "fuente": "Guatemala.com",
