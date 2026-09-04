@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-04T15:15:08.601Z",
+  "actualizado": "2026-09-04T16:15:45.599Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tormentas locales y ambiente cálido marcarán el clima en Guatemala este fin de semana",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/tormentas-locales-y-ambiente-calido-marcaran-el-clima-en-guatemala-este-fin-de-semana-breaking/",
+      "fecha": "Fri, 04 Sep 2026 15:36:41 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El pronóstico del Insivumeh detalla las condiciones de lluvia y las temperaturas máximas en Guatemala para el 5 y 6 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Steve Irwin, dos décadas después de su muerte: ¿Cómo lo recuerdan sus hijos y cuál es su legado?",
+      "link": "https://www.prensalibre.com/internacional/steve-irwin-dos-decadas-despues-de-su-muerte-como-lo-recuerdan-sus-hijos-y-cual-es-su-legado/",
+      "fecha": "Fri, 04 Sep 2026 15:36:40 +0000",
+      "categoria": "Internacional",
+      "resumen": "Hace dos décadas, Steve Irwin nadaba en aguas poco profundas cuando recibió una herida mortal en el pecho causada por el aguijón de una raya de cola corta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Nunca se había privado a tantos niños del acceso a tantas historias&#8221;: el crecimiento imparable de la prohibición de libros en escuelas públicas de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/nunca-se-habia-privado-a-tantos-ninos-del-acceso-a-tantas-historias-el-crecimiento-imparable-de-la-prohibicion-de-libros-en-escuelas-publicas-de-ee-uu/",
+      "fecha": "Fri, 04 Sep 2026 15:35:32 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las bibliotecas de las escuelas públicas de EE.UU. se han convertido en el campo de una intensa batalla ideológica en torno a qué libros deben estar disponibles para los alumnos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Premios Juventud 2026: Tropicoqueta, de Karol G, gana el premio Álbum del Año, un homenaje a los ritmos latinos y sus raíces",
+      "link": "https://www.prensalibre.com/vida/escenario/premios-juventud-2026-tropicoqueta-de-karol-g-gana-el-premio-album-del-ano-un-homenaje-a-los-ritmos-latinos-y-sus-raices/",
+      "fecha": "Fri, 04 Sep 2026 15:12:56 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante colombiana Karol G triunfa en los Premios Juventud con su álbum Tropicoqueta, un proyecto que, a través de ritmos como el merengue, la bachata y la ranchera, representa la identidad latina."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Real Madrid define su lista para la Champions y deja fuera a un jugador del primer equipo",
@@ -763,44 +795,12 @@
       "resumen": "Un equipo de la BBC se unió a una misión humanitaria de la fuerza de mantenimiento de la paz de la ONU, que afirma que las tropas israelíes están fortificando posiciones y continuando con las demoliciones."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan en La Reformita a dos señalados de asaltar a pasajeros de un bus con una réplica de pistola",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-en-la-reformita-a-dos-senalados-de-asaltar-a-pasajeros-de-un-bus-con-una-replica-de-pistola/",
-      "fecha": "Thu, 03 Sep 2026 04:04:04 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC capturó a dos hombres señalados de asaltar a pasajeros de un bus urbano con una réplica de pistola en La Reformita, zona 12."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Suzette Quintanilla responde a A.B.: cronología del conflicto legal entre los hermanos de Selena",
-      "link": "https://www.prensalibre.com/vida/escenario/suzette-quintanilla-responde-a-a-b-cronologia-del-conflicto-legal-entre-los-hermanos-de-selena/",
-      "fecha": "Thu, 03 Sep 2026 03:51:50 +0000",
-      "categoria": "Escenario",
-      "resumen": "Luego de que A.B. Quintanilla confirmara la demanda contra su hermana Suzette, ella y su madre respondieron a los señalamientos. Así avanza el conflicto en la familia de Selena Quintanilla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Protestas en España por la respuesta del gobierno de Pedro Sánchez a la crisis migratoria en Ceuta",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/protestas-en-espana-por-la-respuesta-del-gobierno-de-pedro-sanchez-a-la-crisis-migratoria-en-ceuta/",
-      "fecha": "Thu, 03 Sep 2026 03:40:21 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los partidos opositores al gobierno de España acusan a Pedro Sánchez de abandonar a los habitantes de Ceuta."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "El traje nacional de Andrea Ortiz en Miss World 2026 rinde homenaje a la comunidad Ch’orti’",
       "link": "https://www.guatemala.com/noticias/sociedad/andrea-ortiz-rindio-homenaje-comunidad-chorti-traje-nacional-miss-mundo-2026.html",
       "fecha": "Thu, 03 Sep 2026 03:38:08 +0000",
       "categoria": "Sociedad",
       "resumen": "El traje nacional de la guatemalteca Andrea Ortiz en Miss World 2026 rinde homenaje a la comunidad Ch’orti’ de Jocotán, Chiquimula. \nThe post El traje nacional de Andrea Ortiz en Miss World 2026 rinde homenaje a la comunidad Ch’orti’ appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Renuncia intendente de la IVE previo a evaluación internacional sobre lavado de dinero",
-      "link": "https://www.prensalibre.com/economia/renuncia-intendente-de-la-ive-previo-a-evaluacion-internacional-sobre-lavado-de-dinero-breaking/",
-      "fecha": "Thu, 03 Sep 2026 03:14:32 +0000",
-      "categoria": "Economía",
-      "resumen": "La JM aceptó la renuncia de Juan Carlos Monrroy Véliz como intendente de la IVE, en momentos en que Guatemala se prepara para una evaluación internacional de su sistema contra el lavado de dinero."
     },
     {
       "fuente": "Guatemala.com",
