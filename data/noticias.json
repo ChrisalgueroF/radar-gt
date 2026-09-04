@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-04T12:19:49.016Z",
+  "actualizado": "2026-09-04T13:14:59.023Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bloqueos en Guatemala en Vivo: manifestaciones en la capital y Santa Rosa este 4 de septiembre por alto precio del combustible",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-en-vivo-manifestaciones-en-la-capital-y-santa-rosa-este-4-de-septiembre-por-alto-precio-del-combustible-breaking/",
+      "fecha": "Fri, 04 Sep 2026 12:42:10 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Guatemala vive jornada de bloqueos este viernes 4 de septiembre en rechazo al alto costo del combustible."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Es una sucesión de milagros&#8221;: el increíble rescate de dos trabajadores tras 9 días atrapados en un túnel por la avalancha en la frontera entre Nepal y Tíbet",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/es-una-sucesion-de-milagros-el-increible-rescate-de-dos-trabajadores-tras-9-dias-atrapados-en-un-tunel-por-la-avalancha-en-la-frontera-entre-nepal-y-tibet/",
+      "fecha": "Fri, 04 Sep 2026 12:25:30 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Dos obreros fueron rescatados con vida de una central hidroeléctrica en Nepal, más de una semana después de que una devastadora inundación arrasara la región del Himalaya."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Panqueques de almendras, arándanos o alquitrán?: tarvu, el extraño ingrediente que los finlandeses no pueden dejar de comer",
@@ -785,22 +801,6 @@
       "fecha": "Thu, 03 Sep 2026 02:32:35 +0000",
       "categoria": "Tecnología",
       "resumen": "Estas son las funciones de Google Pics, la nueva aplicación de Google que permite crear y editar imágenes con inteligencia artificial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inauguran de uno de los hubs más grandes y completos de Centroamérica",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/inauguran-de-uno-de-los-hubs-mas-grandes-y-completos-de-centroamerica/",
-      "fecha": "Thu, 03 Sep 2026 02:32:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Con una inversión estratégica que consolida la presencia de la marca en el país y la posiciona como uno de los centros de operaciones más importantes de Latinoamérica, Honda Motos Guatemala, hace historia con la inauguración de su nuevo hub, Agencia Modra 4, en la zona 4 capitalina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El crimen que golpeó a Camilo Séptimo: quiénes eran Jonathan Meléndez y su esposa Ana Paula",
-      "link": "https://www.prensalibre.com/internacional/el-crimen-que-golpeo-a-camilo-septimo-quienes-eran-jonathan-melendez-y-su-esposa-ana-paula-breaking/",
-      "fecha": "Thu, 03 Sep 2026 02:28:16 +0000",
-      "categoria": "Internacional",
-      "resumen": "El asesinato de Jonathan Meléndez, tecladista y fundador de Camilo Séptimo, junto con su esposa embarazada, su hija de tres años y una trabajadora del hogar conmocionó a México."
     },
     {
       "fuente": "Guatemala.com",
