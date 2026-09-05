@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-05T01:12:43.102Z",
+  "actualizado": "2026-09-05T02:14:22.985Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La genética clínica marca la diferencia en la atención de los pacientes",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-genetica-clinica-marca-la-diferencia-en-la-atencion-de-los-pacientes/",
+      "fecha": "Sat, 05 Sep 2026 01:22:06 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "La medicina de precisión está transformando la forma en que se previenen, diagnostican y tratan enfermedades. Hoy, comprender la genética significa ofrecer soluciones más personalizadas y efectivas para cada paciente. Por lo que, en Guatemala, se realizó ORIGEN III – la tercera edición del Congreso Internacional de Genética Clínica, un evento multidisciplinario que se centró en la genética aplicada en la ginecología, oncología y pediatría."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Agentes de la PNC, guardias del SP y un delegado de la PGN, vinculados a cobros de &#8220;talacha&#8221; en cárcel de Quiché",
@@ -793,14 +801,6 @@
       "fecha": "Thu, 03 Sep 2026 18:51:42 +0000",
       "categoria": "Internacional",
       "resumen": "Las autoridades sanitarias de EE. UU. confirmaron diez muertes por la bacteria \"come carne\" en lo que va del 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIDEO &#124; Compartimos casa con una familia de osos que se baña varios días a la semana en nuestra piscina",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/en-video-compartimos-casa-con-una-familia-de-osos-que-se-bana-varios-dias-a-la-semana-en-nuestra-piscina/",
-      "fecha": "Thu, 03 Sep 2026 18:35:51 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las imágenes que han capturado Brian Gordon y Ricardo Martínez de los visitantes peludos que usan su piscina."
     },
     {
       "fuente": "Guatemala.com",
