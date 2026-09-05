@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-05T13:13:28.803Z",
+  "actualizado": "2026-09-05T14:13:39.111Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo el juicio por asesinato de Lindsay Clancy ha dividido a EE.UU. sobre si es víctima de psicosis posparto o una criminal que mató a sus 3 hijos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-el-juicio-por-asesinato-de-lindsay-clancy-ha-dividido-a-ee-uu-sobre-si-es-victima-de-psicosis-posparto-o-una-criminal-que-mato-a-sus-3-hijos/",
+      "fecha": "Sat, 05 Sep 2026 13:30:01 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Mientras algunos estadounidenses creen que el caso puso en evidencia las problemas de salud mental que enfrentan algunas madres, otros insisten en que estas dificultades no son justificación para cometer delitos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "En busca del soldado Tom: la BBC ayuda a resolver el misterio de un prisionero de guerra soviético que una familia británica escondió durante la Segunda Guerra Mundial",
@@ -793,14 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 01:48:49 +0000",
       "categoria": "Comunitario",
       "resumen": "El Mineduc estableció nuevas medidas de seguridad para los estudiantes que participen en las antorchas cívicas por la Independencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asaltos en el tráfico: fallas de inteligencia e impunidad frenan la respuesta preventiva de la PNC, según analistas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/asaltos-en-el-trafico-fallas-de-inteligencia-e-impunidad-frenan-la-respuesta-preventiva-de-la-pnc-segun-analistas/",
-      "fecha": "Fri, 04 Sep 2026 01:30:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "A pesar de 30 capturas en operativos viales, la PNC enfrenta el desplazamiento de asaltantes hacia el Periférico; mientras la policía apuesta por drones y nuevos agentes, analistas advierten que sin inteligencia en tiempo real la respuesta seguirá siendo reactiva."
     },
     {
       "fuente": "Guatemala.com",
