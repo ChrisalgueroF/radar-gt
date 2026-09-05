@@ -1,7 +1,55 @@
 {
-  "actualizado": "2026-09-05T02:14:22.985Z",
+  "actualizado": "2026-09-05T03:14:30.482Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Torneo Apertura: Antigua GFC consigue trabajada victoria sobre Aurora FC",
+      "link": "https://www.prensalibre.com/deportes/liga-nacional/torneo-apertura-antigua-gfc-consigue-trabajada-victoria-sobre-aurora-fc-breaking/",
+      "fecha": "Sat, 05 Sep 2026 03:06:11 +0000",
+      "categoria": "Liga Nacional",
+      "resumen": "El conjunto colonial tuvo que esperar hasta los últimos minutos para asegurar una victoria que lo mantiene entre los protagonistas del campeonato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Escóndete y no salgas”: la frase que Aleyda Romero habría dicho al hijo del músico de Camilo Séptimo antes de morir",
+      "link": "https://www.prensalibre.com/internacional/escondete-y-no-salgas-la-frase-que-aleyda-romero-habria-dicho-al-hijo-del-musico-de-camilo-septimo-antes-de-morir/",
+      "fecha": "Sat, 05 Sep 2026 02:55:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "Aleyda Romero cuidaba a los hijos de Jonathan Meléndez. Antes de morir en el ataque contra la familia, habría dado una instrucción al niño de 6 años que pudo ayudarlo a sobrevivir."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Pierde sus prestaciones laborales si lo despiden durante el período de prueba?",
+      "link": "https://www.prensalibre.com/economia/pierde-sus-prestaciones-laborales-si-lo-despiden-durante-el-periodo-de-prueba/",
+      "fecha": "Sat, 05 Sep 2026 02:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Terminar un contrato durante los meses de prueba no elimina automáticamente el derecho a prestaciones proporcionales, explica el Mintrab."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué le pasó a Rick Harrison? Estrella de “El precio de la historia” fue operada de emergencia",
+      "link": "https://www.prensalibre.com/vida/escenario/que-le-paso-a-rick-harrison-estrella-de-el-precio-de-la-historia-fue-operada-de-emergencia/",
+      "fecha": "Sat, 05 Sep 2026 02:28:04 +0000",
+      "categoria": "Escenario",
+      "resumen": "El protagonista de “El precio de la historia” permanece hospitalizado después de someterse a una cirugía de emergencia. Esto se sabe sobre su estado de salud."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fotógrafo guatemalteco destaca en el Wildlife Photographer of the Year 2026",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/fotografo-guatemalteco-destaca-en-el-wildlife-photographer-of-the-year-2026/",
+      "fecha": "Sat, 05 Sep 2026 02:03:46 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Pietro Rojas obtiene un importante reconocimiento internacional al ser seleccionado entre los finalistas de la 62ª edición del certamen Wildlife Photographer of the Year. Su obra, titulada The Show Goes On (El espectáculo continúa), fue galardonada con Mención Honorífica en la categoría de Fotoperiodismo por el Museo de Historia Natural de Londres, destacando entre un récord histórico de 65,403 participantes de todo el mundo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Farath Coronel: qué se sabe de la muerte del “Brujo Mexicano” y la versión sobre un supuesto asesinato",
+      "link": "https://www.prensalibre.com/vida/escenario/farath-coronel-que-se-sabe-de-la-muerte-del-brujo-mexicano-y-la-version-sobre-un-supuesto-asesinato/",
+      "fecha": "Sat, 05 Sep 2026 01:55:35 +0000",
+      "categoria": "Escenario",
+      "resumen": "El vidente mexicano Farath Coronel fue hallado sin vida en su vivienda. Esto se sabe sobre su muerte y la versión de un supuesto crimen."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La genética clínica marca la diferencia en la atención de los pacientes",
@@ -753,54 +801,6 @@
       "fecha": "Thu, 03 Sep 2026 20:35:57 +0000",
       "categoria": "Escenario",
       "resumen": "Morfeo GT lleva a escena “Cumbia Pa Ti”, una obra de teatro que combina música, baile y comedia. Conozca la historia de María y su travesía en la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Padre e hijo resultan heridos en ataque armado en la zona 1 y cierres viales complican el tránsito",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/padre-e-hijo-resultan-heridos-en-ataque-armado-en-la-zona-1-y-cierres-viales-complican-el-transito-breaking/",
-      "fecha": "Thu, 03 Sep 2026 20:21:40 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un ataque armado contra un padre y su hijo, quienes viajaban en un automóvil, complicó el tránsito en el centro de la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“El peor césped”: Neymar critica las condiciones de la cancha tras salir lesionado con Santos",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-peor-cesped-neymar-critica-las-condiciones-de-la-cancha-tras-salir-lesionado-con-santos/",
-      "fecha": "Thu, 03 Sep 2026 19:55:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Neymar salió lesionado en el empate sin goles entre Santos y Palmeiras y aseguró que las malas condiciones de la cancha de Vila Belmiro influyeron en los problemas físicos sufridos durante el partido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un video y un sobreviviente: la cronología del crimen contra Jonathan Meléndez, tecladista de Camilo Séptimo y su familia",
-      "link": "https://www.prensalibre.com/vida/escenario/un-video-y-un-sobreviviente-la-cronologia-del-crimen-contra-jonathan-melendez-tecladista-de-camilo-septimo-y-su-familia/",
-      "fecha": "Thu, 03 Sep 2026 19:39:16 +0000",
-      "categoria": "Escenario",
-      "resumen": "Un video y una advertencia son algunos detalles que rodean la muerte del tecladista de Camilo Séptimo, Jonathan Meléndez y de su familia en México."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fallo a favor de Bad Bunny desestima gran parte de demanda que involucra más de dos mil canciones de reguetón",
-      "link": "https://www.prensalibre.com/vida/escenario/fallo-a-favor-de-bad-bunny-desestima-gran-parte-de-demanda-que-involucra-mas-de-dos-mil-canciones-de-regueton/",
-      "fecha": "Thu, 03 Sep 2026 19:28:58 +0000",
-      "categoria": "Escenario",
-      "resumen": "Una demanda por derechos de autor relacionada con una estructura rítmica asociada al reguetón dio un giro tras un fallo a favor de Bad Bunny. El proceso incluye canciones de Karol G, Daddy Yankee y otros artistas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hackers secuestran información del Incán, exigen dinero y afectan radioterapias de 194 pacientes con cáncer",
-      "link": "https://www.prensalibre.com/ciudades/guatemala-ciudades/hackers-secuestran-informacion-del-incan-exigen-dinero-y-afectan-radioterapias-de-194-pacientes-con-cancer/",
-      "fecha": "Thu, 03 Sep 2026 19:27:49 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Ciberdelincuentes bloquearon el sistema del Incán para planificar tratamientos de radioterapia. Los atacantes exigen dinero por la información, mientras el instituto activa un plan para atender a los pacientes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Suben a diez las muertes por la bacteria &#8220;come carne&#8221; en EE. UU.: qué estados reportan más casos",
-      "link": "https://www.prensalibre.com/internacional/suben-a-diez-las-muertes-por-la-bacteria-come-carne-en-ee-uu-que-estados-reportan-mas-casos/",
-      "fecha": "Thu, 03 Sep 2026 18:51:42 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las autoridades sanitarias de EE. UU. confirmaron diez muertes por la bacteria \"come carne\" en lo que va del 2026."
     },
     {
       "fuente": "Guatemala.com",
