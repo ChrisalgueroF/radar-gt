@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-05T17:12:45.867Z",
+  "actualizado": "2026-09-05T18:15:58.257Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Así fue la participación de Andrea Ortiz en Miss World 2026",
+      "link": "https://www.guatemala.com/noticias/sociedad/andrea-ortiz-miss-world-2026-asi-fue-participacion-guatemalteca.html",
+      "fecha": "Sat, 05 Sep 2026 18:02:31 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Andrea Ortiz llevó la belleza, cultura y talento de Guatemala al escenario de Miss World 2026. ¡Conoce los momentos destacados de su participación!\nThe post Así fue la participación de Andrea Ortiz en Miss World 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Messi y Cristiano Ronaldo podrían jugar juntos en la despedida de Carlos Tevez",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/messi-y-cristiano-ronaldo-podrian-jugar-juntos-en-la-despedida-de-carlos-tevez-breaking/",
+      "fecha": "Sat, 05 Sep 2026 17:48:21 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Carlos Tevez prepara su partido de despedida en el estadio de Boca Juniors para diciembre y ha expresado su deseo de reunir a Lionel Messi y a Cristiano Ronaldo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una doble explosión en cuartel militar de Bolivia deja al menos dos muertos y 81 heridos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-doble-explosion-en-cuartel-militar-de-bolivia-deja-al-menos-dos-muertos-y-81-heridos/",
+      "fecha": "Sat, 05 Sep 2026 17:10:46 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las explosiones en un cuartel militar de Bolivia dejan dos muertos, 81 heridos y siete desaparecidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tadej Pogačar no volverá a competir este año tras su caída en la Vuelta a España",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/tadej-pogacar-no-volvera-a-competir-este-ano-tras-su-caida-en-la-vuelta-a-espana-breaking/",
+      "fecha": "Sat, 05 Sep 2026 16:58:00 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "El ciclista esloveno fue operado con éxito de la clavícula y su equipo, UAE Team Emirates, confirmó que no volverá a competir este año."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Estados Unidos ataca tres petroleros iraníes tras afirmar que sus buques de guerra habían sido objeto de un ataque",
@@ -9,6 +41,14 @@
       "fecha": "Sat, 05 Sep 2026 16:51:28 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Según el Comando Central de Estados Unidos, los ataques se produjeron después de que Irán lanzara misiles balísticos contra dos de sus buques de guerra."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Luka Modric seguirá con Croacia y jugará la Liga de Naciones a punto de cumplir 41 años",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/luka-modric-seguira-con-croacia-y-jugara-la-liga-de-naciones-a-punto-de-cumplir-41-anos-breaking/",
+      "fecha": "Sat, 05 Sep 2026 16:08:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "A pocos días de cumplir 41 años, el mediocampista croata despejó las dudas sobre su futuro internacional al ponerse nuevamente a disposición de su selección."
     },
     {
       "fuente": "Prensa Libre",
@@ -771,38 +811,6 @@
       "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Se avecina hambruna",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/se-avecina-hambruna/",
-      "fecha": "Fri, 04 Sep 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Se prevén dificultades de sobrevivencia para gran parte de la población agrícola."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Milei anuncia sanciones a petroleras en las Malvinas/Falklands y la construcción de una base naval en Tierra del Fuego",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/milei-anuncia-sanciones-a-petroleras-en-las-malvinas-falklands-y-la-construccion-de-una-base-naval-en-tierra-del-fuego/",
-      "fecha": "Fri, 04 Sep 2026 05:31:19 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Convencido de que Trump podría variar la posición de EE.UU. respecto a las islas, el mandatario argentino lanza un discurso reivindicativo sobre el archipiélago."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Me dijeron que jamás lo volvería a ver&#8221;: las más de 250.000 solteras que fueron forzadas a dar sus hijos en adopción a mediados del siglo pasado en Reino Unido",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/me-dijeron-que-jamas-lo-volveria-a-ver-las-mas-de-250-000-solteras-que-fueron-forzadas-a-dar-sus-hijos-en-adopcion-a-mediados-del-siglo-pasado-en-reino-unido/",
-      "fecha": "Fri, 04 Sep 2026 04:22:01 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Marion McMillan fue una de las aproximadamente 250.000 mujeres que se vieron obligadas a dar a sus bebés en adopción entre 1949 y 1976."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Adria Arjona brilla”: hija de Ricardo Arjona recibe elogios por su actuación en &#8220;Onslaught&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/adria-arjona-brilla-hija-de-ricardo-arjona-recibe-elogios-por-su-actuacion-en-onslaught/",
-      "fecha": "Fri, 04 Sep 2026 03:40:39 +0000",
-      "categoria": "Escenario",
-      "resumen": "Adria Arjona protagoniza “Onslaught”, el nuevo thriller en el que interpreta a una veterana del Ejército y por cuya actuación ya ha recibido elogios. Esto dice la crítica."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "El traje nacional de Andrea Ortiz en Miss World 2026 rinde homenaje a la comunidad Ch’orti’",
       "link": "https://www.guatemala.com/noticias/sociedad/andrea-ortiz-rindio-homenaje-comunidad-chorti-traje-nacional-miss-mundo-2026.html",
@@ -865,14 +873,6 @@
       "fecha": "Mon, 31 Aug 2026 18:24:18 +0000",
       "categoria": "Tecnología",
       "resumen": "El Gran Jaguar es el primer nanochip diseñado completamente en Guatemala por estudiantes, docentes e investigadores de UVG.\nThe post El Gran Jaguar es el primer nanochip diseñado completamente en Guatemala por estudiantes, docentes e investigadores de UVG appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Así puedes votar por el pepián guatemalteco en el Mundial de Comidas de Ibai",
-      "link": "https://www.guatemala.com/noticias/sociedad/guatemala-vencio-mexico-mundial-de-comidas-ibai-avanza-cuartos-final.html",
-      "fecha": "Mon, 31 Aug 2026 18:22:00 +0000",
-      "categoria": "Sociedad",
-      "resumen": "El pepián guatemalteco avanza a cuartos de final en el Mundial de Comidas de Ibai luego de vencer a los tacos mexicanos. ¡Conoce al nuevo rival!\nThe post Así puedes votar por el pepián guatemalteco en el Mundial de Comidas de Ibai appeared first on Guatemala.com."
     }
   ]
 }
