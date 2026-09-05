@@ -1,7 +1,111 @@
 {
-  "actualizado": "2026-09-05T05:12:57.675Z",
+  "actualizado": "2026-09-05T06:18:03.272Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estas son las 8 escuelas normales de Guatemala que podrían impartir magisterio en el 2027",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/estas-son-las-8-escuelas-normales-de-guatemala-que-podrian-impartir-magisterio-en-el-2027/",
+      "fecha": "Sat, 05 Sep 2026 06:16:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Ministerio de Educación tiene una lista de 40 escuelas normales para implementar la carrera de magisterio en el 2027; ocho estarían en el área metropolitana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por las nubes",
+      "link": "https://www.prensalibre.com/opinion/caricatura/por-las-nubes/",
+      "fecha": "Sat, 05 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuántos puntos se le da a la honorabilidad?",
+      "link": "https://www.prensalibre.com/opinion/editorial/cuantos-puntos-se-le-da-a-la-honorabilidad/",
+      "fecha": "Sat, 05 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "El problema de fondo es que para integrar la postuladora priman requisitos formales, pero no se sabe —aunque sí se sospecha— cómo y por qué fueron designados ciertos postuladores de dudosos nexos y actitudes que lo reflejan."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027 refuerza fondos para transporte, puertos, infraestructura y Codedes",
+      "link": "https://www.prensalibre.com/guatemala/politica/presupuesto-2027-refuerza-fondos-para-transporte-puertos-infraestructura-y-codedes/",
+      "fecha": "Sat, 05 Sep 2026 06:05:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El proyecto de presupuesto para el 2027, por  más de Q192 mil millones, prioriza la inversión en infraestructura y contempla asignaciones extraordinarias para la Empresa Portuaria Quetzal, la Agencia Nacional de Infraestructura y los Codedes, además de recursos para modernizar los sistemas de transporte."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Opinión: El camino de los demócratas hacia la mayoría en la Cámara de Representantes es más estrecho de lo que parece",
+      "link": "https://www.prensalibre.com/internacional/por-que-el-camino-de-los-democratas-para-controlar-la-camara-de-representantes-es-mas-dificil-de-lo-que-parece/",
+      "fecha": "Sat, 05 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Aunque las encuestas favorecen a los demócratas, la redistribución de distritos y la fortaleza republicana en escaños clave complican su camino hacia la mayoría."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuando el autoritarismo clerical criminaliza y no salva",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/cuando-el-autoritarismo-clerical-criminaliza-y-no-salva/",
+      "fecha": "Sat, 05 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Hay una diferencia abismal entre la Iglesia que corrige para salvar al hermano y aquella que corrige para criminalizarlo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Patricia Orantes deja un Marn fortalecido y Edwin Castellanos recibe el desafío de hacerlo crecer",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/patricia-orantes-deja-un-marn-fortalecido-y-edwin-castellanos/",
+      "fecha": "Sat, 05 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Guatemala será la sede en enero de una reunión de expertos sobre cambio climático viniendo de todas partes del mundo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Postuladora abre 14 horas para que ciudadanía cuestione a los aspirantes a la CGC",
+      "link": "https://www.prensalibre.com/guatemala/politica/postuladora-abre-14-horas-para-que-ciudadania-cuestione-a-los-aspirantes-a-la-cgc/",
+      "fecha": "Sat, 05 Sep 2026 06:02:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La comisión solo va a recibir señalamientos contra los aspirantes mañana y el lunes, y las objeciones serán discutidas en la postuladora el 8 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Barro, madera y maíz",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/barro-madera-y-maiz/",
+      "fecha": "Sat, 05 Sep 2026 06:01:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "Toda vida termina pareciéndose al material con que se construye."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Que no sepa tu izquierda lo que hace tu derecha",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/que-no-sepa-tu-izquierda-lo-que-hace-tu-derecha/",
+      "fecha": "Sat, 05 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Colijo una rústica trama para mantener el control del Colegio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy sábado 5 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-5-de-septiembre-de-2026/",
+      "fecha": "Sat, 05 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El arte y el olvido de sus padres",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/el-arte-y-el-olvido-de-sus-padres/",
+      "fecha": "Sat, 05 Sep 2026 06:00:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "La ciencia puede explicar la composición química de una rosa, pero no puede sustituir la experiencia de regalarla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La Selección Nacional de Robótica 2026 fue juramentada",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-seleccion-nacional-de-robotica-2026-fue-juramentada/",
+      "fecha": "Sat, 05 Sep 2026 05:56:58 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Jóvenes guatemaltecos se prepara para llevar su talento, creatividad e innovación, a dos competencias internacionales de robótica, el FIRST Global Challenge, que se desarrollará del 7 al 10 de octubre en Corea del Sur; y el Robomatrix en México, que tendrá lugar en Xalapa, Veracruz; y León, Guanajuato, entre noviembre y diciembre."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Totalitarismo total&#8221;: cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad)",
@@ -697,110 +801,6 @@
       "fecha": "Thu, 03 Sep 2026 23:56:22 +0000",
       "categoria": "Escenario",
       "resumen": "Robert Pattinson volverá a interpretar a Batman en la secuela y asegura que esta nueva producción le exige enfrentar mayores desafíos físicos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvias dejan más de 95 mil afectados y daños en carreteras y viviendas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-dejan-mas-de-95-mil-afectados-y-danos-en-carreteras-y-viviendas/",
-      "fecha": "Thu, 03 Sep 2026 23:47:24 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Las lluvias continúan causando emergencias en Guatemala, con miles de personas afectadas, daños en viviendas, carreteras, puentes y centros educativos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tráiler vuelca, derriba un poste y bloquea ruta antigua de Palín a Escuintla",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/trailer-vuelca-derriba-un-poste-y-bloquea-ruta-antigua-de-palin-a-escuintla/",
-      "fecha": "Thu, 03 Sep 2026 23:42:17 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un tráiler volcó en  la ruta antigua de Palín a Escuintla, con saldo de una persona fallecida y cuatro atendidas en el lugar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un préstamo y una discusión: las hipótesis de la muerte del tecladista de Camilo Séptimo y su familia",
-      "link": "https://www.prensalibre.com/vida/escenario/un-prestamo-y-una-discusion-las-hipotesis-de-la-muerte-del-tecladista-de-camilo-septimo-y-su-familia/",
-      "fecha": "Thu, 03 Sep 2026 23:34:51 +0000",
-      "categoria": "Escenario",
-      "resumen": "Mientras las autoridades investigan la muerte del tecladista de la banda Camilo Séptimo y de su familia, han empezado a elaborarse varias hipótesis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MP busca retirar inmunidad a Juan Manuel Asturias por caso de licencia municipal en Antigua Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mp-busca-retirar-inmunidad-a-juan-manuel-asturias-por-caso-de-licencia-municipal-en-antigua-guatemala-breaking/",
-      "fecha": "Thu, 03 Sep 2026 23:07:03 +0000",
-      "categoria": "Justicia",
-      "resumen": "El MP busca que se retire la inmunidad al alcalde de Antigua Guatemala, Juan Manuel Asturias Sueiras, por posibles irregularidades relacionadas con una licencia municipal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemaltecos ligados al narcotráfico testificaron en juicio contra exasesor de Erik Súñiga, “el Pocho”, en EE. UU.",
-      "link": "https://www.prensalibre.com/guatemala/justicia/guatemaltecos-ligados-al-narcotrafico-testificaron-en-juicio-contra-exasesor-de-erik-suniga-el-pocho-en-ee-uu/",
-      "fecha": "Thu, 03 Sep 2026 23:02:24 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El juicio contra Walter Quiroa, exasesor en la Municipalidad de Ayutla, San Marcos, tuvo como testigos a un exalcalde y otros guatemaltecos ligados a los Pochos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Universitarios indocumentados serán vetados? la norma aprobada para las universidades de Florida",
-      "link": "https://www.prensalibre.com/internacional/universitarios-indocumentados-seran-vetados-la-norma-aprobada-para-las-universidades-de-florida/",
-      "fecha": "Thu, 03 Sep 2026 22:15:16 +0000",
-      "categoria": "Internacional",
-      "resumen": "La entidad que dirige las universidad públicas de Florida aprobó una normativa que prohíbe a lo estudiantes indocumentados matricularse para el 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comisionados advierten de “mediocridad” en la elección de contralor al acordar lista de candidatos entre los 15 mejor calificados",
-      "link": "https://www.prensalibre.com/guatemala/politica/comisionados-advierten-de-mediocridad-en-la-eleccion-de-contralor-al-acordar-lista-de-candidatos-entre-los-15-mejor-calificados/",
-      "fecha": "Thu, 03 Sep 2026 22:13:51 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La postuladora calificará a los 40 aspirantes en una sola sesión el 17 de septiembre y traslada la lista final de seis candidatos al 20 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Un gobierno de transición como el de Delcy Rodríguez no debería tomar decisiones tan importantes como entregar el petróleo a EE.UU.&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-gobierno-de-transicion-como-el-de-delcy-rodriguez-no-deberia-tomar-decisiones-tan-importantes-como-entregar-el-petroleo-a-ee-uu/",
-      "fecha": "Thu, 03 Sep 2026 22:01:26 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El exhombre fuerte de Chávez en el sector petrolero critica el acuerdo alcanzado por Delcy Rodríguez con Estados Unidos y cuestiona la cesión de una parte significativa de las reservas venezolanas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Festival de Marimba en Guatemala 2026: fechas, conciertos, talleres y clases magistrales",
-      "link": "https://www.prensalibre.com/vida/escenario/festival-de-marimba-en-guatemala-2026-fechas-conciertos-talleres-y-clases-magistrales/",
-      "fecha": "Thu, 03 Sep 2026 21:48:03 +0000",
-      "categoria": "Escenario",
-      "resumen": "El primer Guatemala Marimba Fest ofrecerá siete días de conciertos gratuitos, actividades culturales y académicas con invitados internacionales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comunidades alertan por muerte de especies y deterioro del mangle en Manchón Guamuchal",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/comunidades-alertan-por-muerte-de-especies-y-deterioro-del-mangle-en-manchon-guamuchal/",
-      "fecha": "Thu, 03 Sep 2026 21:41:45 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Pobladores de El Chico y Champerico alertan sobre la muerte de especies acuáticas, el deterioro del mangle y las pérdidas económicas asociadas con la falta de circulación de agua en el Manchón Guamuchal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fallece la actriz Carla Jeffery a los 33 años, conocida por su participación en la saga Zombies de Disney",
-      "link": "https://www.prensalibre.com/vida/escenario/fallece-la-actriz-carla-jeffery-a-los-33-anos-conocida-por-su-participacion-en-la-saga-zombies-de-disney/",
-      "fecha": "Thu, 03 Sep 2026 21:37:27 +0000",
-      "categoria": "Escenario",
-      "resumen": "Carla Jeffery destacó en la actuación por su participación en la saga Zombies, de Disney Channel, donde interpretó a la animadora Bree. Esto se conoce sobre su muerte y trayectoria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Suchitepéquez toma una decisión con Manuel Castañeda tras conseguir su primera victoria del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/suchitepequez-toma-una-decision-con-manuel-castaneda-tras-conseguir-su-primera-victoria-del-apertura-2026/",
-      "fecha": "Thu, 03 Sep 2026 21:22:18 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Después de obtener su primer triunfo en el Torneo Apertura 2026, Suchitepéquez decidió apostar por la continuidad y confirmó a Manuel Castañeda como entrenador titular del equipo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“El avión terrestre”: El vehículo modificado por guatemaltecos que circula por todo San Marcos",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/el-avion-terrestre-el-vehiculo-modificado-por-guatemaltecos-que-circula-por-todo-san-marcos/",
-      "fecha": "Thu, 03 Sep 2026 21:01:42 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El avión terrestre que recorre las carreteras de San Marcos ha cautivado a miles de personas, debido a que el vehículo es una obra del ingenio guatemalteco."
     },
     {
       "fuente": "Guatemala.com",
