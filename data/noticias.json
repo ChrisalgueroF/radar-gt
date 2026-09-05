@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-05T18:15:58.257Z",
+  "actualizado": "2026-09-05T19:12:22.534Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Me creí todo lo que me dijeron&#8221;: la mujer que alquiló un apartamento a los terroristas del 11-S habla en exclusiva con la BBC",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/me-crei-todo-lo-que-me-dijeron-la-mujer-que-alquilo-un-apartamento-a-los-terroristas-del-11-s-habla-en-exclusiva-con-la-bbc/",
+      "fecha": "Sat, 05 Sep 2026 19:03:42 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Una mujer que alquiló una vivienda a dos miembros de al Qaeda sin saber que irían a participar en los ataque del 11-S, habla públicamente por primera vez con la BBC."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clara Obligado: “Yo me siento parte de un país en movimiento”",
+      "link": "https://www.prensalibre.com/vida/clara-obligado-yo-me-siento-parte-de-un-pais-en-movimiento/",
+      "fecha": "Sat, 05 Sep 2026 18:30:00 +0000",
+      "categoria": "Vida",
+      "resumen": "La autora argentina, que vive en España desde hace 50 años, se reencuentra con Guatemala y, además de ofrecer un taller de escritura, trae bajo el brazo su nuevo libro, Exilio."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "Así fue la participación de Andrea Ortiz en Miss World 2026",
@@ -9,6 +25,14 @@
       "fecha": "Sat, 05 Sep 2026 18:02:31 +0000",
       "categoria": "Sociedad",
       "resumen": "Andrea Ortiz llevó la belleza, cultura y talento de Guatemala al escenario de Miss World 2026. ¡Conoce los momentos destacados de su participación!\nThe post Así fue la participación de Andrea Ortiz en Miss World 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a un hombre por exhibir armas durante el desfile hípico en Jalapa",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/capturan-a-un-hombre-por-exhibir-armas-durante-el-desfile-hipico-en-jalapa/",
+      "fecha": "Sat, 05 Sep 2026 17:52:15 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La PNC lo detuvo por llevar una carabina sin licencia y una pistola visible durante un desfile hípico en Jalapa."
     },
     {
       "fuente": "Prensa Libre",
@@ -20,11 +44,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Volcano Innovation Summit 2026 congrega a emprendedores e inversionistas en Antigua Guatemala",
+      "link": "https://www.prensalibre.com/economia/volcano-innovation-summit-2026-congrega-a-emprendedores-e-inversionistas-en-antigua-guatemala/",
+      "fecha": "Sat, 05 Sep 2026 17:41:36 +0000",
+      "categoria": "Economía",
+      "resumen": "La séptima edición del Volcano Innovation Summit se realiza desde este sábado 5 hasta el lunes 7 de septiembre en Antigua Guatemala, con conferencias de expositores nacionales e internacionales, redes de negocios, competencias, programas de aceleración y acompañamiento a emprendedores."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Una doble explosión en cuartel militar de Bolivia deja al menos dos muertos y 81 heridos",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-doble-explosion-en-cuartel-militar-de-bolivia-deja-al-menos-dos-muertos-y-81-heridos/",
       "fecha": "Sat, 05 Sep 2026 17:10:46 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Las explosiones en un cuartel militar de Bolivia dejan dos muertos, 81 heridos y siete desaparecidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC y Ejército efectúan operativos de seguridad en El Gallito, Ciudad Quetzal y Cenma",
+      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-y-ejercito-efectuan-operativos-de-seguridad-en-el-gallito-ciudad-quetzal-y-cenma/",
+      "fecha": "Sat, 05 Sep 2026 17:02:28 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Agentes de la Policía Nacional Civil (PNC) y elementos del Ejército de Guatemala realizan este sábado 9 de septiembre operativos de seguridad en el barrio El Gallito, zona 3 de la capital,  en Ciudad Quetzal y el Cenma donde verifican personas y vehículos como parte de las acciones del Plan Centinela Metropolitano."
     },
     {
       "fuente": "Prensa Libre",
@@ -245,9 +285,9 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Torneo Apertura: Antigua GFC consigue trabajada victoria sobre Aurora FC",
-      "link": "https://www.prensalibre.com/deportes/liga-nacional/torneo-apertura-antigua-gfc-consigue-trabajada-victoria-sobre-aurora-fc-breaking/",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-antigua-gfc-consigue-trabajada-victoria-sobre-aurora-fc-breaking/",
       "fecha": "Sat, 05 Sep 2026 03:06:11 +0000",
-      "categoria": "Liga Nacional",
+      "categoria": "Fútbol Nacional",
       "resumen": "El conjunto colonial tuvo que esperar hasta los últimos minutos para asegurar una victoria que lo mantiene entre los protagonistas del campeonato."
     },
     {
@@ -769,46 +809,6 @@
       "fecha": "Fri, 04 Sep 2026 06:05:00 +0000",
       "categoria": "Internacional",
       "resumen": "El Servicio Secreto impulsa nuevas barreras e instalaciones alrededor de la Casa Blanca, proyectos que administraciones anteriores debatieron sin llegar a aprobar por completo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Para gobernar bien, se necesita un equipo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/para-gobernar-bien-se-necesita-un-equipo/",
-      "fecha": "Fri, 04 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Una victoria cívica sería un sufragio a favor de alguien a quien se tenga algún mínimo nivel de seguridad y de confianza."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Alemania, blanco de la guerra híbrida rusa",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/alemania-blanco-de-la-guerra-hibrida-rusa/",
-      "fecha": "Fri, 04 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La guerra híbrida combina sabotajes, ciberataques, desinformación y operaciones encubiertas para debilitar al adversario sin llegar a una guerra convencional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatecompras, bajo censura",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/guatecompras-bajo-censura/",
-      "fecha": "Fri, 04 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Lejos de facilitar la transparencia, el gobierno de Arévalo obstaculiza la fiscalización."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿El presupuesto del año de Hidalgo?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-presupuesto-del-ano-de-hidalgo/",
-      "fecha": "Fri, 04 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Obras nuevas, repartidas desde la Presidencia, en año de elecciones. ¿Suena sospechoso?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy viernes 4 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-viernes-4-de-septiembre-de-2026/",
-      "fecha": "Fri, 04 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
     },
     {
       "fuente": "Guatemala.com",
