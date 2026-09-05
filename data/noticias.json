@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T21:13:19.512Z",
+  "actualizado": "2026-09-05T22:13:39.902Z",
   "total": 109,
   "noticias": [
     {
@@ -9,6 +9,14 @@
       "fecha": "Sat, 05 Sep 2026 20:00:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Los cremas visitan el estadio Santo Domingo de Guzmán este sábado a las 15 horas con nuevo técnico tras la salida de Marco Antonio Figueroa y con la urgencia de sumar puntos para salir de la zona baja de la tabla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miss Mundo 2026: la dominicana Joheirry Mola gana la corona en Vietnam",
+      "link": "https://www.prensalibre.com/vida/escenario/miss-mundo-2026-la-dominicana-joheirry-mola-gana-la-corona-en-vietnam/",
+      "fecha": "Sat, 05 Sep 2026 19:55:09 +0000",
+      "categoria": "Escenario",
+      "resumen": "Después de más de 40 años, la corona de Miss Mundo regresa a República Dominicana, tras el triunfo de Joheirry Mola como nueva soberana del certamen."
     },
     {
       "fuente": "Prensa Libre",
@@ -801,14 +809,6 @@
       "fecha": "Fri, 04 Sep 2026 11:00:00 +0000",
       "categoria": "Economía",
       "resumen": "Los primeros cuestionamientos al proyecto de presupuesto de ingresos y egresos que presentó el Ejecutivo por Q192 mil millones para el ejercicio fiscal del 2027 comenzaron a surgir. Es el monto presupuestario más alto de los últimos 32 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Maga tramita Q1 mil 300 millones más para alimentos: ¿cómo prevé ejecutar los fondos?",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/maga-tramita-q1-mil-300-millones-mas-para-alimentos-como-preve-ejecutar-los-fondos/",
-      "fecha": "Fri, 04 Sep 2026 06:20:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Durante una citación, el Maga informó que tiene 340 mil 500 raciones de alimentos en bodega para atender a familias en inseguridad alimentaria."
     },
     {
       "fuente": "Guatemala.com",
