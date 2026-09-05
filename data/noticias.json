@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-05T11:12:51.394Z",
+  "actualizado": "2026-09-05T12:17:43.585Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salario mínimo 2027: trabajadores y empresarios presentan propuestas, y Gobierno se abstiene",
+      "link": "https://www.prensalibre.com/economia/salario-minimo-2027-trabajadores-y-empresarios-presentan-propuestas-y-gobierno-se-abstiene/",
+      "fecha": "Sat, 05 Sep 2026 11:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El Gobierno, mediante los inspectores de Trabajo, se abstiene de presentar propuesta con cifras de aumento, mientras los sectores de trabajadores y de empresarios hacen sus planteamientos para la fijación del salario mínimo del 2027."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Las preguntas que me hice tras estar a punto de morir sin darme cuenta un sábado cualquiera en mi propia casa",
@@ -793,14 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 01:26:09 +0000",
       "categoria": "Comunitario",
       "resumen": "Gremiales del transporte extraurbano anunciaron una nueva manifestación en rechazo al alto costo de los combustibles y la inseguridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mardoqueo Vásquez: “Estamos contentos con este resultado” tras ganar la segunda etapa de la Vuelta a Honduras",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/mardoqueo-vasquez-estamos-contentos-con-este-resultado-tras-ganar-la-segunda-etapa-de-la-vuelta-a-honduras-breaking/",
-      "fecha": "Fri, 04 Sep 2026 01:12:38 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Hino One La Red mantiene el paso ganador en Honduras, con Mardoqueo Vásquez como nuevo líder general tras conquistar la segunda etapa y confirmar el dominio guatemalteco en la competencia."
     },
     {
       "fuente": "Guatemala.com",
