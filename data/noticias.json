@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-05T09:13:57.176Z",
+  "actualizado": "2026-09-05T10:13:43.653Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué es la proyección de Mercator y por qué los países de África lucharon para que se deje de usar para elaborar los mapamundis",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-es-la-proyeccion-de-mercator-y-por-que-los-paises-de-africa-lucharon-para-que-se-deje-de-usar-para-elaborar-los-mapamundis/",
+      "fecha": "Sat, 05 Sep 2026 10:00:09 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La proyección de Mercator muestra a Europa y Norteamérica desproporcionadamente grandes con respecto a África. La Asamblea General de la ONU votó a favor de sustituirla."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Estas son las 8 escuelas normales de Guatemala que podrían impartir magisterio en el 2027",
@@ -793,14 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 00:20:09 +0000",
       "categoria": "Internacional",
       "resumen": "El Gobierno guatemalteco expresó preocupación por las reformas aprobadas en primera lectura en Nicaragua, que restringen la participación política y amplían a siete años el mandato presidencial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Es más difícil de lo que solía ser”: Robert Pattinson reconoce el desafío de las nuevas escenas de pelea en “The Batman 2”",
-      "link": "https://www.prensalibre.com/vida/escenario/es-mas-dificil-de-lo-que-solia-ser-robert-pattinson-reconoce-el-desafio-de-las-nuevas-escenas-de-pelea-en-the-batman-2/",
-      "fecha": "Thu, 03 Sep 2026 23:56:22 +0000",
-      "categoria": "Escenario",
-      "resumen": "Robert Pattinson volverá a interpretar a Batman en la secuela y asegura que esta nueva producción le exige enfrentar mayores desafíos físicos."
     },
     {
       "fuente": "Guatemala.com",
