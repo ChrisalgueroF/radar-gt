@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-05T12:17:43.585Z",
+  "actualizado": "2026-09-05T13:13:28.803Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En busca del soldado Tom: la BBC ayuda a resolver el misterio de un prisionero de guerra soviético que una familia británica escondió durante la Segunda Guerra Mundial",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/en-busca-del-soldado-tom-la-bbc-ayuda-a-resolver-el-misterio-de-un-prisionero-de-guerra-sovietico-que-una-familia-britanica-escondio-durante-la-segunda-guerra-mundial/",
+      "fecha": "Sat, 05 Sep 2026 12:31:53 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Bokejon, o simplemente Tom, fue rescatado por una familia de Jersey tras escapar de un campo de trabajo nazi, pero después de la guerra desapareció en la Unión Soviética."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Salario mínimo 2027: trabajadores y empresarios presentan propuestas, y Gobierno se abstiene",
@@ -793,14 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 01:30:00 +0000",
       "categoria": "Comunitario",
       "resumen": "A pesar de 30 capturas en operativos viales, la PNC enfrenta el desplazamiento de asaltantes hacia el Periférico; mientras la policía apuesta por drones y nuevos agentes, analistas advierten que sin inteligencia en tiempo real la respuesta seguirá siendo reactiva."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Transportistas anuncian nueva protesta por costo de combustibles y definen recorridos",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/transportistas-anuncian-nueva-protesta-por-costo-de-combustibles-y-definen-recorridos-breaking/",
-      "fecha": "Fri, 04 Sep 2026 01:26:09 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Gremiales del transporte extraurbano anunciaron una nueva manifestación en rechazo al alto costo de los combustibles y la inseguridad."
     },
     {
       "fuente": "Guatemala.com",
