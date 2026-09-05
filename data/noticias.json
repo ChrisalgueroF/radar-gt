@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-05T10:13:43.653Z",
+  "actualizado": "2026-09-05T11:12:51.394Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las preguntas que me hice tras estar a punto de morir sin darme cuenta un sábado cualquiera en mi propia casa",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-preguntas-que-me-hice-tras-estar-a-punto-de-morir-sin-darme-cuenta-un-sabado-cualquiera-en-mi-propia-casa/",
+      "fecha": "Sat, 05 Sep 2026 11:03:35 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La escritora Marta Jiménez Serrano habla sobre el trauma, la crisis de la vivienda y la incertidumbre que define a toda una generación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Índice de confianza se mantiene y por qué es clave para las próximas decisiones empresariales",
+      "link": "https://www.prensalibre.com/economia/indice-de-confianza-se-mantiene-y-por-que-es-clave-para-las-proximas-decisiones-empresariales/",
+      "fecha": "Sat, 05 Sep 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El índice que mide la confianza en la economía de Guatemala se mantiene por encima de la zona de expansión, mientras se entra en la fase del ciclo político-económico con la presentación del proyecto de Presupuesto 2027, que asciende a Q192 mil millones."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Qué es la proyección de Mercator y por qué los países de África lucharon para que se deje de usar para elaborar los mapamundis",
@@ -548,6 +564,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Qué es el tarvu, el &#8220;alquitrán&#8221; que los finlandeses no pueden dejar de comer",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-es-el-tarvu-el-alquitran-que-los-finlandeses-no-pueden-dejar-de-comer/",
+      "fecha": "Fri, 04 Sep 2026 14:56:05 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Este subproducto vegetal de aroma ahumado, que antaño se utilizaba para impermeabilizar embarcaciones y tratar infecciones, hoy en día sirve para aromatizar desde aguardientes hasta pan. Pero ¿a qué sabe?"
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Real Madrid define su lista para la Champions y deja fuera a un jugador del primer equipo",
       "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-define-su-lista-para-la-champions-y-deja-fuera-a-un-jugador-del-primer-equipo/",
       "fecha": "Fri, 04 Sep 2026 14:55:00 +0000",
@@ -777,30 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 01:12:38 +0000",
       "categoria": "Deporte Nacional",
       "resumen": "Hino One La Red mantiene el paso ganador en Honduras, con Mardoqueo Vásquez como nuevo líder general tras conquistar la segunda etapa y confirmar el dominio guatemalteco en la competencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. advierte de revocaciones adicionales de visas para quienes amenacen las instituciones democráticas",
-      "link": "https://www.prensalibre.com/guatemala/politica/ee-uu-advierte-de-nuevas-revocaciones-de-visas-para-quienes-amenacen-las-instituciones-democraticas-breaking/",
-      "fecha": "Fri, 04 Sep 2026 01:01:38 +0000",
-      "categoria": "Política",
-      "resumen": "Estados Unidos advirtió que mantendrá medidas contra quienes amenacen la seguridad y las instituciones democráticas, incluidas revocaciones adicionales de visas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los precios de la gasolina en Guatemala vuelven a subir: así queda el galón de la regular, superior y el diésel este 3 de septiembre",
-      "link": "https://www.prensalibre.com/economia/los-precios-de-la-gasolina-en-guatemala-vuelven-a-subir-asi-queda-el-galon-de-la-regular-superior-y-el-diesel-este-3-de-septiembre/",
-      "fecha": "Fri, 04 Sep 2026 00:34:32 +0000",
-      "categoria": "Economía",
-      "resumen": "El diésel alcanzó Q46.39 por galón este jueves, tras bajar cerca de Q1 al comenzar septiembre. La regular y superior también subieron y marcaron nuevos máximos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nicaragua responde a Guatemala por críticas a reformas constitucionales: “La soberanía de un pueblo no se discute”",
-      "link": "https://www.prensalibre.com/internacional/nicaragua-responde-a-guatemala-por-criticas-a-reformas-constitucionales-la-soberania-de-un-pueblo-no-se-discute/",
-      "fecha": "Fri, 04 Sep 2026 00:20:09 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Gobierno guatemalteco expresó preocupación por las reformas aprobadas en primera lectura en Nicaragua, que restringen la participación política y amplían a siete años el mandato presidencial."
     },
     {
       "fuente": "Guatemala.com",
