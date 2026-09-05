@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-05T04:14:31.433Z",
+  "actualizado": "2026-09-05T05:12:57.675Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Totalitarismo total&#8221;: cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad)",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/totalitarismo-total-como-la-ia-impulsa-la-mayor-concentracion-de-poder-de-la-historia-y-cual-fue-la-prediccion-de-putin-que-se-esta-haciendo-realidad/",
+      "fecha": "Sat, 05 Sep 2026 04:54:28 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "BBC Mundo entrevistó al autor mexicano Pedro Salazar sobre su nuevo libro Totalitarismo Total, en el que analiza cómo la inteligencia artificial está acelerando la concentración de poder y desafiando a las democracias liberales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Torneo Apertura: Antigua GFC consigue trabajada victoria sobre Aurora FC",
@@ -793,14 +801,6 @@
       "fecha": "Thu, 03 Sep 2026 21:01:42 +0000",
       "categoria": "Comunitario",
       "resumen": "El avión terrestre que recorre las carreteras de San Marcos ha cautivado a miles de personas, debido a que el vehículo es una obra del ingenio guatemalteco."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿De qué murió Tim Curry?: revelan la causa de muerte del actor de It, Mi pobre angelito y The Rocky Horror Picture Show",
-      "link": "https://www.prensalibre.com/vida/escenario/de-que-murio-tim-curry-revelan-la-causa-de-muerte-del-actor-de-it-mi-pobre-angelito-y-the-rocky-horror-picture-show/",
-      "fecha": "Thu, 03 Sep 2026 20:36:54 +0000",
-      "categoria": "Escenario",
-      "resumen": "Días después de la muerte de Tim Curry, el Departamento de Salud Pública del Condado de Los Ángeles reveló la causa de su fallecimiento y los antecedentes médicos que contribuyeron a su muerte."
     },
     {
       "fuente": "Guatemala.com",
