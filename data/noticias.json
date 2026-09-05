@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-05T22:13:39.902Z",
+  "actualizado": "2026-09-05T23:12:48.608Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "48 Cantones anuncian protesta en la capital por el alza de los combustibles y niegan bloqueos",
+      "link": "https://www.prensalibre.com/ciudades/guatemala-ciudades/48-cantones-anuncian-protesta-en-la-capital-por-el-alza-de-los-combustibles-y-niegan-bloqueos/",
+      "fecha": "Sat, 05 Sep 2026 21:10:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los 48 Cantones de Totonicapán convocaron una marcha pacífica en la capital y negaron que preparen bloqueos, en medio de las protestas por el alza del combustible y otra movilización anunciada por transportistas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; Mixco vs. Comunicaciones: siga el minuto a minuto de la séptima jornada del Apertura 2026",
@@ -801,14 +809,6 @@
       "fecha": "Fri, 04 Sep 2026 11:26:39 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Este subproducto vegetal de aroma ahumado, que antaño se utilizaba para impermeabilizar embarcaciones y tratar infecciones, hoy en día sirve para aromatizar desde aguardientes hasta pan. Pero ¿a qué sabe?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto 2027: Congreso cuestiona deuda, recursos para Codedes y aumento del déficit fiscal",
-      "link": "https://www.prensalibre.com/economia/presupuesto-2027-congreso-cuestiona-deuda-recursos-para-codedes-y-aumento-del-deficit-fiscal/",
-      "fecha": "Fri, 04 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Los primeros cuestionamientos al proyecto de presupuesto de ingresos y egresos que presentó el Ejecutivo por Q192 mil millones para el ejercicio fiscal del 2027 comenzaron a surgir. Es el monto presupuestario más alto de los últimos 32 años."
     },
     {
       "fuente": "Guatemala.com",
