@@ -1,7 +1,71 @@
 {
-  "actualizado": "2026-09-04T23:13:14.063Z",
+  "actualizado": "2026-09-05T00:23:45.439Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cómo podría terminar la guerra de EE.UU. contra Irán? 3 expertos dan su opinión",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-podria-terminar-la-guerra-de-ee-uu-contra-iran-3-expertos-dan-su-opinion/",
+      "fecha": "Sat, 05 Sep 2026 00:19:52 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "¿Tiene alguna de las partes involucradas en el conflicto en Irán una estrategia de salida tras la reanudación de los ataques?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alianza busca abrir más espacio a flores y plantas ornamentales de Guatemala en EE. UU.",
+      "link": "https://www.prensalibre.com/economia/alianza-busca-abrir-mas-espacio-a-flores-y-plantas-ornamentales-de-guatemala-en-ee-uu/",
+      "fecha": "Sat, 05 Sep 2026 00:16:02 +0000",
+      "categoria": "Economía",
+      "resumen": "Agexport y AmericanHort establecieron una colaboración para impulsar las admisibilidades de productos hortícolas guatemaltecos en Estados Unidos, mercado en el que el 80% de las partidas arancelarias del sector ya puede ingresar con arancel cero."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Diputados presentan amparo por cambios en Guatecompras y piden restituir el acceso a información",
+      "link": "https://www.prensalibre.com/guatemala/justicia/diputados-presentan-amparo-por-cambios-en-guatecompras-y-piden-restituir-el-acceso-a-informacion-breaking/",
+      "fecha": "Sat, 05 Sep 2026 00:09:03 +0000",
+      "categoria": "Justicia",
+      "resumen": "La acción busca que se reviertan los cambios en Guatecompras que, según los diputados accionantes, limitan el acceso y la fiscalización de las contrataciones públicas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En vivo: Antigua recibe a Aurora; siga el minuto a minuto del partido de la fecha 7 del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-antigua-recibe-a-aurora-siga-el-minuto-a-minuto-del-partido-de-la-fecha-7-del-apertura-2026/",
+      "fecha": "Sat, 05 Sep 2026 00:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Antigua GFC recibe esta noche a Aurora FC en el Estadio Pensativo con la oportunidad de alcanzar al líder Municipal en la tabla del Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caifanes en Guatemala ofreció un concierto con recuerdos, mensajes y el respaldo de la banda nacional Viernes Verde, que añadió toda la “garra chapina”",
+      "link": "https://www.prensalibre.com/vida/escenario/caifanes-en-guatemala-ofrecio-un-concierto-con-recuerdos-mensajes-y-el-respaldo-de-la-banda-nacional-viernes-verde-que-anadio-toda-la-garra-chapina/",
+      "fecha": "Fri, 04 Sep 2026 23:31:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La agrupación mexicana Caifanes ofreció un concierto en la ciudad de Guatemala y durante 120 minutos se reencontró con sus admiradores locales y amantes del rock en español."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Oasis: Don’t Look Back in Anger”: los directores del documental hablan sobre la primera reunión de los hermanos tras 15 años",
+      "link": "https://www.prensalibre.com/vida/escenario/oasis-dont-look-back-in-anger-los-directores-del-documental-hablan-sobre-la-primera-reunion-de-los-hermanos-tras-15-anos/",
+      "fecha": "Fri, 04 Sep 2026 23:13:51 +0000",
+      "categoria": "Escenario",
+      "resumen": "La banda inglesa de rock Oasis presentará próximamente un documental sobre su reunión después de 15 años, un reencuentro que llevó a sus directores a documentar este esperado momento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Tamales picantes y tomates”: Trump menosprecia lo que México ofrece a EE. UU., pero elogia a Sheinbaum",
+      "link": "https://www.prensalibre.com/internacional/tamales-picantes-y-tomates-trump-menosprecia-lo-que-mexico-ofrece-a-ee-uu-pero-elogia-a-sheinbaum-breaking/",
+      "fecha": "Fri, 04 Sep 2026 22:55:26 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente Donald Trump dice que México no tiene nada que ofrecerle a Estados Unidos, más que “tamales picantes y tomates”, pero descarta romper relaciones comerciales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Bebía  en la oficina y malversaba fondos? el informe que señala a la exsecretaria de Trabajo de Trump",
+      "link": "https://www.prensalibre.com/internacional/bebia-en-la-oficina-y-malversaba-fondos-el-informe-que-senala-a-la-exsecretaria-de-trabajo-de-trump/",
+      "fecha": "Fri, 04 Sep 2026 22:46:36 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un investigación reveló que la exsecretaria del Departamento de Trabajo de Trump bebía alcohol en su oficina y malversaba fondos públicos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Una pareja argentina tiene que devolver a su legítima dueña el cuadro robado por los nazis que fue identificado en su casa por casualidad",
@@ -17,6 +81,14 @@
       "fecha": "Fri, 04 Sep 2026 22:05:22 +0000",
       "categoria": "Comunitario",
       "resumen": "Sin acuerdos tras cinco días de bloqueos, el sector transporte mantendrá la presión y prepara una marcha hacia la capital el próximo 9 de septiembre, para exigir que se frene o establezcan medidas ante el alza de los combustibles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuánto dinero tiene Salma Hayek a los 60 años: así construyó su fortuna tras casi cuatro décadas de trayectoria",
+      "link": "https://www.prensalibre.com/vida/escenario/cuanto-dinero-tiene-salma-hayek-a-los-60-anos-asi-construyo-su-fortuna-tras-casi-cuatro-decadas-de-trayectoria/",
+      "fecha": "Fri, 04 Sep 2026 21:49:45 +0000",
+      "categoria": "Escenario",
+      "resumen": "Salma Hayek cumplió 60 años y ha dedicado más de la mitad de su vida a la actuación. Así logró construir una fortuna millonaria a lo largo de su trayectoria."
     },
     {
       "fuente": "Prensa Libre",
@@ -276,11 +348,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Bloqueos en Guatemala en Vivo: Cámara de Comercio pide cumplir resolución de la CC para garantizar la libre locomoción",
+      "titulo": "Bloqueos en Guatemala EN VIVO: solo un punto continúa cerrado y ocho han sido habilitados",
       "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-en-vivo-manifestaciones-en-la-capital-y-santa-rosa-este-4-de-septiembre-por-alto-precio-del-combustible-breaking/",
       "fecha": "Fri, 04 Sep 2026 12:42:10 +0000",
       "categoria": "Comunitario",
-      "resumen": "Guatemala vive jornada de bloqueos este viernes 4 de septiembre en rechazo al alto costo del combustible. Cámara de Comercio pide acciones para garantizar la libre locomoción."
+      "resumen": "Guatemala vive una jornada de bloqueos este viernes 4 de septiembre por el precio de los combustibles. Provial reporta un punto bloqueado y ocho ya habilitados."
     },
     {
       "fuente": "Prensa Libre",
@@ -729,78 +801,6 @@
       "fecha": "Thu, 03 Sep 2026 18:12:23 +0000",
       "categoria": "Guatemala",
       "resumen": "De 19 expedientes con inconsistencias, sólo uno logra reincorporarse al proceso de selección de seis candidatos para contralor general de Cuentas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Regresaba a trabajar ese mismo día? que pasó con Erin Piacenti antes de ser apuñalada en Times Square",
-      "link": "https://www.prensalibre.com/internacional/regresaba-a-trabajar-ese-mismo-dia-que-paso-con-erin-piacenti-antes-de-ser-apunalada-en-times-square/",
-      "fecha": "Thu, 03 Sep 2026 18:02:55 +0000",
-      "categoria": "Internacional",
-      "resumen": "Erin Piacenti, de 32 años, murió el pasado 31 de agosto tras ser apuñalada en la zona turística del Times Square por una mujer llamada Pamela Cisneros."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Desarrollan audiencia de ofrecimiento de pruebas por extinción de vehículo vinculado con hermano de Pedro Duque",
-      "link": "https://www.prensalibre.com/guatemala/justicia/desarrollan-audiencia-de-ofrecimiento-de-pruebas-por-extincion-de-vehiculo-vinculado-con-hermano-de-pedro-duque-breaking/",
-      "fecha": "Thu, 03 Sep 2026 18:00:09 +0000",
-      "categoria": "Justicia",
-      "resumen": "Juzgado de Extinción de Dominio desarrolla una audiencia por un proceso de extinción contra un vehículo vinculado con el hermano de Pedro Duque, señalado en un caso de supuesto desfalco al CHN."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MrBeast se une a James Patterson para presentar The Most Dangerous Games y lanza un concurso por US$1 millón",
-      "link": "https://www.prensalibre.com/vida/escenario/mrbeast-se-une-a-james-patterson-para-presentar-the-most-dangerous-games-y-lanza-un-concurso-por-us1-millon/",
-      "fecha": "Thu, 03 Sep 2026 17:46:16 +0000",
-      "categoria": "Escenario",
-      "resumen": "Uno de los youtubers más famosos del mundo, MrBeast, debuta en la literatura con The Most Dangerous Games, un libro que presenta junto con James Patterson y que incluye un concurso por US$1 millón."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Con profundo dolor&#8221; la reacción de Camilo Séptimo tras la muerte de su tecladista Jonathan Meléndez en México",
-      "link": "https://www.prensalibre.com/vida/escenario/con-profundo-dolor-la-reaccion-de-camilo-septimo-tras-la-muerte-de-su-tecladista-jonathan-melendez-en-mexico/",
-      "fecha": "Thu, 03 Sep 2026 17:17:04 +0000",
-      "categoria": "Escenario",
-      "resumen": "La banda de rock Camilo Séptimo se pronunció tras la muerte de su tecladista Jonathan Meléndez y de toda su familia en su vivienda en Zaragoza, México."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Encuentran un Picasso robado hace ocho años: Estaba colgado en un apartamento de Milwaukee",
-      "link": "https://www.prensalibre.com/internacional/encuentran-un-picasso-robado-hace-ocho-anos-estaba-colgado-en-un-apartamento-de-milwaukee/",
-      "fecha": "Thu, 03 Sep 2026 16:45:41 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las autoridades indicaron que el cuadro “estaba colgado en un lugar extraño de la pared” y que parecía llevar mucho tiempo allí, ya que tenía “polvo en la parte superior”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mourinho revela qué hará para seguir viendo a Messi en sus últimos años como futbolista",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mourinho-revela-que-hara-para-seguir-viendo-a-messi-en-sus-ultimos-anos-como-futbolista/",
-      "fecha": "Thu, 03 Sep 2026 16:37:46 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "José Mourinho elogió a Lionel Messi tras su retiro de la Selección Argentina y aseguró que su ausencia será imposible de reemplazar en el futbol mundial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Juez suspende audiencia contra Julio Valentín Monroy, presunto cabecilla de “los Taxistas del Viejo”, quien permanece libre",
-      "link": "https://www.prensalibre.com/guatemala/justicia/juez-suspende-audiencia-contra-julio-valentin-monroy-presunto-cabecilla-de-los-taxistas-del-viejo-quien-permanece-libre-breaking/",
-      "fecha": "Thu, 03 Sep 2026 16:35:54 +0000",
-      "categoria": "Justicia",
-      "resumen": "Julio Valentín Monroy López, alias “El Viejo”, quien permanece en libertad, deberá esperar hasta el 10 de noviembre para comparecer a su audiencia de primera declaración."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué provocó las lluvias intensas en Guatemala tras días de calor? Insivumeh explica qué ocurrió",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/que-provoco-las-lluvias-intensas-en-guatemala-tras-dias-de-calor-insivumeh-explica-que-ocurrio-breaking/",
-      "fecha": "Thu, 03 Sep 2026 16:31:11 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Después de jornadas de calor y lloviznas, varias regiones registraron lluvias durante la noche. El Insivumeh explica las causas y qué podría ocurrir en las próximas horas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga Nacional: así marcha la tabla de minutos juveniles tras seis jornadas del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-asi-marcha-la-tabla-de-minutos-juveniles-tras-seis-jornadas-del-apertura-2026/",
-      "fecha": "Thu, 03 Sep 2026 16:25:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La lucha por cumplir la norma de minutos juveniles avanza en el Apertura 2026, con Guastatoya al frente y Malacateco en el último lugar."
     },
     {
       "fuente": "Guatemala.com",
