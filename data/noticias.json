@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-05T16:14:24.870Z",
+  "actualizado": "2026-09-05T17:12:45.867Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estados Unidos ataca tres petroleros iraníes tras afirmar que sus buques de guerra habían sido objeto de un ataque",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/estados-unidos-ataca-tres-petroleros-iranies-tras-afirmar-que-sus-buques-de-guerra-habian-sido-objeto-de-un-ataque/",
+      "fecha": "Sat, 05 Sep 2026 16:51:28 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Según el Comando Central de Estados Unidos, los ataques se produjeron después de que Irán lanzara misiles balísticos contra dos de sus buques de guerra."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Yuri en Guatemala 2026: la cantante mexicana ofrecerá una noche de música, tecnología y nostalgia para apoyar a la niñez",
@@ -793,14 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 03:40:39 +0000",
       "categoria": "Escenario",
       "resumen": "Adria Arjona protagoniza “Onslaught”, el nuevo thriller en el que interpreta a una veterana del Ejército y por cuya actuación ya ha recibido elogios. Esto dice la crítica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Orquesta OAFA protesta durante concierto por el 77 aniversario de la Escuela Nacional de Danza y exige restitución de su director",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/orquesta-oafa-protesta-durante-concierto-por-el-77-aniversario-de-la-escuela-nacional-de-danza-y-exige-restitucion-de-su-director/",
-      "fecha": "Fri, 04 Sep 2026 03:22:10 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los 51 músicos de la OAFA llevaron su protesta al escenario durante el 77 aniversario de la Escuela Nacional de Danza, donde exigieron al Ministerio de Cultura la restitución de su director, Alfredo Mazariegos."
     },
     {
       "fuente": "Guatemala.com",
