@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T20:14:19.394Z",
+  "actualizado": "2026-09-05T21:13:19.512Z",
   "total": 109,
   "noticias": [
     {
@@ -17,6 +17,14 @@
       "fecha": "Sat, 05 Sep 2026 19:16:11 +0000",
       "categoria": "Deporte Nacional",
       "resumen": "El ciclista guatemalteco del equipo Hino One La Red ganó la cuarta etapa de la Vuelta a Honduras en un recorrido de 115 kilómetros de alta montaña y amplió su ventaja en la clasificación general."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pesas, cardio y boxeo: así es la intensa preparación de Adria Arjona para su papel en “Man of Tomorrow”",
+      "link": "https://www.prensalibre.com/vida/escenario/pesas-cardio-y-boxeo-asi-es-la-intensa-preparacion-de-adria-arjona-para-su-papel-en-man-of-tomorrow/",
+      "fecha": "Sat, 05 Sep 2026 19:05:27 +0000",
+      "categoria": "Escenario",
+      "resumen": "La hija de Ricardo Arjona compartió la intensa rutina que sigue para lograr el físico y la fuerza que exige su nuevo papel en “Man of Tomorrow”."
     },
     {
       "fuente": "Prensa Libre",
@@ -801,14 +809,6 @@
       "fecha": "Fri, 04 Sep 2026 06:20:00 +0000",
       "categoria": "Comunitario",
       "resumen": "Durante una citación, el Maga informó que tiene 340 mil 500 raciones de alimentos en bodega para atender a familias en inseguridad alimentaria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sector agro prevé caída de 5% en ventas por falta de lluvias y alza en fertilizantes, y granos básicos reportan impactos",
-      "link": "https://www.prensalibre.com/economia/sector-agro-preve-caida-de-5-en-ventas-por-falta-de-lluvias-y-alza-en-fertilizantes-y-granos-basicos-reportan-impactos/",
-      "fecha": "Fri, 04 Sep 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El sector agropecuario prevé una caída de 5% en las ventas por la falta de lluvias en el 2026, además de los impactos por las alzas en insumos como combustibles y fertilizantes, según un sondeo de Camagro. Mientras tanto, la Asociación Nacional de Granos Básicos reporta pérdidas de cultivos que representarían millones de quintales de maíz."
     },
     {
       "fuente": "Guatemala.com",
