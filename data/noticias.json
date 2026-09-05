@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T03:14:30.482Z",
+  "actualizado": "2026-09-05T04:14:31.433Z",
   "total": 109,
   "noticias": [
     {
@@ -33,6 +33,14 @@
       "fecha": "Sat, 05 Sep 2026 02:28:04 +0000",
       "categoria": "Escenario",
       "resumen": "El protagonista de “El precio de la historia” permanece hospitalizado después de someterse a una cirugía de emergencia. Esto se sabe sobre su estado de salud."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Lo invisible que puede ser un migrante en un país extraño”: beliceño vuelve con su familia tras meses en situación de calle",
+      "link": "https://www.prensalibre.com/ciudades/guatemala-ciudades/lo-invisible-que-puede-ser-un-migrante-en-un-pais-extrano-beliceno-vuelve-con-su-familia-tras-meses-en-situacion-de-calle/",
+      "fecha": "Sat, 05 Sep 2026 02:23:52 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Un hombre originario de Belice, con discapacidad y sin documentos, volvió con su familia después de pasar varios meses en situación de calle en Guatemala."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,14 +801,6 @@
       "fecha": "Thu, 03 Sep 2026 20:36:54 +0000",
       "categoria": "Escenario",
       "resumen": "Días después de la muerte de Tim Curry, el Departamento de Salud Pública del Condado de Los Ángeles reveló la causa de su fallecimiento y los antecedentes médicos que contribuyeron a su muerte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Cumbia Pa Ti”, una comedia que llega al teatro para reír y bailar: fechas, precio y entradas",
-      "link": "https://www.prensalibre.com/vida/escenario/cumbia-pa-ti-una-comedia-que-llega-al-teatro-para-reir-y-bailar-fechas-precio-y-entradas/",
-      "fecha": "Thu, 03 Sep 2026 20:35:57 +0000",
-      "categoria": "Escenario",
-      "resumen": "Morfeo GT lleva a escena “Cumbia Pa Ti”, una obra de teatro que combina música, baile y comedia. Conozca la historia de María y su travesía en la capital."
     },
     {
       "fuente": "Guatemala.com",
