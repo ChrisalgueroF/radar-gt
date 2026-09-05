@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-05T14:13:39.111Z",
+  "actualizado": "2026-09-05T15:13:40.925Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque armado en Mixco desata persecución y termina con dos hondureños capturados",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-mixco-desata-persecucion-y-termina-con-dos-hondurenos-capturados/",
+      "fecha": "Sat, 05 Sep 2026 14:38:45 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Dos personas resultaron heridas en el ataque en la colonia Berlín. Los sospechosos fueron detenidos cuando intentaban escapar en motocicleta y llevaban dos pistolas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La mina de turquesa donde nació nuestro alfabeto (y cuáles fueron las primeras palabras que encontraron)",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-mina-de-turquesa-donde-nacio-nuestro-alfabeto-y-cuales-fueron-las-primeras-palabras-que-encontraron/",
+      "fecha": "Sat, 05 Sep 2026 14:20:03 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En una meseta perdida del Sinaí, mineros y dioses se cruzaron con una idea tan simple como revolucionaria. Sus huellas aún están en nuestras palabras."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Cómo el juicio por asesinato de Lindsay Clancy ha dividido a EE.UU. sobre si es víctima de psicosis posparto o una criminal que mató a sus 3 hijos",
@@ -332,7 +348,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Transportistas anuncian nueva manifestación, ahora en la capital, luego de cinco días de bloqueos en la provincia",
+      "titulo": "Transportistas anuncian movilización en la capital tras cinco días de bloqueos por el precio de los combustibles",
       "link": "https://www.prensalibre.com/guatemala/comunitario/transportistas-anuncian-nueva-manifestacion-ahora-en-la-capital-luego-de-cinco-dias-de-bloqueos-en-la-provincia/",
       "fecha": "Fri, 04 Sep 2026 22:05:22 +0000",
       "categoria": "Comunitario",
@@ -785,22 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 01:58:46 +0000",
       "categoria": "Escenario",
       "resumen": "Este jueves 3 de septiembre se celebran los Premios Juventud 2026, con más de 300 nominados, entrega de premios, presentaciones artísticas y momentos emotivos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lester Martínez tendría que esperar para acercarse a una pelea contra Canelo o Mbilli",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/lester-martinez-conoce-el-proximo-paso-tras-vencer-a-luka-plantic-y-retener-el-titulo-del-cmb/",
-      "fecha": "Fri, 04 Sep 2026 01:55:39 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Mauricio Sulaimán explicó el panorama que enfrenta el guatemalteco y adelantó qué podría ocurrir antes del gran combate."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Antorchas por la Independencia: Mineduc regula recorridos, transporte y medidas de seguridad",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/antorchas-por-la-independencia-mineduc-regula-recorridos-transporte-y-medidas-de-seguridad-breaking/",
-      "fecha": "Fri, 04 Sep 2026 01:48:49 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Mineduc estableció nuevas medidas de seguridad para los estudiantes que participen en las antorchas cívicas por la Independencia."
     },
     {
       "fuente": "Guatemala.com",
