@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-06T00:25:49.454Z",
+  "actualizado": "2026-09-06T01:13:10.552Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Unas 377 mil familias productoras están en riesgo por la variabilidad climática, incluyendo la sequía",
+      "link": "https://www.prensalibre.com/economia/unas-377-mil-familias-productoras-estan-en-riesgo-por-la-variabilidad-climatica-incluyendo-la-sequia/",
+      "fecha": "Sun, 06 Sep 2026 01:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El déficit de lluvia y otros efectos de la variabilidad climática ponen en riesgo 377 mil 575 familias productoras y 178 mil 336 hectáreas, según el monitoreo del Ministerio de Agricultura, Ganadería y Alimentación (Maga)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Festival Vive Latino 2026 reúne a más de 45 mil fanáticos en España con 33 conciertos y presentaciones de lucha libre",
+      "link": "https://www.prensalibre.com/vida/escenario/festival-vive-latino-2026-reune-a-mas-de-45-mil-fanaticos-en-espana-con-33-conciertos-y-presentaciones-de-lucha-libre/",
+      "fecha": "Sun, 06 Sep 2026 00:44:10 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con 36 horas de música, presentaciones de lucha libre y gastronomía latinoamericana, el Festival Vive Latino 2026 reúne en España a artistas y miles de fanáticos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué Comunicaciones podría perder el punto ante Mixco? Así funciona la regla 6+5",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/por-que-comunicaciones-podria-perder-el-punto-ante-mixco-esta-es-la-regla-65-sobre-extranjeros-breaking/",
+      "fecha": "Sun, 06 Sep 2026 00:35:22 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Comunicaciones podría perder el punto rescatado ante Mixco en la jornada 7 del torneo Apertura 2026, porque alineó a seis extranjeros de forma simultánea durante cuatro minutos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; Malacateco vs. Suchitepéquez: siga el minuto a minuto de la séptima jornada del Apertura 2026",
@@ -785,30 +809,6 @@
       "fecha": "Fri, 04 Sep 2026 15:35:32 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Las bibliotecas de las escuelas públicas de EE.UU. se han convertido en el campo de una intensa batalla ideológica en torno a qué libros deben estar disponibles para los alumnos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Premios Juventud 2026: Tropicoqueta, de Karol G, gana el premio Álbum del Año, un homenaje a los ritmos latinos y sus raíces",
-      "link": "https://www.prensalibre.com/vida/escenario/premios-juventud-2026-tropicoqueta-de-karol-g-gana-el-premio-album-del-ano-un-homenaje-a-los-ritmos-latinos-y-sus-raices/",
-      "fecha": "Fri, 04 Sep 2026 15:12:56 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante colombiana Karol G triunfa en los Premios Juventud con su álbum Tropicoqueta, un proyecto que, a través de ritmos como el merengue, la bachata y la ranchera, representa la identidad latina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué es el tarvu, el &#8220;alquitrán&#8221; que los finlandeses no pueden dejar de comer",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-es-el-tarvu-el-alquitran-que-los-finlandeses-no-pueden-dejar-de-comer/",
-      "fecha": "Fri, 04 Sep 2026 14:56:05 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Este subproducto vegetal de aroma ahumado, que antaño se utilizaba para impermeabilizar embarcaciones y tratar infecciones, hoy en día sirve para aromatizar desde aguardientes hasta pan. Pero ¿a qué sabe?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Real Madrid define su lista para la Champions y deja fuera a un jugador del primer equipo",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-define-su-lista-para-la-champions-y-deja-fuera-a-un-jugador-del-primer-equipo/",
-      "fecha": "Fri, 04 Sep 2026 14:55:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Real Madrid presentó sus listas para la Champions League con la novedad de Sergio Martínez en la lista A."
     },
     {
       "fuente": "Guatemala.com",
