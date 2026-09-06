@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-06T04:14:47.188Z",
+  "actualizado": "2026-09-06T05:13:06.020Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Los ilegales&#8221;: cuáles son los vínculos con América Latina del programa de espionaje más secreto de Rusia",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-ilegales-cuales-son-los-vinculos-con-america-latina-del-programa-de-espionaje-mas-secreto-de-rusia/",
+      "fecha": "Sun, 06 Sep 2026 04:28:26 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El programa clandestino empezó antes del Revolución Rusa y llega hasta nuestros días, con Putin como gran valedor. Fue revelado en toda su dimensión en 2010 con el arresto de espías \"durmientes\" en EE.UU. Y ha tenido una larga relación con Latinoamérica."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Malacateco vence a Suchitepéquez y agrava la crisis de los venados en el Apertura 2026",
@@ -9,6 +17,14 @@
       "fecha": "Sun, 06 Sep 2026 03:10:31 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Los toros vencieron a Suchitepéquez con goles de Eliser Quiñones y Roberto Meneses para sumar tres puntos importantes en el Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bad Bunny gana su primer Emmy por el show de medio tiempo del Super Bowl",
+      "link": "https://www.prensalibre.com/vida/escenario/bad-bunny-gana-su-primer-emmy-por-el-show-de-medio-tiempo-del-super-bowl/",
+      "fecha": "Sun, 06 Sep 2026 02:46:46 +0000",
+      "categoria": "Escenario",
+      "resumen": "El cantante puertorriqueño fue reconocido como intérprete principal y productor del espectáculo de medio tiempo del Super Bowl LX."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,22 +809,6 @@
       "fecha": "Fri, 04 Sep 2026 17:15:23 +0000",
       "categoria": "Comunitario",
       "resumen": "Conductores de buses extraurbanos que prestan servicio entre la capital y Jutiapa explican cómo los afecta el alto precio del combustible."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Real Betis vs. Real Madrid: siga el minuto a minuto del encuentro por la cuarta fecha de LaLiga",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-betis-vs-real-madrid-siga-el-minuto-a-minuto-del-encuentro-por-la-cuarta-fecha-de-laliga/",
-      "fecha": "Fri, 04 Sep 2026 17:10:23 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Real Madrid visita este viernes al Real Betis en el estadio La Cartuja por la cuarta jornada de LaLiga 2026-2027, en un duelo donde los verdiblancos intentarán aprovechar su localía para frenar el paso perfecto del conjunto merengue."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comunicaciones busca reaccionar ante Mixco, pero no podrá contar con uno de sus capitanes",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-busca-reaccionar-ante-mixco-pero-no-podra-contar-con-uno-de-sus-capitanes/",
-      "fecha": "Fri, 04 Sep 2026 16:46:57 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El conjunto crema llegará al Estadio Santo Domingo de Guzmán tras una semana complicada, luego de perder el Clásico 338 ante Municipal y quedar ubicado en la novena posición de la tabla con siete puntos."
     },
     {
       "fuente": "Guatemala.com",
