@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-06T16:15:21.547Z",
+  "actualizado": "2026-09-06T17:12:40.396Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los aciertos y errores de 3 mapas que usamos hoy (y por qué el aprobado ahora por la ONU tampoco representa correctamente al mundo)",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-aciertos-y-errores-de-3-mapas-que-usamos-hoy-y-por-que-el-aprobado-ahora-por-la-onu-tampoco-representa-correctamente-al-mundo/",
+      "fecha": "Sun, 06 Sep 2026 16:27:56 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Ahora que la ONU ha aprobado un nuevo mapa, hacemos un repaso de otros que se han utilizado a lo largo de la historia."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Pattaya, la aldea de pescadores en Tailandia que la guerra de Vietnam convirtió en &#8220;la ciudad del pecado&#8221;",
@@ -793,14 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 21:20:24 +0000",
       "categoria": "Escenario",
       "resumen": "La cantante de country Dolly Parton habría enfrentado un diagnóstico de cáncer mientras lidiaba con otras complicaciones de salud, reveló su sobrina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video: así fue el penalti fallado por Mbappé que desató la polémica con el VAR",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-asi-fue-el-penalti-fallado-por-mbappe-que-desato-la-polemica-con-el-var/",
-      "fecha": "Fri, 04 Sep 2026 21:15:34 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Real Betis sorprendió al Real Madrid al vencerlo 1-0 en la cuarta jornada de LaLiga 2026-2027, con un gol de Troy Parrott y una actuación decisiva del portero Álvaro Valles."
     },
     {
       "fuente": "Guatemala.com",
