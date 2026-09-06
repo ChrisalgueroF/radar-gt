@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-06T19:12:34.442Z",
+  "actualizado": "2026-09-06T20:14:56.312Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Proyectan la primera victoria estatal para el AfD, el partido de ultraderecha en Alemania",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/proyectan-la-primera-victoria-estatal-para-el-afd-el-partido-de-ultraderecha-en-alemania/",
+      "fecha": "Sun, 06 Sep 2026 19:16:21 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El partido alemán de ultraderecha AfD está celebrando un \"resultado histórico\" y se prevé que obtenga más del 44% de los votos, muy por delante del conservador CDU, que cuenta con el 18,4%."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Por qué los países europeos están trasladando su oro fuera de América del Norte?",
@@ -9,6 +17,14 @@
       "fecha": "Sun, 06 Sep 2026 18:59:12 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Los Países Bajos trasladaron de vuelta a Europa 86 toneladas de ese metal precioso que mantenían en EE.UU. y Canadá. Y no están solos. ¿Qué está pasando?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gasolinas registran otro aumento y el MEM lo atribuye al conflicto en Medio Oriente",
+      "link": "https://www.prensalibre.com/economia/gasolinas-registran-otro-aumento-y-el-mem-lo-atribuye-al-conflicto-en-medio-oriente/",
+      "fecha": "Sun, 06 Sep 2026 18:30:02 +0000",
+      "categoria": "Economía",
+      "resumen": "Los combustibles registraron una nueva alza este fin de semana de Q1  para las gasolinas, y aunque el diésel no subió en esta ocasión ya supera los Q46 por galón aunque varía por región."
     },
     {
       "fuente": "Prensa Libre",
@@ -41,6 +57,14 @@
       "fecha": "Sun, 06 Sep 2026 17:44:57 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Tras la derrota del Real Madrid, los culés se consolidan en la cima con 12 puntos y como únicos invictos de LaLiga, mientras el Valencia sigue último con apenas un punto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ricky Martin vuelve al cine con “Hombre al agua”, la nueva película de Gael García Bernal",
+      "link": "https://www.prensalibre.com/vida/escenario/ricky-martin-vuelve-al-cine-con-hombre-al-agua-la-nueva-pelicula-de-gael-garcia-bernal/",
+      "fecha": "Sun, 06 Sep 2026 17:34:16 +0000",
+      "categoria": "Escenario",
+      "resumen": "El cantante puertorriqueño Ricky Martin regresa a la pantalla grande con “Hombre al agua”, una película mexicana en la que dará vida a Robbie."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,30 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 23:31:00 +0000",
       "categoria": "Escenario",
       "resumen": "La agrupación mexicana Caifanes ofreció un concierto en la ciudad de Guatemala y durante 120 minutos se reencontró con sus admiradores locales y amantes del rock en español."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Oasis: Don’t Look Back in Anger”: los directores del documental hablan sobre la primera reunión de los hermanos tras 15 años",
-      "link": "https://www.prensalibre.com/vida/escenario/oasis-dont-look-back-in-anger-los-directores-del-documental-hablan-sobre-la-primera-reunion-de-los-hermanos-tras-15-anos/",
-      "fecha": "Fri, 04 Sep 2026 23:13:51 +0000",
-      "categoria": "Escenario",
-      "resumen": "La banda inglesa de rock Oasis presentará próximamente un documental sobre su reunión después de 15 años, un reencuentro que llevó a sus directores a documentar este esperado momento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué una jueza mantuvo el bloqueo a la reforma de Trump de restringir el voto por correo",
-      "link": "https://www.prensalibre.com/internacional/por-que-una-jueza-mantuvo-el-bloqueo-a-la-reforma-de-trump-de-restringir-el-voto-por-correo/",
-      "fecha": "Fri, 04 Sep 2026 23:13:12 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una jueza federal decretó como medida preliminar el bloqueo a la reforma de Trump de restringir el voto por correo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Tamales picantes y tomates”: Trump menosprecia lo que México ofrece a EE. UU., pero elogia a Sheinbaum",
-      "link": "https://www.prensalibre.com/internacional/tamales-picantes-y-tomates-trump-menosprecia-lo-que-mexico-ofrece-a-ee-uu-pero-elogia-a-sheinbaum-breaking/",
-      "fecha": "Fri, 04 Sep 2026 22:55:26 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente Donald Trump dice que México no tiene nada que ofrecerle a Estados Unidos, más que “tamales picantes y tomates”, pero descarta romper relaciones comerciales."
     },
     {
       "fuente": "Guatemala.com",
