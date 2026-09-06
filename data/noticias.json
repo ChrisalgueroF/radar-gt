@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-06T18:16:36.029Z",
+  "actualizado": "2026-09-06T19:12:34.442Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué los países europeos están trasladando su oro fuera de América del Norte?",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/por-que-los-paises-europeos-estan-trasladando-su-oro-fuera-de-america-del-norte/",
+      "fecha": "Sun, 06 Sep 2026 18:59:12 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los Países Bajos trasladaron de vuelta a Europa 86 toneladas de ese metal precioso que mantenían en EE.UU. y Canadá. Y no están solos. ¿Qué está pasando?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sube el precio del maíz blanco por menor oferta derivado de la sequía",
+      "link": "https://www.prensalibre.com/economia/sube-el-precio-del-maiz-blanco-por-menor-oferta-derivado-de-la-sequia/",
+      "fecha": "Sun, 06 Sep 2026 18:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Entre los granos básicos, el maíz blanco ha registrado aumento de Q18.50 el quintal en dos semanas, según el precio al mayorista. Al detalle o al consumidor final también se reportan alzas, según el monitoreo de precios del Ministerio de Agricultura."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mardoqueo Vásquez se corona campeón en la Vuelta a Honduras 2026; Team Hino logra el tricampeonato",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/mardoqueo-vasquez-se-corona-campeon-en-la-vuelta-a-honduras-2026-team-hino-logra-el-tricampeonato-breaking/",
+      "fecha": "Sun, 06 Sep 2026 18:01:48 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El ciclista guatemalteco Mardoqueo Vásquez dominó la clasificación general de la sexta edición de la Vuelta a Honduras y coronó una destacada actuación junto al Team Hino One La Red Suzuki."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Cobán Imperial vs. Guastatoya: siga el minuto a minuto de la octava jornada del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-coban-imperial-vs-guastatoya-siga-el-minuto-a-minuto-de-la-octava-jornada-del-apertura-2026-breaking/",
+      "fecha": "Sun, 06 Sep 2026 18:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los príncipes azules reciben a los pecho amarillo este domingo a la 1:00 PM en el estadio José Ángel Rossi en un duelo donde Cobán busca urgentemente su primera victoria tras tres derrotas consecutivas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "LaLiga: así marcha la tabla de posiciones tras la jornada 4; Barcelona lidera invicto",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/laliga-asi-marcha-la-tabla-de-posiciones-tras-la-jornada-4-barcelona-lidera-invicto-breaking/",
+      "fecha": "Sun, 06 Sep 2026 17:44:57 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Tras la derrota del Real Madrid, los culés se consolidan en la cima con 12 puntos y como únicos invictos de LaLiga, mientras el Valencia sigue último con apenas un punto."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Accidentes de tránsito dejan heridos y fallecidos este domingo 6 de septiembre",
@@ -761,46 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 22:55:26 +0000",
       "categoria": "Internacional",
       "resumen": "El presidente Donald Trump dice que México no tiene nada que ofrecerle a Estados Unidos, más que “tamales picantes y tomates”, pero descarta romper relaciones comerciales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Bebía  en la oficina y malversaba fondos? el informe que señala a la exsecretaria de Trabajo de Trump",
-      "link": "https://www.prensalibre.com/internacional/bebia-en-la-oficina-y-malversaba-fondos-el-informe-que-senala-a-la-exsecretaria-de-trabajo-de-trump/",
-      "fecha": "Fri, 04 Sep 2026 22:46:36 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un investigación reveló que la exsecretaria del Departamento de Trabajo de Trump bebía alcohol en su oficina y malversaba fondos públicos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una pareja argentina tiene que devolver a su legítima dueña el cuadro robado por los nazis que fue identificado en su casa por casualidad",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-pareja-argentina-tiene-que-devolver-a-su-legitima-duena-el-cuadro-robado-por-los-nazis-que-fue-identificado-en-su-casa-por-casualidad/",
-      "fecha": "Fri, 04 Sep 2026 22:20:46 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El \"Retrato de una dama\", de estilo barroco tardío, estuvo perdido durante 80 años hasta que fue descubierto en fotografías de una casa en venta cerca de Buenos Aires."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Transportistas anuncian movilización en la capital tras cinco días de bloqueos por el precio de los combustibles",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/transportistas-anuncian-nueva-manifestacion-ahora-en-la-capital-luego-de-cinco-dias-de-bloqueos-en-la-provincia/",
-      "fecha": "Fri, 04 Sep 2026 22:05:22 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Sin acuerdos tras cinco días de bloqueos, el sector transporte mantendrá la presión y prepara una marcha hacia la capital el próximo 9 de septiembre, para exigir que se frene o establezcan medidas ante el alza de los combustibles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuánto dinero tiene Salma Hayek a los 60 años: así construyó su fortuna tras casi cuatro décadas de trayectoria",
-      "link": "https://www.prensalibre.com/vida/escenario/cuanto-dinero-tiene-salma-hayek-a-los-60-anos-asi-construyo-su-fortuna-tras-casi-cuatro-decadas-de-trayectoria/",
-      "fecha": "Fri, 04 Sep 2026 21:49:45 +0000",
-      "categoria": "Escenario",
-      "resumen": "Salma Hayek cumplió 60 años y ha dedicado más de la mitad de su vida a la actuación. Así logró construir una fortuna millonaria a lo largo de su trayectoria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso de Lindsay Clancy: ¿Qué sucedió con el jurado y por qué este juicio fue declarado nulo?",
-      "link": "https://www.prensalibre.com/internacional/caso-de-lindsay-clancy-que-sucedio-con-el-jurado-y-por-que-este-juicio-fue-declarado-nulo/",
-      "fecha": "Fri, 04 Sep 2026 21:39:46 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un juez de Massachusetts declaró nulo el juicio contra Lindsay Clancy, la acusada de asesinar a sus tres hijos durante un supuesto brote psicótico."
     },
     {
       "fuente": "Guatemala.com",
