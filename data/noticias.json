@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-06T13:13:48.590Z",
+  "actualizado": "2026-09-06T14:14:20.918Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Niño 2026 en Guatemala: por qué se fortalece y qué se espera de las lluvias en septiembre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/el-nino-se-fortalece-por-que-puede-traer-menos-lluvia-y-mas-calor-a-guatemala/",
+      "fecha": "Sun, 06 Sep 2026 14:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El fenómeno del El Niño tiene 69% de probabilidad de alcanzar una intensidad sin precedentes desde 1950, mientras Guatemala llega a septiembre con déficit de lluvia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El matemático que llevaba 7 años trabajando en descifrar un enigma que fue resuelto por un aficionado",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/el-matematico-que-llevaba-7-anos-trabajando-en-descifrar-un-enigma-que-fue-resuelto-por-un-aficionado/",
+      "fecha": "Sun, 06 Sep 2026 13:15:58 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El matemático Jared Duker Lichtman de la Universidad de Stanford recibió un inesperado correo con la respuesta al problema 1196 de Erdős, un enigma con décadas de antigüedad en el que estaba trabajando."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Cuerpos envueltos y abandonados en Guatemala: qué revelan 65 casos registrados por el MP",
@@ -785,22 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 20:40:43 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La resolución, patrocinada por Togo, contó con el apoyo de 164 naciones; Estados Unidos fue el único país que votó en contra."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué pasará ahora que un juez declaró nulo el juicio contra Lindsay Clancy, la madre acusada de matar a sus tres hijos en EE.UU.?",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-pasara-ahora-que-un-juez-declaro-nulo-el-juicio-contra-lindsay-clancy-la-madre-acusada-de-matar-a-sus-tres-hijos-en-ee-uu/",
-      "fecha": "Fri, 04 Sep 2026 20:26:39 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El juez William Sullivan tomó la decisión después de que el jurado le informara que seguían en un punto muerto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Policía de Nueva York mata a hombre con cuchillo: Así fue la confrontación en el Puente de Brooklyn",
-      "link": "https://www.prensalibre.com/internacional/policia-de-nueva-york-mata-a-hombre-con-cuchillo-asi-fue-la-confrontacion-en-el-puente-de-brooklyn/",
-      "fecha": "Fri, 04 Sep 2026 20:25:45 +0000",
-      "categoria": "Internacional",
-      "resumen": "Durante el operativo, el sospechoso manifestó que tenía una bomba y que quería morir en el distrito más poblado de la Ciudad de Nueva York."
     },
     {
       "fuente": "Guatemala.com",
