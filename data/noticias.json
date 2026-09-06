@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-06T02:14:46.895Z",
+  "actualizado": "2026-09-06T03:14:40.842Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video revela el momento en que una mujer de 71 años dispara dentro de una comisaría de Florida, antes de ser abatida por policías",
+      "link": "https://www.prensalibre.com/internacional/video-revela-el-momento-en-que-una-mujer-de-71-anos-dispara-dentro-de-una-comisaria-de-florida-antes-de-ser-abatida-por-policias/",
+      "fecha": "Sun, 06 Sep 2026 02:44:28 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una mujer de 71 años murió en un hospital después de protagonizar un tiroteo dentro de una comisaría de Port Orange, Florida, donde disparó hacia un área con empleados civiles antes de ser baleada por agentes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Marquense vs. Xelajú MC: siga el minuto a minuto del clásico occidental",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-marquense-vs-xelaju-mc-siga-el-minuto-a-minuto-del-clasico-occidental-breaking/",
+      "fecha": "Sun, 06 Sep 2026 02:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El Clásico de Occidente entre  leones y superchivos se disputa este sábado a las 9:00 PM en el estadio Marquesa de La Ensenada en un duelo entre dos equipos muy igualados en la tabla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Al menos 15 accidentes dejan dos muertos, varios heridos y complicaciones de tránsito en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/al-menos-15-accidentes-dejan-dos-muertos-varios-heridos-y-complicaciones-de-transito-en-guatemala/",
+      "fecha": "Sun, 06 Sep 2026 01:50:35 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Una serie de accidentes de tránsito se registraron este sábado 5 de septiembre en distintos puntos del país; con víctimas mortales, personas heridas y daños materiales. Autoridades y cuerpos de socorro atendieron múltiples emergencias durante la jornada."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Unas 377 mil familias productoras están en riesgo por la variabilidad climática, incluyendo la sequía",
@@ -785,30 +809,6 @@
       "fecha": "Fri, 04 Sep 2026 16:15:00 +0000",
       "categoria": "Escenario",
       "resumen": "A días del anuncio de la muerte del actor que dio voz a Optimus Prime en Transformers e Igor en Winnie the Pooh, se reveló la causa de su fallecimiento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tormentas locales y ambiente cálido marcarán el clima en Guatemala este fin de semana",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/tormentas-locales-y-ambiente-calido-marcaran-el-clima-en-guatemala-este-fin-de-semana-breaking/",
-      "fecha": "Fri, 04 Sep 2026 15:36:41 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El pronóstico del Insivumeh detalla las condiciones de lluvia y las temperaturas máximas en Guatemala para el 5 y 6 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Steve Irwin, dos décadas después de su muerte: ¿Cómo lo recuerdan sus hijos y cuál es su legado?",
-      "link": "https://www.prensalibre.com/internacional/steve-irwin-dos-decadas-despues-de-su-muerte-como-lo-recuerdan-sus-hijos-y-cual-es-su-legado/",
-      "fecha": "Fri, 04 Sep 2026 15:36:40 +0000",
-      "categoria": "Internacional",
-      "resumen": "Hace dos décadas, Steve Irwin nadaba en aguas poco profundas cuando recibió una herida mortal en el pecho causada por el aguijón de una raya de cola corta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Nunca se había privado a tantos niños del acceso a tantas historias&#8221;: el crecimiento imparable de la prohibición de libros en escuelas públicas de EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/nunca-se-habia-privado-a-tantos-ninos-del-acceso-a-tantas-historias-el-crecimiento-imparable-de-la-prohibicion-de-libros-en-escuelas-publicas-de-ee-uu/",
-      "fecha": "Fri, 04 Sep 2026 15:35:32 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las bibliotecas de las escuelas públicas de EE.UU. se han convertido en el campo de una intensa batalla ideológica en torno a qué libros deben estar disponibles para los alumnos."
     },
     {
       "fuente": "Guatemala.com",
