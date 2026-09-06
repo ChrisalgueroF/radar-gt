@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-06T10:14:45.275Z",
+  "actualizado": "2026-09-06T11:13:22.620Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué aseguran los guatemaltecos y cuáles son los nuevos riesgos que buscan proteger",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/que-aseguran-los-guatemaltecos-y-cuales-son-los-nuevos-riesgos-que-buscan-proteger/",
+      "fecha": "Sun, 06 Sep 2026 11:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "¿En qué momento algo deja de ser simplemente parte de nuestra vida y se convierte en un riesgo que merece ser asegurado?"
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Semana de protestas",
@@ -793,14 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 20:10:45 +0000",
       "categoria": "Salud y Familia",
       "resumen": "Con una recaudación millonaria y 12 ganadores, cerró la novena edición de la Rifa 1 Millón de Amigos, en beneficio de miles de pacientes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Dragon Ball Super: Beerus”: fecha de estreno, tema de apertura, novedades y tráiler de la nueva entrega del anime",
-      "link": "https://www.prensalibre.com/vida/escenario/dragon-ball-super-beerus-fecha-de-estreno-tema-de-apertura-novedades-y-trailer-de-la-nueva-entrega-del-anime/",
-      "fecha": "Fri, 04 Sep 2026 19:56:27 +0000",
-      "categoria": "Escenario",
-      "resumen": "La nueva versión mejorada del anime “Dragon Ball Super” regresará a la pantalla con Goku viviendo una vida normal, hasta que despierte una nueva amenaza. Esto se conoce sobre su estreno internacional."
     },
     {
       "fuente": "Guatemala.com",
