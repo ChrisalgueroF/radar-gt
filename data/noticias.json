@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-06T20:14:56.312Z",
+  "actualizado": "2026-09-06T21:13:25.445Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tragedia en México: los videos del accidente con pirotecnia en una feria que dejó 10 muertos",
+      "link": "https://www.prensalibre.com/internacional/tragedia-en-mexico-los-videos-del-accidente-con-pirotecnia-en-una-feria-que-dejo-10-muertos/",
+      "fecha": "Sun, 06 Sep 2026 20:41:56 +0000",
+      "categoria": "Internacional",
+      "resumen": "Al menos diez personas fallecieron y 64 resultaron heridas por un accidente con pirotecnia en el marco de unas fiestas patronales en la parroquia de la comunidad de Santa María Canchesdá, municipio de Temascalcingo, en el estado de México, vecino a la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Videos: así fue el accidente del avión de carga que se salió de pista y se estrelló en Miami",
+      "link": "https://www.prensalibre.com/internacional/videos-asi-fue-el-accidente-del-avion-de-carga-que-se-salio-de-pista-y-se-estrello-en-miami/",
+      "fecha": "Sun, 06 Sep 2026 20:18:49 +0000",
+      "categoria": "Internacional",
+      "resumen": "El avión, que llevaba el logotipo de una reconocida compañía de comercio electrónico, había salido la mañana de este domingo de Puerto Rico con destino a Miami."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Proyectan la primera victoria estatal para el AfD, el partido de ultraderecha en Alemania",
@@ -785,22 +801,6 @@
       "fecha": "Sat, 05 Sep 2026 00:03:13 +0000",
       "categoria": "Internacional",
       "resumen": "Países de la región buscan convertir los compromisos de conservación en acciones sostenibles que incluyan financiamiento, participación indígena y protección efectiva de los territorios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En vivo: Antigua recibe a Aurora; siga el minuto a minuto del partido de la fecha 7 del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-antigua-recibe-a-aurora-siga-el-minuto-a-minuto-del-partido-de-la-fecha-7-del-apertura-2026/",
-      "fecha": "Sat, 05 Sep 2026 00:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Antigua GFC recibe esta noche a Aurora FC en el Estadio Pensativo con la oportunidad de alcanzar al líder Municipal en la tabla del Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caifanes en Guatemala ofreció un concierto con recuerdos, mensajes y el respaldo de la banda nacional Viernes Verde, que añadió toda la “garra chapina”",
-      "link": "https://www.prensalibre.com/vida/escenario/caifanes-en-guatemala-ofrecio-un-concierto-con-recuerdos-mensajes-y-el-respaldo-de-la-banda-nacional-viernes-verde-que-anadio-toda-la-garra-chapina/",
-      "fecha": "Fri, 04 Sep 2026 23:31:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La agrupación mexicana Caifanes ofreció un concierto en la ciudad de Guatemala y durante 120 minutos se reencontró con sus admiradores locales y amantes del rock en español."
     },
     {
       "fuente": "Guatemala.com",
