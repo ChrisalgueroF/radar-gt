@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-06T21:13:25.445Z",
+  "actualizado": "2026-09-06T22:14:45.068Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Municipal vs. San Pedro: siga el minuto a minuto de la octava jornada del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-municipal-vs-san-pedro-siga-el-minuto-a-minuto-de-la-octava-jornada-del-apertura-2026-breaking/",
+      "fecha": "Sun, 06 Sep 2026 22:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Municipal recibe a los gallos en el estadio Manuel Felipe Carrera este domingo a las 5:00 PM en el partido que cierra la octava jornada con ambos equipos entre los primeros lugares de la tabla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cobán Imperial cae ante Guastatoya y suma su cuarta derrota consecutiva en el Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/coban-imperial-cae-ante-guastatoya-y-suma-su-cuarta-derrota-consecutiva-en-el-apertura-2026-breaking/",
+      "fecha": "Sun, 06 Sep 2026 21:12:05 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Yordi Aguilar marcó al minuto 78 el gol del triunfo en el estadio José Ángel Rossi, en una jugada revisada por el FVS tras un reclamo de penal de Cobán."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Tragedia en México: los videos del accidente con pirotecnia en una feria que dejó 10 muertos",
@@ -25,6 +41,14 @@
       "fecha": "Sun, 06 Sep 2026 19:16:21 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El partido alemán de ultraderecha AfD está celebrando un \"resultado histórico\" y se prevé que obtenga más del 44% de los votos, muy por delante del conservador CDU, que cuenta con el 18,4%."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Perdió una pierna en un reality show y ahora demanda a los productores por US$100 millones",
+      "link": "https://www.prensalibre.com/vida/escenario/perdio-una-pierna-en-un-reality-show-y-ahora-demanda-a-los-productores-por-us100-millones/",
+      "fecha": "Sun, 06 Sep 2026 19:05:29 +0000",
+      "categoria": "Escenario",
+      "resumen": "Un joven de 22 años que sufrió la amputación de una pierna durante su participación en Survivor Greece interpuso una demanda millonaria contra los productores. Esta es la historia."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,30 +801,6 @@
       "fecha": "Sat, 05 Sep 2026 00:16:50 +0000",
       "categoria": "Escenario",
       "resumen": "Mon Laferte anunció que ofrecerá un concierto en Guatemala antes de que termine el 2026 como parte de su \"Femme Fatale Tour\". Esta es la fecha confirmada por la artista."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Alianza busca abrir más espacio a flores y plantas ornamentales de Guatemala en EE. UU.",
-      "link": "https://www.prensalibre.com/economia/alianza-busca-abrir-mas-espacio-a-flores-y-plantas-ornamentales-de-guatemala-en-ee-uu/",
-      "fecha": "Sat, 05 Sep 2026 00:16:02 +0000",
-      "categoria": "Economía",
-      "resumen": "Agexport y AmericanHort establecieron una colaboración para impulsar las admisibilidades de productos hortícolas guatemaltecos en Estados Unidos, mercado en el que el 80% de las partidas arancelarias del sector ya puede ingresar con arancel cero."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Diputados presentan amparo por cambios en Guatecompras y piden restituir el acceso a información",
-      "link": "https://www.prensalibre.com/guatemala/justicia/diputados-presentan-amparo-por-cambios-en-guatecompras-y-piden-restituir-el-acceso-a-informacion-breaking/",
-      "fecha": "Sat, 05 Sep 2026 00:09:03 +0000",
-      "categoria": "Justicia",
-      "resumen": "La acción busca que se reviertan los cambios en Guatecompras que, según los diputados accionantes, limitan el acceso y la fiscalización de las contrataciones públicas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mesoamérica acelera la ruta hacia la meta 30&#215;30: busca proteger el 30% de sus ecosistemas para 2030",
-      "link": "https://www.prensalibre.com/internacional/mesoamerica-acelera-la-ruta-hacia-la-meta-30x30-busca-proteger-el-30-de-sus-ecosistemas-para-2030/",
-      "fecha": "Sat, 05 Sep 2026 00:03:13 +0000",
-      "categoria": "Internacional",
-      "resumen": "Países de la región buscan convertir los compromisos de conservación en acciones sostenibles que incluyan financiamiento, participación indígena y protección efectiva de los territorios."
     },
     {
       "fuente": "Guatemala.com",
