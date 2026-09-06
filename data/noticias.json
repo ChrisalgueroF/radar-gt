@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-06T14:14:20.918Z",
+  "actualizado": "2026-09-06T15:14:00.450Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“La llamó Osa”: de rescatar una perrita herida a cuidar 59 perros en su casa de Xela",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/la-llamo-osa-de-rescatar-una-perrita-herida-a-cuidar-59-perros-en-su-casa-de-xela/",
+      "fecha": "Sun, 06 Sep 2026 15:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Casi dos décadas de rescates transformaron la vida de Siomara Alonso, que ahora enfrenta una preocupación: quién cuidará a sus perros cuando ella ya no pueda."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué Keiko Fujimori ha declarado el estado de emergencia en 5 cárceles peruanas y qué busca con esta medida",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-keiko-fujimori-ha-declarado-el-estado-de-emergencia-en-5-carceles-peruanas-y-que-busca-con-esta-medida/",
+      "fecha": "Sun, 06 Sep 2026 14:16:51 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El gobierno peruano busca impedir que organizaciones criminales sigan operando desde las cárceles hacia el exterior. ¿Qué busca el gobierno de Keiko Fujimori y qué cambiará?"
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "El Niño 2026 en Guatemala: por qué se fortalece y qué se espera de las lluvias en septiembre",
@@ -785,22 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 20:49:43 +0000",
       "categoria": "Justicia",
       "resumen": "Autoridades capturaron a una mujer durante un allanamiento en Huehuetenango, donde localizaron Q835 mil 890, un revólver y 250 municiones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Localizan cadáver envuelto en bolsas y sábanas entre la maleza en la antigua ruta a Santa Cruz Chinautla",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/localizan-cadaver-envuelto-en-bolsas-y-sabanas-entre-la-maleza-en-la-antigua-ruta-a-santa-cruz-chinautla/",
-      "fecha": "Fri, 04 Sep 2026 20:47:21 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Socorristas localizaron un cadáver envuelto en bolsas y sábanas a pocos metros de la antigua ruta a Santa Cruz Chinautla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La ONU aprueba un nuevo mapamundi que refleja el tamaño real de África",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-onu-aprueba-un-nuevo-mapamundi-que-refleja-el-tamano-real-de-africa/",
-      "fecha": "Fri, 04 Sep 2026 20:40:43 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La resolución, patrocinada por Togo, contó con el apoyo de 164 naciones; Estados Unidos fue el único país que votó en contra."
     },
     {
       "fuente": "Guatemala.com",
