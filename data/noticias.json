@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-06T15:14:00.450Z",
+  "actualizado": "2026-09-06T16:15:21.547Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pattaya, la aldea de pescadores en Tailandia que la guerra de Vietnam convirtió en &#8220;la ciudad del pecado&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/pattaya-la-aldea-de-pescadores-en-tailandia-que-la-guerra-de-vietnam-convirtio-en-la-ciudad-del-pecado/",
+      "fecha": "Sun, 06 Sep 2026 16:02:13 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La llegada a Pattaya de casi 5.000 militares estadounidenses revive la historia de la conocida como \"ciudad del pecado\", cuya industria del ocio nocturno para adultos se remonta a la guerra de Vietnam."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Oficial: Comunicaciones presenta a Roberto Montoya como su nuevo técnico",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/oficial-comunicaciones-presenta-a-roberto-montoya-como-su-nuevo-tecnico-breaking/",
+      "fecha": "Sun, 06 Sep 2026 15:21:54 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El técnico mexicano llega acompañado de Agustín Herrera, Manuel Corona y Juan Miguel Bertani, con el reto de enderezar el rumbo de Comunicaciones en el Apertura 2026."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "“La llamó Osa”: de rescatar una perrita herida a cuidar 59 perros en su casa de Xela",
@@ -412,6 +428,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "&#8220;Totalitarismo total&#8221;: cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad)",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/totalitarismo-total-como-la-ia-impulsa-la-mayor-concentracion-de-poder-de-la-historia-y-cual-fue-la-prediccion-de-putin-que-se-esta-haciendo-realidad-2/",
+      "fecha": "Sat, 05 Sep 2026 12:36:09 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "BBC Mundo entrevistó al autor mexicano Pedro Salazar sobre su nuevo libro Totalitarismo Total, en el que analiza cómo la inteligencia artificial está acelerando la concentración de poder y desafiando a las democracias liberales."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "En busca del soldado Tom: la BBC ayuda a resolver el misterio de un prisionero de guerra soviético que una familia británica escondió durante la Segunda Guerra Mundial",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/en-busca-del-soldado-tom-la-bbc-ayuda-a-resolver-el-misterio-de-un-prisionero-de-guerra-sovietico-que-una-familia-britanica-escondio-durante-la-segunda-guerra-mundial/",
       "fecha": "Sat, 05 Sep 2026 12:31:53 +0000",
@@ -777,30 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 21:15:34 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "El Real Betis sorprendió al Real Madrid al vencerlo 1-0 en la cuarta jornada de LaLiga 2026-2027, con un gol de Troy Parrott y una actuación decisiva del portero Álvaro Valles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ataque armado deja un muerto y un herido en Santa Lucía Milpas Altas y PNC captura a dos presuntos sicarios",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-deja-un-muerto-y-un-herido-en-santa-lucia-milpas-altas-y-pnc-captura-a-dos-presuntos-sicarios-breaking/",
-      "fecha": "Fri, 04 Sep 2026 21:07:44 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un ataque armado en Santa Lucía Milpas Altas, Sacatepéquez, dejó un muerto y un herido. Tras el hecho, la PNC reportó la captura de dos presuntos sicarios del Barrio 18."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Revelan más detalles de los ataques armados contra tres comercios en Escuintla y quién los ordenó",
-      "link": "https://www.prensalibre.com/guatemala/justicia/revelan-mas-detalles-de-los-ataques-armados-contra-tres-comercios-en-escuintla-y-quien-los-ordeno/",
-      "fecha": "Fri, 04 Sep 2026 20:56:30 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Policía dio nuevos detalles de los ataques contra comercios en Escuintla y sigue pistas sobre extorsionistas y posibles órdenes desde prisión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una mujer, Q835 mil, un revólver y municiones: lo que hallaron en allanamiento en Huehuetenango",
-      "link": "https://www.prensalibre.com/guatemala/justicia/una-mujer-q835-mil-un-revolver-y-municiones-lo-que-hallaron-en-allanamiento-en-huehuetenango-breaking/",
-      "fecha": "Fri, 04 Sep 2026 20:49:43 +0000",
-      "categoria": "Justicia",
-      "resumen": "Autoridades capturaron a una mujer durante un allanamiento en Huehuetenango, donde localizaron Q835 mil 890, un revólver y 250 municiones."
     },
     {
       "fuente": "Guatemala.com",
