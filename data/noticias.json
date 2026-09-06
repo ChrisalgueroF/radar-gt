@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-06T11:13:22.620Z",
+  "actualizado": "2026-09-06T12:18:36.752Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuerpos envueltos y abandonados en Guatemala: qué revelan 65 casos registrados por el MP",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/cuerpos-envueltos-y-abandonados-en-guatemala-que-revelan-65-casos-registrados-por-el-mp/",
+      "fecha": "Sun, 06 Sep 2026 12:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El MP registra 65 personas muertas halladas en bolsas, sábanas, costales, toneles y otros envoltorios hasta el 2 de septiembre del 2026. Las investigaciones aún no determinan cuántos casos se relacionan."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Qué aseguran los guatemaltecos y cuáles son los nuevos riesgos que buscan proteger",
@@ -793,14 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 20:25:45 +0000",
       "categoria": "Internacional",
       "resumen": "Durante el operativo, el sospechoso manifestó que tenía una bomba y que quería morir en el distrito más poblado de la Ciudad de Nueva York."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Obras Sociales del Santo Hermano Pedro podrán continuar su labor humanitaria gracias a la Rifa 1 Millón de Amigos 2026: estos fueron los números ganadores",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/obras-sociales-del-santo-hermano-pedro-podran-continuar-su-labor-humanitaria-gracias-a-la-rifa-1-millon-de-amigos-2026-estos-fueron-los-numeros-ganadores/",
-      "fecha": "Fri, 04 Sep 2026 20:10:45 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Con una recaudación millonaria y 12 ganadores, cerró la novena edición de la Rifa 1 Millón de Amigos, en beneficio de miles de pacientes."
     },
     {
       "fuente": "Guatemala.com",
