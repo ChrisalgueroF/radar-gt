@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-06T17:12:40.396Z",
+  "actualizado": "2026-09-06T18:16:36.029Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Accidentes de tránsito dejan heridos y fallecidos este domingo 6 de septiembre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/accidentes-de-transito-dejan-heridos-y-fallecidos-este-domingo-6-de-septiembre/",
+      "fecha": "Sun, 06 Sep 2026 17:32:07 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Al menos tres personas han fallecido y varias han resultado heridas en accidentes de tránsito registrados este domingo 6 de septiembre en la capital y distintas rutas del país, según cuerpos de socorro y autoridades de tránsito."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Lamine Yamal lideró la manita del Barcelona al Valencia y los culés siguen líderes invictos",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-lamine-yamal-lidero-la-manita-del-barcelona-al-valencia-y-los-cules-siguen-lideres-invictos-breaking/",
+      "fecha": "Sun, 06 Sep 2026 16:28:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El joven delantero firmó un doblete en la goleada 5-0 en Mestalla, donde también marcaron Fermín, Raphinha y Pedri para mantener invicto al Barcelona en LaLiga."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Los aciertos y errores de 3 mapas que usamos hoy (y por qué el aprobado ahora por la ONU tampoco representa correctamente al mundo)",
@@ -785,22 +801,6 @@
       "fecha": "Fri, 04 Sep 2026 21:39:46 +0000",
       "categoria": "Internacional",
       "resumen": "Un juez de Massachusetts declaró nulo el juicio contra Lindsay Clancy, la acusada de asesinar a sus tres hijos durante un supuesto brote psicótico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Fueron liberados? Acusan a dos guardias del extinto &#8220;Alligator Alcatraz&#8221; de agredir un detenido",
-      "link": "https://www.prensalibre.com/internacional/fueron-liberados-acusan-a-dos-guardias-del-extinto-alligator-alcatraz-de-agredir-un-detenido/",
-      "fecha": "Fri, 04 Sep 2026 21:24:29 +0000",
-      "categoria": "Internacional",
-      "resumen": "Dos guardias del polémico centro migratorio \"Alligator Alcatraz\" fueron acusados de agredir a un inmigrante en enero de 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Dolly Parton decidió mantener en secreto su lucha contra el cáncer? Jada Star habla de cómo la familia afronta el duelo",
-      "link": "https://www.prensalibre.com/vida/escenario/por-que-dolly-parton-decidio-mantener-en-secreto-su-lucha-contra-el-cancer-jada-star-habla-de-como-la-familia-afronta-el-duelo/",
-      "fecha": "Fri, 04 Sep 2026 21:20:24 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante de country Dolly Parton habría enfrentado un diagnóstico de cáncer mientras lidiaba con otras complicaciones de salud, reveló su sobrina."
     },
     {
       "fuente": "Guatemala.com",
