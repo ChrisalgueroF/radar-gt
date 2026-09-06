@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-06T22:14:45.068Z",
+  "actualizado": "2026-09-06T23:13:21.749Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Al menos 5 muertos al accidentarse un avión de carga en el aeropuerto de Miami",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/al-menos-5-muertos-al-accidentarse-un-avion-de-carga-en-el-aeropuerto-de-miami/",
+      "fecha": "Sun, 06 Sep 2026 22:55:10 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Un avión de carga de la compañía Amazon se salió de la pista de aterrizaje."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mingob espera aval del BCIE para ampliar vigencia del préstamo por US$300 millones para cárcel de Masagua",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mingob-espera-aval-del-bcie-para-ampliar-vigencia-del-prestamo-por-us300-millones-para-carcel-de-masagua/",
+      "fecha": "Sun, 06 Sep 2026 22:14:53 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Ministerio de Gobernación (Mingob) espera recibir en septiembre el aval del Banco Centroamericano de Integración Económica (BCIE) para extender el préstamo por US$300 millones y avanzar con la licitación de la cárcel de máxima seguridad de Masagua, Escuintla."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; Municipal vs. San Pedro: siga el minuto a minuto de la octava jornada del Apertura 2026",
@@ -9,6 +25,14 @@
       "fecha": "Sun, 06 Sep 2026 22:00:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Municipal recibe a los gallos en el estadio Manuel Felipe Carrera este domingo a las 5:00 PM en el partido que cierra la octava jornada con ambos equipos entre los primeros lugares de la tabla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Celine Dion canta y baila con sus fans antes de sus conciertos en París",
+      "link": "https://www.prensalibre.com/vida/escenario/celine-dion-canta-y-baila-con-sus-fans-antes-de-sus-conciertos-en-paris/",
+      "fecha": "Sun, 06 Sep 2026 22:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante canadiense fue sorprendida por sus fanáticos, con quienes cantó y bailó en París, tras varios años de enfrentar una enfermedad que afectó su movilidad."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,30 +801,6 @@
       "fecha": "Sat, 05 Sep 2026 01:22:06 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "La medicina de precisión está transformando la forma en que se previenen, diagnostican y tratan enfermedades. Hoy, comprender la genética significa ofrecer soluciones más personalizadas y efectivas para cada paciente. Por lo que, en Guatemala, se realizó ORIGEN III – la tercera edición del Congreso Internacional de Genética Clínica, un evento multidisciplinario que se centró en la genética aplicada en la ginecología, oncología y pediatría."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Agentes de la PNC, guardias del SP y un delegado de la PGN, vinculados a cobros de &#8220;talacha&#8221; en cárcel de Quiché",
-      "link": "https://www.prensalibre.com/guatemala/justicia/agentes-de-la-pnc-guardias-del-sp-y-un-delegado-de-la-pgn-vinculados-a-cobros-de-talacha-en-carcel-de-quiche/",
-      "fecha": "Sat, 05 Sep 2026 00:30:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Seis sindicados enfrentarán audiencia de primera declaración el 18 de septiembre por un caso que se tramita desde el 2019 en Quiché."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo podría terminar la guerra de EE.UU. contra Irán? 3 expertos dan su opinión",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-podria-terminar-la-guerra-de-ee-uu-contra-iran-3-expertos-dan-su-opinion/",
-      "fecha": "Sat, 05 Sep 2026 00:19:52 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "¿Tiene alguna de las partes involucradas en el conflicto en Irán una estrategia de salida tras la reanudación de los ataques?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mon Laferte en Guatemala 2026: fecha confirmada para el concierto de su &#8220;Femme Fatale Tour&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/mon-laferte-en-guatemala-2026-fecha-confirmada-para-el-concierto-de-su-femme-fatale-tour/",
-      "fecha": "Sat, 05 Sep 2026 00:16:50 +0000",
-      "categoria": "Escenario",
-      "resumen": "Mon Laferte anunció que ofrecerá un concierto en Guatemala antes de que termine el 2026 como parte de su \"Femme Fatale Tour\". Esta es la fecha confirmada por la artista."
     },
     {
       "fuente": "Guatemala.com",
