@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-07T18:17:36.128Z",
+  "actualizado": "2026-09-07T19:13:22.751Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo el declive de población alimenta el éxito de la extrema derecha de AfD en Sajonia-Anhalt y en el este de Alemania",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/como-el-declive-de-poblacion-alimenta-el-exito-de-la-extrema-derecha-de-afd-en-sajonia-anhalt-y-en-el-este-de-alemania/",
+      "fecha": "Mon, 07 Sep 2026 19:06:28 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Décadas después de la caída del Muro de Berlín, la baja en las tasas de natalidad en el este de Alemania revela profundas divisiones en el país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bernardo Arévalo presenta iniciativa para fijar en Q39 el precio del galón de diésel en Guatemala",
+      "link": "https://www.prensalibre.com/economia/bernardo-arevalo-presenta-iniciativa-para-fijar-en-q39-el-precio-del-galon-de-diesel-en-guatemala-breaking/",
+      "fecha": "Mon, 07 Sep 2026 18:39:13 +0000",
+      "categoria": "Economía",
+      "resumen": "Bernardo Arévalo presenta una propuesta que pretende apoyar a los consumidores de diésel de Guatemala ante el alto costo del carburante."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Falta de especialistas en la Contraloría retrasa auditoría por compra de 5 mil radios para la PNC",
+      "link": "https://www.prensalibre.com/guatemala/justicia/falta-de-especialistas-en-la-contraloria-retrasa-auditoria-por-compra-de-5-mil-radios-para-la-pnc/",
+      "fecha": "Mon, 07 Sep 2026 17:56:50 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Mindef apoyó a la Contraloría con especialistas para la auditoría por la compra de 5 mil radios para la PNC."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Nuevo México podría llamarse Nueva América? Trump sugiere cambiar el nombre de ese estado",
@@ -20,11 +44,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "&#8220;Estamos desconsolados&#8221;: Qué dijo Amazon tras el accidente aéreo en Miami que dejó cinco fallecidos",
+      "link": "https://www.prensalibre.com/internacional/estamos-desconsolados-que-dijo-amazon-tras-el-accidente-aereo-en-miami-que-dejo-cinco-fallecidos/",
+      "fecha": "Mon, 07 Sep 2026 17:39:09 +0000",
+      "categoria": "Internacional",
+      "resumen": "La compañía Amazon se pronunció luego de que uno de sus aviones se accidentara en Miami y causara la muerte de cinco personas el pasado 6 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "&#8220;Soy Luna Tour, El último show&#8221; llegará a Guatemala con Karol Sevilla y todo el elenco de la serie que cautivó en Latinoamérica y Europa",
       "link": "https://www.prensalibre.com/vida/escenario/soy-luna-tour-el-ultimo-show-llegara-a-guatemala-con-karol-sevilla-y-todo-el-elenco-de-la-serie-que-cautivo-en-latinoamerica-y-europa/",
       "fecha": "Mon, 07 Sep 2026 17:33:00 +0000",
       "categoria": "Escenario",
       "resumen": "El elenco de “Soy Luna” se presentará nuevamente en directo con una gira que recorrerá emblemáticos recintos y marcará el esperado regreso de sus protagonistas a los escenarios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿De qué murió Carla Jeffery? Familia de la actriz de Disney rechaza especulaciones",
+      "link": "https://www.prensalibre.com/vida/escenario/de-que-murio-carla-jeffery-familia-de-la-actriz-de-disney-rechaza-especulaciones/",
+      "fecha": "Mon, 07 Sep 2026 17:30:19 +0000",
+      "categoria": "Escenario",
+      "resumen": "La familia de Carla Jeffery respondió a las especulaciones sobre la causa de muerte de la actriz, quien falleció a los 33 años."
     },
     {
       "fuente": "Prensa Libre",
@@ -76,11 +116,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "TSE oficializa la inscripción definitiva de Raíces como partido político",
+      "titulo": "TSE avala la inscripción de Raíces como partido político",
       "link": "https://www.prensalibre.com/guatemala/politica/tse-oficializa-la-inscripcion-definitiva-de-raices-como-partido-politico-breaking/",
       "fecha": "Mon, 07 Sep 2026 15:42:45 +0000",
       "categoria": "Política",
-      "resumen": "El TSE publica en el Diario Oficial edicto que da vida al partido Raíces."
+      "resumen": "El TSE publica en el Diario Oficial edicto que avala inscripción del partido Raíces."
     },
     {
       "fuente": "Prensa Libre",
@@ -761,46 +801,6 @@
       "fecha": "Sat, 05 Sep 2026 21:10:00 +0000",
       "categoria": "Guatemala",
       "resumen": "Los 48 Cantones de Totonicapán convocaron una marcha pacífica en la capital y negaron que preparen bloqueos, en medio de las protestas por el alza del combustible y otra movilización anunciada por transportistas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Mixco vs. Comunicaciones: siga el minuto a minuto de la séptima jornada del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-mixco-vs-comunicaciones-siga-el-minuto-a-minuto-de-la-septima-jornada-del-apertura-2026-breaking/",
-      "fecha": "Sat, 05 Sep 2026 20:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los cremas visitan el estadio Santo Domingo de Guzmán este sábado a las 15 horas con nuevo técnico tras la salida de Marco Antonio Figueroa y con la urgencia de sumar puntos para salir de la zona baja de la tabla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miss Mundo 2026: la dominicana Joheirry Mola gana la corona en Vietnam",
-      "link": "https://www.prensalibre.com/vida/escenario/miss-mundo-2026-la-dominicana-joheirry-mola-gana-la-corona-en-vietnam/",
-      "fecha": "Sat, 05 Sep 2026 19:55:09 +0000",
-      "categoria": "Escenario",
-      "resumen": "Después de más de 40 años, la corona de Miss Mundo regresa a República Dominicana, tras el triunfo de Joheirry Mola como nueva soberana del certamen."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mardoqueo Vázquez se impuso en la etapa reina y sigue al mando de la Vuelta a Honduras 2026",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/mardoqueo-vazquez-se-impuso-en-la-cuarta-etapa-y-sigue-al-mando-de-la-vuelta-a-honduras-2026-breaking/",
-      "fecha": "Sat, 05 Sep 2026 19:16:11 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El ciclista guatemalteco del equipo Hino One La Red ganó la cuarta etapa de la Vuelta a Honduras en un recorrido de 115 kilómetros de alta montaña y amplió su ventaja en la clasificación general."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pesas, cardio y boxeo: así es la intensa preparación de Adria Arjona para su papel en “Man of Tomorrow”",
-      "link": "https://www.prensalibre.com/vida/escenario/pesas-cardio-y-boxeo-asi-es-la-intensa-preparacion-de-adria-arjona-para-su-papel-en-man-of-tomorrow/",
-      "fecha": "Sat, 05 Sep 2026 19:05:27 +0000",
-      "categoria": "Escenario",
-      "resumen": "La hija de Ricardo Arjona compartió la intensa rutina que sigue para lograr el físico y la fuerza que exige su nuevo papel en “Man of Tomorrow”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Me creí todo lo que me dijeron&#8221;: la mujer que alquiló un apartamento a los terroristas del 11-S habla en exclusiva con la BBC",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/me-crei-todo-lo-que-me-dijeron-la-mujer-que-alquilo-un-apartamento-a-los-terroristas-del-11-s-habla-en-exclusiva-con-la-bbc/",
-      "fecha": "Sat, 05 Sep 2026 19:03:42 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Una mujer que alquiló una vivienda a dos miembros de al Qaeda sin saber que irían a participar en los ataque del 11-S, habla públicamente por primera vez con la BBC."
     },
     {
       "fuente": "Guatemala.com",
