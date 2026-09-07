@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-07T22:14:53.531Z",
+  "actualizado": "2026-09-07T23:14:23.959Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027: Los puntos que defiende Arévalo de la propuesta y la asignación a los Codedes",
+      "link": "https://www.prensalibre.com/economia/presupuesto-2027-los-puntos-que-defiende-arevalo-de-la-propuesta-y-la-asignacion-a-los-codedes/",
+      "fecha": "Mon, 07 Sep 2026 23:06:10 +0000",
+      "categoria": "Economía",
+      "resumen": "El presidente de la República, Bernardo Arévalo, defendió el proyecto de Presupuesto General de la Nación para el 2027 y aseguró que el incremento del gasto propuesto responde a una mayor inversión social, infraestructura y modernización del Estado."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "El rey Carlos III deja claro que Harry y Meghan siguen sin ejercer funciones para la monarquía británica pese a su regreso a Reino Unido",
@@ -25,6 +33,14 @@
       "fecha": "Mon, 07 Sep 2026 21:53:02 +0000",
       "categoria": "Escenario",
       "resumen": "Como parte de la celebración del Día del Niño, el Museo Miraflores prepara una noche de diversión, exploración y aprendizaje. Estas son las actividades programadas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Top 3 de las películas más taquilleras de la historia: “Spider-Man: Brand New Day” alcanza el tercer puesto",
+      "link": "https://www.prensalibre.com/vida/escenario/top-3-de-las-peliculas-mas-taquilleras-de-la-historia-spider-man-brand-new-day-alcanza-el-tercer-puesto/",
+      "fecha": "Mon, 07 Sep 2026 21:52:01 +0000",
+      "categoria": "Escenario",
+      "resumen": "La nueva película de Spider-Man supera a “Avatar 2” y se coloca entre las tres películas más taquilleras de la historia."
     },
     {
       "fuente": "Guatemala.com",
@@ -68,6 +84,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Arévalo anuncia suspensión de cambios en Guatecompras y defiende que buscan agilizar la fiscalización",
+      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-anuncia-suspension-de-cambios-en-guatecompras-y-defiende-que-buscan-agilizar-la-fiscalizacion-breaking/",
+      "fecha": "Mon, 07 Sep 2026 20:46:06 +0000",
+      "categoria": "Política",
+      "resumen": "El presidente Bernardo Arévalo anunció que se suspenderá la implementación de los cambios en Guatecompras para someterlos a consulta, aunque defendió la medida."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Ataque armado contra microbús provoca cierres vehiculares en la calzada Roosevelt",
       "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-contra-microbus-provoca-cierres-vehiculares-en-la-calzada-roosevelt-breaking/",
       "fecha": "Mon, 07 Sep 2026 20:33:32 +0000",
@@ -92,6 +116,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Lautaro Martínez habla del retiro de Messi y recuerda su legado en Argentina",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lautaro-martinez-habla-del-retiro-de-messi-y-recuerda-su-legado-en-argentina-breaking/",
+      "fecha": "Mon, 07 Sep 2026 19:31:40 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El delantero del Inter de Milán compartió el impacto que tuvo la noticia en el plantel y agradeció al capitán por todo lo vivido juntos."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Cómo el declive de población alimenta el éxito de la extrema derecha de AfD en Sajonia-Anhalt y en el este de Alemania",
       "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/como-el-declive-de-poblacion-alimenta-el-exito-de-la-extrema-derecha-de-afd-en-sajonia-anhalt-y-en-el-este-de-alemania/",
       "fecha": "Mon, 07 Sep 2026 19:06:28 +0000",
@@ -105,6 +137,14 @@
       "fecha": "Mon, 07 Sep 2026 18:53:43 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "El delantero francés considera que su rendimiento y los récords alcanzados en la Copa del Mundo lo colocan entre los principales candidatos al prestigioso premio individual."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Enviados a prisión? Qué pasó con los sospechosos de la muerte del tecladista de Camilo Séptimo y su familia",
+      "link": "https://www.prensalibre.com/vida/escenario/enviados-a-prision-que-paso-con-los-sospechosos-de-la-muerte-del-tecladista-de-camilo-septimo-y-su-familia/",
+      "fecha": "Mon, 07 Sep 2026 18:45:18 +0000",
+      "categoria": "Escenario",
+      "resumen": "Dos personas, uno de ellos socio comercial de la víctima, son los presuntos responsables de la muerte del tecladista de Camilo Séptimo y de su familia."
     },
     {
       "fuente": "Prensa Libre",
@@ -268,11 +308,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Bloqueos de carreteras EN VIVO este 7 de septiembre en Guatemala: cinco puntos siguen cerrados y cuatro ya fueron habilitados",
+      "titulo": "Bloqueos de carreteras EN VIVO este 7 de septiembre en Guatemala: tras más de 10 horas, dos puntos siguen cerrados y siete ya fueron habilitados",
       "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-de-carreteras-en-vivo-este-7-de-septiembre-en-guatemala-manifestaciones-por-alza-al-combustible-y-otras-peticiones-breaking/",
       "fecha": "Mon, 07 Sep 2026 13:03:03 +0000",
       "categoria": "Comunitario",
-      "resumen": "Bloqueos de carreteras en Guatemala este lunes 7 de septiembre afectan la libre locomoción. Provial reporta cinco puntos bloqueados y cuatro habilitados."
+      "resumen": "Los bloqueos de carreteras en Guatemala continúan este lunes 7 de septiembre. Tras más de 10 horas desde el inicio de las primeras protestas, Provial reporta dos puntos bloqueados y siete ya habilitados."
     },
     {
       "fuente": "Prensa Libre",
@@ -769,46 +809,6 @@
       "fecha": "Sun, 06 Sep 2026 06:02:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "La mayoría no somos expertos en compras públicas y por eso necesitamos claridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "China, Estados Unidos y la disputa por el siglo XXI",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/china-estados-unidos-y-la-disputa-por-el-siglo-xxi/",
-      "fecha": "Sun, 06 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La competencia entre Estados Unidos y China definirá el nuevo orden mundial del siglo XXI."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy domingo 6 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-domingo-6-de-septiembre-de-2026/",
-      "fecha": "Sun, 06 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La Corona: el sitio de Petén donde se han recuperado más inscripciones jeroglíficas en las últimas décadas",
-      "link": "https://www.prensalibre.com/vida/escenario/la-corona-el-sitio-de-peten-donde-se-han-recuperado-mas-inscripciones-jeroglificas-en-las-ultimas-decadas/",
-      "fecha": "Sun, 06 Sep 2026 06:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Conozca más de este sitio arqueológico que  ayuda a reconstruir la historia de Tikal y el Reino Serpiente y revela las alianzas, guerras y matrimonios entre reinos mayas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Xelajú firma contundente goleada 4-0 ante Marquense en el clásico occidental",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/xelaju-firma-contundente-goleada-4-0-ante-marquense-en-el-clasico-occidental-breaking/",
-      "fecha": "Sun, 06 Sep 2026 05:03:03 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los Superchivos dominaron de principio a fin en el estadio Marquesa de La Ensenada, con un doblete de Yair Jaén y goles de Diego Casas y Steven Cárdenas, en una noche para olvidar para los Leones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Los ilegales&#8221;: cuáles son los vínculos con América Latina del programa de espionaje más secreto de Rusia",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-ilegales-cuales-son-los-vinculos-con-america-latina-del-programa-de-espionaje-mas-secreto-de-rusia/",
-      "fecha": "Sun, 06 Sep 2026 04:28:26 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El programa clandestino empezó antes del Revolución Rusa y llega hasta nuestros días, con Putin como gran valedor. Fue revelado en toda su dimensión en 2010 con el arresto de espías \"durmientes\" en EE.UU. Y ha tenido una larga relación con Latinoamérica."
     },
     {
       "fuente": "Guatemala.com",
