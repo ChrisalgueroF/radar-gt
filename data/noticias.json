@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-07T20:15:26.274Z",
+  "actualizado": "2026-09-07T21:14:38.550Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Feria Alimentaria 2026 reúne a más de 120 empresas y busca generar nuevos negocios en Guatemala",
+      "link": "https://www.prensalibre.com/economia/feria-alimentaria-2026-reune-a-mas-de-120-empresas-y-busca-generar-nuevos-negocios-en-guatemala/",
+      "fecha": "Mon, 07 Sep 2026 21:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Feria Alimentaria 2026 conmemora tres décadas como punto de encuentro para generar negocios, fortalecer alianzas y mostrar las tendencias de la industria gastronómica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Desfile del 15 de septiembre del 2026: ¿Cuántas bandas escolares participarán y cuál será el recorrido en Ciudad de Guatemala?",
+      "link": "https://www.prensalibre.com/vida/escenario/desfile-del-15-de-septiembre-del-2026-cuantas-bandas-escolares-participaran-y-cual-sera-el-recorrido-en-ciudad-de-guatemala/",
+      "fecha": "Mon, 07 Sep 2026 20:55:33 +0000",
+      "categoria": "Escenario",
+      "resumen": "Decenas de colegios recorrerán las calles de la zona 1 de Ciudad de Guatemala durante el tradicional desfile de Independencia, en el que las bandas escolares conmemorarán los 205 años de independencia del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque armado contra microbús provoca cierres vehiculares en la calzada Roosevelt",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-contra-microbus-provoca-cierres-vehiculares-en-la-calzada-roosevelt-breaking/",
+      "fecha": "Mon, 07 Sep 2026 20:33:32 +0000",
+      "categoria": "Sucesos",
+      "resumen": "PMT inicia cierres vehiculares hacia occidente por ataque armado contra un conductor de microbús en la calzada Roosevelt."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Metanfetamina desde una pizzería en California: acusan a migrante de operar la red de distribución",
@@ -777,30 +801,6 @@
       "fecha": "Sun, 06 Sep 2026 01:00:00 +0000",
       "categoria": "Economía",
       "resumen": "El déficit de lluvia y otros efectos de la variabilidad climática ponen en riesgo 377 mil 575 familias productoras y 178 mil 336 hectáreas, según el monitoreo del Ministerio de Agricultura, Ganadería y Alimentación (Maga)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Festival Vive Latino 2026 reúne a más de 45 mil fanáticos en España con 33 conciertos y presentaciones de lucha libre",
-      "link": "https://www.prensalibre.com/vida/escenario/festival-vive-latino-2026-reune-a-mas-de-45-mil-fanaticos-en-espana-con-33-conciertos-y-presentaciones-de-lucha-libre/",
-      "fecha": "Sun, 06 Sep 2026 00:44:10 +0000",
-      "categoria": "Escenario",
-      "resumen": "Con 36 horas de música, presentaciones de lucha libre y gastronomía latinoamericana, el Festival Vive Latino 2026 reúne en España a artistas y miles de fanáticos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Comunicaciones podría perder el punto ante Mixco? Así funciona la regla 6+5",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/por-que-comunicaciones-podria-perder-el-punto-ante-mixco-esta-es-la-regla-65-sobre-extranjeros-breaking/",
-      "fecha": "Sun, 06 Sep 2026 00:35:22 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Comunicaciones podría perder el punto rescatado ante Mixco en la jornada 7 del torneo Apertura 2026, porque alineó a seis extranjeros de forma simultánea durante cuatro minutos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Malacateco vs. Suchitepéquez: siga el minuto a minuto de la séptima jornada del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-malacateco-vs-suchitepequez-siga-el-minuto-a-minuto-de-la-septima-jornada-del-apertura-20267breaking/",
-      "fecha": "Sun, 06 Sep 2026 00:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Dos equipos del fondo de la tabla se miden este sábado a las 7:00 PM en el estadio Municipal Santa Lucía en un duelo clave para alejarse de los últimos lugares del Apertura 2026."
     },
     {
       "fuente": "Guatemala.com",
