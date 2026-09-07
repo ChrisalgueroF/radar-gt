@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-07T10:15:24.129Z",
+  "actualizado": "2026-09-07T11:15:47.570Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué más de 70 países guardan sus reservas de oro en el Banco de Inglaterra (y qué lo diferencia de otros bancos)",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/por-que-mas-de-70-paises-guardan-sus-reservas-de-oro-en-el-banco-de-inglaterra-y-que-lo-diferencia-de-otros-bancos/",
+      "fecha": "Mon, 07 Sep 2026 11:05:48 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Guardar las reservas de oro en el Banco de Inglaterra tiene varias ventajas y un inconveniente."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Presupuesto 2027: ¿Cuánto deberá cada guatemalteco? La deuda per cápita llegaría a Q17 mil 238",
@@ -801,14 +809,6 @@
       "fecha": "Sat, 05 Sep 2026 11:03:35 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La escritora Marta Jiménez Serrano habla sobre el trauma, la crisis de la vivienda y la incertidumbre que define a toda una generación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Índice de confianza se mantiene y por qué es clave para las próximas decisiones empresariales",
-      "link": "https://www.prensalibre.com/economia/indice-de-confianza-se-mantiene-y-por-que-es-clave-para-las-proximas-decisiones-empresariales/",
-      "fecha": "Sat, 05 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El índice que mide la confianza en la economía de Guatemala se mantiene por encima de la zona de expansión, mientras se entra en la fase del ciclo político-económico con la presentación del proyecto de Presupuesto 2027, que asciende a Q192 mil millones."
     },
     {
       "fuente": "Guatemala.com",
