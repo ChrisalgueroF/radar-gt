@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-07T11:15:47.570Z",
+  "actualizado": "2026-09-07T12:20:33.741Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El protector de la energía celular para una piel más suave y radiante",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/el-protector-de-la-energia-celular-para-una-piel-mas-suave-y-radiante/",
+      "fecha": "Mon, 07 Sep 2026 12:15:00 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Lancôme presenta en Perfumerías Fetiche una nueva generación de productos personalizados para el cuidado de la piel para la longevidad Lancôme Absolue Longevity MD, diseñados para atacar las causas profundas de los signos visibles del envejecimiento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Viajes en familia: cómo estas experiencias fortalecen los vínculos, ayudan a salir de la rutina y crean recuerdos",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/viajes-en-familia-como-estas-experiencias-fortalecen-los-vinculos-ayudan-a-salir-de-la-rutina-y-crean-recuerdos/",
+      "fecha": "Mon, 07 Sep 2026 12:00:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Las relaciones familiares no solo se fortalecen en casa: cambiar de escenario puede ayudar a estrechar vínculos, conocerse desde otra perspectiva y generar un impacto positivo en sus integrantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Vivimos en una política de la crueldad que busca normalizar cosas que antes no podíamos tragar&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/vivimos-en-una-politica-de-la-crueldad-que-busca-normalizar-cosas-que-antes-no-podiamos-tragar/",
+      "fecha": "Mon, 07 Sep 2026 11:57:32 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El autor de \"Lo intolerable\" plantea la responsabilidad colectiva como una respuesta ante la violencia del Estado."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Por qué más de 70 países guardan sus reservas de oro en el Banco de Inglaterra (y qué lo diferencia de otros bancos)",
@@ -785,30 +809,6 @@
       "fecha": "Sat, 05 Sep 2026 12:36:09 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "BBC Mundo entrevistó al autor mexicano Pedro Salazar sobre su nuevo libro Totalitarismo Total, en el que analiza cómo la inteligencia artificial está acelerando la concentración de poder y desafiando a las democracias liberales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En busca del soldado Tom: la BBC ayuda a resolver el misterio de un prisionero de guerra soviético que una familia británica escondió durante la Segunda Guerra Mundial",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/en-busca-del-soldado-tom-la-bbc-ayuda-a-resolver-el-misterio-de-un-prisionero-de-guerra-sovietico-que-una-familia-britanica-escondio-durante-la-segunda-guerra-mundial/",
-      "fecha": "Sat, 05 Sep 2026 12:31:53 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Bokejon, o simplemente Tom, fue rescatado por una familia de Jersey tras escapar de un campo de trabajo nazi, pero después de la guerra desapareció en la Unión Soviética."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Salario mínimo 2027: trabajadores y empresarios presentan propuestas, y Gobierno se abstiene",
-      "link": "https://www.prensalibre.com/economia/salario-minimo-2027-trabajadores-y-empresarios-presentan-propuestas-y-gobierno-se-abstiene/",
-      "fecha": "Sat, 05 Sep 2026 11:30:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El Gobierno, mediante los inspectores de Trabajo, se abstiene de presentar propuesta con cifras de aumento, mientras los sectores de trabajadores y de empresarios hacen sus planteamientos para la fijación del salario mínimo del 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las preguntas que me hice tras estar a punto de morir sin darme cuenta un sábado cualquiera en mi propia casa",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-preguntas-que-me-hice-tras-estar-a-punto-de-morir-sin-darme-cuenta-un-sabado-cualquiera-en-mi-propia-casa/",
-      "fecha": "Sat, 05 Sep 2026 11:03:35 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La escritora Marta Jiménez Serrano habla sobre el trauma, la crisis de la vivienda y la incertidumbre que define a toda una generación."
     },
     {
       "fuente": "Guatemala.com",
