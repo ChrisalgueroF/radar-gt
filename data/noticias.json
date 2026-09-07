@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-07T00:25:23.479Z",
+  "actualizado": "2026-09-07T01:14:04.691Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Manfiestaciones y protestas: PMT prevé más tránsito en la capital esta semana por movilizaciones anunciadas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/manfiestaciones-y-protestas-pmt-preve-mas-transito-en-la-capital-esta-semana-por-movilizaciones-anunciadas/",
+      "fecha": "Mon, 07 Sep 2026 01:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Los 48 Cantones de Totonicapán y la Gremial de Transporte Extraurbano de Pasajeros (Gretexpa) anunciaron movilizaciones para el martes 8 y miércoles 9 de septiembre, respectivamente, que podrían complicar el tránsito en varios sectores de la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Árbitro Lenin Pérez se desvanece y convulsiona en pleno partido de la Primera División",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/video-arbitro-lenin-perez-se-desvanece-y-convulsiona-en-pleno-partido-de-la-primera-division-breaking/",
+      "fecha": "Mon, 07 Sep 2026 00:40:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El colegiado cayó al césped al minuto 37 del duelo entre Chichicasteco y Quiché FC y, tras recibir asistencia médica, fue trasladado en ambulancia a un centro asistencial de Quiché."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Paola Pérlop recibe apoyo de Sara Curruchich y publica &#8220;Extraordinaria soy&#8221;, una canción para abrazar los sueños y honrar a las mujeres",
@@ -41,6 +57,14 @@
       "fecha": "Sun, 06 Sep 2026 22:14:53 +0000",
       "categoria": "Guatemala",
       "resumen": "El Ministerio de Gobernación (Mingob) espera recibir en septiembre el aval del Banco Centroamericano de Integración Económica (BCIE) para extender el préstamo por US$300 millones y avanzar con la licitación de la cárcel de máxima seguridad de Masagua, Escuintla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aiden, el rostro de una familia separada entre Guatemala y EE. UU. por la deportación de sus padres",
+      "link": "https://www.prensalibre.com/guatemala/migrantes/aiden-el-rostro-de-una-familia-separada-entre-guatemala-y-ee-uu-por-la-deportacion-de-sus-padres/",
+      "fecha": "Sun, 06 Sep 2026 22:08:23 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Aiden volvió a Guatemala para reunirse con sus padres, pero en el camino tuvo que despedirse de sus cuatro hermanos. Su llanto en el aeropuerto de Miami, durante la separación, resume el dolor de una familia que quedó dividida entre dos países."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,30 +801,6 @@
       "fecha": "Sat, 05 Sep 2026 02:55:45 +0000",
       "categoria": "Internacional",
       "resumen": "Aleyda Romero cuidaba a los hijos de Jonathan Meléndez. Antes de morir en el ataque contra la familia, habría dado una instrucción al niño de 6 años que pudo ayudarlo a sobrevivir."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Pierde sus prestaciones laborales si lo despiden durante el período de prueba?",
-      "link": "https://www.prensalibre.com/economia/pierde-sus-prestaciones-laborales-si-lo-despiden-durante-el-periodo-de-prueba/",
-      "fecha": "Sat, 05 Sep 2026 02:30:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Terminar un contrato durante los meses de prueba no elimina automáticamente el derecho a prestaciones proporcionales, explica el Mintrab."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué le pasó a Rick Harrison? Estrella de “El precio de la historia” fue operada de emergencia",
-      "link": "https://www.prensalibre.com/vida/escenario/que-le-paso-a-rick-harrison-estrella-de-el-precio-de-la-historia-fue-operada-de-emergencia/",
-      "fecha": "Sat, 05 Sep 2026 02:28:04 +0000",
-      "categoria": "Escenario",
-      "resumen": "El protagonista de “El precio de la historia” permanece hospitalizado después de someterse a una cirugía de emergencia. Esto se sabe sobre su estado de salud."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Lo invisible que puede ser un migrante en un país extraño”: beliceño vuelve con su familia tras meses en situación de calle",
-      "link": "https://www.prensalibre.com/ciudades/guatemala-ciudades/lo-invisible-que-puede-ser-un-migrante-en-un-pais-extrano-beliceno-vuelve-con-su-familia-tras-meses-en-situacion-de-calle/",
-      "fecha": "Sat, 05 Sep 2026 02:23:52 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Un hombre originario de Belice, con discapacidad y sin documentos, volvió con su familia después de pasar varios meses en situación de calle en Guatemala."
     },
     {
       "fuente": "Guatemala.com",
