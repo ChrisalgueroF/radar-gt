@@ -1,10 +1,10 @@
 {
-  "actualizado": "2026-09-07T01:14:04.691Z",
+  "actualizado": "2026-09-07T02:15:05.831Z",
   "total": 109,
   "noticias": [
     {
       "fuente": "Prensa Libre",
-      "titulo": "Manfiestaciones y protestas: PMT prevé más tránsito en la capital esta semana por movilizaciones anunciadas",
+      "titulo": "Manifestaciones y protestas: PMT prevé más tránsito en la capital esta semana por movilizaciones anunciadas",
       "link": "https://www.prensalibre.com/guatemala/comunitario/manfiestaciones-y-protestas-pmt-preve-mas-transito-en-la-capital-esta-semana-por-movilizaciones-anunciadas/",
       "fecha": "Mon, 07 Sep 2026 01:00:00 +0000",
       "categoria": "Comunitario",
@@ -25,6 +25,14 @@
       "fecha": "Mon, 07 Sep 2026 00:01:00 +0000",
       "categoria": "Escenario",
       "resumen": "La cantautora guatemalteca Paola Pérlop lanzó recientemente \"Extraordinaria soy\", el primer sencillo de un disco que marca el debut de Sara Curruchich como productora musical."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liam y Noel Gallagher reaparecen juntos en Venecia para la premier del documental de Oasis: cuándo se estrenará en Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/liam-y-noel-gallagher-reaparecen-juntos-en-venecia-para-la-premier-del-documental-de-oasis-cuando-se-estrenara-en-guatemala/",
+      "fecha": "Sun, 06 Sep 2026 23:50:39 +0000",
+      "categoria": "Escenario",
+      "resumen": "Los hermanos Liam y Noel Gallagher, fundadores de la banda británica Oasis, participaron en la premier de su documental durante el Festival de Cine de Venecia."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,14 +801,6 @@
       "fecha": "Sat, 05 Sep 2026 03:06:11 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El conjunto colonial tuvo que esperar hasta los últimos minutos para asegurar una victoria que lo mantiene entre los protagonistas del campeonato."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Escóndete y no salgas”: la frase que Aleyda Romero habría dicho al hijo del músico de Camilo Séptimo antes de morir",
-      "link": "https://www.prensalibre.com/internacional/escondete-y-no-salgas-la-frase-que-aleyda-romero-habria-dicho-al-hijo-del-musico-de-camilo-septimo-antes-de-morir/",
-      "fecha": "Sat, 05 Sep 2026 02:55:45 +0000",
-      "categoria": "Internacional",
-      "resumen": "Aleyda Romero cuidaba a los hijos de Jonathan Meléndez. Antes de morir en el ataque contra la familia, habría dado una instrucción al niño de 6 años que pudo ayudarlo a sobrevivir."
     },
     {
       "fuente": "Guatemala.com",
