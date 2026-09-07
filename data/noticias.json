@@ -1,14 +1,30 @@
 {
-  "actualizado": "2026-09-07T12:20:33.741Z",
+  "actualizado": "2026-09-07T13:16:57.208Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué es Sea Lion, el proyecto petrolero apuntado por Milei que reaviva la tensión entre Argentina y Reino Unido sobre las Malvinas/Falklands",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-es-sea-lion-el-proyecto-petrolero-apuntado-por-milei-que-reaviva-la-tension-entre-argentina-y-reino-unido-sobre-las-malvinas-falklands/",
+      "fecha": "Mon, 07 Sep 2026 12:35:20 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Se trata de una iniciativa de explotación petrolera británico-israelí que el mandatario argentino calificó como un \"peligro claro y urgente\" que justificaría las acciones anunciadas por su gobierno."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tránsito complicado este lunes: hecho de violencia y accidentes obligan a cierres viales",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/transito-complicado-este-lunes-hecho-de-violencia-y-accidentes-obligan-a-cierres-viales-breaking/",
+      "fecha": "Mon, 07 Sep 2026 12:34:57 +0000",
+      "categoria": "Sucesos",
+      "resumen": "La PMT informa que un hecho armado y varios percances viales obligan a cerrar algunos tramos de la capital este 7 de septiembre."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "El protector de la energía celular para una piel más suave y radiante",
       "link": "https://www.prensalibre.com/economia/vida-empresarial/el-protector-de-la-energia-celular-para-una-piel-mas-suave-y-radiante/",
       "fecha": "Mon, 07 Sep 2026 12:15:00 +0000",
       "categoria": "Vida Empresarial",
-      "resumen": "Lancôme presenta en Perfumerías Fetiche una nueva generación de productos personalizados para el cuidado de la piel para la longevidad Lancôme Absolue Longevity MD, diseñados para atacar las causas profundas de los signos visibles del envejecimiento."
+      "resumen": "La longevidad de la piel es la capacidad para mantenerse joven, resistente y funcional a lo largo del tiempo. A diferencia del antienvejecimiento tradicional, el cuidado facial de longevidad se centra en preservar la juventud de la piel apoyando la función de barrera cutánea a largo plazo y protegiendo contra el estrés oxidativo."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,22 +809,6 @@
       "fecha": "Sat, 05 Sep 2026 14:20:03 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "En una meseta perdida del Sinaí, mineros y dioses se cruzaron con una idea tan simple como revolucionaria. Sus huellas aún están en nuestras palabras."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo el juicio por asesinato de Lindsay Clancy ha dividido a EE.UU. sobre si es víctima de psicosis posparto o una criminal que mató a sus 3 hijos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-el-juicio-por-asesinato-de-lindsay-clancy-ha-dividido-a-ee-uu-sobre-si-es-victima-de-psicosis-posparto-o-una-criminal-que-mato-a-sus-3-hijos/",
-      "fecha": "Sat, 05 Sep 2026 13:30:01 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Mientras algunos estadounidenses creen que el caso puso en evidencia las problemas de salud mental que enfrentan algunas madres, otros insisten en que estas dificultades no son justificación para cometer delitos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Totalitarismo total&#8221;: cómo la IA impulsa la mayor concentración de poder de la historia (y cuál fue la predicción de Putin que se está haciendo realidad)",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/totalitarismo-total-como-la-ia-impulsa-la-mayor-concentracion-de-poder-de-la-historia-y-cual-fue-la-prediccion-de-putin-que-se-esta-haciendo-realidad-2/",
-      "fecha": "Sat, 05 Sep 2026 12:36:09 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "BBC Mundo entrevistó al autor mexicano Pedro Salazar sobre su nuevo libro Totalitarismo Total, en el que analiza cómo la inteligencia artificial está acelerando la concentración de poder y desafiando a las democracias liberales."
     },
     {
       "fuente": "Guatemala.com",
