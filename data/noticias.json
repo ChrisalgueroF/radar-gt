@@ -1,7 +1,103 @@
 {
-  "actualizado": "2026-09-07T05:14:33.861Z",
+  "actualizado": "2026-09-07T06:22:15.807Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027: ¿Cuánto deberá cada guatemalteco? La deuda per cápita llegaría a Q17 mil 238",
+      "link": "https://www.prensalibre.com/economia/presupuesto-2027-cuanto-debera-cada-guatemalteco-la-deuda-per-capita-llegaria-a-q17-mil-238/",
+      "fecha": "Mon, 07 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La deuda per cápita en Guatemala llegaría a Q17 mil 238 el próximo año por el planteamiento de endeudamiento incluido en el proyecto de presupuesto que presentó el Ministerio de Finanzas (Minfin) al Congreso de la República."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Campaña anticipada: TSE documenta 196 casos, la mayoría en redes sociales, y advierte sobre no inscripción",
+      "link": "https://www.prensalibre.com/guatemala/politica/campana-anticipada-tse-documenta-196-casos-la-mayoria-en-redes-sociales-y-advierte-sobre-no-inscripcion/",
+      "fecha": "Mon, 07 Sep 2026 06:07:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Las redes sociales concentran el 95% de los 196 expedientes que el Tribunal Supremo Electoral (TSE) ha documentado en lo que va del año por posibles transgresiones a la ley electoral, a pocos meses de la convocatoria a elecciones generales del 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El intruso",
+      "link": "https://www.prensalibre.com/opinion/caricatura/el-intruso/",
+      "fecha": "Mon, 07 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027 trae más deuda y más dudas",
+      "link": "https://www.prensalibre.com/opinion/editorial/presupuesto-2027-trae-mas-deuda-y-mas-dudas/",
+      "fecha": "Mon, 07 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "No por gastar más se gobierna mejor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Medio Oriente mantiene su apuesta por los centros de datos pese a la guerra",
+      "link": "https://www.prensalibre.com/internacional/medio-oriente-mantiene-su-apuesta-por-los-centros-de-datos-pese-a-la-guerra/",
+      "fecha": "Mon, 07 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Emiratos Árabes Unidos y Arabia Saudita mantienen grandes proyectos de centros de datos, aunque la guerra eleva los riesgos para inversionistas y empresas tecnológicas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Observadores advierten de que diputados buscan un contralor débil para obtener finiquitos ante las elecciones del 2027",
+      "link": "https://www.prensalibre.com/guatemala/politica/observadores-advierten-de-que-diputados-buscan-un-contralor-debil-para-obtener-finiquitos-ante-las-elecciones-del-2027/",
+      "fecha": "Mon, 07 Sep 2026 06:05:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Congreso necesita solo 81 votos para definir al contralor, pero las futuras negociaciones parecen poner en ventaja a la oposición sobre el oficialismo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Periodistas capturados, una muestra de tiranía",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/periodistas-capturados-una-muestra-de-tirania/",
+      "fecha": "Mon, 07 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El periodismo de investigación es, como mínimo, peligroso porque mientras más valiosos para el beneficio ciudadano son los resultados, más ira despiertan."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ley que desincentivaría el teletrabajo",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/ley-que-desincentivaria-el-teletrabajo/",
+      "fecha": "Mon, 07 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Si no está roto, no lo arregles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La carrera penitenciaria",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-carrera-penitenciaria/",
+      "fecha": "Mon, 07 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Recuperar el control de las cárceles requiere mucho más que infraestructura y requisas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Petróleo 2026 y Presupuesto 2024-2027 = inflación",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/petroleo-2026-y-presupuesto-2024-2027-inflacion/",
+      "fecha": "Mon, 07 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El precio del petróleo y la economía están conectados de forma directa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy lunes 7 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-7-de-septiembre-de-2026/",
+      "fecha": "Mon, 07 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Anormalidad del régimen de excepción",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/anormalidad-del-regimen-de-excepcion/",
+      "fecha": "Mon, 07 Sep 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Para decretar un régimen de excepción deben observarse los principios de justificación, temporalidad, proporcionalidad, estricto control parlamentario y jurisdiccional."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "Tráfico en Guatemala: bloqueos, cierres viales y rutas alternas",
@@ -713,102 +809,6 @@
       "fecha": "Sat, 05 Sep 2026 11:00:00 +0000",
       "categoria": "Economía",
       "resumen": "El índice que mide la confianza en la economía de Guatemala se mantiene por encima de la zona de expansión, mientras se entra en la fase del ciclo político-económico con la presentación del proyecto de Presupuesto 2027, que asciende a Q192 mil millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué es la proyección de Mercator y por qué los países de África lucharon para que se deje de usar para elaborar los mapamundis",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-es-la-proyeccion-de-mercator-y-por-que-los-paises-de-africa-lucharon-para-que-se-deje-de-usar-para-elaborar-los-mapamundis/",
-      "fecha": "Sat, 05 Sep 2026 10:00:09 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La proyección de Mercator muestra a Europa y Norteamérica desproporcionadamente grandes con respecto a África. La Asamblea General de la ONU votó a favor de sustituirla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estas son las 8 escuelas normales de Guatemala que podrían impartir magisterio en el 2027",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/estas-son-las-8-escuelas-normales-de-guatemala-que-podrian-impartir-magisterio-en-el-2027/",
-      "fecha": "Sat, 05 Sep 2026 06:16:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Ministerio de Educación tiene una lista de 40 escuelas normales para implementar la carrera de magisterio en el 2027; ocho estarían en el área metropolitana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por las nubes",
-      "link": "https://www.prensalibre.com/opinion/caricatura/por-las-nubes/",
-      "fecha": "Sat, 05 Sep 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuántos puntos se le da a la honorabilidad?",
-      "link": "https://www.prensalibre.com/opinion/editorial/cuantos-puntos-se-le-da-a-la-honorabilidad/",
-      "fecha": "Sat, 05 Sep 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "El problema de fondo es que para integrar la postuladora priman requisitos formales, pero no se sabe —aunque sí se sospecha— cómo y por qué fueron designados ciertos postuladores de dudosos nexos y actitudes que lo reflejan."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto 2027 refuerza fondos para transporte, puertos, infraestructura y Codedes",
-      "link": "https://www.prensalibre.com/guatemala/politica/presupuesto-2027-refuerza-fondos-para-transporte-puertos-infraestructura-y-codedes/",
-      "fecha": "Sat, 05 Sep 2026 06:05:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El proyecto de presupuesto para el 2027, por  más de Q192 mil millones, prioriza la inversión en infraestructura y contempla asignaciones extraordinarias para la Empresa Portuaria Quetzal, la Agencia Nacional de Infraestructura y los Codedes, además de recursos para modernizar los sistemas de transporte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Opinión: El camino de los demócratas hacia la mayoría en la Cámara de Representantes es más estrecho de lo que parece",
-      "link": "https://www.prensalibre.com/internacional/por-que-el-camino-de-los-democratas-para-controlar-la-camara-de-representantes-es-mas-dificil-de-lo-que-parece/",
-      "fecha": "Sat, 05 Sep 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Aunque las encuestas favorecen a los demócratas, la redistribución de distritos y la fortaleza republicana en escaños clave complican su camino hacia la mayoría."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuando el autoritarismo clerical criminaliza y no salva",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/cuando-el-autoritarismo-clerical-criminaliza-y-no-salva/",
-      "fecha": "Sat, 05 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Hay una diferencia abismal entre la Iglesia que corrige para salvar al hermano y aquella que corrige para criminalizarlo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Patricia Orantes deja un Marn fortalecido y Edwin Castellanos recibe el desafío de hacerlo crecer",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/patricia-orantes-deja-un-marn-fortalecido-y-edwin-castellanos/",
-      "fecha": "Sat, 05 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Guatemala será la sede en enero de una reunión de expertos sobre cambio climático viniendo de todas partes del mundo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Postuladora abre 14 horas para que ciudadanía cuestione a los aspirantes a la CGC",
-      "link": "https://www.prensalibre.com/guatemala/politica/postuladora-abre-14-horas-para-que-ciudadania-cuestione-a-los-aspirantes-a-la-cgc/",
-      "fecha": "Sat, 05 Sep 2026 06:02:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La comisión solo va a recibir señalamientos contra los aspirantes mañana y el lunes, y las objeciones serán discutidas en la postuladora el 8 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Barro, madera y maíz",
-      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/barro-madera-y-maiz/",
-      "fecha": "Sat, 05 Sep 2026 06:01:00 +0000",
-      "categoria": "Plumas invitadas",
-      "resumen": "Toda vida termina pareciéndose al material con que se construye."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Que no sepa tu izquierda lo que hace tu derecha",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/que-no-sepa-tu-izquierda-lo-que-hace-tu-derecha/",
-      "fecha": "Sat, 05 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Colijo una rústica trama para mantener el control del Colegio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy sábado 5 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-5-de-septiembre-de-2026/",
-      "fecha": "Sat, 05 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
     },
     {
       "fuente": "Guatemala.com",
