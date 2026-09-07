@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-07T13:16:57.208Z",
+  "actualizado": "2026-09-07T14:15:49.308Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bloqueos de carreteras EN VIVO este 7 de septiembre en Guatemala: manifestaciones por alza al combustible y otras peticiones",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-de-carreteras-en-vivo-este-7-de-septiembre-en-guatemala-manifestaciones-por-alza-al-combustible-y-otras-peticiones-breaking/",
+      "fecha": "Mon, 07 Sep 2026 13:03:03 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Bloqueos de carreteras en Guatemala este lunes 7 de septiembre afectan la libre locomoción."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Qué es Sea Lion, el proyecto petrolero apuntado por Milei que reaviva la tensión entre Argentina y Reino Unido sobre las Malvinas/Falklands",
@@ -24,7 +32,7 @@
       "link": "https://www.prensalibre.com/economia/vida-empresarial/el-protector-de-la-energia-celular-para-una-piel-mas-suave-y-radiante/",
       "fecha": "Mon, 07 Sep 2026 12:15:00 +0000",
       "categoria": "Vida Empresarial",
-      "resumen": "La longevidad de la piel es la capacidad para mantenerse joven, resistente y funcional a lo largo del tiempo. A diferencia del antienvejecimiento tradicional, el cuidado facial de longevidad se centra en preservar la juventud de la piel apoyando la función de barrera cutánea a largo plazo y protegiendo contra el estrés oxidativo."
+      "resumen": "La longevidad de la piel es la capacidad para mantenerse joven, resistente y funcional a lo largo del tiempo. A diferencia del antienvejecimiento tradicional, el cuidado facial de longevidad se centra en preservar la juventud de la piel apoyando la función de barrera cutánea a largo plazo y protegiendo contra el estrés oxidativo, y, para ayudar a este cuidado, Lancôme presenta Absolue Longevity MD."
     },
     {
       "fuente": "Prensa Libre",
@@ -801,14 +809,6 @@
       "fecha": "Sat, 05 Sep 2026 14:38:45 +0000",
       "categoria": "Guatemala",
       "resumen": "Dos personas resultaron heridas en el ataque en la colonia Berlín. Los sospechosos fueron detenidos cuando intentaban escapar en motocicleta y llevaban dos pistolas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La mina de turquesa donde nació nuestro alfabeto (y cuáles fueron las primeras palabras que encontraron)",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-mina-de-turquesa-donde-nacio-nuestro-alfabeto-y-cuales-fueron-las-primeras-palabras-que-encontraron/",
-      "fecha": "Sat, 05 Sep 2026 14:20:03 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En una meseta perdida del Sinaí, mineros y dioses se cruzaron con una idea tan simple como revolucionaria. Sus huellas aún están en nuestras palabras."
     },
     {
       "fuente": "Guatemala.com",
