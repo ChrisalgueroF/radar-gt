@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-07T14:15:49.308Z",
+  "actualizado": "2026-09-07T15:15:23.592Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;No tuve síntomas, ese es uno de los problemas de esta enfermedad&#8221;: la lucha de una presentadora de la BBC contra un raro cáncer en la sangre",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/no-tuve-sintomas-ese-es-uno-de-los-problemas-de-esta-enfermedad-la-lucha-de-una-presentadora-de-la-bbc-contra-un-raro-cancer-en-la-sangre/",
+      "fecha": "Mon, 07 Sep 2026 14:22:05 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La periodista Maryam Moshiri aseguró que al revelar su diagnóstico quería concienciar sobre esta enfermedad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vinícius Junior lanza su gran desafío con el Real Madrid: “Vamos a ganar la Champions”",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/vinicius-junior-lanza-su-gran-desafio-con-el-real-madrid-vamos-a-ganar-la-champions-breaking/",
+      "fecha": "Mon, 07 Sep 2026 14:12:17 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El brasileño asegura que la escuadra merengue está preparada para volver a conquistar Europa y buscar su título 16."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Bloqueos de carreteras EN VIVO este 7 de septiembre en Guatemala: manifestaciones por alza al combustible y otras peticiones",
@@ -793,22 +809,6 @@
       "fecha": "Sat, 05 Sep 2026 16:03:00 +0000",
       "categoria": "Escenario",
       "resumen": "La cantante mexicana regresará a Guatemala y ofrecerá un espectáculo a beneficio de instituciones que apoyan a la niñez y a familias guatemaltecas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comisión cierra primer día de recepción de tachas para aspirantes a Contralor sin señalamientos",
-      "link": "https://www.prensalibre.com/guatemala/politica/comision-abre-plazo-para-recepcion-de-tachas-contra-los-aspirantes-a-dirigir-la-contraloria/",
-      "fecha": "Sat, 05 Sep 2026 15:13:34 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Comisión de Postulación no recibió impedimentos contra los 40 aspirantes durante la primera jornada. La recepción continuará el lunes 7 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ataque armado en Mixco desata persecución y termina con dos hondureños capturados",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-mixco-desata-persecucion-y-termina-con-dos-hondurenos-capturados/",
-      "fecha": "Sat, 05 Sep 2026 14:38:45 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Dos personas resultaron heridas en el ataque en la colonia Berlín. Los sospechosos fueron detenidos cuando intentaban escapar en motocicleta y llevaban dos pistolas."
     },
     {
       "fuente": "Guatemala.com",
