@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-07T16:15:24.228Z",
+  "actualizado": "2026-09-07T17:14:11.803Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El dilema que enfrenta Europa tras la primera victoria de la extrema derecha en Alemania desde la Segunda Guerra Mundial",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-dilema-que-enfrenta-europa-tras-la-primera-victoria-de-la-extrema-derecha-en-alemania-desde-la-segunda-guerra-mundial/",
+      "fecha": "Mon, 07 Sep 2026 17:02:18 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La corresponsal de la BBC para Europa, Katya Adler, considera que la victoria de la extrema derecha en el estado de Sajonia-Anhalt es una señal de alarma para la UE y los partidos tradicionales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De la IA al impacto social: cómo Guatemala puede convertir sus problemas en oportunidades empresariales",
+      "link": "https://www.prensalibre.com/economia/de-la-ia-al-impacto-social-como-guatemala-puede-convertir-sus-problemas-en-oportunidades-empresariales/",
+      "fecha": "Mon, 07 Sep 2026 16:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La inteligencia artificial reduce el costo de acceder a conocimiento y desarrollar soluciones, mientras distintos modelos de negocio muestran cómo problemas sociales y ambientales pueden convertirse en oportunidades empresariales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "California busca limitar empleos públicos a los exagentes de ICE: ¿Cuáles quedarían vedados?",
@@ -240,7 +256,7 @@
       "link": "https://www.prensalibre.com/guatemala/justicia/fallece-reconocido-musico-en-un-accidente-de-transito-y-la-familia-busca-esclarecer-causas-del-incidente/",
       "fecha": "Mon, 07 Sep 2026 01:15:51 +0000",
       "categoria": "Guatemala",
-      "resumen": "Familiares del maestro y músico Héctor Hugo Girón Barrientos, de 64 años, quien murió después de un accidente de tránsito ocurrido en la zona 9, emprendieron acciones legales para esclarecer las causas del hecho y determinar responsabilidades."
+      "resumen": "Familiares del maestro y músico Héctor Hugo Girón Barrientos, de 64 años, quien murió después de un accidente de tránsito ocurrido en la zona 9, emprenderán acciones legales para esclarecer las causas del hecho y determinar responsabilidades."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,22 +809,6 @@
       "fecha": "Sat, 05 Sep 2026 17:48:21 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Carlos Tevez prepara su partido de despedida en el estadio de Boca Juniors para diciembre y ha expresado su deseo de reunir a Lionel Messi y a Cristiano Ronaldo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Volcano Innovation Summit 2026 congrega a emprendedores e inversionistas en Antigua Guatemala",
-      "link": "https://www.prensalibre.com/economia/volcano-innovation-summit-2026-congrega-a-emprendedores-e-inversionistas-en-antigua-guatemala/",
-      "fecha": "Sat, 05 Sep 2026 17:41:36 +0000",
-      "categoria": "Economía",
-      "resumen": "La séptima edición del Volcano Innovation Summit se realiza desde este sábado 5 hasta el lunes 7 de septiembre en Antigua Guatemala, con conferencias de expositores nacionales e internacionales, redes de negocios, competencias, programas de aceleración y acompañamiento a emprendedores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una doble explosión en cuartel militar de Bolivia deja al menos dos muertos y 81 heridos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-doble-explosion-en-cuartel-militar-de-bolivia-deja-al-menos-dos-muertos-y-81-heridos/",
-      "fecha": "Sat, 05 Sep 2026 17:10:46 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las explosiones en un cuartel militar de Bolivia dejan dos muertos, 81 heridos y siete desaparecidos."
     },
     {
       "fuente": "Guatemala.com",
