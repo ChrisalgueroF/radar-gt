@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-07T04:15:54.516Z",
+  "actualizado": "2026-09-07T05:14:33.861Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Tráfico en Guatemala: bloqueos, cierres viales y rutas alternas",
+      "link": "https://www.guatemala.com/noticias/comunidad/trafico-guatemala-bloqueos-cierres-viales-rutas-alternas-hoy.html",
+      "fecha": "Mon, 07 Sep 2026 04:16:50 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Los 48 Cantones anunciaron una marcha pacífica para el martes 8 de septiembre. Conoce las últimas actualizaciones sobre el tráfico en Guatemala aquí.\nThe post Tráfico en Guatemala: bloqueos, cierres viales y rutas alternas appeared first on Guatemala.com."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Vozinha debutó en la liga chilena con Colo Colo y mantuvo su arco en cero ante Huachipato",
@@ -865,14 +873,6 @@
       "fecha": "Mon, 31 Aug 2026 21:51:33 +0000",
       "categoria": "Cultura",
       "resumen": "La actriz guatemalteca Brenda González fue galardonada con el reconocimiento Legado de Oro por sus más de 40 años de trayectoria artística.\nThe post Actriz Brenda González destacada con el reconocimiento Legado de Oro por sus más de 40 años de trayectoria  appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "El Gran Jaguar es el primer nanochip diseñado completamente en Guatemala por estudiantes, docentes e investigadores de UVG",
-      "link": "https://www.guatemala.com/noticias/tecnologia/el-gran-jaguar.html",
-      "fecha": "Mon, 31 Aug 2026 18:24:18 +0000",
-      "categoria": "Tecnología",
-      "resumen": "El Gran Jaguar es el primer nanochip diseñado completamente en Guatemala por estudiantes, docentes e investigadores de UVG.\nThe post El Gran Jaguar es el primer nanochip diseñado completamente en Guatemala por estudiantes, docentes e investigadores de UVG appeared first on Guatemala.com."
     }
   ]
 }
