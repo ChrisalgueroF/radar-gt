@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-06T23:13:21.749Z",
+  "actualizado": "2026-09-07T00:25:23.479Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Paola Pérlop recibe apoyo de Sara Curruchich y publica &#8220;Extraordinaria soy&#8221;, una canción para abrazar los sueños y honrar a las mujeres",
+      "link": "https://www.prensalibre.com/vida/escenario/paola-perlop-recibe-apoyo-de-sara-curruchich-y-publica-extraordinaria-soy-una-cancion-para-abrazar-los-suenos-y-honrar-a-las-mujeres/",
+      "fecha": "Mon, 07 Sep 2026 00:01:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantautora guatemalteca Paola Pérlop lanzó recientemente \"Extraordinaria soy\", el primer sencillo de un disco que marca el debut de Sara Curruchich como productora musical."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Verificamos por usted: ¿habrá menos gasolina superior disponible en Guatemala?",
+      "link": "https://www.prensalibre.com/economia/verificamos-por-usted-habra-menos-gasolina-superior-disponible-en-guatemala/",
+      "fecha": "Sun, 06 Sep 2026 23:35:54 +0000",
+      "categoria": "Economía",
+      "resumen": "En las redes sociales ha circulado información sobre una posible escasez de gasolina superior o premium debido al aumento atípico del consumo en el país, tras la implementación de la gasolina regular con etanol."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Al menos 5 muertos al accidentarse un avión de carga en el aeropuerto de Miami",
@@ -9,6 +25,14 @@
       "fecha": "Sun, 06 Sep 2026 22:55:10 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Un avión de carga de la compañía Amazon se salió de la pista de aterrizaje."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Moyo Contreras regresa a Comunicaciones para formar parte de la dirección deportiva",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/moyo-contreras-regresa-a-comunicaciones-para-formar-parte-de-la-direccion-deportiva-breaking/",
+      "fecha": "Sun, 06 Sep 2026 22:53:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "José Manuel “Moyo” Contreras inicia una nueva etapa fuera de las canchas y se suma al proyecto deportivo de Comunicaciones en un momento de cambios para el club."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,30 +801,6 @@
       "fecha": "Sat, 05 Sep 2026 02:23:52 +0000",
       "categoria": "Guatemala",
       "resumen": "Un hombre originario de Belice, con discapacidad y sin documentos, volvió con su familia después de pasar varios meses en situación de calle en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fotógrafo guatemalteco destaca en el Wildlife Photographer of the Year 2026",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/fotografo-guatemalteco-destaca-en-el-wildlife-photographer-of-the-year-2026/",
-      "fecha": "Sat, 05 Sep 2026 02:03:46 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Pietro Rojas obtiene un importante reconocimiento internacional al ser seleccionado entre los finalistas de la 62ª edición del certamen Wildlife Photographer of the Year. Su obra, titulada The Show Goes On (El espectáculo continúa), fue galardonada con Mención Honorífica en la categoría de Fotoperiodismo por el Museo de Historia Natural de Londres, destacando entre un récord histórico de 65,403 participantes de todo el mundo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Farath Coronel: qué se sabe de la muerte del “Brujo Mexicano” y la versión sobre un supuesto asesinato",
-      "link": "https://www.prensalibre.com/vida/escenario/farath-coronel-que-se-sabe-de-la-muerte-del-brujo-mexicano-y-la-version-sobre-un-supuesto-asesinato/",
-      "fecha": "Sat, 05 Sep 2026 01:55:35 +0000",
-      "categoria": "Escenario",
-      "resumen": "El vidente mexicano Farath Coronel fue hallado sin vida en su vivienda. Esto se sabe sobre su muerte y la versión de un supuesto crimen."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La genética clínica marca la diferencia en la atención de los pacientes",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-genetica-clinica-marca-la-diferencia-en-la-atencion-de-los-pacientes/",
-      "fecha": "Sat, 05 Sep 2026 01:22:06 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "La medicina de precisión está transformando la forma en que se previenen, diagnostican y tratan enfermedades. Hoy, comprender la genética significa ofrecer soluciones más personalizadas y efectivas para cada paciente. Por lo que, en Guatemala, se realizó ORIGEN III – la tercera edición del Congreso Internacional de Genética Clínica, un evento multidisciplinario que se centró en la genética aplicada en la ginecología, oncología y pediatría."
     },
     {
       "fuente": "Guatemala.com",
