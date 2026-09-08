@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-08T13:17:47.073Z",
+  "actualizado": "2026-09-08T14:17:38.952Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Reino Unido anuncia sanciones contra los colonos israelíes en Cisjordania y los acusa de &#8220;limpieza étnica&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/reino-unido-anuncia-sanciones-contra-los-colonos-israelies-en-cisjordania-y-los-acusa-de-limpieza-etnica/",
+      "fecha": "Tue, 08 Sep 2026 13:57:20 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El ministro de Relaciones Exteriores británico presentó las nuevas medidas ante el Parlamento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Real Madrid vs. Inter, el gran duelo que abre una semana de Champions League",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-vs-inter-el-gran-duelo-que-abre-una-semana-de-champions-league-breaking/",
+      "fecha": "Tue, 08 Sep 2026 13:37:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Mbappé busca reivindicarse, Mourinho enfrenta a un viejo conocido y el Inter quiere dar el golpe en Madrid."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Primera División: Aguacatán y Mictlán mandan al cierre de la primera vuelta, así marchan las clasificaciones de los grupos A y B",
@@ -161,6 +177,14 @@
       "fecha": "Tue, 08 Sep 2026 04:50:55 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Las imágenes y otras pruebas que el FBI no compartió ponen en duda la declaración de inocencia que Omar al-Bayoumi ha mantenido durante 25 años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las autoridades investigan las causas del accidente de avión que dejó al menos 5 muertos tras chocar con varios vehículos en el aeropuerto de Miami",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-autoridades-investigan-las-causas-del-accidente-de-avion-que-dejo-al-menos-5-muertos-tras-chocar-con-varios-vehiculos-en-el-aeropuerto-de-miami/",
+      "fecha": "Tue, 08 Sep 2026 04:49:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El avión de carga de la compañía Amazon se salió de la pista de aterrizaje a casi 209 km/h este domingo sobre las 14:00 hora local."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,30 +817,6 @@
       "fecha": "Mon, 07 Sep 2026 02:08:25 +0000",
       "categoria": "Guatemala",
       "resumen": "La PNC retiró 21 cámaras clandestinas en las zonas 18 y 24, presuntamente usadas por pandillas para vigilar a autoridades y controlar sectores; el operativo se suma al reciente retiro de 32 dispositivos en la zona 21."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fallece reconocido músico en un accidente de tránsito y la familia busca esclarecer causas del incidente",
-      "link": "https://www.prensalibre.com/guatemala/justicia/fallece-reconocido-musico-en-un-accidente-de-transito-y-la-familia-busca-esclarecer-causas-del-incidente/",
-      "fecha": "Mon, 07 Sep 2026 01:15:51 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Familiares del maestro y músico Héctor Hugo Girón Barrientos, de 64 años, quien murió después de un accidente de tránsito ocurrido en la zona 9, emprenderán acciones legales para esclarecer las causas del hecho y determinar responsabilidades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Manifestaciones y protestas: PMT prevé más tránsito en la capital esta semana por movilizaciones anunciadas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/manfiestaciones-y-protestas-pmt-preve-mas-transito-en-la-capital-esta-semana-por-movilizaciones-anunciadas/",
-      "fecha": "Mon, 07 Sep 2026 01:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los 48 Cantones de Totonicapán y la Gremial de Transporte Extraurbano de Pasajeros (Gretexpa) anunciaron movilizaciones para el martes 8 y miércoles 9 de septiembre, respectivamente, que podrían complicar el tránsito en varios sectores de la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Municipal no pudo con San Pedro y reparten puntos en el Trébol",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/municipal-no-pudo-con-san-pedro-y-reparten-puntos-en-el-trebol-breaking/",
-      "fecha": "Mon, 07 Sep 2026 00:55:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los rojos y los gallos  terminaron sin goles en el estadio Manuel Felipe Carrera en un duelo donde ambos equipos se neutralizaron mutuamente sin encontrar el camino al gol."
     },
     {
       "fuente": "Guatemala.com",
