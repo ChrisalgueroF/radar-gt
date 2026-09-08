@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-08T16:16:53.331Z",
+  "actualizado": "2026-09-08T17:15:13.412Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mingob reforma reglamento para regular las visitas de menores en cárceles de Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mingob-reforma-reglamento-para-regular-las-visitas-de-menores-en-carceles-de-guatemala-breaking/",
+      "fecha": "Tue, 08 Sep 2026 16:30:40 +0000",
+      "categoria": "Justicia",
+      "resumen": "Mingob publica los requisitos para que niñas, niños y adolescentes visiten a privados de libertad en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Crecí en Texas escuchando sus canciones&#8221;: cómo Selena inspiró a Beyoncé y por qué grabó una nueva canción con fragmentos de &#8220;Como la flor&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/creci-en-texas-escuchando-sus-canciones-como-selena-inspiro-a-beyonce-y-por-que-grabo-una-nueva-cancion-con-fragmentos-de-como-la-flor/",
+      "fecha": "Tue, 08 Sep 2026 16:29:59 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La nueva producción también incluye una versión de “La Negra Tiene Tumbao”, en la que participa el colombiano Maluma."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Huracán Lowell amenaza Hawái con lluvias y olas de diez metros: Oahu está bajo alerta de tornados",
@@ -33,6 +49,14 @@
       "fecha": "Tue, 08 Sep 2026 14:24:29 +0000",
       "categoria": "Justicia",
       "resumen": "Jennifer Bachez, alias “Barbie del Sur”, enfrentará juicio junto con Axel Chavac. Una jueza admitió las pruebas y definió qué tribunal conocerá el proceso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elmo enseñará sobre emociones y valores a los niños con un nuevo proyecto de Plaza Sésamo",
+      "link": "https://www.prensalibre.com/vida/escenario/elmo-ensenara-sobre-emociones-y-valores-a-los-ninos-con-un-nuevo-proyecto-de-plaza-sesamo/",
+      "fecha": "Tue, 08 Sep 2026 14:19:40 +0000",
+      "categoria": "Escenario",
+      "resumen": "El famoso títere continúa acompañando a nuevas generaciones con material educativo, esta vez enfocado en fortalecer la inteligencia emocional de los niños."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,30 +809,6 @@
       "fecha": "Mon, 07 Sep 2026 06:05:00 +0000",
       "categoria": "Internacional",
       "resumen": "Emiratos Árabes Unidos y Arabia Saudita mantienen grandes proyectos de centros de datos, aunque la guerra eleva los riesgos para inversionistas y empresas tecnológicas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Observadores advierten de que diputados buscan un contralor débil para obtener finiquitos ante las elecciones del 2027",
-      "link": "https://www.prensalibre.com/guatemala/politica/observadores-advierten-de-que-diputados-buscan-un-contralor-debil-para-obtener-finiquitos-ante-las-elecciones-del-2027/",
-      "fecha": "Mon, 07 Sep 2026 06:05:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Congreso necesita solo 81 votos para definir al contralor, pero las futuras negociaciones parecen poner en ventaja a la oposición sobre el oficialismo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Periodistas capturados, una muestra de tiranía",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/periodistas-capturados-una-muestra-de-tirania/",
-      "fecha": "Mon, 07 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El periodismo de investigación es, como mínimo, peligroso porque mientras más valiosos para el beneficio ciudadano son los resultados, más ira despiertan."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ley que desincentivaría el teletrabajo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/ley-que-desincentivaria-el-teletrabajo/",
-      "fecha": "Mon, 07 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Si no está roto, no lo arregles."
     },
     {
       "fuente": "Guatemala.com",
