@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-08T12:20:38.444Z",
+  "actualizado": "2026-09-08T13:17:47.073Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Primera División: Aguacatán y Mictlán mandan al cierre de la primera vuelta, así marchan las clasificaciones de los grupos A y B",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/primera-division-aguacatan-y-mictlan-mandan-al-cierre-de-la-primera-vuelta-asi-marchan-las-clasificaciones-de-los-grupos-a-y-b-breaking/",
+      "fecha": "Tue, 08 Sep 2026 13:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "a primera vuelta de la Liga Primera División llegó a su cierre con una intensa lucha por los primeros lugares, equipos que consolidan su protagonismo y otros que deberán reaccionar en la segunda parte del campeonato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos hombres mueren en accidente de tránsito en la zona 13; cierran un carril",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-hombres-mueren-en-accidente-de-transito-en-la-zona-13-cierran-un-carril-breaking/",
+      "fecha": "Tue, 08 Sep 2026 12:35:22 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Autoridades informaron sobre el accidente en el que murieron dos hombres en la zona 13."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Pruebas PISA: España obtiene los peores resultados educativos de su historia mientras la mayoría de los países de América Latina sufren retrocesos",
@@ -801,22 +817,6 @@
       "fecha": "Mon, 07 Sep 2026 00:55:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Los rojos y los gallos  terminaron sin goles en el estadio Manuel Felipe Carrera en un duelo donde ambos equipos se neutralizaron mutuamente sin encontrar el camino al gol."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Árbitro se desvanece, convulsiona y causa preocupación en pleno partido de la Primera División",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/video-arbitro-lenin-perez-se-desvanece-y-convulsiona-en-pleno-partido-de-la-primera-division-breaking/",
-      "fecha": "Mon, 07 Sep 2026 00:40:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El colegiado cayó al césped al minuto 37 del duelo entre Chichicasteco y Quiché FC y, tras recibir asistencia médica, fue trasladado en ambulancia a un centro asistencial de Quiché."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Extraordinaria soy&#8221;: Paola Pérlop publica su sencillo debut, una canción para abrazar los sueños y honrar a las mujeres",
-      "link": "https://www.prensalibre.com/vida/escenario/extraordinaria-soy-paola-perlop-publica-su-sencillo-debut-una-cancion-para-abrazar-los-suenos-y-honrar-a-las-mujeres/",
-      "fecha": "Mon, 07 Sep 2026 00:01:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantautora guatemalteca Paola Pérlop lanzó recientemente \"Extraordinaria soy\", el primer sencillo de un disco que marca el debut de Sara Curruchich como productora musical."
     },
     {
       "fuente": "Guatemala.com",
