@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-08T10:16:43.078Z",
+  "actualizado": "2026-09-08T11:15:02.433Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inflación se acelera en Guatemala: combustibles presionan los precios e indicador llega a 3.37%",
+      "link": "https://www.prensalibre.com/economia/inflacion-se-acelera-en-guatemala-combustibles-presionan-los-precios-e-indicador-llega-a-3-37/",
+      "fecha": "Tue, 08 Sep 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Por segundo mes consecutivo, los hogares guatemaltecos percibieron un incremento en los precios y la inflación pasó de 2.70% en julio a 3.37% en agosto. Los combustibles fueron la principal causa."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Ladrones se roban 3 obras valoradas en más US$10 millones del Museo Renoir en Francia",
@@ -809,14 +817,6 @@
       "fecha": "Sun, 06 Sep 2026 23:35:54 +0000",
       "categoria": "Economía",
       "resumen": "En las redes sociales ha circulado información sobre una posible escasez de gasolina superior o premium debido al aumento atípico del consumo en el país, tras la implementación de la gasolina regular con etanol."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Al menos 5 muertos al accidentarse un avión de carga en el aeropuerto de Miami",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/al-menos-5-muertos-al-accidentarse-un-avion-de-carga-en-el-aeropuerto-de-miami/",
-      "fecha": "Sun, 06 Sep 2026 22:55:10 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Un avión de carga de la compañía Amazon se salió de la pista de aterrizaje."
     },
     {
       "fuente": "Guatemala.com",
