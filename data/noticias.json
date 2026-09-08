@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-07T23:14:23.959Z",
+  "actualizado": "2026-09-08T00:25:32.983Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "San Pedro y Suchitepéquez, dos realidades opuestas tras sus ascensos a la Liga Nacional",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/san-pedro-y-suchitepequez-dos-realidades-opuestas-tras-sus-ascensos-a-la-liga-nacional-breaking/",
+      "fecha": "Mon, 07 Sep 2026 23:41:28 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "San Pedro se ha convertido en la revelación del torneo Apertura y pelea en la parte alta de la clasificación, mientras Suchitepéquez no encuentra el rumbo, ocupa los últimos puestos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "León XIV: la inteligencia artificial y sus desafíos para los jóvenes serán el eje de su visita a la Unesco en París",
+      "link": "https://www.prensalibre.com/vida/escenario/leon-xiv-la-inteligencia-artificial-y-sus-desafios-para-los-jovenes-seran-el-eje-de-su-visita-a-la-unesco-en-paris/",
+      "fecha": "Mon, 07 Sep 2026 23:36:40 +0000",
+      "categoria": "Escenario",
+      "resumen": "El sumo pontífice León XIV visitará la sede de la Unesco, donde hablará sobre los desafíos de la inteligencia artificial, asunto que la organización busca abordar de manera conjunta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presidente Bernardo Arévalo cuestiona afirmaciones de diputados sobre presupuesto de Codedes",
+      "link": "https://www.prensalibre.com/guatemala/politica/presidente-bernardo-arevalo-cuestiona-afirmaciones-de-diputados-sobre-presupuesto-de-codedes/",
+      "fecha": "Mon, 07 Sep 2026 23:16:01 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El presidente Bernardo Arévalo aseguró que las afirmaciones de diputados sobre los recursos destinados a los Consejos Departamentales de Desarrollo (Codedes) en el 2027 presentan una visión “distorsionada” del presupuesto."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Presupuesto 2027: Los puntos que defiende Arévalo de la propuesta y la asignación a los Codedes",
@@ -9,6 +33,30 @@
       "fecha": "Mon, 07 Sep 2026 23:06:10 +0000",
       "categoria": "Economía",
       "resumen": "El presidente de la República, Bernardo Arévalo, defendió el proyecto de Presupuesto General de la Nación para el 2027 y aseguró que el incremento del gasto propuesto responde a una mayor inversión social, infraestructura y modernización del Estado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Está en llamas&#8221;: Qué revelan los audios de emergencia del avión de Amazon accidentado en Miami",
+      "link": "https://www.prensalibre.com/internacional/esta-en-llamas-que-revelan-los-audios-de-emergencia-del-avion-de-amazon-accidentado-en-miami/",
+      "fecha": "Mon, 07 Sep 2026 22:38:44 +0000",
+      "categoria": "Internacional",
+      "resumen": "Cinco personas murieron, tres resultaron gravemente heridas y otras dos fueron hospitalizadas luego de que un avión de carga se saliera de la pista en el Aeropuerto Internacional de Miami, según información publicada por Univision."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Supuesta caída de aeronave en Amatitlán moviliza a 50 bomberos, drones y recorridos de hasta 20 kilómetros",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/supuesta-caida-de-aeronave-en-amatitlan-moviliza-a-50-bomberos-drones-y-recorridos-de-hasta-20-kilometros-breaking/",
+      "fecha": "Mon, 07 Sep 2026 22:15:55 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Una llamada al 123 desató un amplio operativo de búsqueda en áreas montañosas de Amatitlán y Palín, pero después de varias horas los socorristas no encontraron rastros de una aeronave accidentada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Frente advertencias de bloqueos, el Congreso no consigue acuerdos para solucionar el alza de los combustibles",
+      "link": "https://www.prensalibre.com/guatemala/politica/frente-advertencias-de-bloqueos-el-congreso-no-consigue-acuerdos-para-solucionar-el-alza-de-los-combustibles/",
+      "fecha": "Mon, 07 Sep 2026 22:13:27 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Ejecutivo anunció una nueva iniciativa de ley, que no ha sido presentada, y el titular de Energía y Minas no fue capaz de explicar la propuesta a los jefes de bloques."
     },
     {
       "fuente": "Prensa Libre",
@@ -81,6 +129,14 @@
       "fecha": "Mon, 07 Sep 2026 20:55:33 +0000",
       "categoria": "Escenario",
       "resumen": "Decenas de colegios recorrerán las calles de la zona 1 de Ciudad de Guatemala durante el tradicional desfile de Independencia, en el que las bandas escolares conmemorarán los 205 años de independencia del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Agosto cierra con 318 homicidios y se convierte en el mes más violento de los últimos cinco años",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/agosto-cierra-con-318-homicidios-y-se-convierte-en-el-mes-mas-violento-de-los-ultimos-cinco-anos/",
+      "fecha": "Mon, 07 Sep 2026 20:49:18 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Con 318 muertes violentas, agosto del 2026 alcanzó el registro mensual más alto de los últimos cinco años. La cifra superó los 312 casos de julio pasado."
     },
     {
       "fuente": "Prensa Libre",
@@ -308,11 +364,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Bloqueos de carreteras EN VIVO este 7 de septiembre en Guatemala: tras más de 10 horas, dos puntos siguen cerrados y siete ya fueron habilitados",
+      "titulo": "Bloqueos de carreteras EN VIVO este 7 de septiembre en Guatemala: tras más de 12 horas, los nueve puntos fueron habilitados",
       "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-de-carreteras-en-vivo-este-7-de-septiembre-en-guatemala-manifestaciones-por-alza-al-combustible-y-otras-peticiones-breaking/",
       "fecha": "Mon, 07 Sep 2026 13:03:03 +0000",
       "categoria": "Comunitario",
-      "resumen": "Los bloqueos de carreteras en Guatemala continúan este lunes 7 de septiembre. Tras más de 10 horas desde el inicio de las primeras protestas, Provial reporta dos puntos bloqueados y siete ya habilitados."
+      "resumen": "Tras más de 12 horas desde el inicio de los bloqueos de este lunes, Provial reporta que los nueve puntos afectados ya fueron habilitados en Guatemala."
     },
     {
       "fuente": "Prensa Libre",
@@ -753,62 +809,6 @@
       "fecha": "Sun, 06 Sep 2026 13:15:58 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El matemático Jared Duker Lichtman de la Universidad de Stanford recibió un inesperado correo con la respuesta al problema 1196 de Erdős, un enigma con décadas de antigüedad en el que estaba trabajando."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuerpos envueltos y abandonados en Guatemala: qué revelan 65 casos registrados por el MP",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/cuerpos-envueltos-y-abandonados-en-guatemala-que-revelan-65-casos-registrados-por-el-mp/",
-      "fecha": "Sun, 06 Sep 2026 12:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El MP registra 65 personas muertas halladas en bolsas, sábanas, costales, toneles y otros envoltorios hasta el 2 de septiembre del 2026. Las investigaciones aún no determinan cuántos casos se relacionan."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué aseguran los guatemaltecos y cuáles son los nuevos riesgos que buscan proteger",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/que-aseguran-los-guatemaltecos-y-cuales-son-los-nuevos-riesgos-que-buscan-proteger/",
-      "fecha": "Sun, 06 Sep 2026 11:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "¿En qué momento algo deja de ser simplemente parte de nuestra vida y se convierte en un riesgo que merece ser asegurado?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Semana de protestas",
-      "link": "https://www.prensalibre.com/opinion/caricatura/semana-de-protestas-2/",
-      "fecha": "Sun, 06 Sep 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Humildad",
-      "link": "https://www.prensalibre.com/opinion/editorial/humildad/",
-      "fecha": "Sun, 06 Sep 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Importa la coherencia entre vida y valores; todo lo demás es una soberbia y vacía pretensión propagandística."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El libro “El mundo hacia el siglo XXI”",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-libro-el-mundo-hacia-el-siglo-xxi/",
-      "fecha": "Sun, 06 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Lo que este libro recoge es el liderazgo de Estados Unidos y las dinámicas en las principales regiones del mundo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatecompras: ¿a quién le molesta que podamos buscar?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/guatecompras-a-quien-le-molesta-que-podamos-buscar/",
-      "fecha": "Sun, 06 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Guatemala no tiene un problema de exceso de transparencia. Tiene décadas de problemas por lo contrario."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatecompras: recular o sufrir las consecuencias",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/guatecompras-recular-o-sufrir-las-consecuencias/",
-      "fecha": "Sun, 06 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La mayoría no somos expertos en compras públicas y por eso necesitamos claridad."
     },
     {
       "fuente": "Guatemala.com",
