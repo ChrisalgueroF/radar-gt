@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-08T15:17:06.844Z",
+  "actualizado": "2026-09-08T16:16:53.331Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Huracán Lowell amenaza Hawái con lluvias y olas de diez metros: Oahu está bajo alerta de tornados",
+      "link": "https://www.prensalibre.com/internacional/huracan-lowell-amenaza-hawai-con-lluvias-y-olas-de-diez-metros-oahu-esta-bajo-alerta-de-tornados/",
+      "fecha": "Tue, 08 Sep 2026 15:26:05 +0000",
+      "categoria": "Internacional",
+      "resumen": "Meteorólogos piden alejarse de las playas de Hawái y California y mantenerse hidratados frente a olas de calor en Los Ángeles, Las Vegas y Phoenix."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Los fronterizos somos de EE.UU. y de México y, al mismo tiempo hemos tenido el poder y la pasión para crear nuestra propia identidad&#8221;",
@@ -801,14 +809,6 @@
       "fecha": "Mon, 07 Sep 2026 06:03:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Si no está roto, no lo arregles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La carrera penitenciaria",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-carrera-penitenciaria/",
-      "fecha": "Mon, 07 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Recuperar el control de las cárceles requiere mucho más que infraestructura y requisas."
     },
     {
       "fuente": "Guatemala.com",
