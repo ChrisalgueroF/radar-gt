@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-08T09:16:31.387Z",
+  "actualizado": "2026-09-08T10:16:43.078Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ladrones se roban 3 obras valoradas en más US$10 millones del Museo Renoir en Francia",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ladrones-se-roban-3-obras-valoradas-en-mas-us10-millones-del-museo-renoir-en-francia/",
+      "fecha": "Tue, 08 Sep 2026 09:22:24 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los dos ladrones dejaron caer una de las obras cuando huían del museo. La policía municipal ha iniciado una búsqueda intensa de los individuos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "China construye grandes centros de datos lejos de Pekín para impulsar la inteligencia artificial",
@@ -809,14 +817,6 @@
       "fecha": "Sun, 06 Sep 2026 22:55:10 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Un avión de carga de la compañía Amazon se salió de la pista de aterrizaje."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Moyo Contreras regresa a Comunicaciones para formar parte de la dirección deportiva",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/moyo-contreras-regresa-a-comunicaciones-para-formar-parte-de-la-direccion-deportiva-breaking/",
-      "fecha": "Sun, 06 Sep 2026 22:53:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "José Manuel “Moyo” Contreras inicia una nueva etapa fuera de las canchas y se suma al proyecto deportivo de Comunicaciones en un momento de cambios para el club."
     },
     {
       "fuente": "Guatemala.com",
