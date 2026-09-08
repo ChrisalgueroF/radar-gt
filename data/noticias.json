@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-08T21:13:39.855Z",
+  "actualizado": "2026-09-08T22:14:52.583Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién es el líder político mejor pagado del mundo y por qué le subirán el salario US$1 millón",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/quien-es-el-lider-politico-mejor-pagado-del-mundo-y-por-que-le-subiran-el-salario-us1-millon/",
+      "fecha": "Tue, 08 Sep 2026 22:02:59 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El primer ministro de Singapur, Lawrence Wong, verá incrementado su salario anual a 3,6 millones de dólares singapurenses (US$2,8 millones)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“He dicho lo que quería decir”: Nicolas Cage habla sobre la decisión de Prime Video de no hacer una segunda temporada de Spider-Noir",
+      "link": "https://www.prensalibre.com/vida/escenario/he-dicho-lo-que-queria-decir-nicolas-cage-habla-sobre-la-decision-de-prime-video-de-no-hacer-una-segunda-temporada-de/",
+      "fecha": "Tue, 08 Sep 2026 21:59:31 +0000",
+      "categoria": "Escenario",
+      "resumen": "Pese a ser una de las series de la plataforma de streaming con más nominaciones a los premios Emmy del 2026, Prime Video decidió no continuar con la historia. Esto dijo su protagonista."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nueva York y el 11-S: 170 mil páginas revelan información sobre los riesgos de la calidad del aire",
+      "link": "https://www.prensalibre.com/internacional/nueva-york-y-el-11-s-170-mil-paginas-revelan-informacion-sobre-los-riesgos-de-la-calidad-del-aire/",
+      "fecha": "Tue, 08 Sep 2026 21:31:19 +0000",
+      "categoria": "Internacional",
+      "resumen": "El alcalde de la Ciudad de Nueva York mencionó que las enfermedades relacionadas con el polvo y el humo del derrumbe de las torres gemelas se han cobrado más vidas que los propios atentados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sharon Stone recuerda el derrame cerebral que casi le cuesta la vida y relata las visiones que tuvo durante su recuperación: “Se me presentaron y me hablaron”",
+      "link": "https://www.prensalibre.com/vida/escenario/sharon-stone-recuerda-el-derrame-cerebral-que-casi-le-cuesta-la-vida-y-relata-las-visiones-que-tuvo-durante-su-recuperacion-se-me-presentaron-y-me-hablaron/",
+      "fecha": "Tue, 08 Sep 2026 21:17:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Sharon Stone sufrió un derrame cerebral en 2001 y, durante su recuperación, tuvo visiones “extrañas” que después relacionó con una situación difícil de su vida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Real Madrid vence al Inter con presión, goles de Mbappé y Valverde y un Courtois salvador",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-vence-al-inter-con-presion-goles-de-mbappe-y-valverde-y-un-courtois-salvador-breaking/",
+      "fecha": "Tue, 08 Sep 2026 21:08:20 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El conjunto español superó 2-1 al Inter en el Santiago Bernabéu en un partido que tuvo de todo: presión, errores, contragolpes y sufrimiento hasta el final."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Recorrido de Leyendas llegará al Cerrito del Carmen con su edición del Capitán General para revivir la tradición oral del país",
@@ -9,6 +49,14 @@
       "fecha": "Tue, 08 Sep 2026 21:06:10 +0000",
       "categoria": "Escenario",
       "resumen": "En uno de los espacios emblemáticos de la tradición oral capitalina se presenta una nueva edición del Recorrido de Leyendas, una experiencia en la que los sustos forman parte de la diversión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala suma 2 mil 848 mexicanos recibidos como parte de vuelos de retornados desde Estados Unidos",
+      "link": "https://www.prensalibre.com/migrantes-2/guatemala-suma-2-mil-848-mexicanos-recibidos-como-parte-de-vuelos-de-retornados-desde-estados-unidos/",
+      "fecha": "Tue, 08 Sep 2026 21:05:37 +0000",
+      "categoria": "migrantes",
+      "resumen": "Guatemala recibió a 2 mil 848 mexicanos entre abril y septiembre, como parte de un mecanismo que los traslada en vuelos de guatemaltecos retornados de Estados Unidos."
     },
     {
       "fuente": "Guatemala.com",
@@ -276,7 +324,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Manifestaciones en Vivo en Guatemala: autoridades ancestrales rechazan subsidio y piden eliminar impuestos al combustible",
+      "titulo": "Manifestaciones en Vivo en Guatemala: Reunión con Arévalo concluye sin acuerdos y líderes indígenas esperan decisión del Congreso",
       "link": "https://www.prensalibre.com/guatemala/comunitario/manifestaciones-en-vivo-en-guatemala-movilizaciones-en-la-capital-este-8-de-septiembre-por-alto-costo-del-combustible-breaking/",
       "fecha": "Tue, 08 Sep 2026 13:15:45 +0000",
       "categoria": "Comunitario",
@@ -769,54 +817,6 @@
       "fecha": "Mon, 07 Sep 2026 17:56:50 +0000",
       "categoria": "Guatemala",
       "resumen": "El Mindef apoyó a la Contraloría con especialistas para la auditoría por la compra de 5 mil radios para la PNC."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Nuevo México podría llamarse Nueva América? Trump sugiere cambiar el nombre de ese estado",
-      "link": "https://www.prensalibre.com/internacional/nuevo-mexico-podria-llamarse-nueva-america-trump-sugiere-cambiar-el-nombre-de-ese-estado/",
-      "fecha": "Mon, 07 Sep 2026 17:49:19 +0000",
-      "categoria": "Internacional",
-      "resumen": "El territorio que hoy corresponde a Nuevo México se incorporó a EE. UU. al final de la guerra con México, como parte de la anexión de 1848."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Importación de maíz blanco aumenta tras ampliación del contingente y productores advierten impacto en precios",
-      "link": "https://www.prensalibre.com/economia/importacion-de-maiz-blanco-aumenta-tras-ampliacion-del-contingente-y-productores-advierten-impacto-en-precios/",
-      "fecha": "Mon, 07 Sep 2026 17:46:36 +0000",
-      "categoria": "Economía",
-      "resumen": "El contingente arancelario por desabastecimiento para importar maíz blanco sin aranceles fue ampliado a 115 mil toneladas métricas en este año, luego de agotarse el cupo inicial. En total, el Gobierno mantiene activos cuatro mecanismos para facilitar el ingreso de granos básicos durante el año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Estamos desconsolados&#8221;: Qué dijo Amazon tras el accidente aéreo en Miami que dejó cinco fallecidos",
-      "link": "https://www.prensalibre.com/internacional/estamos-desconsolados-que-dijo-amazon-tras-el-accidente-aereo-en-miami-que-dejo-cinco-fallecidos/",
-      "fecha": "Mon, 07 Sep 2026 17:39:09 +0000",
-      "categoria": "Internacional",
-      "resumen": "La compañía Amazon se pronunció luego de que uno de sus aviones se accidentara en Miami y causara la muerte de cinco personas el pasado 6 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Soy Luna Tour, El último show&#8221; llegará a Guatemala con Karol Sevilla y todo el elenco de la serie que cautivó en Latinoamérica y Europa",
-      "link": "https://www.prensalibre.com/vida/escenario/soy-luna-tour-el-ultimo-show-llegara-a-guatemala-con-karol-sevilla-y-todo-el-elenco-de-la-serie-que-cautivo-en-latinoamerica-y-europa/",
-      "fecha": "Mon, 07 Sep 2026 17:33:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El elenco de “Soy Luna” se presentará nuevamente en directo con una gira que recorrerá emblemáticos recintos y marcará el esperado regreso de sus protagonistas a los escenarios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿De qué murió Carla Jeffery? Familia de la actriz de Disney rechaza especulaciones",
-      "link": "https://www.prensalibre.com/vida/escenario/de-que-murio-carla-jeffery-familia-de-la-actriz-de-disney-rechaza-especulaciones/",
-      "fecha": "Mon, 07 Sep 2026 17:30:19 +0000",
-      "categoria": "Escenario",
-      "resumen": "La familia de Carla Jeffery respondió a las especulaciones sobre la causa de muerte de la actriz, quien falleció a los 33 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El dilema que enfrenta Europa tras la primera victoria de la extrema derecha en Alemania desde la Segunda Guerra Mundial",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-dilema-que-enfrenta-europa-tras-la-primera-victoria-de-la-extrema-derecha-en-alemania-desde-la-segunda-guerra-mundial/",
-      "fecha": "Mon, 07 Sep 2026 17:02:18 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La corresponsal de la BBC para Europa, Katya Adler, considera que la victoria de la extrema derecha en el estado de Sajonia-Anhalt es una señal de alarma para la UE y los partidos tradicionales."
     },
     {
       "fuente": "Guatemala.com",
