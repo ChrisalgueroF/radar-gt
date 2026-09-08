@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-08T04:15:57.306Z",
+  "actualizado": "2026-09-08T05:14:54.337Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los vínculos con Arabia Saudita del hombre en el centro de una multimillonaria demanda por los ataques del 11-S",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-vinculos-con-arabia-saudita-del-hombre-en-el-centro-de-una-multimillonaria-demanda-por-los-ataques-del-11-s/",
+      "fecha": "Tue, 08 Sep 2026 04:50:55 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las imágenes y otras pruebas que el FBI no compartió ponen en duda la declaración de inocencia que Omar al-Bayoumi ha mantenido durante 25 años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Identifican vehículo denunciado por invadir ciclovía en la zona 9 y advierten que podría ser consignado",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/identifican-vehiculo-denunciado-por-invadir-ciclovia-en-la-zona-9-y-advierten-que-podria-ser-consignado-breaking/",
+      "fecha": "Tue, 08 Sep 2026 04:46:41 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Emetra identificó el vehículo denunciado por circular en una ciclovía y estableció que acumula cuatro multas de tránsito desde octubre del 2024."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Una de las inversiones comerciales más importantes para la región está oriente",
@@ -801,22 +817,6 @@
       "fecha": "Sun, 06 Sep 2026 18:01:48 +0000",
       "categoria": "Deporte Nacional",
       "resumen": "El ciclista guatemalteco Mardoqueo Vásquez dominó la clasificación general de la sexta edición de la Vuelta a Honduras y coronó una destacada actuación junto al Team Hino One La Red Suzuki."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Cobán Imperial vs. Guastatoya: siga el minuto a minuto de la octava jornada del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-coban-imperial-vs-guastatoya-siga-el-minuto-a-minuto-de-la-octava-jornada-del-apertura-2026-breaking/",
-      "fecha": "Sun, 06 Sep 2026 18:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los príncipes azules reciben a los pecho amarillo este domingo a la 1:00 PM en el estadio José Ángel Rossi en un duelo donde Cobán busca urgentemente su primera victoria tras tres derrotas consecutivas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "LaLiga: así marcha la tabla de posiciones tras la jornada 4; Barcelona lidera invicto",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/laliga-asi-marcha-la-tabla-de-posiciones-tras-la-jornada-4-barcelona-lidera-invicto-breaking/",
-      "fecha": "Sun, 06 Sep 2026 17:44:57 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Tras la derrota del Real Madrid, los culés se consolidan en la cima con 12 puntos y como únicos invictos de LaLiga, mientras el Valencia sigue último con apenas un punto."
     },
     {
       "fuente": "Guatemala.com",
