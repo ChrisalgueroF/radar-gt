@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-08T11:15:02.433Z",
+  "actualizado": "2026-09-08T12:20:38.444Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pruebas PISA: España obtiene los peores resultados educativos de su historia mientras la mayoría de los países de América Latina sufren retrocesos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/pruebas-pisa-espana-obtiene-los-peores-resultados-educativos-de-su-historia-mientras-la-mayoria-de-los-paises-de-america-latina-sufren-retrocesos/",
+      "fecha": "Tue, 08 Sep 2026 12:03:33 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Más de 760.000 estudiantes realizaron la prueba en 91 países y economías, lo que representa a unos 33 millones de jóvenes de 15 años en todo el mundo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Perdí mis ahorros tras caer en una estafa de entrevistas de trabajo",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/perdi-mis-ahorros-tras-caer-en-una-estafa-de-entrevistas-de-trabajo/",
+      "fecha": "Tue, 08 Sep 2026 11:57:39 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los solicitantes de empleo, especialmente la Generación Z, están siendo blanco de aplicaciones de reclutamiento falsas y llenas de trampas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Inflación se acelera en Guatemala: combustibles presionan los precios e indicador llega a 3.37%",
@@ -801,22 +817,6 @@
       "fecha": "Mon, 07 Sep 2026 00:01:00 +0000",
       "categoria": "Escenario",
       "resumen": "La cantautora guatemalteca Paola Pérlop lanzó recientemente \"Extraordinaria soy\", el primer sencillo de un disco que marca el debut de Sara Curruchich como productora musical."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liam y Noel Gallagher reaparecen juntos en Venecia para la premier del documental de Oasis: cuándo se estrenará en Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/liam-y-noel-gallagher-reaparecen-juntos-en-venecia-para-la-premier-del-documental-de-oasis-cuando-se-estrenara-en-guatemala/",
-      "fecha": "Sun, 06 Sep 2026 23:50:39 +0000",
-      "categoria": "Escenario",
-      "resumen": "Los hermanos Liam y Noel Gallagher, fundadores de la banda británica Oasis, participaron en la premier de su documental durante el Festival de Cine de Venecia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Verificamos por usted: ¿habrá menos gasolina superior disponible en Guatemala?",
-      "link": "https://www.prensalibre.com/economia/verificamos-por-usted-habra-menos-gasolina-superior-disponible-en-guatemala/",
-      "fecha": "Sun, 06 Sep 2026 23:35:54 +0000",
-      "categoria": "Economía",
-      "resumen": "En las redes sociales ha circulado información sobre una posible escasez de gasolina superior o premium debido al aumento atípico del consumo en el país, tras la implementación de la gasolina regular con etanol."
     },
     {
       "fuente": "Guatemala.com",
