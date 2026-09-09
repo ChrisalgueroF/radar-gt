@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-09T02:15:23.546Z",
+  "actualizado": "2026-09-09T03:15:45.880Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Chris Rock habla sobre su altercado con Will Smith en los Óscar y revela qué tendría que pasar para volver a la ceremonia",
+      "link": "https://www.prensalibre.com/vida/escenario/chris-rock-habla-sobre-su-altercado-con-will-smith-en-los-oscar-y-revela-que-tendria-que-pasar-para-volver-a-la-ceremonia/",
+      "fecha": "Wed, 09 Sep 2026 03:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "A cuatro años del incidente que marcó los Premios Óscar, el actor y director Chris Rock reflexionó sobre el altercado y mencionó qué tendría que suceder para volver a la ceremonia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hallan muertos a cuatro miembros de una familia que viajaban en una avioneta desaparecida en Bahamas",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/hallan-muertos-a-cuatro-miembros-de-una-familia-que-viajaban-en-una-avioneta-desaparecida-en-bahamas/",
+      "fecha": "Wed, 09 Sep 2026 02:25:42 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Los cuatro integrantes de una familia de Florida que viajaban en una avioneta desaparecida cuando regresaban de las Bahamas fueron hallados muertos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Desfile del 15 de septiembre 2026: ¿a qué hora comienza y cuál será el recorrido por los 205 años de independencia?",
@@ -9,6 +25,14 @@
       "fecha": "Wed, 09 Sep 2026 02:00:00 +0000",
       "categoria": "Escenario",
       "resumen": "En conmemoración de los 205 años de independencia de Guatemala, colegios, escuelas e institutos recorrerán parte del Centro Histórico y llevarán música y alegría a las calles. Esto se conoce del recorrido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Transportistas amplían a tres los puntos de salida para la protesta de este miércoles y cuestionan propuesta de Q39",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/transportistas-amplian-a-tres-los-puntos-de-salida-para-la-protesta-de-manana-y-cuestionan-propuesta-de-q39/",
+      "fecha": "Wed, 09 Sep 2026 01:48:38 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Los transportistas amplian a tres los puntos de salida de la protesta de este miércoles y reiteran su rechazo a la propuesta de fijar en Q39 el galón de combustible, al advertir que podría terminar elevando las tarifas del pasaje."
     },
     {
       "fuente": "Prensa Libre",
@@ -33,6 +57,14 @@
       "fecha": "Wed, 09 Sep 2026 01:21:33 +0000",
       "categoria": "Justicia",
       "resumen": "El juez Fredy Orellana suspendió la continuación de la etapa intermedia del caso Valat y reprogramó para el 14 de octubre la siguiente audiencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Costa Rica aplica 13% de IVA a ChatGPT, Claude, Grok, Booking y otras plataformas digitales: conozca por qué y cómo impactará a los usuarios",
+      "link": "https://www.prensalibre.com/internacional/costa-rica-aplica-13-de-iva-a-chatgpt-claude-grok-booking-y-otras-plataformas-digitales-conozca-por-que-y-como-impactara-a-los-usuarios/",
+      "fecha": "Wed, 09 Sep 2026 01:15:52 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una actualización tributaria en Costa Rica alcanzará a populares servicios de inteligencia artificial, viajes y entretenimiento digital. Conozca qué cambia y qué deben tomar en cuenta los usuarios."
     },
     {
       "fuente": "Prensa Libre",
@@ -148,11 +180,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Congreso propone fijar precios de Q39 al diésel y gasolina regular, y Q41 a la gasolina superior",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-propone-fijar-precios-de-q39-al-diesel-y-gasolina-regular-y-q41-a-la-gasolina-superior/",
+      "titulo": "Congreso aprueba precios de Q39 al diésel y gasolina regular, y Q41 a la gasolina superior",
+      "link": "https://www.prensalibre.com/guatemala/politica/congreso-aprueba-precios-de-q39-al-diesel-y-gasolina-regular-y-q41-a-la-gasolina-superior/",
       "fecha": "Tue, 08 Sep 2026 22:13:25 +0000",
       "categoria": "Guatemala",
-      "resumen": "Una propuesta destina Q2 mil 500 millones para mantener estables los combustibles hasta fin de año, dependiendo la disponibilidad financiera y precios internacionales."
+      "resumen": "La nueva ley destina Q2 mil 500 millones para mantener estables los combustibles hasta fin de año, dependiendo la disponibilidad financiera y precios internacionales."
     },
     {
       "fuente": "Prensa Libre",
@@ -508,11 +540,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Manifestaciones en vivo en Guatemala: líderes indígenas esperan decisión del Congreso sobre propuesta para reducir precio de combustibles",
+      "titulo": "Manifestaciones en vivo en Guatemala: Congreso aprueba ley para fijar precios de combustibles tras jornada de protestas",
       "link": "https://www.prensalibre.com/guatemala/comunitario/manifestaciones-en-vivo-en-guatemala-movilizaciones-en-la-capital-este-8-de-septiembre-por-alto-costo-del-combustible-breaking/",
       "fecha": "Tue, 08 Sep 2026 13:15:45 +0000",
       "categoria": "Comunitario",
-      "resumen": "Guatemala vive una nueva jornada de manifestaciones este 8 de septiembre en rechazo al alto costo del combustible. Autoridades ancestrales se reúnen con el presidente Arévalo."
+      "resumen": "El Congreso aprobó una ley para fijar precios máximos a los combustibles, luego de una jornada de manifestaciones este 8 de septiembre contra el alza del diésel y las gasolinas."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,38 +817,6 @@
       "fecha": "Mon, 07 Sep 2026 23:16:01 +0000",
       "categoria": "Guatemala",
       "resumen": "El presidente Bernardo Arévalo aseguró que las afirmaciones de diputados sobre los recursos destinados a los Consejos Departamentales de Desarrollo (Codedes) en el 2027 presentan una visión “distorsionada” del presupuesto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto 2027: Los puntos que defiende Arévalo de la propuesta y la asignación a los Codedes",
-      "link": "https://www.prensalibre.com/economia/presupuesto-2027-los-puntos-que-defiende-arevalo-de-la-propuesta-y-la-asignacion-a-los-codedes/",
-      "fecha": "Mon, 07 Sep 2026 23:06:10 +0000",
-      "categoria": "Economía",
-      "resumen": "El presidente de la República, Bernardo Arévalo, defendió el proyecto de Presupuesto General de la Nación para el 2027 y aseguró que el incremento del gasto propuesto responde a una mayor inversión social, infraestructura y modernización del Estado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump publica mapa con la bandera de EE. UU. sobre México y Sheinbaum responde: “No somos colonia ni protectorado”",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/trump-publica-mapa-con-la-bandera-de-ee-uu-sobre-mexico-y-sheinbaum-responde-no-somos-colonia-ni-protectorado-breaking/",
-      "fecha": "Mon, 07 Sep 2026 22:55:44 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Trump publica mapa que muestra a EE. UU. extendido por Norteamérica, Centroamérica y el Caribe. La presidenta de México , Claudia Sheinbaum, reacciona."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Está en llamas&#8221;: Qué revelan los audios de emergencia del avión de Amazon accidentado en Miami",
-      "link": "https://www.prensalibre.com/internacional/esta-en-llamas-que-revelan-los-audios-de-emergencia-del-avion-de-amazon-accidentado-en-miami/",
-      "fecha": "Mon, 07 Sep 2026 22:38:44 +0000",
-      "categoria": "Internacional",
-      "resumen": "Cinco personas murieron, tres resultaron gravemente heridas y otras dos fueron hospitalizadas luego de que un avión de carga se saliera de la pista en el Aeropuerto Internacional de Miami, según información publicada por Univision."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Supuesta caída de aeronave en Amatitlán moviliza a 50 bomberos, drones y recorridos de hasta 20 kilómetros",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/supuesta-caida-de-aeronave-en-amatitlan-moviliza-a-50-bomberos-drones-y-recorridos-de-hasta-20-kilometros-breaking/",
-      "fecha": "Mon, 07 Sep 2026 22:15:55 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Una llamada al 123 desató un amplio operativo de búsqueda en áreas montañosas de Amatitlán y Palín, pero después de varias horas los socorristas no encontraron rastros de una aeronave accidentada."
     },
     {
       "fuente": "Guatemala.com",
