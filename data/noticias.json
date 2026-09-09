@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-09T18:19:00.185Z",
+  "actualizado": "2026-09-09T19:14:10.004Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "iPhone: ¿Cuál es el precio en Estados Unidos de los nuevos iPhone 18 Pro y iPhone 18 Pro Max anunciados en el Apple Event 2026?",
+      "link": "https://www.prensalibre.com/vida/tecnologia/iphone-cual-es-el-precio-en-estados-unidos-de-los-nuevos-iphone-18-pro-y-iphone-18-pro-max-anunciados-en-el-apple-event-2026/",
+      "fecha": "Wed, 09 Sep 2026 18:44:18 +0000",
+      "categoria": "Tecnología",
+      "resumen": "La empresa tecnológica Apple anunció su nueva generación de iPhone 18, con las versiones Pro y Pro Max, que incorporan innovaciones tecnológicas. Estos son los precios anunciados y sus características."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jimmy Kimmel podría salir del aire tras 24 años: Esto se sabe sobre el posible fin de su programa",
+      "link": "https://www.prensalibre.com/internacional/jimmy-kimmel-podria-salir-del-aire-tras-24-anos-esto-se-sabe-sobre-el-posible-fin-de-su-programa/",
+      "fecha": "Wed, 09 Sep 2026 18:31:04 +0000",
+      "categoria": "Internacional",
+      "resumen": "Jimmy Kimmel presenta su programa desde el 2003, lo que lo convierte en uno de los presentadores con mayor trayectoria de la televisión estadounidense."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "OpenAI asegura haber resuelto en 88 horas un problema matemático sin respuesta durante 90 años (y las acusaciones plagio en su contra)",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/openai-asegura-haber-resuelto-en-88-horas-un-problema-matematico-sin-respuesta-durante-90-anos-y-las-acusaciones-plagio-en-su-contra/",
+      "fecha": "Wed, 09 Sep 2026 18:23:15 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La afirmación de OpenAI de que había resuelto partes de las ecuaciones de Navier-Stokes ha generado controversia rápidamente."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "Bienal de Arte Paiz se prepara para celebrar sus 50 años con el anuncio del curador para su 25 edición",
@@ -9,6 +33,14 @@
       "fecha": "Wed, 09 Sep 2026 18:02:36 +0000",
       "categoria": "Cultura",
       "resumen": "Fundación Paiz anunció a Cuauhtémoc Medina como el curador de la 25 edición de la Bienal de Arte Paiz, que cumplirá 50 años en el 2027.\nThe post Bienal de Arte Paiz se prepara para celebrar sus 50 años con el anuncio del curador para su 25 edición appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué hará EE. UU.? lo que se sabe de la supuesta instalación nuclear iraní que estaría bajo tierra",
+      "link": "https://www.prensalibre.com/internacional/que-hara-ee-uu-lo-que-se-sabe-de-la-supuesta-instalacion-nuclear-irani-que-estaria-bajo-tierra/",
+      "fecha": "Wed, 09 Sep 2026 17:37:32 +0000",
+      "categoria": "Internacional",
+      "resumen": "Medios como CNN informan sobre la construcción de una supuesta instalación nuclear iraní que estaría bajo tierra."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,38 +825,6 @@
       "fecha": "Tue, 08 Sep 2026 14:38:55 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Lionel Messi y Kylian Mbappé encabezan la lista de 30 candidatos al Balón de Oro 2026, en la que también figuran Ousmane Dembélé y Lamine Yamal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Barbie del Sur” irá a juicio: admiten las pruebas y designan al tribunal que conocerá el caso",
-      "link": "https://www.prensalibre.com/guatemala/justicia/barbie-del-sur-ira-a-juicio-admiten-las-pruebas-y-designan-al-tribunal-que-conocera-el-caso-breaking/",
-      "fecha": "Tue, 08 Sep 2026 14:24:29 +0000",
-      "categoria": "Justicia",
-      "resumen": "Jennifer Bachez, alias “Barbie del Sur”, enfrentará juicio junto con Axel Chavac. Una jueza admitió las pruebas y definió qué tribunal conocerá el proceso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elmo enseñará sobre emociones y valores a los niños con un nuevo proyecto de Plaza Sésamo",
-      "link": "https://www.prensalibre.com/vida/escenario/elmo-ensenara-sobre-emociones-y-valores-a-los-ninos-con-un-nuevo-proyecto-de-plaza-sesamo/",
-      "fecha": "Tue, 08 Sep 2026 14:19:40 +0000",
-      "categoria": "Escenario",
-      "resumen": "El famoso títere continúa acompañando a nuevas generaciones con material educativo, esta vez enfocado en fortalecer la inteligencia emocional de los niños."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Reino Unido anuncia sanciones contra los colonos israelíes en Cisjordania y los acusa de &#8220;limpieza étnica&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/reino-unido-anuncia-sanciones-contra-los-colonos-israelies-en-cisjordania-y-los-acusa-de-limpieza-etnica/",
-      "fecha": "Tue, 08 Sep 2026 13:57:20 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El ministro de Relaciones Exteriores británico presentó las nuevas medidas ante el Parlamento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Real Madrid vs. Inter, el gran duelo que abre una semana de Champions League",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-vs-inter-el-gran-duelo-que-abre-una-semana-de-champions-league-breaking/",
-      "fecha": "Tue, 08 Sep 2026 13:37:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Mbappé busca reivindicarse, Mourinho enfrenta a un viejo conocido y el Inter quiere dar el golpe en Madrid."
     },
     {
       "fuente": "Guatemala.com",
