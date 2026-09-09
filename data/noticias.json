@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-09T16:16:46.087Z",
+  "actualizado": "2026-09-09T17:14:23.139Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿De qué murió Lucia Sisic? Miss Austria tenía 22 años y fue operada hasta siete veces del corazón",
+      "link": "https://www.prensalibre.com/internacional/de-que-murio-lucia-sisic-miss-austria-tenia-22-anos-y-fue-operada-hasta-siete-veces-del-corazon/",
+      "fecha": "Wed, 09 Sep 2026 17:04:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "El mundo de la moda y los certámenes de belleza están de luto por la muerte de Miss Austria, Lucía Sisic, quien tenía motivos para mirar al futuro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más de 30 cateos en Petén dan seguimiento a masacre en la que murieron cinco personas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mas-de-30-cateos-en-peten-dan-seguimiento-a-masacre-en-la-que-murieron-cinco-personas-breaking/",
+      "fecha": "Wed, 09 Sep 2026 16:49:55 +0000",
+      "categoria": "Justicia",
+      "resumen": "En San Andrés, Petén, investigadores efectúan allanamientos en seguimiento a una masacre ocurrida en julio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "25 años del 11-S: la agonía de los familiares de las víctimas de los peores atentados de la historia de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/25-anos-del-11-s-la-agonia-de-los-familiares-de-las-victimas-de-los-peores-atentados-de-la-historia-de-ee-uu/",
+      "fecha": "Wed, 09 Sep 2026 16:33:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "A medida que se acerca el 25 aniversario de los ataques del 11 de septiembre de 2001, continúa la espera para que el presunto autor intelectual de los atentados sea llevado ante la justicia."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Una fuerza destructiva&#8221;: el duro ataque del canciller Merz a AfD tras la primera gran victoria electoral del partido de ultraderecha en Alemania",
@@ -9,6 +33,14 @@
       "fecha": "Wed, 09 Sep 2026 16:09:35 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El cancillar alemán se enfrentó a la líder de la AfD, Alice Weidel, afirmando que su política migratoria equivale a una \"limpieza étnica\" de trabajadores cualificados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Apple Event 2026: ¿cuándo es, a qué hora y dónde ver el lanzamiento del iPhone 18 y las novedades de Apple?",
+      "link": "https://www.prensalibre.com/vida/tecnologia/apple-event-2026-cuando-es-a-que-hora-y-donde-ver-el-lanzamiento-del-iphone-18-y-las-novedades-de-apple/",
+      "fecha": "Wed, 09 Sep 2026 16:00:00 +0000",
+      "categoria": "Tecnología",
+      "resumen": "La empresa tecnológica Apple celebrará su Apple Event, en el que presentará sus innovaciones tecnológicas y podría anunciar la llegada del iPhone 18. Siga aquí el evento."
     },
     {
       "fuente": "Prensa Libre",
@@ -33,6 +65,14 @@
       "fecha": "Wed, 09 Sep 2026 15:24:45 +0000",
       "categoria": "Sucesos",
       "resumen": "Dos mujeres perdieron la vida en un ataque armado en una venta de ropa en la colonia Santa Fe, zona 13."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Mujeres, hilos y raíces&#8221;, de Andrea Aragón, se luce en Mesón Panza Verde",
+      "link": "https://www.prensalibre.com/vida/escenario/mujeres-hilos-y-raices-de-andrea-aragon-se-luce-en-meson-panza-verde/",
+      "fecha": "Wed, 09 Sep 2026 15:17:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "A través de fotografías intervenidas, la artista explora historias familiares, experiencias de mujeres y lo que se transmite de generación en generación."
     },
     {
       "fuente": "Prensa Libre",
@@ -89,6 +129,14 @@
       "fecha": "Wed, 09 Sep 2026 13:44:57 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "El presidente del Barcelona cuestiona la decisión y defiende a sus figuras, mientras apunta a Lamine Yamal como uno de los favoritos para ganar el premio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Reino Unido anuncia sanciones contra los colonos judíos en Cisjordania y provoca una airada respuesta de Israel",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/reino-unido-anuncia-sanciones-contra-los-colonos-judios-en-cisjordania-y-provoca-una-airada-respuesta-de-israel/",
+      "fecha": "Wed, 09 Sep 2026 12:06:00 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El ministro de Relaciones Exteriores británico presentó las nuevas medidas ante el Parlamento, mientras Israel acusa a Londres de incurrir en una \"flagrante injerencia\" en su proceso electoral."
     },
     {
       "fuente": "Prensa Libre",
@@ -769,54 +817,6 @@
       "fecha": "Tue, 08 Sep 2026 13:33:12 +0000",
       "categoria": "Salud y Familia",
       "resumen": "Conozca estos recorridos gastronómicos en fincas guatemaltecas y descubra el proceso de producción del queso, el café y el aguacate, desde su origen hasta la degustación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Manifestaciones EN VIVO en Guatemala: bloqueos y caravanas este 9 de septiembre por alto precio del combustible",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/manifestaciones-en-vivo-en-guatemala-bloqueos-y-caravanas-este-9-de-septiembre-por-alto-precio-del-combustible-breaking/",
-      "fecha": "Tue, 08 Sep 2026 13:15:45 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Manifestaciones y bloqueos continúan en Guatemala en medio de la aprobación de una ley del Congreso para fijar precios máximos a los combustibles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Primera División: Aguacatán y Mictlán mandan al cierre de la primera vuelta, así marchan las clasificaciones de los grupos A y B",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/primera-division-aguacatan-y-mictlan-mandan-al-cierre-de-la-primera-vuelta-asi-marchan-las-clasificaciones-de-los-grupos-a-y-b-breaking/",
-      "fecha": "Tue, 08 Sep 2026 13:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "a primera vuelta de la Liga Primera División llegó a su cierre con una intensa lucha por los primeros lugares, equipos que consolidan su protagonismo y otros que deberán reaccionar en la segunda parte del campeonato."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos hombres mueren en accidente de tránsito en la zona 13; cierran un carril",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-hombres-mueren-en-accidente-de-transito-en-la-zona-13-cierran-un-carril-breaking/",
-      "fecha": "Tue, 08 Sep 2026 12:35:22 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Autoridades informaron sobre el accidente en el que murieron dos hombres en la zona 13."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pruebas PISA: España obtiene los peores resultados educativos de su historia mientras la mayoría de los países de América Latina sufren retrocesos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/pruebas-pisa-espana-obtiene-los-peores-resultados-educativos-de-su-historia-mientras-la-mayoria-de-los-paises-de-america-latina-sufren-retrocesos/",
-      "fecha": "Tue, 08 Sep 2026 12:03:33 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Más de 760.000 estudiantes realizaron la prueba en 91 países y economías, lo que representa a unos 33 millones de jóvenes de 15 años en todo el mundo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Perdí mis ahorros tras caer en una estafa de entrevistas de trabajo",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/perdi-mis-ahorros-tras-caer-en-una-estafa-de-entrevistas-de-trabajo/",
-      "fecha": "Tue, 08 Sep 2026 11:57:39 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los solicitantes de empleo, especialmente la Generación Z, están siendo blanco de aplicaciones de reclutamiento falsas y llenas de trampas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inflación se acelera en Guatemala: combustibles presionan los precios e indicador llega a 3.37%",
-      "link": "https://www.prensalibre.com/economia/inflacion-se-acelera-en-guatemala-combustibles-presionan-los-precios-e-indicador-llega-a-3-37/",
-      "fecha": "Tue, 08 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Por segundo mes consecutivo, los hogares guatemaltecos percibieron un incremento en los precios y la inflación pasó de 2.70% en julio a 3.37% en agosto. Los combustibles fueron la principal causa."
     },
     {
       "fuente": "Guatemala.com",
