@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-09T20:15:53.395Z",
+  "actualizado": "2026-09-09T21:13:26.167Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La cruenta batalla interna que se libra en el Pentágono por el futuro del ejército más poderoso del mundo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-cruenta-batalla-interna-que-se-libra-en-el-pentagono-por-el-futuro-del-ejercito-mas-poderoso-del-mundo/",
+      "fecha": "Wed, 09 Sep 2026 20:48:32 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La agitación en las fuerzas armadas podría marcar el legado del segundo mandato de Trump, escribe Tom Bateman, corresponsal de la BBC en el Departamento de Estado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; San Pedro vs. Mixco: duelo directo por acercarse al liderato del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-san-pedro-vs-mixco-duelo-directo-por-acercarse-al-liderato-del-apertura-2026/",
+      "fecha": "Wed, 09 Sep 2026 20:07:26 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los supergallos y los chicharroneros se enfrentan en un duelo directo por acercarse al liderato del Torneo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Cómo es el iPhone Duo? El primer teléfono plegable con el que Apple entra al nuevo mercado",
@@ -17,6 +33,14 @@
       "fecha": "Wed, 09 Sep 2026 19:27:16 +0000",
       "categoria": "Economía",
       "resumen": "Los integrantes de la Junta Monetaria (JM) eligieron este miércoles la terna de profesionales para la jefatura de la Superintendencia de Bancos (SIB), cuyo relevo se llevará a cabo el próximo 1 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Estoy devastada&#8221;: Esto dijeron las personas que conocían a las víctimas del accidente aéreo en Miami",
+      "link": "https://www.prensalibre.com/internacional/estoy-devastada-esto-dijeron-las-personas-que-conocian-a-las-victimas-del-accidente-aereo-en-miami/",
+      "fecha": "Wed, 09 Sep 2026 19:19:52 +0000",
+      "categoria": "Internacional",
+      "resumen": "Cinco personas fallecieron luego de que un avión de la empres Amazon colisionara contra varios vehículos en Miami el pasado 6 de septiembre."
     },
     {
       "fuente": "Prensa Libre",
@@ -801,30 +825,6 @@
       "fecha": "Tue, 08 Sep 2026 16:52:05 +0000",
       "categoria": "Escenario",
       "resumen": "El rey Carlos III confirmó que el príncipe Enrique y Meghan Markle, duques de Sussex, continuarán fuera de la familia real. La pareja reaccionó a la carta emitida por el monarca."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mingob reforma reglamento para regular las visitas de menores en cárceles de Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mingob-reforma-reglamento-para-regular-las-visitas-de-menores-en-carceles-de-guatemala-breaking/",
-      "fecha": "Tue, 08 Sep 2026 16:30:40 +0000",
-      "categoria": "Justicia",
-      "resumen": "Mingob publica los requisitos para que niñas, niños y adolescentes visiten a privados de libertad en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Crecí en Texas escuchando sus canciones&#8221;: cómo Selena inspiró a Beyoncé y por qué grabó una nueva canción con fragmentos de &#8220;Como la flor&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/creci-en-texas-escuchando-sus-canciones-como-selena-inspiro-a-beyonce-y-por-que-grabo-una-nueva-cancion-con-fragmentos-de-como-la-flor/",
-      "fecha": "Tue, 08 Sep 2026 16:29:59 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La nueva producción también incluye una versión de “La Negra Tiene Tumbao”, en la que participa el colombiano Maluma."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Harry y Meghan se muestran sorprendidos por la carta en la que el rey Carlos III dice que siguen sin trabajar para la monarquía británica",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/harry-y-meghan-se-muestran-sorprendidos-por-la-carta-en-la-que-el-rey-carlos-iii-dice-que-siguen-sin-trabajar-para-la-monarquia-britanica/",
-      "fecha": "Tue, 08 Sep 2026 16:00:44 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Según fuentes del Palacio, una carta ha sido enviada al equipo del príncipe Harry, al gobierno, a los militares y a los lord tenientes, para aclarar el estatus de los duques de Sussex en su regreso a Reino Unido."
     },
     {
       "fuente": "Guatemala.com",
