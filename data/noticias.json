@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-09T10:16:17.223Z",
+  "actualizado": "2026-09-09T11:15:01.862Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Maíz y frijol siguen encareciendo: así afecta a los consumidores",
+      "link": "https://www.prensalibre.com/economia/maiz-y-frijol-siguen-encareciendo-asi-afecta-a-los-consumidores/",
+      "fecha": "Wed, 09 Sep 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El maíz blanco acumuló un aumento de Q70.50 por quintal en las últimas tres semanas. Solo la última semana subió Q52 por quintal , mientras que el maíz amarillo tuvo un alza Q30 y el frijol negro, de Q45."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tomate podría encarecerse más por la sequía, menor oferta y demanda de exportación hacia El Salvador",
+      "link": "https://www.prensalibre.com/economia/tomate-podria-encarecerse-mas-por-la-sequia-menor-oferta-y-demanda-de-exportacion-hacia-el-salvador/",
+      "fecha": "Wed, 09 Sep 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El tomate y la cebolla fueron dos de los productos que durante agosto registraron alzas que se reflejaron en la inflación, mientras que productores confirman que hay escasez debido a la sequía y a los envíos hacia El Salvador, donde se paga un mejor precio."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Guatemala ante el reto tecnológico: qué pueden aprender las fintech de la transformación financiera de Chile",
@@ -801,22 +817,6 @@
       "fecha": "Tue, 08 Sep 2026 06:01:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "¿Cómo ponemos un límite al gasto público?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy martes 8 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-8-de-septiembre-de-2026/",
-      "fecha": "Tue, 08 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“No me extrañaría que vengan nuevas inversiones en aeropuertos”",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/no-me-extranaria-que-vengan-nuevas-inversiones-en-aeropuertos/",
-      "fecha": "Tue, 08 Sep 2026 06:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Con las leyes de infraestructura y puertos recién aprobadas en Guatemala, el presidente de CMI Capital identifica en la nueva legislación una oportunidad para movilizar inversión privada y atraer jugadores locales e internacionales."
     },
     {
       "fuente": "Guatemala.com",
