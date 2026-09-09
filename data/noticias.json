@@ -1,7 +1,55 @@
 {
-  "actualizado": "2026-09-09T00:25:27.335Z",
+  "actualizado": "2026-09-09T01:14:07.175Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. revela nuevos detalles contra “el Tuerto”, señalado de narcotráfico y quien obtuvo contratos por Q217 millones con Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ee-uu-revela-nuevos-detalles-contra-el-tuerto-senalado-de-narcotrafico-y-quien-obtuvo-contratos-por-q217-millones-con-guatemala/",
+      "fecha": "Wed, 09 Sep 2026 01:05:51 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Siete colaboradores figuran en el expediente de EE. UU. contra el guatemalteco Cristhian Vaides Fión, señalado de narcotráfico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Concierto de Independencia 2026: Celebrando el mes de la patria",
+      "link": "https://www.prensalibre.com/vida/escenario/concierto-de-independencia-2026-celebrando-el-mes-de-la-patria/",
+      "fecha": "Wed, 09 Sep 2026 01:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Un evento artístico que conmemora el Día de la Independencia de Guatemala mediante la música y la tradición."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¡Error que sale caro! Comunicaciones pierde 3-0 ante Mixco por alinear indebidamente a seis extranjeros",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/error-que-sale-caro-comunicaciones-pierde-3-0-ante-mixco-por-la-regla-65-breaking/",
+      "fecha": "Wed, 09 Sep 2026 00:47:44 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Liga Nacional sancionó a Comunicaciones por alinear durante cuatro minutos a seis futbolistas extranjeros en el partido contra Mixco con lo cual violó la regla 6+5."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salí a buscar las cámaras de vigilancia de mi barrio en Nueva York y encontré muchas más de las que esperaba",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/sali-a-buscar-las-camaras-de-vigilancia-de-mi-barrio-en-nueva-york-y-encontre-muchas-mas-de-las-que-esperaba/",
+      "fecha": "Wed, 09 Sep 2026 00:33:29 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las cámaras de vigilancia se extienden no solo por EE.UU., sino por todo el mundo. El debate sobre su uso se centra, una vez más, en la dicotomía entre privacidad y seguridad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fármaco para la obesidad se asocia con una reducción de hasta 40% de las crisis de asma, según estudio",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/farmaco-para-la-obesidad-se-asocia-con-una-reduccion-de-hasta-40-de-las-crisis-de-asma-segun-estudio/",
+      "fecha": "Wed, 09 Sep 2026 00:30:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Un fármaco que ayuda a tratar la diabetes tipo 2 se asocia, según un estudio médico, con la reducción de las crisis de asma y podría aportar beneficios respiratorios adicionales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La petición de Trump a la Corte Suprema: que se reactive un sistema utilizado para depurar el padrón electoral",
+      "link": "https://www.prensalibre.com/internacional/la-peticion-de-trump-a-la-corte-suprema-que-se-reactive-un-sistema-utilizado-para-depurar-el-padron-electoral/",
+      "fecha": "Wed, 09 Sep 2026 00:02:15 +0000",
+      "categoria": "Internacional",
+      "resumen": "El sistema conocido como SAVE (Verificación Sistemática de Extranjeros para Beneficios) permanece suspendido luego de que un tribunal determinara que vulneró leyes de privacidad."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Encuentro de Conviteros 2026: estas son las categorías, distribución por recorrido y puntos de los desfiles",
@@ -9,6 +57,14 @@
       "fecha": "Wed, 09 Sep 2026 00:02:00 +0000",
       "categoria": "Escenario",
       "resumen": "Con más de 130 agrupaciones, el Centro Histórico se transformará en un punto de encuentro de cultura, tradición y celebración durante el segundo Encuentro de Conviteros."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Niño: ¿Qué son las ondas Kelvin y por qué importan en el aumento del nivel del mar?",
+      "link": "https://www.prensalibre.com/internacional/el-nino-que-son-las-ondas-kelvin-y-por-que-importan-en-el-aumento-del-nivel-del-mar/",
+      "fecha": "Tue, 08 Sep 2026 23:53:36 +0000",
+      "categoria": "Internacional",
+      "resumen": "El fenómeno de El Niño elevará el nivel del mar en la costa Californiana, lo cual tendría un impacto agravante en los efectos de las tormentas de invierno."
     },
     {
       "fuente": "Prensa Libre",
@@ -33,6 +89,14 @@
       "fecha": "Tue, 08 Sep 2026 23:00:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "La Selección Nacional afronta su primera complicación antes del debut oficial, con una ausencia que obliga al cuerpo técnico a buscar alternativas en defensa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video muestra ataque de EE. UU. contra cinco petroleros en el estrecho de Ormuz y cuál fue la respuesta de Irán",
+      "link": "https://www.prensalibre.com/internacional/video-muestra-ataque-de-ee-uu-contra-cinco-petroleros-en-el-estrecho-de-ormuz-y-cual-fue-la-respuesta-de-iran/",
+      "fecha": "Tue, 08 Sep 2026 22:48:59 +0000",
+      "categoria": "Internacional",
+      "resumen": "EE. UU. confirmó la destrucción de cinco petroleros iraníes, en respuesta a dos ataques de la Guardia Revolucionaria Islámica contra un buque estadounidense."
     },
     {
       "fuente": "Guatemala.com",
@@ -164,8 +228,8 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Guatemala desciende en las pruebas Pisa y tiene los resultados más bajos de América Latina",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-desciende-en-las-pruebas-pisa-y-tiene-los-resultados-mas-bajos-de-america-latina/",
+      "titulo": "¿Por qué retrocedieron los adolescentes en Lectura, Ciencias y Matemática? Esto dice el Mineduc",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/por-que-retrocedieron-los-adolescentes-en-lectura-ciencias-y-matematica-esto-dice-el-mineduc/",
       "fecha": "Tue, 08 Sep 2026 19:06:58 +0000",
       "categoria": "Comunitario",
       "resumen": "Los resultados de las pruebas Pisa 2025 muestran un retroceso en las habilidades y conocimientos de los estudiantes. Guatemala tiene los resultados más bajos de América Latina."
@@ -404,7 +468,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Manifestaciones en Vivo en Guatemala: Reunión con Arévalo concluye sin acuerdos y líderes indígenas esperan decisión del Congreso",
+      "titulo": "Manifestaciones en vivo en Guatemala: líderes indígenas esperan decisión del Congreso sobre propuesta para reducir precio de combustibles",
       "link": "https://www.prensalibre.com/guatemala/comunitario/manifestaciones-en-vivo-en-guatemala-movilizaciones-en-la-capital-este-8-de-septiembre-por-alto-costo-del-combustible-breaking/",
       "fecha": "Tue, 08 Sep 2026 13:15:45 +0000",
       "categoria": "Comunitario",
@@ -755,76 +819,12 @@
       "resumen": "Como parte de la celebración del Día del Niño, el Museo Miraflores prepara una noche de diversión, exploración y aprendizaje. Estas son las actividades programadas."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Top 3 de las películas más taquilleras de la historia: “Spider-Man: Brand New Day” alcanza el tercer puesto",
-      "link": "https://www.prensalibre.com/vida/escenario/top-3-de-las-peliculas-mas-taquilleras-de-la-historia-spider-man-brand-new-day-alcanza-el-tercer-puesto/",
-      "fecha": "Mon, 07 Sep 2026 21:52:01 +0000",
-      "categoria": "Escenario",
-      "resumen": "La nueva película de Spider-Man supera a “Avatar 2” y se coloca entre las tres películas más taquilleras de la historia."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Clima en Guatemala: Pronóstico del 7 al 11 de septiembre 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-7-al-11-septiembre-2026.html",
       "fecha": "Mon, 07 Sep 2026 21:40:42 +0000",
       "categoria": "Comunidad",
       "resumen": "Altas temperaturas y posibles lluvias se podrían presentar en Guatemala del 7 al 11 de septiembre 2026. Lee el pronóstico completo del Insivumeh aquí.\nThe post Clima en Guatemala: Pronóstico del 7 al 11 de septiembre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miss Universo Panamá 2026: Candidata se desmaya en pleno escenario durante la gala final",
-      "link": "https://www.prensalibre.com/internacional/miss-universo-panama-2026-candidata-se-desmaya-en-pleno-escenario-durante-la-gala-final/",
-      "fecha": "Mon, 07 Sep 2026 21:36:26 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los médicos indicaron que el desvanecimiento habría estado relacionado con cansancio extremo debido a que el sistema nervioso se debilitó."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ariana Grande y Ricky Álvarez: el beso con el que la cantante presume su relación",
-      "link": "https://www.prensalibre.com/vida/escenario/ariana-grande-y-ricky-alvarez-el-beso-con-el-que-la-cantante-presume-su-relacion/",
-      "fecha": "Mon, 07 Sep 2026 21:11:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Ariana Grande retomó su relación con Ricky Álvarez y compartió un video en el que muestra su romance con un beso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Feria Alimentaria 2026 reúne a más de 120 empresas y busca generar nuevos negocios en Guatemala",
-      "link": "https://www.prensalibre.com/economia/feria-alimentaria-2026-reune-a-mas-de-120-empresas-y-busca-generar-nuevos-negocios-en-guatemala/",
-      "fecha": "Mon, 07 Sep 2026 21:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Feria Alimentaria 2026 conmemora tres décadas como punto de encuentro para generar negocios, fortalecer alianzas y mostrar las tendencias de la industria gastronómica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Desfile del 15 de septiembre del 2026: ¿Cuántas bandas escolares participarán y cuál será el recorrido en Ciudad de Guatemala?",
-      "link": "https://www.prensalibre.com/vida/escenario/desfile-del-15-de-septiembre-del-2026-cuantas-bandas-escolares-participaran-y-cual-sera-el-recorrido-en-ciudad-de-guatemala/",
-      "fecha": "Mon, 07 Sep 2026 20:55:33 +0000",
-      "categoria": "Escenario",
-      "resumen": "Decenas de colegios recorrerán las calles de la zona 1 de Ciudad de Guatemala durante el tradicional desfile de Independencia, en el que las bandas escolares conmemorarán los 205 años de independencia del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Agosto cierra con 318 homicidios y se convierte en el mes más violento de los últimos cinco años",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/agosto-cierra-con-318-homicidios-y-se-convierte-en-el-mes-mas-violento-de-los-ultimos-cinco-anos/",
-      "fecha": "Mon, 07 Sep 2026 20:49:18 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Con 318 muertes violentas, agosto del 2026 alcanzó el registro mensual más alto de los últimos cinco años. La cifra superó los 312 casos de julio pasado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo anuncia suspensión de cambios en Guatecompras y defiende que buscan agilizar la fiscalización",
-      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-anuncia-suspension-de-cambios-en-guatecompras-y-defiende-que-buscan-agilizar-la-fiscalizacion-breaking/",
-      "fecha": "Mon, 07 Sep 2026 20:46:06 +0000",
-      "categoria": "Política",
-      "resumen": "El presidente Bernardo Arévalo anunció que se suspenderá la implementación de los cambios en Guatecompras para someterlos a consulta, aunque defendió la medida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ataque armado contra microbús provoca cierres vehiculares en la calzada Roosevelt",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-contra-microbus-provoca-cierres-vehiculares-en-la-calzada-roosevelt-breaking/",
-      "fecha": "Mon, 07 Sep 2026 20:33:32 +0000",
-      "categoria": "Sucesos",
-      "resumen": "PMT inicia cierres vehiculares hacia occidente por ataque armado contra un conductor de microbús en la calzada Roosevelt."
     },
     {
       "fuente": "Guatemala.com",
