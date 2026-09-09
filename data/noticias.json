@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-09-09T21:13:26.167Z",
+  "actualizado": "2026-09-09T22:14:01.676Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Zoológico La Aurora presentó dos leones blancos en su recinto",
+      "link": "https://www.guatemala.com/noticias/sociedad/leones-blancos-zoologico-la-aurora-guatemala.html",
+      "fecha": "Wed, 09 Sep 2026 21:47:10 +0000",
+      "categoria": "Sociedad",
+      "resumen": "El Zoológico La Aurora presentó dos nuevos leones blancos que llegaron desde Sudáfrica y ya pueden observarse en su recinto.\nThe post Zoológico La Aurora presentó dos leones blancos en su recinto appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Chris Pérez, viudo de Selena Quintanilla, podría sumarse a la disputa legal entre los hermanos A.B. y Suzette Quintanilla",
+      "link": "https://www.prensalibre.com/vida/escenario/chris-perez-viudo-de-selena-quintanilla-podria-sumarse-a-la-disputa-legal-entre-los-hermanos-a-b-y-suzette-quintanilla/",
+      "fecha": "Wed, 09 Sep 2026 21:33:32 +0000",
+      "categoria": "Escenario",
+      "resumen": "El esposo de la fallecida artista Selena Quintanilla estaría evaluando sumarse a la demanda que A.B. Quintanilla presentó contra su hermana Suzette. Esto se sabe."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fiestas de Independencia 2026 en Xela: desfiles, conciertos y actividades de Xelafer del 13 al 19 de septiembre",
+      "link": "https://www.prensalibre.com/vida/escenario/fiestas-de-independencia-2026-en-xela-desfiles-conciertos-y-actividades-de-xelafer-del-13-al-19-de-septiembre/",
+      "fecha": "Wed, 09 Sep 2026 21:32:17 +0000",
+      "categoria": "Escenario",
+      "resumen": "La ciudad de Quetzaltenango conmemorará los 205 años de independencia de Guatemala con desfiles, conciertos, antorchas y otras actividades que reunirán a estudiantes y vecinos."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Comic Con Guatemala 2026: Ellos son los 6 invitados internacionales",
+      "link": "https://www.guatemala.com/noticias/sociedad/comic-con-guatemala-2026-fechas-precios-invitados-otros-detalles-evento.html",
+      "fecha": "Wed, 09 Sep 2026 21:20:34 +0000",
+      "categoria": "Sociedad",
+      "resumen": "La Comic Con en Guatemala 2026 contará con la participación de 6 invitados internacionales. Entérate de todos los detalles de este evento aquí.\nThe post Comic Con Guatemala 2026: Ellos son los 6 invitados internacionales appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Diputados piden al Maga evitar politización en entrega de alimentos",
+      "link": "https://www.prensalibre.com/guatemala/politica/diputados-piden-al-maga-evitar-politizacion-en-entrega-de-alimentos/",
+      "fecha": "Wed, 09 Sep 2026 21:13:56 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Diputados de la Comisión de Agricultura del Congreso solicitaron al Maga evitar que se politice la entrega de alimentos destinada a atender a familias en situación de vulnerabilidad alimentaria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presuntos pandilleros del Barrio 18 capturados tras ataque armado en Cobán",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/presuntos-pandilleros-del-barrio-18-capturados-tras-ataque-armado-en-coban-breaking/",
+      "fecha": "Wed, 09 Sep 2026 20:50:17 +0000",
+      "categoria": "Sucesos",
+      "resumen": "En Cobán, Alta Verapaz, fueron capturados cuatro presuntos delincuentes señalados de atacar a balazos al conductor de un camión repartidor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de Guatemala: la propuesta de Sophos para celebrar al país durante septiembre 2026",
+      "link": "https://www.prensalibre.com/vida/escenario/semana-de-guatemala-la-propuesta-de-sophos-para-celebrar-al-pais-durante-septiembre-2026/",
+      "fecha": "Wed, 09 Sep 2026 20:48:45 +0000",
+      "categoria": "Escenario",
+      "resumen": "La librería brindará una variada agenda en la que habrá actividades para la reflexión, el conocimiento y la diversión."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La cruenta batalla interna que se libra en el Pentágono por el futuro del ejército más poderoso del mundo",
@@ -12,11 +68,35 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Capturan a hermanos por presunto secuestro en el que exigían Q500 mil en Santa Rosa",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-hermanos-por-presunto-secuestro-en-el-que-exigian-q500-mil-en-santa-rosa-breaking/",
+      "fecha": "Wed, 09 Sep 2026 20:42:40 +0000",
+      "categoria": "Justicia",
+      "resumen": "Dos hermanos fueron capturados por su presunta participación en un secuestro ocurrido en el 2023, por el que exigían Q500 mil por la liberación de la víctima, en Santa Rosa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bloqueos ponen en riesgo US$150 millones diarios en mercancías y Q100 millones en recaudación, según cámaras empresariales",
+      "link": "https://www.prensalibre.com/economia/bloqueos-ponen-en-riesgo-us150-millones-diarios-en-mercancias-y-q100-millones-en-recaudacion-segun-camaras-empresariales-breaking/",
+      "fecha": "Wed, 09 Sep 2026 20:29:07 +0000",
+      "categoria": "Economía",
+      "resumen": "La Cámara de Industria calcula que unos US$150 millones diarios en mercancías están en riesgo por cada día de bloqueos en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; San Pedro vs. Mixco: duelo directo por acercarse al liderato del Apertura 2026",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-san-pedro-vs-mixco-duelo-directo-por-acercarse-al-liderato-del-apertura-2026/",
       "fecha": "Wed, 09 Sep 2026 20:07:26 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Los supergallos y los chicharroneros se enfrentan en un duelo directo por acercarse al liderato del Torneo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tributo a Ricardo Andrade en Guatemala: así será la noche de rock nacional a 24 años de su fallecimiento",
+      "link": "https://www.prensalibre.com/vida/escenario/tributo-a-ricardo-andrade-en-guatemala-asi-sera-la-noche-de-rock-nacional-a-24-anos-de-su-fallecimiento/",
+      "fecha": "Wed, 09 Sep 2026 19:37:11 +0000",
+      "categoria": "Escenario",
+      "resumen": "Músicos guatemaltecos recorrerán el legado musical de Ricardo Andrade en un concierto tributo dedicado al artista y al rock nacional."
     },
     {
       "fuente": "Prensa Libre",
@@ -763,70 +843,6 @@
       "resumen": "La industria de restaurantes se mantiene en crecimiento,  pero enfrenta el aumento de los costos de operación y la transformación de los hábitos de consumo como los pedidos digitales, destacaron representantes del sector durante la Feria Alimentaria del 2026."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Así es la enorme viga de acero de las Torres Gemelas que Trump recibió en homenaje al 11-S",
-      "link": "https://www.prensalibre.com/internacional/asi-es-la-enorme-viga-de-acero-de-las-torres-gemelas-que-trump-recibio-en-homenaje-al-11-s/",
-      "fecha": "Tue, 08 Sep 2026 17:54:27 +0000",
-      "categoria": "Internacional",
-      "resumen": "Donald Trump recibió en la Casa Blanca una viga de acero de una de las Torres Gemelas, como parte del 25 aniversario de los atentados del 11 de septiembre de 2001."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Real Madrid vs. Inter: siga el minuto a minuto de la Champions League",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-real-madrid-vs-inter-siga-el-minuto-a-minuto-de-la-champions-league/",
-      "fecha": "Tue, 08 Sep 2026 17:52:05 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Santiago Bernabéu será escenario este martes del estreno europeo de ambos equipos en una nueva jornada de la Liga de Campeones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué es Sea Lion, el proyecto petrolero señalado por Milei que reaviva la tensión entre Argentina y Reino Unido sobre las Malvinas/Falklands",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-es-sea-lion-el-proyecto-petrolero-senalado-por-milei-que-reaviva-la-tension-entre-argentina-y-reino-unido-sobre-las-malvinas-falklands/",
-      "fecha": "Tue, 08 Sep 2026 17:46:54 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Se trata de una iniciativa de explotación petrolera británico-israelí que el mandatario argentino calificó como un \"peligro claro y urgente\" que justificaría las acciones anunciadas por su gobierno."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sector privado pide agilizar agenda legislativa de seguridad y justicia",
-      "link": "https://www.prensalibre.com/guatemala/politica/sector-privado-pide-agilizar-agenda-legislativa-de-seguridad-y-justicia/",
-      "fecha": "Tue, 08 Sep 2026 17:45:40 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El sector privado pidió agilizar la aprobación de leyes consideradas prioritarias para fortalecer la seguridad y la justicia en Guatemala, entre estas reformas relacionadas con la resolución de conflictos, la protección de datos, la ciberseguridad y la infraestructura, como parte de la agenda planteada por Guatemala No Se Detiene."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Abren una investigación después de que el personal femenino de la Torre Eiffel fuera sustituido por hombres durante una visita religiosa",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/abren-una-investigacion-despues-de-que-el-personal-femenino-de-la-torre-eiffel-fuera-sustituido-por-hombres-durante-una-visita-religiosa/",
-      "fecha": "Tue, 08 Sep 2026 17:24:34 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La medida provocó que los empleados, indignados, abandonaran sus puestos de trabajo el lunes, lo que obligó a cerrar el emblemático monumento francés."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Canadá activa aranceles contra los Estados Unidos: ¿Cuáles son los productos afectados?",
-      "link": "https://www.prensalibre.com/internacional/canada-activa-aranceles-contra-los-estados-unidos-cuales-son-los-productos-afectados/",
-      "fecha": "Tue, 08 Sep 2026 17:19:15 +0000",
-      "categoria": "Internacional",
-      "resumen": "El primer ministro de Canadá, Mark Carney, advirtió a los canadienses que reducir los lazos económicos con Estados Unidos tendrá un costo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Fue hallada la caja negra? los nuevos detalles revelados del avión de Amazon accidentado en Miami",
-      "link": "https://www.prensalibre.com/internacional/fue-hallada-la-caja-negra-los-nuevos-detalles-revelados-del-avion-de-amazon-accidentado-en-miami/",
-      "fecha": "Tue, 08 Sep 2026 17:00:10 +0000",
-      "categoria": "Internacional",
-      "resumen": "La presidenta de la NTSB brindó más detalles del avión de Amazon accidentado en el aeropuerto de Miami y que provocó la muerte de cinco personas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Duques de Sussex no podrán ser tratados como “su alteza real”: así reaccionaron a la carta del rey Carlos III",
-      "link": "https://www.prensalibre.com/vida/escenario/duques-de-sussex-no-podran-ser-tratados-como-su-alteza-real-asi-reaccionaron-a-la-carta-del-rey-carlos-iii/",
-      "fecha": "Tue, 08 Sep 2026 16:52:05 +0000",
-      "categoria": "Escenario",
-      "resumen": "El rey Carlos III confirmó que el príncipe Enrique y Meghan Markle, duques de Sussex, continuarán fuera de la familia real. La pareja reaccionó a la carta emitida por el monarca."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Chefs y establecimientos reconocidos con el Tenedor de Oro de la Feria Alimentaria 2026",
       "link": "https://www.guatemala.com/noticias/sociedad/feria-alimentaria-2026-conoce-ganadores-tenedor-de-oro.html",
@@ -857,22 +873,6 @@
       "fecha": "Sat, 05 Sep 2026 18:02:31 +0000",
       "categoria": "Sociedad",
       "resumen": "Andrea Ortiz llevó la belleza, cultura y talento de Guatemala al escenario de Miss World 2026. ¡Conoce los momentos destacados de su participación!\nThe post Así fue la participación de Andrea Ortiz en Miss World 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Pronóstico del clima en Guatemala para el 5 y 6 de septiembre 2026",
-      "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-primer-fin-de-semana-septiembre-2026.html",
-      "fecha": "Fri, 04 Sep 2026 17:52:40 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Insivumeh prevé temperaturas entre los 36 y 38°C para el fin de semana del 5 y 6 de septiembre de 2026. Descubre más del pronóstico del clima aquí.\nThe post Pronóstico del clima en Guatemala para el 5 y 6 de septiembre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "El traje nacional de Andrea Ortiz en Miss World 2026 rinde homenaje a la comunidad Ch’orti’",
-      "link": "https://www.guatemala.com/noticias/sociedad/andrea-ortiz-rindio-homenaje-comunidad-chorti-traje-nacional-miss-mundo-2026.html",
-      "fecha": "Thu, 03 Sep 2026 03:38:08 +0000",
-      "categoria": "Sociedad",
-      "resumen": "El traje nacional de la guatemalteca Andrea Ortiz en Miss World 2026 rinde homenaje a la comunidad Ch’orti’ de Jocotán, Chiquimula. \nThe post El traje nacional de Andrea Ortiz en Miss World 2026 rinde homenaje a la comunidad Ch’orti’ appeared first on Guatemala.com."
     }
   ]
 }
