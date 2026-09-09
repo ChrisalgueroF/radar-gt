@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-09T15:15:27.004Z",
+  "actualizado": "2026-09-09T16:16:46.087Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Una fuerza destructiva&#8221;: el duro ataque del canciller Merz a AfD tras la primera gran victoria electoral del partido de ultraderecha en Alemania",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-fuerza-destructiva-el-duro-ataque-del-canciller-merz-a-afd-tras-la-primera-gran-victoria-electoral-del-partido-de-ultraderecha-en-alemania/",
+      "fecha": "Wed, 09 Sep 2026 16:09:35 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El cancillar alemán se enfrentó a la líder de la AfD, Alice Weidel, afirmando que su política migratoria equivale a una \"limpieza étnica\" de trabajadores cualificados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tarjeta de Salud: así se tramita en línea y qué pasa si acude a un centro de salud para solicitarla",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/tarjeta-de-salud-asi-se-tramita-en-linea-y-que-pasa-si-acude-a-un-centro-de-salud-para-solicitarla/",
+      "fecha": "Wed, 09 Sep 2026 16:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El trámite de la Tarjeta de Salud cuenta desde mayo del 2026 con una modalidad electrónica, pero el Ministerio de Salud confirmó que, por ahora, también puede realizarse de forma presencial. Estos son los requisitos y pasos que debe conocer."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Barcelona vs Feyenoord: siga el minuto a minuto de la Liga de Campeones de Europa",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-barcelona-vs-feyenoord-siga-el-minuto-a-minuto-de-la-liga-de-campeones-de-europa/",
+      "fecha": "Wed, 09 Sep 2026 15:30:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Barcelona de Lamine Yamal inicia este miércoles ante el Feyenoord su camino en busca del título europeo, el gran objetivo del conjunto azulgrana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Revelan la identidad de dos mujeres víctimas de ataque armado en la zona 13",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/revelan-la-identidad-de-dos-mujeres-victimas-de-ataque-armado-en-la-zona-13-breaking/",
+      "fecha": "Wed, 09 Sep 2026 15:24:45 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos mujeres perdieron la vida en un ataque armado en una venta de ropa en la colonia Santa Fe, zona 13."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Cuidar de sí mismo: un ejercicio de responsabilidad y amor hacia la familia",
@@ -17,6 +49,14 @@
       "fecha": "Wed, 09 Sep 2026 15:01:33 +0000",
       "categoria": "Internacional",
       "resumen": "El TPRS sirve para ubicar a personas deportadas que mantienen obligaciones económicas o multas pendientes relacionadas con la ley migratoria estadounidense."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "III Congreso Espacial Centroamericano reunirá a expertos de la NASA, Blue Origin y otras entidades para aprender sobre el espacio",
+      "link": "https://www.prensalibre.com/vida/ciencia/iii-congreso-espacial-centroamericano-reunira-a-expertos-de-la-nasa-blue-origin-y-otras-entidades-para-aprender-sobre-el-espacio/",
+      "fecha": "Wed, 09 Sep 2026 15:00:00 +0000",
+      "categoria": "Ciencia",
+      "resumen": "Durante tres días, expertos en ciencias espaciales, estudiantes, profesionales y entusiastas del sector podrán aprender, compartir conocimientos y visualizar el futuro del desarrollo espacial en Centroamérica."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,46 +817,6 @@
       "fecha": "Tue, 08 Sep 2026 11:00:00 +0000",
       "categoria": "Economía",
       "resumen": "Por segundo mes consecutivo, los hogares guatemaltecos percibieron un incremento en los precios y la inflación pasó de 2.70% en julio a 3.37% en agosto. Los combustibles fueron la principal causa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ladrones se roban 3 obras valoradas en más US$10 millones del Museo Renoir en Francia",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ladrones-se-roban-3-obras-valoradas-en-mas-us10-millones-del-museo-renoir-en-francia/",
-      "fecha": "Tue, 08 Sep 2026 09:22:24 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los dos ladrones dejaron caer una de las obras cuando huían del museo. La policía municipal ha iniciado una búsqueda intensa de los individuos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "China construye grandes centros de datos lejos de Pekín para impulsar la inteligencia artificial",
-      "link": "https://www.prensalibre.com/economia/china-construye-grandes-centros-de-datos-lejos-de-pekin-para-impulsar-la-inteligencia-artificial/",
-      "fecha": "Tue, 08 Sep 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "China acelera el desarrollo de la inteligencia artificial con nuevos centros de datos en regiones con abundante energía renovable y menores costos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Impacto en la fiscalización",
-      "link": "https://www.prensalibre.com/opinion/caricatura/impacto-en-la-fiscalizacion/",
-      "fecha": "Tue, 08 Sep 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Incompetencias a contrarreloj",
-      "link": "https://www.prensalibre.com/opinion/editorial/incompetencias-a-contrarreloj/",
-      "fecha": "Tue, 08 Sep 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "La Sicom no es una dependencia burocrática más; por eso, el próximo superintendente necesitará algo más que títulos académicos y experiencia profesional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto y diputímetros",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/presupuesto-y-diputimetros/",
-      "fecha": "Tue, 08 Sep 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Nada cambiará hasta que el Congreso se renueve con gente proba, visionaria y profesional."
     },
     {
       "fuente": "Guatemala.com",
