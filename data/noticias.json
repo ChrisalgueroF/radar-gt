@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-09-09T05:14:47.595Z",
+  "actualizado": "2026-09-09T06:20:24.759Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Agosto negro",
+      "link": "https://www.prensalibre.com/opinion/caricatura/agosto-negro-2/",
+      "fecha": "Wed, 09 Sep 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En las pruebas Pisa Guatemala sale rezagada",
+      "link": "https://www.prensalibre.com/opinion/editorial/en-las-pruebas-pisa-guatemala-sale-rezagada/",
+      "fecha": "Wed, 09 Sep 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "La llamada de atención es general, pues ninguno de los dos sectores se salvó del retroceso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "TSE: judicialización y campaña anticipada",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/tse-judicializacion-y-campana-anticipada/",
+      "fecha": "Wed, 09 Sep 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El TSE ha caído en la trampa de judicializar sus decisiones y rendirse ante las presiones presentes en la época."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Su esponja de cocina puede estar muy sucia: Esto es lo que debe hacer",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/su-esponja-de-cocina-puede-estar-muy-sucia-esto-es-lo-que-debe-hacer/",
+      "fecha": "Wed, 09 Sep 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Los paños de cocina, que pueden estar hechos de materiales como algodón, lino o incluso celulosa vegetal, son útiles tanto para lavar como para secar utensilios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Países del Golfo refuerzan sus defensas y buscan alternativas a Ormuz mientras continúa la guerra con Irán",
+      "link": "https://www.prensalibre.com/internacional/paises-del-golfo-refuerzan-sus-defensas-y-buscan-alternativas-a-ormuz-mientras-continua-la-guerra-con-iran/",
+      "fecha": "Wed, 09 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Países del Golfo diversifican sus alianzas de seguridad y buscan reducir su dependencia del estrecho de Ormuz mientras se prolonga la guerra con Irán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El valor de un centro histórico",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-valor-de-un-centro-historico/",
+      "fecha": "Wed, 09 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El reto de preservar el centro de la ciudad sin convertirlo en un espacio urbano fantasma."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El próximo encuentro",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-proximo-encuentro/",
+      "fecha": "Wed, 09 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Podría quedar abierta la posibilidad de un encuentro de los presidentes de China, Estados Unidos y Rusia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El costo de mantener a raya la inflación",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-costo-de-mantener-a-raya-la-inflacion/",
+      "fecha": "Wed, 09 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Las reservas monetarias internacionales desde 2002 se invierten conforme criterios de liquidez, seguridad y rentabilidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El regalo de ver con claridad",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-regalo-de-ver-con-claridad/",
+      "fecha": "Wed, 09 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Mi intención con este artículo es motivar a los guatemaltecos a dejar el juicio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy miércoles 9 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-9-de-septiembre-de-2026/",
+      "fecha": "Wed, 09 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "VIDEO: &#8220;En Guatemala deberíamos estar reemplazando la mayoría de los puentes&#8221;",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/en-guatemala-deberiamos-estar-reemplazando-la-mayoria-de-los-puentes/",
+      "fecha": "Wed, 09 Sep 2026 06:00:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "Guatemala enfrenta el reto de una red de puentes envejecida. Especialistas señalan que es necesario identificar cuáles estructuras pueden reforzarse, cuáles deben reemplazarse y cuáles son prioritarias para garantizar la movilidad durante emergencias."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;¿Qué haces cuando los colonos empiezan a disparar contra tus hijos?&#8221;: la preocupación de padres palestinos por el aumento de los ataques a escuelas",
@@ -731,100 +819,12 @@
       "resumen": "Las imágenes y otras pruebas que el FBI no compartió ponen en duda la declaración de inocencia que Omar al-Bayoumi ha mantenido durante 25 años."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Las autoridades investigan las causas del accidente de avión que dejó al menos 5 muertos tras chocar con varios vehículos en el aeropuerto de Miami",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-autoridades-investigan-las-causas-del-accidente-de-avion-que-dejo-al-menos-5-muertos-tras-chocar-con-varios-vehiculos-en-el-aeropuerto-de-miami/",
-      "fecha": "Tue, 08 Sep 2026 04:49:54 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El avión de carga de la compañía Amazon se salió de la pista de aterrizaje a casi 209 km/h este domingo sobre las 14:00 hora local."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Identifican vehículo denunciado por invadir ciclovía en la zona 9 y advierten que podría ser consignado",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/identifican-vehiculo-denunciado-por-invadir-ciclovia-en-la-zona-9-y-advierten-que-podria-ser-consignado-breaking/",
-      "fecha": "Tue, 08 Sep 2026 04:46:41 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Emetra identificó el vehículo denunciado por circular en una ciclovía y estableció que acumula cuatro multas de tránsito desde octubre del 2024."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una de las inversiones comerciales más importantes para la región está oriente",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-de-las-inversiones-comerciales-mas-importantes-para-la-region-esta-oriente/",
-      "fecha": "Tue, 08 Sep 2026 03:18:25 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "La propuesta integral que reúne hogar, ferretería, materiales de construcción y Juguetón en un solo lugar, bajo el lema “Todo bajo un teche”, CEMACO, llega a Plaza Girasoles, en Chiquimula, con una amplia oferta de productos y soluciones para el hogar, brindando una experiencia de compra integral para las familias de la región."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video revela cómo motorista dispara durante discusión en la Aguilar Batres: “Esa ojiva puede rebotar y pegarle a una persona”",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/video-revela-como-motorista-dispara-durante-discusion-en-la-aguilar-batres-esa-ojiva-puede-rebotar-y-pegarle-a-una-persona/",
-      "fecha": "Tue, 08 Sep 2026 03:00:53 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un motorista hizo dos disparos contra el suelo durante una discusión en la calzada Raúl Aguilar Batres y después huyó junto con su acompañante en una motocicleta sin placas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Natalie Portman da la bienvenida a su tercer hijo, el primero junto a Tanguy Destable",
-      "link": "https://www.prensalibre.com/vida/escenario/natalie-portman-da-la-bienvenida-a-su-tercer-hijo-el-primero-junto-a-tanguy-destable/",
-      "fecha": "Tue, 08 Sep 2026 03:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La actriz ganadora del Óscar Natalie Portman dio a luz a su tercer hijo, el primero con el productor musical Tanguy Destable. Esto es lo que se conoce sobre su tercer embarazo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Operación “Cazador” permite capturar a tres presuntos integrantes de banda de secuestradores",
-      "link": "https://www.prensalibre.com/guatemala/justicia/operacion-cazador-permite-capturar-a-tres-presuntos-integrantes-de-banda-de-secuestradores-breaking/",
-      "fecha": "Tue, 08 Sep 2026 02:51:57 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC informó sobre la captura de tres presuntos integrantes de “Los Cazadores”, estructura señalada de cometer secuestros en Petén."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Probióticos: ¿qué beneficios tienen para la microbiota intestinal y cuánto tardan en mejorar la digestión?",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/probioticos-que-beneficios-tienen-para-la-microbiota-intestinal-y-cuanto-tardan-en-mejorar-la-digestion/",
-      "fecha": "Tue, 08 Sep 2026 01:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Los probióticos ayudan a mantener el equilibrio de la microbiota intestinal, mejorar la digestión y fortalecer el sistema inmunológico. Estos son los alimentos que los contienen."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Chefs y establecimientos reconocidos con el Tenedor de Oro de la Feria Alimentaria 2026",
       "link": "https://www.guatemala.com/noticias/sociedad/feria-alimentaria-2026-conoce-ganadores-tenedor-de-oro.html",
       "fecha": "Tue, 08 Sep 2026 00:44:46 +0000",
       "categoria": "Sociedad",
       "resumen": "El Tenedor de Oro 2026 reconoció a 8 chefs y proyectos gastronómicos destacados de Guatemala durante la Feria Alimentaria. Te contamos más de ellos.\nThe post Chefs y establecimientos reconocidos con el Tenedor de Oro de la Feria Alimentaria 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“No llego desnudo”: El Fantasma Figueroa lanza duro dardo a Comunicaciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/no-llego-desnudo-el-fantasma-figueroa-lanza-duro-dardo-a-comunicaciones/",
-      "fecha": "Tue, 08 Sep 2026 00:40:09 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El técnico chileno recordó su amarga salida del equipo crema y aseguró que en Guatemala le impidieron trabajar a su manera, mientras ahora inicia un nuevo reto al frente del Real Estelí."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Volcano Innovation Summit 2026: las conexiones que pueden impulsar la innovación en Guatemala",
-      "link": "https://www.prensalibre.com/economia/volcano-innovation-summit-2026-las-conexiones-que-pueden-impulsar-la-innovacion-en-guatemala/",
-      "fecha": "Tue, 08 Sep 2026 00:30:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La innovación también se construye a partir de las conexiones. Empresarios y emprendedores plantean cómo Guatemala puede aprovecharlas para generar nuevas oportunidades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "San Pedro y Suchitepéquez, dos realidades opuestas tras sus ascensos a la Liga Nacional",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/san-pedro-y-suchitepequez-dos-realidades-opuestas-tras-sus-ascensos-a-la-liga-nacional-breaking/",
-      "fecha": "Mon, 07 Sep 2026 23:41:28 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "San Pedro se ha convertido en la revelación del torneo Apertura y pelea en la parte alta de la clasificación, mientras Suchitepéquez no encuentra el rumbo, ocupa los últimos puestos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "León XIV: la inteligencia artificial y sus desafíos para los jóvenes serán el eje de su visita a la Unesco en París",
-      "link": "https://www.prensalibre.com/vida/escenario/leon-xiv-la-inteligencia-artificial-y-sus-desafios-para-los-jovenes-seran-el-eje-de-su-visita-a-la-unesco-en-paris/",
-      "fecha": "Mon, 07 Sep 2026 23:36:40 +0000",
-      "categoria": "Escenario",
-      "resumen": "El sumo pontífice León XIV visitará la sede de la Unesco, donde hablará sobre los desafíos de la inteligencia artificial, asunto que la organización busca abordar de manera conjunta."
     },
     {
       "fuente": "Guatemala.com",
