@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-09T06:20:24.759Z",
+  "actualizado": "2026-09-09T07:16:49.356Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala ante el reto tecnológico: qué pueden aprender las fintech de la transformación financiera de Chile",
+      "link": "https://www.prensalibre.com/economia/guatemala-ante-el-reto-tecnologico-que-pueden-aprender-las-fintech-de-la-transformacion-financiera-de-chile/",
+      "fecha": "Wed, 09 Sep 2026 07:05:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Chile tardó años en construir su ecosistema fintech. Herbert Schulz en una entrevista en el Volcano Innovation Summit qué puede hacer Guatemala para avanzar más rápido."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Agosto negro",
@@ -809,14 +817,6 @@
       "fecha": "Tue, 08 Sep 2026 06:00:00 +0000",
       "categoria": "Guatemala No Se Detiene",
       "resumen": "Con las leyes de infraestructura y puertos recién aprobadas en Guatemala, el presidente de CMI Capital identifica en la nueva legislación una oportunidad para movilizar inversión privada y atraer jugadores locales e internacionales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los vínculos con Arabia Saudita del hombre en el centro de una multimillonaria demanda por los ataques del 11-S",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-vinculos-con-arabia-saudita-del-hombre-en-el-centro-de-una-multimillonaria-demanda-por-los-ataques-del-11-s/",
-      "fecha": "Tue, 08 Sep 2026 04:50:55 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las imágenes y otras pruebas que el FBI no compartió ponen en duda la declaración de inocencia que Omar al-Bayoumi ha mantenido durante 25 años."
     },
     {
       "fuente": "Guatemala.com",
