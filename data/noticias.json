@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T03:15:45.880Z",
+  "actualizado": "2026-09-09T04:15:40.909Z",
   "total": 109,
   "noticias": [
     {
@@ -17,6 +17,14 @@
       "fecha": "Wed, 09 Sep 2026 02:25:42 +0000",
       "categoria": "Estados Unidos",
       "resumen": "Los cuatro integrantes de una familia de Florida que viajaban en una avioneta desaparecida cuando regresaban de las Bahamas fueron hallados muertos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Son especialistas en la persuasión y el engaño”: Migración alerta por falsa oferta de trabajo en el extranjero",
+      "link": "https://www.prensalibre.com/guatemala/son-especialistas-en-la-persuasion-y-el-engano-migracion-alerta-por-falsa-oferta-de-trabajo-en-el-extranjero/",
+      "fecha": "Wed, 09 Sep 2026 02:20:37 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Una supuesta oferta de trabajo en el extranjero circula desde un número de celular y utiliza el nombre y la fotografía del director del Instituto Guatemalteco de Migración. La institución advierte que la información es falsa."
     },
     {
       "fuente": "Prensa Libre",
@@ -540,11 +548,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Manifestaciones en vivo en Guatemala: Congreso aprueba ley para fijar precios de combustibles tras jornada de protestas",
+      "titulo": "Manifestaciones EN VIVO en Guatemala: transportistas amplían protesta tras aprobación de ley y CC otorga amparo por posibles bloqueos",
       "link": "https://www.prensalibre.com/guatemala/comunitario/manifestaciones-en-vivo-en-guatemala-movilizaciones-en-la-capital-este-8-de-septiembre-por-alto-costo-del-combustible-breaking/",
       "fecha": "Tue, 08 Sep 2026 13:15:45 +0000",
       "categoria": "Comunitario",
-      "resumen": "El Congreso aprobó una ley para fijar precios máximos a los combustibles, luego de una jornada de manifestaciones este 8 de septiembre contra el alza del diésel y las gasolinas."
+      "resumen": "El Congreso aprobó una ley para fijar precios máximos a los combustibles, mientras transportistas ampliaron la protesta prevista para este miércoles y la CC otorgó un amparo ante posibles bloqueos."
     },
     {
       "fuente": "Prensa Libre",
@@ -809,14 +817,6 @@
       "fecha": "Mon, 07 Sep 2026 23:25:37 +0000",
       "categoria": "Guatemala",
       "resumen": "Estados Unidos destinará hasta US$36 millones para cobrar multas a personas deportadas, mediante empresas contratadas para localizarlas en Guatemala, Honduras y México."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presidente Bernardo Arévalo cuestiona afirmaciones de diputados sobre presupuesto de Codedes",
-      "link": "https://www.prensalibre.com/guatemala/politica/presidente-bernardo-arevalo-cuestiona-afirmaciones-de-diputados-sobre-presupuesto-de-codedes/",
-      "fecha": "Mon, 07 Sep 2026 23:16:01 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El presidente Bernardo Arévalo aseguró que las afirmaciones de diputados sobre los recursos destinados a los Consejos Departamentales de Desarrollo (Codedes) en el 2027 presentan una visión “distorsionada” del presupuesto."
     },
     {
       "fuente": "Guatemala.com",
