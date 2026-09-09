@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-08T23:13:43.427Z",
+  "actualizado": "2026-09-09T00:25:27.335Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Encuentro de Conviteros 2026: estas son las categorías, distribución por recorrido y puntos de los desfiles",
+      "link": "https://www.prensalibre.com/vida/escenario/encuentro-de-conviteros-2026-estas-son-las-categorias-distribucion-por-recorrido-y-puntos-de-los-desfiles/",
+      "fecha": "Wed, 09 Sep 2026 00:02:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con más de 130 agrupaciones, el Centro Histórico se transformará en un punto de encuentro de cultura, tradición y celebración durante el segundo Encuentro de Conviteros."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pruebas Pisa revelan que uno de cada cuatro estudiantes en Guatemala sufre acoso escolar al menos dos veces al mes",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/pruebas-pisa-revelan-que-uno-de-cada-cuatro-estudiantes-en-guatemala-sufre-acoso-escolar-al-menos-dos-veces-al-mes/",
+      "fecha": "Tue, 08 Sep 2026 23:47:44 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El 25% de los estudiantes en Guatemala sufre acoso escolar al menos dos veces al mes, según la prueba Pisa 2025."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Cuándo se estrena &#8220;Supergirl&#8221; en HBO Max? Fecha confirmada para su llegada al streaming",
@@ -52,6 +68,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "&#8220;No volverá a ocurrir&#8221; Trump afirma que EE. UU. usará &#8220;todo su poder&#8221; para evitar otro ataque como el 11-S",
+      "link": "https://www.prensalibre.com/internacional/no-volvera-a-ocurrir-trump-afirma-que-ee-uu-usara-todo-su-poder-para-evitar-otro-ataque-como-el-11-s/",
+      "fecha": "Tue, 08 Sep 2026 21:55:49 +0000",
+      "categoria": "Internacional",
+      "resumen": "Donald Trump dijo recientemente que EE. UU. usará \"todo su poder\" para evitar un ataque similar al de los atentados del 11 de septiembre de 2001 en las Torres Gemelas."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Nueva York y el 11-S: 170 mil páginas revelan información sobre los riesgos de la calidad del aire",
       "link": "https://www.prensalibre.com/internacional/nueva-york-y-el-11-s-170-mil-paginas-revelan-informacion-sobre-los-riesgos-de-la-calidad-del-aire/",
       "fecha": "Tue, 08 Sep 2026 21:31:19 +0000",
@@ -65,6 +89,14 @@
       "fecha": "Tue, 08 Sep 2026 21:27:04 +0000",
       "categoria": "Internacional",
       "resumen": "Marco Rubio, secretario de Estado de EE. UU., anunció  la incorporación de Perú al Escudo de las Américas, luego del cambio de mandato presidencial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cómo se llegó al alza de los combustibles en Guatemala y qué busca resolver ahora el Congreso?",
+      "link": "https://www.prensalibre.com/guatemala/politica/como-se-llego-al-alza-de-los-combustibles-en-guatemala-y-que-busca-resolver-ahora-el-congreso/",
+      "fecha": "Tue, 08 Sep 2026 21:17:39 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El conflicto en el estrecho de Ormuz, la escalada de precios, un subsidio que se agotó y múltiples propuestas que no avanzaron marcaron la crisis de los combustibles en Guatemala. Estos son los hechos puntuales que explican cómo se llegó a la situación actual."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,38 +825,6 @@
       "fecha": "Mon, 07 Sep 2026 20:33:32 +0000",
       "categoria": "Sucesos",
       "resumen": "PMT inicia cierres vehiculares hacia occidente por ataque armado contra un conductor de microbús en la calzada Roosevelt."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Metanfetamina desde una pizzería en California: acusan a migrante de operar la red de distribución",
-      "link": "https://www.prensalibre.com/internacional/metanfetamina-desde-una-pizzeria-en-california-acusan-a-migrante-de-operar-la-red-de-distribucion/",
-      "fecha": "Mon, 07 Sep 2026 19:55:17 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Departamento de Justicia de EE. UU. informó que un inmigrante indocumentado fue acusado por las autoridades de distribuir drogas desde una pizzería ubicada en California."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Prensa Libre abre sus puertas con recorridos conmemorativos por la redacción, la cabina de radio y la hemeroteca",
-      "link": "https://www.prensalibre.com/vida/escenario/prensa-libre-abre-sus-puertas-con-recorridos-conmemorativos-por-la-redaccion-la-cabina-de-radio-y-la-hemeroteca/",
-      "fecha": "Mon, 07 Sep 2026 19:34:29 +0000",
-      "categoria": "Escenario",
-      "resumen": "Desde la sala de redacción hasta la hemeroteca, que resguarda parte de la historia del país, el público podrá conocer las instalaciones de Prensa Libre durante los Recorridos Conmemorativos. Conozca cómo participar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lautaro Martínez habla del retiro de Messi y recuerda su legado en Argentina",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lautaro-martinez-habla-del-retiro-de-messi-y-recuerda-su-legado-en-argentina-breaking/",
-      "fecha": "Mon, 07 Sep 2026 19:31:40 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El delantero del Inter de Milán compartió el impacto que tuvo la noticia en el plantel y agradeció al capitán por todo lo vivido juntos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo el declive de población alimenta el éxito de la extrema derecha de AfD en Sajonia-Anhalt y en el este de Alemania",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/como-el-declive-de-poblacion-alimenta-el-exito-de-la-extrema-derecha-de-afd-en-sajonia-anhalt-y-en-el-este-de-alemania/",
-      "fecha": "Mon, 07 Sep 2026 19:06:28 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Décadas después de la caída del Muro de Berlín, la baja en las tasas de natalidad en el este de Alemania revela profundas divisiones en el país."
     },
     {
       "fuente": "Guatemala.com",
