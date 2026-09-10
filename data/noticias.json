@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-10T06:20:32.723Z",
+  "actualizado": "2026-09-10T07:16:45.131Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Diputados reconocen que el subsidio al combustible es temporal y contemplan un fondo para emergencias",
+      "link": "https://www.prensalibre.com/guatemala/politica/diputados-reconocen-que-el-subsidio-al-combustible-es-temporal-y-contemplan-un-fondo-para-emergencias/",
+      "fecha": "Thu, 10 Sep 2026 07:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La iniciativa que dispone crear un fondo de compensación por hasta Q3 mil millones se encuentra en dos comisiones legislativas a la espera de dictamen."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Subsidio a combustibles: genera críticas por su estructura, y cuánto podrían durar los recursos",
@@ -825,14 +833,6 @@
       "fecha": "Wed, 09 Sep 2026 02:25:42 +0000",
       "categoria": "Estados Unidos",
       "resumen": "Los cuatro integrantes de una familia de Florida que viajaban en una avioneta desaparecida cuando regresaban de las Bahamas fueron hallados muertos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Son especialistas en la persuasión y el engaño”: Migración alerta por falsa oferta de trabajo en el extranjero",
-      "link": "https://www.prensalibre.com/guatemala/son-especialistas-en-la-persuasion-y-el-engano-migracion-alerta-por-falsa-oferta-de-trabajo-en-el-extranjero/",
-      "fecha": "Wed, 09 Sep 2026 02:20:37 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Una supuesta oferta de trabajo en el extranjero circula desde un número de celular y utiliza el nombre y la fotografía del director del Instituto Guatemalteco de Migración. La institución advierte que la información es falsa."
     },
     {
       "fuente": "Guatemala.com",
