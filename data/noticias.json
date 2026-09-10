@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10T00:20:40.018Z",
+  "actualizado": "2026-09-10T01:14:22.867Z",
   "total": 109,
   "noticias": [
     {
@@ -25,6 +25,14 @@
       "fecha": "Wed, 09 Sep 2026 23:49:28 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La compañía tecnológica presentó el primer cambio de diseño importante del iPhone desde su lanzamiento hace casi 20 años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;No tenemos intención de matar pescadores&#8221; Rubio habla de los ataques de EE. UU. en el Pacífico",
+      "link": "https://www.prensalibre.com/internacional/no-tenemos-intencion-de-matar-pescadores-rubio-habla-de-los-ataques-de-ee-uu-en-el-pacifico/",
+      "fecha": "Wed, 09 Sep 2026 23:48:29 +0000",
+      "categoria": "Internacional",
+      "resumen": "Marco Rubio ha dicho que la administración de Donald Trump no tiene la \"intención de matar a pescadores\" tras los ataques en el Pacífico."
     },
     {
       "fuente": "Prensa Libre",
@@ -833,14 +841,6 @@
       "fecha": "Tue, 08 Sep 2026 21:17:00 +0000",
       "categoria": "Escenario",
       "resumen": "Sharon Stone sufrió un derrame cerebral en 2001 y, durante su recuperación, tuvo visiones “extrañas” que después relacionó con una situación difícil de su vida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Real Madrid vence al Inter con presión, goles de Mbappé y Valverde y un Courtois salvador",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-vence-al-inter-con-presion-goles-de-mbappe-y-valverde-y-un-courtois-salvador-breaking/",
-      "fecha": "Tue, 08 Sep 2026 21:08:20 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El conjunto español superó 2-1 al Inter en el Santiago Bernabéu en un partido que tuvo de todo: presión, errores, contragolpes y sufrimiento hasta el final."
     },
     {
       "fuente": "Guatemala.com",
