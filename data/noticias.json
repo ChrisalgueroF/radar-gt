@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-10T17:14:04.314Z",
+  "actualizado": "2026-09-10T18:17:18.827Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "65 Vuelta a Guatemala: este es el recorrido de las 10 etapas que definirán al campeón",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/65-vuelta-a-guatemala-este-es-el-recorrido-de-las-10-etapas-que-definiran-al-campeon-breaking/",
+      "fecha": "Thu, 10 Sep 2026 17:57:34 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La batalla comenzará el 23 de octubre y terminará el 1 de noviembre, con una cronoescalada y 29 premios de montaña."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La lucha por la sucesión en el seno de la familia real de Uganda tras la muerte del monarca más joven del mundo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-lucha-por-la-sucesion-en-el-seno-de-la-familia-real-de-uganda-tras-la-muerte-del-monarca-mas-joven-del-mundo/",
+      "fecha": "Thu, 10 Sep 2026 17:38:37 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La familia del rey Oyo afirma que dejó un testamento en el que nombraba a su hijo pequeño como heredero del reino de Tooro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bloqueos en Guatemala: Unaerc pide paso para pacientes renales, ambulancias y medicamentos",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-unaerc-pide-paso-para-pacientes-renales-ambulancias-y-medicamentos-breaking/",
+      "fecha": "Thu, 10 Sep 2026 17:35:16 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Ante los bloqueos registrados en Guatemala, la Unaerc pide facilitar el paso de pacientes renales y alerta que retrasar un tratamiento de diálisis puede poner en riesgo su salud y vida."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Trump promete US$5 mil a cada adulto si ganan los republicanos: ¿Qué se sabe de su propuesta?",
@@ -9,6 +33,14 @@
       "fecha": "Thu, 10 Sep 2026 17:01:18 +0000",
       "categoria": "Internacional",
       "resumen": "Como premio a la fidelidad, Trump prometió entregar US$5 mil (Q38 mil 185) a todos los adultos estadounidenses si los republicanos conservan el control del Congreso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sin reporte de la PNC y una camioneta del Organismo Judicial involucrada: así avanza el caso por la muerte del músico y docente Hugo Girón",
+      "link": "https://www.prensalibre.com/guatemala/justicia/sin-reporte-de-la-pnc-y-una-camioneta-del-organismo-judicial-involucrada-asi-avanza-el-caso-por-la-muerte-del-musico-y-docente-hugo-giron/",
+      "fecha": "Thu, 10 Sep 2026 16:45:25 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La Fiscalía busca esclarecer cómo ocurrió el accidente de tránsito en el que murió Héctor Hugo Girón Barrientos y determinar posibles responsabilidades."
     },
     {
       "fuente": "Prensa Libre",
@@ -801,38 +833,6 @@
       "fecha": "Wed, 09 Sep 2026 12:06:00 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El ministro de Relaciones Exteriores británico presentó las nuevas medidas ante el Parlamento, mientras Israel acusa a Londres de incurrir en una \"flagrante injerencia\" en su proceso electoral."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los misteriosos bosques de manglar capturados en 13 impactantes imágenes",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-misteriosos-bosques-de-manglar-capturados-en-13-impactantes-imagenes/",
-      "fecha": "Wed, 09 Sep 2026 11:32:03 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Árboles misteriosos, tigres al acecho y comportamientos de caza poco comunes de los delfines han sido algunos de los temas destacados en los Mangrove Photography Awards (Premios de Fotografía de Manglares) 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Maíz y frijol siguen encareciendo: así afecta a los consumidores",
-      "link": "https://www.prensalibre.com/economia/maiz-y-frijol-siguen-encareciendo-asi-afecta-a-los-consumidores/",
-      "fecha": "Wed, 09 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El maíz blanco acumuló un aumento de Q70.50 por quintal en las últimas tres semanas. Solo la última semana subió Q52 por quintal , mientras que el maíz amarillo tuvo un alza Q30 y el frijol negro, de Q45."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tomate podría encarecerse más por la sequía, menor oferta y demanda de exportación hacia El Salvador",
-      "link": "https://www.prensalibre.com/economia/tomate-podria-encarecerse-mas-por-la-sequia-menor-oferta-y-demanda-de-exportacion-hacia-el-salvador/",
-      "fecha": "Wed, 09 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El tomate y la cebolla fueron dos de los productos que durante agosto registraron alzas que se reflejaron en la inflación, mientras que productores confirman que hay escasez debido a la sequía y a los envíos hacia El Salvador, donde se paga un mejor precio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala ante el reto tecnológico: qué pueden aprender las fintech de la transformación financiera de Chile",
-      "link": "https://www.prensalibre.com/economia/guatemala-ante-el-reto-tecnologico-que-pueden-aprender-las-fintech-de-la-transformacion-financiera-de-chile/",
-      "fecha": "Wed, 09 Sep 2026 07:05:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Chile tardó años en construir su ecosistema fintech. Herbert Schulz en una entrevista en el Volcano Innovation Summit qué puede hacer Guatemala para avanzar más rápido."
     },
     {
       "fuente": "Guatemala.com",
