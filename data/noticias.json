@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-10T13:15:27.553Z",
+  "actualizado": "2026-09-10T14:15:03.308Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ejecutivo concede permiso laboral a trabajadores del Estado el lunes 14 de septiembre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/ejecutivo-concede-permiso-laboral-a-trabajadores-del-estado-el-lunes-14-de-septiembre-breaking/",
+      "fecha": "Thu, 10 Sep 2026 13:42:21 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Gobierno concede permiso laboral a los empleados del Estado para el lunes 14 de septiembre, con motivo de la Independencia de Guatemala."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La IA es cada vez más difícil de dominar: ¿podrán los humanos mantener el control?",
@@ -817,14 +825,6 @@
       "fecha": "Wed, 09 Sep 2026 06:01:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Mi intención con este artículo es motivar a los guatemaltecos a dejar el juicio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy miércoles 9 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-9-de-septiembre-de-2026/",
-      "fecha": "Wed, 09 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
     },
     {
       "fuente": "Guatemala.com",
