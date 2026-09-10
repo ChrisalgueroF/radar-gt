@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-10T03:15:45.548Z",
+  "actualizado": "2026-09-10T04:15:43.361Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más de tres mil agentes se incorporan a la PNC: Así serán desplegados en tareas de seguridad",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/mas-de-tres-mil-agentes-se-incorporan-a-la-pnc-asi-seran-desplegados-en-tareas-de-seguridad/",
+      "fecha": "Thu, 10 Sep 2026 03:50:19 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Policía Nacional Civil amplió su estado de fuerza con tres mil 98 nuevos agentes, que serán destinados principalmente a comisarías y regiones con mayores índices de violencia y presencia de estructuras criminales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Empresa de tecnología elige a Guatemala como hub de IA para Centroamérica y abre plazas para informáticos",
@@ -9,6 +17,22 @@
       "fecha": "Thu, 10 Sep 2026 03:00:00 +0000",
       "categoria": "Guatemala",
       "resumen": "Nyxn elige a Guatemala como base para impulsar sus proyectos de inteligencia artificial en Centroamérica, con una operación que prevé contratar a 50 ingenieros informáticos del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Saprissa vs. Cartaginés: Amarini Villatoro deja escapar el triunfo con gol al minuto 90",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/saprissa-vs-cartagines-amarini-villatoro-deja-escapar-el-triunfo-con-gol-al-minuto-90-breaking/",
+      "fecha": "Thu, 10 Sep 2026 02:58:15 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Cartaginés de Amarini Villatoro remontó ante Saprissa, pero David Guzmán marcó sobre el final y sentenció el empate 2-2."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“No solo cobraban la extorsión”: PNC investiga a pandillas que habrían usado empresas de cable para lavar dinero y controlar territorios",
+      "link": "https://www.prensalibre.com/guatemala/no-solo-cobraban-la-extorsion-pnc-investiga-a-pandillas-que-habrian-usado-empresas-de-cable-para-lavar-dinero-y-controlar-territorios/",
+      "fecha": "Thu, 10 Sep 2026 02:24:21 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Empresas de cable e internet estarían bajo el control de pandillas para lavar dinero, vigilar sectores y acceder a información sensible de los usuarios, según investigaciones de la PNC."
     },
     {
       "fuente": "Prensa Libre",
@@ -811,36 +835,12 @@
       "resumen": "La Selección Nacional afronta su primera complicación antes del debut oficial, con una ausencia que obliga al cuerpo técnico a buscar alternativas en defensa."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Video muestra ataque de EE. UU. contra cinco petroleros en el estrecho de Ormuz y cuál fue la respuesta de Irán",
-      "link": "https://www.prensalibre.com/internacional/video-muestra-ataque-de-ee-uu-contra-cinco-petroleros-en-el-estrecho-de-ormuz-y-cual-fue-la-respuesta-de-iran/",
-      "fecha": "Tue, 08 Sep 2026 22:48:59 +0000",
-      "categoria": "Internacional",
-      "resumen": "EE. UU. confirmó la destrucción de cinco petroleros iraníes, en respuesta a dos ataques de la Guardia Revolucionaria Islámica contra un buque estadounidense."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Anuncian el cierre de bancos en Guatemala por el asueto del Día de la Independencia 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/bancos-guatemala-cerraran-asueto-independencia-septiembre-2026.html",
       "fecha": "Tue, 08 Sep 2026 22:16:14 +0000",
       "categoria": "Comunidad",
       "resumen": "La Superintendencia de Bancos anunció el cierre de bancos e instituciones financieras de Guatemala por el asueto del Día de la Independencia. \nThe post Anuncian el cierre de bancos en Guatemala por el asueto del Día de la Independencia 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso aprueba precios de Q39 al diésel y gasolina regular, y Q41 a la gasolina superior",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-aprueba-precios-de-q39-al-diesel-y-gasolina-regular-y-q41-a-la-gasolina-superior/",
-      "fecha": "Tue, 08 Sep 2026 22:13:25 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La nueva ley destina Q2 mil 500 millones para mantener estables los combustibles hasta fin de año, dependiendo la disponibilidad financiera y precios internacionales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién es el líder político mejor pagado del mundo y por qué le subirán el salario US$1 millón",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/quien-es-el-lider-politico-mejor-pagado-del-mundo-y-por-que-le-subiran-el-salario-us1-millon/",
-      "fecha": "Tue, 08 Sep 2026 22:02:59 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El primer ministro de Singapur, Lawrence Wong, verá incrementado su salario anual a 3,6 millones de dólares singapurenses (US$2,8 millones)."
     },
     {
       "fuente": "Guatemala.com",
