@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10T21:13:20.649Z",
+  "actualizado": "2026-09-10T22:13:45.069Z",
   "total": 109,
   "noticias": [
     {
@@ -33,6 +33,14 @@
       "fecha": "Thu, 10 Sep 2026 19:49:04 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Aurora recibe al campeón Municipal en uno de los partidos más atractivos de la octava jornada de la Liga Nacional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Meta lanza Notas de la Comunidad: qué son, cómo funcionan y cómo registrarse en Guatemala",
+      "link": "https://www.prensalibre.com/vida/tecnologia/meta-lanza-notas-de-la-comunidad-que-son-como-funcionan-y-como-registrarse-en-guatemala/",
+      "fecha": "Thu, 10 Sep 2026 19:40:10 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Guatemala está entre los 16 países anunciados por Meta en los que busca colaboradores para probar su nueva función “Notas de la Comunidad”. De esto se trata."
     },
     {
       "fuente": "Prensa Libre",
@@ -73,6 +81,14 @@
       "fecha": "Thu, 10 Sep 2026 18:43:56 +0000",
       "categoria": "Economía",
       "resumen": "El MetroRiel todavía no está en construcción, pero ya se está haciendo una radiografía actualizada de los 21 kilómetros de derecho de vía para determinar con qué condiciones reales tendría que enfrentarse el proyecto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: hombre intenta asesinar a su exesposa en Ohio pero su pistola tenía el seguro puesto",
+      "link": "https://www.prensalibre.com/internacional/video-hombre-intenta-asesinar-a-su-exesposa-en-ohio-pero-su-pistola-tenia-el-seguro-puesto/",
+      "fecha": "Thu, 10 Sep 2026 18:32:27 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un video muestra cómo un exabogado intenta disparar a su exesposa en un restaurante, pero no lo logra porque la pistola tenía el seguro puesto."
     },
     {
       "fuente": "Prensa Libre",
@@ -817,22 +833,6 @@
       "fecha": "Wed, 09 Sep 2026 16:09:35 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El cancillar alemán se enfrentó a la líder de la AfD, Alice Weidel, afirmando que su política migratoria equivale a una \"limpieza étnica\" de trabajadores cualificados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Apple Event 2026: ¿cuándo es, a qué hora y dónde ver el lanzamiento del iPhone 18 y las novedades de Apple?",
-      "link": "https://www.prensalibre.com/vida/tecnologia/apple-event-2026-cuando-es-a-que-hora-y-donde-ver-el-lanzamiento-del-iphone-18-y-las-novedades-de-apple/",
-      "fecha": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "categoria": "Tecnología",
-      "resumen": "La empresa tecnológica Apple celebrará su Apple Event, en el que presentará sus innovaciones tecnológicas y podría anunciar la llegada del iPhone 18. Siga aquí el evento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tarjeta de Salud: así se tramita en línea y qué pasa si acude a un centro de salud para solicitarla",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/tarjeta-de-salud-asi-se-tramita-en-linea-y-que-pasa-si-acude-a-un-centro-de-salud-para-solicitarla/",
-      "fecha": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El trámite de la Tarjeta de Salud cuenta desde mayo del 2026 con una modalidad electrónica, pero el Ministerio de Salud confirmó que, por ahora, también puede realizarse de forma presencial. Estos son los requisitos y pasos que debe conocer."
     },
     {
       "fuente": "Guatemala.com",
