@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-10T04:15:43.361Z",
+  "actualizado": "2026-09-10T05:14:24.948Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Subsidio de Q2 mil 500 millones para combustibles podría agotarse antes de finalizar el año",
+      "link": "https://www.prensalibre.com/economia/subsidio-de-q2-mil-500-millones-para-combustibles-podria-agotarse-antes-de-finalizar-el-ano/",
+      "fecha": "Thu, 10 Sep 2026 05:04:22 +0000",
+      "categoria": "Economía",
+      "resumen": "El MEM advierte que los Q2 mil 500 millones para subsidiar combustibles podrían agotarse antes de fin de año por el alza de los precios internacionales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Drones, ciberataques y desinformación: la &#8220;guerra híbrida&#8221; de la que se acusa a Rusia en Europa",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/drones-ciberataques-y-desinformacion-la-guerra-hibrida-de-la-que-se-acusa-a-rusia-en-europa/",
+      "fecha": "Thu, 10 Sep 2026 05:01:48 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Analistas apuntan a que el Kremlin ha estado tanteando a Europa mediante una combinación de tácticas militares y no militares para ejercer presión sin desencadenar un conflicto abierto."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Más de tres mil agentes se incorporan a la PNC: Así serán desplegados en tareas de seguridad",
@@ -49,6 +65,14 @@
       "fecha": "Thu, 10 Sep 2026 01:48:20 +0000",
       "categoria": "Comunitario",
       "resumen": "La fuerza del río Pinula continúa socavando el terreno y derribando viviendas en Villa Hermosa, San Miguel Petapa, donde familias temen que más casas colapsen."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "A dónde llamar ante una crisis emocional: habilitan línea de ayuda psicológica gratuita en Guatemala",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/linea-de-ayuda-psicologica-gratuita-en-guatemala-a-donde-llamar-ante-una-crisis-emocional/",
+      "fecha": "Thu, 10 Sep 2026 01:39:01 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Expertos habilitan una línea telefónica y un número de WhatsApp para brindar apoyo psicológico a guatemaltecos que atraviesen una crisis emocional."
     },
     {
       "fuente": "Prensa Libre",
@@ -809,30 +833,6 @@
       "fecha": "Tue, 08 Sep 2026 23:53:36 +0000",
       "categoria": "Internacional",
       "resumen": "El fenómeno de El Niño elevará el nivel del mar en la costa Californiana, lo cual tendría un impacto agravante en los efectos de las tormentas de invierno."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pruebas Pisa revelan que uno de cada cuatro estudiantes en Guatemala sufre acoso escolar al menos dos veces al mes",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/pruebas-pisa-revelan-que-uno-de-cada-cuatro-estudiantes-en-guatemala-sufre-acoso-escolar-al-menos-dos-veces-al-mes/",
-      "fecha": "Tue, 08 Sep 2026 23:47:44 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El 25% de los estudiantes en Guatemala sufre acoso escolar al menos dos veces al mes, según la prueba Pisa 2025."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuándo se estrena &#8220;Supergirl&#8221; en HBO Max? Fecha confirmada para su llegada al streaming",
-      "link": "https://www.prensalibre.com/vida/escenario/cuando-se-estrena-supergirl-en-hbo-max-fecha-confirmada-para-su-llegada-al-streaming/",
-      "fecha": "Tue, 08 Sep 2026 23:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "A menos de tres meses de su estreno en cines, la película “Supergirl” estará disponible en streaming. HBO Max confirmó la fecha en que se incorporará a su catálogo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Selección de Guatemala suma una baja rumbo al debut en la Liga de Naciones de Concacaf",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-suma-una-baja-rumbo-al-debut-en-la-liga-de-naciones-de-concacaf-breaking/",
-      "fecha": "Tue, 08 Sep 2026 23:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Selección Nacional afronta su primera complicación antes del debut oficial, con una ausencia que obliga al cuerpo técnico a buscar alternativas en defensa."
     },
     {
       "fuente": "Guatemala.com",
