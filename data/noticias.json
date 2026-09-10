@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-10T16:15:24.695Z",
+  "actualizado": "2026-09-10T17:14:04.314Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump promete US$5 mil a cada adulto si ganan los republicanos: ¿Qué se sabe de su propuesta?",
+      "link": "https://www.prensalibre.com/internacional/trump-promete-us5-mil-a-cada-adulto-si-ganan-los-republicanos-que-se-sabe-de-su-propuesta/",
+      "fecha": "Thu, 10 Sep 2026 17:01:18 +0000",
+      "categoria": "Internacional",
+      "resumen": "Como premio a la fidelidad, Trump prometió entregar US$5 mil (Q38 mil 185) a todos los adultos estadounidenses si los republicanos conservan el control del Congreso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Banco Mundial aprueba US$250 millones para modernizar cinco aeropuertos y aeródromos de Guatemala",
+      "link": "https://www.prensalibre.com/economia/banco-mundial-aprueba-us250-millones-para-modernizar-cinco-aeropuertos-y-aerodromos-de-guatemala/",
+      "fecha": "Thu, 10 Sep 2026 16:43:19 +0000",
+      "categoria": "Economía",
+      "resumen": "La mayor parte del financiamiento se destinará a infraestructura y equipos en La Aurora, Mundo Maya, Puerto Barrios, Quetzaltenango y Huehuetenango, mientras Guatemala prepara una reforma institucional de la aviación civil."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Sobreviví al 11-S porque llegué más tarde a trabajar a las Torres Gemelas. Y a veces me siento culpable&#8221;",
@@ -17,6 +33,14 @@
       "fecha": "Thu, 10 Sep 2026 15:50:17 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La medida cautelar paraliza la inscripción inmediata de los beneficiarios de la normativa en el padrón electoral y los obliga a demostrar que son familiares de exiliados españoles para poder ejercer su derecho al sufragio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Copa Centroamericana: Cartaginés sale fortalecido y Amarini Villatoro confía en cerrar la serie en casa",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/cartagines-sale-fortalecido-y-amarini-villatoro-confia-en-cerrar-la-serie-en-casa-breaking/",
+      "fecha": "Thu, 10 Sep 2026 15:47:32 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El empate mantiene con vida al conjunto dirigido por el técnico guatemalteco Amarini Villatoro, que buscará hacer valer su fortaleza como local para avanzar a las semifinales contra el Saprissa."
     },
     {
       "fuente": "Prensa Libre",
@@ -809,30 +833,6 @@
       "fecha": "Wed, 09 Sep 2026 07:05:00 +0000",
       "categoria": "Economía",
       "resumen": "Chile tardó años en construir su ecosistema fintech. Herbert Schulz en una entrevista en el Volcano Innovation Summit qué puede hacer Guatemala para avanzar más rápido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Agosto negro",
-      "link": "https://www.prensalibre.com/opinion/caricatura/agosto-negro-2/",
-      "fecha": "Wed, 09 Sep 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En las pruebas Pisa Guatemala sale rezagada",
-      "link": "https://www.prensalibre.com/opinion/editorial/en-las-pruebas-pisa-guatemala-sale-rezagada/",
-      "fecha": "Wed, 09 Sep 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "La llamada de atención es general, pues ninguno de los dos sectores se salvó del retroceso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "TSE: judicialización y campaña anticipada",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/tse-judicializacion-y-campana-anticipada/",
-      "fecha": "Wed, 09 Sep 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El TSE ha caído en la trampa de judicializar sus decisiones y rendirse ante las presiones presentes en la época."
     },
     {
       "fuente": "Guatemala.com",
