@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-10T15:15:36.146Z",
+  "actualizado": "2026-09-10T16:15:24.695Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Sobreviví al 11-S porque llegué más tarde a trabajar a las Torres Gemelas. Y a veces me siento culpable&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/sobrevivi-al-11-s-porque-llegue-mas-tarde-a-trabajar-a-las-torres-gemelas-y-a-veces-me-siento-culpable-2/",
+      "fecha": "Thu, 10 Sep 2026 15:56:13 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Hans Gernot Schenk llevaba trabajando más de un año en las Torres Gemelas cuando se produjeron los atentados. Ese día llegó un poco más tarde a la oficina, y probablemente por eso se salvó. Pero los ataques marcaron su vida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Ley de nietos&#8221;: por qué el Tribunal Supremo de España suspendió el derecho a votar de miles de ciudadanos naturalizados",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ley-de-nietos-por-que-el-tribunal-supremo-de-espana-suspendio-el-derecho-a-votar-de-miles-de-ciudadanos-naturalizados/",
+      "fecha": "Thu, 10 Sep 2026 15:50:17 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La medida cautelar paraliza la inscripción inmediata de los beneficiarios de la normativa en el padrón electoral y los obliga a demostrar que son familiares de exiliados españoles para poder ejercer su derecho al sufragio."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿South Park ahora será “South America”? El cambio de nombre que apunta a Donald Trump",
@@ -12,11 +28,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Festival de Independencia de Ciudad Cayalá: cultura, historia y música del 12 al 20 de septiembre",
+      "link": "https://www.prensalibre.com/vida/escenario/festival-de-independencia-de-ciudad-cayala-cultura-historia-y-musica-del-12-al-20-de-septiembre/",
+      "fecha": "Thu, 10 Sep 2026 15:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con nueve días de celebración, Ciudad Cayalá conmemorará los 205 años de independencia de Guatemala con conciertos, desfiles, exhibiciones de autos y otras actividades. Conozca los detalles."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Agustín Vuletich ofrece disculpas tras su expulsión en la derrota de Comunicaciones ante Marquense",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/agustin-vuletich-ofrece-disculpas-tras-su-expulsion-en-la-derrota-de-comunicaciones-ante-marquense-breaking/",
       "fecha": "Thu, 10 Sep 2026 14:59:56 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El delantero crema reconoció que la situación le duele y explicó su versión de la jugada que terminó con su expulsión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Accidentes de tránsito dejan 16 personas heridas en la ruta Interamericana y Quiché",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/accidentes-de-transito-dejan-16-personas-heridas-en-la-ruta-interamericana-y-quiche-breaking/",
+      "fecha": "Thu, 10 Sep 2026 14:55:09 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Al menos 16 personas resultaron heridas en percances viales en la ruta Interamericana y en Santa Cruz del Quiché."
     },
     {
       "fuente": "Guatemala.com",
@@ -801,38 +833,6 @@
       "fecha": "Wed, 09 Sep 2026 06:05:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "El TSE ha caído en la trampa de judicializar sus decisiones y rendirse ante las presiones presentes en la época."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Su esponja de cocina puede estar muy sucia: Esto es lo que debe hacer",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/su-esponja-de-cocina-puede-estar-muy-sucia-esto-es-lo-que-debe-hacer/",
-      "fecha": "Wed, 09 Sep 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Los paños de cocina, que pueden estar hechos de materiales como algodón, lino o incluso celulosa vegetal, son útiles tanto para lavar como para secar utensilios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Países del Golfo refuerzan sus defensas y buscan alternativas a Ormuz mientras continúa la guerra con Irán",
-      "link": "https://www.prensalibre.com/internacional/paises-del-golfo-refuerzan-sus-defensas-y-buscan-alternativas-a-ormuz-mientras-continua-la-guerra-con-iran/",
-      "fecha": "Wed, 09 Sep 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Países del Golfo diversifican sus alianzas de seguridad y buscan reducir su dependencia del estrecho de Ormuz mientras se prolonga la guerra con Irán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El valor de un centro histórico",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-valor-de-un-centro-historico/",
-      "fecha": "Wed, 09 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El reto de preservar el centro de la ciudad sin convertirlo en un espacio urbano fantasma."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El próximo encuentro",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-proximo-encuentro/",
-      "fecha": "Wed, 09 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Podría quedar abierta la posibilidad de un encuentro de los presidentes de China, Estados Unidos y Rusia."
     },
     {
       "fuente": "Guatemala.com",
