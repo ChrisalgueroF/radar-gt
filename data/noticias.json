@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-10T19:12:12.276Z",
+  "actualizado": "2026-09-10T20:14:23.528Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuándo saldrán a la venta el iPhone 18 Pro, el iPhone 18 Pro Max y el iPhone Duo?",
+      "link": "https://www.prensalibre.com/vida/tecnologia/cuando-saldran-a-la-venta-el-iphone-18-pro-el-iphone-18-pro-max-y-el-iphone-duo/",
+      "fecha": "Thu, 10 Sep 2026 19:32:51 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Apple presentó una nueva generación de dispositivos móviles, entre ellos el iPhone 18 Pro, el iPhone 18 Pro Max y su primer teléfono plegable, el iPhone Duo. Estas son las fechas anunciadas para su preventa y disponibilidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Es legal que Trump prometa entregar US$5.000 a cada estadounidense si los republicanos ganan las elecciones de noviembre?",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/es-legal-que-trump-prometa-entregar-us5-000-a-cada-estadounidense-si-los-republicanos-ganan-las-elecciones-de-noviembre/",
+      "fecha": "Thu, 10 Sep 2026 19:12:15 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los analistas cuestionan que la oferta del presidente estadounidense en año electoral sea viable, legal o asequible."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Agentes del ICE se hicieron pasar por electricistas? Familia denuncia arresto en Arizona",
@@ -17,6 +33,14 @@
       "fecha": "Thu, 10 Sep 2026 18:47:42 +0000",
       "categoria": "Sucesos",
       "resumen": "Fuerzas de seguridad fueron agredidas durante operativos en Chahal, Alta Verapaz. Un soldado murió y agentes de la PNC fueron retenidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MetroRiel en Guatemala: qué trabajos se hacen en 21 kilómetros de vía antes de su construcción",
+      "link": "https://www.prensalibre.com/economia/metroriel-en-guatemala-que-trabajos-se-hacen-en-21-kilometros-de-via-antes-de-su-construccion/",
+      "fecha": "Thu, 10 Sep 2026 18:43:56 +0000",
+      "categoria": "Economía",
+      "resumen": "El MetroRiel todavía no está en construcción, pero ya se está haciendo una radiografía actualizada de los 21 kilómetros de derecho de vía para determinar con qué condiciones reales tendría que enfrentarse el proyecto."
     },
     {
       "fuente": "Prensa Libre",
@@ -41,6 +65,14 @@
       "fecha": "Thu, 10 Sep 2026 17:35:16 +0000",
       "categoria": "Comunitario",
       "resumen": "Ante los bloqueos registrados en Guatemala, la Unaerc pide facilitar el paso de pacientes renales y alerta que retrasar un tratamiento de diálisis puede poner en riesgo su salud y vida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Esto dijeron los pilotos del avión de Amazon antes de accidentarse en Miami, según la caja negra",
+      "link": "https://www.prensalibre.com/internacional/esto-dijeron-los-pilotos-del-avion-de-amazon-antes-de-accidentarse-en-miami-segun-la-caja-negra/",
+      "fecha": "Thu, 10 Sep 2026 17:32:51 +0000",
+      "categoria": "Internacional",
+      "resumen": "La caja negra recuperada del avión de Amazon accidentado en Miami revelaría lo que dijeron los pilotos antes de la colisión."
     },
     {
       "fuente": "Prensa Libre",
@@ -801,38 +833,6 @@
       "fecha": "Wed, 09 Sep 2026 15:12:00 +0000",
       "categoria": "Salud y Familia",
       "resumen": "Tomar medidas de prevención para cuidar la salud propia debería ser una práctica común a toda edad y para todos los miembros del grupo familiar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Multas a deportados en Guatemala y otras naciones: Los 5 puntos clave del plan de EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/multas-a-deportados-en-guatemala-y-otras-naciones-los-5-puntos-clave-del-plan-de-ee-uu/",
-      "fecha": "Wed, 09 Sep 2026 15:01:33 +0000",
-      "categoria": "Internacional",
-      "resumen": "El TPRS sirve para ubicar a personas deportadas que mantienen obligaciones económicas o multas pendientes relacionadas con la ley migratoria estadounidense."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "III Congreso Espacial Centroamericano reunirá a expertos de la NASA, Blue Origin y otras entidades para aprender sobre el espacio",
-      "link": "https://www.prensalibre.com/vida/ciencia/iii-congreso-espacial-centroamericano-reunira-a-expertos-de-la-nasa-blue-origin-y-otras-entidades-para-aprender-sobre-el-espacio/",
-      "fecha": "Wed, 09 Sep 2026 15:00:00 +0000",
-      "categoria": "Ciencia",
-      "resumen": "Durante tres días, expertos en ciencias espaciales, estudiantes, profesionales y entusiastas del sector podrán aprender, compartir conocimientos y visualizar el futuro del desarrollo espacial en Centroamérica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Impulsan el crecimiento de empresas en Quetzaltenango y Totonicapán",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/impulsan-el-crecimiento-de-empresas-en-quetzaltenango-y-totonicapan/",
-      "fecha": "Wed, 09 Sep 2026 14:49:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Con el objetivo de llevar herramientas estratégicas a más regiones del país, Fundación Bi celebró la graduación de la 8va cohorte de ScaleUp, impulsando en esta edición, negocios de Quetzaltenango y Totonicapán que lograron avances claros en ventas, finanzas e innovación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cadáveres abandonados y envueltos en sábanas: PNC ejecuta 56 allanamientos en zona 7",
-      "link": "https://www.prensalibre.com/guatemala/justicia/cadaveres-abandonados-y-envueltos-en-sabanas-pnc-ejecuta-56-allanamientos-en-zona-7-breaking/",
-      "fecha": "Wed, 09 Sep 2026 14:19:16 +0000",
-      "categoria": "Justicia",
-      "resumen": "El operativo se concentra en la zona 7 y otros sectores, mientras las autoridades investigan casos de cuerpos abandonados y envueltos en sábanas y plástico."
     },
     {
       "fuente": "Guatemala.com",
