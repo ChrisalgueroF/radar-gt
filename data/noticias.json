@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-10T20:14:23.528Z",
+  "actualizado": "2026-09-10T21:13:20.649Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gas lacrimógeno, encapuchados y morteros en San Vicente Pacaya: tensión se apodera de la ruta al Pacífico",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/gas-lacrimogeno-encapuchados-y-morteros-en-san-vicente-pacaya-tension-se-apodera-de-la-ruta-al-pacifico-breaking/",
+      "fecha": "Thu, 10 Sep 2026 20:50:28 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La tensión persiste en la ruta al Pacífico, donde manifestantes y agentes de la PNC se enfrentaron durante los operativos para liberar el paso entre los kilómetros 37 y 40."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Transforman la formación del talento financiero y empresarial en Guatemala",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/transforman-la-formacion-del-talento-financiero-y-empresarial-en-guatemala/",
+      "fecha": "Thu, 10 Sep 2026 20:22:37 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "La Asociación Bancaria de Guatemala a través de la marca educativa Escuela Bancaria de Guatemala (EBG) y la Universidad Rafael Landívar (URL), por medio de su Facultad de Ciencias Económicas y Empresariales, establecen una alianza académica estratégica con el propósito de fortalecer las capacidades profesionales del sector bancario, financiero y empresarial mediante el desarrollo conjunto de programas especializados, innovadores y alineados con las nuevas demandas del mercado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El diputado Allan Rodríguez objeta el decreto que fija precios a los combustibles y complica su vigencia",
+      "link": "https://www.prensalibre.com/guatemala/politica/el-diputado-allan-rodriguez-objeta-el-decreto-que-fija-precios-a-los-combustibles-y-complica-su-vigencia/",
+      "fecha": "Thu, 10 Sep 2026 20:06:28 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El congresista cuestiona el decreto 21-2026 que fija el costo del diésel y la gasolina regular a Q39, mientras establece a Q41 la gasolina superior."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Aurora vs. Municipal: el líder busca mantener el paso en el Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-aurora-vs-municipal-el-lider-busca-mantener-el-paso-en-el-apertura-2026/",
+      "fecha": "Thu, 10 Sep 2026 19:49:04 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Aurora recibe al campeón Municipal en uno de los partidos más atractivos de la octava jornada de la Liga Nacional."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Cuándo saldrán a la venta el iPhone 18 Pro, el iPhone 18 Pro Max y el iPhone Duo?",
@@ -801,38 +833,6 @@
       "fecha": "Wed, 09 Sep 2026 16:00:00 +0000",
       "categoria": "Comunitario",
       "resumen": "El trámite de la Tarjeta de Salud cuenta desde mayo del 2026 con una modalidad electrónica, pero el Ministerio de Salud confirmó que, por ahora, también puede realizarse de forma presencial. Estos son los requisitos y pasos que debe conocer."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Barcelona vs Feyenoord: siga el minuto a minuto de la Liga de Campeones de Europa",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-barcelona-vs-feyenoord-siga-el-minuto-a-minuto-de-la-liga-de-campeones-de-europa/",
-      "fecha": "Wed, 09 Sep 2026 15:30:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Barcelona de Lamine Yamal inicia este miércoles ante el Feyenoord su camino en busca del título europeo, el gran objetivo del conjunto azulgrana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Revelan la identidad de dos mujeres víctimas de ataque armado en la zona 13",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/revelan-la-identidad-de-dos-mujeres-victimas-de-ataque-armado-en-la-zona-13-breaking/",
-      "fecha": "Wed, 09 Sep 2026 15:24:45 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Dos mujeres perdieron la vida en un ataque armado en una venta de ropa en la colonia Santa Fe, zona 13."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Mujeres, hilos y raíces&#8221;, de Andrea Aragón, se luce en Mesón Panza Verde",
-      "link": "https://www.prensalibre.com/vida/escenario/mujeres-hilos-y-raices-de-andrea-aragon-se-luce-en-meson-panza-verde/",
-      "fecha": "Wed, 09 Sep 2026 15:17:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "A través de fotografías intervenidas, la artista explora historias familiares, experiencias de mujeres y lo que se transmite de generación en generación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuidar de sí mismo: un ejercicio de responsabilidad y amor hacia la familia",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/cuidar-de-si-mismo-un-ejercicio-de-responsabilidad-y-amor-hacia-la-familia/",
-      "fecha": "Wed, 09 Sep 2026 15:12:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Tomar medidas de prevención para cuidar la salud propia debería ser una práctica común a toda edad y para todos los miembros del grupo familiar."
     },
     {
       "fuente": "Guatemala.com",
