@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-10T18:17:18.827Z",
+  "actualizado": "2026-09-10T19:12:12.276Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Agentes del ICE se hicieron pasar por electricistas? Familia denuncia arresto en Arizona",
+      "link": "https://www.prensalibre.com/internacional/agentes-del-ice-se-hicieron-pasar-por-electricistas-familia-denuncia-arresto-en-arizona/",
+      "fecha": "Thu, 10 Sep 2026 19:01:16 +0000",
+      "categoria": "Internacional",
+      "resumen": "La esposa del detenido cuestionó las tácticas utilizadas para efectuar el arresto, particularmente el hecho de que presuntamente se hicieran pasar por electricistas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Soldado fallece y agentes de la PNC resultan heridos y retenidos durante operativo en Alta Verapaz",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/soldado-fallece-y-agentes-de-la-pnc-resultan-heridos-y-retenidos-durante-operativo-en-alta-verapaz-breaking/",
+      "fecha": "Thu, 10 Sep 2026 18:47:42 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Fuerzas de seguridad fueron agredidas durante operativos en Chahal, Alta Verapaz. Un soldado murió y agentes de la PNC fueron retenidos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "65 Vuelta a Guatemala: este es el recorrido de las 10 etapas que definirán al campeón",
@@ -49,6 +65,14 @@
       "fecha": "Thu, 10 Sep 2026 16:43:19 +0000",
       "categoria": "Economía",
       "resumen": "La mayor parte del financiamiento se destinará a infraestructura y equipos en La Aurora, Mundo Maya, Puerto Barrios, Quetzaltenango y Huehuetenango, mientras Guatemala prepara una reforma institucional de la aviación civil."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cilia Flores: los problemas de salud por los que la esposa de Nicolás Maduro pide libertad condicional",
+      "link": "https://www.prensalibre.com/internacional/cilia-flores-los-problemas-de-salud-por-los-que-la-esposa-de-nicolas-maduro-pide-libertad-condicional/",
+      "fecha": "Thu, 10 Sep 2026 16:36:04 +0000",
+      "categoria": "Internacional",
+      "resumen": "Cilia Flores, esposa de Nicolás Maduro, solicitó arresto domiciliar en Nueva York alegando supuestos problemas de salud desde su captura."
     },
     {
       "fuente": "Prensa Libre",
@@ -809,30 +833,6 @@
       "fecha": "Wed, 09 Sep 2026 14:19:16 +0000",
       "categoria": "Justicia",
       "resumen": "El operativo se concentra en la zona 7 y otros sectores, mientras las autoridades investigan casos de cuerpos abandonados y envueltos en sábanas y plástico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡Decisión tomada! Selección centroamericana confirma qué pasará con su técnico rumbo al Mundial 2030",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/decision-tomada-seleccion-centroamericana-confirma-que-pasara-con-su-tecnico-rumbo-al-mundial-2030-breaking/",
-      "fecha": "Wed, 09 Sep 2026 14:09:06 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El estratega que llevó al combinado a la Copa del Mundo de 2026 recibió el respaldo de la federación para continuar con el proceso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Laporta explota por la ausencia de Pedri y Raphinha en el Balón de Oro: “Han hecho méritos para estar nominados”",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/laporta-explota-por-la-ausencia-de-pedri-y-raphinha-en-el-balon-de-oro-han-hecho-meritos-para-estar-nominados-breaking/",
-      "fecha": "Wed, 09 Sep 2026 13:44:57 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El presidente del Barcelona cuestiona la decisión y defiende a sus figuras, mientras apunta a Lamine Yamal como uno de los favoritos para ganar el premio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Reino Unido anuncia sanciones contra los colonos judíos en Cisjordania y provoca una airada respuesta de Israel",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/reino-unido-anuncia-sanciones-contra-los-colonos-judios-en-cisjordania-y-provoca-una-airada-respuesta-de-israel/",
-      "fecha": "Wed, 09 Sep 2026 12:06:00 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El ministro de Relaciones Exteriores británico presentó las nuevas medidas ante el Parlamento, mientras Israel acusa a Londres de incurrir en una \"flagrante injerencia\" en su proceso electoral."
     },
     {
       "fuente": "Guatemala.com",
