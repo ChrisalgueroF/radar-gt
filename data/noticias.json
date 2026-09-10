@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-10T10:16:01.052Z",
+  "actualizado": "2026-09-10T11:14:54.797Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quetzaltenango coronará a dos reinas de las Fiestas de Independencia 2026: cuándo serán los certámenes, dónde verlos y quiénes son las candidatas",
+      "link": "https://www.prensalibre.com/vida/escenario/quetzaltenango-coronara-a-dos-reinas-de-las-fiestas-de-independencia-2026-cuando-seran-los-certamenes-donde-verlos-y-quienes-son-las-candidatas/",
+      "fecha": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Xela presentó a las candidatas que competirán por las coronas de Reina Nacional e Internacional de las Fiestas de Independencia. Así inicia el camino hacia ambos certámenes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Maíz y frijol suben de precio: qué está provocando las alzas y por qué recomiendan cautela",
+      "link": "https://www.prensalibre.com/economia/maiz-y-frijol-suben-de-precio-que-esta-provocando-las-alzas-y-por-que-recomiendan-cautela/",
+      "fecha": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "En medio de los aumentos en los precios de los granos básicos, el Ministerio de Agricultura explicó que con la información disponible no existen elementos suficientes para afirmar la presencia de prácticas especulativas, acaparamiento o irregularidades generalizadas en la comercialización de granos básicos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Creé de la nada un imperio de la moda que me hizo multimillonaria, pero creció tanto que acabé en la bancarrota&#8221;",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/cree-de-la-nada-un-imperio-de-la-moda-que-me-hizo-multimillonaria-pero-crecio-tanto-que-acabe-en-la-bancarrota/",
+      "fecha": "Thu, 10 Sep 2026 10:24:47 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Sophia Amoruso convirtió de la nada a Nasty Gal en una empresa valorada en cientos de millones, para verla pocos años después naufragando sin remedio."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Diputados reconocen que el subsidio al combustible es temporal y contemplan un fondo para emergencias",
@@ -803,36 +827,12 @@
       "resumen": "Guatemala enfrenta el reto de una red de puentes envejecida. Especialistas señalan que es necesario identificar cuáles estructuras pueden reforzarse, cuáles deben reemplazarse y cuáles son prioritarias para garantizar la movilidad durante emergencias."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;¿Qué haces cuando los colonos empiezan a disparar contra tus hijos?&#8221;: la preocupación de padres palestinos por el aumento de los ataques a escuelas",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-haces-cuando-los-colonos-empiezan-a-disparar-contra-tus-hijos-la-preocupacion-de-padres-palestinos-por-el-aumento-de-los-ataques-a-escuelas/",
-      "fecha": "Wed, 09 Sep 2026 05:03:52 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El director de un colegio en la Cisjordania ocupada instaló una nueva cerca de alambre de púas después de que tres alumnos murieran este año."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Aprueban precios límite para la gasolina y el diésel en Guatemala",
       "link": "https://www.guatemala.com/noticias/comunidad/aprueban-precios-limite-gasolina-diesel-guatemala-2026.html",
       "fecha": "Wed, 09 Sep 2026 04:41:17 +0000",
       "categoria": "Comunidad",
       "resumen": "Con el Decreto 21-2026 se han establecido precios límite a la gasolina regular, súper y el diésel hasta el 31 de diciembre de 2026.\nThe post Aprueban precios límite para la gasolina y el diésel en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Chris Rock habla sobre su altercado con Will Smith en los Óscar y revela qué tendría que pasar para volver a la ceremonia",
-      "link": "https://www.prensalibre.com/vida/escenario/chris-rock-habla-sobre-su-altercado-con-will-smith-en-los-oscar-y-revela-que-tendria-que-pasar-para-volver-a-la-ceremonia/",
-      "fecha": "Wed, 09 Sep 2026 03:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "A cuatro años del incidente que marcó los Premios Óscar, el actor y director Chris Rock reflexionó sobre el altercado y mencionó qué tendría que suceder para volver a la ceremonia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hallan muertos a cuatro miembros de una familia que viajaban en una avioneta desaparecida en Bahamas",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/hallan-muertos-a-cuatro-miembros-de-una-familia-que-viajaban-en-una-avioneta-desaparecida-en-bahamas/",
-      "fecha": "Wed, 09 Sep 2026 02:25:42 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Los cuatro integrantes de una familia de Florida que viajaban en una avioneta desaparecida cuando regresaban de las Bahamas fueron hallados muertos."
     },
     {
       "fuente": "Guatemala.com",
