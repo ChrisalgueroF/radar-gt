@@ -1,7 +1,127 @@
 {
-  "actualizado": "2026-09-10T05:14:24.948Z",
+  "actualizado": "2026-09-10T06:20:32.723Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Subsidio a combustibles: genera críticas por su estructura, y cuánto podrían durar los recursos",
+      "link": "https://www.prensalibre.com/economia/subsidio-a-combustibles-genera-criticas-por-su-estructura-y-cuanto-podrian-durar-los-recursos/",
+      "fecha": "Thu, 10 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Para el lunes 21, el Ministerio de Energía y Minas (MEM) tiene prevista la entrada en vigor del subsidio a los combustibles, que establece un precio de referencia al público de Q41 por galón de gasolina superior y Q39 por galón de gasolina regular y diésel. La medida aprobada genera fuertes cuestionamientos por su estructuración."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Barbies",
+      "link": "https://www.prensalibre.com/opinion/caricatura/barbies/",
+      "fecha": "Thu, 10 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lecciones del Guatecomprazo",
+      "link": "https://www.prensalibre.com/opinion/editorial/lecciones-del-guatecomprazo/",
+      "fecha": "Thu, 10 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Guatecompras es un patrimonio de información pública invaluable."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Científicos compararon entrenamientos de tres y 90 minutos: el resultado es sorprendente",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/cientificos-compararon-entrenamientos-de-tres-y-90-minutos-el-resultado-es-sorprendente/",
+      "fecha": "Thu, 10 Sep 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Nuevo estudio plantea nuevas preguntas sobre cómo funciona el ejercicio y qué tipos pueden ser los más eficaces."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump pone su figura en el centro de la convención republicana de mitad de mandato",
+      "link": "https://www.prensalibre.com/internacional/trump-pone-su-figura-en-el-centro-de-la-convencion-republicana-de-mitad-de-mandato/",
+      "fecha": "Thu, 10 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "La convención republicana de mitad de mandato gira en torno a Trump, mientras los demócratas buscan aprovechar su baja aprobación para atacar a candidatos republicanos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pensar, ¿un bien en extinción?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/pensar-un-bien-en-extincion/",
+      "fecha": "Thu, 10 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "En Guatemala, seguimos pensando en los próximos títeres que ocuparán las sillas más altas de nuestro narcoestado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El costo de ignorar los precios",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-costo-de-ignorar-los-precios/",
+      "fecha": "Thu, 10 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La medida es totalmente populista y no tiene fundamento económico que justifique; es más, es contraproducente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "65 cuerpos en bolsas y el presupuesto de la Nación",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/65-cuerpos-en-bolsas-y-el-presupuesto-de-la-nacion/",
+      "fecha": "Thu, 10 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Seguramente sea difícil negar recursos del presupuesto a programas, instituciones u ONGs que tienen años de recibirlos, pero, no hay otra forma de determinar prioridades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pruebas Pisa: Colegios privados registran la mayor caída en resultados",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/pruebas-pisa-colegios-privados-registran-la-mayor-caida-en-resultados/",
+      "fecha": "Thu, 10 Sep 2026 06:01:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Las pruebas Pisa muestran que los estudiantes del sector privado alcanzaron resultados más bajos en Lectura, Matemática y Ciencias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy jueves 10 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-10-de-septiembre-de-2026/",
+      "fecha": "Thu, 10 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La excelencia operativa y el verdadero potencial de la IA",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/la-excelencia-operativa-y-el-verdadero-potencial-de-la-ia/",
+      "fecha": "Thu, 10 Sep 2026 06:00:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "Las empresas que incorporan datos en tiempo real, flujos digitales y analítica avanzada logran las mayores mejoras."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La propiedad intelectual y la innovación",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-propiedad-intelectual-y-la-innovacion/",
+      "fecha": "Thu, 10 Sep 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Si cualquier persona pudiera copiarla inmediatamente sin asumir esos costes, disminuirían los incentivos para investigar…"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Se puede evitar que un puente colapse? Identifican inspecciones mínimas en la red nacional",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/se-puede-evitar-que-un-puente-colapse-identifican-inspecciones-minimas-en-la-red-nacional/",
+      "fecha": "Thu, 10 Sep 2026 06:00:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "Especialistas advierten que prevenir una emergencia exige pasar de las inspecciones visuales aisladas a un sistema permanente de diagnóstico, mantenimiento y seguimiento estructural."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump promete darle US$5.000 a cada adulto estadounidense si los republicanos ganan las elecciones de medio término",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-promete-darle-us5-000-a-cada-adulto-estadounidense-si-los-republicanos-ganan-las-elecciones-de-medio-termino/",
+      "fecha": "Thu, 10 Sep 2026 05:36:06 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El mandatario dijo que será \"muy parecido a cuando una empresa exitosa\" y paga dividendos a sus inversores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Florida demanda a Netflix por rastrear a niños y usar sus datos para sostener su negocio publicitario",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/florida-demanda-a-netflix-por-rastrear-a-ninos-y-usar-sus-datos-para-sostener-su-negocio-publicitario/",
+      "fecha": "Thu, 10 Sep 2026 05:16:42 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Florida demandó a Netflix por supuestamente rastrear la actividad de menores en perfiles infantiles y utilizar esos datos para sostener su negocio publicitario."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Subsidio de Q2 mil 500 millones para combustibles podría agotarse antes de finalizar el año",
@@ -713,126 +833,6 @@
       "fecha": "Wed, 09 Sep 2026 02:20:37 +0000",
       "categoria": "Guatemala",
       "resumen": "Una supuesta oferta de trabajo en el extranjero circula desde un número de celular y utiliza el nombre y la fotografía del director del Instituto Guatemalteco de Migración. La institución advierte que la información es falsa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Desfile del 15 de septiembre 2026: ¿a qué hora comienza y cuál será el recorrido por los 205 años de independencia?",
-      "link": "https://www.prensalibre.com/vida/escenario/desfile-del-15-de-septiembre-2026-a-que-hora-comienza-y-cual-sera-el-recorrido-por-los-205-anos-de-independencia/",
-      "fecha": "Wed, 09 Sep 2026 02:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "En conmemoración de los 205 años de independencia de Guatemala, colegios, escuelas e institutos recorrerán parte del Centro Histórico y llevarán música y alegría a las calles. Esto se conoce del recorrido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Transportistas amplían a tres los puntos de salida para la protesta de este miércoles y cuestionan propuesta de Q39",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/transportistas-amplian-a-tres-los-puntos-de-salida-para-la-protesta-de-manana-y-cuestionan-propuesta-de-q39/",
-      "fecha": "Wed, 09 Sep 2026 01:48:38 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los transportistas amplian a tres los puntos de salida de la protesta de este miércoles y reiteran su rechazo a la propuesta de fijar en Q39 el galón de combustible, al advertir que podría terminar elevando las tarifas del pasaje."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las empresas que deciden la contratación de nuevos empleados en competencias similares a &#8220;Factor X&#8221;",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/las-empresas-que-deciden-la-contratacion-de-nuevos-empleados-en-competencias-similares-a-factor-x/",
-      "fecha": "Wed, 09 Sep 2026 01:30:05 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los aspirantes deben presentar sus ideas en un escenario ante un jurado y público."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "City Fest: Un festival anual de música alternativa",
-      "link": "https://www.prensalibre.com/vida/escenario/city-fest-un-festival-anual-de-musica-alternativa/",
-      "fecha": "Wed, 09 Sep 2026 01:30:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "City Fest inicia su segunda edición con artistas nacionales e invitados internacionales el 12, 18 y 19 de septiembre en distintos puntos de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Juez Fredy Orellana suspende audiencia del caso Valat y aplaza decisión sobre apertura a juicio",
-      "link": "https://www.prensalibre.com/guatemala/justicia/juez-fredy-orellana-suspende-audiencia-del-caso-valat-y-aplaza-decision-sobre-apertura-a-juicio/",
-      "fecha": "Wed, 09 Sep 2026 01:21:33 +0000",
-      "categoria": "Justicia",
-      "resumen": "El juez Fredy Orellana suspendió la continuación de la etapa intermedia del caso Valat y reprogramó para el 14 de octubre la siguiente audiencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Costa Rica aplica 13% de IVA a ChatGPT, Claude, Grok, Booking y otras plataformas digitales: conozca por qué y cómo impactará a los usuarios",
-      "link": "https://www.prensalibre.com/internacional/costa-rica-aplica-13-de-iva-a-chatgpt-claude-grok-booking-y-otras-plataformas-digitales-conozca-por-que-y-como-impactara-a-los-usuarios/",
-      "fecha": "Wed, 09 Sep 2026 01:15:52 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una actualización tributaria en Costa Rica alcanzará a populares servicios de inteligencia artificial, viajes y entretenimiento digital. Conozca qué cambia y qué deben tomar en cuenta los usuarios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La guatemalteca Alejandra Higueros, número 1 del mundo en poomsae, va por el oro en Corea del Sur",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/la-guatemalteca-alejandra-higueros-numero-1-del-mundo-en-poomsae-va-por-el-oro-en-corea-del-sur/",
-      "fecha": "Wed, 09 Sep 2026 01:07:34 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Alejandra afrontará el Campeonato Mundial de Taekwondo Poomsae 2026 como líder del ranking de freestyle, después de años de trabajo y disciplina para alcanzar la cima."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. revela nuevos detalles contra “el Tuerto”, señalado de narcotráfico y quien obtuvo contratos por Q217 millones con Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ee-uu-revela-nuevos-detalles-contra-el-tuerto-senalado-de-narcotrafico-y-quien-obtuvo-contratos-por-q217-millones-con-guatemala/",
-      "fecha": "Wed, 09 Sep 2026 01:05:51 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Siete colaboradores figuran en el expediente de EE. UU. contra el guatemalteco Cristhian Vaides Fión, señalado de narcotráfico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Concierto de Independencia 2026: Celebrando el mes de la patria",
-      "link": "https://www.prensalibre.com/vida/escenario/concierto-de-independencia-2026-celebrando-el-mes-de-la-patria/",
-      "fecha": "Wed, 09 Sep 2026 01:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Un evento artístico que conmemora el Día de la Independencia de Guatemala mediante la música y la tradición."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡Error que sale caro! Comunicaciones pierde 3-0 ante Mixco por alinear indebidamente a seis extranjeros",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/error-que-sale-caro-comunicaciones-pierde-3-0-ante-mixco-por-la-regla-65-breaking/",
-      "fecha": "Wed, 09 Sep 2026 00:47:44 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Liga Nacional sancionó a Comunicaciones por alinear durante cuatro minutos a seis futbolistas extranjeros en el partido contra Mixco con lo cual violó la regla 6+5."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Salí a buscar las cámaras de vigilancia de mi barrio en Nueva York y encontré muchas más de las que esperaba",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/sali-a-buscar-las-camaras-de-vigilancia-de-mi-barrio-en-nueva-york-y-encontre-muchas-mas-de-las-que-esperaba/",
-      "fecha": "Wed, 09 Sep 2026 00:33:29 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las cámaras de vigilancia se extienden no solo por EE.UU., sino por todo el mundo. El debate sobre su uso se centra, una vez más, en la dicotomía entre privacidad y seguridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fármaco para la obesidad se asocia con una reducción de hasta 40% de las crisis de asma, según estudio",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/farmaco-para-la-obesidad-se-asocia-con-una-reduccion-de-hasta-40-de-las-crisis-de-asma-segun-estudio/",
-      "fecha": "Wed, 09 Sep 2026 00:30:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Un fármaco que ayuda a tratar la diabetes tipo 2 se asocia, según un estudio médico, con la reducción de las crisis de asma y podría aportar beneficios respiratorios adicionales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La petición de Trump a la Corte Suprema: que se reactive un sistema utilizado para depurar el padrón electoral",
-      "link": "https://www.prensalibre.com/internacional/la-peticion-de-trump-a-la-corte-suprema-que-se-reactive-un-sistema-utilizado-para-depurar-el-padron-electoral/",
-      "fecha": "Wed, 09 Sep 2026 00:02:15 +0000",
-      "categoria": "Internacional",
-      "resumen": "El sistema conocido como SAVE (Verificación Sistemática de Extranjeros para Beneficios) permanece suspendido luego de que un tribunal determinara que vulneró leyes de privacidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Encuentro de Conviteros 2026: estas son las categorías, distribución por recorrido y puntos de los desfiles",
-      "link": "https://www.prensalibre.com/vida/escenario/encuentro-de-conviteros-2026-estas-son-las-categorias-distribucion-por-recorrido-y-puntos-de-los-desfiles/",
-      "fecha": "Wed, 09 Sep 2026 00:02:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Con más de 130 agrupaciones, el Centro Histórico se transformará en un punto de encuentro de cultura, tradición y celebración durante el segundo Encuentro de Conviteros."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Niño: ¿Qué son las ondas Kelvin y por qué importan en el aumento del nivel del mar?",
-      "link": "https://www.prensalibre.com/internacional/el-nino-que-son-las-ondas-kelvin-y-por-que-importan-en-el-aumento-del-nivel-del-mar/",
-      "fecha": "Tue, 08 Sep 2026 23:53:36 +0000",
-      "categoria": "Internacional",
-      "resumen": "El fenómeno de El Niño elevará el nivel del mar en la costa Californiana, lo cual tendría un impacto agravante en los efectos de las tormentas de invierno."
     },
     {
       "fuente": "Guatemala.com",
