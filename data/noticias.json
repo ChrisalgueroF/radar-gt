@@ -1,7 +1,87 @@
 {
-  "actualizado": "2026-09-09T23:13:14.002Z",
+  "actualizado": "2026-09-10T00:20:40.018Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Skechers Kids abrió su primera tienda de Latinoamérica en Guatemala",
+      "link": "https://www.guatemala.com/noticias/sociedad/skechers-kids-primera-tienda-latinoamerica-guatemala.html",
+      "fecha": "Wed, 09 Sep 2026 23:57:34 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Skechers Kids abrió en Guatemala su primera tienda de Latinoamérica, con calzado y accesorios para niños en Miraflores Shopping Center.\nThe post Skechers Kids abrió su primera tienda de Latinoamérica en Guatemala appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Desfile Cívico Escolar del 15 de septiembre: rutas alternas, cierres y horarios del plan de movilidad de Emetra",
+      "link": "https://www.prensalibre.com/vida/escenario/desfile-civico-escolar-del-15-de-septiembre-rutas-alternas-cierres-y-horarios-del-plan-de-movilidad-de-emetra/",
+      "fecha": "Wed, 09 Sep 2026 23:56:46 +0000",
+      "categoria": "Escenario",
+      "resumen": "El Centro Histórico se transformará en el lugar de encuentro y celebración de los 205 años de independencia de Guatemala, donde más de 130 bandas participarán en el Desfile Cívico Escolar. Este es el plan de movilidad vial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El costoso iPhone pleglable, la apuesta del nuevo jefe de Apple",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/el-costoso-iphone-pleglable-la-apuesta-del-nuevo-jefe-de-apple/",
+      "fecha": "Wed, 09 Sep 2026 23:49:28 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La compañía tecnológica presentó el primer cambio de diseño importante del iPhone desde su lanzamiento hace casi 20 años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Comunicaciones vs. Marquense: Roberto Montoya debuta tras el golpe de la sanción",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-comunicaciones-vs-marquense-roberto-montoya-debuta-tras-el-golpe-de-la-sancion/",
+      "fecha": "Wed, 09 Sep 2026 23:45:32 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Comunicaciones estrena al técnico Roberto Montoya ante Marquense, después del duro golpe sufrido por la sanción del partido contra Mixco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP aborda con ICE seguridad fronteriza, migración y cooperación entre Guatemala y Estados Unidos",
+      "link": "https://www.prensalibre.com/guatemala/migrantes/mp-aborda-con-ice-seguridad-fronteriza-migracion-y-cooperacion-entre-guatemala-y-estados-unidos-breaking/",
+      "fecha": "Wed, 09 Sep 2026 23:35:39 +0000",
+      "categoria": "Migrantes",
+      "resumen": "El MP informó que reforzó la cooperación con autoridades de Estados Unidos en seguridad fronteriza, tras una reunión con Charles Wall, director adjunto de ICE."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Ángel Di María se retira? Esto dijo el argentino sobre el posible final de su carrera profesional",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/angel-di-maria-se-retira-esto-dijo-el-argentino-sobre-el-posible-final-de-su-carrera-profesional/",
+      "fecha": "Wed, 09 Sep 2026 23:30:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El mediocampista campeón del mundo con Argentina aclaró su situación y habló sobre su futuro, luego de las versiones que apuntaban a un posible retiro definitivo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Rubio designa a Los Tiguerones como organización terrorista extranjera y establece alianzas de seguridad con Ecuador y Colombia",
+      "link": "https://www.prensalibre.com/internacional/rubio-designa-a-los-tiguerones-como-organizacion-terrorista-extranjera-y-establece-alianzas-de-seguridad-con-ecuador-y-colombia/",
+      "fecha": "Wed, 09 Sep 2026 23:25:39 +0000",
+      "categoria": "Internacional",
+      "resumen": "El secretario de Estado de EE. UU., Marco Rubio, llegó a Colombia y Ecuador para establecer acuerdos de seguridad y fortalecer los operativos contra el narcotráfico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Los precios de la gasolina tardarán más en bajar”: guerra con Irán terminará tras elecciones intermedias, dice Trump",
+      "link": "https://www.prensalibre.com/internacional/los-precios-de-la-gasolina-tardaran-mas-en-bajar-guerra-con-iran-terminara-tras-elecciones-intermedias-dice-trump/",
+      "fecha": "Wed, 09 Sep 2026 23:22:57 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump mencionó este miércoles que espera que Irán abandone su esfuerzo bélico después de las elecciones de medio término de EE. UU. aunque admitió que es poco probable que los precios de la gasolina disminuyan antes de entonces."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Hechizo de amor 2&#8221;: por qué la crítica cuestiona la película que vuelve a reunir a Sandra Bullock y Nicole Kidman",
+      "link": "https://www.prensalibre.com/vida/escenario/hechizo-de-amor-2-por-que-la-critica-cuestiona-la-pelicula-que-vuelve-a-reunir-a-sandra-bullock-y-nicole-kidman/",
+      "fecha": "Wed, 09 Sep 2026 23:21:18 +0000",
+      "categoria": "Escenario",
+      "resumen": "Sandra Bullock y Nicole Kidman regresan en la secuela de “Hechizo de amor”, pero la película ha recibido críticas y una baja calificación antes de su estreno."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Una montaña rusa de emociones&#8221;: miembros del jurado del caso Lindsay Clancy hablan sobre el desacuerdo que llevó a la anulación del juicio",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-montana-rusa-de-emociones-miembros-del-jurado-del-caso-lindsay-clancy-hablan-sobre-el-desacuerdo-que-llevo-a-la-anulacion-del-juicio/",
+      "fecha": "Wed, 09 Sep 2026 23:14:47 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Tres mujeres del jurado declararon que, tras 40 horas de deliberación, un único miembro del panel no estuvo de acuerdo con el resto en declarar a Clancy no culpable por razón de enfermedad mental"
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "San Pedro derrota a Mixco y se consolida como protagonista del Apertura 2026",
@@ -12,11 +92,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Autoridades dicen que &#8220;se tropezó&#8221;: las fracturas que sufrió un inmigrante nicaragüense por el ICE en Georgia",
+      "link": "https://www.prensalibre.com/internacional/autoridades-dicen-que-se-tropezo-las-fracturas-que-sufrio-un-inmigrante-nicaraguense-por-el-ice-en-georgia/",
+      "fecha": "Wed, 09 Sep 2026 22:13:18 +0000",
+      "categoria": "Internacional",
+      "resumen": "Familiares de un inmigrante nicaragüense relataron cómo fue agredido por agentes del ICE en Georgia, mientras el DHS afirma que el hombre \"se tropezó\"."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "La compañía fortalece la economía local con dos nuevas tiendas",
       "link": "https://www.prensalibre.com/economia/vida-empresarial/la-compania-fortalece-la-economia-local-con-dos-nuevas-tiendas/",
       "fecha": "Wed, 09 Sep 2026 22:10:15 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "Walmart reafirma su compromiso de seguir invirtiendo en el interior de Guatemala, llevando su propuesta de Precios Bajos Todos los Días a más hogares; en esta ocasión se inauguraron dos nuevas tiendas, Despensa Familiar Santa Cruz Verapaz, en Alta Verapaz; y Maxi Despensa Jocotenango, en Sacatepéquez."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué el diseño de la Torre 9 del AeroMetro tiene esa forma y se volvió viral? Esto explica la empresa encargada del proyecto",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/por-que-el-diseno-de-la-torre-9-del-aerometro-tiene-esa-forma-y-se-volvio-viral-esto-explica-la-empresa-encargada-del-proyecto/",
+      "fecha": "Wed, 09 Sep 2026 22:10:08 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La forma de la estructura ubicada en la estación Tecún Umán del AeroMetro, sobre el boulevard Liberacion y el Puente de la Castellana, ha generado dudas entre internautas, pero ¿por qué su parte superior no está alineada con la base? Este diseño no es único: hay otras torres similares en Guatemala y México. La empresa responsable explica por qué se construyó así."
     },
     {
       "fuente": "Prensa Libre",
@@ -193,6 +289,14 @@
       "fecha": "Wed, 09 Sep 2026 18:02:36 +0000",
       "categoria": "Cultura",
       "resumen": "Fundación Paiz anunció a Cuauhtémoc Medina como el curador de la 25 edición de la Bienal de Arte Paiz, que cumplirá 50 años en el 2027.\nThe post Bienal de Arte Paiz se prepara para celebrar sus 50 años con el anuncio del curador para su 25 edición appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Narcomenudeo, torturas y cadáveres envueltos en sábanas: los allanamientos contra la Mara Salvatrucha en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/justicia/narcomenudeo-torturas-y-cadaveres-envueltos-en-sabanas-los-allanamientos-contra-la-mara-salvatrucha-en-guatemala/",
+      "fecha": "Wed, 09 Sep 2026 17:42:31 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Siete presuntos pandilleros de la MS son señalados por 17 crímenes investigados en el 2025 y el 2026."
     },
     {
       "fuente": "Prensa Libre",
@@ -739,108 +843,12 @@
       "resumen": "El conjunto español superó 2-1 al Inter en el Santiago Bernabéu en un partido que tuvo de todo: presión, errores, contragolpes y sufrimiento hasta el final."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Recorrido de Leyendas llegará al Cerrito del Carmen con su edición del Capitán General para revivir la tradición oral del país",
-      "link": "https://www.prensalibre.com/vida/escenario/recorrido-de-leyendas-llegara-al-cerrito-del-carmen-con-su-edicion-del-capitan-general-para-revivir-la-tradicion-oral-del-pais/",
-      "fecha": "Tue, 08 Sep 2026 21:06:10 +0000",
-      "categoria": "Escenario",
-      "resumen": "En uno de los espacios emblemáticos de la tradición oral capitalina se presenta una nueva edición del Recorrido de Leyendas, una experiencia en la que los sustos forman parte de la diversión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala suma 2 mil 848 mexicanos recibidos como parte de vuelos de retornados desde Estados Unidos",
-      "link": "https://www.prensalibre.com/migrantes-2/guatemala-suma-2-mil-848-mexicanos-recibidos-como-parte-de-vuelos-de-retornados-desde-estados-unidos/",
-      "fecha": "Tue, 08 Sep 2026 21:05:37 +0000",
-      "categoria": "migrantes",
-      "resumen": "Guatemala recibió a 2 mil 848 mexicanos entre abril y septiembre, como parte de un mecanismo que los traslada en vuelos de guatemaltecos retornados de Estados Unidos."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "¿Cuándo finalizará el fenómeno de El Niño en Guatemala?",
       "link": "https://www.guatemala.com/noticias/comunidad/fenomeno-el-nino-guatemala-etapa-actual-y-pronostico-duracion.html",
       "fecha": "Tue, 08 Sep 2026 21:02:09 +0000",
       "categoria": "Comunidad",
       "resumen": "El fenómeno de El Niño podría continuar afectando al territorio guatemalteco hasta el 2027. Conoce en qué etapa se encuentra y cuánto podría durar.\nThe post ¿Cuándo finalizará el fenómeno de El Niño en Guatemala? appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "SP busca comprar materiales para adecuar cárceles ante nuevas reglas para visitas de menores de edad",
-      "link": "https://www.prensalibre.com/guatemala/justicia/sp-busca-comprar-materiales-para-adecuar-carceles-ante-nuevas-reglas-para-visitas-de-menores-de-edad/",
-      "fecha": "Tue, 08 Sep 2026 20:47:04 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Las nuevas disposiciones incluyen áreas especiales, preautorización de visitas y controles biométricos para el ingreso de menores a las cárceles en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Balón de Oro 2026: “Él es amigo de Kylian, no me importa”: Lamine Yamal sobre Dembélé",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lamine-yamal-no-hay-mayor-motivacion-que-ganar-la-champions-breaking/",
-      "fecha": "Tue, 08 Sep 2026 20:06:27 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El joven delantero del Barcelona habló de sus objetivos para la nueva temporada, con la Champions League como el gran desafío y el crecimiento personal como otra de sus prioridades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Postuladora para contralor admite 24 señalamientos contra aspirantes; tienen cinco días para defenderse",
-      "link": "https://www.prensalibre.com/guatemala/politica/postuladora-para-contralor-admite-24-senalamientos-contra-aspirantes-tienen-cinco-dias-para-defenderse/",
-      "fecha": "Tue, 08 Sep 2026 19:12:29 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Las pruebas de descargo serán evaluadas el 17 de septiembre, fecha en que también se espera la postuladora califique con la tabla de gradación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué retrocedieron los adolescentes en Lectura, Ciencias y Matemática? Esto dice el Mineduc",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/por-que-retrocedieron-los-adolescentes-en-lectura-ciencias-y-matematica-esto-dice-el-mineduc/",
-      "fecha": "Tue, 08 Sep 2026 19:06:58 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los resultados de las pruebas Pisa 2025 muestran un retroceso en las habilidades y conocimientos de los estudiantes. Guatemala tiene los resultados más bajos de América Latina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ministerio de Finanzas habilita nuevamente “Buscar un proveedor” en Guatecompras",
-      "link": "https://www.prensalibre.com/guatemala/politica/ministerio-de-finanzas-habilita-nuevamente-buscar-un-proveedor-en-guatecompras-breaking/",
-      "fecha": "Tue, 08 Sep 2026 19:00:35 +0000",
-      "categoria": "Política",
-      "resumen": "Finanzas afirma que este 8 de septiembre restableció los resultados de la funcionalidad “buscar un proveedor” en el portal Guatecompras."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;¡Deben fabricar en EE. UU.!&#8221; La advertencia de Trump a Bombardier, fabricante de aviones de Canadá",
-      "link": "https://www.prensalibre.com/internacional/deben-fabricar-en-ee-uu-la-advertencia-de-trump-a-bombardier-fabricante-de-aviones-de-canada/",
-      "fecha": "Tue, 08 Sep 2026 19:00:01 +0000",
-      "categoria": "Internacional",
-      "resumen": "Donald Trump advirtió al fabricante de aviones canadiense, Bombardier, que no podrá vender sus productos en EE. UU. a menos que los hagan dentro del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ejecutivo aguarda decisión del Congreso sobre mecanismo para mantener precio del galón de diésel en Q39",
-      "link": "https://www.prensalibre.com/guatemala/politica/ejecutivo-aguarda-decision-del-congreso-sobre-mecanismo-para-mantener-precio-del-galon-de-diesel-en-q39/",
-      "fecha": "Tue, 08 Sep 2026 18:57:04 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El presidente Bernardo Arévalo espera la decisión del Congreso sobre la propuesta para mantener en Q39 el precio del galón de diésel."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Seguro Social en el 2027: ¿Qué es lo que se sabe del COLA, los pagos y las reglas sobre beneficios?",
-      "link": "https://www.prensalibre.com/internacional/seguro-social-en-el-2027-que-es-lo-que-se-sabe-del-cola-los-pagos-y-las-reglas-sobre-beneficios/",
-      "fecha": "Tue, 08 Sep 2026 18:56:15 +0000",
-      "categoria": "Internacional",
-      "resumen": "El ajuste por costo de vida (COLA, por sus siglas en inglés) del Seguro Social para el 2027 podría ser del 3.6%, el incremento más alto de los últimos años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vozinha y su reacción al conocer su nominación al mejor portero para la gala del Balón de Oro",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/vozinha-y-su-reaccion-al-conocer-su-nominacion-al-mejor-portero-para-la-gala-del-balon-de-oro/",
-      "fecha": "Tue, 08 Sep 2026 18:55:17 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Vozinha destaca el orgullo de representar a Cabo Verde tras ser nominado al premio Yashin por su destacada actuación en el Mundial 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;El hombre que me drogó y violó fue liberado de prisión y después mató a su pareja&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-hombre-que-me-drogo-y-violo-fue-liberado-de-prision-y-despues-mato-a-su-pareja/",
-      "fecha": "Tue, 08 Sep 2026 18:53:13 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Un hombre drogó a mujeres a lo largo de 40 años para abusar de ellas. Aunque fue encarcelado dos veces, salió el libertad condicional y mató a su pareja."
     },
     {
       "fuente": "Guatemala.com",
@@ -865,14 +873,6 @@
       "fecha": "Mon, 07 Sep 2026 04:16:50 +0000",
       "categoria": "Comunidad",
       "resumen": "Los 48 Cantones anunciaron una marcha pacífica para el martes 8 de septiembre. Conoce las últimas actualizaciones sobre el tráfico en Guatemala aquí.\nThe post Tráfico en Guatemala: bloqueos, cierres viales y rutas alternas appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Así fue la participación de Andrea Ortiz en Miss World 2026",
-      "link": "https://www.guatemala.com/noticias/sociedad/andrea-ortiz-miss-world-2026-asi-fue-participacion-guatemalteca.html",
-      "fecha": "Sat, 05 Sep 2026 18:02:31 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Andrea Ortiz llevó la belleza, cultura y talento de Guatemala al escenario de Miss World 2026. ¡Conoce los momentos destacados de su participación!\nThe post Así fue la participación de Andrea Ortiz en Miss World 2026 appeared first on Guatemala.com."
     }
   ]
 }
