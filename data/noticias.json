@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-10T11:14:54.797Z",
+  "actualizado": "2026-09-10T12:20:01.418Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La IA es cada vez más difícil de dominar: ¿podrán los humanos mantener el control?",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/la-ia-es-cada-vez-mas-dificil-de-dominar-podran-los-humanos-mantener-el-control/",
+      "fecha": "Thu, 10 Sep 2026 11:42:09 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los agentes de IA iniciaron una ola de pirateo informático sin control, lo que generó preocupación en algunos sectores de la industria."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Quetzaltenango coronará a dos reinas de las Fiestas de Independencia 2026: cuándo serán los certámenes, dónde verlos y quiénes son las candidatas",
@@ -817,14 +825,6 @@
       "fecha": "Wed, 09 Sep 2026 06:01:00 +0000",
       "categoria": "Vida",
       "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "VIDEO: &#8220;En Guatemala deberíamos estar reemplazando la mayoría de los puentes&#8221;",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/en-guatemala-deberiamos-estar-reemplazando-la-mayoria-de-los-puentes/",
-      "fecha": "Wed, 09 Sep 2026 06:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Guatemala enfrenta el reto de una red de puentes envejecida. Especialistas señalan que es necesario identificar cuáles estructuras pueden reforzarse, cuáles deben reemplazarse y cuáles son prioritarias para garantizar la movilidad durante emergencias."
     },
     {
       "fuente": "Guatemala.com",
