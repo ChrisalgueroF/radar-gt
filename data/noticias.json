@@ -1,7 +1,55 @@
 {
-  "actualizado": "2026-09-10T23:12:20.385Z",
+  "actualizado": "2026-09-11T00:22:06.171Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "11 de septiembre del 2026: más de 100 actividades patrias complicarán el tránsito en la capital; conozca las rutas alternas",
+      "link": "https://www.prensalibre.com/vida/escenario/11-de-septiembre-del-2026-mas-de-100-actividades-patrias-complicaran-el-transito-en-la-capital-conozca-las-rutas-alternas/",
+      "fecha": "Fri, 11 Sep 2026 00:06:23 +0000",
+      "categoria": "Escenario",
+      "resumen": "Debido a las actividades patrias que comenzarán este viernes en Guatemala, las autoridades de tránsito advierten sobre posibles complicaciones en la movilidad vehicular en distintos sectores de la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel/",
+      "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Verificamos por usted: ¿Realmente aliviará su bolsillo el subsidio de Q39 y Q41 que impulsa el Gobierno? Esto responden economístas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/gasolina-guatemala-combustibles-que-tan-efectiva-sera-la-medida-para-su-bolsillo/",
+      "fecha": "Thu, 10 Sep 2026 23:50:05 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Gobierno busca evitar que el precio de los combustibles siga subiendo en medio de la crisis, pero expertos advierten que el subsidio no necesariamente hará que las familias gasten menos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Teatro infantil gratuito en Guatemala: cuándo y dónde ver “Miel Amarga o el oso Colmenero”",
+      "link": "https://www.prensalibre.com/vida/escenario/teatro-infantil-gratuito-en-guatemala-cuando-y-donde-ver-miel-amarga-o-el-oso-colmenero/",
+      "fecha": "Thu, 10 Sep 2026 23:42:41 +0000",
+      "categoria": "Escenario",
+      "resumen": "Esta obra de teatro, dirigida especialmente a los más pequeños, se presentará durante los próximos fines de semana de septiembre. Conozca todos los detalles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bloqueos retrasan el inicio de Malacateco vs. Antigua GFC: este es el nuevo horario",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/bloqueos-retrasan-el-inicio-de-malacateco-vs-antigua-gfc-este-es-el-nuevo-horario-breaking/",
+      "fecha": "Thu, 10 Sep 2026 23:38:49 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los bloqueos registrados en distintos puntos del país complicaron el traslado del equipo de transmisión hacia Malacatán y obligaron a modificar la hora de inicio del encuentro por la octava jornada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Premios Billboard de la Música Latina: Peso Pluma lidera lista de finalistas y Ricardo Arjona compite por Gira del Año",
+      "link": "https://www.prensalibre.com/vida/escenario/premios-billboard-de-la-musica-latina-peso-pluma-lidera-lista-de-finalistas-y-ricardo-arjona-compite-por-gira-del-ano/",
+      "fecha": "Thu, 10 Sep 2026 23:35:04 +0000",
+      "categoria": "Escenario",
+      "resumen": "Uno de los premios más importantes de la música latina celebrará una nueva edición, en la que Peso Pluma lidera la lista de finalistas, seguido por Tito Double P y otros artistas. Conozca la lista."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "El Carita y el Tijerillas: los dos cabecillas implicados en ataques contra comercios en Escuintla",
@@ -9,6 +57,14 @@
       "fecha": "Thu, 10 Sep 2026 23:00:00 +0000",
       "categoria": "Guatemala",
       "resumen": "Tras los ataques contra comercios en Escuintla, la PNC capturó a tres sospechosos e identificó a dos cabecillas que estarían detrás de los hechos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¡Triunfo rojo! Municipal vence a Aurora y se afianza como líder del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/triunfo-rojo-municipal-vence-a-aurora-y-se-afianza-como-lider-del-apertura-2026-breaking/",
+      "fecha": "Thu, 10 Sep 2026 22:57:40 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los rojos llegaron a 19 puntos tras imponerse 2-1 con goles de John Méndez y Erik López. Aurora descontó por medio de Julio César Rodríguez."
     },
     {
       "fuente": "Prensa Libre",
@@ -52,11 +108,35 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Apagón afecta a países de Centroamérica y EEGSA reporta problemas en municipios de Guatemala",
+      "link": "https://www.prensalibre.com/economia/apagon-afecta-a-paises-de-centroamerica-y-eegsa-reporta-problemas-en-municipios-de-guatemala/",
+      "fecha": "Thu, 10 Sep 2026 21:39:34 +0000",
+      "categoria": "Economía",
+      "resumen": "Una falla en el sistema eléctrico regional afectó a varios países de Centroamérica, mientras EEGSA reportó problemas en el servicio en 25 municipios de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Verificamos por usted: ¿Hubo fallas en un sistema eléctrico que afectó a países de Centroamérica?",
+      "link": "https://www.prensalibre.com/internacional/verificamos-por-usted-hubo-fallas-en-un-sistema-electrico-que-afecto-a-paises-de-centroamerica/",
+      "fecha": "Thu, 10 Sep 2026 21:27:07 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una falla en el sistema de interconexión eléctrico de Centroamérica habría afectado a Guatemala, Honduras, El Salvador y Nicaragua."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Gas lacrimógeno, encapuchados y morteros en San Vicente Pacaya: tensión se apodera de la ruta al Pacífico",
       "link": "https://www.prensalibre.com/guatemala/comunitario/gas-lacrimogeno-encapuchados-y-morteros-en-san-vicente-pacaya-tension-se-apodera-de-la-ruta-al-pacifico-breaking/",
       "fecha": "Thu, 10 Sep 2026 20:50:28 +0000",
       "categoria": "Comunitario",
       "resumen": "La tensión persiste en la ruta al Pacífico, donde manifestantes y agentes de la PNC se enfrentaron durante los operativos para liberar el paso entre los kilómetros 37 y 40."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Hay riesgo de una erupción volcánica en Jalapa? Esto aclara la Conred sobre la alerta que circula en redes",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/hay-riesgo-de-una-erupcion-volcanica-en-jalapa-esto-aclara-la-conred-sobre-la-alerta-que-circula-en-redes/",
+      "fecha": "Thu, 10 Sep 2026 20:33:50 +0000",
+      "categoria": "Comunitario",
+      "resumen": "¿Existe una falla sísmica y hay riesgo de una posible erupción volcánica en Jalapa? La información circula en redes sociales y la Conred aclara qué se sabe sobre estas versiones."
     },
     {
       "fuente": "Prensa Libre",
@@ -755,92 +835,12 @@
       "resumen": "Los supergallos y los chicharroneros se enfrentan en un duelo directo por acercarse al liderato del Torneo."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Tributo a Ricardo Andrade en Guatemala: así será la noche de rock nacional a 24 años de su fallecimiento",
-      "link": "https://www.prensalibre.com/vida/escenario/tributo-a-ricardo-andrade-en-guatemala-asi-sera-la-noche-de-rock-nacional-a-24-anos-de-su-fallecimiento/",
-      "fecha": "Wed, 09 Sep 2026 19:37:11 +0000",
-      "categoria": "Escenario",
-      "resumen": "Músicos guatemaltecos recorrerán el legado musical de Ricardo Andrade en un concierto tributo dedicado al artista y al rock nacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo es el iPhone Duo? El primer teléfono plegable con el que Apple entra al nuevo mercado",
-      "link": "https://www.prensalibre.com/internacional/como-es-el-iphone-duo-el-primer-telefono-plegable-con-el-que-apple-entra-al-nuevo-mercado/",
-      "fecha": "Wed, 09 Sep 2026 19:31:02 +0000",
-      "categoria": "Internacional",
-      "resumen": "El director ejecutivo de Apple dijo que otros han creado dispositivos plegables que simplemente parecen dos teléfonos unidos de forma incómoda, pero que el iPhone Duo no será así."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Junta Monetaria define terna para elegir al nuevo jefe de la Superintendencia de Bancos",
-      "link": "https://www.prensalibre.com/economia/junta-monetaria-define-terna-para-elegir-al-nuevo-jefe-de-la-superintendencia-de-bancos/",
-      "fecha": "Wed, 09 Sep 2026 19:27:16 +0000",
-      "categoria": "Economía",
-      "resumen": "Los integrantes de la Junta Monetaria (JM) eligieron este miércoles la terna de profesionales para la jefatura de la Superintendencia de Bancos (SIB), cuyo relevo se llevará a cabo el próximo 1 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Estoy devastada&#8221;: Esto dijeron las personas que conocían a las víctimas del accidente aéreo en Miami",
-      "link": "https://www.prensalibre.com/internacional/estoy-devastada-esto-dijeron-las-personas-que-conocian-a-las-victimas-del-accidente-aereo-en-miami/",
-      "fecha": "Wed, 09 Sep 2026 19:19:52 +0000",
-      "categoria": "Internacional",
-      "resumen": "Cinco personas fallecieron luego de que un avión de la empres Amazon colisionara contra varios vehículos en Miami el pasado 6 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Champions League: Los goles del Barcelona en la contundente victoria sobre el Feyenoord",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/champions-league-los-goles-del-barcelona-en-la-contundente-victoria-sobre-el-feyenoord-breaking/",
-      "fecha": "Wed, 09 Sep 2026 19:07:52 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Barcelona arrancó goleando en la Champions League, al imponerse al Feyenoord donde destacaron sus nuevas contrataciones Karim Adeyemi y Gabriel Jesus."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "iPhone: ¿Cuál es el precio en Estados Unidos de los nuevos iPhone 18 Pro y iPhone 18 Pro Max anunciados en el Apple Event 2026?",
-      "link": "https://www.prensalibre.com/vida/tecnologia/iphone-cual-es-el-precio-en-estados-unidos-de-los-nuevos-iphone-18-pro-y-iphone-18-pro-max-anunciados-en-el-apple-event-2026/",
-      "fecha": "Wed, 09 Sep 2026 18:44:18 +0000",
-      "categoria": "Tecnología",
-      "resumen": "La empresa tecnológica Apple anunció su nueva generación de iPhone 18, con las versiones Pro y Pro Max, que incorporan innovaciones tecnológicas. Estos son los precios anunciados y sus características."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jimmy Kimmel podría salir del aire tras 24 años: Esto se sabe sobre el posible fin de su programa",
-      "link": "https://www.prensalibre.com/internacional/jimmy-kimmel-podria-salir-del-aire-tras-24-anos-esto-se-sabe-sobre-el-posible-fin-de-su-programa/",
-      "fecha": "Wed, 09 Sep 2026 18:31:04 +0000",
-      "categoria": "Internacional",
-      "resumen": "Jimmy Kimmel presenta su programa desde el 2003, lo que lo convierte en uno de los presentadores con mayor trayectoria de la televisión estadounidense."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "OpenAI asegura haber resuelto en 88 horas un problema matemático sin respuesta durante 90 años (y las acusaciones plagio en su contra)",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/openai-asegura-haber-resuelto-en-88-horas-un-problema-matematico-sin-respuesta-durante-90-anos-y-las-acusaciones-plagio-en-su-contra/",
-      "fecha": "Wed, 09 Sep 2026 18:23:15 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La afirmación de OpenAI de que había resuelto partes de las ecuaciones de Navier-Stokes ha generado controversia rápidamente."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Bienal de Arte Paiz se prepara para celebrar sus 50 años con el anuncio del curador para su 25 edición",
       "link": "https://www.guatemala.com/noticias/cultura/bienal-de-arte-paiz-prepara-celebrar-50-anos-2027.html",
       "fecha": "Wed, 09 Sep 2026 18:02:36 +0000",
       "categoria": "Cultura",
       "resumen": "Fundación Paiz anunció a Cuauhtémoc Medina como el curador de la 25 edición de la Bienal de Arte Paiz, que cumplirá 50 años en el 2027.\nThe post Bienal de Arte Paiz se prepara para celebrar sus 50 años con el anuncio del curador para su 25 edición appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Narcomenudeo, torturas y cadáveres envueltos en sábanas: los allanamientos contra la Mara Salvatrucha en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/justicia/narcomenudeo-torturas-y-cadaveres-envueltos-en-sabanas-los-allanamientos-contra-la-mara-salvatrucha-en-guatemala/",
-      "fecha": "Wed, 09 Sep 2026 17:42:31 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Siete presuntos pandilleros de la MS son señalados por 17 crímenes investigados en el 2025 y el 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué hará EE. UU.? lo que se sabe de la supuesta instalación nuclear iraní que estaría bajo tierra",
-      "link": "https://www.prensalibre.com/internacional/que-hara-ee-uu-lo-que-se-sabe-de-la-supuesta-instalacion-nuclear-irani-que-estaria-bajo-tierra/",
-      "fecha": "Wed, 09 Sep 2026 17:37:32 +0000",
-      "categoria": "Internacional",
-      "resumen": "Medios como CNN informan sobre la construcción de una supuesta instalación nuclear iraní que estaría bajo tierra."
     },
     {
       "fuente": "Guatemala.com",
