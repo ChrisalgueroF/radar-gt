@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-11T20:15:18.534Z",
+  "actualizado": "2026-09-11T21:14:23.442Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Si tanto amas México, lárgate”: Esto le dijo el vicepresidente de EE. UU. a un manifestante",
+      "link": "https://www.prensalibre.com/internacional/si-tanto-amas-mexico-largate-esto-le-dijo-el-vicepresidente-de-ee-uu-a-un-manifestante/",
+      "fecha": "Fri, 11 Sep 2026 21:07:09 +0000",
+      "categoria": "Internacional",
+      "resumen": "La convención republicana de elecciones intermedias fue interrumpida por un manifestante mientras J. D. Vance, vicepresidente de Estados Unidos, brindaba su discurso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "CIA advirtió sobre ataques con aviones antes del 11-S: La historia de Osama bin Laden con EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/cia-advirtio-sobre-ataques-con-aviones-antes-del-11-s-la-historia-de-osama-bin-laden-con-ee-uu/",
+      "fecha": "Fri, 11 Sep 2026 20:55:39 +0000",
+      "categoria": "Internacional",
+      "resumen": "Osama bin Laden vio la llegada de las tropas estadounidenses como una profanación de los lugares santos, por lo que pasó de las palabras a la acción a gran escala contra EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC y Ejército implementarán operación conjunta para liberar paso en puntos bloqueados en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/politica/pnc-y-ejercito-implementaran-operacion-conjunta-para-liberar-paso-en-puntos-bloqueados-en-el-pais/",
+      "fecha": "Fri, 11 Sep 2026 20:05:07 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Organismo Ejecutivo dió a conocer las medidas para garantizar la movilidad de los guatemaltecos en distintos puntos del país ante los bloqueos que han provocado personas inconformes con el precio de los combustibles."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Zoológico La Aurora tiene nuevos habitantes: descubra las curiosidades de los leones blancos y disfrute de la nueva experiencia en el Teatro Animalia",
@@ -9,6 +33,22 @@
       "fecha": "Fri, 11 Sep 2026 19:58:46 +0000",
       "categoria": "Escenario",
       "resumen": "El Zoológico La Aurora estrena una atracción y recibe a dos leones blancos procedentes de Sudáfrica. Conozca las curiosidades de sus nuevos habitantes y la experiencia que ofrece su pantalla gigante."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan por homicidio culposo a hijo de magistrado del OJ, Edwin Zaldaña, tras accidente en el que murió el músico Hugo Girón",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-por-homicidio-culposo-a-hijo-de-magistrado-del-oj-edwin-zaldana-tras-accidente-en-el-que-murio-el-musico-hugo-giron/",
+      "fecha": "Fri, 11 Sep 2026 19:56:45 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La PNC dio a conocer la captura del hijo del magistrado del Organismo Judicial y de otro hombre por el accidente en el que murió el músico y docente Hugo Girón."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cacif exige liberar carreteras e investigar quién organiza y financia los bloqueos en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/cacif-exige-liberar-carreteras-e-investigar-quien-organiza-y-financia-los-bloqueos-en-guatemala-breaking/",
+      "fecha": "Fri, 11 Sep 2026 19:39:53 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Cacif exige liberar las carreteras bloqueadas y pide investigar quién financia las protestas, mientras advierte de pérdidas económicas y efectos en el abastecimiento."
     },
     {
       "fuente": "Prensa Libre",
@@ -116,11 +156,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "CC convoca a pleno para conocer posible desobediencia al amparo que garantiza el derecho de locomoción",
-      "link": "https://www.prensalibre.com/guatemala/politica/cc-convoca-a-pleno-para-conocer-posible-desobediencia-al-amparo-que-garantiza-el-derecho-de-locomocion/",
+      "titulo": "CC da seis horas para liberar bloqueos bajo apercibimiento de destituciones en el Mingob y la PNC",
+      "link": "https://www.prensalibre.com/guatemala/politica/cc-da-seis-horas-al-gobierno-para-liberar-bloqueos-bajo-apercibimiento-de-destitucion-al-mingob-y-pnc/",
       "fecha": "Fri, 11 Sep 2026 16:52:44 +0000",
       "categoria": "Guatemala",
-      "resumen": "El Cacif obtuvo un amparo para proteger la libre locomoción e infraestructura nacional, por los bloqueos ocasionados contra el alza de los combustibles."
+      "resumen": "La resolución se da por una debida ejecutoria presentada por Cacif que tiene un amparo provisional para respetar el derecho de libre locomoción."
     },
     {
       "fuente": "Prensa Libre",
@@ -236,7 +276,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Bloqueos en Guatemala EN VIVO: Cacif pide desalojar bloqueos y solicita investigar quién organiza estas acciones",
+      "titulo": "Bloqueos en Guatemala EN VIVO: Gobernación liberará rutas en conjunto con el Ejército y da ultimátum",
       "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-en-vivo-carreteras-y-tramos-de-la-capital-afectados-este-11-de-septiembre-breaking/",
       "fecha": "Fri, 11 Sep 2026 12:21:33 +0000",
       "categoria": "Comunitario",
@@ -777,46 +817,6 @@
       "fecha": "Thu, 10 Sep 2026 16:45:25 +0000",
       "categoria": "Guatemala",
       "resumen": "La Fiscalía busca esclarecer cómo ocurrió el accidente de tránsito en el que murió Héctor Hugo Girón Barrientos y determinar posibles responsabilidades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Banco Mundial aprueba US$250 millones para modernizar cinco aeropuertos y aeródromos de Guatemala",
-      "link": "https://www.prensalibre.com/economia/banco-mundial-aprueba-us250-millones-para-modernizar-cinco-aeropuertos-y-aerodromos-de-guatemala/",
-      "fecha": "Thu, 10 Sep 2026 16:43:19 +0000",
-      "categoria": "Economía",
-      "resumen": "La mayor parte del financiamiento se destinará a infraestructura y equipos en La Aurora, Mundo Maya, Puerto Barrios, Quetzaltenango y Huehuetenango, mientras Guatemala prepara una reforma institucional de la aviación civil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cilia Flores: los problemas de salud por los que la esposa de Nicolás Maduro pide libertad condicional",
-      "link": "https://www.prensalibre.com/internacional/cilia-flores-los-problemas-de-salud-por-los-que-la-esposa-de-nicolas-maduro-pide-libertad-condicional/",
-      "fecha": "Thu, 10 Sep 2026 16:36:04 +0000",
-      "categoria": "Internacional",
-      "resumen": "Cilia Flores, esposa de Nicolás Maduro, solicitó arresto domiciliar en Nueva York alegando supuestos problemas de salud desde su captura."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Sobreviví al 11-S porque llegué más tarde a trabajar a las Torres Gemelas. Y a veces me siento culpable&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/sobrevivi-al-11-s-porque-llegue-mas-tarde-a-trabajar-a-las-torres-gemelas-y-a-veces-me-siento-culpable-2/",
-      "fecha": "Thu, 10 Sep 2026 15:56:13 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Hans Gernot Schenk llevaba trabajando más de un año en las Torres Gemelas cuando se produjeron los atentados. Ese día llegó un poco más tarde a la oficina, y probablemente por eso se salvó. Pero los ataques marcaron su vida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Ley de nietos&#8221;: por qué el Tribunal Supremo de España suspendió el derecho a votar de miles de ciudadanos naturalizados",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ley-de-nietos-por-que-el-tribunal-supremo-de-espana-suspendio-el-derecho-a-votar-de-miles-de-ciudadanos-naturalizados/",
-      "fecha": "Thu, 10 Sep 2026 15:50:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La medida cautelar paraliza la inscripción inmediata de los beneficiarios de la normativa en el padrón electoral y los obliga a demostrar que son familiares de exiliados españoles para poder ejercer su derecho al sufragio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Copa Centroamericana: Cartaginés sale fortalecido y Amarini Villatoro confía en cerrar la serie en casa",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/cartagines-sale-fortalecido-y-amarini-villatoro-confia-en-cerrar-la-serie-en-casa-breaking/",
-      "fecha": "Thu, 10 Sep 2026 15:47:32 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El empate mantiene con vida al conjunto dirigido por el técnico guatemalteco Amarini Villatoro, que buscará hacer valer su fortaleza como local para avanzar a las semifinales contra el Saprissa."
     },
     {
       "fuente": "Guatemala.com",
