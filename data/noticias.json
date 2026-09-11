@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-11T19:13:18.687Z",
+  "actualizado": "2026-09-11T20:15:18.534Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Zoológico La Aurora tiene nuevos habitantes: descubra las curiosidades de los leones blancos y disfrute de la nueva experiencia en el Teatro Animalia",
+      "link": "https://www.prensalibre.com/vida/escenario/zoologico-la-aurora-tiene-nuevos-habitantes-descubra-las-curiosidades-de-los-leones-blancos-y-disfrute-de-la-nueva-experiencia-del-teatro-animalia/",
+      "fecha": "Fri, 11 Sep 2026 19:58:46 +0000",
+      "categoria": "Escenario",
+      "resumen": "El Zoológico La Aurora estrena una atracción y recibe a dos leones blancos procedentes de Sudáfrica. Conozca las curiosidades de sus nuevos habitantes y la experiencia que ofrece su pantalla gigante."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Verificamos por usted: ¿Es cierto que los bomberos sacaron en brazos a Trump el 11-S?",
@@ -17,6 +25,14 @@
       "fecha": "Fri, 11 Sep 2026 18:41:03 +0000",
       "categoria": "Política",
       "resumen": "Cámara de Comercio, Agexport, CIG y Camagro cuestionan los cierres de carreteras y piden al Ejecutivo garantizar la libre locomoción."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Fue el malo de Sebastián&#8221;: cómo el hijo de Jonathan Meléndez identificó al presunto asesino de su familia",
+      "link": "https://www.prensalibre.com/internacional/fue-el-malo-de-sebastian-como-el-hijo-de-jonathan-melendez-identifico-al-presunto-asesino-de-su-familia/",
+      "fecha": "Fri, 11 Sep 2026 18:39:42 +0000",
+      "categoria": "Internacional",
+      "resumen": "El hijo del tecladista de Camilo Séptimo, único sobreviviente del crimen contra su familia, habría identificado al sospechoso durante una audiencia."
     },
     {
       "fuente": "Prensa Libre",
@@ -49,6 +65,14 @@
       "fecha": "Fri, 11 Sep 2026 17:58:33 +0000",
       "categoria": "Comunitario",
       "resumen": "Se reportan daños en 138 municipios de Guatemala por la variabilidad climática, según datos oficiales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo hacer una antorcha para la Independencia: dos opciones para fabricarla en casa",
+      "link": "https://www.prensalibre.com/vida/como-hacer-una-antorcha-para-la-independencia-dos-opciones-para-fabricarla-en-casa/",
+      "fecha": "Fri, 11 Sep 2026 17:34:58 +0000",
+      "categoria": "Vida",
+      "resumen": "Como símbolo de libertad, las antorchas forman parte de las celebraciones por la Independencia de Guatemala. Conozca dos opciones para elaborarlas en casa, una sin fuego y otra tradicional."
     },
     {
       "fuente": "Prensa Libre",
@@ -212,11 +236,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Bloqueos en Guatemala EN VIVO: carreteras y tramos de la capital afectados este 11 de septiembre",
+      "titulo": "Bloqueos en Guatemala EN VIVO: Cacif pide desalojar bloqueos y solicita investigar quién organiza estas acciones",
       "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-en-vivo-carreteras-y-tramos-de-la-capital-afectados-este-11-de-septiembre-breaking/",
       "fecha": "Fri, 11 Sep 2026 12:21:33 +0000",
       "categoria": "Comunitario",
-      "resumen": "Carreteras y tramos de la capital se ven afectados este viernes 11 de septiembre por bloqueos en rechazo al precio del combustible."
+      "resumen": "Carreteras y tramos de la capital se ven afectados este viernes 11 de septiembre por bloqueos en rechazo al precio del combustible. El sector privado pide que las autoridades accionen para liberar rutas."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,30 +817,6 @@
       "fecha": "Thu, 10 Sep 2026 15:47:32 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El empate mantiene con vida al conjunto dirigido por el técnico guatemalteco Amarini Villatoro, que buscará hacer valer su fortaleza como local para avanzar a las semifinales contra el Saprissa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿South Park ahora será “South America”? El cambio de nombre que apunta a Donald Trump",
-      "link": "https://www.prensalibre.com/internacional/south-park-ahora-sera-south-america-el-cambio-de-nombre-que-apunta-a-donald-trump/",
-      "fecha": "Thu, 10 Sep 2026 15:01:32 +0000",
-      "categoria": "Internacional",
-      "resumen": "South Park ha convertido al presidente Trump en uno de sus personajes favoritos para la sátira, por lo que seguirá ridiculizando al mandatario republicano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Festival de Independencia de Ciudad Cayalá: cultura, historia y música del 12 al 20 de septiembre",
-      "link": "https://www.prensalibre.com/vida/escenario/festival-de-independencia-de-ciudad-cayala-cultura-historia-y-musica-del-12-al-20-de-septiembre/",
-      "fecha": "Thu, 10 Sep 2026 15:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Con nueve días de celebración, Ciudad Cayalá conmemorará los 205 años de independencia de Guatemala con conciertos, desfiles, exhibiciones de autos y otras actividades. Conozca los detalles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Agustín Vuletich ofrece disculpas tras su expulsión en la derrota de Comunicaciones ante Marquense",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/agustin-vuletich-ofrece-disculpas-tras-su-expulsion-en-la-derrota-de-comunicaciones-ante-marquense-breaking/",
-      "fecha": "Thu, 10 Sep 2026 14:59:56 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El delantero crema reconoció que la situación le duele y explicó su versión de la jugada que terminó con su expulsión."
     },
     {
       "fuente": "Guatemala.com",
