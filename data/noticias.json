@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-11T18:18:15.393Z",
+  "actualizado": "2026-09-11T19:13:18.687Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Verificamos por usted: ¿Es cierto que los bomberos sacaron en brazos a Trump el 11-S?",
+      "link": "https://www.prensalibre.com/internacional/verificamos-por-usted-es-cierto-que-los-bomberos-sacaron-en-brazos-a-trump-el-11-s/",
+      "fecha": "Fri, 11 Sep 2026 18:49:49 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump afirmó que los bomberos lo sacaron de allí ante el temor de un colapso del edificio, en algún momento después del ataque a las Torres Gemelas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sector privado pide a Bernardo Arévalo declarar estado de Prevención por bloqueos en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/politica/sector-privado-pide-a-bernardo-arevalo-declarar-estado-de-prevencion-por-bloqueos-en-guatemala-breaking/",
+      "fecha": "Fri, 11 Sep 2026 18:41:03 +0000",
+      "categoria": "Política",
+      "resumen": "Cámara de Comercio, Agexport, CIG y Camagro cuestionan los cierres de carreteras y piden al Ejecutivo garantizar la libre locomoción."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Suman 30 años conectando industria, innovación y futuro",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/suman-30-anos-conectando-industria-innovacion-y-futuro/",
+      "fecha": "Fri, 11 Sep 2026 18:26:10 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "El encuentro reúne a más de 120 empresas, generando un espacio para negocios, innovación, capacitación y encadenamientos que fortalecen la industria nacional, la Feria Alimentaria 2026 abrió sus puertas, reafirmando su aporte al dinamismo económico del sector gastronómico y alimentario de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Enfrentamientos en Cuyotenango durante intento de desalojo de bloqueo en la ruta al suroccidente",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/enfrentamientos-en-cuyotenango-durante-intento-de-desalojo-de-bloqueo-en-la-ruta-al-suroccidente-breaking/",
+      "fecha": "Fri, 11 Sep 2026 18:24:23 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Tensión en la ruta al suroccidente y en área urbana de Cuyotenango durante intento de desalojo en la ruta al suroccidente."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "Agua Pura Salvavidas y Fundecán invitan a las mujeres guatemaltecas a realizar el autoexamen para prevenir el cáncer de mama",
@@ -44,6 +76,22 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Cargó a una embarazada por 28 pisos: la historia del bombero mexicano que vivió el 11-S",
+      "link": "https://www.prensalibre.com/internacional/cargo-a-una-embarazada-por-28-pisos-la-historia-del-bombero-mexicano-que-vivio-el-11-s/",
+      "fecha": "Fri, 11 Sep 2026 16:56:05 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un bombero mexicano apoyó en las labores de rescate durante el 11 de septiembre de 2001, a pesar de no pertenecer al Departamento de Bomberos de Nueva York."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Identifican a cabecilla del bloqueo en La Bethania que pide firmas para la renuncia de Arévalo",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/identifican-a-cabecilla-del-bloqueo-en-la-bethania-que-pide-firmas-para-la-renuncia-de-arevalo/",
+      "fecha": "Fri, 11 Sep 2026 16:53:43 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Oswaldo Villalta vuelve a encabezar una protesta en el mismo sector donde hubo bloqueos en el 2023; ahora promueve la recolección de firmas para pedir la renuncia del presidente Bernardo Arévalo."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "CC convoca a pleno para conocer posible desobediencia al amparo que garantiza el derecho de locomoción",
       "link": "https://www.prensalibre.com/guatemala/politica/cc-convoca-a-pleno-para-conocer-posible-desobediencia-al-amparo-que-garantiza-el-derecho-de-locomocion/",
       "fecha": "Fri, 11 Sep 2026 16:52:44 +0000",
@@ -60,7 +108,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "En vivo con Léster Martínez: el boxeador habla este viernes de su próxima pelea y su posible regreso al ring en Guatemala",
+      "titulo": "Léster Martínez: el boxeador habla este viernes de su próxima pelea y su posible regreso al ring en Guatemala",
       "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-con-lester-martinez-el-boxeador-habla-este-viernes-de-su-proxima-pelea-y-su-posible-regreso-al-ring-en-guatemala/",
       "fecha": "Fri, 11 Sep 2026 16:19:35 +0000",
       "categoria": "Deporte Nacional",
@@ -771,60 +819,12 @@
       "resumen": "El delantero crema reconoció que la situación le duele y explicó su versión de la jugada que terminó con su expulsión."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidentes de tránsito dejan 16 personas heridas en la ruta Interamericana y Quiché",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/accidentes-de-transito-dejan-16-personas-heridas-en-la-ruta-interamericana-y-quiche-breaking/",
-      "fecha": "Thu, 10 Sep 2026 14:55:09 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Al menos 16 personas resultaron heridas en percances viales en la ruta Interamericana y en Santa Cruz del Quiché."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Trabajadores del Estado gozarán de asueto el 14 de septiembre de 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/sector-publico-guatemala-tendra-asueto-14-de-septiembre-2026.html",
       "fecha": "Thu, 10 Sep 2026 14:51:54 +0000",
       "categoria": "Comunidad",
       "resumen": "El Gobierno de Guatemala aprobó asueto el 14 de septiembre 2026 para los empleados del sector público, por lo que se gozará de un fin de semana largo.\nThe post Trabajadores del Estado gozarán de asueto el 14 de septiembre de 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ejecutivo concede permiso laboral a trabajadores del Estado el lunes 14 de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/ejecutivo-concede-permiso-laboral-a-trabajadores-del-estado-el-lunes-14-de-septiembre-breaking/",
-      "fecha": "Thu, 10 Sep 2026 13:42:21 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Gobierno concede permiso laboral a los empleados del Estado para el lunes 14 de septiembre, con motivo de la Independencia de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La IA es cada vez más difícil de dominar: ¿podrán los humanos mantener el control?",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/la-ia-es-cada-vez-mas-dificil-de-dominar-podran-los-humanos-mantener-el-control/",
-      "fecha": "Thu, 10 Sep 2026 11:42:09 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los agentes de IA iniciaron una ola de pirateo informático sin control, lo que generó preocupación en algunos sectores de la industria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quetzaltenango coronará a dos reinas de las Fiestas de Independencia 2026: cuándo serán los certámenes, dónde verlos y quiénes son las candidatas",
-      "link": "https://www.prensalibre.com/vida/escenario/quetzaltenango-coronara-a-dos-reinas-de-las-fiestas-de-independencia-2026-cuando-seran-los-certamenes-donde-verlos-y-quienes-son-las-candidatas/",
-      "fecha": "Thu, 10 Sep 2026 11:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Xela presentó a las candidatas que competirán por las coronas de Reina Nacional e Internacional de las Fiestas de Independencia. Así inicia el camino hacia ambos certámenes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Maíz y frijol suben de precio: qué está provocando las alzas y por qué recomiendan cautela",
-      "link": "https://www.prensalibre.com/economia/maiz-y-frijol-suben-de-precio-que-esta-provocando-las-alzas-y-por-que-recomiendan-cautela/",
-      "fecha": "Thu, 10 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "En medio de los aumentos en los precios de los granos básicos, el Ministerio de Agricultura explicó que con la información disponible no existen elementos suficientes para afirmar la presencia de prácticas especulativas, acaparamiento o irregularidades generalizadas en la comercialización de granos básicos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Creé de la nada un imperio de la moda que me hizo multimillonaria, pero creció tanto que acabé en la bancarrota&#8221;",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/cree-de-la-nada-un-imperio-de-la-moda-que-me-hizo-multimillonaria-pero-crecio-tanto-que-acabe-en-la-bancarrota/",
-      "fecha": "Thu, 10 Sep 2026 10:24:47 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Sophia Amoruso convirtió de la nada a Nasty Gal en una empresa valorada en cientos de millones, para verla pocos años después naufragando sin remedio."
     },
     {
       "fuente": "Guatemala.com",
