@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-11T03:15:03.055Z",
+  "actualizado": "2026-09-11T04:16:13.231Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Torneo Apertura 2026: Xelajú MC no puede en casa y cede un empate frente a Cobán Imperial",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-2026-xelaju-mc-no-puede-en-casa-y-cede-un-empate-frente-a-coban-imperial-breaking/",
+      "fecha": "Fri, 11 Sep 2026 03:58:12 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los superchivos insistieron durante gran parte del encuentro y tuvieron en sus manos la posibilidad de quedarse con los tres puntos, pero la falta de contundencia y las intervenciones de Tomás Casas de Cobán Imperial dejaron el marcador sin goles."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Torneo Apertura 2026: Antigua GFC vence 2-0 a Malacateco y se lleva tres puntos del Santa Lucía",
@@ -9,6 +17,14 @@
       "fecha": "Fri, 11 Sep 2026 03:05:33 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El conjunto colonial aprovechó sus oportunidades, mientras los toros desperdiciaron un penalti y se quedaron sin reacción en el cierre del partido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Superman llega a Netflix: fecha de estreno de la película con David Corenswet",
+      "link": "https://www.prensalibre.com/vida/escenario/superman-llega-a-netflix-fecha-de-estreno-de-la-pelicula-con-david-corenswet/",
+      "fecha": "Fri, 11 Sep 2026 02:50:34 +0000",
+      "categoria": "Escenario",
+      "resumen": "La película “Superman”, protagonizada por David Corenswet, se integrará en los próximos días al catálogo de Netflix, luego de su paso por cines y HBO Max."
     },
     {
       "fuente": "Prensa Libre",
@@ -33,6 +49,14 @@
       "fecha": "Fri, 11 Sep 2026 01:57:04 +0000",
       "categoria": "Justicia",
       "resumen": "Fiscalía pidió al juez Mynor Moto cerrar el proceso penal contra cuatro exdirigentes de los 48 Cantones de Totonicapán, procesados por las protestas del 2023."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los desafíos del país acaparan los discursos durante sesión solemne por la Independencia de Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/politica/los-desafios-del-pais-acaparan-los-discursos-durante-sesion-solemne-por-la-independencia-de-guatemala/",
+      "fecha": "Fri, 11 Sep 2026 01:55:54 +0000",
+      "categoria": "Guatemala",
+      "resumen": ".img_fo{\n\t\t\t\t    aspect-ratio: 16/9;\n                    width: 100%;\n                    height: auto;\n                    margin-bottom: 8px;\n                    object-fit: contain;\n\t\t\t\t}\n\t\t\t\n    .canal-whatsapp,\n    .canal-whatsapp:hover,\n    .canal-whatsapp:focus,\n    .canal-whatsapp:visited {\n        text-decoration: none !important;\n    }\n\n    .canal-whatsapp {\n        display: inline-flex;\n        align-items: center;\n        gap: 8px;\n        background: #fff;\n        border-radius: 999px;\n        padding: 6px 14px 6px 6px !important;\n        text-decoration: none;\n    }\n    .canal-wh"
     },
     {
       "fuente": "Prensa Libre",
@@ -97,6 +121,14 @@
       "fecha": "Thu, 10 Sep 2026 23:50:05 +0000",
       "categoria": "Comunitario",
       "resumen": "El Gobierno busca evitar que el precio de los combustibles siga subiendo en medio de la crisis, pero expertos advierten que el subsidio no necesariamente hará que las familias gasten menos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estados Unidos conmemora 25 años de los atentados del 11-S con homenajes y un amplio despliegue de seguridad",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos-conmemora-25-anos-de-los-atentados-del-11-s-con-homenajes-y-un-amplio-despliegue-de-seguridad/",
+      "fecha": "Thu, 10 Sep 2026 23:43:09 +0000",
+      "categoria": "Internacional",
+      "resumen": "Estados Unidos refuerza la seguridad al conmemorar los atentados del 11-S, con mayor vigilancia, restricciones de tránsito y medidas de protección en puntos estratégicos."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,38 +817,6 @@
       "fecha": "Wed, 09 Sep 2026 23:14:47 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Tres mujeres del jurado declararon que, tras 40 horas de deliberación, un único miembro del panel no estuvo de acuerdo con el resto en declarar a Clancy no culpable por razón de enfermedad mental"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "San Pedro derrota a Mixco y se consolida como protagonista del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/san-pedro-vence-a-mixco-y-se-mete-en-la-pelea-por-el-liderato-del-apertura-2026-breaking/",
-      "fecha": "Wed, 09 Sep 2026 22:53:05 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los Súper Gallos derrotaron 2-0 al conjunto mixqueño y alcanzaron los 16 puntos, los mismos que Municipal, que todavía tiene un partido pendiente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comunicaciones se hunde: cae 2-0 ante Marquense y suma cuatro derrotas consecutivas",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-se-hunde-cae-2-0-ante-marquense-y-suma-cuatro-derrotas-consecutivas-breaking/",
-      "fecha": "Wed, 09 Sep 2026 22:43:21 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El mexicano Roberto Montoya tuvo un amargo debut al frente de Comunicaciones, que encadenó su cuarta derrota y prolongó la crisis de un equipo crema que no encuentra respuestas en el Apertura."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Autoridades dicen que &#8220;se tropezó&#8221;: las fracturas que sufrió un inmigrante nicaragüense por el ICE en Georgia",
-      "link": "https://www.prensalibre.com/internacional/autoridades-dicen-que-se-tropezo-las-fracturas-que-sufrio-un-inmigrante-nicaraguense-por-el-ice-en-georgia/",
-      "fecha": "Wed, 09 Sep 2026 22:13:18 +0000",
-      "categoria": "Internacional",
-      "resumen": "Familiares de un inmigrante nicaragüense relataron cómo fue agredido por agentes del ICE en Georgia, mientras el DHS afirma que el hombre \"se tropezó\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La compañía fortalece la economía local con dos nuevas tiendas",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-compania-fortalece-la-economia-local-con-dos-nuevas-tiendas/",
-      "fecha": "Wed, 09 Sep 2026 22:10:15 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Walmart reafirma su compromiso de seguir invirtiendo en el interior de Guatemala, llevando su propuesta de Precios Bajos Todos los Días a más hogares; en esta ocasión se inauguraron dos nuevas tiendas, Despensa Familiar Santa Cruz Verapaz, en Alta Verapaz; y Maxi Despensa Jocotenango, en Sacatepéquez."
     },
     {
       "fuente": "Guatemala.com",
