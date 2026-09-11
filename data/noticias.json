@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-11T17:13:53.317Z",
+  "actualizado": "2026-09-11T18:18:15.393Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Agua Pura Salvavidas y Fundecán invitan a las mujeres guatemaltecas a realizar el autoexamen para prevenir el cáncer de mama",
+      "link": "https://www.guatemala.com/noticias/sociedad/agua-pura-salvavidas-fundecan-promueven-prevencion-deteccion-temprana-cancer-de-mama.html",
+      "fecha": "Fri, 11 Sep 2026 18:13:38 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Agua Pura Salvavidas y Fundecán invitan a las mujeres guatemaltecas a cuidar de su salud y realizar el autoexamen para prevenir el cáncer de mama.\nThe post Agua Pura Salvavidas y Fundecán invitan a las mujeres guatemaltecas a realizar el autoexamen para prevenir el cáncer de mama appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Conred declara alerta anaranjada en Guatemala por impacto de la sequía",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/conred-declara-alerta-anaranjada-en-guatemala-por-impacto-de-la-sequia-breaking/",
+      "fecha": "Fri, 11 Sep 2026 17:58:33 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Se reportan daños en 138 municipios de Guatemala por la variabilidad climática, según datos oficiales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Atentados del 11-S: Cuándo fueron, cuántas víctimas dejaron y cómo eran las Torres Gemelas",
+      "link": "https://www.prensalibre.com/internacional/atentados-del-11-s-cuando-fueron-cuantas-victimas-dejaron-y-como-eran-las-torres-gemelas/",
+      "fecha": "Fri, 11 Sep 2026 17:23:25 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las Torres Gemelas eran, en su momento, los edificios más altos del complejo World Trade Center, un conjunto emblemático de edificios de la Ciudad de Nueva York."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "15 de septiembre en Guatemala: ¿es asueto o feriado y quiénes descansan?",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/15-de-septiembre-en-guatemala-es-asueto-o-feriado-y-quienes-descansan/",
+      "fecha": "Fri, 11 Sep 2026 17:21:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "El 15 de septiembre es una de las fechas más importantes para Guatemala y contempla un descanso a nivel nacional. Esto es lo que establece la ley al respecto."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Impacto socioeconómico de dos enfermedades de retina crecerá 64% hasta 2032, según estudio",
@@ -25,6 +57,14 @@
       "fecha": "Fri, 11 Sep 2026 16:24:43 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Betty Ong, una de las azafatas del vuelo entre Boston y Los Ángeles, el primero de los dos que hace 25 años terminarían impactando contra el World Trade Center, fue la primera persona en alertar a las autoridades sobre los secuestros de los aviones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En vivo con Léster Martínez: el boxeador habla este viernes de su próxima pelea y su posible regreso al ring en Guatemala",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-con-lester-martinez-el-boxeador-habla-este-viernes-de-su-proxima-pelea-y-su-posible-regreso-al-ring-en-guatemala/",
+      "fecha": "Fri, 11 Sep 2026 16:19:35 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El campeón interino del CMB ofrece una conferencia prevista para las 11.30 horas, en la que se espera conocer detalles de su siguiente combate y de la ruta que podría llevarlo hacia Canelo Álvarez o Christian Mbilli."
     },
     {
       "fuente": "Prensa Libre",
@@ -787,38 +827,6 @@
       "resumen": "Sophia Amoruso convirtió de la nada a Nasty Gal en una empresa valorada en cientos de millones, para verla pocos años después naufragando sin remedio."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Diputados reconocen que el subsidio al combustible es temporal y contemplan un fondo para emergencias",
-      "link": "https://www.prensalibre.com/guatemala/politica/diputados-reconocen-que-el-subsidio-al-combustible-es-temporal-y-contemplan-un-fondo-para-emergencias/",
-      "fecha": "Thu, 10 Sep 2026 07:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La iniciativa que dispone crear un fondo de compensación por hasta Q3 mil millones se encuentra en dos comisiones legislativas a la espera de dictamen."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Subsidio a combustibles: genera críticas por su estructura, y cuánto podrían durar los recursos",
-      "link": "https://www.prensalibre.com/economia/subsidio-a-combustibles-genera-criticas-por-su-estructura-y-cuanto-podrian-durar-los-recursos/",
-      "fecha": "Thu, 10 Sep 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Para el lunes 21, el Ministerio de Energía y Minas (MEM) tiene prevista la entrada en vigor del subsidio a los combustibles, que establece un precio de referencia al público de Q41 por galón de gasolina superior y Q39 por galón de gasolina regular y diésel. La medida aprobada genera fuertes cuestionamientos por su estructuración."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Barbies",
-      "link": "https://www.prensalibre.com/opinion/caricatura/barbies/",
-      "fecha": "Thu, 10 Sep 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lecciones del Guatecomprazo",
-      "link": "https://www.prensalibre.com/opinion/editorial/lecciones-del-guatecomprazo/",
-      "fecha": "Thu, 10 Sep 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Guatecompras es un patrimonio de información pública invaluable."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Skechers Kids abrió su primera tienda de Latinoamérica en Guatemala",
       "link": "https://www.guatemala.com/noticias/sociedad/skechers-kids-primera-tienda-latinoamerica-guatemala.html",
@@ -865,14 +873,6 @@
       "fecha": "Tue, 08 Sep 2026 22:16:14 +0000",
       "categoria": "Comunidad",
       "resumen": "La Superintendencia de Bancos anunció el cierre de bancos e instituciones financieras de Guatemala por el asueto del Día de la Independencia. \nThe post Anuncian el cierre de bancos en Guatemala por el asueto del Día de la Independencia 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "¿Cuándo finalizará el fenómeno de El Niño en Guatemala?",
-      "link": "https://www.guatemala.com/noticias/comunidad/fenomeno-el-nino-guatemala-etapa-actual-y-pronostico-duracion.html",
-      "fecha": "Tue, 08 Sep 2026 21:02:09 +0000",
-      "categoria": "Comunidad",
-      "resumen": "El fenómeno de El Niño podría continuar afectando al territorio guatemalteco hasta el 2027. Conoce en qué etapa se encuentra y cuánto podría durar.\nThe post ¿Cuándo finalizará el fenómeno de El Niño en Guatemala? appeared first on Guatemala.com."
     }
   ]
 }
