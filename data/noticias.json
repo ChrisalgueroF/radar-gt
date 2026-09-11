@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-11T12:20:21.031Z",
+  "actualizado": "2026-09-11T13:15:32.096Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "5 datos cruciales sobre el estado de la educación en América Latina que revela la última prueba PISA",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/5-datos-cruciales-sobre-el-estado-de-la-educacion-en-america-latina-que-revela-la-ultima-prueba-pisa/",
+      "fecha": "Fri, 11 Sep 2026 12:53:17 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los resultados de la evaluación trienal arrojan señales preocupantes, aunque también muestran algunos indicios alentadores sobre el estado del aprendizaje en la región."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bloqueos en Guatemala EN VIVO: carreteras y tramos de la capital afectados este 11 de septiembre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-en-vivo-carreteras-y-tramos-de-la-capital-afectados-este-11-de-septiembre-breaking/",
+      "fecha": "Fri, 11 Sep 2026 12:21:33 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Carreteras y tramos de la capital se ven afectados este viernes 11 de septiembre por bloqueos en rechazo al precio del combustible."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Es la promesa de Trump de pagar US$5.000 a los votantes de EE.UU. una señal de pánico?",
@@ -793,22 +809,6 @@
       "fecha": "Thu, 10 Sep 2026 05:04:22 +0000",
       "categoria": "Economía",
       "resumen": "El MEM advierte que los Q2 mil 500 millones para subsidiar combustibles podrían agotarse antes de fin de año por el alza de los precios internacionales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Drones, ciberataques y desinformación: la &#8220;guerra híbrida&#8221; de la que se acusa a Rusia en Europa",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/drones-ciberataques-y-desinformacion-la-guerra-hibrida-de-la-que-se-acusa-a-rusia-en-europa/",
-      "fecha": "Thu, 10 Sep 2026 05:01:48 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Analistas apuntan a que el Kremlin ha estado tanteando a Europa mediante una combinación de tácticas militares y no militares para ejercer presión sin desencadenar un conflicto abierto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Más de tres mil agentes se incorporan a la PNC: Así serán desplegados en tareas de seguridad",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/mas-de-tres-mil-agentes-se-incorporan-a-la-pnc-asi-seran-desplegados-en-tareas-de-seguridad/",
-      "fecha": "Thu, 10 Sep 2026 03:50:19 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Policía Nacional Civil amplió su estado de fuerza con tres mil 98 nuevos agentes, que serán destinados principalmente a comisarías y regiones con mayores índices de violencia y presencia de estructuras criminales."
     },
     {
       "fuente": "Guatemala.com",
