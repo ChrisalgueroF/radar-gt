@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-11T04:16:13.231Z",
+  "actualizado": "2026-09-11T05:14:18.754Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo los atentados del 11-S en EE.UU. cambiaron la inteligencia y la seguridad en el mundo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-los-atentados-del-11-s-en-ee-uu-cambiaron-la-inteligencia-y-la-seguridad-en-el-mundo/",
+      "fecha": "Fri, 11 Sep 2026 05:11:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los países han aprendido lecciones en materia de estrategia e inteligencia tras varios errores tanto en la previsión como en la respuesta a los ataques del 11 de septiembre de 2001."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fátima Bosch visita Honduras y participa en conversatorio previo a Miss Universe Honduras 2026: “Aquí hay mujeres espectaculares”",
+      "link": "https://www.prensalibre.com/vida/escenario/fatima-bosch-visita-honduras-y-participa-en-conversatorio-previo-a-miss-universe-honduras-2026-aqui-hay-mujeres-espectaculares/",
+      "fecha": "Fri, 11 Sep 2026 04:15:49 +0000",
+      "categoria": "Escenario",
+      "resumen": "Fátima Bosch, Miss Universo 2025, se encuentra de visita en Honduras para participar en actividades previas a la final de Miss Universe Honduras 2026."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Torneo Apertura 2026: Xelajú MC no puede en casa y cede un empate frente a Cobán Imperial",
@@ -9,6 +25,14 @@
       "fecha": "Fri, 11 Sep 2026 03:58:12 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Los superchivos insistieron durante gran parte del encuentro y tuvieron en sus manos la posibilidad de quedarse con los tres puntos, pero la falta de contundencia y las intervenciones de Tomás Casas de Cobán Imperial dejaron el marcador sin goles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Piedras y bombas para ocasionar daño”: jornada de bloqueos por combustibles deja capturas, gas lacrimógeno y acciones que llegan a La Bethania",
+      "link": "https://www.prensalibre.com/guatemala/piedras-y-bombas-para-ocasionar-dano-jornada-de-bloqueos-por-combustibles-deja-capturas-gas-lacrimogeno-y-acciones-que-llegan-a-la-bethania/",
+      "fecha": "Fri, 11 Sep 2026 03:43:47 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Una jornada de bloqueos por los combustibles dejó enfrentamientos con la PNC, uso de gas lacrimógeno y capturas en la ruta al Pacífico, además de complicaciones en Villa Nueva y un cierre en La Bethania."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,30 +817,6 @@
       "fecha": "Wed, 09 Sep 2026 23:25:39 +0000",
       "categoria": "Internacional",
       "resumen": "El secretario de Estado de EE. UU., Marco Rubio, llegó a Colombia y Ecuador para establecer acuerdos de seguridad y fortalecer los operativos contra el narcotráfico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Los precios de la gasolina tardarán más en bajar”: guerra con Irán terminará tras elecciones intermedias, dice Trump",
-      "link": "https://www.prensalibre.com/internacional/los-precios-de-la-gasolina-tardaran-mas-en-bajar-guerra-con-iran-terminara-tras-elecciones-intermedias-dice-trump/",
-      "fecha": "Wed, 09 Sep 2026 23:22:57 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump mencionó este miércoles que espera que Irán abandone su esfuerzo bélico después de las elecciones de medio término de EE. UU. aunque admitió que es poco probable que los precios de la gasolina disminuyan antes de entonces."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Hechizo de amor 2&#8221;: por qué la crítica cuestiona la película que vuelve a reunir a Sandra Bullock y Nicole Kidman",
-      "link": "https://www.prensalibre.com/vida/escenario/hechizo-de-amor-2-por-que-la-critica-cuestiona-la-pelicula-que-vuelve-a-reunir-a-sandra-bullock-y-nicole-kidman/",
-      "fecha": "Wed, 09 Sep 2026 23:21:18 +0000",
-      "categoria": "Escenario",
-      "resumen": "Sandra Bullock y Nicole Kidman regresan en la secuela de “Hechizo de amor”, pero la película ha recibido críticas y una baja calificación antes de su estreno."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Una montaña rusa de emociones&#8221;: miembros del jurado del caso Lindsay Clancy hablan sobre el desacuerdo que llevó a la anulación del juicio",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-montana-rusa-de-emociones-miembros-del-jurado-del-caso-lindsay-clancy-hablan-sobre-el-desacuerdo-que-llevo-a-la-anulacion-del-juicio/",
-      "fecha": "Wed, 09 Sep 2026 23:14:47 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Tres mujeres del jurado declararon que, tras 40 horas de deliberación, un único miembro del panel no estuvo de acuerdo con el resto en declarar a Clancy no culpable por razón de enfermedad mental"
     },
     {
       "fuente": "Guatemala.com",
