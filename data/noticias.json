@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-12T20:14:50.040Z",
+  "actualizado": "2026-09-12T21:14:35.288Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿La IA se salió de control? La razón por la que el director de Anthropic pide desacelerar el avance de esta tecnología",
+      "link": "https://www.prensalibre.com/vida/escenario/la-ia-se-salio-de-control-la-razon-por-la-que-el-director-de-anthropic-pide-desacelerar-el-avance-de-esta-tecnologia/",
+      "fecha": "Sat, 12 Sep 2026 20:31:01 +0000",
+      "categoria": "Escenario",
+      "resumen": "El acelerado avance de la inteligencia artificial podría generar riesgos globales, advierte el director de Anthropic, mientras Sam Altman, de OpenAI, plantea ralentizar su desarrollo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga de Naciones: cuándo y cómo comprar los boletos para los partidos ante El Salvador y Surinam",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-de-naciones-cuando-y-como-comprar-los-boletos-para-los-partidos-ante-el-salvador-y-surinam-breaking/",
+      "fecha": "Sat, 12 Sep 2026 20:17:17 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Fedefut habilitará la venta de entradas  a través de su plataforma digital para los dos partidos que Guatemala disputará como local en el estadio Manuel Felipe Carrera con un límite de tres boletos por persona."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Semana laboral de 32 horas? Presentan ley en EE.UU. para reducir la jornada sin recortar salarios",
@@ -9,6 +25,14 @@
       "fecha": "Sat, 12 Sep 2026 20:05:04 +0000",
       "categoria": "Internacional",
       "resumen": "La propuesta para reducir la jornada se vincula con el impacto que tendrán la inteligencia artificial y la robótica en el empleo durante las próximas décadas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC anuncia acciones ante nuevos bloqueos y mantendrá presencia en puntos de conflicto",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/pnc-anuncia-acciones-ante-nuevos-bloqueos-y-mantendra-presencia-en-puntos-de-conflicto/",
+      "fecha": "Sat, 12 Sep 2026 19:29:50 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Agentes de la PNC y efectivos del Ejército de Guatemala resguardan los puntos donde se reportaron bloqueos y disturbios para garantizar el derecho a la libre locomoción, según las autoridades."
     },
     {
       "fuente": "Prensa Libre",
@@ -25,6 +49,14 @@
       "fecha": "Sat, 12 Sep 2026 19:17:04 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Tania Head afirmó haber escapado de la Torre Sur tras los ataques al World Trade Center, pero no era cierto. Tampoco ese era su verdadero nombre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vehículos en llamas, detenidos y heridos: el recuento de incidencias tras los bloqueos en Guatemala el 11 de septiembre",
+      "link": "https://www.prensalibre.com/guatemala/justicia/vehiculos-en-llamas-detenidos-y-heridos-el-recuento-de-incidencias-tras-los-bloqueos-en-guatemala-el-11-de-septiembre/",
+      "fecha": "Sat, 12 Sep 2026 18:49:56 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Socorristas atendieron varias emergencias durante los disturbios, entre estas heridos de bala, intoxicaciones, evacuaciones y vehículos incendiados. La PNC también reportó detenciones."
     },
     {
       "fuente": "Prensa Libre",
@@ -701,6 +733,14 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;¡Jefa, jefa, jefa!&#8221;: quién es Ilya Espino de Marotta, la ingeniera de casco rosa que al frente del Canal de Panamá supervisa parte del comercio mundial",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jefa-jefa-jefa-quien-es-ilya-espino-de-marotta-la-ingeniera-de-casco-rosa-que-al-frente-del-canal-de-panama-supervisa-parte-del-comercio-mundial-4/",
+      "fecha": "Fri, 11 Sep 2026 15:46:42 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Espino de Marotta asumió el liderazgo de la vía interoceánica esta semana. Durante su discurso, subrayó sus 41 años de trayectoria en el Canal y afirmó que llegó al puesto por sus propios méritos y trabajo, y no por cuestiones de género."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;¡Jefa, jefa, jefa!&#8221;: quién es Ilya Espino de Marotta, la ingeniera de casco rosa que al frente del Canal de Panamá supervisa parte del comercio mundial",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jefa-jefa-jefa-quien-es-ilya-espino-de-marotta-la-ingeniera-de-casco-rosa-que-al-frente-del-canal-de-panama-supervisa-parte-del-comercio-mundial-3/",
       "fecha": "Fri, 11 Sep 2026 15:46:42 +0000",
       "categoria": "BBC News Mundo",
@@ -777,46 +817,6 @@
       "fecha": "Fri, 11 Sep 2026 13:56:19 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Con casi 3.000 muertos, el 11-S fue y es el mayor ataque en suelo estadounidense de la historia. Sobrevivientes y familiares de víctimas de 77 países se reúnen por el aniversario en ceremonias organizadas en los tres lugares donde se produjeron los impactos: Nueva York, Virginia y Pensilvania."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién es la ingeniera Ilya Espino de Marotta, la primera mujer en dirigir el Canal de Panamá (y por qué suele usar un casco rosa)",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-la-ingeniera-ilya-espino-de-marotta-la-primera-mujer-en-dirigir-el-canal-de-panama-y-por-que-suele-usar-un-casco-rosa/",
-      "fecha": "Fri, 11 Sep 2026 13:35:32 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Espino de Marotta asumió el liderazgo de la vía interoceánica esta semana. Durante su discurso, subrayó sus 41 años de trayectoria en el Canal y afirmó que llegó al puesto por sus propios méritos y trabajo, y no por cuestiones de género."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "5 datos cruciales sobre el estado de la educación en América Latina que revela la última prueba PISA",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/5-datos-cruciales-sobre-el-estado-de-la-educacion-en-america-latina-que-revela-la-ultima-prueba-pisa/",
-      "fecha": "Fri, 11 Sep 2026 12:53:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los resultados de la evaluación trienal arrojan señales preocupantes, aunque también muestran algunos indicios alentadores sobre el estado del aprendizaje en la región."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bloqueos en Guatemala EN VIVO: Tras jornada de disturbios, PNC informa que fueron liberados todas las vías",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-en-vivo-carreteras-y-tramos-de-la-capital-afectados-este-11-de-septiembre-breaking/",
-      "fecha": "Fri, 11 Sep 2026 12:21:33 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Carreteras y tramos de la capital fueron afectados el viernes 11 de septiembre por bloqueos en rechazo al precio del combustible. La circulación se restableció luego de una jornada de disturbios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Es la promesa de Trump de pagar US$5.000 a los votantes de EE.UU. una señal de pánico?",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/es-la-promesa-de-trump-de-pagar-us5-000-a-los-votantes-de-ee-uu-una-senal-de-panico-2/",
-      "fecha": "Fri, 11 Sep 2026 11:23:27 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Incluso para los estándares poco convencionales del propio Trump, su promesa a los votantes fue extraña, escribe la editora para América del Norte, Sarah Smith."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Es la promesa de Trump de pagar US$5.000 a los votantes de EE.UU. una señal de pánico?",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/es-la-promesa-de-trump-de-pagar-us5-000-a-los-votantes-de-ee-uu-una-senal-de-panico/",
-      "fecha": "Fri, 11 Sep 2026 11:23:27 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Incluso para los estándares poco convencionales del propio Trump, su promesa a los votantes fue extraña, escribe la editora para América del Norte, Sarah Smith."
     },
     {
       "fuente": "Guatemala.com",
