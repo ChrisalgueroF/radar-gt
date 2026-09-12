@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-12T16:15:05.109Z",
+  "actualizado": "2026-09-12T17:13:17.073Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump asegura que la reunificación de Irlanda sería &#8220;algo fantástico&#8221; durante una visita a Dublín",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-asegura-que-la-reunificacion-de-irlanda-seria-algo-fantastico-durante-una-visita-a-dublin/",
+      "fecha": "Sat, 12 Sep 2026 17:13:05 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El presidente ha vuelto a dejar en claro su distanciamiento con Reino Unido al poner en duda la soberanía sobre un territorio británico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "iPhone 18 Pro Max y Duo: Apple inicia las ventas y anticipa las reservas de su primer celular plegable",
+      "link": "https://www.prensalibre.com/internacional/iphone-18-pro-max-y-duo-apple-inicia-las-ventas-y-anticipa-las-reservas-de-su-primer-celular-plegable/",
+      "fecha": "Sat, 12 Sep 2026 17:09:50 +0000",
+      "categoria": "Internacional",
+      "resumen": "Apple abrió las reservas de los iPhone 18 Pro y iPhone 18 Pro Max, presentados por John Ternus con mejoras clave en batería, cámaras y procesador."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "El oleoducto que transporta cerca del 5% del petróleo mundial y que Arabia Saudita cerró tras un ataque con drones desde Iraq",
@@ -9,6 +25,14 @@
       "fecha": "Sat, 12 Sep 2026 16:14:42 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Iraq destituyó a un comandante militar y abrió una investigación sobre el ataque que provino de una zona fronteriza con Irán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Emiten alerta roja por la sequía en los municipios de Región Trifinio, ¿qué implica esto?",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/emiten-alerta-roja-por-la-sequia-en-los-municipios-de-region-trifinio-breaking/",
+      "fecha": "Sat, 12 Sep 2026 16:14:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La alerta roja contempla fijar precios de referencia, frenar alzas injustificadas, hacer ágil la entrega de alimentos, según comunicó la vicepresidenta Karin Herrera."
     },
     {
       "fuente": "Prensa Libre",
@@ -595,6 +619,14 @@
       "resumen": "Video muestra que pilotos son obligados a compartir sus datos personales para dejarlos pasar por un bloqueo en la colonia Bethania."
     },
     {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;¡Jefa, jefa, jefa!&#8221;: quién es Ilya Espino de Marotta, la ingeniera de casco rosa que al frente del Canal de Panamá supervisa parte del comercio mundial",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jefa-jefa-jefa-quien-es-ilya-espino-de-marotta-la-ingeniera-de-casco-rosa-que-al-frente-del-canal-de-panama-supervisa-parte-del-comercio-mundial/",
+      "fecha": "Fri, 11 Sep 2026 15:46:42 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Espino de Marotta asumió el liderazgo de la vía interoceánica esta semana. Durante su discurso, subrayó sus 41 años de trayectoria en el Canal y afirmó que llegó al puesto por sus propios méritos y trabajo, y no por cuestiones de género."
+    },
+    {
       "fuente": "Guatemala.com",
       "titulo": "Clima en Guatemala: Pronóstico para el 12 y 13 de septiembre 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-12-y-13-septiembre-2026.html",
@@ -785,38 +817,6 @@
       "fecha": "Fri, 11 Sep 2026 06:07:00 +0000",
       "categoria": "Caricatura",
       "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Perniciosos bloqueos agravan agobio ciudadano",
-      "link": "https://www.prensalibre.com/opinion/editorial/perniciosos-bloqueos-agravan-agobio-ciudadano/",
-      "fecha": "Fri, 11 Sep 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Si este incremento internacional se prolonga por el resto del año, no habrá subsidio que alcance ni erario que resista."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Terroristas cambiaron al mundo hace 25 años",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/terroristas-cambiaron-al-mundo-hace-25-anos/",
-      "fecha": "Fri, 11 Sep 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Ya ha pasado un cuarto de siglo desde el cambio en el mundo debido a los ataques musulmanes contra las Torres Gemelas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Opinión: El mundo que el 11-S no creó",
-      "link": "https://www.prensalibre.com/internacional/opinion-el-mundo-que-el-11-s-no-creo/",
-      "fecha": "Fri, 11 Sep 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "A 25 años de los atentados del 11-S, Richard Haass revisa su impacto histórico y las lecciones que aún deja sobre terrorismo y seguridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuánta proteína puede absorber el cuerpo en una sola comida",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/cuanta-proteina-puede-absorber-el-cuerpo-en-una-sola-comida/",
-      "fecha": "Fri, 11 Sep 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Los científicos se han centrado en investigar cuánta proteína puede utilizar nuestro cuerpo para desarrollar y mantener la masa muscular."
     },
     {
       "fuente": "Guatemala.com",
