@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-11T23:13:09.510Z",
+  "actualizado": "2026-09-12T00:20:51.316Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jorge Drexler convirtió &#8220;Taracá&#8221; en una noche para estar acá y estar ahora en Guatemala, con elogios para Pedro Boche y &#8220;Luna de Xelajú&#8221; en el repertorio",
+      "link": "https://www.prensalibre.com/vida/escenario/jorge-drexler-convirtio-taraca-en-una-noche-para-estar-aca-y-estar-ahora-en-guatemala-con-elogios-para-pedro-boche-y-luna-de-xelaju-en-el-repertorio/",
+      "fecha": "Fri, 11 Sep 2026 23:55:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Jorge Drexler derrochó talento en la capital el jueves 10 de septiembre durante la presentación de su más reciente producción, \"Taracá\", con la que el cantautor uruguayo regresó a las raíces, en un concierto lleno de detalles y calidad musical."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "American Horror Story regresa con su temporada 13: fecha de estreno, elenco, personajes que vuelven y dónde verla",
+      "link": "https://www.prensalibre.com/vida/escenario/american-horror-story-regresa-con-su-temporada-13-fecha-de-estreno-elenco-personajes-que-vuelven-y-donde-verla/",
+      "fecha": "Fri, 11 Sep 2026 23:52:23 +0000",
+      "categoria": "Escenario",
+      "resumen": "Una de las producciones más exitosas de Ryan Murphy, American Horror Story, regresará con su temporada 13 y reunirá a actrices como Emma Roberts, Jessica Lange y Sarah Paulson."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La madre subrogada que se negó a abortar y ahora pelea por la custodia del bebé en EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-madre-subrogada-que-se-nego-a-abortar-y-ahora-pelea-por-la-custodia-del-bebe-en-ee-uu/",
+      "fecha": "Fri, 11 Sep 2026 23:25:11 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La mujer huyó a Texas, donde el aborto es ilegal, y ahora quiere la custodia del niño de 4 semanas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El sector industrial planteó al presidente Bernardo Arévalo cuatro acciones urgentes para generar competitividad y atraer inversión",
+      "link": "https://www.prensalibre.com/economia/el-sector-industrial-planteo-al-presidente-bernardo-arevalo-cuatro-acciones-urgentes-para-generar-competitividad-y-atraer-inversion/",
+      "fecha": "Fri, 11 Sep 2026 23:15:30 +0000",
+      "categoria": "Economía",
+      "resumen": "Durante el XXI Congreso Industrial 2026, el sector industrial planteó al presidente de la República, Bernardo Arévalo, la necesidad de impulsar acciones urgentes en cuatro ámbitos para atraer más inversión y generar empleo."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "Volcano Innovation Summit 2026 reunió en Guatemala a líderes para impulsar la innovación en Latinoamérica",
@@ -76,6 +108,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "¿Por qué hay que dormir a oscuras? Estudio revela cómo la luz nocturna puede afectar el corazón",
+      "link": "https://www.prensalibre.com/vida/ciencia/por-que-hay-que-dormir-a-oscuras-estudio-revela-como-la-luz-nocturna-puede-afectar-el-corazon/",
+      "fecha": "Fri, 11 Sep 2026 21:17:25 +0000",
+      "categoria": "Ciencia",
+      "resumen": "Dormir con exposición a la luz, incluso cuando es tenue, puede alterar la estructura y el funcionamiento del corazón, según una investigación."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "“Si tanto amas México, lárgate”: Esto le dijo el vicepresidente de EE. UU. a un manifestante",
       "link": "https://www.prensalibre.com/internacional/si-tanto-amas-mexico-largate-esto-le-dijo-el-vicepresidente-de-ee-uu-a-un-manifestante/",
       "fecha": "Fri, 11 Sep 2026 21:07:09 +0000",
@@ -121,6 +161,14 @@
       "fecha": "Fri, 11 Sep 2026 19:56:45 +0000",
       "categoria": "Guatemala",
       "resumen": "La PNC dio a conocer la captura del hijo del magistrado del Organismo Judicial y de otro hombre por el accidente en el que murió el músico y docente Hugo Girón."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Vi a un gigante herido&#8221; La crónica de un fotoperiodista de Prensa Libre de los atentados del 11 de septiembre",
+      "link": "https://www.prensalibre.com/internacional/vi-a-un-gigante-herido-la-cronica-de-un-fotoperiodista-de-prensa-libre-de-los-atentados-del-11-de-septiembre/",
+      "fecha": "Fri, 11 Sep 2026 19:45:22 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un fotoperiodista de Prensa Libre relata lo que vivió durante su cobertura en Nueva York tras los atentados del 11 de septiembre de 2001."
     },
     {
       "fuente": "Prensa Libre",
@@ -244,11 +292,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "CC da seis horas para liberar bloqueos bajo apercibimiento de destituciones en el Mingob y la PNC",
-      "link": "https://www.prensalibre.com/guatemala/politica/cc-da-seis-horas-al-gobierno-para-liberar-bloqueos-bajo-apercibimiento-de-destitucion-al-mingob-y-pnc/",
+      "titulo": "CC ordena a Mingob y PNC liberar bloqueos en seis horas o sus altos mandos serán destituidos",
+      "link": "https://www.prensalibre.com/guatemala/politica/cc-ordena-a-mingob-y-pnc-liberar-bloqueos-en-seis-horas-o-sus-altos-mandos-seran-destituidos/",
       "fecha": "Fri, 11 Sep 2026 16:52:44 +0000",
       "categoria": "Guatemala",
-      "resumen": "La resolución se da por una debida ejecutoria presentada por Cacif que tiene un amparo provisional para respetar el derecho de libre locomoción."
+      "resumen": "La decisión no fue unánime, la presidenta Annabella Morfín, y Luis Fernando Bermejo, suplente, emitieron votos disidentes para no presionar al gobierno."
     },
     {
       "fuente": "Prensa Libre",
@@ -364,7 +412,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Bloqueos en Guatemala EN VIVO: Inician enfrentamientos entre antimotines y manifestantes en el km 13 de la ruta al Atlántico",
+      "titulo": "Bloqueos en Guatemala EN VIVO: Continúan operativos de antimotines y se intensifica bloqueo en la ruta al Pacífico",
       "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-en-vivo-carreteras-y-tramos-de-la-capital-afectados-este-11-de-septiembre-breaking/",
       "fecha": "Fri, 11 Sep 2026 12:21:33 +0000",
       "categoria": "Comunitario",
@@ -621,6 +669,38 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel-5/",
+      "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel-4/",
+      "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel-3/",
+      "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel-2/",
+      "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel/",
       "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
       "categoria": "BBC News Mundo",
@@ -745,86 +825,6 @@
       "fecha": "Thu, 10 Sep 2026 22:10:51 +0000",
       "categoria": "Escenario",
       "resumen": "Meses después de que se anunciara la llegada del cantante puertorriqueño Ozuna a Guatemala, se notificó la cancelación de su presentación en el país. Esto se sabe sobre el motivo y lo que pasará con las entradas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Apagón afecta a países de Centroamérica y EEGSA reporta problemas en municipios de Guatemala",
-      "link": "https://www.prensalibre.com/economia/apagon-afecta-a-paises-de-centroamerica-y-eegsa-reporta-problemas-en-municipios-de-guatemala/",
-      "fecha": "Thu, 10 Sep 2026 21:39:34 +0000",
-      "categoria": "Economía",
-      "resumen": "Una falla en el sistema eléctrico regional afectó a varios países de Centroamérica, mientras EEGSA reportó problemas en el servicio en 25 municipios de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Verificamos por usted: ¿Hubo fallas en un sistema eléctrico que afectó a países de Centroamérica?",
-      "link": "https://www.prensalibre.com/internacional/verificamos-por-usted-hubo-fallas-en-un-sistema-electrico-que-afecto-a-paises-de-centroamerica/",
-      "fecha": "Thu, 10 Sep 2026 21:27:07 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una falla en el sistema de interconexión eléctrico de Centroamérica habría afectado a Guatemala, Honduras, El Salvador y Nicaragua."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gas lacrimógeno, encapuchados y morteros en San Vicente Pacaya: tensión se apodera de la ruta al Pacífico",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/gas-lacrimogeno-encapuchados-y-morteros-en-san-vicente-pacaya-tension-se-apodera-de-la-ruta-al-pacifico-breaking/",
-      "fecha": "Thu, 10 Sep 2026 20:50:28 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La tensión persiste en la ruta al Pacífico, donde manifestantes y agentes de la PNC se enfrentaron durante los operativos para liberar el paso entre los kilómetros 37 y 40."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Hay riesgo de una erupción volcánica en Jalapa? Esto aclara la Conred sobre la alerta que circula en redes",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/hay-riesgo-de-una-erupcion-volcanica-en-jalapa-esto-aclara-la-conred-sobre-la-alerta-que-circula-en-redes/",
-      "fecha": "Thu, 10 Sep 2026 20:33:50 +0000",
-      "categoria": "Comunitario",
-      "resumen": "¿Existe una falla sísmica y hay riesgo de una posible erupción volcánica en Jalapa? La información circula en redes sociales y la Conred aclara qué se sabe sobre estas versiones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Transforman la formación del talento financiero y empresarial en Guatemala",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/transforman-la-formacion-del-talento-financiero-y-empresarial-en-guatemala/",
-      "fecha": "Thu, 10 Sep 2026 20:22:37 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "La Asociación Bancaria de Guatemala a través de la marca educativa Escuela Bancaria de Guatemala (EBG) y la Universidad Rafael Landívar (URL), por medio de su Facultad de Ciencias Económicas y Empresariales, establecen una alianza académica estratégica con el propósito de fortalecer las capacidades profesionales del sector bancario, financiero y empresarial mediante el desarrollo conjunto de programas especializados, innovadores y alineados con las nuevas demandas del mercado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El diputado Allan Rodríguez objeta el decreto que fija precios a los combustibles y complica su vigencia",
-      "link": "https://www.prensalibre.com/guatemala/politica/el-diputado-allan-rodriguez-objeta-el-decreto-que-fija-precios-a-los-combustibles-y-complica-su-vigencia/",
-      "fecha": "Thu, 10 Sep 2026 20:06:28 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El congresista cuestiona el decreto 21-2026 que fija el costo del diésel y la gasolina regular a Q39, mientras establece a Q41 la gasolina superior."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Aurora vs. Municipal: el líder busca mantener el paso en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-aurora-vs-municipal-el-lider-busca-mantener-el-paso-en-el-apertura-2026/",
-      "fecha": "Thu, 10 Sep 2026 19:49:04 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Aurora recibe al campeón Municipal en uno de los partidos más atractivos de la octava jornada de la Liga Nacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Meta lanza Notas de la Comunidad: qué son, cómo funcionan y cómo registrarse en Guatemala",
-      "link": "https://www.prensalibre.com/vida/tecnologia/meta-lanza-notas-de-la-comunidad-que-son-como-funcionan-y-como-registrarse-en-guatemala/",
-      "fecha": "Thu, 10 Sep 2026 19:40:10 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Guatemala está entre los 16 países anunciados por Meta en los que busca colaboradores para probar su nueva función “Notas de la Comunidad”. De esto se trata."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuándo saldrán a la venta el iPhone 18 Pro, el iPhone 18 Pro Max y el iPhone Duo?",
-      "link": "https://www.prensalibre.com/vida/tecnologia/cuando-saldran-a-la-venta-el-iphone-18-pro-el-iphone-18-pro-max-y-el-iphone-duo/",
-      "fecha": "Thu, 10 Sep 2026 19:32:51 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Apple presentó una nueva generación de dispositivos móviles, entre ellos el iPhone 18 Pro, el iPhone 18 Pro Max y su primer teléfono plegable, el iPhone Duo. Estas son las fechas anunciadas para su preventa y disponibilidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Es legal que Trump prometa entregar US$5.000 a cada estadounidense si los republicanos ganan las elecciones de noviembre?",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/es-legal-que-trump-prometa-entregar-us5-000-a-cada-estadounidense-si-los-republicanos-ganan-las-elecciones-de-noviembre/",
-      "fecha": "Thu, 10 Sep 2026 19:12:15 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los analistas cuestionan que la oferta del presidente estadounidense en año electoral sea viable, legal o asequible."
     },
     {
       "fuente": "Guatemala.com",
