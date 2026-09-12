@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T06:19:13.810Z",
+  "actualizado": "2026-09-12T07:12:50.885Z",
   "total": 109,
   "noticias": [
     {
@@ -612,11 +612,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Bloqueos en Guatemala EN VIVO: Cierres disminuyen tras una jornada de incendios, capturas y disparos; PNC anuncia más operativos",
+      "titulo": "Bloqueos en Guatemala EN VIVO: Tras jornada de disturbios, PNC informa que fueron liberados todas las vías",
       "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-en-vivo-carreteras-y-tramos-de-la-capital-afectados-este-11-de-septiembre-breaking/",
       "fecha": "Fri, 11 Sep 2026 12:21:33 +0000",
       "categoria": "Comunitario",
-      "resumen": "Carreteras y tramos de la capital se ven afectados este viernes 11 de septiembre por bloqueos en rechazo al precio del combustible. El sector privado pide acciones y autoridades anuncian estrategia para libera rutas."
+      "resumen": "Carreteras y tramos de la capital fueron afectados el viernes 11 de septiembre por bloqueos en rechazo al precio del combustible. La circulación se restableció luego de una jornada de disturbios."
     },
     {
       "fuente": "Prensa Libre",
@@ -741,6 +741,22 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Cómo los atentados del 11-S en EE.UU. cambiaron la inteligencia y la seguridad en el mundo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-los-atentados-del-11-s-en-ee-uu-cambiaron-la-inteligencia-y-la-seguridad-en-el-mundo-8/",
+      "fecha": "Fri, 11 Sep 2026 05:11:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los países han aprendido lecciones en materia de estrategia e inteligencia tras varios errores tanto en la previsión como en la respuesta a los ataques del 11 de septiembre de 2001."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo los atentados del 11-S en EE.UU. cambiaron la inteligencia y la seguridad en el mundo",
+      "link": "https://www.prensalibre.com/guatemala/como-los-atentados-del-11-s-en-ee-uu-cambiaron-la-inteligencia-y-la-seguridad-en-el-mundo-7/",
+      "fecha": "Fri, 11 Sep 2026 05:11:54 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los países han aprendido lecciones en materia de estrategia e inteligencia tras varios errores tanto en la previsión como en la respuesta a los ataques del 11 de septiembre de 2001."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo los atentados del 11-S en EE.UU. cambiaron la inteligencia y la seguridad en el mundo",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-los-atentados-del-11-s-en-ee-uu-cambiaron-la-inteligencia-y-la-seguridad-en-el-mundo-6/",
       "fecha": "Fri, 11 Sep 2026 05:11:54 +0000",
       "categoria": "BBC News Mundo",
@@ -801,22 +817,6 @@
       "fecha": "Fri, 11 Sep 2026 03:58:12 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Los superchivos insistieron durante gran parte del encuentro y tuvieron en sus manos la posibilidad de quedarse con los tres puntos, pero la falta de contundencia y las intervenciones de Tomás Casas de Cobán Imperial dejaron el marcador sin goles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Piedras y bombas para ocasionar daño”: jornada de bloqueos por combustibles deja capturas, gas lacrimógeno y acciones que llegan a La Bethania",
-      "link": "https://www.prensalibre.com/guatemala/piedras-y-bombas-para-ocasionar-dano-jornada-de-bloqueos-por-combustibles-deja-capturas-gas-lacrimogeno-y-acciones-que-llegan-a-la-bethania/",
-      "fecha": "Fri, 11 Sep 2026 03:43:47 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Una jornada de bloqueos por los combustibles dejó enfrentamientos con la PNC, uso de gas lacrimógeno y capturas en la ruta al Pacífico, además de complicaciones en Villa Nueva y un cierre en La Bethania."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Torneo Apertura 2026: Antigua GFC vence 2-0 a Malacateco y se lleva tres puntos del Santa Lucía",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-2026-antigua-gfc-vence-2-0-a-malacateco-y-se-lleva-tres-puntos-del-santa-lucia-breaking/",
-      "fecha": "Fri, 11 Sep 2026 03:05:33 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El conjunto colonial aprovechó sus oportunidades, mientras los toros desperdiciaron un penalti y se quedaron sin reacción en el cierre del partido."
     },
     {
       "fuente": "Guatemala.com",
