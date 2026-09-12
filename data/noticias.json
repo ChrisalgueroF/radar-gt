@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-09-12T05:13:37.994Z",
+  "actualizado": "2026-09-12T06:19:13.810Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sequía agrícola deja pérdidas por Q1,087 millones, según el Maga",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/sequia-agricola-deja-perdidas-por-q1087-millones-segun-el-maga/",
+      "fecha": "Sat, 12 Sep 2026 06:12:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "De acuerdo con el Maga, el 95.6% de las pérdidas económicas en la agricultura se debe a la sequía prolongada. Mientras la Conred declara alerta anaranjada nacional por la emergencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Chantaje",
+      "link": "https://www.prensalibre.com/opinion/caricatura/chantaje-2/",
+      "fecha": "Sat, 12 Sep 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Violencia de bloqueos denota oscuros fines",
+      "link": "https://www.prensalibre.com/opinion/editorial/violencia-de-bloqueos-denota-oscuros-fines/",
+      "fecha": "Sat, 12 Sep 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Seguían invocando el daño de la carestía a la población, pero le infligían uno peor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El reinicio debe evaluarse por su proyección",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-reinicio-debe-evaluarse-por-su-proyeccion/",
+      "fecha": "Sat, 12 Sep 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Nada en la vida permanece estático, por ello debemos saber cómo adaptarnos a imprevistos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "J.D. Vance se perfila como heredero de Donald Trump en la convención republicana",
+      "link": "https://www.prensalibre.com/internacional/j-d-vance-se-perfila-como-heredero-de-donald-trump-en-la-convencion-republicana/",
+      "fecha": "Sat, 12 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Los elogios de Donald Trump y el respaldo de las bases elevan las expectativas sobre J.D. Vance ante una eventual candidatura presidencial en el 2028."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La magnitud del perdón",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-magnitud-del-perdon/",
+      "fecha": "Sat, 12 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El perdón de Dios crea un ámbito de gratuidad que el cristiano debe replicar con quien lo ofendió."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Independencia celebrando nuestra memoria",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/independencia-celebrando-nuestra-memoria/",
+      "fecha": "Sat, 12 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Una nación que conoce y protege su patrimonio, conoce mejor su propia identidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La Orden Roberto Aycinena Echeverría",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-orden-roberto-aycinena-echeverria/",
+      "fecha": "Sat, 12 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Con el apoyo de colegas y amigos, propuse al Colegio de Arquitectos crear la Orden Roberto Aycinena Echeverría."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "15 de septiembre",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/15-de-septiembre/",
+      "fecha": "Sat, 12 Sep 2026 06:01:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "La soberanía ya no significa únicamente defender fronteras."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy sábado 12 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-12-de-septiembre-de-2026/",
+      "fecha": "Sat, 12 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En primera fila disfrutarán un 2027 de música y experiencias inolvidables",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/en-primera-fila-disfrutaran-un-2027-de-musica-y-experiencias-inolvidables/",
+      "fecha": "Sat, 12 Sep 2026 05:42:49 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Una vez más, BAC acercar a sus clientes a grandes experiencias de entretenimiento con la nueva edición de Golden Ticket BAC; donde seis ganadores podrán disfrutar junto a un acompañante de 12 conciertos y espectáculos presentados por el banco durante 2027, una oportunidad para llenar el próximo año de música, emoción y planes para compartir."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "PNC señala a pandillas y crimen organizado de usar “escudos humanos” en bloqueos",
@@ -653,6 +741,30 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Cómo los atentados del 11-S en EE.UU. cambiaron la inteligencia y la seguridad en el mundo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-los-atentados-del-11-s-en-ee-uu-cambiaron-la-inteligencia-y-la-seguridad-en-el-mundo-6/",
+      "fecha": "Fri, 11 Sep 2026 05:11:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los países han aprendido lecciones en materia de estrategia e inteligencia tras varios errores tanto en la previsión como en la respuesta a los ataques del 11 de septiembre de 2001."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo los atentados del 11-S en EE.UU. cambiaron la inteligencia y la seguridad en el mundo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-los-atentados-del-11-s-en-ee-uu-cambiaron-la-inteligencia-y-la-seguridad-en-el-mundo-5/",
+      "fecha": "Fri, 11 Sep 2026 05:11:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los países han aprendido lecciones en materia de estrategia e inteligencia tras varios errores tanto en la previsión como en la respuesta a los ataques del 11 de septiembre de 2001."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo los atentados del 11-S en EE.UU. cambiaron la inteligencia y la seguridad en el mundo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-los-atentados-del-11-s-en-ee-uu-cambiaron-la-inteligencia-y-la-seguridad-en-el-mundo-4/",
+      "fecha": "Fri, 11 Sep 2026 05:11:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los países han aprendido lecciones en materia de estrategia e inteligencia tras varios errores tanto en la previsión como en la respuesta a los ataques del 11 de septiembre de 2001."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo los atentados del 11-S en EE.UU. cambiaron la inteligencia y la seguridad en el mundo",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-los-atentados-del-11-s-en-ee-uu-cambiaron-la-inteligencia-y-la-seguridad-en-el-mundo-3/",
       "fecha": "Fri, 11 Sep 2026 05:11:54 +0000",
       "categoria": "BBC News Mundo",
@@ -705,118 +817,6 @@
       "fecha": "Fri, 11 Sep 2026 03:05:33 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El conjunto colonial aprovechó sus oportunidades, mientras los toros desperdiciaron un penalti y se quedaron sin reacción en el cierre del partido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Superman llega a Netflix: fecha de estreno de la película con David Corenswet",
-      "link": "https://www.prensalibre.com/vida/escenario/superman-llega-a-netflix-fecha-de-estreno-de-la-pelicula-con-david-corenswet/",
-      "fecha": "Fri, 11 Sep 2026 02:50:34 +0000",
-      "categoria": "Escenario",
-      "resumen": "La película “Superman”, protagonizada por David Corenswet, se integrará en los próximos días al catálogo de Netflix, luego de su paso por cines y HBO Max."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Antorchas y desfiles: lanzan plan para reducir basura y mejorar el orden durante las fiestas patrias",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/antorchas-y-desfiles-lanzan-plan-para-reducir-basura-y-mejorar-el-orden-durante-las-fiestas-patrias/",
-      "fecha": "Fri, 11 Sep 2026 02:07:49 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Durante las fiestas patrias, la cantidad de basura aumenta hasta un 30%. Esta iniciativa propone acciones para reducir los residuos generados durante desfiles y antorchas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Suchitepéquez, penúltimo lugar del Apertura 2026, se queda sin técnico tras la renuncia de Manuel Castañeda",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/suchitepequez-ultimo-lugar-del-apertura-2026-se-queda-sin-tecnico-tras-la-renuncia-de-manuel-castaneda-breaking/",
-      "fecha": "Fri, 11 Sep 2026 02:03:56 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El entrenador presentó su renuncia después del empate ante Guastatoya y la Junta Directiva aceptó su salida este jueves; es el segundo técnico que deja al equipo en las primeras ocho jornadas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MP pide cerrar proceso contra exdirigentes de los 48 Cantones por protestas del 2023",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mp-pide-cerrar-proceso-contra-exdirigentes-de-los-48-cantones-por-protestas-del-2023/",
-      "fecha": "Fri, 11 Sep 2026 01:57:04 +0000",
-      "categoria": "Justicia",
-      "resumen": "Fiscalía pidió al juez Mynor Moto cerrar el proceso penal contra cuatro exdirigentes de los 48 Cantones de Totonicapán, procesados por las protestas del 2023."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los desafíos del país acaparan los discursos durante sesión solemne por la Independencia de Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/politica/los-desafios-del-pais-acaparan-los-discursos-durante-sesion-solemne-por-la-independencia-de-guatemala/",
-      "fecha": "Fri, 11 Sep 2026 01:55:54 +0000",
-      "categoria": "Guatemala",
-      "resumen": ".img_fo{\n\t\t\t\t    aspect-ratio: 16/9;\n                    width: 100%;\n                    height: auto;\n                    margin-bottom: 8px;\n                    object-fit: contain;\n\t\t\t\t}\n\t\t\t\n    .canal-whatsapp,\n    .canal-whatsapp:hover,\n    .canal-whatsapp:focus,\n    .canal-whatsapp:visited {\n        text-decoration: none !important;\n    }\n\n    .canal-whatsapp {\n        display: inline-flex;\n        align-items: center;\n        gap: 8px;\n        background: #fff;\n        border-radius: 999px;\n        padding: 6px 14px 6px 6px !important;\n        text-decoration: none;\n    }\n    .canal-wh"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Xelajú MC vs. Cobán Imperial: los Príncipes necesitan reaccionar pero tienen una dura prueba ante los chivos",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-xelaju-mc-vs-coban-imperial-los-principes-necesitan-reaccionar-pero-tienen-una-dura-prueba-ante-los-chivos/",
-      "fecha": "Fri, 11 Sep 2026 01:37:24 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Xelajú llega motivado tras ganar el derbi occidental, mientras Cobán Imperial busca poner fin a su mala racha."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fifa asegura que la decisión sobre la final de 2030 &#8220;se tomará en su debido momento&#8221;",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/fifa-asegura-que-la-decision-sobre-la-final-de-2030-se-tomara-en-su-debido-momento-breaking/",
-      "fecha": "Fri, 11 Sep 2026 00:59:18 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Marruecos asegura que Casablanca albergará el partido por el título, mientras España también reclama la sede y la FIFA insiste en que todavía no ha tomado una decisión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Recorrido del 15 de septiembre del 2026: orden oficial, bloques, bandas participantes y cuál será la ruta del Desfile Cívico Escolar",
-      "link": "https://www.prensalibre.com/vida/escenario/recorrido-del-15-de-septiembre-del-2026-orden-oficial-bloques-bandas-participantes-y-cual-sera-la-ruta-del-desfile-civico-escolar/",
-      "fecha": "Fri, 11 Sep 2026 00:55:38 +0000",
-      "categoria": "Escenario",
-      "resumen": "Decenas de bandas escolares participarán en el Desfile Cívico Escolar que conmemorará 205 años de independencia. Conozca qué bandas recorrerán el Centro Histórico, el orden y la ruta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Blues Festival 2026 en Guatemala: fechas, artistas, entradas y precios",
-      "link": "https://www.prensalibre.com/vida/escenario/blues-festival-2026-en-guatemala-fechas-artistas-entradas-y-precios/",
-      "fecha": "Fri, 11 Sep 2026 00:51:32 +0000",
-      "categoria": "Escenario",
-      "resumen": "Fabiola Roudha y otros artistas se presentarán en el Blues Festival 2026, un evento que celebrará este género musical con cuatro conciertos durante octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Malacateco vs. Antigua GFC: los coloniales buscan acercarse al liderato en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-malacateco-vs-antigua-gfc-los-coloniales-buscan-acercarse-al-liderato-en-el-apertura-2026/",
-      "fecha": "Fri, 11 Sep 2026 00:48:46 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El partido de la octava jornada fue retrasado una hora debido a los bloqueos registrados en distintos puntos del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "11 de septiembre del 2026: más de 100 actividades patrias complicarán el tránsito en la capital; conozca las rutas alternas",
-      "link": "https://www.prensalibre.com/vida/escenario/11-de-septiembre-del-2026-mas-de-100-actividades-patrias-complicaran-el-transito-en-la-capital-conozca-las-rutas-alternas/",
-      "fecha": "Fri, 11 Sep 2026 00:06:23 +0000",
-      "categoria": "Escenario",
-      "resumen": "Debido a las actividades patrias que comenzarán este viernes en Guatemala, las autoridades de tránsito advierten sobre posibles complicaciones en la movilidad vehicular en distintos sectores de la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel-15/",
-      "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel-14/",
-      "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel-13/",
-      "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
     },
     {
       "fuente": "Guatemala.com",
