@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-12T02:15:16.092Z",
+  "actualizado": "2026-09-12T03:14:58.373Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bloqueos en Guatemala: Inconformes disparan durante enfrentamientos en Villa Nueva",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-inconformes-disparan-durante-enfrentamientos-en-villa-nueva/",
+      "fecha": "Sat, 12 Sep 2026 02:33:25 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Durante el operativo para liberar la ruta al Pacífico se han escuchado detonaciones de arma de fuego, sin que hasta ahora se reporten heridos ni fallecidos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Tensión en Zacapa: desalojo en el km 124 al Atlántico deja heridos y vehículos de transporte pesado incendiados",
@@ -468,7 +476,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Bloqueos en Guatemala EN VIVO: Continúan operativos de antimotines y se intensifica bloqueo en la ruta al Pacífico",
+      "titulo": "Bloqueos en Guatemala EN VIVO: Incendios, capturas y disparos marcan la noche mientras continúan cierres en varias rutas",
       "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-en-vivo-carreteras-y-tramos-de-la-capital-afectados-este-11-de-septiembre-breaking/",
       "fecha": "Fri, 11 Sep 2026 12:21:33 +0000",
       "categoria": "Comunitario",
@@ -725,6 +733,30 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel-14/",
+      "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel-13/",
+      "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel-12/",
+      "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel-11/",
       "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
       "categoria": "BBC News Mundo",
@@ -785,38 +817,6 @@
       "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel-3/",
-      "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel-2/",
-      "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-demandara-al-periodico-que-publico-que-emiratos-arabes-unidos-le-advirtio-de-los-ataques-del-7-de-octubre-contra-israel/",
-      "fecha": "Thu, 10 Sep 2026 23:56:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El periódico Haaretz, crítico del gobierno israelí, defiende su reportería, tras publicar extractos de un libro donde aparece la información sobre el supuesto aviso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Verificamos por usted: ¿Realmente aliviará su bolsillo el subsidio de Q39 y Q41 que impulsa el Gobierno? Esto responden economistas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/gasolina-guatemala-combustibles-que-tan-efectiva-sera-la-medida-para-su-bolsillo/",
-      "fecha": "Thu, 10 Sep 2026 23:50:05 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Gobierno busca evitar que el precio de los combustibles siga subiendo en medio de la crisis, pero expertos advierten que el subsidio no necesariamente hará que las familias gasten menos."
     },
     {
       "fuente": "Guatemala.com",
