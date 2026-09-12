@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-12T14:13:33.667Z",
+  "actualizado": "2026-09-12T15:14:06.998Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Léster Martínez recibe el respaldo de Timothy Bradley: “Pronto será campeón absoluto”",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/lester-martinez-recibe-el-respaldo-de-timothy-bradley-pronto-sera-campeon-absoluto-breaking/",
+      "fecha": "Sat, 12 Sep 2026 14:11:37 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El boxeador guatemalteco protagonizó uno de los momentos más emotivos de la conferencia al abrazar a Timothy Bradley, una de sus grandes inspiraciones para ser boxeador profesional."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Sequía récord golpea a Guatemala y el ICC anticipa una época seca crítica desde diciembre",
@@ -669,6 +677,14 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;De mi padre solo encontraron su casco de bombero&#8221;: por qué aún quedan por identificar tantas víctimas 25 años después del 11-S",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/de-mi-padre-solo-encontraron-su-casco-de-bombero-por-que-aun-quedan-por-identificar-tantas-victimas-25-anos-despues-del-11-s-9/",
+      "fecha": "Fri, 11 Sep 2026 10:48:32 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Desde los ataques, las autoridades de Nueva York están trabajando con tecnología nueva y compleja para encontrar rastros de más de 1.000 víctimas no identificadas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;De mi padre solo encontraron su casco de bombero&#8221;: por qué aún quedan por identificar tantas víctimas 25 años después del 11-S",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/de-mi-padre-solo-encontraron-su-casco-de-bombero-por-que-aun-quedan-por-identificar-tantas-victimas-25-anos-despues-del-11-s-8/",
       "fecha": "Fri, 11 Sep 2026 10:48:32 +0000",
       "categoria": "BBC News Mundo",
@@ -801,22 +817,6 @@
       "fecha": "Fri, 11 Sep 2026 06:02:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Eliminar el IDP para siempre. Suspender el IVA a los combustibles por un plazo fijo. Y olvidarse de fondos, topes y ventanillas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La vileza y la dignidad",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-vileza-y-la-dignidad/",
-      "fecha": "Fri, 11 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Función de fiscalización legislativa provoca exabrupto"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las elecciones del 2027 tendrán peso para la elección del próximo presidente de la CSJ",
-      "link": "https://www.prensalibre.com/guatemala/politica/las-elecciones-del-2027-tendran-peso-para-la-eleccion-del-proximo-presidente-de-la-csj/",
-      "fecha": "Fri, 11 Sep 2026 06:01:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La magistrada Claudia Paredes concluye el 12 de octubre una presidencia de solo ocho meses al frente del Poder Judicial, sin el respaldo de todo el pleno."
     },
     {
       "fuente": "Guatemala.com",
