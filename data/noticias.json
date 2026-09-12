@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-12T15:14:06.998Z",
+  "actualizado": "2026-09-12T16:15:05.109Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El oleoducto que transporta cerca del 5% del petróleo mundial y que Arabia Saudita cerró tras un ataque con drones desde Iraq",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-oleoducto-que-transporta-cerca-del-5-del-petroleo-mundial-y-que-arabia-saudita-cerro-tras-un-ataque-con-drones-desde-iraq/",
+      "fecha": "Sat, 12 Sep 2026 16:14:42 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Iraq destituyó a un comandante militar y abrió una investigación sobre el ataque que provino de una zona fronteriza con Irán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué dice la orden que la CC dio al Gobierno para liberar los bloqueos, el plazo que otorgaron y cómo votaron los magistrados",
+      "link": "https://www.prensalibre.com/guatemala/politica/que-dice-la-orden-que-la-cc-dio-al-gobierno-para-liberar-los-bloqueos-el-plazo-que-otorgaron-y-como-votaron-los-magistrados/",
+      "fecha": "Sat, 12 Sep 2026 15:10:18 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Sobre la orden del desalojo de bloqueos, dos magistrados votaron en contra por dudar del plazo impuesto al gobierno, otro defiende la decisión al decir que solo resguardan el orden constitucional."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Léster Martínez recibe el respaldo de Timothy Bradley: “Pronto será campeón absoluto”",
@@ -661,6 +677,14 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Es la promesa de Trump de pagar US$5.000 a los votantes de EE.UU. una señal de pánico?",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/es-la-promesa-de-trump-de-pagar-us5-000-a-los-votantes-de-ee-uu-una-senal-de-panico-2/",
+      "fecha": "Fri, 11 Sep 2026 11:23:27 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Incluso para los estándares poco convencionales del propio Trump, su promesa a los votantes fue extraña, escribe la editora para América del Norte, Sarah Smith."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Es la promesa de Trump de pagar US$5.000 a los votantes de EE.UU. una señal de pánico?",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/es-la-promesa-de-trump-de-pagar-us5-000-a-los-votantes-de-ee-uu-una-senal-de-panico/",
       "fecha": "Fri, 11 Sep 2026 11:23:27 +0000",
       "categoria": "BBC News Mundo",
@@ -793,30 +817,6 @@
       "fecha": "Fri, 11 Sep 2026 06:05:00 +0000",
       "categoria": "Salud y Familia",
       "resumen": "Los científicos se han centrado en investigar cuánta proteína puede utilizar nuestro cuerpo para desarrollar y mantener la masa muscular."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La factura de un país bloqueado",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-factura-de-un-pais-bloqueado/",
-      "fecha": "Fri, 11 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Resulta paradójico protestar contra el combustible caro bloqueando las carreteras y encareciendo aún más la economía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Retroceso educativo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/retroceso-educativo/",
-      "fecha": "Fri, 11 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Guatemala ocupa uno de los últimos lugares en materia educativa en América Latina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡No más subsidios “temporales”!",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/no-mas-subsidios-temporales/",
-      "fecha": "Fri, 11 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Eliminar el IDP para siempre. Suspender el IVA a los combustibles por un plazo fijo. Y olvidarse de fondos, topes y ventanillas."
     },
     {
       "fuente": "Guatemala.com",
