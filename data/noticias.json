@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-12T19:12:10.049Z",
+  "actualizado": "2026-09-12T20:14:50.040Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Semana laboral de 32 horas? Presentan ley en EE.UU. para reducir la jornada sin recortar salarios",
+      "link": "https://www.prensalibre.com/internacional/semana-laboral-de-32-horas-presentan-ley-en-ee-uu-para-reducir-la-jornada-sin-recortar-salarios/",
+      "fecha": "Sat, 12 Sep 2026 20:05:04 +0000",
+      "categoria": "Internacional",
+      "resumen": "La propuesta para reducir la jornada se vincula con el impacto que tendrán la inteligencia artificial y la robótica en el empleo durante las próximas décadas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué no se han formado huracanes en el Atlántico en 2026 y qué tiene que ver el fenómeno El Niño",
+      "link": "https://www.prensalibre.com/vida/ciencia/por-que-no-se-han-formado-huracanes-en-el-atlantico-en-2026-y-que-tiene-que-ver-el-fenomeno-el-nino/",
+      "fecha": "Sat, 12 Sep 2026 19:17:24 +0000",
+      "categoria": "Ciencia",
+      "resumen": "La temporada de huracanes del Atlántico 2026 acumula la espera más larga registrada sin un huracán, una marca que expertos atribuyen a un intenso fenómeno de El Niño."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tania Head, la impostora española que engañó al mundo al hacerse pasar por sobreviviente del 11-S",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/tania-head-la-impostora-espanola-que-engano-al-mundo-al-hacerse-pasar-por-sobreviviente-del-11-s/",
+      "fecha": "Sat, 12 Sep 2026 19:17:04 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Tania Head afirmó haber escapado de la Torre Sur tras los ataques al World Trade Center, pero no era cierto. Tampoco ese era su verdadero nombre."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Video &#124; Migrante sale de un vehículo y cruza tres carriles para escapar de la Patrulla Fronteriza",
@@ -677,6 +701,22 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;¡Jefa, jefa, jefa!&#8221;: quién es Ilya Espino de Marotta, la ingeniera de casco rosa que al frente del Canal de Panamá supervisa parte del comercio mundial",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jefa-jefa-jefa-quien-es-ilya-espino-de-marotta-la-ingeniera-de-casco-rosa-que-al-frente-del-canal-de-panama-supervisa-parte-del-comercio-mundial-3/",
+      "fecha": "Fri, 11 Sep 2026 15:46:42 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Espino de Marotta asumió el liderazgo de la vía interoceánica esta semana. Durante su discurso, subrayó sus 41 años de trayectoria en el Canal y afirmó que llegó al puesto por sus propios méritos y trabajo, y no por cuestiones de género."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;¡Jefa, jefa, jefa!&#8221;: quién es Ilya Espino de Marotta, la ingeniera de casco rosa que al frente del Canal de Panamá supervisa parte del comercio mundial",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jefa-jefa-jefa-quien-es-ilya-espino-de-marotta-la-ingeniera-de-casco-rosa-que-al-frente-del-canal-de-panama-supervisa-parte-del-comercio-mundial-2/",
+      "fecha": "Fri, 11 Sep 2026 15:46:42 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Espino de Marotta asumió el liderazgo de la vía interoceánica esta semana. Durante su discurso, subrayó sus 41 años de trayectoria en el Canal y afirmó que llegó al puesto por sus propios méritos y trabajo, y no por cuestiones de género."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;¡Jefa, jefa, jefa!&#8221;: quién es Ilya Espino de Marotta, la ingeniera de casco rosa que al frente del Canal de Panamá supervisa parte del comercio mundial",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jefa-jefa-jefa-quien-es-ilya-espino-de-marotta-la-ingeniera-de-casco-rosa-que-al-frente-del-canal-de-panama-supervisa-parte-del-comercio-mundial/",
       "fecha": "Fri, 11 Sep 2026 15:46:42 +0000",
       "categoria": "BBC News Mundo",
@@ -777,46 +817,6 @@
       "fecha": "Fri, 11 Sep 2026 11:23:27 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Incluso para los estándares poco convencionales del propio Trump, su promesa a los votantes fue extraña, escribe la editora para América del Norte, Sarah Smith."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gobierno mantiene bajo revisión la subasta 5G en Guatemala",
-      "link": "https://www.prensalibre.com/economia/gobierno-mantiene-bajo-revision-la-subasta-5g-en-guatemala/",
-      "fecha": "Fri, 11 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La subasta 5G en Guatemala continúa bajo revisión del Gobierno tres años después de su adjudicación, mientras la PGN afirma que aún no ha recibido el expediente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;De mi padre solo encontraron su casco de bombero&#8221;: por qué aún quedan por identificar tantas víctimas 25 años después del 11-S",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/de-mi-padre-solo-encontraron-su-casco-de-bombero-por-que-aun-quedan-por-identificar-tantas-victimas-25-anos-despues-del-11-s-9/",
-      "fecha": "Fri, 11 Sep 2026 10:48:32 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Desde los ataques, las autoridades de Nueva York están trabajando con tecnología nueva y compleja para encontrar rastros de más de 1.000 víctimas no identificadas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;De mi padre solo encontraron su casco de bombero&#8221;: por qué aún quedan por identificar tantas víctimas 25 años después del 11-S",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/de-mi-padre-solo-encontraron-su-casco-de-bombero-por-que-aun-quedan-por-identificar-tantas-victimas-25-anos-despues-del-11-s-8/",
-      "fecha": "Fri, 11 Sep 2026 10:48:32 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Desde los ataques, las autoridades de Nueva York están trabajando con tecnología nueva y compleja para encontrar rastros de más de 1.000 víctimas no identificadas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;De mi padre solo encontraron su casco de bombero&#8221;: por qué aún quedan por identificar tantas víctimas 25 años después del 11-S",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/de-mi-padre-solo-encontraron-su-casco-de-bombero-por-que-aun-quedan-por-identificar-tantas-victimas-25-anos-despues-del-11-s-7/",
-      "fecha": "Fri, 11 Sep 2026 10:48:32 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Desde los ataques, las autoridades de Nueva York están trabajando con tecnología nueva y compleja para encontrar rastros de más de 1.000 víctimas no identificadas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;De mi padre solo encontraron su casco de bombero&#8221;: por qué aún quedan por identificar tantas víctimas 25 años después del 11-S",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/de-mi-padre-solo-encontraron-su-casco-de-bombero-por-que-aun-quedan-por-identificar-tantas-victimas-25-anos-despues-del-11-s-6/",
-      "fecha": "Fri, 11 Sep 2026 10:48:32 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Desde los ataques, las autoridades de Nueva York están trabajando con tecnología nueva y compleja para encontrar rastros de más de 1.000 víctimas no identificadas."
     },
     {
       "fuente": "Guatemala.com",
