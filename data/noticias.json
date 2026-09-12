@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-12T21:14:35.288Z",
+  "actualizado": "2026-09-12T22:13:38.457Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Yanet “N”? La estadounidense detenida con armas y ligada al Cártel de Sinaloa",
+      "link": "https://www.prensalibre.com/internacional/quien-es-yanet-n-la-estadounidense-detenida-con-armas-y-ligada-al-cartel-de-sinaloa/",
+      "fecha": "Sat, 12 Sep 2026 22:01:16 +0000",
+      "categoria": "Internacional",
+      "resumen": "La estadounidense fue señalada por las autoridades mexicanas como operadora logística para el trasiego de armamento en el estado de Sonora."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Lady Gaga se convirtió en mamá? Esto se sabe de su aparición con Michael Polansky y un bebé recién nacido",
+      "link": "https://www.prensalibre.com/vida/escenario/lady-gaga-se-convirtio-en-mama-esto-se-sabe-de-su-aparicion-con-michael-polansky-y-un-bebe-recien-nacido/",
+      "fecha": "Sat, 12 Sep 2026 22:00:31 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante de Bad Romance fue fotografiada junto a Michael Polansky mientras cargaba a un bebé recién nacido, señalado por medios internacionales como hijo de la pareja. Esto se sabe al respecto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Si pudieron golpear al Louvre, cualquier museo puede ser el siguiente&#8221;: por qué los robos de arte son cada vez más audaces en Europa",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/si-pudieron-golpear-al-louvre-cualquier-museo-puede-ser-el-siguiente-por-que-los-robos-de-arte-son-cada-vez-mas-audaces-en-europa/",
+      "fecha": "Sat, 12 Sep 2026 21:49:46 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los investigadores de delitos artísticos y los expertos en seguridad afirman que los robos en galerías de arte de toda Europa son cada vez más descarados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Doblete de Mbappé y gol de Bellingham: Real Madrid aplastó 4-1 al Rayo Vallecano",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/doblete-de-mbappe-y-gol-de-bellingham-real-madrid-aplasto-4-1-al-rayo-vallecano-breaking/",
+      "fecha": "Sat, 12 Sep 2026 21:23:45 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El francés anotó de penal y sentenció el partido en el tiempo añadido, mientras Carreras y Bellingham completaron la goleada en el Santiago Bernabéu ante el Rayo Vallecano."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué en Massachusetts se cubren o retiran las cámaras Flock en medio del debate por privacidad y uso indebido",
+      "link": "https://www.prensalibre.com/internacional/por-que-en-massachusetts-se-cubren-o-retiran-las-camaras-flock-en-medio-del-debate-por-privacidad-y-uso-indebido/",
+      "fecha": "Sat, 12 Sep 2026 20:52:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "“Estas cámaras de Flock son tan populares como el sarampión”, describieron los vecinos que se oponen al uso de estas cámaras. ¿Qué ha pasado en Estados Unidos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿La IA se salió de control? La razón por la que el director de Anthropic pide desacelerar el avance de esta tecnología",
@@ -124,7 +164,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Emiten alerta roja por la sequía en los municipios de Región Trifinio, ¿qué implica esto?",
+      "titulo": "Vicepresidencia instruye a la Conred declarar alerta roja por la sequía en los municipios de Región Trifinio, ¿qué implica esto?",
       "link": "https://www.prensalibre.com/guatemala/comunitario/emiten-alerta-roja-por-la-sequia-en-los-municipios-de-region-trifinio-breaking/",
       "fecha": "Sat, 12 Sep 2026 16:14:00 +0000",
       "categoria": "Comunitario",
@@ -693,6 +733,14 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "La escalofriante llamada de la azafata Betty Ong desde el primer avión que se estrelló contra las Torres Gemelas el 11-S",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-escalofriante-llamada-de-la-azafata-betty-ong-desde-el-primer-avion-que-se-estrello-contra-las-torres-gemelas-el-11-s-2/",
+      "fecha": "Fri, 11 Sep 2026 16:45:42 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Betty Ong, una de las azafatas del vuelo entre Boston y Los Ángeles, el primero de los dos que hace 25 años terminarían impactando contra el World Trade Center, fue la primera persona en alertar a las autoridades sobre los secuestros de los aviones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La escalofriante llamada de la azafata Betty Ong desde el primer avión que se estrelló contra las Torres Gemelas el 11-S",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-escalofriante-llamada-de-la-azafata-betty-ong-desde-el-primer-avion-que-se-estrello-contra-las-torres-gemelas-el-11-s/",
       "fecha": "Fri, 11 Sep 2026 16:24:43 +0000",
       "categoria": "BBC News Mundo",
@@ -733,6 +781,22 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;¡Jefa, jefa, jefa!&#8221;: quién es Ilya Espino de Marotta, la ingeniera de casco rosa que al frente del Canal de Panamá supervisa parte del comercio mundial",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jefa-jefa-jefa-quien-es-ilya-espino-de-marotta-la-ingeniera-de-casco-rosa-que-al-frente-del-canal-de-panama-supervisa-parte-del-comercio-mundial-6/",
+      "fecha": "Fri, 11 Sep 2026 15:46:42 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Espino de Marotta asumió el liderazgo de la vía interoceánica esta semana. Durante su discurso, subrayó sus 41 años de trayectoria en el Canal y afirmó que llegó al puesto por sus propios méritos y trabajo, y no por cuestiones de género."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;¡Jefa, jefa, jefa!&#8221;: quién es Ilya Espino de Marotta, la ingeniera de casco rosa que al frente del Canal de Panamá supervisa parte del comercio mundial",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jefa-jefa-jefa-quien-es-ilya-espino-de-marotta-la-ingeniera-de-casco-rosa-que-al-frente-del-canal-de-panama-supervisa-parte-del-comercio-mundial-5/",
+      "fecha": "Fri, 11 Sep 2026 15:46:42 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Espino de Marotta asumió el liderazgo de la vía interoceánica esta semana. Durante su discurso, subrayó sus 41 años de trayectoria en el Canal y afirmó que llegó al puesto por sus propios méritos y trabajo, y no por cuestiones de género."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;¡Jefa, jefa, jefa!&#8221;: quién es Ilya Espino de Marotta, la ingeniera de casco rosa que al frente del Canal de Panamá supervisa parte del comercio mundial",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jefa-jefa-jefa-quien-es-ilya-espino-de-marotta-la-ingeniera-de-casco-rosa-que-al-frente-del-canal-de-panama-supervisa-parte-del-comercio-mundial-4/",
       "fecha": "Fri, 11 Sep 2026 15:46:42 +0000",
       "categoria": "BBC News Mundo",
@@ -747,76 +811,12 @@
       "resumen": "Espino de Marotta asumió el liderazgo de la vía interoceánica esta semana. Durante su discurso, subrayó sus 41 años de trayectoria en el Canal y afirmó que llegó al puesto por sus propios méritos y trabajo, y no por cuestiones de género."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;¡Jefa, jefa, jefa!&#8221;: quién es Ilya Espino de Marotta, la ingeniera de casco rosa que al frente del Canal de Panamá supervisa parte del comercio mundial",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jefa-jefa-jefa-quien-es-ilya-espino-de-marotta-la-ingeniera-de-casco-rosa-que-al-frente-del-canal-de-panama-supervisa-parte-del-comercio-mundial-2/",
-      "fecha": "Fri, 11 Sep 2026 15:46:42 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Espino de Marotta asumió el liderazgo de la vía interoceánica esta semana. Durante su discurso, subrayó sus 41 años de trayectoria en el Canal y afirmó que llegó al puesto por sus propios méritos y trabajo, y no por cuestiones de género."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;¡Jefa, jefa, jefa!&#8221;: quién es Ilya Espino de Marotta, la ingeniera de casco rosa que al frente del Canal de Panamá supervisa parte del comercio mundial",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jefa-jefa-jefa-quien-es-ilya-espino-de-marotta-la-ingeniera-de-casco-rosa-que-al-frente-del-canal-de-panama-supervisa-parte-del-comercio-mundial/",
-      "fecha": "Fri, 11 Sep 2026 15:46:42 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Espino de Marotta asumió el liderazgo de la vía interoceánica esta semana. Durante su discurso, subrayó sus 41 años de trayectoria en el Canal y afirmó que llegó al puesto por sus propios méritos y trabajo, y no por cuestiones de género."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Clima en Guatemala: Pronóstico para el 12 y 13 de septiembre 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-12-y-13-septiembre-2026.html",
       "fecha": "Fri, 11 Sep 2026 15:23:24 +0000",
       "categoria": "Comunidad",
       "resumen": "Insivumeh prevé temperaturas de hasta 38°C para el fin de semana del 12 y 13 de septiembre de 2026. ¡Conoce más del pronóstico del clima en Guatemala!\nThe post Clima en Guatemala: Pronóstico para el 12 y 13 de septiembre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso Industrial 2026: sector apuesta por IA, energía y certeza jurídica para atraer inversión",
-      "link": "https://www.prensalibre.com/economia/congreso-industrial-2026-sector-apuesta-por-ia-energia-y-certeza-juridica-para-atraer-inversion/",
-      "fecha": "Fri, 11 Sep 2026 15:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La industria guatemalteca identifica la inteligencia artificial, la energía, la infraestructura y la certeza jurídica como factores clave para competir y atraer más inversión extranjera."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El ataque a las Torres Gemelas: Cuándo fue el 9/11, dónde estaban y cuántas personas murieron",
-      "link": "https://www.prensalibre.com/internacional/el-ataque-a-las-torres-gemelas-cuando-fue-el-9-11-donde-estaban-y-cuantas-personas-murieron/",
-      "fecha": "Fri, 11 Sep 2026 14:40:27 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los cuatro aviones fueron secuestrados por 19 terroristas afiliados a Al Qaeda, una organización terrorista, paramilitar y yihadista fundada por Osama bin Laden."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“España tiene que albergar la final”: el reclamo que enciende la disputa por el Mundial 2030",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/espana-tiene-que-albergar-la-final-el-reclamo-que-enciende-la-disputa-por-el-mundial-2030-breaking/",
-      "fecha": "Fri, 11 Sep 2026 14:22:58 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Rafael Louzán respondió a las declaraciones de Marruecos y dejó clara la postura de la federación española."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las 2 causas científicas por las que se cayeron las Torres Gemelas tras el impacto de los aviones el 11 de septiembre de 2001",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-2-causas-cientificas-por-las-que-se-cayeron-las-torres-gemelas-tras-el-impacto-de-los-aviones-el-11-de-septiembre-de-2001/",
-      "fecha": "Fri, 11 Sep 2026 14:13:55 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Una serie de fenómenos físicos y químicos desataron una catástrofe que nadie, para ese entonces, era capaz de imaginar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuándo podría empezar el subsidio a la gasolina y diésel en Guatemala?",
-      "link": "https://www.prensalibre.com/guatemala/cuando-podria-empezar-el-apoyo-temporal-social-al-combustible-en-guatemala/",
-      "fecha": "Fri, 11 Sep 2026 14:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El nuevo apoyo social temporal a los combustibles enfrenta un retraso y todavía no tiene fecha para comenzar a aplicarse. Esto es lo que falta para que los precios aprobados puedan entrar en vigor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE.UU. y el resto del mundo conmemoran los 25 años de los ataques del 11 de septiembre",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ee-uu-y-el-resto-del-mundo-conmemoran-los-25-anos-de-los-ataques-del-11-de-septiembre/",
-      "fecha": "Fri, 11 Sep 2026 13:56:19 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Con casi 3.000 muertos, el 11-S fue y es el mayor ataque en suelo estadounidense de la historia. Sobrevivientes y familiares de víctimas de 77 países se reúnen por el aniversario en ceremonias organizadas en los tres lugares donde se produjeron los impactos: Nueva York, Virginia y Pensilvania."
     },
     {
       "fuente": "Guatemala.com",
