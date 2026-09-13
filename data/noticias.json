@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-09-13T05:13:52.966Z",
+  "actualizado": "2026-09-13T06:23:20.286Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La advertencia",
+      "link": "https://www.prensalibre.com/opinion/caricatura/la-advertencia/",
+      "fecha": "Sun, 13 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Llevar la luz",
+      "link": "https://www.prensalibre.com/opinion/editorial/llevar-la-luz/",
+      "fecha": "Sun, 13 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "La libertad se firma hoy con espíritu crítico, coherencia ética e ingenio ciudadano."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Conquistados o conquistadores?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/conquistados-o-conquistadores/",
+      "fecha": "Sun, 13 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Ser conquistadores de nuestro presente y dueños de nuestro futuro, en lugar de conquistados por la mediocridad, el pesimismo y la costumbre, es la actitud que este país necesita multiplicar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala no sale del hoyo porque sigue cavando",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/guatemala-no-sale-del-hoyo-porque-sigue-cavando/",
+      "fecha": "Sun, 13 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El país no sale del hoyo porque insiste en cavar con las mismas prácticas que lo hundieron."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¡Uf, qué peligroso!",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/uf-que-peligroso/",
+      "fecha": "Sun, 13 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El cobro de multas de CBP llegaría hasta comunidades sin policía y controles territoriales paralelos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La puerta de las lamentaciones",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-puerta-de-las-lamentaciones/",
+      "fecha": "Sun, 13 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La crisis del estrecho de Ormuz amenaza ahora al mar Rojo y, por consecuencia, al resto del mundo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy domingo 13 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-domingo-13-de-septiembre-de-2026/",
+      "fecha": "Sun, 13 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Por qué la figura de Mao sigue tan vigente en China 50 años después de su muerte",
@@ -747,68 +803,12 @@
       "resumen": "Cámara de Comercio, Agexport, CIG y Camagro cuestionan los cierres de carreteras y piden al Ejecutivo garantizar la libre locomoción."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Fue el malo de Sebastián&#8221;: cómo el hijo de Jonathan Meléndez identificó al presunto asesino de su familia",
-      "link": "https://www.prensalibre.com/internacional/fue-el-malo-de-sebastian-como-el-hijo-de-jonathan-melendez-identifico-al-presunto-asesino-de-su-familia/",
-      "fecha": "Fri, 11 Sep 2026 18:39:42 +0000",
-      "categoria": "Internacional",
-      "resumen": "El hijo del tecladista de Camilo Séptimo, único sobreviviente del crimen contra su familia, habría identificado al sospechoso durante una audiencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las 2 causas científicas por las que se derrumbaron las Torres Gemelas tras el impacto de los aviones el 11 de septiembre de 2001",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-2-causas-cientificas-por-las-que-se-derrumbaron-las-torres-gemelas-tras-el-impacto-de-los-aviones-el-11-de-septiembre-de-2001/",
-      "fecha": "Fri, 11 Sep 2026 18:38:44 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Una serie de fenómenos físicos y químicos desataron una catástrofe que nadie, para ese entonces, era capaz de imaginar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "25 años del 11-S: quién fue el arquitecto de los ataques que sigue detenido en Guantánamo y otras 5 preguntas básicas",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/25-anos-del-11-s-quien-fue-el-arquitecto-de-los-ataques-que-sigue-detenido-en-guantanamo-y-otras-5-preguntas-basicas-2/",
-      "fecha": "Fri, 11 Sep 2026 18:38:00 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los atentados del 11 de septiembre de 2001 dejaron miles de muertos y marcaron un punto de inflexión en la política internacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Suman 30 años conectando industria, innovación y futuro",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/suman-30-anos-conectando-industria-innovacion-y-futuro/",
-      "fecha": "Fri, 11 Sep 2026 18:26:10 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "El encuentro reúne a más de 120 empresas, generando un espacio para negocios, innovación, capacitación y encadenamientos que fortalecen la industria nacional, la Feria Alimentaria 2026 abrió sus puertas, reafirmando su aporte al dinamismo económico del sector gastronómico y alimentario de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Enfrentamientos en Cuyotenango durante intento de desalojo de bloqueo en la ruta al suroccidente",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/enfrentamientos-en-cuyotenango-durante-intento-de-desalojo-de-bloqueo-en-la-ruta-al-suroccidente-breaking/",
-      "fecha": "Fri, 11 Sep 2026 18:24:23 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Tensión en la ruta al suroccidente y en área urbana de Cuyotenango durante intento de desalojo en la ruta al suroccidente."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Agua Pura Salvavidas y Fundecán invitan a las mujeres guatemaltecas a realizar el autoexamen para prevenir el cáncer de mama",
       "link": "https://www.guatemala.com/noticias/sociedad/agua-pura-salvavidas-fundecan-promueven-prevencion-deteccion-temprana-cancer-de-mama.html",
       "fecha": "Fri, 11 Sep 2026 18:13:38 +0000",
       "categoria": "Sociedad",
       "resumen": "Agua Pura Salvavidas y Fundecán invitan a las mujeres guatemaltecas a cuidar de su salud y realizar el autoexamen para prevenir el cáncer de mama.\nThe post Agua Pura Salvavidas y Fundecán invitan a las mujeres guatemaltecas a realizar el autoexamen para prevenir el cáncer de mama appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Conred declara alerta anaranjada en Guatemala por impacto de la sequía",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/conred-declara-alerta-anaranjada-en-guatemala-por-impacto-de-la-sequia-breaking/",
-      "fecha": "Fri, 11 Sep 2026 17:58:33 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Se reportan daños en 138 municipios de Guatemala por la variabilidad climática, según datos oficiales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo hacer una antorcha para la Independencia: dos opciones para fabricarla en casa",
-      "link": "https://www.prensalibre.com/vida/como-hacer-una-antorcha-para-la-independencia-dos-opciones-para-fabricarla-en-casa/",
-      "fecha": "Fri, 11 Sep 2026 17:34:58 +0000",
-      "categoria": "Vida",
-      "resumen": "Como símbolo de libertad, las antorchas forman parte de las celebraciones por la Independencia de Guatemala. Conozca dos opciones para elaborarlas en casa, una sin fuego y otra tradicional."
     },
     {
       "fuente": "Guatemala.com",
