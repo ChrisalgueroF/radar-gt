@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-13T00:22:25.227Z",
+  "actualizado": "2026-09-13T01:12:45.765Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Marquense vs. San Pedro: siga el minuto a minuto de la novena jornada del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-marquense-vs-san-pedro-siga-el-minuto-a-minuto-de-la-novena-jornada-del-apertura-2026-breaking/",
+      "fecha": "Sun, 13 Sep 2026 01:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los leones reciben a los gallos este sábado a las 8:00 PM en el estadio Marquesa de La Ensenada en un duelo entre dos equipos del departamento de San Marcos donde San Pedro buscará meter presión a los líderes del torneo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué pasó con el concierto de Ozuna en Guatemala? Esto se sabe de la cancelación y las fechas para el reembolso de las entradas",
+      "link": "https://www.prensalibre.com/vida/escenario/que-paso-con-el-concierto-de-ozuna-en-guatemala-esto-se-sabe-de-la-cancelacion-y-las-fechas-para-el-reembolso-de-las-entradas/",
+      "fecha": "Sun, 13 Sep 2026 00:56:28 +0000",
+      "categoria": "Escenario",
+      "resumen": "Este 12 de septiembre, los fanáticos de Ozuna esperaban disfrutar de su música en Guatemala; sin embargo, el concierto fue cancelado dos días antes. Esto se sabe sobre la cancelación y el proceso para solicitar el reembolso de las entradas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a 11 presuntos miembros de &#8220;Los Chapitos&#8221; vinculados al secuestro y muerte de diez mineros en Sinaloa",
+      "link": "https://www.prensalibre.com/internacional/capturan-a-11-presuntos-miembros-de-los-chapitos-vinculados-al-secuestro-y-muerte-de-diez-mineros-en-sinaloa/",
+      "fecha": "Sun, 13 Sep 2026 00:46:43 +0000",
+      "categoria": "Internacional",
+      "resumen": "Elementos del Ejército y de la Secretaría de Seguridad Pública de Sinaloa detuvieron a once hombres señalados como integrantes de la facción de \"Los Chapitos\", presuntamente ligados a \"El Casco\"."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "MP aún no recibe denuncias del Ejecutivo por bloqueos y Gobernación explica por qué no las ha presentado",
@@ -9,6 +33,14 @@
       "fecha": "Sun, 13 Sep 2026 00:03:42 +0000",
       "categoria": "Justicia",
       "resumen": "El MP aún no recibe denuncias del Ejecutivo por los bloqueos, mientras Gobernación afirma que necesita reunir más elementos para sustentar una denuncia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gobierno dice haber cumplido orden de la CC sobre los bloqueos y cuestiona plazo de seis horas que se le otorgó",
+      "link": "https://www.prensalibre.com/guatemala/justicia/gobierno-dice-haber-cumplido-orden-de-la-cc-sobre-los-bloqueos-y-cuestiona-plazo-de-seis-horas-que-se-le-otorgo/",
+      "fecha": "Sat, 12 Sep 2026 23:53:53 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Sin la presencia de Bernardo Arévalo, ministros informaron sobre el desalojo de bloqueos que exigían su renuncia y protestaban por el alza de los combustibles."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,38 +809,6 @@
       "fecha": "Fri, 11 Sep 2026 16:56:05 +0000",
       "categoria": "Internacional",
       "resumen": "Un bombero mexicano apoyó en las labores de rescate durante el 11 de septiembre de 2001, a pesar de no pertenecer al Departamento de Bomberos de Nueva York."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Identifican a quien encabeza el bloqueo en La Bethania y pide firmas para la renuncia de Arévalo",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/identifican-a-cabecilla-del-bloqueo-en-la-bethania-que-pide-firmas-para-la-renuncia-de-arevalo/",
-      "fecha": "Fri, 11 Sep 2026 16:53:43 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Oswaldo Villalta vuelve a encabezar una protesta en el mismo sector donde hubo bloqueos en el 2023; ahora promueve la recolección de firmas para pedir la renuncia del presidente Bernardo Arévalo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "CC ordena a Mingob y PNC liberar bloqueos en seis horas o sus altos mandos serán destituidos",
-      "link": "https://www.prensalibre.com/guatemala/politica/cc-ordena-a-mingob-y-pnc-liberar-bloqueos-en-seis-horas-o-sus-altos-mandos-seran-destituidos/",
-      "fecha": "Fri, 11 Sep 2026 16:52:44 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La decisión no fue unánime, la presidenta Annabella Morfín, y Luis Fernando Bermejo, suplente, emitieron votos disidentes para no presionar al gobierno."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La escalofriante llamada de la azafata Betty Ong desde el primer avión que se estrelló contra las Torres Gemelas el 11-S",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-escalofriante-llamada-de-la-azafata-betty-ong-desde-el-primer-avion-que-se-estrello-contra-las-torres-gemelas-el-11-s-6/",
-      "fecha": "Fri, 11 Sep 2026 16:45:42 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Betty Ong, una de las azafatas del vuelo entre Boston y Los Ángeles, el primero de los dos que hace 25 años terminarían impactando contra el World Trade Center, fue la primera persona en alertar a las autoridades sobre los secuestros de los aviones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La escalofriante llamada de la azafata Betty Ong desde el primer avión que se estrelló contra las Torres Gemelas el 11-S",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-escalofriante-llamada-de-la-azafata-betty-ong-desde-el-primer-avion-que-se-estrello-contra-las-torres-gemelas-el-11-s-5/",
-      "fecha": "Fri, 11 Sep 2026 16:45:42 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Betty Ong, una de las azafatas del vuelo entre Boston y Los Ángeles, el primero de los dos que hace 25 años terminarían impactando contra el World Trade Center, fue la primera persona en alertar a las autoridades sobre los secuestros de los aviones."
     },
     {
       "fuente": "Guatemala.com",
