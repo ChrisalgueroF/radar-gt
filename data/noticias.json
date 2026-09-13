@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-13T20:14:52.651Z",
+  "actualizado": "2026-09-13T21:13:59.569Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuál ha sido el costo de los bloqueos en diferentes sectores de Guatemala",
+      "link": "https://www.prensalibre.com/economia/cual-ha-sido-el-costo-de-los-bloqueos-en-guatemala-en-diferentes-sectores-del-pais/",
+      "fecha": "Sun, 13 Sep 2026 19:59:04 +0000",
+      "categoria": "Economía",
+      "resumen": "Los bloqueos registrados en Guatemala por el alza de los combustibles acumulan costos para el comercio exterior, restaurantes, turismo y distribución, mientras aumentan los riesgos logísticos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Continúa la contingencia ambiental en el Valle de México: La calidad del aire podría ser &#8220;muy mala&#8221;",
@@ -9,6 +17,22 @@
       "fecha": "Sun, 13 Sep 2026 19:54:44 +0000",
       "categoria": "Internacional",
       "resumen": "Las autoridades recomendaron a la población evitar actividades al aire libre, en especial a niños, adultos mayores, mujeres embarazadas y personas con enfermedades respiratorias o cardiovasculares."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Representante de la Bethania no descarta seguir con medidas de hecho y cuestiona a Bernardo Arévalo",
+      "link": "https://www.prensalibre.com/guatemala/politica/representante-de-la-bethania-no-descarta-seguir-con-medidas-de-hecho-y-cuestiona-a-bernardo-arevalo/",
+      "fecha": "Sun, 13 Sep 2026 19:47:06 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Marlon Bosque, del Consejo Comunitario de Desarrollo de Guatemala (Cocode), no descarta más medidas de hecho contra la gestión de Arévalo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Julián Álvarez sufre una lesión y preocupa al Atlético antes del derbi ante Real Madrid",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/julian-alvarez-sufre-una-lesion-y-preocupa-al-atletico-antes-del-derbi-ante-real-madrid-breaking/",
+      "fecha": "Sun, 13 Sep 2026 19:25:14 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El delantero argentino sufrió una sobrecarga muscular durante el entrenamiento del sábado y el club confirmó su ausencia para el partido ante Real Sociedad este domingo en lo que es un golpe importante para el equipo de Diego Simeone."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,30 +801,6 @@
       "fecha": "Sat, 12 Sep 2026 03:35:47 +0000",
       "categoria": "Economía",
       "resumen": "La calificadora proyecta un crecimiento económico de 4.1% para el 2026 y destaca la baja deuda y las reservas internacionales, pero advierte que la debilidad institucional continúa limitando el perfil crediticio del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Incautan 720 kilos de cocaína en Puerto San José valorados en Q97.9 millones: cargamento tenía como destino México",
-      "link": "https://www.prensalibre.com/guatemala/justicia/incautan-720-kilos-de-cocaina-en-puerto-san-jose-valorados-en-q97-9-millones-cargamento-tenia-como-destino-mexico/",
-      "fecha": "Sat, 12 Sep 2026 03:10:29 +0000",
-      "categoria": "Justicia",
-      "resumen": "Un operativo antinarcótico permitió localizar cientos de paquetes con cocaína dentro de un vehículo en la costa del Pacífico de Guatemala. Las autoridades investigan la procedencia y ruta del cargamento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Emma Heming Willis revela cómo es vivir con Bruce Willis tras su diagnóstico de demencia frontotemporal",
-      "link": "https://www.prensalibre.com/vida/escenario/emma-heming-willis-revela-como-es-vivir-con-bruce-willis-tras-su-diagnostico-de-demencia-frontotemporal/",
-      "fecha": "Sat, 12 Sep 2026 03:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Conocido principalmente por su papel de John McClane en Duro de matar, el actor Bruce Willis fue diagnosticado en el 2023 con demencia frontotemporal. Su esposa habló sobre cómo es vivir con una persona que padece esta enfermedad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bloqueos en Guatemala: Inconformes disparan durante enfrentamientos en Villa Nueva",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-inconformes-disparan-durante-enfrentamientos-en-villa-nueva/",
-      "fecha": "Sat, 12 Sep 2026 02:33:25 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Durante el operativo para liberar la ruta al Pacífico se han escuchado detonaciones de arma de fuego, sin que hasta ahora se reporten heridos ni fallecidos."
     },
     {
       "fuente": "Guatemala.com",
