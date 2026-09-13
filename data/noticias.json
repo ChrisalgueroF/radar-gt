@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-13T16:15:00.754Z",
+  "actualizado": "2026-09-13T17:13:12.370Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Con más de mil equipos: así fue descubierta una granja clandestina de criptomonedas en México",
+      "link": "https://www.prensalibre.com/internacional/con-mas-de-mil-equipos-asi-fue-descubierta-una-granja-clandestina-de-criptomonedas-en-mexico/",
+      "fecha": "Sun, 13 Sep 2026 16:58:24 +0000",
+      "categoria": "Internacional",
+      "resumen": "Este caso forma parte de una nueva línea de investigación ante la incursión de grupos criminales relacionados con el narcotráfico en actividades financieras y tecnológicas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Barcelona venció 4-2 al Levante con doblete de Lamine Yamal y mantiene su invicto en LaLiga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-vencio-3-2-al-levante-con-doblete-de-lamine-yamal-y-mantiene-su-invicto-en-laliga-breaking/",
+      "fecha": "Sun, 13 Sep 2026 16:22:11 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Los azulgranas sufrieron en los minutos finales pero venció al Levante en el tiempo añadido para mantener al Barcelona como líder invicto con cinco victorias consecutivas en LaLiga 2026-27."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; Mixco vs. Aurora FC: siga el minuto a minuto de la novena jornada del Apertura 2026",
@@ -20,11 +36,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Fallece &#8220;Pinula&#8221; Contreras a los 91 años: el goleador histórico que marcó una época en Comunicaciones",
+      "titulo": "¿Quién era “Pinula” Contreras? El legado que deja la leyenda de Comunicaciones",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/fallece-pinula-contreras-a-los-91-anos-el-goleador-historico-que-marco-una-epoca-en-comunicaciones-breaking/",
       "fecha": "Sun, 13 Sep 2026 15:48:59 +0000",
       "categoria": "Fútbol Nacional",
-      "resumen": "El exfutbolista Francisco López “Pinula” Contreras, figura histórica de Comunicaciones y autor del gol que dio a los cremas su primer título en 1956, falleció a los 91 años."
+      "resumen": "El exfutbolista Francisco López “Pinula” Contreras, figura histórica de Comunicaciones y autor del gol que dio a los cremas su primer título en 1956. Falleció este domingo 13 de septiembre a los 91 años."
     },
     {
       "fuente": "Prensa Libre",
@@ -41,6 +57,14 @@
       "fecha": "Sun, 13 Sep 2026 15:30:00 +0000",
       "categoria": "Comunitario",
       "resumen": "El Insivumeh prevé altas temperaturas durante las fiestas de Independencia y recomienda tomar precauciones ante el calor durante las actividades del 14 y15 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Embajada de Estados Unidos en Guatemala enfatiza que no tolerará la &#8220;narcopolítica&#8221; en la región",
+      "link": "https://www.prensalibre.com/guatemala/politica/embajada-de-estados-unidos-en-guatemala-enfatiza-que-no-tolerara-la-narcopolitica-en-la-region/",
+      "fecha": "Sun, 13 Sep 2026 15:29:48 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Analistas advierten que para las elecciones 2027 en Guatemala, los grupos del narcotráfico, además de ser posibles, financistas buscarían participar como candidatos."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,30 +801,6 @@
       "fecha": "Fri, 11 Sep 2026 21:52:36 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Durante un cuarto de siglo la polémica ha acompañado a \"El hombre que cae\", una de las fotografías más impactantes de los atentados contra las Torres Gemelas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Festividades patrias 2026: Emetra proyecta la movilización de al menos dos millones de personas entre el 5 y el 20 de septiembre por actividades",
-      "link": "https://www.prensalibre.com/vida/escenario/festividades-patrias-2026-emetra-proyecta-la-movilizacion-de-al-menos-dos-millones-de-personas-entre-el-5-y-el-20-de-septiembre-por-actividades/",
-      "fecha": "Fri, 11 Sep 2026 21:41:47 +0000",
-      "categoria": "Escenario",
-      "resumen": "La Ciudad de Guatemala se convierte en uno de los puntos centrales de la conmemoración de los 205 años de Independencia del país. Durante varios días se prevé la movilización de miles de personas por las actividades patrias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo una mexicana sobrevivió a los atentados del 11-S por desobedecer una orden",
-      "link": "https://www.prensalibre.com/internacional/como-una-mexicana-sobrevivio-a-los-atentados-del-11-s-por-desobedecer-una-orden/",
-      "fecha": "Fri, 11 Sep 2026 21:41:33 +0000",
-      "categoria": "Internacional",
-      "resumen": "Laura Iturbide, académica mexicana, relata cómo sobrevivió a los atentados del 11 de septiembre de 2001 contra las Torres Gemelas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Mutaron a actos delictivos&#8221;: Gobierno investiga si funcionarios públicos financian o promueven bloqueos",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/mutaron-a-actos-delictivos-gobierno-investiga-si-funcionarios-publicos-financian-o-promueven-bloqueos/",
-      "fecha": "Fri, 11 Sep 2026 21:41:17 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Gobernación investiga si funcionarios financian los bloqueos, argumentando que las protestas \"han mutado de manifestaciones a actos delincuenciales\" tras registrase ataques armados contra la Policía."
     },
     {
       "fuente": "Guatemala.com",
