@@ -1,7 +1,55 @@
 {
-  "actualizado": "2026-09-12T23:13:25.611Z",
+  "actualizado": "2026-09-13T00:22:25.227Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP aún no recibe denuncias del Ejecutivo por bloqueos y Gobernación explica por qué no las ha presentado",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mp-aun-no-recibe-denuncias-del-ejecutivo-por-bloqueos-y-gobernacion-explica-por-que-no-las-ha-presentado-breaking/",
+      "fecha": "Sun, 13 Sep 2026 00:03:42 +0000",
+      "categoria": "Justicia",
+      "resumen": "El MP aún no recibe denuncias del Ejecutivo por los bloqueos, mientras Gobernación afirma que necesita reunir más elementos para sustentar una denuncia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El ensayo en el que el director de Anthropic pide ralentizar el desarrollo de la inteligencia artificial",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-ensayo-en-el-que-el-director-de-anthropic-pide-ralentizar-el-desarrollo-de-la-inteligencia-artificial/",
+      "fecha": "Sat, 12 Sep 2026 23:47:40 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La petición surge en medio de la creciente preocupación por que los modelos de IA puedan llegar a ser capaces de causar graves daños en todo el mundo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Maestro Shifu en Guatemala: streamer se asombra al ver al volcán de Fuego y también cuenta el accidente de tránsito que tuvo en el país",
+      "link": "https://www.prensalibre.com/vida/escenario/maestro-shifu-en-guatemala-streamer-se-asombra-al-llegar-al-volcan-de-fuego-y-tambien-cuenta-el-accidente-de-transito-que-tuvo-en-el-pais/",
+      "fecha": "Sat, 12 Sep 2026 23:44:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El streamer conocido como Maestro Shifu  subió el volcán Acatenango y sufrió un percance mientras viajaba por la ruta Interamericana, tras el cual vivió un altercado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "A quién aplicaron la primera condena a prisión perpetua en El Salvador tras la reforma impulsada por Bukele",
+      "link": "https://www.prensalibre.com/internacional/a-quien-aplicaron-la-primera-condena-a-prision-perpetua-en-el-salvador-tras-la-reforma-impulsada-por-bukele/",
+      "fecha": "Sat, 12 Sep 2026 23:38:24 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un tribunal de San Salvador impuso por primera vez en la historia del país una condena a prisión perpetua, luego de que el Congreso eliminara en abril la prohibición constitucional de esta sanción."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Darwin Lom marcó doblete en la goleada 5-0 de The Strongest ante Real Oruro en Bolivia",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/video-darwin-lom-marco-doblete-en-la-goleada-5-0-de-the-strongest-ante-real-oruro-en-bolivia-breaking/",
+      "fecha": "Sat, 12 Sep 2026 23:32:50 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El delantero guatemalteco que regresó de una lesión anotó el primer gol del partido y completó su doblete con un sombrerito en la contundente victoria del Tigre en la jornada 19 de la liga boliviana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Juicio: ¿De qué trata la serie con Eugenio Derbez y Pedro Alonso inspirada en la realidad?",
+      "link": "https://www.prensalibre.com/internacional/el-juicio-de-que-trata-la-serie-con-eugenio-derbez-y-pedro-alonso-inspirada-en-la-realidad/",
+      "fecha": "Sat, 12 Sep 2026 23:30:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "Pedro Alonso había decidido tomarse un descanso cuando recibió la propuesta de Eugenio Derbez, quien lo convenció porque la serie combina una historia basada en crímenes reales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Video: Golazo de Ana Lucía Martínez abrió el marcador en la victoria de Cruz Azul sobre Pumas",
@@ -25,6 +73,14 @@
       "fecha": "Sat, 12 Sep 2026 22:00:31 +0000",
       "categoria": "Escenario",
       "resumen": "La cantante de Bad Romance fue fotografiada junto a Michael Polansky mientras cargaba a un bebé recién nacido, señalado por medios internacionales como hijo de la pareja. Esto se sabe al respecto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bloqueos en Guatemala: Provial da recomendaciones a viajeros en la antesala del descanso del 15 de septiembre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-provial-da-recomendaciones-a-viajeros-en-la-antesala-del-descanso-del-15-de-septiembre/",
+      "fecha": "Sat, 12 Sep 2026 21:50:57 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Los últimos días distintas carreteras han sido bloqueadas por grupos sociales que rechazan el costo de los combustibles y el manejo del gobierno a la crisis."
     },
     {
       "fuente": "Prensa Libre",
@@ -53,9 +109,9 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "¿La IA se salió de control? La razón por la que el director de Anthropic pide desacelerar el avance de esta tecnología",
-      "link": "https://www.prensalibre.com/vida/escenario/la-ia-se-salio-de-control-la-razon-por-la-que-el-director-de-anthropic-pide-desacelerar-el-avance-de-esta-tecnologia/",
+      "link": "https://www.prensalibre.com/vida/tecnologia/la-ia-se-salio-de-control-la-razon-por-la-que-el-director-de-anthropic-pide-desacelerar-el-avance-de-esta-tecnologia/",
       "fecha": "Sat, 12 Sep 2026 20:31:01 +0000",
-      "categoria": "Escenario",
+      "categoria": "Tecnología",
       "resumen": "El acelerado avance de la inteligencia artificial podría generar riesgos globales, advierte el director de Anthropic, mientras Sam Altman, de OpenAI, plantea ralentizar su desarrollo."
     },
     {
@@ -76,7 +132,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "PNC anuncia acciones ante nuevos bloqueos y mantendrá presencia en puntos de conflicto",
+      "titulo": "Qué acciones mantendrá la PNC y el Ejército ante posibles nuevos bloqueos en Guatemala",
       "link": "https://www.prensalibre.com/guatemala/comunitario/pnc-anuncia-acciones-ante-nuevos-bloqueos-y-mantendra-presencia-en-puntos-de-conflicto/",
       "fecha": "Sat, 12 Sep 2026 19:29:50 +0000",
       "categoria": "Comunitario",
@@ -741,74 +797,18 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "La escalofriante llamada de la azafata Betty Ong desde el primer avión que se estrelló contra las Torres Gemelas el 11-S",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-escalofriante-llamada-de-la-azafata-betty-ong-desde-el-primer-avion-que-se-estrello-contra-las-torres-gemelas-el-11-s-6/",
+      "fecha": "Fri, 11 Sep 2026 16:45:42 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Betty Ong, una de las azafatas del vuelo entre Boston y Los Ángeles, el primero de los dos que hace 25 años terminarían impactando contra el World Trade Center, fue la primera persona en alertar a las autoridades sobre los secuestros de los aviones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La escalofriante llamada de la azafata Betty Ong desde el primer avión que se estrelló contra las Torres Gemelas el 11-S",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-escalofriante-llamada-de-la-azafata-betty-ong-desde-el-primer-avion-que-se-estrello-contra-las-torres-gemelas-el-11-s-5/",
       "fecha": "Fri, 11 Sep 2026 16:45:42 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Betty Ong, una de las azafatas del vuelo entre Boston y Los Ángeles, el primero de los dos que hace 25 años terminarían impactando contra el World Trade Center, fue la primera persona en alertar a las autoridades sobre los secuestros de los aviones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La escalofriante llamada de la azafata Betty Ong desde el primer avión que se estrelló contra las Torres Gemelas el 11-S",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-escalofriante-llamada-de-la-azafata-betty-ong-desde-el-primer-avion-que-se-estrello-contra-las-torres-gemelas-el-11-s-4/",
-      "fecha": "Fri, 11 Sep 2026 16:45:42 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Betty Ong, una de las azafatas del vuelo entre Boston y Los Ángeles, el primero de los dos que hace 25 años terminarían impactando contra el World Trade Center, fue la primera persona en alertar a las autoridades sobre los secuestros de los aviones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La escalofriante llamada de la azafata Betty Ong desde el primer avión que se estrelló contra las Torres Gemelas el 11-S",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-escalofriante-llamada-de-la-azafata-betty-ong-desde-el-primer-avion-que-se-estrello-contra-las-torres-gemelas-el-11-s-3/",
-      "fecha": "Fri, 11 Sep 2026 16:45:42 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Betty Ong, una de las azafatas del vuelo entre Boston y Los Ángeles, el primero de los dos que hace 25 años terminarían impactando contra el World Trade Center, fue la primera persona en alertar a las autoridades sobre los secuestros de los aviones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La escalofriante llamada de la azafata Betty Ong desde el primer avión que se estrelló contra las Torres Gemelas el 11-S",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-escalofriante-llamada-de-la-azafata-betty-ong-desde-el-primer-avion-que-se-estrello-contra-las-torres-gemelas-el-11-s-2/",
-      "fecha": "Fri, 11 Sep 2026 16:45:42 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Betty Ong, una de las azafatas del vuelo entre Boston y Los Ángeles, el primero de los dos que hace 25 años terminarían impactando contra el World Trade Center, fue la primera persona en alertar a las autoridades sobre los secuestros de los aviones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La escalofriante llamada de la azafata Betty Ong desde el primer avión que se estrelló contra las Torres Gemelas el 11-S",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-escalofriante-llamada-de-la-azafata-betty-ong-desde-el-primer-avion-que-se-estrello-contra-las-torres-gemelas-el-11-s/",
-      "fecha": "Fri, 11 Sep 2026 16:24:43 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Betty Ong, una de las azafatas del vuelo entre Boston y Los Ángeles, el primero de los dos que hace 25 años terminarían impactando contra el World Trade Center, fue la primera persona en alertar a las autoridades sobre los secuestros de los aviones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Léster Martínez: el boxeador habla este viernes de su próxima pelea y su posible regreso al ring en Guatemala",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-con-lester-martinez-el-boxeador-habla-este-viernes-de-su-proxima-pelea-y-su-posible-regreso-al-ring-en-guatemala/",
-      "fecha": "Fri, 11 Sep 2026 16:19:35 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El campeón interino del CMB ofrece una conferencia prevista para las 11.30 horas, en la que se espera conocer detalles de su siguiente combate y de la ruta que podría llevarlo hacia Canelo Álvarez o Christian Mbilli."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Municipal es líder y Comunicaciones no levanta: El Profe evalúa a los equipos de la Liga Nacional",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/municipal-es-lider-y-comunicaciones-no-levanta-el-profe-evalua-a-los-equipos-de-la-liga-nacional/",
-      "fecha": "Fri, 11 Sep 2026 16:15:10 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El Profe evaluó el desempeño de algunos equipos de la Liga Nacional en el Torneo Apertura 2026 y otorgó \"calificaciones\" de manera irónica y crítica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Municipal se mantiene líder, Antigua y San Pedro meten presión en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-resultados-jornada-8-tabla-posiciones-liga-nacional-breaking/",
-      "fecha": "Fri, 11 Sep 2026 15:54:28 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los rojos siguen en la cima tras ocho jornadas, mientras Antigua GFC y San Pedro sostienen un gran ritmo; Cobán Imperial y Suchitepéquez ocupan los últimos puestos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bloqueos en Guatemala: Grupo que mantiene bloqueo en la Bethania pide  firmar documentos a pilotos para dejarlos pasar",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-en-la-colonia-bethania-motoristas-supuestamente-son-obligados-a-dar-nombre-y-dpi-para-pasar-breaking/",
-      "fecha": "Fri, 11 Sep 2026 15:47:32 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Video muestra que pilotos son obligados a compartir sus datos personales para dejarlos pasar por un bloqueo en la colonia Bethania."
     },
     {
       "fuente": "Guatemala.com",
