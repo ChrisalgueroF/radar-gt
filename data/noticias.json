@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-13T03:15:17.969Z",
+  "actualizado": "2026-09-13T05:13:52.966Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué la figura de Mao sigue tan vigente en China 50 años después de su muerte",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-la-figura-de-mao-sigue-tan-vigente-en-china-50-anos-despues-de-su-muerte/",
+      "fecha": "Sun, 13 Sep 2026 04:18:14 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los videos del difunto líder comunista están acumulando millones de visitas en internet, ya que parece haber un resurgimiento de su popularidad entre algunos jóvenes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Derbi sin goles: Marquense y San Pedro empatan en la novena jornada del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/derbi-sin-goles-marquense-y-san-pedro-empatan-en-la-novena-jornada-del-apertura-2026-breaking/",
+      "fecha": "Sun, 13 Sep 2026 04:00:22 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los leones y los gallos no pudieron encontrar el gol en el estadio Marquesa de La Ensenada en un partido muy disputado pero con pocas ocasiones claras."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan en México a guatemalteco señalado como presunto cabecilla de red de tráfico de armas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-en-mexico-a-guatemalteco-senalado-como-presunto-cabecilla-de-red-de-trafico-de-armas-breaking/",
+      "fecha": "Sun, 13 Sep 2026 03:44:07 +0000",
+      "categoria": "Justicia",
+      "resumen": "Autoridades mexicanas capturaron en Chiapas a un guatemalteco señalado como presunto cabecilla de una organización dedicada al tráfico de armas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Motoladrones aprovechan choque para asaltar a conductores y disparan durante la fuga",
@@ -785,30 +809,6 @@
       "fecha": "Fri, 11 Sep 2026 17:34:58 +0000",
       "categoria": "Vida",
       "resumen": "Como símbolo de libertad, las antorchas forman parte de las celebraciones por la Independencia de Guatemala. Conozca dos opciones para elaborarlas en casa, una sin fuego y otra tradicional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Atentados del 11-S: Cuándo fueron, cuántas víctimas dejaron y cómo eran las Torres Gemelas",
-      "link": "https://www.prensalibre.com/internacional/atentados-del-11-s-cuando-fueron-cuantas-victimas-dejaron-y-como-eran-las-torres-gemelas/",
-      "fecha": "Fri, 11 Sep 2026 17:23:25 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las Torres Gemelas eran, en su momento, los edificios más altos del complejo World Trade Center, un conjunto emblemático de edificios de la Ciudad de Nueva York."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "15 de septiembre en Guatemala: ¿es asueto o feriado y quiénes descansan?",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/15-de-septiembre-en-guatemala-es-asueto-o-feriado-y-quienes-descansan/",
-      "fecha": "Fri, 11 Sep 2026 17:21:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "El 15 de septiembre es una de las fechas más importantes para Guatemala y contempla un descanso a nivel nacional. Esto es lo que establece la ley al respecto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Impacto socioeconómico de dos enfermedades de retina crecerá 64% hasta 2032, según estudio",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/impacto-socioeconomico-de-dos-enfermedades-de-retina-crecera-64-hasta-2032-segun-estudio/",
-      "fecha": "Fri, 11 Sep 2026 17:06:52 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "La carga socioeconómica de la degeneración macular neovascular asociada a la edad (AMD) y el edema macular diabético (DME) alcanzó los US$60 mil millones en 2023 en diez países y podría crecer un 64%, hasta superar los US$98 mil millones en 2032, según un análisis del WifOR Institute."
     },
     {
       "fuente": "Guatemala.com",
