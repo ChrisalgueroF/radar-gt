@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-13T11:13:38.578Z",
+  "actualizado": "2026-09-13T12:18:20.784Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bailes folclóricos, palo ensebado y desfiles de faroles: las otras formas de celebrar la Independencia en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/bailes-folcloricos-palo-ensebado-y-desfiles-de-faroles-las-otras-formas-de-celebrar-la-independencia-en-guatemala/",
+      "fecha": "Sun, 13 Sep 2026 12:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Las fiestas patrias se viven de distintas maneras en Guatemala, donde cada pueblo incorpora sus propias tradiciones, historias y rituales en una misma celebración nacional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cámaras comunitarias en Guatemala: cómo actúa la PNC y qué falta regular",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/camaras-comunitarias-en-guatemala-como-actua-la-pnc-y-que-falta-regular/",
+      "fecha": "Sun, 13 Sep 2026 12:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La PNC ha retirado 427 cámaras en 2026; vecinos de Justo Rufino Barrios, zona 21, defienden seis que aseguran formaban parte de su sistema de seguridad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una versión medieval de la manósfera: lo que el tapiz de Bayeux revela sobre la sangrienta y obscena realidad de la Edad Media",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-version-medieval-de-la-manosfera-lo-que-el-tapiz-de-bayeux-revela-sobre-la-sangrienta-y-obscena-realidad-de-la-edad-media/",
+      "fecha": "Sun, 13 Sep 2026 11:38:10 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En la historia sobre un trono en disputa que narra esta obra maestra del siglo XI, la virilidad se equipara al poder. Es un relato que resulta familiar hoy en día."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Las razones de las grandes empresas de Silicon Valley para ignorar las advertencias sobre los peligros de la IA",
@@ -777,30 +801,6 @@
       "fecha": "Fri, 11 Sep 2026 19:56:45 +0000",
       "categoria": "Guatemala",
       "resumen": "La PNC dio a conocer la captura del hijo del magistrado del Organismo Judicial y de otro hombre por el accidente en el que murió el músico y docente Hugo Girón."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Vi a un gigante herido&#8221; La crónica de un fotoperiodista de Prensa Libre de los atentados del 11 de septiembre",
-      "link": "https://www.prensalibre.com/internacional/vi-a-un-gigante-herido-la-cronica-de-un-fotoperiodista-de-prensa-libre-de-los-atentados-del-11-de-septiembre/",
-      "fecha": "Fri, 11 Sep 2026 19:45:22 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un fotoperiodista de Prensa Libre relata lo que vivió durante su cobertura en Nueva York tras los atentados del 11 de septiembre de 2001."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cacif exige liberar carreteras e investigar quién organiza y financia los bloqueos en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/cacif-exige-liberar-carreteras-e-investigar-quien-organiza-y-financia-los-bloqueos-en-guatemala-breaking/",
-      "fecha": "Fri, 11 Sep 2026 19:39:53 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Cacif exige liberar las carreteras bloqueadas y pide investigar quién financia las protestas, mientras advierte de pérdidas económicas y efectos en el abastecimiento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Verificamos por usted: ¿Es cierto que los bomberos sacaron en brazos a Trump el 11-S?",
-      "link": "https://www.prensalibre.com/internacional/verificamos-por-usted-es-cierto-que-los-bomberos-sacaron-en-brazos-a-trump-el-11-s/",
-      "fecha": "Fri, 11 Sep 2026 18:49:49 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump afirmó que los bomberos lo sacaron de allí ante el temor de un colapso del edificio, en algún momento después del ataque a las Torres Gemelas."
     },
     {
       "fuente": "Guatemala.com",
