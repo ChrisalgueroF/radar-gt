@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-13T19:12:26.250Z",
+  "actualizado": "2026-09-13T20:14:52.651Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Continúa la contingencia ambiental en el Valle de México: La calidad del aire podría ser &#8220;muy mala&#8221;",
+      "link": "https://www.prensalibre.com/internacional/continua-la-contingencia-ambiental-en-el-valle-de-mexico-la-calidad-del-aire-podria-ser-muy-mala/",
+      "fecha": "Sun, 13 Sep 2026 19:54:44 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las autoridades recomendaron a la población evitar actividades al aire libre, en especial a niños, adultos mayores, mujeres embarazadas y personas con enfermedades respiratorias o cardiovasculares."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Lloverá el 14 y 15 de septiembre en Guatemala? Este es el pronóstico del Insivumeh para las fiestas patrias y las recomendaciones",
+      "link": "https://www.prensalibre.com/vida/escenario/llovera-el-14-y-15-de-septiembre-en-guatemala-este-es-el-pronostico-del-insivumeh-para-las-fiestas-patrias-y-las-recomendaciones/",
+      "fecha": "Sun, 13 Sep 2026 19:15:15 +0000",
+      "categoria": "Escenario",
+      "resumen": "La conmemoración de los 205 años de la Independencia trae consigo diversas actividades en Guatemala. Ante las celebraciones, el Insivumeh dio a conocer el pronóstico del clima para el 14 y 15 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Quien gane con la IA, gana”: Trump rechaza las llamadas a ralentizar el desarrollo de esta tecnología",
+      "link": "https://www.prensalibre.com/internacional/quien-gane-con-la-ia-gana-trump-rechaza-las-llamadas-a-ralentizar-el-desarrollo-de-esta-tecnologia/",
+      "fecha": "Sun, 13 Sep 2026 19:13:43 +0000",
+      "categoria": "Internacional",
+      "resumen": "Donald Trump defiende que Estados Unidos mantenga el liderazgo en inteligencia artificial mientras líderes del sector advierten sobre riesgos de seguridad y piden ralentizar su desarrollo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Los empleados estamos aterrados&#8221;: la advertencia de un exinvestigador de Anthropic a la BBC sobre los riesgos de la IA y por qué genera críticas",
@@ -48,7 +72,7 @@
       "link": "https://www.prensalibre.com/guatemala/justicia/pnc-retira-camaras-ilegales-nuevo-operativo-detecta-dispositivos-que-atribuye-a-pandillas-en-villa-hermosa-1/",
       "fecha": "Sun, 13 Sep 2026 18:17:48 +0000",
       "categoria": "Guatemala",
-      "resumen": "La PNC retiró cámaras en Villa Hermosa 1 que, según sus investigaciones, eran utilizadas por pandillas para vigilar a vecinos y comerciantes."
+      "resumen": "La PNC retiró cámaras en Villa Hermosa 1 que, según sus investigaciones, eran utilizadas la Mara Salvatrucha  para vigilar a vecinos y comerciantes."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,30 +801,6 @@
       "fecha": "Sat, 12 Sep 2026 02:33:25 +0000",
       "categoria": "Comunitario",
       "resumen": "Durante el operativo para liberar la ruta al Pacífico se han escuchado detonaciones de arma de fuego, sin que hasta ahora se reporten heridos ni fallecidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tensión en Zacapa: desalojo en el km 124 al Atlántico deja heridos y vehículos de transporte pesado incendiados",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/tension-en-zacapa-desalojo-en-el-km-124-al-atlantico-deja-heridos-y-vehiculos-de-transporte-pesado-incendiados-breaking/",
-      "fecha": "Sat, 12 Sep 2026 01:46:13 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El operativo para liberar el paso en el km 124 de la ruta al Atlántico, Río Hondo, Zacapa, dejó vehículos incendiados y varios heridos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "CIG reconoce a Álvaro Castillo Monge como Industrial Distinguido 2026 por su trayectoria empresarial",
-      "link": "https://www.prensalibre.com/economia/cig-reconoce-a-alvaro-castillo-monge-como-industrial-distinguido-2026-por-su-trayectoria-empresarial/",
-      "fecha": "Sat, 12 Sep 2026 01:28:18 +0000",
-      "categoria": "Economía",
-      "resumen": "La Cámara de Industria de Guatemala concluyó esta noche el XXI Congreso Industrial con la entrega de reconocimientos a empresarios, entre ellos Álvaro Castillo Monge, como Industrial Distinguido 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Antigua Guatemala celebra la Independencia: así serán los recorridos de los desfiles, el fuego patrio y las actividades",
-      "link": "https://www.prensalibre.com/vida/escenario/antigua-guatemala-celebra-la-independencia-asi-seran-los-recorridos-de-los-desfiles-el-fuego-patrio-y-las-actividades/",
-      "fecha": "Sat, 12 Sep 2026 01:28:04 +0000",
-      "categoria": "Escenario",
-      "resumen": "Las calles de Antigua Guatemala se llenarán de actividades por la conmemoración de la Independencia, con desfiles, actos cívicos y recorridos de antorchas. Conozca los detalles."
     },
     {
       "fuente": "Guatemala.com",
