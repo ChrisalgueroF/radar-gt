@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-09-13T18:16:53.694Z",
+  "actualizado": "2026-09-13T19:12:26.250Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Los empleados estamos aterrados&#8221;: la advertencia de un exinvestigador de Anthropic a la BBC sobre los riesgos de la IA y por qué genera críticas",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/los-empleados-estamos-aterrados-la-advertencia-de-un-exinvestigador-de-anthropic-a-la-bbc-sobre-los-riesgos-de-la-ia-y-por-que-genera-criticas/",
+      "fecha": "Sun, 13 Sep 2026 18:55:57 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Esto ocurre después de que el director de la empresa de IA pidiera ralentizar el desarrollo de la tecnología, citando riesgos \"graves\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Doblete de Yonatán Pozuelos guía a Mixco al triunfo 3-2 sobre Aurora",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/doblete-de-yonatan-pozuelos-guia-a-mixco-al-triunfo-3-2-sobre-aurora-breaking/",
+      "fecha": "Sun, 13 Sep 2026 18:55:48 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los chicharroneros pusieron el 3-0 antes del descanso pero sufrieron en el segundo tiempo cuando Aurora descontó hasta el 3-2 en el Santo Domingo de Guzmán."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Rutas alternas por antorchas y el desfile de Independencia de Guatemala este 2026",
+      "link": "https://www.guatemala.com/noticias/comunidad/rutas-alternas-14-y-15-septiembre-2026-antorchas-desfile-independencia-guatemala.html",
+      "fecha": "Sun, 13 Sep 2026 18:44:48 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Conoce las rutas alternas que recomienda Amilcar Montejo por las antorchas y el desfile de bandas que se realizarán el 14 y 15 de septiembre de 2026.\nThe post Rutas alternas por antorchas y el desfile de Independencia de Guatemala este 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Rubio Rubín anotó en el triunfo de El Paso Locomotive y se mantiene como máximo goleador de la USL",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/rubio-rubin-anoto-en-el-triunfo-de-el-paso-locomotive-y-se-mantiene-como-maximo-goleador-de-la-usl-breaking/",
+      "fecha": "Sun, 13 Sep 2026 18:42:57 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El delantero guatemalteco anotó en la victoria 2-1 ante Louisville City para llegar a 14 goles en la temporada y mantenerse como líder goleador de la USL Championship en lo que es su mejor momento con El Paso Locomotive."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "7 exfuncionarios ecuatorianos no podrán ingresar a EE. UU.: ¿A quiénes vincula con el narcotráfico?",
+      "link": "https://www.prensalibre.com/internacional/7-exfuncionarios-ecuatorianos-no-podran-ingresar-a-ee-uu-a-quienes-vincula-con-el-narcotrafico/",
+      "fecha": "Sun, 13 Sep 2026 18:35:02 +0000",
+      "categoria": "Internacional",
+      "resumen": "EE. UU. designó públicamente a siete exfuncionarios ecuatorianos por su participación en actos significativos de corrupción vinculados a organizaciones terroristas extranjeras."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC retira cámaras ilegales: nuevo operativo detecta dispositivos que atribuye a pandillas en Villa Hermosa 1",
+      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-retira-camaras-ilegales-nuevo-operativo-detecta-dispositivos-que-atribuye-a-pandillas-en-villa-hermosa-1/",
+      "fecha": "Sun, 13 Sep 2026 18:17:48 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La PNC retiró cámaras en Villa Hermosa 1 que, según sus investigaciones, eran utilizadas por pandillas para vigilar a vecinos y comerciantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué se sabe de las firmas de documentos que manifestantes pedían en los bloqueos de la Bethania",
+      "link": "https://www.prensalibre.com/guatemala/politica/que-se-sabe-de-las-firmas-de-documentos-que-manifestantes-pedian-en-los-bloqueos-de-la-bethania/",
+      "fecha": "Sun, 13 Sep 2026 18:09:05 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Edgar Ortiz, de Poder Ciudadano, que impulsa una reforma constitucional, dice que exigir firmas de la manera en que ocurrió en los bloqueos recientes incurre  en coacción y amenazas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; Cobán Imperial vs. Comunicaciones FC: siga el minuto a minuto de la novena jornada",
@@ -9,6 +65,14 @@
       "fecha": "Sun, 13 Sep 2026 18:00:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Los príncipes azules reciben a los cremas este domingo a la 1:00 PM en el estadio José Ángel Rossi en un duelo donde ambos equipos llegan con la urgencia de sumar tras acumular malos resultados en las últimas jornadas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aumento al pasaje en Guatemala: PDH advierte alzas de hasta 30% y denuncia abusos",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/aumento-al-pasaje-en-guatemala-pdh-advierte-alzas-de-hasta-30-y-denuncia-abusos/",
+      "fecha": "Sun, 13 Sep 2026 18:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El alza de los combustibles ya impacta las tarifas del transporte público. La PDH reporta aumentos de hasta 30%, mientras transportistas los atribuyen al mayor costo de operación."
     },
     {
       "fuente": "Prensa Libre",
@@ -739,62 +803,6 @@
       "resumen": "Las calles de Antigua Guatemala se llenarán de actividades por la conmemoración de la Independencia, con desfiles, actos cívicos y recorridos de antorchas. Conozca los detalles."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "“Vete a la tuerca” llega a Guatemala: fecha, lugar y precio de los boletos",
-      "link": "https://www.prensalibre.com/vida/escenario/vete-a-la-tuerca-llega-a-guatemala-fecha-lugar-y-precio-de-los-boletos/",
-      "fecha": "Sat, 12 Sep 2026 00:56:32 +0000",
-      "categoria": "Escenario",
-      "resumen": "El humor de Alejandro Sago, Sophie Durand y Pepin Loyin llega al escenario con “Vete a la tuerca”, un show que traslada al formato en vivo la esencia de su pódcast."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bloqueos en Guatemala: Liberación de la ruta al Pacífico desata enfrentamiento entre la PNC e inconformes en Villa Nueva",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-liberacion-de-la-ruta-al-pacifico-desata-enfrentamiento-entre-la-pnc-e-inconformes-en-villa-nueva-breaking/",
-      "fecha": "Sat, 12 Sep 2026 00:34:19 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La PNC intervino para liberar el paso en el km 19.5 de la ruta al Pacífico y se enfrentó con inconformes que rechazaban el costo de los combustibles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jorge Drexler convirtió &#8220;Taracá&#8221; en una noche para estar acá y estar ahora en Guatemala, con elogios para Pedro Boche y &#8220;Luna de Xelajú&#8221; en el repertorio",
-      "link": "https://www.prensalibre.com/vida/escenario/jorge-drexler-convirtio-taraca-en-una-noche-para-estar-aca-y-estar-ahora-en-guatemala-con-elogios-para-pedro-boche-y-luna-de-xelaju-en-el-repertorio/",
-      "fecha": "Fri, 11 Sep 2026 23:55:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Jorge Drexler derrochó talento en la capital el jueves 10 de septiembre durante la presentación de su más reciente producción, \"Taracá\", con la que el cantautor uruguayo regresó a las raíces, en un concierto lleno de detalles y calidad musical."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "American Horror Story regresa con su temporada 13: fecha de estreno, elenco, personajes que vuelven y dónde verla",
-      "link": "https://www.prensalibre.com/vida/escenario/american-horror-story-regresa-con-su-temporada-13-fecha-de-estreno-elenco-personajes-que-vuelven-y-donde-verla/",
-      "fecha": "Fri, 11 Sep 2026 23:52:23 +0000",
-      "categoria": "Escenario",
-      "resumen": "Una de las producciones más exitosas de Ryan Murphy, American Horror Story, regresará con su temporada 13 y reunirá a actrices como Emma Roberts, Jessica Lange y Sarah Paulson."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La madre subrogada que se negó a abortar y ahora pelea por la custodia del bebé en EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-madre-subrogada-que-se-nego-a-abortar-y-ahora-pelea-por-la-custodia-del-bebe-en-ee-uu/",
-      "fecha": "Fri, 11 Sep 2026 23:25:11 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La mujer huyó a Texas, donde el aborto es ilegal, y ahora quiere la custodia del niño de 4 semanas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué un exagente del FBI dice que &#8220;él hubiera evitado&#8221; los atentados del 11-S",
-      "link": "https://www.prensalibre.com/internacional/por-que-un-exagente-del-fbi-dice-que-el-hubiera-evitado-los-atentados-del-11-s/",
-      "fecha": "Fri, 11 Sep 2026 23:15:41 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un exagente del FBI ha dicho que \"él pudo evitar\" los atentados terroristas del 11 de septiembre de 2001."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El sector industrial planteó al presidente Bernardo Arévalo cuatro acciones urgentes para generar competitividad y atraer inversión",
-      "link": "https://www.prensalibre.com/economia/el-sector-industrial-planteo-al-presidente-bernardo-arevalo-cuatro-acciones-urgentes-para-generar-competitividad-y-atraer-inversion/",
-      "fecha": "Fri, 11 Sep 2026 23:15:30 +0000",
-      "categoria": "Economía",
-      "resumen": "Durante el XXI Congreso Industrial 2026, el sector industrial planteó al presidente de la República, Bernardo Arévalo, la necesidad de impulsar acciones urgentes en cuatro ámbitos para atraer más inversión y generar empleo."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Volcano Innovation Summit 2026 reunió en Guatemala a líderes para impulsar la innovación en Latinoamérica",
       "link": "https://www.guatemala.com/noticias/sociedad/volcano-innovation-summit-2026-guatemala.html",
@@ -865,14 +873,6 @@
       "fecha": "Wed, 09 Sep 2026 18:02:36 +0000",
       "categoria": "Cultura",
       "resumen": "Fundación Paiz anunció a Cuauhtémoc Medina como el curador de la 25 edición de la Bienal de Arte Paiz, que cumplirá 50 años en el 2027.\nThe post Bienal de Arte Paiz se prepara para celebrar sus 50 años con el anuncio del curador para su 25 edición appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Aprueban precios límite para la gasolina y el diésel en Guatemala",
-      "link": "https://www.guatemala.com/noticias/comunidad/aprueban-precios-limite-gasolina-diesel-guatemala-2026.html",
-      "fecha": "Wed, 09 Sep 2026 04:41:17 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Con el Decreto 21-2026 se han establecido precios límite a la gasolina regular, súper y el diésel hasta el 31 de diciembre de 2026.\nThe post Aprueban precios límite para la gasolina y el diésel en Guatemala appeared first on Guatemala.com."
     }
   ]
 }
