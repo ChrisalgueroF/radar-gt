@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-13T10:20:02.101Z",
+  "actualizado": "2026-09-13T11:13:38.578Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las razones de las grandes empresas de Silicon Valley para ignorar las advertencias sobre los peligros de la IA",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-razones-de-las-grandes-empresas-de-silicon-valley-para-ignorar-las-advertencias-sobre-los-peligros-de-la-ia/",
+      "fecha": "Sun, 13 Sep 2026 10:50:49 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Una ola de alertas respecto a los posibles los peligros para el futuro de la humanidad que entrañan la inteligencia artificial ha sido recibida con escepticismo por parte de ejecutivos e inversores."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La advertencia",
@@ -793,14 +801,6 @@
       "fecha": "Fri, 11 Sep 2026 18:49:49 +0000",
       "categoria": "Internacional",
       "resumen": "Trump afirmó que los bomberos lo sacaron de allí ante el temor de un colapso del edificio, en algún momento después del ataque a las Torres Gemelas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sector privado pide a Bernardo Arévalo declarar estado de Prevención por bloqueos en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/politica/sector-privado-pide-a-bernardo-arevalo-declarar-estado-de-prevencion-por-bloqueos-en-guatemala-breaking/",
-      "fecha": "Fri, 11 Sep 2026 18:41:03 +0000",
-      "categoria": "Política",
-      "resumen": "Cámara de Comercio, Agexport, CIG y Camagro cuestionan los cierres de carreteras y piden al Ejecutivo garantizar la libre locomoción."
     },
     {
       "fuente": "Guatemala.com",
