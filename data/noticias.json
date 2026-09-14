@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-14T03:16:16.834Z",
+  "actualizado": "2026-09-14T04:16:13.992Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Maite García, representante de Zacapa, se corona Reina Nacional de las Fiestas de Independencia 2026",
+      "link": "https://www.prensalibre.com/vida/escenario/maite-garcia-representante-de-zacapa-se-corona-reina-nacional-de-las-fiestas-de-independencia-2026/",
+      "fecha": "Mon, 14 Sep 2026 03:22:22 +0000",
+      "categoria": "Escenario",
+      "resumen": "En una velada marcada por la cultura, la tradición y la belleza, una de las 22 candidatas fue coronada Reina Nacional de las Fiestas de Independencia 2026."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¡Agónico! Municipal empató 2-2 ante Malacateco con gol de Nicolás Samayoa en el último minuto",
@@ -793,14 +801,6 @@
       "fecha": "Sat, 12 Sep 2026 16:14:42 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Iraq destituyó a un comandante militar y abrió una investigación sobre el ataque que provino de una zona fronteriza con Irán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vicepresidencia instruye a la Conred declarar alerta roja por la sequía en los municipios de Región Trifinio, ¿qué implica esto?",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/emiten-alerta-roja-por-la-sequia-en-los-municipios-de-region-trifinio-breaking/",
-      "fecha": "Sat, 12 Sep 2026 16:14:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La alerta roja contempla fijar precios de referencia, frenar alzas injustificadas, hacer ágil la entrega de alimentos, según comunicó la vicepresidenta Karin Herrera."
     },
     {
       "fuente": "Guatemala.com",
