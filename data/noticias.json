@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-14T16:16:09.165Z",
+  "actualizado": "2026-09-14T17:13:43.043Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "China rechaza la idea de que está en una &#8220;competencia maliciosa&#8221; con EE.UU. por el control de la IA",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/china-rechaza-la-idea-de-que-esta-en-una-competencia-maliciosa-con-ee-uu-por-el-control-de-la-ia/",
+      "fecha": "Mon, 14 Sep 2026 17:09:58 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Esto se produce tras los llamamientos del director ejecutivo de Anthropic para que se desacelere el desarrollo de la IA, pero de una manera que impida que China tome la delantera en la carrera."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por incumplir una orden? Inmigrante que se autodeportó recibe multa de casi US$2 millones",
+      "link": "https://www.prensalibre.com/internacional/por-incumplir-una-orden-inmigrante-que-se-autodeporto-recibe-multa-de-casi-us2-millones/",
+      "fecha": "Mon, 14 Sep 2026 17:02:12 +0000",
+      "categoria": "Internacional",
+      "resumen": "Alessandro Negrete es uno de los más de 100 mil migrantes que han recibido multas del DHS desde el inicio del segundo mandato de Trump."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Revelan los precios de los boletos para ver a la Selección de Guatemala en la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/revelan-los-precios-de-los-boletos-para-ver-a-la-seleccion-de-guatemala-en-la-liga-de-naciones-breaking/",
+      "fecha": "Mon, 14 Sep 2026 16:58:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Fedefut dio a conocer cuánto costará asistir a los partidos de Guatemala ante El Salvador y Surinam en El Trébol, así como la modalidad para comprar los boletos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC revela cómo detectó a señalada de hurtar celulares en concierto de Quetzaltenango",
+      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-revela-como-detecto-a-senalada-de-hurtar-celulares-en-concierto-de-quetzaltenango-breaking/",
+      "fecha": "Mon, 14 Sep 2026 16:53:47 +0000",
+      "categoria": "Justicia",
+      "resumen": "Denuncias permitieron identificar a sospechosa de hurtar celulares en concierto en Quetzaltenango."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Zverev, el niño al que la diabetes no le pudo ganar: campeón del US Open",
@@ -777,38 +809,6 @@
       "fecha": "Sun, 13 Sep 2026 00:56:28 +0000",
       "categoria": "Escenario",
       "resumen": "Este 12 de septiembre, los fanáticos de Ozuna esperaban disfrutar de su música en Guatemala; sin embargo, el concierto fue cancelado dos días antes. Esto se sabe sobre la cancelación y el proceso para solicitar el reembolso de las entradas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan a 11 presuntos miembros de &#8220;Los Chapitos&#8221; vinculados al secuestro y muerte de diez mineros en Sinaloa",
-      "link": "https://www.prensalibre.com/internacional/capturan-a-11-presuntos-miembros-de-los-chapitos-vinculados-al-secuestro-y-muerte-de-diez-mineros-en-sinaloa/",
-      "fecha": "Sun, 13 Sep 2026 00:46:43 +0000",
-      "categoria": "Internacional",
-      "resumen": "Elementos del Ejército y de la Secretaría de Seguridad Pública de Sinaloa detuvieron a once hombres señalados como integrantes de la facción de \"Los Chapitos\", presuntamente ligados a \"El Casco\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MP aún no recibe denuncias del Ejecutivo por bloqueos y Gobernación explica por qué no las ha presentado",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mp-aun-no-recibe-denuncias-del-ejecutivo-por-bloqueos-y-gobernacion-explica-por-que-no-las-ha-presentado-breaking/",
-      "fecha": "Sun, 13 Sep 2026 00:03:42 +0000",
-      "categoria": "Justicia",
-      "resumen": "El MP aún no recibe denuncias del Ejecutivo por los bloqueos, mientras Gobernación afirma que necesita reunir más elementos para sustentar una denuncia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gobierno dice haber cumplido orden de la CC sobre los bloqueos y cuestiona plazo de seis horas que se le otorgó",
-      "link": "https://www.prensalibre.com/guatemala/justicia/gobierno-dice-haber-cumplido-orden-de-la-cc-sobre-los-bloqueos-y-cuestiona-plazo-de-seis-horas-que-se-le-otorgo/",
-      "fecha": "Sat, 12 Sep 2026 23:53:53 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Sin la presencia de Bernardo Arévalo, ministros informaron sobre el desalojo de bloqueos que exigían su renuncia y protestaban por el alza de los combustibles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El ensayo en el que el director de Anthropic pide ralentizar el desarrollo de la inteligencia artificial",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-ensayo-en-el-que-el-director-de-anthropic-pide-ralentizar-el-desarrollo-de-la-inteligencia-artificial/",
-      "fecha": "Sat, 12 Sep 2026 23:47:40 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La petición surge en medio de la creciente preocupación por que los modelos de IA puedan llegar a ser capaces de causar graves daños en todo el mundo."
     },
     {
       "fuente": "Guatemala.com",
