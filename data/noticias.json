@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-14T14:17:31.417Z",
+  "actualizado": "2026-09-14T15:17:42.192Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿La IA es una amenaza real o hay exageración? Las tres posturas que enfrentan a los expertos",
+      "link": "https://www.prensalibre.com/internacional/la-ia-es-una-amenaza-real-o-hay-exageracion-las-tres-posturas-que-enfrentan-a-los-expertos/",
+      "fecha": "Mon, 14 Sep 2026 15:16:56 +0000",
+      "categoria": "Internacional",
+      "resumen": "El debate cobró fuerza hasta convertirse en una conversación global, y muchos de quienes trabajan con IA lo vieron como el momento para pedir precaución."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Congreso Nacional de Seguridad Vial: Guatemala alista plan de cuatro años para reducir accidentes",
@@ -793,14 +801,6 @@
       "fecha": "Sat, 12 Sep 2026 23:32:50 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El delantero guatemalteco que regresó de una lesión anotó el primer gol del partido y completó su doblete con un sombrerito en la contundente victoria del Tigre en la jornada 19 de la liga boliviana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Juicio: ¿De qué trata la serie con Eugenio Derbez y Pedro Alonso inspirada en la realidad?",
-      "link": "https://www.prensalibre.com/internacional/el-juicio-de-que-trata-la-serie-con-eugenio-derbez-y-pedro-alonso-inspirada-en-la-realidad/",
-      "fecha": "Sat, 12 Sep 2026 23:30:08 +0000",
-      "categoria": "Internacional",
-      "resumen": "Pedro Alonso había decidido tomarse un descanso cuando recibió la propuesta de Eugenio Derbez, quien lo convenció porque la serie combina una historia basada en crímenes reales."
     },
     {
       "fuente": "Guatemala.com",
