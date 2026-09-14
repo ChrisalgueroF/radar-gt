@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-14T19:15:33.393Z",
+  "actualizado": "2026-09-14T20:15:44.902Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los líderes de Escocia, Irlanda del Norte y Gales se unen para reclamar su derecho de independencia de Reino Unido",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-lideres-de-escocia-irlanda-del-norte-y-gales-se-unen-para-reclamar-su-derecho-de-independencia-de-reino-unido/",
+      "fecha": "Mon, 14 Sep 2026 19:20:00 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los líderes de los partidos nacionalistas de Gales, Escocia e Irlanda del Norte -Plaid Cymru, SNP y Sinn Féin- afirman que el gobierno británico debería prepararse para una reforma constitucional."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Lamine Yamal: “Este año me merecería ganar el Balón de Oro” y pone a Mbappé como su gran rival",
@@ -20,6 +28,22 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Obelisco cerrado: así se están encendiendo las antorchas de Guatemala, Mixco y Villa Nueva",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/obelisco-cerrado-asi-se-estan-encendiendo-las-antorchas-de-guatemala-mixco-y-villa-nueva/",
+      "fecha": "Mon, 14 Sep 2026 18:54:57 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Obelisco está cerrado este 14 de septiembre, pero las antorchas continúan. Estos son los puntos en donde los grupos se reúnen para encender el fuego patrio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hayden Panettiere habría muerto por una sobredosis de oxicodona con fentanilo",
+      "link": "https://www.prensalibre.com/vida/escenario/hayden-panettiere-habria-muerto-por-una-sobredosis-de-oxicodona-con-fentanilo/",
+      "fecha": "Mon, 14 Sep 2026 18:47:10 +0000",
+      "categoria": "Escenario",
+      "resumen": "Autoridades estarían tras la pista de un traficante de drogas que habría suministrado a la actriz Hayden Panettiere una pastilla adulterada con fentanilo."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Celine Dion regresa a los escenarios tras su diagnóstico de síndrome de persona rígida: así fue su concierto en París",
       "link": "https://www.prensalibre.com/vida/escenario/celine-dion-regresa-a-los-escenarios-tras-su-diagnostico-de-sindrome-de-persona-rigida-asi-fue-su-concierto-en-paris/",
       "fecha": "Mon, 14 Sep 2026 18:21:47 +0000",
@@ -33,6 +57,14 @@
       "fecha": "Mon, 14 Sep 2026 18:18:03 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Los llamados a la regulación de la IA aumentan a medida que investigadores y directivos preocupados emiten advertencias inquietantes sobre el potencial de esta tecnología."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos guatemaltecos son señalados de asesinar a su bebé en EE. UU.: ¿por qué habrían culpado a “Satanás”?",
+      "link": "https://www.prensalibre.com/internacional/dos-guatemaltecos-son-senalados-de-asesinar-a-su-bebe-en-ee-uu-y-por-que-habrian-culpado-a-satanas/",
+      "fecha": "Mon, 14 Sep 2026 18:13:22 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una pareja de guatemaltecos fueron acusados de asesinar a golpes a su bebé de dos meses en Maryland, mientras el padre dijo que su hija resultó herida \"por culpa de Satanás\"."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,38 +809,6 @@
       "fecha": "Sun, 13 Sep 2026 12:00:00 +0000",
       "categoria": "Comunitario",
       "resumen": "La PNC ha retirado 427 cámaras en 2026; vecinos de Justo Rufino Barrios, zona 21, defienden seis que aseguran formaban parte de su sistema de seguridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una versión medieval de la manósfera: lo que el tapiz de Bayeux revela sobre la sangrienta y obscena realidad de la Edad Media",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-version-medieval-de-la-manosfera-lo-que-el-tapiz-de-bayeux-revela-sobre-la-sangrienta-y-obscena-realidad-de-la-edad-media/",
-      "fecha": "Sun, 13 Sep 2026 11:38:10 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En la historia sobre un trono en disputa que narra esta obra maestra del siglo XI, la virilidad se equipara al poder. Es un relato que resulta familiar hoy en día."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las razones de las grandes empresas de Silicon Valley para ignorar las advertencias sobre los peligros de la IA",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-razones-de-las-grandes-empresas-de-silicon-valley-para-ignorar-las-advertencias-sobre-los-peligros-de-la-ia/",
-      "fecha": "Sun, 13 Sep 2026 10:50:49 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Una ola de alertas respecto a los posibles los peligros para el futuro de la humanidad que entrañan la inteligencia artificial ha sido recibida con escepticismo por parte de ejecutivos e inversores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La advertencia",
-      "link": "https://www.prensalibre.com/opinion/caricatura/la-advertencia/",
-      "fecha": "Sun, 13 Sep 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Llevar la luz",
-      "link": "https://www.prensalibre.com/opinion/editorial/llevar-la-luz/",
-      "fecha": "Sun, 13 Sep 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "La libertad se firma hoy con espíritu crítico, coherencia ética e ingenio ciudadano."
     },
     {
       "fuente": "Guatemala.com",
