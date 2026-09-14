@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-14T22:15:23.016Z",
+  "actualizado": "2026-09-14T23:14:00.921Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Petróleo de Texas supera los US$101 por guerra en el mar Rojo",
+      "link": "https://www.prensalibre.com/economia/petroleo-de-texas-supera-los-us101-por-guerra-en-el-mar-rojo/",
+      "fecha": "Mon, 14 Sep 2026 23:12:29 +0000",
+      "categoria": "Economía",
+      "resumen": "El petróleo intermedio de Texas (WTI) cerró este lunes en US$101.39 por barril, uno de los niveles más altos desde mayo, impulsado por la intensificación del conflicto en el mar Rojo y el creciente riesgo para el transporte mundial de crudo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las jaulas en las que eran encerrados los migrantes en el &#8220;Alcatraz de los caimanes&#8221; de Florida",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-jaulas-en-las-que-eran-encerrados-los-migrantes-en-el-alcatraz-de-los-caimanes-de-florida/",
+      "fecha": "Mon, 14 Sep 2026 22:19:11 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los inspectores del gobierno de EE.UU. afirman que descubrieron que el centro de detención infringía las normas básicas de higiene, atención médica, alimentación y seguridad de los migrantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué significa desacelerar el desarrollo de la IA como pide el director de Anthropic",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-significa-desacelerar-el-desarrollo-de-la-ia-como-pide-el-director-de-anthropic/",
+      "fecha": "Mon, 14 Sep 2026 22:18:12 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Aunque frenar el desarrollo de la IA puede parecer una solución rápida, dista mucho de ser algo fácil."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amarini Villatoro y el Cartaginés, provocan la salida del técnico del Alajuelense en Costa Rica",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/amarini-villatoro-y-el-cartagines-provocan-la-salida-del-tecnico-del-alajuelense-en-costa-rica-breaking/",
+      "fecha": "Mon, 14 Sep 2026 22:09:46 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La derrota 3-1 ante Cartaginés, dirigido por Amarini Villatoro, terminó por sentenciar el ciclo de Ismael Rescalvo en Alajuelense."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Un ministro de Netanyahu pide retirar la ciudadanía israelí a dos cineastas por su documental sobre las muertes de civiles en Gaza",
@@ -12,11 +44,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Ciudad Vieja multará a vecinos que desperdicien agua durante celebraciones de Independencia",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/ciudad-vieja-multara-a-vecinos-que-desperdicien-agua-durante-celebraciones-de-independencia/",
+      "fecha": "Mon, 14 Sep 2026 22:05:31 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Municipalidad de Ciudad Vieja sancionará el 14 y 15 de septiembre el uso inadecuado de agua potable en las calles, así como en las carreteras RN-10 y RN-14."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Comerciantes y transportistas rechazan subsidio a combustibles y piden eliminar impuestos",
       "link": "https://www.prensalibre.com/guatemala/comerciantes-y-transportistas-rechazan-subsidio-a-combustibles-y-piden-eliminar-impuestos-breaking/",
       "fecha": "Mon, 14 Sep 2026 21:57:20 +0000",
       "categoria": "Guatemala",
       "resumen": "Comerciantes, transportistas se manifestaron en el Centro Histórico contra el subsidio a los combustibles y los precios de referencia aprobados por el Congreso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Antorchas 2026: a qué hora cierran los puntos de encendido del fuego patrio, lugares con mayor afluencia y rutas alternas en la capital",
+      "link": "https://www.prensalibre.com/vida/escenario/antorchas-2026-a-que-hora-cierran-los-puntos-de-encendido-del-fuego-patrio-lugares-con-mayor-afluencia-y-rutas-alternas-en-la-capital/",
+      "fecha": "Mon, 14 Sep 2026 21:54:48 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con más de cien movilizaciones de antorchas y desfiles cívicos escolares, la capital podría presentar complicaciones viales este 14 de septiembre. Conozca los puntos con mayor afluencia y las rutas alternas."
     },
     {
       "fuente": "Guatemala.com",
@@ -57,6 +105,14 @@
       "fecha": "Mon, 14 Sep 2026 20:32:34 +0000",
       "categoria": "Sucesos",
       "resumen": "Una avioneta sufrió desperfectos en el tren de aterrizaje en el aeródromo de Chiquimula; no hay heridos a causa del incidente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuándo y dónde se estrenará Dragon Ball Super: Beerus? Tráiler revela de qué trata la nueva producción",
+      "link": "https://www.prensalibre.com/vida/escenario/cuando-y-donde-se-estrenara-dragon-ball-super-beerus-trailer-revela-de-que-trata-la-nueva-produccion/",
+      "fecha": "Mon, 14 Sep 2026 19:56:16 +0000",
+      "categoria": "Escenario",
+      "resumen": "\"Dragon Ball Super: Beerus\" retomará los primeros episodios de la serie con animación renovada, escenas inéditas y ajustes en la historia."
     },
     {
       "fuente": "Prensa Libre",
@@ -761,62 +817,6 @@
       "fecha": "Sun, 13 Sep 2026 16:52:13 +0000",
       "categoria": "Economía",
       "resumen": "En 1953, llenar el tanque costaba centavos; hoy, un galón de diésel supera los Q46 y la gasolina superior ronda los Q42. Un repaso a más de siete décadas de datos oficiales y de hemeroteca muestra cómo los precios de los combustibles en Guatemala han multiplicado su valor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La pugna por el control del narcomenudeo en zona 7: PNC revela detalles del ataque que dejó cuatro muertos en un hotel",
-      "link": "https://www.prensalibre.com/guatemala/justicia/la-pugna-por-el-control-del-narcomenudeo-en-zona-7-pnc-revela-detalles-del-ataque-que-dejo-cuatro-muertos-en-un-hotel/",
-      "fecha": "Sun, 13 Sep 2026 16:35:23 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Cuatro hombres murieron en un ataque armado dentro de un hotel de la zona 7 capitalina. La PNC sospecha que detrás del crimen hay una disputa por el control del narcomenudeo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Barcelona venció 4-2 al Levante con doblete de Lamine Yamal y mantiene su invicto en LaLiga",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-vencio-3-2-al-levante-con-doblete-de-lamine-yamal-y-mantiene-su-invicto-en-laliga-breaking/",
-      "fecha": "Sun, 13 Sep 2026 16:22:11 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Los azulgranas sufrieron en los minutos finales pero vencieron al Levante en el tiempo añadido para mantener al Barcelona como líder invicto con cinco victorias consecutivas en LaLiga 2026-27."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Mixco vs. Aurora FC: siga el minuto a minuto de la novena jornada del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-mixco-vs-aurora-fc-siga-el-minuto-a-minuto-de-la-novena-jornada-del-apertura-2026-breaking/",
-      "fecha": "Sun, 13 Sep 2026 16:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los chicharroneros reciben a los aurinegros este domingo a las 11:00 AM en el estadio Santo Domingo de Guzmán en el partido que abre la actividad dominical de la novena jornada del Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala registra mínimos históricos de lluvia y 22 récords de temperatura máxima en 2026",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-registra-minimos-historicos-de-lluvia-y-22-records-de-temperatura-maxima-en-2026/",
-      "fecha": "Sun, 13 Sep 2026 16:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Entre mayo y agosto, 23 de 39 estaciones registraron su menor acumulado de lluvia de la serie histórica disponible, mientras se establecieron 22 récords mensuales de temperatura máxima."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién era “Pinula” Contreras? El legado que deja la leyenda de Comunicaciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/fallece-pinula-contreras-a-los-91-anos-el-goleador-historico-que-marco-una-epoca-en-comunicaciones-breaking/",
-      "fecha": "Sun, 13 Sep 2026 15:48:59 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El exfutbolista Francisco López “Pinula” Contreras, figura histórica de Comunicaciones y autor del gol que dio a los cremas su primer título en 1956. Falleció este domingo 13 de septiembre a los 91 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Francisco ‘Pinula’ Contreras, una leyenda que queda para siempre en la historia de Comunicaciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/francisco-pinula-contreras-una-leyenda-que-queda-para-siempre-en-la-historia-de-comunicaciones-breaking/",
-      "fecha": "Sun, 13 Sep 2026 15:47:23 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Francisco “Pinula” Contreras, una de las grandes figuras en la historia de Comunicaciones y del futbol guatemalteco, falleció a los 91 años. Su nombre queda ligado a momentos históricos de los Cremas y de la Selección Nacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Calor marcará las fiestas de Independencia: esto pronostica el Insivumeh para el 14 y 15 de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/calor-marcara-las-fiestas-de-independencia-esto-pronostica-el-insivumeh-para-el-14-y-15-de-septiembre/",
-      "fecha": "Sun, 13 Sep 2026 15:30:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh prevé altas temperaturas durante las fiestas de Independencia y recomienda tomar precauciones ante el calor durante las actividades del 14 y15 de septiembre."
     },
     {
       "fuente": "Guatemala.com",
