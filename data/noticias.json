@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-14T00:22:34.466Z",
+  "actualizado": "2026-09-14T01:14:43.059Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Paseo dominical acaba en tragedia: mujer muere al caer desde catarata y otras dos personas resultan heridas",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/paseo-dominical-acaba-en-tragedia-mujer-muere-al-caer-desde-catarata-y-otras-dos-personas-resultan-heridas-breaking/",
+      "fecha": "Mon, 14 Sep 2026 00:43:01 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Una mujer cayó desde una catarata de unos 40 metros y golpeó a otra fémina y a una niña. El hecho dejó una fallecida y dos heridas en San Miguel Dueñas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; Municipal vs. Malacateco: siga el minuto a minuto de la novena jornada",
@@ -793,14 +801,6 @@
       "fecha": "Sat, 12 Sep 2026 07:27:28 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "QJMOTOR, marca internacional especializada en motocicletas, vehículos todoterreno, accesorios y experiencias vinculadas al mundo motor, llega oficialmente a Guatemala de la mano de Cofiño, uno de los grupos automotrices de mayor trayectoria y reconocimiento en el país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sequía agrícola deja pérdidas por Q1,087 millones, según el Maga",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/sequia-agricola-deja-perdidas-por-q1087-millones-segun-el-maga/",
-      "fecha": "Sat, 12 Sep 2026 06:12:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "De acuerdo con el Maga, el 95.6% de las pérdidas económicas en la agricultura se debe a la sequía prolongada. Mientras la Conred declara alerta anaranjada nacional por la emergencia."
     },
     {
       "fuente": "Guatemala.com",
