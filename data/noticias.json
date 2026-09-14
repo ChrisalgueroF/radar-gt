@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-14T10:16:10.325Z",
+  "actualizado": "2026-09-14T11:16:00.393Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Remesas en Guatemala crecen 5.4%, suman US$17 mil 774 millones y Navidad incrementará envíos",
+      "link": "https://www.prensalibre.com/economia/remesas-en-guatemala-crecen-5-4-suman-us17-mil-774-millones-y-navidad-incrementara-envios/",
+      "fecha": "Mon, 14 Sep 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "En la reciente actualización de la balanza cambiaria, Guatemala recibió US$17 mil 774 millones en divisas por remesas familiares, lo que equivale a un incremento del 5.4%. El país ingresa a la temporada de mayores flujos del año."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "“Los impactos de la sequía ya están llegando a las áreas urbanas”: la crisis alimentaria amenaza con extenderse a las ciudades",
@@ -793,14 +801,6 @@
       "fecha": "Sat, 12 Sep 2026 21:23:45 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "El francés anotó de penal y sentenció el partido en el tiempo añadido, mientras Carreras y Bellingham completaron la goleada en el Santiago Bernabéu ante el Rayo Vallecano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué en Massachusetts se cubren o retiran las cámaras Flock en medio del debate por privacidad y uso indebido",
-      "link": "https://www.prensalibre.com/internacional/por-que-en-massachusetts-se-cubren-o-retiran-las-camaras-flock-en-medio-del-debate-por-privacidad-y-uso-indebido/",
-      "fecha": "Sat, 12 Sep 2026 20:52:45 +0000",
-      "categoria": "Internacional",
-      "resumen": "“Estas cámaras de Flock son tan populares como el sarampión”, describieron los vecinos que se oponen al uso de estas cámaras. ¿Qué ha pasado en Estados Unidos."
     },
     {
       "fuente": "Guatemala.com",
