@@ -1,7 +1,111 @@
 {
-  "actualizado": "2026-09-14T05:14:50.323Z",
+  "actualizado": "2026-09-14T06:22:13.341Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Los impactos de la sequía ya están llegando a las áreas urbanas”: la crisis alimentaria amenaza con extenderse a las ciudades",
+      "link": "https://www.prensalibre.com/guatemala/los-impactos-de-la-sequia-ya-estan-llegando-a-las-areas-urbanas-la-crisis-alimentaria-amenaza-con-extenderse-a-las-ciudades/",
+      "fecha": "Mon, 14 Sep 2026 06:12:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Experto de Oxfam habla de los efectos de la sequía en Guatemala, que se creía que solo afectaba a las áreas en pobreza, pero la crisis escala poco a poco a las ciudades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Juntas Electorales rumbo al 2027: su papel clave y las alertas por posibles presiones",
+      "link": "https://www.prensalibre.com/guatemala/politica/juntas-electorales-rumbo-al-2027-su-papel-clave-y-las-alertas-por-posibles-presiones/",
+      "fecha": "Mon, 14 Sep 2026 06:10:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El TSE convocará a 115 personas para las 22 Juntas Electorales Departamentales (JEDS) y la Junta Electoral del Distrito Central (JEDC) que comprende la ciudad de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Restricciones en el Canal de Panamá elevan riesgos logísticos para Guatemala",
+      "link": "https://www.prensalibre.com/economia/restricciones-en-el-canal-de-panama-elevan-riesgos-logisticos-para-guatemala/",
+      "fecha": "Mon, 14 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Las limitaciones en el tránsito de buques por el Canal de Panamá, debido al déficit de lluvias asociado con el fenómeno de El Niño, podrían tener repercusiones en el comercio exterior de Guatemala. El sector logístico ya anticipa posibles efectos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El mal ejemplo",
+      "link": "https://www.prensalibre.com/opinion/caricatura/el-mal-ejemplo/",
+      "fecha": "Mon, 14 Sep 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Urge declarar una nueva emancipación",
+      "link": "https://www.prensalibre.com/opinion/editorial/urge-declarar-una-nueva-emancipacion/",
+      "fecha": "Mon, 14 Sep 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "También es necesario emanciparse de la estulticia populista cuyo circo de tres pistas lleva semanas funcionando sin sanción."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ante los 205 años de separación de España",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/ante-los-205-anos-de-separacion-de-espana/",
+      "fecha": "Mon, 14 Sep 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Este es un brevísimo resumen de algunos hechos —buenos o malos— de nuestra historia, la gran desconocida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "TPS para salvadoreños: empresas comienzan a despedir trabajadores ante la incertidumbre en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/tps-para-salvadorenos-empresas-comienzan-a-despedir-trabajadores-ante-la-incertidumbre-en-ee-uu/",
+      "fecha": "Mon, 14 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Unos 232 mil salvadoreños siguen sin certeza sobre su permiso de trabajo, mientras empresas suspenden empleados y algunas familias se preparan para dejar EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Infraestructura y certeza jurídica para el grado de inversión",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/infraestructura-y-certeza-juridica-para-el-grado-de-inversion/",
+      "fecha": "Mon, 14 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Dos palabras que ayudan a entender el reto"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los próceres que no conocemos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/los-proceres-que-no-conocemos/",
+      "fecha": "Mon, 14 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La independencia de Guatemala no comenzó ni terminó el 15 de septiembre. Conocer su historia ayuda a valorarla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Justicia que también produce",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/justicia-que-tambien-produce/",
+      "fecha": "Mon, 14 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Seguridad y justicia eficientes son condiciones indispensables para invertir, producir y crecer."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El TSE se apronta a inhabilitar candidatos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-tse-se-apronta-a-inhabilitar-candidatos/",
+      "fecha": "Mon, 14 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El llamado al voto es inherente a la propaganda electoral."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Ahora el teléfono no para de sonar”: la abogada que atiende a migrantes guatemaltecos frente a la nueva realidad migratoria en EE. UU.",
+      "link": "https://www.prensalibre.com/guatemala/ahora-el-telefono-no-para-de-sonar-la-abogada-que-atiende-a-migrantes-guatemaltecos-frente-a-la-nueva-realidad-migratoria-en-ee-uu/",
+      "fecha": "Mon, 14 Sep 2026 06:01:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Ana Gabriela Urizar, abogada en Nueva York, cuenta cómo las políticas antimigratorias afectan a los guatemaltecos, los casos que recibe de migrantes detenidos, familias separadas y menores no acompañados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy lunes 14 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-14-de-septiembre-de-2026/",
+      "fecha": "Mon, 14 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Motocicleta con cuatro ocupantes se estrella contra un árbol en pronunciada bajada de Antigua Guatemala y una niña muere",
@@ -697,110 +801,6 @@
       "fecha": "Sat, 12 Sep 2026 20:52:45 +0000",
       "categoria": "Internacional",
       "resumen": "“Estas cámaras de Flock son tan populares como el sarampión”, describieron los vecinos que se oponen al uso de estas cámaras. ¿Qué ha pasado en Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿La IA se salió de control? La razón por la que el director de Anthropic pide desacelerar el avance de esta tecnología",
-      "link": "https://www.prensalibre.com/vida/tecnologia/la-ia-se-salio-de-control-la-razon-por-la-que-el-director-de-anthropic-pide-desacelerar-el-avance-de-esta-tecnologia/",
-      "fecha": "Sat, 12 Sep 2026 20:31:01 +0000",
-      "categoria": "Tecnología",
-      "resumen": "El acelerado avance de la inteligencia artificial podría generar riesgos globales, advierte el director de Anthropic, mientras Sam Altman, de OpenAI, plantea ralentizar su desarrollo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga de Naciones: cuándo y cómo comprar los boletos para los partidos ante El Salvador y Surinam",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-de-naciones-cuando-y-como-comprar-los-boletos-para-los-partidos-ante-el-salvador-y-surinam-breaking/",
-      "fecha": "Sat, 12 Sep 2026 20:17:17 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Fedefut habilitará la venta de entradas  a través de su plataforma digital para los dos partidos que Guatemala disputará como local en el estadio Manuel Felipe Carrera con un límite de tres boletos por persona."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Semana laboral de 32 horas? Presentan ley en EE.UU. para reducir la jornada sin recortar salarios",
-      "link": "https://www.prensalibre.com/internacional/semana-laboral-de-32-horas-presentan-ley-en-ee-uu-para-reducir-la-jornada-sin-recortar-salarios/",
-      "fecha": "Sat, 12 Sep 2026 20:05:04 +0000",
-      "categoria": "Internacional",
-      "resumen": "La propuesta para reducir la jornada se vincula con el impacto que tendrán la inteligencia artificial y la robótica en el empleo durante las próximas décadas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué acciones mantendrá la PNC y el Ejército ante posibles nuevos bloqueos en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/pnc-anuncia-acciones-ante-nuevos-bloqueos-y-mantendra-presencia-en-puntos-de-conflicto/",
-      "fecha": "Sat, 12 Sep 2026 19:29:50 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Agentes de la PNC y efectivos del Ejército de Guatemala resguardan los puntos donde se reportaron bloqueos y disturbios para garantizar el derecho a la libre locomoción, según las autoridades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué no se han formado huracanes en el Atlántico en 2026 y qué tiene que ver el fenómeno El Niño",
-      "link": "https://www.prensalibre.com/vida/ciencia/por-que-no-se-han-formado-huracanes-en-el-atlantico-en-2026-y-que-tiene-que-ver-el-fenomeno-el-nino/",
-      "fecha": "Sat, 12 Sep 2026 19:17:24 +0000",
-      "categoria": "Ciencia",
-      "resumen": "La temporada de huracanes del Atlántico 2026 acumula la espera más larga registrada sin un huracán, una marca que expertos atribuyen a un intenso fenómeno de El Niño."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tania Head, la impostora española que engañó al mundo al hacerse pasar por sobreviviente del 11-S",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/tania-head-la-impostora-espanola-que-engano-al-mundo-al-hacerse-pasar-por-sobreviviente-del-11-s/",
-      "fecha": "Sat, 12 Sep 2026 19:17:04 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Tania Head afirmó haber escapado de la Torre Sur tras los ataques al World Trade Center, pero no era cierto. Tampoco ese era su verdadero nombre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vehículos en llamas, detenidos y heridos: el recuento de incidencias tras los bloqueos en Guatemala el 11 de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/justicia/vehiculos-en-llamas-detenidos-y-heridos-el-recuento-de-incidencias-tras-los-bloqueos-en-guatemala-el-11-de-septiembre/",
-      "fecha": "Sat, 12 Sep 2026 18:49:56 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Socorristas atendieron varias emergencias durante los disturbios, entre estas heridos de bala, intoxicaciones, evacuaciones y vehículos incendiados. La PNC también reportó detenciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video &#124; Migrante sale de un vehículo y cruza tres carriles para escapar de la Patrulla Fronteriza",
-      "link": "https://www.prensalibre.com/internacional/video-migrante-sale-de-un-vehiculo-y-cruza-tres-carriles-para-escapar-de-la-patrulla-fronteriza/",
-      "fecha": "Sat, 12 Sep 2026 18:42:05 +0000",
-      "categoria": "Internacional",
-      "resumen": "El agente le dijo al conductor que había visto a un hombre acostado dentro del vehículo y, en ese momento, el sospechoso saltó y cruzó varios carriles de tráfico para escapar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Antorchas en Guatemala 2026: dónde serán los puntos de encendido del fuego patrio y cuáles son las rutas alternas",
-      "link": "https://www.prensalibre.com/vida/escenario/antorchas-en-guatemala-2026-donde-seran-los-puntos-de-encendido-del-fuego-patrio-y-cuales-son-las-rutas-alternas/",
-      "fecha": "Sat, 12 Sep 2026 18:29:06 +0000",
-      "categoria": "Escenario",
-      "resumen": "La Ciudad de Guatemala será uno de los puntos de encuentro para el encendido del fuego patrio que llevarán las antorchas durante las celebraciones de Independencia. Conozca el plan vial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Despliegue de brigadas y las otras medidas que implementará Guatemala ante la emergencia por sequía",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/despliegue-de-brigadas-y-las-otras-medidas-que-implementara-guatemala-ante-la-emergencia-por-sequia-breaking/",
-      "fecha": "Sat, 12 Sep 2026 18:23:50 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Según la Vicepresidencia, Guatemala podría enfrentar una “canícula prolongada” que provoque inseguridad alimentaria y pérdida de cultivos, de acuerdo con los pronósticos de temperatura y precipitación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cronología de la muerte del músico Hugo Girón: la captura del hijo de un magistrado del OJ y una audiencia fijada para 2027",
-      "link": "https://www.prensalibre.com/guatemala/justicia/cronologia-de-la-muerte-del-musico-hugo-giron-la-captura-del-hijo-de-un-magistrado-del-oj-y-una-audiencia-fijada-para-2027/",
-      "fecha": "Sat, 12 Sep 2026 17:45:31 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La PNC informó de las capturas una semana después del accidente. Los sindicados quedaron libres y tendrán audiencia en el 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Solo es el guardaespaldas de Messi”: Lewandowski sobre Rodrigo de Paul tras su encontronazo en la MLS",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/solo-es-el-guardaespaldas-de-messi-lewandowski-sobre-rodrigo-de-paul-tras-su-encontronazo-en-la-mls-breaking/",
-      "fecha": "Sat, 12 Sep 2026 17:42:22 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La discusión entre Rodrigo de Paul y Robert Lewandowski durante el empate entre Inter Miami y Chicago Fire no terminó en la cancha y provocó la reacción de otras figuras del fútbol mundial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump asegura que la reunificación de Irlanda sería &#8220;algo fantástico&#8221; durante una visita a Dublín",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-asegura-que-la-reunificacion-de-irlanda-seria-algo-fantastico-durante-una-visita-a-dublin/",
-      "fecha": "Sat, 12 Sep 2026 17:13:05 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El presidente ha vuelto a dejar en claro su distanciamiento con Reino Unido al poner en duda la soberanía sobre un territorio británico."
     },
     {
       "fuente": "Guatemala.com",
