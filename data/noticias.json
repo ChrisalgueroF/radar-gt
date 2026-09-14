@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-14T11:16:00.393Z",
+  "actualizado": "2026-09-14T12:21:03.369Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las tareas del hogar: una oportunidad para compartir y aprender",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/las-tareas-del-hogar-una-oportunidad-para-compartir-y-aprender/",
+      "fecha": "Mon, 14 Sep 2026 12:02:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Estas actividades no deben ser sinónimo de rutina y cansancio, lo ideal es que todos participen sin importar la edad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué volvió la tensión entre Argentina e Inglaterra por Malvinas/Falklands 44 años después de la guerra",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-volvio-la-tension-entre-argentina-e-inglaterra-por-malvinas-falklands-44-anos-despues-de-la-guerra/",
+      "fecha": "Mon, 14 Sep 2026 11:59:06 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El debate sobre la soberanía de las islas gana intensidad con comentarios ambiguos de Trump y varios intereses internacionales en juego."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Estuve a semanas de casarme con un violador en serie. Mis seres queridos me salvaron la vida&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/estuve-a-semanas-de-casarme-con-un-violador-en-serie-mis-seres-queridos-me-salvaron-la-vida/",
+      "fecha": "Mon, 14 Sep 2026 11:49:28 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La mujer le contó a la BBC cómo su familia y amigos enviaron pruebas cruciales a la policía, lo que condujo a la detención del violador."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Remesas en Guatemala crecen 5.4%, suman US$17 mil 774 millones y Navidad incrementará envíos",
@@ -777,30 +801,6 @@
       "fecha": "Sat, 12 Sep 2026 22:00:31 +0000",
       "categoria": "Escenario",
       "resumen": "La cantante de Bad Romance fue fotografiada junto a Michael Polansky mientras cargaba a un bebé recién nacido, señalado por medios internacionales como hijo de la pareja. Esto se sabe al respecto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bloqueos en Guatemala: Provial da recomendaciones a viajeros en la antesala del descanso del 15 de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-guatemala-provial-da-recomendaciones-a-viajeros-en-la-antesala-del-descanso-del-15-de-septiembre/",
-      "fecha": "Sat, 12 Sep 2026 21:50:57 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los últimos días distintas carreteras han sido bloqueadas por grupos sociales que rechazan el costo de los combustibles y el manejo del gobierno a la crisis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Si pudieron golpear al Louvre, cualquier museo puede ser el siguiente&#8221;: por qué los robos de arte son cada vez más audaces en Europa",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/si-pudieron-golpear-al-louvre-cualquier-museo-puede-ser-el-siguiente-por-que-los-robos-de-arte-son-cada-vez-mas-audaces-en-europa/",
-      "fecha": "Sat, 12 Sep 2026 21:49:46 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los investigadores de delitos artísticos y los expertos en seguridad afirman que los robos en galerías de arte de toda Europa son cada vez más descarados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Doblete de Mbappé y gol de Bellingham: Real Madrid aplastó 4-1 al Rayo Vallecano",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/doblete-de-mbappe-y-gol-de-bellingham-real-madrid-aplasto-4-1-al-rayo-vallecano-breaking/",
-      "fecha": "Sat, 12 Sep 2026 21:23:45 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El francés anotó de penal y sentenció el partido en el tiempo añadido, mientras Carreras y Bellingham completaron la goleada en el Santiago Bernabéu ante el Rayo Vallecano."
     },
     {
       "fuente": "Guatemala.com",
