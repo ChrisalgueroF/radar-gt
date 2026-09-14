@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-14T17:13:43.043Z",
+  "actualizado": "2026-09-14T18:17:16.868Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bus con reporte de robo desde hace diez años es localizado en Escuintla",
+      "link": "https://www.prensalibre.com/guatemala/justicia/bus-con-reporte-de-robo-desde-hace-diez-anos-es-localizado-en-escuintla-breaking/",
+      "fecha": "Mon, 14 Sep 2026 17:42:44 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC informó que, durante un operativo en Escuintla, detuvo a un hombre que conducía un bus reportado como robado hace diez años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué Trump afirma que la IA no necesita control, sino tener un &#8220;presidente fuerte e inteligente&#8221;",
+      "link": "https://www.prensalibre.com/internacional/por-que-trump-afirma-que-la-ia-no-necesita-control-sino-tener-un-presidente-fuerte-e-inteligente/",
+      "fecha": "Mon, 14 Sep 2026 17:29:51 +0000",
+      "categoria": "Internacional",
+      "resumen": "En medio de la polémica por declaraciones sobre los peligros de la IA, Trump dijo que esa tecnología necesita un \"presidente fuerte e inteligente\" en vez de medidas de regulación."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "China rechaza la idea de que está en una &#8220;competencia maliciosa&#8221; con EE.UU. por el control de la IA",
@@ -41,6 +57,14 @@
       "fecha": "Mon, 14 Sep 2026 16:04:47 +0000",
       "categoria": "Deporte Internacional",
       "resumen": "Le diagnosticaron diabetes tipo 1 de niño, pero su madre nunca permitió que la enfermedad definiera su destino."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Premios Emmy 2026: cuándo son, a qué hora y dónde ver la gala",
+      "link": "https://www.prensalibre.com/vida/escenario/premios-emmy-2026-cuando-son-a-que-hora-y-donde-ver-la-gala/",
+      "fecha": "Mon, 14 Sep 2026 15:42:46 +0000",
+      "categoria": "Escenario",
+      "resumen": "Los Premios Emmy 2026 celebrarán su edición 78 en Los Ángeles. Conozca a qué hora comienza la gala y dónde verla en Guatemala."
     },
     {
       "fuente": "Guatemala.com",
@@ -548,11 +572,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Aumento al pasaje en Guatemala: PDH advierte alzas de hasta 30% y denuncia abusos",
+      "titulo": "Aumento al pasaje: PDH advierte alzas de Q2 a Q5 y transportistas las atribuyen al combustible",
       "link": "https://www.prensalibre.com/guatemala/comunitario/aumento-al-pasaje-en-guatemala-pdh-advierte-alzas-de-hasta-30-y-denuncia-abusos/",
       "fecha": "Sun, 13 Sep 2026 18:00:00 +0000",
       "categoria": "Comunitario",
-      "resumen": "El alza de los combustibles ya impacta las tarifas del transporte público. La PDH reporta aumentos de hasta 30%, mientras transportistas los atribuyen al mayor costo de operación."
+      "resumen": "La Defensoría del Usuario de Transporte reporta impacto en las tarifas del transporte público con aumentos de hasta 30%, mientras transportistas los atribuyen al mayor costo de operación."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,30 +809,6 @@
       "fecha": "Sun, 13 Sep 2026 03:44:07 +0000",
       "categoria": "Justicia",
       "resumen": "Autoridades mexicanas capturaron en Chiapas a un guatemalteco señalado como presunto cabecilla de una organización dedicada al tráfico de armas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Motoladrones aprovechan choque para asaltar a conductores y disparan durante la fuga",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/motoladrones-aprovechan-choque-para-asaltar-a-conductores-y-disparan-durante-la-fuga-breaking/",
-      "fecha": "Sun, 13 Sep 2026 01:52:38 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un choque que dos conductores intentaban resolver terminó en un asalto, forcejeo y disparos cuando motoladrones los sorprendieron en el bulevar Liberación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Marquense vs. San Pedro: siga el minuto a minuto de la novena jornada del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-marquense-vs-san-pedro-siga-el-minuto-a-minuto-de-la-novena-jornada-del-apertura-2026-breaking/",
-      "fecha": "Sun, 13 Sep 2026 01:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los leones reciben a los gallos este sábado a las 8:00 PM en el estadio Marquesa de La Ensenada en un duelo entre dos equipos del departamento de San Marcos donde San Pedro buscará meter presión a los líderes del torneo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué pasó con el concierto de Ozuna en Guatemala? Esto se sabe de la cancelación y las fechas para el reembolso de las entradas",
-      "link": "https://www.prensalibre.com/vida/escenario/que-paso-con-el-concierto-de-ozuna-en-guatemala-esto-se-sabe-de-la-cancelacion-y-las-fechas-para-el-reembolso-de-las-entradas/",
-      "fecha": "Sun, 13 Sep 2026 00:56:28 +0000",
-      "categoria": "Escenario",
-      "resumen": "Este 12 de septiembre, los fanáticos de Ozuna esperaban disfrutar de su música en Guatemala; sin embargo, el concierto fue cancelado dos días antes. Esto se sabe sobre la cancelación y el proceso para solicitar el reembolso de las entradas."
     },
     {
       "fuente": "Guatemala.com",
