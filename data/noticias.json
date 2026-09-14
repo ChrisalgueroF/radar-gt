@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-13T23:13:39.218Z",
+  "actualizado": "2026-09-14T00:22:34.466Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Municipal vs. Malacateco: siga el minuto a minuto de la novena jornada",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-municipal-vs-malacateco-siga-el-minuto-a-minuto-de-la-novena-jornada-breaking/",
+      "fecha": "Mon, 14 Sep 2026 00:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El líder del torneo recibe a los toros este domingo a las 7:00 PM en el estadio Manuel Felipe Carrera en un partido donde Municipal buscará defender su liderato  ante un Malacateco que necesita sumar para alejarse de la zona baja de la tabla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En vivo desde Quetzaltenango: siga la elección de la Reina Nacional de las Fiestas de Independencia 2026",
+      "link": "https://www.prensalibre.com/vida/escenario/en-vivo-desde-quetzaltenango-siga-la-eleccion-de-la-reina-nacional-de-las-fiestas-de-independencia-2026/",
+      "fecha": "Mon, 14 Sep 2026 00:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Quetzaltenango celebra la belleza y representación de la mujer guatemalteca con la elección y coronación de la Reina Nacional de las Fiestas de Independencia 2026. Siga aquí el evento en vivo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Por negarse a darle dinero a una desconocida: Mujer es incendiada en una gasolinera de Florida",
@@ -57,6 +73,14 @@
       "fecha": "Sun, 13 Sep 2026 21:56:50 +0000",
       "categoria": "Guatemala",
       "resumen": "Gregorio Gómez Paiz es señalado por tráfico de armas provenientes de EE. UU., incautadas en un puerto de Guatemala, y por posibles nexos con el Cartel de Sinaloa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Dónde habrá más tránsito este 15 de septiembre? Cierres de calles, horarios, rutas alternas y recomendaciones",
+      "link": "https://www.prensalibre.com/vida/escenario/donde-habra-mas-transito-este-15-de-septiembre-cierres-de-calles-horarios-rutas-alternas-y-recomendaciones/",
+      "fecha": "Sun, 13 Sep 2026 21:41:09 +0000",
+      "categoria": "Escenario",
+      "resumen": "Las fiestas patrias podrían ocasionar cierres viales y mayor congestionamiento en distintos puntos de la Ciudad de Guatemala. Autoridades de tránsito emiten recomendaciones para facilitar la movilidad."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,30 +801,6 @@
       "fecha": "Sat, 12 Sep 2026 06:12:00 +0000",
       "categoria": "Comunitario",
       "resumen": "De acuerdo con el Maga, el 95.6% de las pérdidas económicas en la agricultura se debe a la sequía prolongada. Mientras la Conred declara alerta anaranjada nacional por la emergencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Chantaje",
-      "link": "https://www.prensalibre.com/opinion/caricatura/chantaje-2/",
-      "fecha": "Sat, 12 Sep 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Violencia de bloqueos denota oscuros fines",
-      "link": "https://www.prensalibre.com/opinion/editorial/violencia-de-bloqueos-denota-oscuros-fines/",
-      "fecha": "Sat, 12 Sep 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Seguían invocando el daño de la carestía a la población, pero le infligían uno peor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El reinicio debe evaluarse por su proyección",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-reinicio-debe-evaluarse-por-su-proyeccion/",
-      "fecha": "Sat, 12 Sep 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Nada en la vida permanece estático, por ello debemos saber cómo adaptarnos a imprevistos."
     },
     {
       "fuente": "Guatemala.com",
