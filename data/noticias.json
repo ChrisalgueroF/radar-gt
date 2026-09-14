@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-14T04:16:13.992Z",
+  "actualizado": "2026-09-14T05:14:50.323Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Motocicleta con cuatro ocupantes se estrella contra un árbol en pronunciada bajada de Antigua Guatemala y una niña muere",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/motocicleta-con-cuatro-ocupantes-se-estrella-contra-un-arbol-en-pronunciada-bajada-de-antigua-guatemala-y-una-nina-muere-breaking/",
+      "fecha": "Mon, 14 Sep 2026 04:41:24 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Cuatro mujeres, entre ellas dos niñas, viajaban en una motocicleta que perdió el control en una pronunciada bajada de El Hato, Antigua Guatemala. Una menor de 4 años murió."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué el estrecho de Bab el‑Mandeb es clave para el comercio mundial y cómo el avance de los hutíes podría desencadenar una crisis marítima",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-el-estrecho-de-bab-el-mandeb-es-clave-para-el-comercio-mundial-y-como-el-avance-de-los-huties-podria-desencadenar-una-crisis-maritima/",
+      "fecha": "Mon, 14 Sep 2026 04:33:44 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Por Bab el‑Mandeb pasa cerca del 12% del petróleo transportado por mar en el mundo. Con Ormuz bajo presión por la guerra, cualquier alteración de esta ruta tendría un fuerte impacto global."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Maite García, representante de Zacapa, se corona Reina Nacional de las Fiestas de Independencia 2026",
@@ -785,22 +801,6 @@
       "fecha": "Sat, 12 Sep 2026 17:13:05 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El presidente ha vuelto a dejar en claro su distanciamiento con Reino Unido al poner en duda la soberanía sobre un territorio británico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "iPhone 18 Pro y Duo: Apple inicia las ventas en EE. UU. y anticipa las reservas de su primer celular plegable",
-      "link": "https://www.prensalibre.com/internacional/iphone-18-pro-max-y-duo-apple-inicia-las-ventas-y-anticipa-las-reservas-de-su-primer-celular-plegable/",
-      "fecha": "Sat, 12 Sep 2026 17:09:50 +0000",
-      "categoria": "Internacional",
-      "resumen": "Apple abrió las reservas de los iPhone 18 Pro y iPhone 18 Pro Max, presentados por John Ternus con mejoras clave en batería, cámaras y procesador."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El oleoducto que transporta cerca del 5% del petróleo mundial y que Arabia Saudita cerró tras un ataque con drones desde Iraq",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-oleoducto-que-transporta-cerca-del-5-del-petroleo-mundial-y-que-arabia-saudita-cerro-tras-un-ataque-con-drones-desde-iraq/",
-      "fecha": "Sat, 12 Sep 2026 16:14:42 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Iraq destituyó a un comandante militar y abrió una investigación sobre el ataque que provino de una zona fronteriza con Irán."
     },
     {
       "fuente": "Guatemala.com",
