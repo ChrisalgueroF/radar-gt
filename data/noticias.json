@@ -1,7 +1,55 @@
 {
-  "actualizado": "2026-09-14T18:17:16.868Z",
+  "actualizado": "2026-09-14T19:15:33.393Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lamine Yamal: “Este año me merecería ganar el Balón de Oro” y pone a Mbappé como su gran rival",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lamine-yamal-este-ano-me-mereceria-ganar-el-balon-de-oro-y-pone-a-mbappe-como-su-gran-rival-breaking/",
+      "fecha": "Mon, 14 Sep 2026 19:07:33 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El español habló de sus méritos, reconoció qué le faltó en el último Mundial y dejó claro que todavía quiere hacer historia en el futbol."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump eliminará el arancel al whisky irlandés: ¿Qué más anunció durante su visita a Irlanda?",
+      "link": "https://www.prensalibre.com/internacional/trump-eliminara-el-arancel-al-whisky-irlandes-que-mas-anuncio-durante-su-visita-a-irlanda/",
+      "fecha": "Mon, 14 Sep 2026 19:01:10 +0000",
+      "categoria": "Internacional",
+      "resumen": "La decisión del presidente Donald Trump provocó una reacción que reflejó tanto el interés local por el producto como su dimensión política."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Celine Dion regresa a los escenarios tras su diagnóstico de síndrome de persona rígida: así fue su concierto en París",
+      "link": "https://www.prensalibre.com/vida/escenario/celine-dion-regresa-a-los-escenarios-tras-su-diagnostico-de-sindrome-de-persona-rigida-asi-fue-su-concierto-en-paris/",
+      "fecha": "Mon, 14 Sep 2026 18:21:47 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante canadiense Celine Dion comenzó su residencia en París, con la que marca su regreso a los escenarios tras varios años de recuperación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué hay preocupaciones de que la IA pueda amenazar a la humanidad y qué tan reales son",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/por-que-hay-preocupaciones-de-que-la-ia-pueda-amenazar-a-la-humanidad-y-que-tan-reales-son/",
+      "fecha": "Mon, 14 Sep 2026 18:18:03 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los llamados a la regulación de la IA aumentan a medida que investigadores y directivos preocupados emiten advertencias inquietantes sobre el potencial de esta tecnología."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La Ruta Ganadora, vuelve la promoción Prensa Libre, Gasolineras Uno y Banco Cuscatlán",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/la-ruta-ganadora-vuelve-la-promocion-prensa-libre-gasolineras-uno-y-banco-cuscatlan/",
+      "fecha": "Mon, 14 Sep 2026 18:12:47 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "La Ruta ganadora premiará a 30 lectores de Prensa Libre, que llenen su tanque en Gasolineras Uno y usen tarjetas del Banco Cuscatlán. Acá le decimos cómo participar y ganar vales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo señala que políticos y narcos orquestaron bloqueos, pero el MP no reporta denuncias por los hechos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/arevalo-senala-que-politicos-y-narcos-orquestaron-bloqueos-pero-el-mp-no-reporta-denuncias-por-los-hechos/",
+      "fecha": "Mon, 14 Sep 2026 17:58:03 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Gobernación dijo que aún trabaja en verificar los indicios que sustentan el señalamiento antes de presentar una denuncia ante el MP."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Bus con reporte de robo desde hace diez años es localizado en Escuintla",
@@ -49,6 +97,14 @@
       "fecha": "Mon, 14 Sep 2026 16:53:47 +0000",
       "categoria": "Justicia",
       "resumen": "Denuncias permitieron identificar a sospechosa de hurtar celulares en concierto en Quetzaltenango."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC revela nuevos detalles del ataque contra concejal de Usumatlán y de dónde estuvo antes de ser emboscado",
+      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-revela-nuevos-detalles-del-ataque-contra-concejal-de-usumatlan-y-de-donde-estuvo-antes-de-ser-emboscado/",
+      "fecha": "Mon, 14 Sep 2026 16:31:26 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La PNC reveló dónde estuvo el concejal de Vamos antes de ser atacado a balazos en Zacapa."
     },
     {
       "fuente": "Prensa Libre",
@@ -273,6 +329,14 @@
       "fecha": "Mon, 14 Sep 2026 04:33:44 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Por Bab el‑Mandeb pasa cerca del 12% del petróleo transportado por mar en el mundo. Con Ormuz bajo presión por la guerra, cualquier alteración de esta ruta tendría un fuerte impacto global."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El alarmante llamado del director de Anthropic para ralentizar el desarrollo de la inteligencia artificial",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/el-alarmante-llamado-del-director-de-anthropic-para-ralentizar-el-desarrollo-de-la-inteligencia-artificial/",
+      "fecha": "Mon, 14 Sep 2026 03:42:47 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La petición surge en medio de la creciente preocupación por que los modelos de IA puedan llegar a ser capaces de causar graves daños en todo el mundo."
     },
     {
       "fuente": "Prensa Libre",
@@ -745,70 +809,6 @@
       "fecha": "Sun, 13 Sep 2026 06:05:00 +0000",
       "categoria": "Editorial",
       "resumen": "La libertad se firma hoy con espíritu crítico, coherencia ética e ingenio ciudadano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Conquistados o conquistadores?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/conquistados-o-conquistadores/",
-      "fecha": "Sun, 13 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Ser conquistadores de nuestro presente y dueños de nuestro futuro, en lugar de conquistados por la mediocridad, el pesimismo y la costumbre, es la actitud que este país necesita multiplicar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala no sale del hoyo porque sigue cavando",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/guatemala-no-sale-del-hoyo-porque-sigue-cavando/",
-      "fecha": "Sun, 13 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El país no sale del hoyo porque insiste en cavar con las mismas prácticas que lo hundieron."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡Uf, qué peligroso!",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/uf-que-peligroso/",
-      "fecha": "Sun, 13 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El cobro de multas de CBP llegaría hasta comunidades sin policía y controles territoriales paralelos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La puerta de las lamentaciones",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-puerta-de-las-lamentaciones/",
-      "fecha": "Sun, 13 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La crisis del estrecho de Ormuz amenaza ahora al mar Rojo y, por consecuencia, al resto del mundo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy domingo 13 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-domingo-13-de-septiembre-de-2026/",
-      "fecha": "Sun, 13 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué la figura de Mao sigue tan vigente en China 50 años después de su muerte",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-la-figura-de-mao-sigue-tan-vigente-en-china-50-anos-despues-de-su-muerte/",
-      "fecha": "Sun, 13 Sep 2026 04:18:14 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los videos del difunto líder comunista están acumulando millones de visitas en internet, ya que parece haber un resurgimiento de su popularidad entre algunos jóvenes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Derbi sin goles: Marquense y San Pedro empatan en la novena jornada del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/derbi-sin-goles-marquense-y-san-pedro-empatan-en-la-novena-jornada-del-apertura-2026-breaking/",
-      "fecha": "Sun, 13 Sep 2026 04:00:22 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los leones y los gallos no pudieron encontrar el gol en el estadio Marquesa de La Ensenada en un partido muy disputado pero con pocas ocasiones claras."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan en México a guatemalteco señalado como presunto cabecilla de red de tráfico de armas",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-en-mexico-a-guatemalteco-senalado-como-presunto-cabecilla-de-red-de-trafico-de-armas-breaking/",
-      "fecha": "Sun, 13 Sep 2026 03:44:07 +0000",
-      "categoria": "Justicia",
-      "resumen": "Autoridades mexicanas capturaron en Chiapas a un guatemalteco señalado como presunto cabecilla de una organización dedicada al tráfico de armas."
     },
     {
       "fuente": "Guatemala.com",
