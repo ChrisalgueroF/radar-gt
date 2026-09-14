@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-14T13:17:55.337Z",
+  "actualizado": "2026-09-14T14:17:31.417Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Congreso Nacional de Seguridad Vial: Guatemala alista plan de cuatro años para reducir accidentes",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/congreso-nacional-de-seguridad-vial-guatemala-alista-plan-de-cuatro-anos-para-reducir-accidentes/",
+      "fecha": "Mon, 14 Sep 2026 14:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Guatemala presentará el próximo 28 de septiembre un plan de acción a cuatro años para reducir la siniestralidad vial, como parte del 6.º Congreso Internacional de Seguridad Vial, y definir una hoja de ruta hacia un sistema de movilidad más seguro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así estará el clima en Guatemala el 15 de septiembre y durante el resto de la semana",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/asi-estara-el-clima-en-guatemala-el-15-de-septiembre-y-durante-el-resto-de-la-semana-breaking/",
+      "fecha": "Mon, 14 Sep 2026 13:53:56 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh compartió el boletín en que detalla, por región, cuáles serán las temperaturas máximas y la posibilidad de lluvias del 14 al 18 de septiembre."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Dos jóvenes mueren en accidente de tránsito durante recorrido de antorcha en Suchitepéquez",
@@ -785,22 +801,6 @@
       "fecha": "Sat, 12 Sep 2026 23:30:08 +0000",
       "categoria": "Internacional",
       "resumen": "Pedro Alonso había decidido tomarse un descanso cuando recibió la propuesta de Eugenio Derbez, quien lo convenció porque la serie combina una historia basada en crímenes reales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video: Golazo de Ana Lucía Martínez abrió el marcador en la victoria de Cruz Azul sobre Pumas",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/video-golazo-de-ana-lucia-martinez-abrio-el-marcador-en-la-victoria-de-cruz-azul-sobre-pumas-breaking/",
-      "fecha": "Sat, 12 Sep 2026 22:33:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La guatemalteca anotó al minuto 24 tras recortar a una defensora y disparar con precisión para poner el 1-0 en lo que fue el inicio de una victoria sufrida que Cruz Azul consiguió tras remontar el marcador en la segunda mitad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Yanet “N”? La estadounidense detenida con armas y ligada al Cártel de Sinaloa",
-      "link": "https://www.prensalibre.com/internacional/quien-es-yanet-n-la-estadounidense-detenida-con-armas-y-ligada-al-cartel-de-sinaloa/",
-      "fecha": "Sat, 12 Sep 2026 22:01:16 +0000",
-      "categoria": "Internacional",
-      "resumen": "La estadounidense fue señalada por las autoridades mexicanas como operadora logística para el trasiego de armamento en el estado de Sonora."
     },
     {
       "fuente": "Guatemala.com",
