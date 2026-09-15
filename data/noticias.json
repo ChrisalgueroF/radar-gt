@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-15T17:13:43.848Z",
+  "actualizado": "2026-09-15T18:16:36.581Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué el río Las Vacas se tornó rojo? Esto investiga el MARN",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/por-que-el-rio-las-vacas-se-torno-rojo-esto-investiga-el-marn-breaking/",
+      "fecha": "Tue, 15 Sep 2026 18:13:20 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Ministerio de Ambiente analiza la coloración rojiza y busca establecer qué sustancia la produjo y su origen, mientras persisten antecedentes de contaminación en el afluente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por primera vez Japón supera las 100.000 personas con 100 años o más (y qué hay detrás de esta asombrosa longevidad)",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-primera-vez-japon-supera-las-100-000-personas-con-100-anos-o-mas-y-que-hay-detras-de-esta-asombrosa-longevidad/",
+      "fecha": "Tue, 15 Sep 2026 17:45:57 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las cifras muestran que el 88% de los centenarios son mujeres, en un contexto en el que la población continúa envejeciendo y disminuyendo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Zendaya y Tom Holland: ¿Realmente están casados?",
@@ -801,22 +817,6 @@
       "fecha": "Mon, 14 Sep 2026 06:05:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Este es un brevísimo resumen de algunos hechos —buenos o malos— de nuestra historia, la gran desconocida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "TPS para salvadoreños: empresas comienzan a despedir trabajadores ante la incertidumbre en EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/tps-para-salvadorenos-empresas-comienzan-a-despedir-trabajadores-ante-la-incertidumbre-en-ee-uu/",
-      "fecha": "Mon, 14 Sep 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Unos 232 mil salvadoreños siguen sin certeza sobre su permiso de trabajo, mientras empresas suspenden empleados y algunas familias se preparan para dejar EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Infraestructura y certeza jurídica para el grado de inversión",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/infraestructura-y-certeza-juridica-para-el-grado-de-inversion/",
-      "fecha": "Mon, 14 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Dos palabras que ayudan a entender el reto"
     },
     {
       "fuente": "Guatemala.com",
