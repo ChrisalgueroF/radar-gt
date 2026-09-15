@@ -1,7 +1,87 @@
 {
-  "actualizado": "2026-09-15T05:15:22.118Z",
+  "actualizado": "2026-09-15T06:21:09.853Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entrevista: La clave no es evitar la disrupción, sino aprovecharla y con liderazgo convertir la incertidumbre en oportunidad",
+      "link": "https://www.prensalibre.com/economia/entrevista-la-clave-no-es-evitar-la-disrupcion-sino-aprovecharla-y-con-liderazgo-convertir-la-incertidumbre-en-oportunidad/",
+      "fecha": "Tue, 15 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La disrupción no debe verse como una amenaza, sino como una oportunidad para innovar y generar valor, según lo que plantea Patrick Leddin, experto en liderazgo y estrategia de Franklin Covey."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fuego apátrida",
+      "link": "https://www.prensalibre.com/opinion/caricatura/fuego-apatrida/",
+      "fecha": "Tue, 15 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inveterada y dañosa polarización desde 1821",
+      "link": "https://www.prensalibre.com/opinion/editorial/inveterada-y-danosa-polarizacion-desde-1821/",
+      "fecha": "Tue, 15 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "El ansia de fortalecer la democracia y Estado de derecho nunca será un error."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mineduc destinará Q127 millones a la compra de tabletas e internet para estudiantes de diversificado",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/mineduc-destinara-q127-millones-a-la-compra-de-tabletas-e-internet-para-estudiantes-de-diversificado/",
+      "fecha": "Tue, 15 Sep 2026 06:05:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La compra de tabletas estará a cargo de las Organizaciones de Padres de Familia (OPF) de los institutos de diversificado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pisa: el fracaso que Guatemala ya no puede maquillar",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/pisa-el-fracaso-que-guatemala-ya-no-puede-maquillar/",
+      "fecha": "Tue, 15 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El problema educativo no son nuestros jóvenes, es un sistema que no les está dando las herramientas que necesitan para construir su futuro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Invita el gobierno, usted paga",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/invita-el-gobierno-usted-paga/",
+      "fecha": "Tue, 15 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El gobernante aparece como benefactor y el contribuyente rara vez hace la cuenta completa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las autoridades indígenas no son terroristas",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/las-autoridades-indigenas-no-son-terroristas/",
+      "fecha": "Tue, 15 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Se quiso equiparar la organización comunitaria con una estructura criminal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy martes 15 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-15-de-septiembre-de-2026/",
+      "fecha": "Tue, 15 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asombro por el mercado y lo mundano",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/asombro-por-el-mercado-y-lo-mundano/",
+      "fecha": "Tue, 15 Sep 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Los conocimientos perdidos en el tiempo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Antes era mejor?",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/antes-era-mejor/",
+      "fecha": "Tue, 15 Sep 2026 06:00:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "Cuando la política se basa en ponerle límites al gobierno y resguardar las libertades ciudadanas, las cosas van bien."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Premios Emmy 2026: estos son los ganadores de una gala en la que hizo historia la serie de comedia &#8220;Widow’s Bay&#8221;",
@@ -737,86 +817,6 @@
       "fecha": "Mon, 14 Sep 2026 00:43:01 +0000",
       "categoria": "Sucesos",
       "resumen": "Una mujer cayó desde una catarata de unos 40 metros y golpeó a otra fémina y a una niña. El hecho dejó una fallecida y dos heridas en San Miguel Dueñas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quiénes son los hijos de los capos que estudian en escuelas de élite en Estados Unidos para limpiar su apellido",
-      "link": "https://www.prensalibre.com/internacional/quienes-son-los-hijos-de-los-capos-que-estudian-en-escuelas-de-elite-en-estados-unidos-para-limpiar-su-apellido/",
-      "fecha": "Mon, 14 Sep 2026 00:14:10 +0000",
-      "categoria": "Internacional",
-      "resumen": "Descendientes de cabecillas de carteles mexicanos han estudiado en instituciones educativas estadounidenses, desde escuelas públicas hasta internados que cobran más de US$100 mil al año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Municipal vs. Malacateco: siga el minuto a minuto de la novena jornada",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-municipal-vs-malacateco-siga-el-minuto-a-minuto-de-la-novena-jornada-breaking/",
-      "fecha": "Mon, 14 Sep 2026 00:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El líder del torneo recibe a los toros este domingo a las 7:00 PM en el estadio Manuel Felipe Carrera en un partido donde Municipal buscará defender su liderato  ante un Malacateco que necesita sumar para alejarse de la zona baja de la tabla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En vivo desde Quetzaltenango: siga la elección de la Reina Nacional de las Fiestas de Independencia 2026",
-      "link": "https://www.prensalibre.com/vida/escenario/en-vivo-desde-quetzaltenango-siga-la-eleccion-de-la-reina-nacional-de-las-fiestas-de-independencia-2026/",
-      "fecha": "Mon, 14 Sep 2026 00:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Quetzaltenango celebra la belleza y representación de la mujer guatemalteca con la elección y coronación de la Reina Nacional de las Fiestas de Independencia 2026. Siga aquí el evento en vivo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por negarse a darle dinero a una desconocida: Mujer es incendiada en una gasolinera de Florida",
-      "link": "https://www.prensalibre.com/internacional/por-negarse-a-darle-dinero-a-una-desconocida-mujer-es-incendiada-en-una-gasolinera-de-florida/",
-      "fecha": "Sun, 13 Sep 2026 23:01:24 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una gasolinera en Florida fue escenario de un ataque que las autoridades calificaron como uno de los más inusuales en la historia reciente del estado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lady Gaga y Michael Polansky aparecen con un bebé: las primeras fotografías durante un paseo en California",
-      "link": "https://www.prensalibre.com/vida/escenario/lady-gaga-y-michael-polansky-aparecen-con-un-bebe-las-primeras-fotografias-durante-un-paseo-en-california/",
-      "fecha": "Sun, 13 Sep 2026 22:47:09 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante y actriz Lady Gaga fue fotografiada en California mientras paseaba con un bebé junto a su prometido, Michael Polansky. Esto se sabe sobre la maternidad atribuida a la artista."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan en Colombia a El Cantante, vinculado con rutas internacionales de narcotráfico",
-      "link": "https://www.prensalibre.com/internacional/capturan-en-colombia-a-el-cantante-vinculado-con-rutas-internacionales-de-narcotrafico/",
-      "fecha": "Sun, 13 Sep 2026 22:46:25 +0000",
-      "categoria": "Internacional",
-      "resumen": "Alias El Cantante es señalado de coordinar rutas marítimas para el traslado de cocaína hacia Centroamérica y Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Alexander Zverev es campeón del US Open 2026 tras vencer a Ben Shelton en una final épica",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/alexander-zverev-es-campeon-del-us-open-2026-tras-vencer-a-ben-shelton-en-una-final-epica-breaking/",
-      "fecha": "Sun, 13 Sep 2026 22:13:24 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "El alemán se impuso en el Arthur Ashe Stadium para sumar su segundo Grand Slam del año tras Roland Garros en una final donde Ben Shelton dio pelea pero no pudo con la solidez de Zverev."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Enjambre de 90 microsismos inquieta a Los Ángeles mientras expertos estudian el riesgo de grandes terremotos",
-      "link": "https://www.prensalibre.com/internacional/enjambre-de-90-microsismos-inquieta-a-los-angeles-mientras-expertos-estudian-el-riesgo-de-grandes-terremotos/",
-      "fecha": "Sun, 13 Sep 2026 22:03:13 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un enjambre de 90 microsismos sacudió zonas de Los Ángeles, EE.UU, durante horas y volvió a centrar la atención en las fallas Newport-Inglewood y San Andrés."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Guastatoya vs. Xelajú MC: siga el minuto a minuto de la novena jornada",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guastatoya-vs-xelaju-mc-siga-el-minuto-a-minuto-de-la-novena-jornada-breaking/",
-      "fecha": "Sun, 13 Sep 2026 22:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los pecho amarillo reciben a los superchivos este domingo a las 5:00 PM en el estadio David Cordón Hichos en un duelo entre dos equipos que buscan escalar posiciones en la tabla del Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Revelan detalles del guatemalteco Gregorio Gómez Paiz y sus presuntos vínculos con el Cartel de Sinaloa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/revelan-detalles-del-guatemalteco-gregorio-gomez-paiz-y-sus-presuntos-vinculos-con-el-cartel-de-sinaloa/",
-      "fecha": "Sun, 13 Sep 2026 21:56:50 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Gregorio Gómez Paiz es señalado por tráfico de armas provenientes de EE. UU., incautadas en un puerto de Guatemala, y por posibles nexos con el Cartel de Sinaloa."
     },
     {
       "fuente": "Guatemala.com",
