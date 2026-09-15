@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-15T00:22:41.416Z",
+  "actualizado": "2026-09-15T01:16:38.839Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jaulas del tamaño de una cabina telefónica y otros abusos registrados en &#8220;Alligator Alcatraz&#8221;",
+      "link": "https://www.prensalibre.com/internacional/jaulas-del-tamano-de-una-cabina-telefonica-y-otros-abusos-registrados-en-alligator-alcatraz/",
+      "fecha": "Tue, 15 Sep 2026 00:28:12 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un informe del Gobierno de EE. UU. constató el uso de jaulas metálicas y otras formas de abuso dentro del centro \"Alligator Alcatraz\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fredy Toc se corona campeón de la Prevuelta de Chimaltenango y apunta a la Vuelta a Guatemala",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/fredy-toc-se-corona-campeon-de-la-prevuelta-de-chimaltenango-y-apunta-a-la-vuelta-a-guatemala-breaking/",
+      "fecha": "Tue, 15 Sep 2026 00:12:33 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "Fredy Toc lideró el dominio de ECA Electricidad, que ganó las cuatro etapas y llega fortalecido a la Vuelta a Guatemala."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Allan Rodríguez se da por aludido y responde a Arévalo por señalamientos sobre la ley de combustibles",
@@ -169,6 +185,14 @@
       "fecha": "Mon, 14 Sep 2026 19:07:33 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "El español habló de sus méritos, reconoció qué le faltó en el último Mundial y dejó claro que todavía quiere hacer historia en el futbol."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Verificamos por usted: ¿Los pilotos del avión de Amazon accidentado en Miami tendrán proceso penal?",
+      "link": "https://www.prensalibre.com/internacional/verificamos-por-usted-los-pilotos-del-avion-de-amazon-accidentado-en-miami-tendran-proceso-penal/",
+      "fecha": "Mon, 14 Sep 2026 19:04:30 +0000",
+      "categoria": "Internacional",
+      "resumen": "Dos pilotos manejaron el avión de Amazon que se accidentó el pasado 6 de septiembre en Miami y que dejó cinco personas fallecidas."
     },
     {
       "fuente": "Prensa Libre",
@@ -340,7 +364,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "EN VIVO: Celebran solemne tedeum por los 205 años de la Independencia de Guatemala",
+      "titulo": "EN VIVO: Plaza de la Constitución se viste de gala con música y alegría por los 205 años de Independencia",
       "link": "https://www.prensalibre.com/guatemala/comunitario/en-vivo-antorchas-recomendaciones-y-otras-actividades-civicas-con-motivo-de-la-fiesta-de-independencia-breaking/",
       "fecha": "Mon, 14 Sep 2026 14:59:29 +0000",
       "categoria": "Comunitario",
@@ -801,30 +825,6 @@
       "fecha": "Sun, 13 Sep 2026 18:35:02 +0000",
       "categoria": "Internacional",
       "resumen": "EE. UU. designó públicamente a siete exfuncionarios ecuatorianos por su participación en actos significativos de corrupción vinculados a organizaciones terroristas extranjeras."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC retira cámaras ilegales: nuevo operativo detecta dispositivos que atribuye a pandillas en Villa Hermosa 1",
-      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-retira-camaras-ilegales-nuevo-operativo-detecta-dispositivos-que-atribuye-a-pandillas-en-villa-hermosa-1/",
-      "fecha": "Sun, 13 Sep 2026 18:17:48 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La PNC retiró cámaras en Villa Hermosa 1 que, según sus investigaciones, eran utilizadas la Mara Salvatrucha  para vigilar a vecinos y comerciantes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué se sabe de las firmas de documentos que manifestantes pedían en los bloqueos de la Bethania",
-      "link": "https://www.prensalibre.com/guatemala/politica/que-se-sabe-de-las-firmas-de-documentos-que-manifestantes-pedian-en-los-bloqueos-de-la-bethania/",
-      "fecha": "Sun, 13 Sep 2026 18:09:05 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Edgar Ortiz, de Poder Ciudadano, que impulsa una reforma constitucional, dice que exigir firmas de la manera en que ocurrió en los bloqueos recientes incurre  en coacción y amenazas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Cobán Imperial vs. Comunicaciones FC: siga el minuto a minuto de la novena jornada",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-coban-imperial-vs-comunicaciones-fc-siga-el-minuto-a-minuto-de-la-novena-jornada-breaking/",
-      "fecha": "Sun, 13 Sep 2026 18:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los príncipes azules reciben a los cremas este domingo a la 1:00 PM en el estadio José Ángel Rossi en un duelo donde ambos equipos llegan con la urgencia de sumar tras acumular malos resultados en las últimas jornadas."
     },
     {
       "fuente": "Guatemala.com",
