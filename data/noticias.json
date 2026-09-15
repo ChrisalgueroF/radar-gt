@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-15T19:13:39.958Z",
+  "actualizado": "2026-09-15T20:15:29.315Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué las principales petroleras de EE.UU. no participan en el &#8220;mayor acuerdo de la historia&#8221; firmado por los gobiernos de Trump y Delcy Rodríguez",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/por-que-las-principales-petroleras-de-ee-uu-no-participan-en-el-mayor-acuerdo-de-la-historia-firmado-por-los-gobiernos-de-trump-y-delcy-rodriguez/",
+      "fecha": "Tue, 15 Sep 2026 19:28:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Para el acuerdo petrolero con Venezuela, el gobierno de EE.UU. está trabajando con una empresa poco conocida, en lugar de con gigantes energéticos como ExxonMobil. ¿Por qué ocurre esto?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vitto Murga: la guatemalteca que diseña para Ricardo Arjona debuta en la Semana de la Moda de Nueva York y presenta colección de edición limitada",
+      "link": "https://www.prensalibre.com/vida/escenario/vitto-murga-la-guatemalteca-que-disena-para-ricardo-arjona-debuta-en-la-semana-de-la-moda-de-nueva-york-y-presenta-coleccion-de-edicion-limitada/",
+      "fecha": "Tue, 15 Sep 2026 19:27:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Vitto Murga debutó en la plataforma Fashion Designers of Latin America (FDLA), en la Semana de la Moda de Nueva York, EE. UU., con una colección que incluyó piezas de edición limitada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El empresario colombiano Alex Saab, aliado clave de Nicolás Maduro, se declara culpable de lavado de dinero y entregará US$195 millones a EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-empresario-colombiano-alex-saab-aliado-clave-de-nicolas-maduro-se-declara-culpable-de-lavado-de-dinero-y-entregara-us195-millones-a-ee-uu/",
+      "fecha": "Tue, 15 Sep 2026 19:17:48 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Saab, quien llegó a ser ministro del gobierno de Maduro, cambió su declaración anterior de \"no culpable\" a \"culpable\" en un tribunal de Miami, tras un acuerdo con la Fiscalía."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Nuevo aumento de combustibles lleva al diésel cerca de Q50 por galón, en modalidad autoservicio",
@@ -9,6 +33,14 @@
       "fecha": "Tue, 15 Sep 2026 19:03:00 +0000",
       "categoria": "Economía",
       "resumen": "Los precios de las gasolinas y el diésel mantienen una tendencia al alza desde el inicio del conflicto entre Estados Unidos e Irán. En menos de ocho meses, las gasolinas han aumentado cerca de 60%, mientras el diésel acumula un alza de 93% y se acerca a duplicar el precio con el que comenzó el año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Selección de Argentina define fechas y rivales a enfrentar después de perder el Mundial 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/seleccion-de-argentina-define-fechas-y-rivales-a-enfrentar-despues-de-perder-el-mundial-2026-breaking/",
+      "fecha": "Tue, 15 Sep 2026 18:56:01 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La Albiceleste prepara su regreso a la acción en casa, en medio de la expectativa por la posible presencia de Lionel Messi y con dudas sobre su próxima convocatoria."
     },
     {
       "fuente": "Prensa Libre",
@@ -49,6 +81,14 @@
       "fecha": "Tue, 15 Sep 2026 17:09:00 +0000",
       "categoria": "Escenario",
       "resumen": "El estilista de la actriz, quien en marzo afirmó que la boda ya se había realizado, ahora dice que mintió y que la pareja aún no ha celebrado una ceremonia oficial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Wolverine llega a PlayStation con un juego de acción sin límite",
+      "link": "https://www.prensalibre.com/vida/escenario/wolverine-llega-a-playstation-con-un-juego-de-accion-sin-limite/",
+      "fecha": "Tue, 15 Sep 2026 17:05:10 +0000",
+      "categoria": "Escenario",
+      "resumen": "Una de las más importantes apuestas del año en el mundo de los videojuegos está basada en el famoso personaje de derivado de los \"X-Men\"."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,46 +817,6 @@
       "fecha": "Mon, 14 Sep 2026 11:59:06 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El debate sobre la soberanía de las islas gana intensidad con comentarios ambiguos de Trump y varios intereses internacionales en juego."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Estuve a semanas de casarme con un violador en serie. Mis seres queridos me salvaron la vida&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/estuve-a-semanas-de-casarme-con-un-violador-en-serie-mis-seres-queridos-me-salvaron-la-vida/",
-      "fecha": "Mon, 14 Sep 2026 11:49:28 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La mujer le contó a la BBC cómo su familia y amigos enviaron pruebas cruciales a la policía, lo que condujo a la detención del violador."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Remesas en Guatemala crecen 5.4%, suman US$17 mil 774 millones y Navidad incrementará envíos",
-      "link": "https://www.prensalibre.com/economia/remesas-en-guatemala-crecen-5-4-suman-us17-mil-774-millones-y-navidad-incrementara-envios/",
-      "fecha": "Mon, 14 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "En la reciente actualización de la balanza cambiaria, Guatemala recibió US$17 mil 774 millones en divisas por remesas familiares, lo que equivale a un incremento del 5.4%. El país ingresa a la temporada de mayores flujos del año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Los impactos de la sequía ya están llegando a las áreas urbanas”: la crisis alimentaria amenaza con extenderse a las ciudades",
-      "link": "https://www.prensalibre.com/guatemala/los-impactos-de-la-sequia-ya-estan-llegando-a-las-areas-urbanas-la-crisis-alimentaria-amenaza-con-extenderse-a-las-ciudades/",
-      "fecha": "Mon, 14 Sep 2026 06:12:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Experto de Oxfam habla de los efectos de la sequía en Guatemala, que se creía que solo afectaba a las áreas en pobreza, pero la crisis escala poco a poco a las ciudades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Juntas Electorales rumbo al 2027: su papel clave y las alertas por posibles presiones",
-      "link": "https://www.prensalibre.com/guatemala/politica/juntas-electorales-rumbo-al-2027-su-papel-clave-y-las-alertas-por-posibles-presiones/",
-      "fecha": "Mon, 14 Sep 2026 06:10:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El TSE convocará a 115 personas para las 22 Juntas Electorales Departamentales (JEDS) y la Junta Electoral del Distrito Central (JEDC) que comprende la ciudad de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Restricciones en el Canal de Panamá elevan riesgos logísticos para Guatemala",
-      "link": "https://www.prensalibre.com/economia/restricciones-en-el-canal-de-panama-elevan-riesgos-logisticos-para-guatemala/",
-      "fecha": "Mon, 14 Sep 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Las limitaciones en el tránsito de buques por el Canal de Panamá, debido al déficit de lluvias asociado con el fenómeno de El Niño, podrían tener repercusiones en el comercio exterior de Guatemala. El sector logístico ya anticipa posibles efectos."
     },
     {
       "fuente": "Guatemala.com",
