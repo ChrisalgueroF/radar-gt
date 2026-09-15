@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-15T04:16:21.292Z",
+  "actualizado": "2026-09-15T05:15:22.118Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Premios Emmy 2026: estos son los ganadores de una gala en la que hizo historia la serie de comedia &#8220;Widow’s Bay&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/premios-emmy-2026-estos-son-los-ganadores-de-una-gala-en-la-que-hizo-historia-la-serie-de-comedia-widows-bay/",
+      "fecha": "Tue, 15 Sep 2026 04:42:28 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "\"Widow's Bay\" se llevó 14 premios, más que ningún otra serie de comedia en una edición de los Emmy."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Premios Emmy 2026: Taylor Swift sorprende con un número cómico junto al elenco de La ley y el orden: UVE",
+      "link": "https://www.prensalibre.com/vida/escenario/premios-emmy-2026-taylor-swift-sorprende-con-un-numero-comico-junto-al-elenco-de-la-ley-y-el-orden-uve/",
+      "fecha": "Tue, 15 Sep 2026 04:31:25 +0000",
+      "categoria": "Escenario",
+      "resumen": "Uno de los momentos destacados de la 78.ª edición de los Premios Emmy fue la aparición de Taylor Swift, quien protagonizó un número cómico junto al elenco de La ley y el orden: UVE."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pasajera protagoniza insólito incidente al quitarse toda la ropa durante un vuelo a Miami",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/pasajera-protagoniza-insolito-incidente-al-quitarse-toda-la-ropa-durante-un-vuelo-a-miami/",
+      "fecha": "Tue, 15 Sep 2026 04:19:34 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Una pasajera se quitó toda la ropa y cometió actos considerados indecentes durante un vuelo de Baltimore a Miami, donde quedó bajo custodia policial."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Superintendente de Competencia: 34 candidatos continúan en el proceso tras subsanar expedientes",
@@ -793,30 +817,6 @@
       "fecha": "Sun, 13 Sep 2026 21:56:50 +0000",
       "categoria": "Guatemala",
       "resumen": "Gregorio Gómez Paiz es señalado por tráfico de armas provenientes de EE. UU., incautadas en un puerto de Guatemala, y por posibles nexos con el Cartel de Sinaloa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Dónde habrá más tránsito este 15 de septiembre? Cierres de calles, horarios, rutas alternas y recomendaciones",
-      "link": "https://www.prensalibre.com/vida/escenario/donde-habra-mas-transito-este-15-de-septiembre-cierres-de-calles-horarios-rutas-alternas-y-recomendaciones/",
-      "fecha": "Sun, 13 Sep 2026 21:41:09 +0000",
-      "categoria": "Escenario",
-      "resumen": "Las fiestas patrias podrían ocasionar cierres viales y mayor congestionamiento en distintos puntos de la Ciudad de Guatemala. Autoridades de tránsito emiten recomendaciones para facilitar la movilidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Más detalles del accidente aéreo en Miami que dejó muertos: Sobreviviente demanda a Amazon",
-      "link": "https://www.prensalibre.com/internacional/mas-detalles-del-accidente-aereo-en-miami-que-dejo-muertos-sobreviviente-demanda-a-amazon/",
-      "fecha": "Sun, 13 Sep 2026 21:36:37 +0000",
-      "categoria": "Internacional",
-      "resumen": "Aunque sobrevivió, la defensa sostiene que “el hombre se vio obligado a permanecer en el suelo, consciente de sus graves lesiones y temiendo por su vida”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rusia ataca un tren ucraniano poco después de que Boris Johnson y altos funcionarios europeos abandonaran la estación",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/rusia-ataca-un-tren-ucraniano-poco-despues-de-que-boris-johnson-y-altos-funcionarios-europeos-abandonaran-la-estacion/",
-      "fecha": "Sun, 13 Sep 2026 21:23:58 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El ex primer ministro británico dijo: \"No sé qué lógica retorcida llevó a Putin a volar por los aires una locomotora ucraniana estacionada en la frontera polaca esta mañana\"."
     },
     {
       "fuente": "Guatemala.com",
