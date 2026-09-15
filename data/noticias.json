@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-15T11:14:57.239Z",
+  "actualizado": "2026-09-15T12:19:40.579Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Acta de la Independencia: ¿dónde y cómo se encuentra el histórico documento?",
+      "link": "https://www.prensalibre.com/vida/escenario/el-acta-de-la-independencia-donde-se-encuentra-el-historico-documento/",
+      "fecha": "Tue, 15 Sep 2026 12:12:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Además del significado que tiene para los países centroamericanos, esta pieza ha tenido una interesante historia de sobrevivencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jantelagen, la idea que explica por qué los suecos valoran la humildad y no ponerse por encima de los demás",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jantelagen-la-idea-que-explica-por-que-los-suecos-valoran-la-humildad-y-no-ponerse-por-encima-de-los-demas/",
+      "fecha": "Tue, 15 Sep 2026 11:29:43 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En Suecia se valora la igualdad y sus habitantes son famosos por su reticencia a destacar. Sin embargo, también son tremendamente individualistas y saben cómo divertirse. Un concepto centenario ayuda a explicar estas contradicciones."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Desnutrición aguda: 32 niños han muerto en Guatemala en 2026 y hay riesgo de que la cifra aumente por la sequía",
@@ -801,22 +817,6 @@
       "fecha": "Mon, 14 Sep 2026 02:30:53 +0000",
       "categoria": "Política",
       "resumen": "El presidente Bernardo Arévalo señaló que políticos locales se habrían asociado con integrantes del narcotráfico y otros grupos criminales para financiar los bloqueos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Concejal de la Municipalidad de Usumatlán resulta herido en emboscada en Estanzuela, Zacapa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/concejal-de-la-municipalidad-de-usumatlan-resulta-herido-en-emboscada-en-estanzuela-zacapa-breaking/",
-      "fecha": "Mon, 14 Sep 2026 01:59:07 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El concejal del partido Vamos fue atacado a balazos en Zacapa. El alcalde de Usumatlán, de la misma agrupación política, pidió investigar el hecho."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Goles de Almanza y Ávalos le dieron a Guastatoya la victoria 2-1 sobre Xelajú en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/goles-de-almanza-y-avalos-le-dieron-a-guastatoya-la-victoria-2-1-sobre-xelaju-en-el-apertura-2026-breaking/",
-      "fecha": "Mon, 14 Sep 2026 01:06:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Guastatoya controló el partido de principio a fin y resistió el descuento de Xelajú para llevarse una victoria importante en el David Cordón Hichos."
     },
     {
       "fuente": "Guatemala.com",
