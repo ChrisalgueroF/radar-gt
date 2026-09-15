@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-15T10:15:57.201Z",
+  "actualizado": "2026-09-15T11:14:57.239Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Desnutrición aguda: 32 niños han muerto en Guatemala en 2026 y hay riesgo de que la cifra aumente por la sequía",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/desnutricion-aguda-32-ninos-han-muerto-en-guatemala-en-2026-y-hay-riesgo-de-que-la-cifra-aumente-por-la-sequia/",
+      "fecha": "Tue, 15 Sep 2026 11:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La sequía prolongada pone en mayor riesgo a la población infantil de padecer desnutrición aguda; los casos y las muertes podrían aumentar en los próximos meses."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Recibí quimioterapia durante 11 años por un cáncer que no tenía",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/recibi-quimioterapia-durante-11-anos-por-un-cancer-que-no-tenia/",
+      "fecha": "Tue, 15 Sep 2026 10:59:31 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Becky Jones se encuentra entre las más de 40 personas que han emprendido acciones legales contra la junta directiva de un hospital en el centro de Inglaterra."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Entrevista: La clave no es evitar la disrupción, sino aprovecharla y con liderazgo convertir la incertidumbre en oportunidad",
@@ -801,22 +817,6 @@
       "fecha": "Mon, 14 Sep 2026 01:06:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Guastatoya controló el partido de principio a fin y resistió el descuento de Xelajú para llevarse una victoria importante en el David Cordón Hichos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Servicio de Transmetro: líneas con desvíos, servicio irregular y suspensiones por actividades cívicas del 14 y 15 de septiembre",
-      "link": "https://www.prensalibre.com/vida/escenario/servicio-de-transmetro-lineas-con-desvios-servicio-irregular-y-suspensiones-por-actividades-civicas-del-14-y-15-de-septiembre/",
-      "fecha": "Mon, 14 Sep 2026 01:00:18 +0000",
-      "categoria": "Escenario",
-      "resumen": "Por la conmemoración de los 205 años de la Independencia de Guatemala, los servicios de Transmetro y TuBus tendrán modificaciones durante el 14 y 15 de septiembre. Conozca qué líneas tendrán desvíos, servicio irregular o estarán fuera de servicio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Paseo dominical acaba en tragedia: mujer muere al caer desde catarata y otras dos personas resultan heridas",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/paseo-dominical-acaba-en-tragedia-mujer-muere-al-caer-desde-catarata-y-otras-dos-personas-resultan-heridas-breaking/",
-      "fecha": "Mon, 14 Sep 2026 00:43:01 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Una mujer cayó desde una catarata de unos 40 metros y golpeó a otra fémina y a una niña. El hecho dejó una fallecida y dos heridas en San Miguel Dueñas."
     },
     {
       "fuente": "Guatemala.com",
