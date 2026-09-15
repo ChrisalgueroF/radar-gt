@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-15T16:15:28.789Z",
+  "actualizado": "2026-09-15T17:13:43.848Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Zendaya y Tom Holland: ¿Realmente están casados?",
+      "link": "https://www.prensalibre.com/vida/escenario/zendaya-y-tom-holland-realmente-estan-casados/",
+      "fecha": "Tue, 15 Sep 2026 17:09:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El estilista de la actriz, quien en marzo afirmó que la boda ya se había realizado, ahora dice que mintió y que la pareja aún no ha celebrado una ceremonia oficial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jugadores de Antigua GFC respaldan a Mauricio Tapia en medio de la tensión con la directiva",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/jugadores-de-antigua-gfc-respaldan-a-mauricio-tapia-en-medio-de-la-tension-con-la-directiva-breaking/",
+      "fecha": "Tue, 15 Sep 2026 16:55:12 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El plantel colonial salió públicamente en defensa del técnico argentino y pidió a la dirigencia resolver las diferencias internas para mantener unido al equipo líder del Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Conmemoran por segundo año el Día Mundial del Vehículo Eléctrico",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/conmemoran-por-segundo-ano-el-dia-mundial-del-vehiculo-electrico/",
+      "fecha": "Tue, 15 Sep 2026 16:51:59 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Por segundo año consecutivo, en un encuentro con estudiantes de la Universidad Francisco Marroquín, Porsche y Grupo Los Tres, importador exclusivo de la marca en el país, realizaron una jornada que permitió presentar iniciativas en marcha para impulsar esta transición y analizar su evolución y adopción en el mercado local, en el marco del Día Mundial del Vehículo Eléctrico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bill Gates advierte sobre riesgos de la IA y pide frenar su desarrollo acelerado",
+      "link": "https://www.prensalibre.com/vida/tecnologia/bill-gates-advierte-sobre-riesgos-de-la-ia-y-pide-frenar-su-desarrollo-acelerado/",
+      "fecha": "Tue, 15 Sep 2026 16:25:49 +0000",
+      "categoria": "Tecnología",
+      "resumen": "El cofundador de Microsoft y empresario estadounidense Bill Gates aseguró este 15 de septiembre que se debería considerar ralentizar el desarrollo de la inteligencia artificial (IA) hasta que la sociedad esté preparada para absorber su impacto."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Los tres puntos sobre las reformas al IUSI que explica Óscar Chile Monroy en cuanto a viviendas y Airbnb",
@@ -9,6 +41,14 @@
       "fecha": "Tue, 15 Sep 2026 16:00:00 +0000",
       "categoria": "Economía",
       "resumen": "El experto tributario analiza el alcance, del Decreto 18-2026, de la tasa cero para viviendas, qué ocurre con propiedades alquiladas por Airbnb y por qué considera que no es necesario un reglamento para aplicar los cambios al IUSI."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Antigua GFC, líder pero con tensión: Mauricio Tapia pone en duda su continuidad por diferencias internas",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/antigua-gfc-lider-pero-con-tension-mauricio-tapia-pone-en-duda-su-continuidad-por-diferencias-internas-breaking/",
+      "fecha": "Tue, 15 Sep 2026 15:51:27 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El conjunto colonial atraviesa un gran momento deportivo, pero las declaraciones del técnico argentino dejan al descubierto diferencias internas con la dirigencia y abren incertidumbre sobre su continuidad pese al liderato del Apertura 2026."
     },
     {
       "fuente": "Prensa Libre",
@@ -500,6 +540,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "China rechaza la idea de que está en una &#8220;competencia maliciosa&#8221; con EE.UU. por el control de la IA",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/china-rechaza-la-idea-de-que-esta-en-una-competencia-maliciosa-con-ee-uu-por-el-control-de-la-ia-2/",
+      "fecha": "Mon, 14 Sep 2026 18:40:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Esto se produce tras los llamamientos del director ejecutivo de Anthropic para que se desacelere el desarrollo de la IA, pero de una manera que impida que China tome la delantera en la carrera."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Celine Dion regresa a los escenarios tras su diagnóstico de síndrome de persona rígida: así fue su concierto en París",
       "link": "https://www.prensalibre.com/vida/escenario/celine-dion-regresa-a-los-escenarios-tras-su-diagnostico-de-sindrome-de-persona-rigida-asi-fue-su-concierto-en-paris/",
       "fecha": "Mon, 14 Sep 2026 18:21:47 +0000",
@@ -769,54 +817,6 @@
       "fecha": "Mon, 14 Sep 2026 06:04:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Dos palabras que ayudan a entender el reto"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los próceres que no conocemos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/los-proceres-que-no-conocemos/",
-      "fecha": "Mon, 14 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La independencia de Guatemala no comenzó ni terminó el 15 de septiembre. Conocer su historia ayuda a valorarla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Justicia que también produce",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/justicia-que-tambien-produce/",
-      "fecha": "Mon, 14 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Seguridad y justicia eficientes son condiciones indispensables para invertir, producir y crecer."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El TSE se apronta a inhabilitar candidatos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-tse-se-apronta-a-inhabilitar-candidatos/",
-      "fecha": "Mon, 14 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El llamado al voto es inherente a la propaganda electoral."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Ahora el teléfono no para de sonar”: la abogada que atiende a migrantes guatemaltecos frente a la nueva realidad migratoria en EE. UU.",
-      "link": "https://www.prensalibre.com/guatemala/ahora-el-telefono-no-para-de-sonar-la-abogada-que-atiende-a-migrantes-guatemaltecos-frente-a-la-nueva-realidad-migratoria-en-ee-uu/",
-      "fecha": "Mon, 14 Sep 2026 06:01:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Ana Gabriela Urizar, abogada en Nueva York, cuenta cómo las políticas antimigratorias afectan a los guatemaltecos, los casos que recibe de migrantes detenidos, familias separadas y menores no acompañados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy lunes 14 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-14-de-septiembre-de-2026/",
-      "fecha": "Mon, 14 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Motocicleta con cuatro ocupantes se estrella contra un árbol en pronunciada bajada de Antigua Guatemala y una niña muere",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/motocicleta-con-cuatro-ocupantes-se-estrella-contra-un-arbol-en-pronunciada-bajada-de-antigua-guatemala-y-una-nina-muere-breaking/",
-      "fecha": "Mon, 14 Sep 2026 04:41:24 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Cuatro mujeres, entre ellas dos niñas, viajaban en una motocicleta que perdió el control en una pronunciada bajada de El Hato, Antigua Guatemala. Una menor de 4 años murió."
     },
     {
       "fuente": "Guatemala.com",
