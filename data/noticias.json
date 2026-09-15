@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-15T13:17:03.921Z",
+  "actualizado": "2026-09-15T14:16:16.098Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amatitlán rompe su racha de ocho derrotas y así marcha la Liga Primera División",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/amatitlan-rompe-su-racha-de-ocho-derrotas-y-asi-marcha-la-liga-primera-division/",
+      "fecha": "Tue, 15 Sep 2026 14:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El conjunto amatitlaneco dejó atrás una prolongada crisis y busca que este triunfo sea el impulso para cambiar su rumbo en la segunda vuelta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "252 municipios enfrentan vulnerabilidad alta y muy alta ante el déficit hídrico en Guatemala, según el Maga",
+      "link": "https://www.prensalibre.com/guatemala/252-municipios-enfrentan-vulnerabilidad-alta-y-muy-alta-ante-el-deficit-hidrico-en-guatemala-segun-el-maga/",
+      "fecha": "Tue, 15 Sep 2026 14:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Un análisis del Ministerio de Agricultura detalla cómo la combinación de altas temperaturas y aguaceros de corta duración mantiene en riesgo a las plantaciones del país."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "El Acta de la Independencia: ¿dónde y cómo se encuentra el histórico documento?",
@@ -801,22 +817,6 @@
       "fecha": "Mon, 14 Sep 2026 03:22:22 +0000",
       "categoria": "Escenario",
       "resumen": "En una velada marcada por la cultura, la tradición y la belleza, una de las 22 candidatas fue coronada Reina Nacional de las Fiestas de Independencia 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡Agónico! Municipal empató 2-2 ante Malacateco con gol de Nicolás Samayoa en el último minuto",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/agonico-municipal-empato-2-2-ante-malacateco-con-gol-de-nicolas-samayoa-en-el-ultimo-minuto-breaking/",
-      "fecha": "Mon, 14 Sep 2026 03:00:55 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los escarlatas sufrieron pero rescataron el empate ante los toros en el tiempo añadido con un gol de Samayoa que fue revisado por el FVS antes de ser convalidado y así mantenerse invictos en su casa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo señala a políticos y narcotráfico de financiar bloqueos por precio de combustibles",
-      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-senala-a-politicos-y-narcotrafico-de-financiar-bloqueos-por-precio-de-combustibles-breaking/",
-      "fecha": "Mon, 14 Sep 2026 02:30:53 +0000",
-      "categoria": "Política",
-      "resumen": "El presidente Bernardo Arévalo señaló que políticos locales se habrían asociado con integrantes del narcotráfico y otros grupos criminales para financiar los bloqueos."
     },
     {
       "fuente": "Guatemala.com",
