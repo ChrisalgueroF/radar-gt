@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-15T02:16:59.416Z",
+  "actualizado": "2026-09-15T03:16:49.478Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué se sabe de los Geran-3, los nuevos drones a reacción que Rusia está usando contra Ucrania y que han golpeado con dureza a Kyiv",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-se-sabe-de-los-geran-3-los-nuevos-drones-a-reaccion-que-rusia-esta-usando-contra-ucrania-y-que-han-golpeado-con-dureza-a-kyiv/",
+      "fecha": "Tue, 15 Sep 2026 03:09:12 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los nuevos modelos pueden alcanzar velocidades de hasta 480 km/h, más que los interceptores de defensa aérea de Ucrania."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dune: Parte Tres anuncia preventa y preestreno en Guatemala: así continúa la historia de Paul Atreides en la trilogía de Denis Villeneuve",
+      "link": "https://www.prensalibre.com/vida/escenario/dune-parte-tres-anuncia-preventa-y-preestreno-en-guatemala-asi-continua-la-historia-de-paul-atreides-en-la-trilogia-de-denis-villeneuve/",
+      "fecha": "Tue, 15 Sep 2026 02:46:39 +0000",
+      "categoria": "Escenario",
+      "resumen": "Paul Atreides regresa para cerrar la trilogía de Dune, convertido en emperador tras liderar a los Fremen en su victoria sobre el Imperio. Esto se sabe del preestreno de la película."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo defiende cambios de su gobierno y señala resistencia de sectores que buscan mantener privilegios",
+      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-defiende-cambios-de-su-gobierno-y-senala-resistencia-de-sectores-que-buscan-mantener-privilegios/",
+      "fecha": "Tue, 15 Sep 2026 02:16:19 +0000",
+      "categoria": "Política",
+      "resumen": "En un discurso por las actividades de Independencia, el presidente Bernardo Arévalo afirmó que sectores que buscan conservar privilegios se resisten a la transformación del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Avión realiza maniobra de emergencia al aterrizar en Mundo Maya por pirotecnia",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/video-avion-realiza-maniobra-de-emergencia-al-aterrizar-en-mundo-maya-por-pirotecnia/",
+      "fecha": "Tue, 15 Sep 2026 02:11:20 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Una aeronave interrumpió su aproximación al aeropuerto de Petén al detectar fuegos pirotécnicos en su ruta de aterrizaje."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "“Primero hubo una amistad”: Jim Curtis revela cómo comenzó su romance con Jennifer Aniston",
@@ -785,38 +817,6 @@
       "fecha": "Sun, 13 Sep 2026 19:54:44 +0000",
       "categoria": "Internacional",
       "resumen": "Las autoridades recomendaron a la población evitar actividades al aire libre, en especial a niños, adultos mayores, mujeres embarazadas y personas con enfermedades respiratorias o cardiovasculares."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Representante de la Bethania no descarta seguir con medidas de hecho y cuestiona a Bernardo Arévalo",
-      "link": "https://www.prensalibre.com/guatemala/politica/representante-de-la-bethania-no-descarta-seguir-con-medidas-de-hecho-y-cuestiona-a-bernardo-arevalo/",
-      "fecha": "Sun, 13 Sep 2026 19:47:06 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Marlon Bosque, del Consejo Comunitario de Desarrollo de Guatemala (Cocode), no descarta más medidas de hecho contra la gestión de Arévalo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Julián Álvarez sufre una lesión y preocupa al Atlético antes del derbi ante Real Madrid",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/julian-alvarez-sufre-una-lesion-y-preocupa-al-atletico-antes-del-derbi-ante-real-madrid-breaking/",
-      "fecha": "Sun, 13 Sep 2026 19:25:14 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El delantero argentino sufrió una sobrecarga muscular durante el entrenamiento del sábado y el club confirmó su ausencia para el partido ante Real Sociedad este domingo en lo que es un golpe importante para el equipo de Diego Simeone."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Lloverá el 14 y 15 de septiembre en Guatemala? Este es el pronóstico del Insivumeh para las fiestas patrias y las recomendaciones",
-      "link": "https://www.prensalibre.com/vida/escenario/llovera-el-14-y-15-de-septiembre-en-guatemala-este-es-el-pronostico-del-insivumeh-para-las-fiestas-patrias-y-las-recomendaciones/",
-      "fecha": "Sun, 13 Sep 2026 19:15:15 +0000",
-      "categoria": "Escenario",
-      "resumen": "La conmemoración de los 205 años de la Independencia trae consigo diversas actividades en Guatemala. Ante las celebraciones, el Insivumeh dio a conocer el pronóstico del clima para el 14 y 15 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Quien gane con la IA, gana”: Trump rechaza las llamadas a ralentizar el desarrollo de esta tecnología",
-      "link": "https://www.prensalibre.com/internacional/quien-gane-con-la-ia-gana-trump-rechaza-las-llamadas-a-ralentizar-el-desarrollo-de-esta-tecnologia/",
-      "fecha": "Sun, 13 Sep 2026 19:13:43 +0000",
-      "categoria": "Internacional",
-      "resumen": "Donald Trump defiende que Estados Unidos mantenga el liderazgo en inteligencia artificial mientras líderes del sector advierten sobre riesgos de seguridad y piden ralentizar su desarrollo."
     },
     {
       "fuente": "Guatemala.com",
