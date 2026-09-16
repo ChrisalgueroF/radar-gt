@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-15T23:13:43.156Z",
+  "actualizado": "2026-09-16T00:20:35.586Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién es el empresario colombiano Alex Saab, aliado y supuesto testaferro de Nicolás Maduro que se declaró culpable de lavado de dinero en EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-el-empresario-colombiano-alex-saab-aliado-y-supuesto-testaferro-de-nicolas-maduro-que-se-declaro-culpable-de-lavado-de-dinero-en-ee-uu/",
+      "fecha": "Tue, 15 Sep 2026 23:54:42 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El empresario colombiano, a quien Maduro llegó a nombrar ministro de Industria, se declaró culpable ante una corte federal de Florida en un caso que implica millones de dólares de fondos públicos venezolanos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El hijo mayor de Brad Pitt y Angelina Jolie se quita el apellido paterno",
+      "link": "https://www.prensalibre.com/vida/escenario/el-hijo-mayor-de-brad-pitt-y-angelina-jolie-se-quita-el-apellido-paterno/",
+      "fecha": "Tue, 15 Sep 2026 23:24:07 +0000",
+      "categoria": "Escenario",
+      "resumen": "Maddox siguió el camino de su hermana menor Shiloh, quien al cumplir 18 años actuó legalmente para cambiar su nombre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo ocupa último lugar de ranking presidencial latinoamericano, encabezado por Sheinbaum y Bukele",
+      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-ocupa-ultimo-lugar-de-ranking-presidencial-latinoamericano-encabezado-por-sheinbaum-y-bukele-breaking/",
+      "fecha": "Tue, 15 Sep 2026 23:03:38 +0000",
+      "categoria": "Política",
+      "resumen": "Bernardo Arévalo ocupa la última posición del ranking de los presidentes latinoamericanos mejor valorados por sus ciudadanos, lista encabezada por Sheinbaum, Bukele y De la Espriella."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Elevan el estándar en Guatemala con nuevos modelos 2026",
@@ -25,6 +49,14 @@
       "fecha": "Tue, 15 Sep 2026 22:35:00 +0000",
       "categoria": "Economía",
       "resumen": "Los afiliados suspendidos temporalmente por enfermedad, accidente o maternidad pueden recibir un subsidio del IGSS. Conozca cuánto puede recibir, cuándo se realiza el pago y dónde cobrarlo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Descubren en Países Bajos un fragmento de &#8220;La Odisea&#8221; de más de mil años de antigüedad",
+      "link": "https://www.prensalibre.com/vida/escenario/descubren-en-paises-bajos-un-fragmento-de-la-odisea-de-mas-de-mil-anos-de-antiguedad/",
+      "fecha": "Tue, 15 Sep 2026 22:29:20 +0000",
+      "categoria": "Escenario",
+      "resumen": "La pieza, que fue identificada en una biblioteca, data de unos 1,700 años"
     },
     {
       "fuente": "Prensa Libre",
@@ -525,6 +557,14 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Qué significa desacelerar el desarrollo de la IA como pide el director de Anthropic",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/que-significa-desacelerar-el-desarrollo-de-la-ia-como-pide-el-director-de-anthropic-2/",
+      "fecha": "Mon, 14 Sep 2026 22:18:12 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Aunque frenar el desarrollo de la IA puede parecer una solución rápida, dista mucho de ser algo fácil."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué significa desacelerar el desarrollo de la IA como pide el director de Anthropic",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-significa-desacelerar-el-desarrollo-de-la-ia-como-pide-el-director-de-anthropic/",
       "fecha": "Mon, 14 Sep 2026 22:18:12 +0000",
       "categoria": "BBC News Mundo",
@@ -779,52 +819,12 @@
       "resumen": "La PNC reveló dónde estuvo el concejal de Vamos antes de ser atacado a balazos en Zacapa."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Zverev, el niño al que la diabetes no le pudo ganar: campeón del US Open",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/zverev-el-nino-al-que-la-diabetes-no-le-pudo-ganar-campeon-del-us-open-breaking/",
-      "fecha": "Mon, 14 Sep 2026 16:04:47 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Le diagnosticaron diabetes tipo 1 de niño, pero su madre nunca permitió que la enfermedad definiera su destino."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Premios Emmy 2026: cuándo son, a qué hora y dónde ver la gala",
-      "link": "https://www.prensalibre.com/vida/escenario/premios-emmy-2026-cuando-son-a-que-hora-y-donde-ver-la-gala/",
-      "fecha": "Mon, 14 Sep 2026 15:42:46 +0000",
-      "categoria": "Escenario",
-      "resumen": "Los Premios Emmy 2026 celebrarán su edición 78 en Los Ángeles. Conozca a qué hora comienza la gala y dónde verla en Guatemala."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Así estará el clima en Guatemala del 14 al 18 de septiembre 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/guatemala-presentara-temperaturas-hasta-39c-del-14-al-18-septiembre-2026.html",
       "fecha": "Mon, 14 Sep 2026 15:42:41 +0000",
       "categoria": "Comunidad",
       "resumen": "El pronóstico del Insivumeh sobre el clima en Guatemala del 14 al 18 de septiembre 2026 anticipa lluvias y altas temperaturas en varias regiones. \nThe post Así estará el clima en Guatemala del 14 al 18 de septiembre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿La IA es una amenaza real o hay exageración? Las tres posturas que enfrentan a los expertos",
-      "link": "https://www.prensalibre.com/internacional/la-ia-es-una-amenaza-real-o-hay-exageracion-las-tres-posturas-que-enfrentan-a-los-expertos/",
-      "fecha": "Mon, 14 Sep 2026 15:16:56 +0000",
-      "categoria": "Internacional",
-      "resumen": "El debate cobró fuerza hasta convertirse en una conversación global, y muchos de quienes trabajan con IA lo vieron como el momento para pedir precaución."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El técnico guatemalteco Amarini Villatoro pone a Cartaginés líder en Costa Rica y ahora va por las semifinales de la Copa Centroamericana",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-tecnico-guatemalteco-amarini-villatoro-pone-a-cartagines-lider-en-costa-rica-y-ahora-va-por-las-semifinales-de-la-copa-centroamericana-breaking/",
-      "fecha": "Mon, 14 Sep 2026 15:10:54 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El estratega nacional resaltó la personalidad de su equipo tras el triunfo en la liga y ahora enfoca su atención en la Copa Centroamericana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO: Plaza de la Constitución se viste de gala con música y alegría por los 205 años de Independencia",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/en-vivo-antorchas-recomendaciones-y-otras-actividades-civicas-con-motivo-de-la-fiesta-de-independencia-breaking/",
-      "fecha": "Mon, 14 Sep 2026 14:59:29 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Antorchas y desfiles recorren las calles de la metrópoli este 14 de septiembre por la celebración de la Independencia de Guatemala."
     },
     {
       "fuente": "Guatemala.com",
