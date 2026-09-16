@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-16T14:16:33.764Z",
+  "actualizado": "2026-09-16T15:15:20.166Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Latin Grammy 2026: conozca a los principales nominados de la 27.ª edición, con Rosalía, Karol G y Mon Laferte",
+      "link": "https://www.prensalibre.com/vida/escenario/latin-grammy-2026-conozca-a-los-principales-nominados-de-la-27-a-edicion-con-rosalia-karol-g-y-mon-laferte/",
+      "fecha": "Wed, 16 Sep 2026 14:53:38 +0000",
+      "categoria": "Escenario",
+      "resumen": "Los ritmos y la esencia de la música latina serán reconocidos en uno de los galardones más destacados de la industria: los Latin Grammy. Conozca a los principales nominados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Temblores en Guatemala: registran sismos de magnitud 5.2 y 3.6 en las últimas horas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/temblores-en-guatemala-registran-sismos-de-magnitud-5-2-y-3-6-en-las-ultimas-horas-breaking/",
+      "fecha": "Wed, 16 Sep 2026 14:44:56 +0000",
+      "categoria": "Comunitario",
+      "resumen": "En las últimas horas se han registrado dos temblores con epicentro en el océano Pacífico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué el jefe de OpenAI pide que confiemos en la empresas de IA a pesar de que el mundo &#8220;tiene razón en sentir miedo&#8221;",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/por-que-el-jefe-de-openai-pide-que-confiemos-en-la-empresas-de-ia-a-pesar-de-que-el-mundo-tiene-razon-en-sentir-miedo/",
+      "fecha": "Wed, 16 Sep 2026 14:27:11 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El debate sobre la regulación externa o no se abre paso en el mundo debido al crecimiento de la Inteligencia Artificial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tebas critica a Vinícius y Mbappé por no mostrar mensaje de apoyo a Ceuta",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/tebas-critica-a-vinicius-y-mbappe-por-no-mostrar-mensaje-de-apoyo-a-ceuta-breaking/",
+      "fecha": "Wed, 16 Sep 2026 14:17:37 +0000",
+      "categoria": "Deportes",
+      "resumen": "Los jugadores del Real Madrid llevaron una camiseta con el lema “Todos somos caballas”, pero la mostraron parcialmente antes del partido contra el Elche."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Un equilibrio entre la libertad artística y la precisión del savoir-faire",
@@ -777,38 +809,6 @@
       "fecha": "Mon, 14 Sep 2026 22:19:11 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Los inspectores del gobierno de EE.UU. afirman que descubrieron que el centro de detención infringía las normas básicas de higiene, atención médica, alimentación y seguridad de los migrantes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué significa desacelerar el desarrollo de la IA como pide el director de Anthropic",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/que-significa-desacelerar-el-desarrollo-de-la-ia-como-pide-el-director-de-anthropic-2/",
-      "fecha": "Mon, 14 Sep 2026 22:18:12 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Aunque frenar el desarrollo de la IA puede parecer una solución rápida, dista mucho de ser algo fácil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué significa desacelerar el desarrollo de la IA como pide el director de Anthropic",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-significa-desacelerar-el-desarrollo-de-la-ia-como-pide-el-director-de-anthropic/",
-      "fecha": "Mon, 14 Sep 2026 22:18:12 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Aunque frenar el desarrollo de la IA puede parecer una solución rápida, dista mucho de ser algo fácil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Amarini Villatoro y el Cartaginés, provocan la salida del técnico del Alajuelense en Costa Rica",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/amarini-villatoro-y-el-cartagines-provocan-la-salida-del-tecnico-del-alajuelense-en-costa-rica-breaking/",
-      "fecha": "Mon, 14 Sep 2026 22:09:46 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La derrota 3-1 ante Cartaginés, dirigido por Amarini Villatoro, terminó por sentenciar el ciclo de Ismael Rescalvo en Alajuelense."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un ministro de Netanyahu pide retirar la ciudadanía israelí a dos cineastas por su documental sobre las muertes de civiles en Gaza",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-ministro-de-netanyahu-pide-retirar-la-ciudadania-israeli-a-dos-cineastas-por-su-documental-sobre-las-muertes-de-civiles-en-gaza/",
-      "fecha": "Mon, 14 Sep 2026 22:08:53 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En el documental se acusa al ejército israelí de matanzas masivas de civiles en Gaza, mientras las autoridades del país afirman que sus autores podrían haber cometido traición."
     },
     {
       "fuente": "Guatemala.com",
