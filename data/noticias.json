@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-16T12:20:04.104Z",
+  "actualizado": "2026-09-16T13:17:11.347Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Copa Centroamericana: Amarini Villatoro busca con Cartaginés el pase a semifinales ante Saprissa",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/copa-centroamericana-amarini-villatoro-busca-con-cartagines-el-pase-a-semifinales-ante-saprissa-breaking/",
+      "fecha": "Wed, 16 Sep 2026 13:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El técnico guatemalteco afronta con el conjunto brumoso el duelo decisivo de la Copa Centroamericana, tras el empate 2-2 en la ida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Estamos escarbando con nuestras propias manos&#8221;: el derrumbe de un edificio dañado por la guerra en Gaza deja al menos 12 muertos y decenas de desaparecidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/estamos-escarbando-con-nuestras-propias-manos-el-derrumbe-de-un-edificio-danado-por-la-guerra-en-gaza-deja-al-menos-12-muertos-y-decenas-de-desaparecidos/",
+      "fecha": "Wed, 16 Sep 2026 12:54:07 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Decenas de personas se encuentran desaparecidas bajo los escombros del edificio en la ciudad de Gaza, donde vivían unas 10 familias."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Las nuevas tácticas de intimidación de los grupos antiinmigrantes que preocupan a Reino Unido",
@@ -801,22 +817,6 @@
       "fecha": "Mon, 14 Sep 2026 21:25:51 +0000",
       "categoria": "Sucesos",
       "resumen": "Los hechos se registraron en distintos puntos de Pajapita, San Marcos, donde cuerpos de socorro fueron movilizados para atender las emergencias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Grupo armado huye tras ser sorprendido por el Ejército y abandona armas y municiones en Huehuetenango",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ejercito-localiza-armamento-y-municiones-en-la-democracia-huehuetenango/",
-      "fecha": "Mon, 14 Sep 2026 20:54:55 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ejército de Guatemala sorprendió a un grupo de personas que huyó y abandonó armamento y municiones en La Democracia, Huehuetenango, cerca de la frontera con México."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asueto del 15 de septiembre: actividades y lugares para visitar en familia o con amigos en la Ciudad de Guatemala y sus alrededores",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/asueto-del-15-de-septiembre-actividades-y-lugares-para-visitar-en-familia-o-con-amigos-en-la-ciudad-de-guatemala-y-sus-alrededores/",
-      "fecha": "Mon, 14 Sep 2026 20:33:19 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Las fiestas patrias brindan a los trabajadores una oportunidad para descansar, participar en actividades cívicas o disfrutar en familia. Conozca algunas opciones para aprovechar el asueto."
     },
     {
       "fuente": "Guatemala.com",
