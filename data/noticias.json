@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-16T06:20:23.640Z",
+  "actualizado": "2026-09-16T07:16:38.271Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Plan piloto para implementar la IA en el OJ suma Q1.3 millones en compras fraccionadas",
+      "link": "https://www.prensalibre.com/guatemala/plan-piloto-para-implementar-la-ia-en-el-oj-suma-q1-3-millones-en-compras-fraccionadas/",
+      "fecha": "Wed, 16 Sep 2026 06:30:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La única empresa que ofertó servicios y herramientas para el uso de inteligencia artificial en el sistema de justicia suma 15 compras por Q1.3 millones."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Exportaciones de café crecen, pero preocupa déficit de lluvia que se reflejaría en cosecha 2026-2027",
@@ -809,14 +817,6 @@
       "fecha": "Mon, 14 Sep 2026 19:56:16 +0000",
       "categoria": "Escenario",
       "resumen": "\"Dragon Ball Super: Beerus\" retomará los primeros episodios de la serie con animación renovada, escenas inéditas y ajustes en la historia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los líderes de Escocia, Irlanda del Norte y Gales se unen para reclamar su derecho de independencia de Reino Unido",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-lideres-de-escocia-irlanda-del-norte-y-gales-se-unen-para-reclamar-su-derecho-de-independencia-de-reino-unido/",
-      "fecha": "Mon, 14 Sep 2026 19:20:00 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los líderes de los partidos nacionalistas de Gales, Escocia e Irlanda del Norte -Plaid Cymru, SNP y Sinn Féin- afirman que el gobierno británico debería prepararse para una reforma constitucional."
     },
     {
       "fuente": "Guatemala.com",
