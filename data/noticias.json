@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-16T01:14:11.782Z",
+  "actualizado": "2026-09-16T02:15:27.657Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Le dijo a ChatGPT que quería matar a su hijo y luego fue arrestado por las autoridades",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/le-dijo-a-chatgpt-que-queria-matar-a-su-hijo-y-luego-fue-arrestado-por-las-autoridades/",
+      "fecha": "Wed, 16 Sep 2026 01:52:56 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Este caso plantea interrogantes sobre qué debería ocurrir cuando los chatbots identifican una amenaza potencial antes de que se haya cometido un delito."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Atención médica gratuita en la cuarta Jornada de la Salud",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/atencion-medica-gratuita-en-la-cuarta-jornada-de-la-salud/",
+      "fecha": "Wed, 16 Sep 2026 01:51:24 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Los días 19 y 20 de septiembre, en el Salón 9 y Área 8/9 del Parque de la Industria, en un horario de 8:00 de la mañana a 3:00 de la tarde, el Comité Permanente de Exposiciones (COPEREX), a través de su brazo social, realizará por cuarto año la Jornada de la Salud, un evento que ofrecerá servicios de salud gratuitos y de calidad a la población guatemalteca."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Scaloni hace su primera convocatoria después de la final de la Copa del Mundo 2026",
+      "link": "https://www.prensalibre.com/deportes/scaloni-hace-su-primera-convocatoria-despues-de-la-final-de-la-copa-del-mundo-2026-breaking/",
+      "fecha": "Wed, 16 Sep 2026 01:46:06 +0000",
+      "categoria": "Deportes",
+      "resumen": "El técnico de la selección de Argentina presentó el listado de jugadores para los primeros tres partidos que tendrá en las próximas fechas Fifa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Se separan Jesse y Joy? Esto es lo que se sabe de la pausa que tomarán",
+      "link": "https://www.prensalibre.com/vida/escenario/se-separan-jesse-y-joy-esto-es-lo-que-se-sabe-de-la-pausa-que-tomaran/",
+      "fecha": "Wed, 16 Sep 2026 01:09:01 +0000",
+      "categoria": "Escenario",
+      "resumen": "El dueto integrado por los hermanos Huerta detendrá su carrera de manera  indefinida luego de más de 20 años de hacer música."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Messi ya tiene fecha y rival para su juego de despedida con la Selección de Argentina",
@@ -785,38 +817,6 @@
       "fecha": "Mon, 14 Sep 2026 17:29:51 +0000",
       "categoria": "Internacional",
       "resumen": "En medio de la polémica por declaraciones sobre los peligros de la IA, Trump dijo que esa tecnología necesita un \"presidente fuerte e inteligente\" en vez de medidas de regulación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "China rechaza la idea de que está en una &#8220;competencia maliciosa&#8221; con EE.UU. por el control de la IA",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/china-rechaza-la-idea-de-que-esta-en-una-competencia-maliciosa-con-ee-uu-por-el-control-de-la-ia/",
-      "fecha": "Mon, 14 Sep 2026 17:09:58 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Esto se produce tras los llamamientos del director ejecutivo de Anthropic para que se desacelere el desarrollo de la IA, pero de una manera que impida que China tome la delantera en la carrera."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por incumplir una orden? Inmigrante que se autodeportó recibe multa de casi US$2 millones",
-      "link": "https://www.prensalibre.com/internacional/por-incumplir-una-orden-inmigrante-que-se-autodeporto-recibe-multa-de-casi-us2-millones/",
-      "fecha": "Mon, 14 Sep 2026 17:02:12 +0000",
-      "categoria": "Internacional",
-      "resumen": "Alessandro Negrete es uno de los más de 100 mil migrantes que han recibido multas del DHS desde el inicio del segundo mandato de Trump."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Revelan los precios de los boletos para ver a la Selección de Guatemala en la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/revelan-los-precios-de-los-boletos-para-ver-a-la-seleccion-de-guatemala-en-la-liga-de-naciones-breaking/",
-      "fecha": "Mon, 14 Sep 2026 16:58:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Fedefut dio a conocer cuánto costará asistir a los partidos de Guatemala ante El Salvador y Surinam en El Trébol, así como la modalidad para comprar los boletos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC revela cómo detectó a señalada de hurtar celulares en concierto de Quetzaltenango",
-      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-revela-como-detecto-a-senalada-de-hurtar-celulares-en-concierto-de-quetzaltenango-breaking/",
-      "fecha": "Mon, 14 Sep 2026 16:53:47 +0000",
-      "categoria": "Justicia",
-      "resumen": "Denuncias permitieron identificar a sospechosa de hurtar celulares en concierto en Quetzaltenango."
     },
     {
       "fuente": "Guatemala.com",
