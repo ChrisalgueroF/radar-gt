@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-09-16T05:14:19.640Z",
+  "actualizado": "2026-09-16T06:20:23.640Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Exportaciones de café crecen, pero preocupa déficit de lluvia que se reflejaría en cosecha 2026-2027",
+      "link": "https://www.prensalibre.com/economia/exportaciones-de-cafe-crecen-pero-preocupa-deficit-de-lluvia-que-se-reflejaria-en-cosecha-2026-2027/",
+      "fecha": "Wed, 16 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Guatemala perfila la mayor exportación de café de los últimos tres años, con una proyección de 4.1 millones de quintales de café oro para la cosecha 2025-2026. Pero el sector monitorea el déficit de lluvia por el fenómeno de El Niño, que podría afectar la cosecha 2026-2027 con caídas de entre 5% a 15%."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La IA llega a la justicia de Guatemala: el plan piloto del OJ y las dudas que genera entre abogados",
+      "link": "https://www.prensalibre.com/guatemala/la-ia-llega-a-la-justicia-de-guatemala-el-plan-piloto-del-oj-y-las-dudas-que-genera-entre-abogados/",
+      "fecha": "Wed, 16 Sep 2026 06:10:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Organismo Judicial implementa un plan piloto para incorporar inteligencia artificial. Un normativo establece sus límites y la supervisión humana, mientras abogados advierten sobre los riesgos de errores y sesgos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El combate del futuro",
+      "link": "https://www.prensalibre.com/opinion/caricatura/el-combate-del-futuro/",
+      "fecha": "Wed, 16 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Industria guatemalteca impulsa visión integral",
+      "link": "https://www.prensalibre.com/opinion/editorial/industria-guatemalteca-impulsa-vision-integral/",
+      "fecha": "Wed, 16 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "El sector industrial guatemalteco es uno de los grandes generadores de empleo y también de ingresos al fisco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Terrible último lugar y decisiones absurdas",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/terrible-ultimo-lugar-y-decisiones-absurdas/",
+      "fecha": "Wed, 16 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Los resultados y efectos a largo tiempo para mantener el atraso del país tienen como causa acciones no solo ilegales sino contraproducentes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lloviendo sobre mojado",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/lloviendo-sobre-mojado-2/",
+      "fecha": "Wed, 16 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Seamos realistas, las circunstancias del país demandan además de la unidad nacional, una gran dosis de liderazgo y patriotismo de todos los sectores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Se autorizan 14 grupos financieros",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/se-autorizan-14-grupos-financieros/",
+      "fecha": "Wed, 16 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Los ministros de Comercio y Economía de Centroamérica y EUA firmaron el TLC-Cafta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy miércoles 16 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-16-de-septiembre-de-2026/",
+      "fecha": "Wed, 16 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sesenta palabras para re-conocernos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/sesenta-palabras-para-re-conocernos/",
+      "fecha": "Wed, 16 Sep 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Una democracia funcional no se sostiene únicamente mediante elecciones y leyes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Necesario cambio de ruta para mejorar la educación",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/necesario-cambio-de-ruta-para-mejorar-la-educacion/",
+      "fecha": "Wed, 16 Sep 2026 06:00:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "Los resultados de la prueba PISA nos llevan a una reflexión profunda, que debe derivar en cambios para adoptar estrategias que mejoren todas las etapas de la trayectoria escolar de los estudiantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Grupo AG: &#8220;Tenemos planificadas inversiones importantes dentro y fuera de Guatemala”",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/grupo-ag-tenemos-planificadas-inversiones-importantes-dentro-y-fuera-de-guatemala/",
+      "fecha": "Wed, 16 Sep 2026 06:00:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "Director de Grupo AG ve un amplio potencial de crecimiento en el país, aunque señala que la certeza jurídica y la infraestructura deben avanzar para atraer más capital."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Como la hostilidad de Trump está empujando a Canadá a acercarse a la Unión Europea",
@@ -729,94 +817,6 @@
       "fecha": "Mon, 14 Sep 2026 19:20:00 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Los líderes de los partidos nacionalistas de Gales, Escocia e Irlanda del Norte -Plaid Cymru, SNP y Sinn Féin- afirman que el gobierno británico debería prepararse para una reforma constitucional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lamine Yamal: “Este año me merecería ganar el Balón de Oro” y pone a Mbappé como su gran rival",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lamine-yamal-este-ano-me-mereceria-ganar-el-balon-de-oro-y-pone-a-mbappe-como-su-gran-rival-breaking/",
-      "fecha": "Mon, 14 Sep 2026 19:07:33 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El español habló de sus méritos, reconoció qué le faltó en el último Mundial y dejó claro que todavía quiere hacer historia en el futbol."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Verificamos por usted: ¿Los pilotos del avión de Amazon accidentado en Miami tendrán proceso penal?",
-      "link": "https://www.prensalibre.com/internacional/verificamos-por-usted-los-pilotos-del-avion-de-amazon-accidentado-en-miami-tendran-proceso-penal/",
-      "fecha": "Mon, 14 Sep 2026 19:04:30 +0000",
-      "categoria": "Internacional",
-      "resumen": "Dos pilotos manejaron el avión de Amazon que se accidentó el pasado 6 de septiembre en Miami y que dejó cinco personas fallecidas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump eliminará el arancel al whisky irlandés: ¿Qué más anunció durante su visita a Irlanda?",
-      "link": "https://www.prensalibre.com/internacional/trump-eliminara-el-arancel-al-whisky-irlandes-que-mas-anuncio-durante-su-visita-a-irlanda/",
-      "fecha": "Mon, 14 Sep 2026 19:01:10 +0000",
-      "categoria": "Internacional",
-      "resumen": "La decisión del presidente Donald Trump provocó una reacción que reflejó tanto el interés local por el producto como su dimensión política."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Obelisco cerrado: así se están encendiendo las antorchas de Guatemala, Mixco y Villa Nueva",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/obelisco-cerrado-asi-se-estan-encendiendo-las-antorchas-de-guatemala-mixco-y-villa-nueva/",
-      "fecha": "Mon, 14 Sep 2026 18:54:57 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Obelisco está cerrado este 14 de septiembre, pero las antorchas continúan. Estos son los puntos en donde los grupos se reúnen para encender el fuego patrio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hayden Panettiere habría muerto por una sobredosis de oxicodona con fentanilo",
-      "link": "https://www.prensalibre.com/vida/escenario/hayden-panettiere-habria-muerto-por-una-sobredosis-de-oxicodona-con-fentanilo/",
-      "fecha": "Mon, 14 Sep 2026 18:47:10 +0000",
-      "categoria": "Escenario",
-      "resumen": "Autoridades estarían tras la pista de un traficante de drogas que habría suministrado a la actriz Hayden Panettiere una pastilla adulterada con fentanilo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "China rechaza la idea de que está en una &#8220;competencia maliciosa&#8221; con EE.UU. por el control de la IA",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/china-rechaza-la-idea-de-que-esta-en-una-competencia-maliciosa-con-ee-uu-por-el-control-de-la-ia-2/",
-      "fecha": "Mon, 14 Sep 2026 18:40:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Esto se produce tras los llamamientos del director ejecutivo de Anthropic para que se desacelere el desarrollo de la IA, pero de una manera que impida que China tome la delantera en la carrera."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Celine Dion regresa a los escenarios tras su diagnóstico de síndrome de persona rígida: así fue su concierto en París",
-      "link": "https://www.prensalibre.com/vida/escenario/celine-dion-regresa-a-los-escenarios-tras-su-diagnostico-de-sindrome-de-persona-rigida-asi-fue-su-concierto-en-paris/",
-      "fecha": "Mon, 14 Sep 2026 18:21:47 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante canadiense Celine Dion comenzó su residencia en París, con la que marca su regreso a los escenarios tras varios años de recuperación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué hay preocupaciones de que la IA pueda amenazar a la humanidad y qué tan reales son",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/por-que-hay-preocupaciones-de-que-la-ia-pueda-amenazar-a-la-humanidad-y-que-tan-reales-son/",
-      "fecha": "Mon, 14 Sep 2026 18:18:03 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los llamados a la regulación de la IA aumentan a medida que investigadores y directivos preocupados emiten advertencias inquietantes sobre el potencial de esta tecnología."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos guatemaltecos son señalados de asesinar a su bebé en EE. UU.: ¿por qué habrían culpado a “Satanás”?",
-      "link": "https://www.prensalibre.com/internacional/dos-guatemaltecos-son-senalados-de-asesinar-a-su-bebe-en-ee-uu-y-por-que-habrian-culpado-a-satanas/",
-      "fecha": "Mon, 14 Sep 2026 18:13:22 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una pareja de guatemaltecos fueron acusados de asesinar a golpes a su bebé de dos meses en Maryland, mientras el padre dijo que su hija resultó herida \"por culpa de Satanás\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La Ruta Ganadora, vuelve la promoción Prensa Libre, Gasolineras Uno y Banco Cuscatlán",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/la-ruta-ganadora-vuelve-la-promocion-prensa-libre-gasolineras-uno-y-banco-cuscatlan/",
-      "fecha": "Mon, 14 Sep 2026 18:12:47 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "La Ruta ganadora premiará a 30 lectores de Prensa Libre, que llenen su tanque en Gasolineras Uno y usen tarjetas del Banco Cuscatlán. Acá le decimos cómo participar y ganar vales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cinco de los 15 detenidos por los bloqueos obtienen falta de mérito; otros 10 siguen pendientes",
-      "link": "https://www.prensalibre.com/guatemala/justicia/cinco-de-los-15-detenidos-por-los-bloqueos-obtienen-falta-de-merito-otros-10-siguen-pendientes/",
-      "fecha": "Mon, 14 Sep 2026 18:02:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "De las 15 personas detenidas y dos adolescentes remitidos durante los bloqueos del viernes, cinco ya obtuvieron falta de mérito."
     },
     {
       "fuente": "Guatemala.com",
