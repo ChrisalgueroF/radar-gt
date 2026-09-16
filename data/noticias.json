@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-16T03:15:26.783Z",
+  "actualizado": "2026-09-16T04:15:45.882Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Como la hostilidad de Trump está empujando a Canadá a acercarse a la Unión Europea",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/como-la-hostilidad-de-trump-esta-empujando-a-canada-a-acercarse-a-la-union-europea/",
+      "fecha": "Wed, 16 Sep 2026 03:17:45 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El primer ministro canadiense viaja esta semana a Estrasburgo en busca de una \"alianza única\" con la UE."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MARN detalla inspecciones en drenajes de la ciudad por caso de coloración del río Las Vacas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/marn-detalla-inspecciones-en-drenajes-de-la-ciudad-por-caso-de-coloracion-del-rio-las-vacas-breaking/",
+      "fecha": "Wed, 16 Sep 2026 03:15:16 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El MARN emitió un comunicado donde detalló los trabajos de inspección en drenajes por el reciente caso de coloración del río Las Vacas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Tebas pide &#8220;repensar&#8221; la candidatura de España para el Mundial de 2030 si Infantino sigue y la final es en Marruecos",
@@ -801,22 +817,6 @@
       "fecha": "Mon, 14 Sep 2026 18:02:00 +0000",
       "categoria": "Guatemala",
       "resumen": "De las 15 personas detenidas y dos adolescentes remitidos durante los bloqueos del viernes, cinco ya obtuvieron falta de mérito."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo señala que políticos y narcos orquestaron bloqueos, pero el MP no reporta denuncias por los hechos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/arevalo-senala-que-politicos-y-narcos-orquestaron-bloqueos-pero-el-mp-no-reporta-denuncias-por-los-hechos/",
-      "fecha": "Mon, 14 Sep 2026 17:58:03 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Gobernación dijo que aún trabaja en verificar los indicios que sustentan el señalamiento antes de presentar una denuncia ante el MP."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bus con reporte de robo desde hace diez años es localizado en Escuintla",
-      "link": "https://www.prensalibre.com/guatemala/justicia/bus-con-reporte-de-robo-desde-hace-diez-anos-es-localizado-en-escuintla-breaking/",
-      "fecha": "Mon, 14 Sep 2026 17:42:44 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC informó que, durante un operativo en Escuintla, detuvo a un hombre que conducía un bus reportado como robado hace diez años."
     },
     {
       "fuente": "Guatemala.com",
