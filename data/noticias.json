@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-16T17:13:30.769Z",
+  "actualizado": "2026-09-16T18:17:49.553Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué Trump apuesta todo por la IA y considera &#8220;un engaño&#8221; las advertencias sobre sus peligros",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-trump-apuesta-todo-por-la-ia-y-considera-un-engano-las-advertencias-sobre-sus-peligros/",
+      "fecha": "Wed, 16 Sep 2026 18:10:28 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El presidente estadounidense ha puesto este tema en el centro del debate político de su país, incluso a riesgo de perder apoyos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ed Sheeran: cómo cultivar la imagen del &#8220;chico bueno&#8221; de la música contribuyó a la peor crisis de su carrera",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ed-sheeran-como-cultivar-la-imagen-del-chico-bueno-de-la-musica-contribuyo-a-la-peor-crisis-de-su-carrera/",
+      "fecha": "Wed, 16 Sep 2026 18:06:43 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El popular cantante británico enfrenta la mayor controversia de su carrera tras excluir de su gira al rapero Macklemore, quien defendió la causa palestina cuando actuaba como telonero."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video revela cómo fue el accidente vial entre el hijo de un magistrado y el músico Hugo Girón",
+      "link": "https://www.prensalibre.com/guatemala/justicia/video-revela-como-fue-el-accidente-vial-entre-el-hijo-de-un-magistrado-y-el-musico-hugo-giron/",
+      "fecha": "Wed, 16 Sep 2026 17:26:04 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Familiar del joven que se accidentó en la zona 9 señala que el incidente en el que murió el músico y docente Héctor Hugo Girón Barrientos pudo haber ocurrido porque el joven se pasó un semáforo en rojo y niega carrera ilegal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué se sabe del helicóptero de noticias accidentado en Los Ángeles y la identidad de las víctimas",
+      "link": "https://www.prensalibre.com/internacional/que-se-sabe-del-helicoptero-de-noticias-accidentado-en-los-angeles-y-la-identidad-de-las-victimas/",
+      "fecha": "Wed, 16 Sep 2026 17:15:11 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un helicóptero de noticias se accidentó el pasado 15 de septiembre en Los Ángeles y entre los fallecidos estaría una reportera y el piloto."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "Proyecto creado por niños guatemaltecos acerca el espacio a personas con discapacidad auditiva",
@@ -777,38 +809,6 @@
       "fecha": "Tue, 15 Sep 2026 02:11:20 +0000",
       "categoria": "Sucesos",
       "resumen": "Una aeronave interrumpió su aproximación al aeropuerto de Petén al detectar fuegos pirotécnicos en su ruta de aterrizaje."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Primero hubo una amistad”: Jim Curtis revela cómo comenzó su romance con Jennifer Aniston",
-      "link": "https://www.prensalibre.com/vida/escenario/primero-hubo-una-amistad-jim-curtis-revela-como-comenzo-su-romance-con-jennifer-aniston/",
-      "fecha": "Tue, 15 Sep 2026 01:40:01 +0000",
-      "categoria": "Escenario",
-      "resumen": "El contacto entre Jennifer Aniston y Jim Curtis comenzó en redes sociales, pero con el tiempo se convirtió en una relación que ha llevado a la protagonista de Friends a compartir aspectos de su vida íntima."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Reciben certificación por su compromiso con la ética y la transparencia",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/reciben-certificacion-por-su-compromiso-con-la-etica-y-la-transparencia/",
-      "fecha": "Tue, 15 Sep 2026 01:18:37 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Grupo Financiero Bantrab se convirtió en el primer banco en cumplir con la Certificación GuateÍntegra Anticorrupción Tipo A, y con ello, siguen consolidando una gestión orientada a fortalecer la confianza, la transparencia y la sostenibilidad institucional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jaulas del tamaño de una cabina telefónica y otros abusos registrados en &#8220;Alligator Alcatraz&#8221;",
-      "link": "https://www.prensalibre.com/internacional/jaulas-del-tamano-de-una-cabina-telefonica-y-otros-abusos-registrados-en-alligator-alcatraz/",
-      "fecha": "Tue, 15 Sep 2026 00:28:12 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un informe del Gobierno de EE. UU. constató el uso de jaulas metálicas y otras formas de abuso dentro del centro \"Alligator Alcatraz\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fredy Toc se corona campeón de la Prevuelta de Chimaltenango y apunta a la Vuelta a Guatemala",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/fredy-toc-se-corona-campeon-de-la-prevuelta-de-chimaltenango-y-apunta-a-la-vuelta-a-guatemala-breaking/",
-      "fecha": "Tue, 15 Sep 2026 00:12:33 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Fredy Toc lideró el dominio de ECA Electricidad, que ganó las cuatro etapas y llega fortalecido a la Vuelta a Guatemala."
     },
     {
       "fuente": "Guatemala.com",
