@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-16T00:20:35.586Z",
+  "actualizado": "2026-09-16T01:14:11.782Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Messi ya tiene fecha y rival para su juego de despedida con la Selección de Argentina",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/messi-ya-tiene-fecha-y-rival-para-su-juego-de-despedida-con-la-seleccion-de-argentina-breaking/",
+      "fecha": "Wed, 16 Sep 2026 01:02:30 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El presidente de la Asociación Argentina de Futbol (AFA) Claudio Tapia, dio a conocer que Lionel Messi tendrá su partido de despedida de la selección Albiceleste."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Quién es el empresario colombiano Alex Saab, aliado y supuesto testaferro de Nicolás Maduro que se declaró culpable de lavado de dinero en EE.UU.",
@@ -809,14 +817,6 @@
       "fecha": "Mon, 14 Sep 2026 16:53:47 +0000",
       "categoria": "Justicia",
       "resumen": "Denuncias permitieron identificar a sospechosa de hurtar celulares en concierto en Quetzaltenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC revela nuevos detalles del ataque contra concejal de Usumatlán y de dónde estuvo antes de ser emboscado",
-      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-revela-nuevos-detalles-del-ataque-contra-concejal-de-usumatlan-y-de-donde-estuvo-antes-de-ser-emboscado/",
-      "fecha": "Mon, 14 Sep 2026 16:31:26 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La PNC reveló dónde estuvo el concejal de Vamos antes de ser atacado a balazos en Zacapa."
     },
     {
       "fuente": "Guatemala.com",
