@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-16T21:15:46.087Z",
+  "actualizado": "2026-09-16T22:14:45.390Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las imágenes que revelan la destrucción causada por Irán en instalaciones militares de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-imagenes-que-revelan-la-destruccion-causada-por-iran-en-instalaciones-militares-de-ee-uu/",
+      "fecha": "Wed, 16 Sep 2026 22:06:08 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las fotografías obtenidas por la cadena CBS muestran aviones destruidos, remolques aplastados y edificios gravemente dañados en bases de Arabia Saudita y Kuwait."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Raphinha está intratable y anota triplete en la goleada del Barcelona 7-2 ante Racing de Santander",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/raphinha-esta-intratable-y-anota-triplete-en-la-goleada-del-barcelona-7-2-ante-racing-de-santader-breaking/",
+      "fecha": "Wed, 16 Sep 2026 21:29:45 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "João Cancelo, Raphinha, Gabriel Jesus y Lamine Yamal protagonizaron una noche de goles para el conjunto catalán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tres hombres fingían ser policías y llevaban secuestrado a un hombre con una orden de captura falsa",
+      "link": "https://www.prensalibre.com/guatemala/justicia/tres-hombres-fingian-ser-policias-y-llevaban-secuestrado-a-un-hombre-con-una-orden-de-captura-falsa/",
+      "fecha": "Wed, 16 Sep 2026 21:01:21 +0000",
+      "categoria": "Justicia",
+      "resumen": "Los detenidos trasladaban a un hombre bajo una orden de aprehensión falsa. Autoridades hallaron en el vehículo prendas con insignias similares a las de agentes policiales, grilletes, pasamontañas y documentos presuntamente falsificados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Operativos de la PNC dejan cinco capturados por portación ilegal de armas de fuego",
+      "link": "https://www.prensalibre.com/guatemala/justicia/operativos-de-la-pnc-dejan-cinco-capturados-por-portacion-ilegal-de-armas-de-fuego/",
+      "fecha": "Wed, 16 Sep 2026 20:31:22 +0000",
+      "categoria": "Justicia",
+      "resumen": "Las capturas se efectuaron durante operativos en San José Pinula, Guatemala; Huehuetenango, Petén y Jalapa."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "De Rosalía a Mon Laferte: ¿quiénes son los artistas que se disputan el Latin Grammy al álbum del año?",
@@ -17,6 +49,14 @@
       "fecha": "Wed, 16 Sep 2026 19:45:02 +0000",
       "categoria": "Internacional",
       "resumen": "Aunque participar puede parecer divertido, expertos advierten que la nueva tendencia de los años 80 también plantea riesgos para la privacidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estados Unidos mantiene a Guatemala entre principales países de tránsito o producción de drogas",
+      "link": "https://www.prensalibre.com/guatemala/politica/estados-unidos-mantiene-a-guatemala-entre-principales-paises-de-transito-o-produccion-de-drogas-breaking/",
+      "fecha": "Wed, 16 Sep 2026 19:44:42 +0000",
+      "categoria": "Política",
+      "resumen": "Guatemala seguirá en el año fiscal 2027 en la lista de Estados Unidos de los principales países de tránsito o producción de drogas ilícitas, según una determinación del presidente Donald Trump."
     },
     {
       "fuente": "Prensa Libre",
@@ -89,6 +129,14 @@
       "fecha": "Wed, 16 Sep 2026 18:06:43 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El popular cantante británico enfrenta la mayor controversia de su carrera tras excluir de su gira al rapero Macklemore, quien defendió la causa palestina cuando actuaba como telonero."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El video de los últimos momentos grabados por el helicóptero de NBC4 antes de estrellarse en Los Ángeles",
+      "link": "https://www.prensalibre.com/internacional/el-video-de-los-ultimos-momentos-grabados-por-el-helicoptero-de-nbc4-antes-de-estrellarse-en-los-angeles/",
+      "fecha": "Wed, 16 Sep 2026 17:38:48 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un video muestra los últimos momentos del helicóptero accidentado en Los Ángeles, perteneciente a la cadena de noticias NBC4."
     },
     {
       "fuente": "Prensa Libre",
@@ -769,54 +817,6 @@
       "fecha": "Tue, 15 Sep 2026 06:01:00 +0000",
       "categoria": "Vida",
       "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asombro por el mercado y lo mundano",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/asombro-por-el-mercado-y-lo-mundano/",
-      "fecha": "Tue, 15 Sep 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Los conocimientos perdidos en el tiempo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Antes era mejor?",
-      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/antes-era-mejor/",
-      "fecha": "Tue, 15 Sep 2026 06:00:00 +0000",
-      "categoria": "Plumas invitadas",
-      "resumen": "Cuando la política se basa en ponerle límites al gobierno y resguardar las libertades ciudadanas, las cosas van bien."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Premios Emmy 2026: estos son los ganadores de una gala en la que hizo historia la serie de comedia &#8220;Widow’s Bay&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/premios-emmy-2026-estos-son-los-ganadores-de-una-gala-en-la-que-hizo-historia-la-serie-de-comedia-widows-bay/",
-      "fecha": "Tue, 15 Sep 2026 04:42:28 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "\"Widow's Bay\" se llevó 14 premios, más que ningún otra serie de comedia en una edición de los Emmy."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Premios Emmy 2026: Taylor Swift sorprende con un número cómico junto al elenco de La ley y el orden: UVE",
-      "link": "https://www.prensalibre.com/vida/escenario/premios-emmy-2026-taylor-swift-sorprende-con-un-numero-comico-junto-al-elenco-de-la-ley-y-el-orden-uve/",
-      "fecha": "Tue, 15 Sep 2026 04:31:25 +0000",
-      "categoria": "Escenario",
-      "resumen": "Uno de los momentos destacados de la 78.ª edición de los Premios Emmy fue la aparición de Taylor Swift, quien protagonizó un número cómico junto al elenco de La ley y el orden: UVE."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pasajera protagoniza insólito incidente al quitarse toda la ropa durante un vuelo a Miami",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/pasajera-protagoniza-insolito-incidente-al-quitarse-toda-la-ropa-durante-un-vuelo-a-miami/",
-      "fecha": "Tue, 15 Sep 2026 04:19:34 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Una pasajera se quitó toda la ropa y cometió actos considerados indecentes durante un vuelo de Baltimore a Miami, donde quedó bajo custodia policial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Superintendente de Competencia: 34 candidatos continúan en el proceso tras subsanar expedientes",
-      "link": "https://www.prensalibre.com/economia/superintendente-de-competencia-34-candidatos-continuan-en-el-proceso-tras-subsanar-expedientes/",
-      "fecha": "Tue, 15 Sep 2026 03:41:49 +0000",
-      "categoria": "Economía",
-      "resumen": "Luego de que los candidatos a superintendente de Competencia subsanaran errores u omisiones en sus respectivos expedientes, el Directorio de la entidad efectuó la revisión y concluyó que 34 aspirantes continúan en el proceso de designación para ese cargo."
     },
     {
       "fuente": "Guatemala.com",
