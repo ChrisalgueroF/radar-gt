@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-16T19:13:58.535Z",
+  "actualizado": "2026-09-16T20:16:06.707Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trend de ChatGPT: Los riesgos de compartir en redes su foto creada con IA al estilo de los 80’s",
+      "link": "https://www.prensalibre.com/internacional/trend-de-chatgpt-los-riesgos-de-compartir-en-redes-su-foto-creada-con-ia-al-estilo-de-los-80s/",
+      "fecha": "Wed, 16 Sep 2026 19:45:02 +0000",
+      "categoria": "Internacional",
+      "resumen": "Aunque participar puede parecer divertido, expertos advierten que la nueva tendencia de los años 80 también plantea riesgos para la privacidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comisión de Comunicaciones avala iniciativa para reducir impuestos a los combustibles durante seis meses",
+      "link": "https://www.prensalibre.com/guatemala/politica/comision-de-comunicaciones-avala-iniciativa-para-reducir-impuestos-a-los-combustibles-durante-seis-meses/",
+      "fecha": "Wed, 16 Sep 2026 19:26:33 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La Comisión de Comunicaciones del Congreso dio dictamen favorable a la iniciativa de ley 6809, que propone suspender el Impuesto a la Distribución del Petróleo (IDP) y exentar el 65% del Impuesto al Valor Agregado (IVA) en la venta de gasolinas regular y superior y diésel, también propone precios de referencia para la venta de combustibles."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "Guatemala será el país invitado de un festival de cine latinoamericano en Francia",
@@ -9,6 +25,22 @@
       "fecha": "Wed, 16 Sep 2026 19:05:43 +0000",
       "categoria": "Sociedad",
       "resumen": "Producciones cinematográficas de Guatemala destacarán en Cinélatino 2027, un festival francés que celebra el cine latinoamericano.\nThe post Guatemala será el país invitado de un festival de cine latinoamericano en Francia appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mauro Ismael Morales Martínez acepta ser extraditado a Estados Unidos, señalado por tráfico de drogas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mauro-ismael-morales-martinez-acepta-ser-extraditado-a-estados-unidos-senalado-por-trafico-de-drogas-breaking/",
+      "fecha": "Wed, 16 Sep 2026 18:59:42 +0000",
+      "categoria": "Justicia",
+      "resumen": "Mauro Ismael Morales, alias “Melito”, es señalado por las autoridades de haber participado en la coordinación del transporte de cargamentos de cocaína."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Verificamos por usted: ¿Guatemaltecos figuran entre las víctimas del helicóptero accidentado en Los Ángeles?",
+      "link": "https://www.prensalibre.com/internacional/verificamos-por-usted-guatemaltecos-figuran-entre-las-victimas-del-helicoptero-accidentado-en-los-angeles-breaking/",
+      "fecha": "Wed, 16 Sep 2026 18:51:22 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Minex confirmó este miércoles si entre las víctimas del helicóptero accidentado el pasado 15 de septiembre en Los Ángeles hay guatemaltecos."
     },
     {
       "fuente": "Prensa Libre",
@@ -24,7 +56,7 @@
       "link": "https://www.prensalibre.com/vida/escenario/alejandro-sago-habla-de-su-carrera-sus-podcast-y-la-gira-de-vete-a-la-tuerca/",
       "fecha": "Wed, 16 Sep 2026 18:25:46 +0000",
       "categoria": "Escenario",
-      "resumen": "El creador de contenido guatemalteco Alejandro Sago repasa su trayectoria en la música y los pódcast, así como la carrera que construye en México."
+      "resumen": "El creador de contenido guatemalteco Alejandro Sago repasa su trayectoria en la música, los pódcast y  la carrera que construye en México, y habla del show que ofrecerá en Guatemala."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,38 +817,6 @@
       "fecha": "Tue, 15 Sep 2026 03:39:28 +0000",
       "categoria": "Escenario",
       "resumen": "Una noche marcada por las mejores producciones de la televisión, un homenaje a Dolly Parton y un galardón especial para Michael J. Fox. Conozca a los ganadores de la 78.ª edición de los Premios Emmy."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rojos ceden el liderato: Antigua manda en el Apertura 2026 y Suchi sigue en el sótano",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/rojos-ceden-el-liderato-antigua-manda-en-el-apertura-2026-y-suchi-sigue-en-el-sotano-breaking/",
-      "fecha": "Tue, 15 Sep 2026 03:33:02 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Antigua aprovechó su triunfo sobre Suchitepéquez para llegar a 21 puntos y desplazar a Municipal, que empató ante Malacateco y ahora es segundo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Una fiesta que debe estar llena de alegría terminó en la muerte de dos jovencitos”: tragedia durante recorrido de antorcha en Suchitepéquez",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/una-fiesta-que-debe-estar-llena-de-alegria-termino-en-la-muerte-de-dos-jovencitos-tragedia-durante-recorrido-de-antorcha-en-suchitepequez/",
-      "fecha": "Tue, 15 Sep 2026 03:21:03 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Dos adolescentes murieron durante un recorrido de antorcha en Suchitepéquez. El caso alerta sobre los riesgos para los jóvenes y las medidas de seguridad en estas actividades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Antigua GFC remonta ante Suchitepéquez y le quita el liderato a Municipal del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/antigua-gfc-remonta-ante-suchitepequez-y-le-quita-el-liderato-a-municipal-del-apertura-2026-breaking/",
-      "fecha": "Tue, 15 Sep 2026 03:13:18 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los coloniales vencieron 3-2 en el estadio Pensativo, llegaron a 21 puntos y desplazaron a Municipal de la cima, además de tener un partido pendiente ante Xelajú MC."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué se sabe de los Geran-3, los nuevos drones a reacción que Rusia está usando contra Ucrania y que han golpeado con dureza a Kyiv",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-se-sabe-de-los-geran-3-los-nuevos-drones-a-reaccion-que-rusia-esta-usando-contra-ucrania-y-que-han-golpeado-con-dureza-a-kyiv/",
-      "fecha": "Tue, 15 Sep 2026 03:09:12 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los nuevos modelos pueden alcanzar velocidades de hasta 480 km/h, más que los interceptores de defensa aérea de Ucrania."
     },
     {
       "fuente": "Guatemala.com",
