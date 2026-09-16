@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-16T11:15:37.628Z",
+  "actualizado": "2026-09-16T12:20:04.104Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las nuevas tácticas de intimidación de los grupos antiinmigrantes que preocupan a Reino Unido",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-nuevas-tacticas-de-intimidacion-de-los-grupos-antiinmigrantes-que-preocupan-a-reino-unido/",
+      "fecha": "Wed, 16 Sep 2026 11:02:04 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El nuevo grupo Patriot Platform asegura que busca aglutinar a votantes de clase trabajadora para influir en los partidos políticos de derecha."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Diésel a Q55? Analistas explican qué puede pasar con los combustibles y el subsidio en Guatemala",
@@ -809,14 +817,6 @@
       "fecha": "Mon, 14 Sep 2026 20:33:19 +0000",
       "categoria": "Salud y Familia",
       "resumen": "Las fiestas patrias brindan a los trabajadores una oportunidad para descansar, participar en actividades cívicas o disfrutar en familia. Conozca algunas opciones para aprovechar el asueto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Alarma en aeródromo de Chiquimula: avioneta sufre accidente y queda detenida en plena pista",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/alarma-en-aerodromo-de-chiquimula-avioneta-sufre-accidente-y-queda-detenida-en-plena-pista-breaking/",
-      "fecha": "Mon, 14 Sep 2026 20:32:34 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Una avioneta sufrió desperfectos en el tren de aterrizaje en el aeródromo de Chiquimula; no hay heridos a causa del incidente."
     },
     {
       "fuente": "Guatemala.com",
