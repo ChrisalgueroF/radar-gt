@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-17T17:13:05.926Z",
+  "actualizado": "2026-09-17T18:18:08.892Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La “doble” de Jennifer López: mujer arrestada por presunto robo se viraliza por su parecido con J. Lo",
+      "link": "https://www.prensalibre.com/internacional/la-doble-de-jennifer-lopez-mujer-arrestada-por-presunto-robo-se-viraliza-por-su-parecido-con-j-lo/",
+      "fecha": "Thu, 17 Sep 2026 18:04:57 +0000",
+      "categoria": "Internacional",
+      "resumen": "Cyrena Anne Quast se ha convertido en una celebridad viral en las redes sociales por su extraordinario parecido con la mismísima Jennifer López."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Microsoft advierte que la IA sin control podría dar lugar a una &#8220;especie no humana&#8221; que compita con las personas",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/microsoft-advierte-que-la-ia-sin-control-podria-dar-lugar-a-una-especie-no-humana-que-compita-con-las-personas/",
+      "fecha": "Thu, 17 Sep 2026 17:19:27 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El responsable de IA de Microsoft, Mustafa Suleyman, considera que la empresa rival Anthropic está enseñando a su bot Claude que \"puede ser consciente\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "OJ pide informe al magistrado Edwin Zaldaña por uso de camioneta involucrada en accidente en el que murió Hugo Girón",
+      "link": "https://www.prensalibre.com/guatemala/justicia/oj-pide-informe-al-magistrado-edwin-zaldana-por-uso-de-camioneta-involucrada-en-accidente-en-el-que-murio-hugo-giron/",
+      "fecha": "Thu, 17 Sep 2026 17:17:10 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La camioneta del Organismo Judicial involucrada en el accidente en el que murió el músico Hugo Girón, era conducida por el hijo del magistrado Edwin Zaldaña, quien fue capturado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;El TV4 cayó a tierra&#8221; la crónica del helicóptero de noticias que se desplomó en Los Ángeles y dejó tres fallecidos",
+      "link": "https://www.prensalibre.com/internacional/el-tv4-cayo-a-tierra-la-cronica-del-helicoptero-de-noticias-que-se-desplomo-en-los-angeles-y-dejo-tres-fallecidos/",
+      "fecha": "Thu, 17 Sep 2026 17:15:26 +0000",
+      "categoria": "Internacional",
+      "resumen": "Lo que era una cobertura aérea rutinaria terminó en tragedia luego de que el helicóptero de NBC4 y Telemundo 52 se estrellara causando la muerte de tres personas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Persecución termina con la captura de dos presuntos coyotes que trasladaban a personas de distintas nacionalidades",
@@ -785,38 +817,6 @@
       "fecha": "Wed, 16 Sep 2026 13:44:46 +0000",
       "categoria": "Justicia",
       "resumen": "La PNC capturó a un hombre que conducía una motocicleta de forma temeraria en Río Dulce, Lívingston, Izabal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué aumentaron las ejecuciones en Florida, el estado que más impone la pena de muerte en EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-aumentaron-las-ejecuciones-en-florida-el-estado-que-mas-impone-la-pena-de-muerte-en-ee-uu/",
-      "fecha": "Wed, 16 Sep 2026 13:26:20 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Después de años en declive, la pena capital vuelve a estar en auge en Florida, como desea Donald Trump para todo Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuatro personas pierden la vida en accidentes en el km 72 de la ruta Interamericana",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/cuatro-personas-pierden-la-vida-en-accidentes-en-el-km-72-de-la-ruta-interamericana-breaking/",
-      "fecha": "Wed, 16 Sep 2026 13:07:47 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Los bomberos dieron detalles de dos accidentes que dejaron cuatro muertos en el kilómetro 72 de la ruta Interamericana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Copa Centroamericana: Amarini Villatoro busca con Cartaginés el pase a semifinales ante Saprissa",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/copa-centroamericana-amarini-villatoro-busca-con-cartagines-el-pase-a-semifinales-ante-saprissa-breaking/",
-      "fecha": "Wed, 16 Sep 2026 13:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El técnico guatemalteco afronta con el conjunto brumoso el duelo decisivo de la Copa Centroamericana, tras el empate 2-2 en la ida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Estamos escarbando con nuestras propias manos&#8221;: el derrumbe de un edificio dañado por la guerra en Gaza deja al menos 12 muertos y decenas de desaparecidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/estamos-escarbando-con-nuestras-propias-manos-el-derrumbe-de-un-edificio-danado-por-la-guerra-en-gaza-deja-al-menos-12-muertos-y-decenas-de-desaparecidos/",
-      "fecha": "Wed, 16 Sep 2026 12:54:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Decenas de personas se encuentran desaparecidas bajo los escombros del edificio en la ciudad de Gaza, donde vivían unas 10 familias."
     },
     {
       "fuente": "Guatemala.com",
