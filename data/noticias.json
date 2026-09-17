@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T04:16:08.742Z",
+  "actualizado": "2026-09-17T05:15:01.629Z",
   "total": 109,
   "noticias": [
     {
@@ -17,6 +17,14 @@
       "fecha": "Thu, 17 Sep 2026 03:43:05 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El rápido avance de los hutíes en Yemen podría añadir una nueva y peligrosa dimensión a la guerra de Irán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Spider-Man: Brand New Day&#8221; destrona a &#8220;Star Wars&#8221;: Tom Holland rompe récord con US$936 millones",
+      "link": "https://www.prensalibre.com/vida/escenario/spider-man-brand-new-day-destrona-a-star-wars-tom-holland-rompe-record-con-us936-millones/",
+      "fecha": "Thu, 17 Sep 2026 02:39:14 +0000",
+      "categoria": "Escenario",
+      "resumen": "\"Spider-Man: Brand New Day\", protagonizada por Tom Holland, alcanzó US$936 millones y rompió el récord de taquilla que \"Star Wars\" mantuvo por más de una década."
     },
     {
       "fuente": "Prensa Libre",
@@ -817,14 +825,6 @@
       "fecha": "Tue, 15 Sep 2026 20:12:51 +0000",
       "categoria": "Política",
       "resumen": "Marco Rubio, secretario de Estado de EE. UU. felicitó a Guatemala por su independencia y resaltó los logros obtenidos por la cooperación entre ambos países."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué las principales petroleras de EE.UU. no participan en el &#8220;mayor acuerdo de la historia&#8221; firmado por los gobiernos de Trump y Delcy Rodríguez",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/por-que-las-principales-petroleras-de-ee-uu-no-participan-en-el-mayor-acuerdo-de-la-historia-firmado-por-los-gobiernos-de-trump-y-delcy-rodriguez/",
-      "fecha": "Tue, 15 Sep 2026 19:28:54 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Para el acuerdo petrolero con Venezuela, el gobierno de EE.UU. está trabajando con una empresa poco conocida, en lugar de con gigantes energéticos como ExxonMobil. ¿Por qué ocurre esto?"
     },
     {
       "fuente": "Guatemala.com",
