@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-09-17T20:16:10.124Z",
+  "actualizado": "2026-09-17T21:15:05.599Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Minex gestiona repatriación de Edy Gutiérrez, el guatemalteco víctima de un accidente de helicóptero en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/minex-gestiona-repatriacion-de-edy-gutierrez-el-guatemalteco-victima-de-un-accidente-de-helicoptero-en-ee-uu-breaking/",
+      "fecha": "Thu, 17 Sep 2026 20:50:44 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Cancillería brinda asistencia a la familia de Edy Gutiérrez, víctima de un accidente de helicóptero en Los Ángeles,  y coordina el traslado de su cuerpo desde EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Innovación tecnológica para impulsar el crecimiento empresarial",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/innovacion-tecnologica-para-impulsar-el-crecimiento-empresarial/",
+      "fecha": "Thu, 17 Sep 2026 20:41:10 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "La iniciativa acerca soluciones digitales accesibles que simplifican la operación diaria, Pay-Volution, se desarrolló por primera vez en Guatemala, gracias a la iniciativa de BAC, dirigida al sector empresarial, diseñada para acercar soluciones tecnológicas innovadoras que facilitan la operación y aceleran el crecimiento de los negocios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Florida restringe el uso de la IA en escuelas y universidades: Estas serán las nuevas normas",
+      "link": "https://www.prensalibre.com/internacional/florida-restringe-el-uso-de-la-ia-en-escuelas-y-universidades-estas-seran-las-nuevas-normas/",
+      "fecha": "Thu, 17 Sep 2026 20:38:22 +0000",
+      "categoria": "Internacional",
+      "resumen": "El director de Anthropic urgió a desacelerar el desarrollo de la IA debido a los riesgos, pero Trump rechazó estas solicitudes para evitar que China aventaje a EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Juez otorga arresto domiciliario a Andrés Alcázar Crespo, procesado por el secuestro del odontólogo Julio Martínez",
+      "link": "https://www.prensalibre.com/guatemala/justicia/juez-otorga-arresto-domiciliario-a-andres-alcazar-crespo-procesado-por-el-secuestro-del-odontologo-julio-martinez-breaking/",
+      "fecha": "Thu, 17 Sep 2026 20:25:00 +0000",
+      "categoria": "Justicia",
+      "resumen": "Andrés Alcázar Crespo, procesado por el secuestro del odontólogo Julio Martínez, obtuvo arresto domiciliario con control telemático y otras medidas sustitutivas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Redefine la movilidad en Centroamérica su nuevo SUV de lujo todoterreno",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/redefine-la-movilidad-en-centroamerica-su-nuevo-suv-de-lujo-todoterreno/",
+      "fecha": "Thu, 17 Sep 2026 20:16:23 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "ROX Motor se especializa en vehículos todoterreno, inteligentes y de nueva energía, marca un hito en su estrategia de expansión global, al realizar el lanzamiento del SUV ROX ADAMAS en la nueva sala de ventas de JCN Motors, Auto Plaza, con la asistencia de representantes ejecutivos de la marca, socios comerciales y amigos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Selección de Guatemala: Luis Fernando Tena define a sus convocados para enfrentar a Jamaica en  la primera jornada de la Liga de Naciones Concacaf",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-luis-fernando-tena-define-a-sus-convocados-para-enfrentar-a-jamaica-breaking/",
+      "fecha": "Thu, 17 Sep 2026 20:03:44 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Luis Fernando Tena define los 23 convocados de la Selección de Guatemala para enfrentar a Jamaica el 25 de septiembre, en el debut de la Bicolor en la Liga de Naciones de Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Congreso conocerá hasta el martes 22 de septiembre objeciones al decreto sobre combustibles",
+      "link": "https://www.prensalibre.com/guatemala/politica/congreso-conocera-hasta-el-martes-22-de-septiembre-objeciones-al-decreto-sobre-combustibles/",
+      "fecha": "Thu, 17 Sep 2026 19:57:34 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Las objeciones al decreto 21-2026, que establece precios de referencia para los combustibles, serán conocidas el próximo martes en el Congreso, mientras la bancada de la UNE anunció el retiro de las interpelaciones a ministros para dar prioridad a la discusión de medidas relacionadas con el precio de los combustibles."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Transportistas piden al Congreso aprobar paquete extraordinario para reducir el precio del combustible",
@@ -36,8 +92,8 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Nueve aspirantes a contralor no logran desvanecer cuestionamientos sobre ética e independencia",
-      "link": "https://www.prensalibre.com/guatemala/politica/nueve-aspirantes-a-contralor-no-logran-desvanecer-cuestionamientos-sobre-etica-e-independencia/",
+      "titulo": "Diez aspirantes a contralor no logran desvanecer cuestionamientos sobre ética e independencia",
+      "link": "https://www.prensalibre.com/guatemala/politica/diez-aspirantes-a-contralor-no-logran-desvanecer-cuestionamientos-sobre-etica-e-independencia/",
       "fecha": "Thu, 17 Sep 2026 18:54:29 +0000",
       "categoria": "Guatemala",
       "resumen": "Algunos profesionales no desvanecen señalamientos de la sociedad civil por presuntos nexos con políticos y conductas alejadas de la legalidad."
@@ -763,68 +819,12 @@
       "resumen": "El popular cantante británico enfrenta la mayor controversia de su carrera tras excluir de su gira al rapero Macklemore, quien defendió la causa palestina cuando actuaba como telonero."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "El video de los últimos momentos grabados por el helicóptero de NBC4 antes de estrellarse en Los Ángeles",
-      "link": "https://www.prensalibre.com/internacional/el-video-de-los-ultimos-momentos-grabados-por-el-helicoptero-de-nbc4-antes-de-estrellarse-en-los-angeles/",
-      "fecha": "Wed, 16 Sep 2026 17:38:48 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un video muestra los últimos momentos del helicóptero accidentado en Los Ángeles, perteneciente a la cadena de noticias NBC4."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video revela cómo fue el accidente vial entre el hijo de un magistrado y el músico Hugo Girón",
-      "link": "https://www.prensalibre.com/guatemala/justicia/video-revela-como-fue-el-accidente-vial-entre-el-hijo-de-un-magistrado-y-el-musico-hugo-giron/",
-      "fecha": "Wed, 16 Sep 2026 17:26:04 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Familiar del joven que se accidentó en la zona 9 señala que el incidente en el que murió el músico y docente Héctor Hugo Girón Barrientos pudo haber ocurrido porque el joven se pasó un semáforo en rojo y niega carrera ilegal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué se sabe del helicóptero de noticias accidentado en Los Ángeles y la identidad de las víctimas",
-      "link": "https://www.prensalibre.com/internacional/que-se-sabe-del-helicoptero-de-noticias-accidentado-en-los-angeles-y-la-identidad-de-las-victimas/",
-      "fecha": "Wed, 16 Sep 2026 17:15:11 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un helicóptero de noticias se accidentó el pasado 15 de septiembre en Los Ángeles y entre los fallecidos estaría una reportera y el piloto."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Proyecto creado por niños guatemaltecos acerca el espacio a personas con discapacidad auditiva",
       "link": "https://www.guatemala.com/noticias/sociedad/universo-inclusivo-proyecto-acerca-astronomia-personas-discapacidad-auditiva-guatemala.html",
       "fecha": "Wed, 16 Sep 2026 16:49:31 +0000",
       "categoria": "Sociedad",
       "resumen": "Universo Inclusivo es una plataforma gratuita que facilita la participación de personas con discapacidad auditiva en observaciones astronómicas. \nThe post Proyecto creado por niños guatemaltecos acerca el espacio a personas con discapacidad auditiva appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pescadores hallan supuesto torpedo de EE. UU. frente a Ensenada: Marina de México lo resguarda",
-      "link": "https://www.prensalibre.com/internacional/pescadores-hallan-supuesto-torpedo-de-ee-uu-frente-a-ensenada-marina-de-mexico-lo-resguarda/",
-      "fecha": "Wed, 16 Sep 2026 16:44:36 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un artefacto con características similares a las de un torpedo fue localizado frente a las costas de Ensenada y quedó bajo resguardo de la Secretaría de Marina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala: Insivumeh explica cuál es la probabilidad de lluvias este 16 de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-insivumeh-explica-cual-es-la-probabilidad-de-lluvias-este-16-de-septiembre-breaking/",
-      "fecha": "Wed, 16 Sep 2026 16:41:43 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh informó que continuarán las temperaturas elevadas al mediodía y que no descarta lluvias en el territorio nacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Luis de la Fuente renovará con España hasta 2030 y será uno de los mejor pagados",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/luis-de-la-fuente-renovara-con-espana-hasta-2030-y-sera-uno-de-los-mejor-pagados/",
-      "fecha": "Wed, 16 Sep 2026 16:17:35 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La renovación no solo garantiza su continuidad: también cambiará su posición entre los seleccionadores mejor remunerados del mundo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "The Velvet Band llevará su repertorio a una velada musical especial en la ciudad de Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/the-velvet-band-llevara-su-repertorio-a-una-velada-musical-especial-en-la-ciudad-de-guatemala/",
-      "fecha": "Wed, 16 Sep 2026 16:05:56 +0000",
-      "categoria": "Escenario",
-      "resumen": "La banda guatemalteca ofrecerá un concierto en la capital e incluirá un repertorio especial para compartir y celebrar su energía en los escenarios."
     },
     {
       "fuente": "Guatemala.com",
