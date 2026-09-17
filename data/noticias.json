@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-17T12:19:44.804Z",
+  "actualizado": "2026-09-17T13:16:50.825Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Motorista muere en accidente en el km 15 de la ruta Interamericana; PMT comparte rutas alternas",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/motorista-muere-en-accidente-en-el-km-15-de-la-ruta-interamericana-pmt-comparte-rutas-alternas-breaking/",
+      "fecha": "Thu, 17 Sep 2026 12:56:43 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Motorista muere en accidente en el kilómetro 15.8 de la ruta Interamericana, con dirección a la ciudad de Guatemala."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Puede el Vaticano buscar una nominación a los premios Óscar por primera vez en su historia?",
@@ -140,7 +148,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "&#8220;Spider-Man: Brand New Day&#8221; destrona a &#8220;Star Wars&#8221;: Tom Holland rompe récord con US$936 millones",
+      "titulo": "Spider-Man: Brand New Day hace historia: supera a Star Wars y se convierte en la película más taquillera de EE. UU.",
       "link": "https://www.prensalibre.com/vida/escenario/spider-man-brand-new-day-destrona-a-star-wars-tom-holland-rompe-record-con-us936-millones/",
       "fecha": "Thu, 17 Sep 2026 02:39:14 +0000",
       "categoria": "Escenario",
@@ -809,14 +817,6 @@
       "fecha": "Wed, 16 Sep 2026 03:17:45 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El primer ministro canadiense viaja esta semana a Estrasburgo en busca de una \"alianza única\" con la UE."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MARN detalla inspecciones en drenajes de la ciudad por caso de coloración del río Las Vacas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/marn-detalla-inspecciones-en-drenajes-de-la-ciudad-por-caso-de-coloracion-del-rio-las-vacas-breaking/",
-      "fecha": "Wed, 16 Sep 2026 03:15:16 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El MARN emitió un comunicado donde detalló los trabajos de inspección en drenajes por el reciente caso de coloración del río Las Vacas."
     },
     {
       "fuente": "Guatemala.com",
