@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-17T01:14:59.369Z",
+  "actualizado": "2026-09-17T02:15:12.213Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Seis propuestas buscan bajar el precio de las gasolinas y el diésel: qué plantea cada una y cómo avanzan",
+      "link": "https://www.prensalibre.com/economia/seis-propuestas-buscan-bajar-el-precio-de-las-gasolinas-y-el-diesel-que-plantea-cada-una-y-como-avanzan/",
+      "fecha": "Thu, 17 Sep 2026 02:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Exonerar IDP, reducir o eliminar temporalmente el IVA, subsidios a los combustibles o establecer precios de referencia: estas son las alternativas que se discuten en el Congreso mientras el decreto 21-2026 continúa detenido y otras iniciativas buscan avanzar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alarma en la zona 9: hombre escala parte de la Torre del Reformador y obliga a coordinar presencia de socorristas",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/alarma-en-la-zona-9-hombre-escala-parte-de-la-torre-del-reformador-y-obliga-a-coordinar-presencia-de-socorristas-breaking/",
+      "fecha": "Thu, 17 Sep 2026 01:47:25 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Un hombre en aparente estado de ebriedad escaló parte de la Torre del Reformador, lo que generó alarma y motivó la coordinación de cuerpos de socorro y la Policía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video &#124; Así fue el gol 100 de Lionel Messi con el Inter Miami",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-asi-fue-el-gol-100-de-lionel-messi-con-el-inter-miami-breaking/",
+      "fecha": "Thu, 17 Sep 2026 01:14:01 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Una cifra que agiganta su leyenda: Messi alcanzó los 100 goles con el Inter Miami y volvió a dejar una huella histórica con una definición espectacular."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Ataque armado en bulevar San Cristóbal deja un muerto, una mujer herida y complicaciones viales",
@@ -25,6 +49,22 @@
       "fecha": "Thu, 17 Sep 2026 00:55:52 +0000",
       "categoria": "Sucesos",
       "resumen": "Personal especializado de los Bomberos Voluntarios descendió por un barranco y recorrió un río de aguas residuales para localizar el cadáver de un hombre reportado como desaparecido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué Estados Unidos sacó a Venezuela de la lista de países que incumplen en la lucha contra el narcotráfico? Esto dice Trump",
+      "link": "https://www.prensalibre.com/internacional/por-que-estados-unidos-saco-a-venezuela-de-la-lista-de-paises-que-incumplen-en-la-lucha-contra-el-narcotrafico-esto-dice-trump/",
+      "fecha": "Thu, 17 Sep 2026 00:42:11 +0000",
+      "categoria": "Internacional",
+      "resumen": "EE. UU. actualizó su evaluación sobre los esfuerzos de Venezuela contra el narcotráfico, mientras mantiene al país entre los principales territorios de tránsito o producción de drogas ilícitas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tom Cruise habla sobre el miedo a morir y las peligrosas escenas de sus películas",
+      "link": "https://www.prensalibre.com/vida/escenario/tom-cruise-habla-sobre-el-miedo-a-morir-y-las-peligrosas-escenas-de-sus-peliculas/",
+      "fecha": "Thu, 17 Sep 2026 00:41:51 +0000",
+      "categoria": "Escenario",
+      "resumen": "Próximo a estrenar su nueva película, \"Digger\", el actor estadounidense Tom Cruise habla sobre las escenas de riesgo que han marcado su carrera."
     },
     {
       "fuente": "Prensa Libre",
@@ -57,6 +97,14 @@
       "fecha": "Wed, 16 Sep 2026 23:46:13 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El delantero guatemalteco fue titular y marcó el tanto del triunfo ante União São João, en un nuevo paso de su crecimiento en Brasil y con la mira puesta en volver a tener protagonismo con la Selección Mayor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ríos secos y falta de alimentos: así afecta la sequía a campesinos de El Progreso",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/rios-secos-y-falta-de-alimentos-asi-afecta-la-sequia-a-campesinos-de-el-progreso/",
+      "fecha": "Wed, 16 Sep 2026 23:43:39 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La sequía por el fenómeno de El Niño afecta cultivos y fuentes de subsistencia de agricultores de El Jícaro, El Progreso, que luchan por sobrevivir."
     },
     {
       "fuente": "Prensa Libre",
@@ -148,7 +196,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Raphinha está intratable y anota triplete en la goleada del Barcelona 7-2 ante Racing de Santander",
+      "titulo": "Barcelona impone paso arrollador y golea 7-2 ante Racing de Santander",
       "link": "https://www.prensalibre.com/deportes/futbol-internacional/raphinha-esta-intratable-y-anota-triplete-en-la-goleada-del-barcelona-7-2-ante-racing-de-santader-breaking/",
       "fecha": "Wed, 16 Sep 2026 21:29:45 +0000",
       "categoria": "Fútbol Internacional",
@@ -777,54 +825,6 @@
       "fecha": "Tue, 15 Sep 2026 18:18:08 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El secretario de la Fuerza Aérea de Estados Unidos afirma que Estados Unidos puso un arma en órbita para defender al país de las acciones enemigas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué el río Las Vacas se tornó rojo? Esto investiga el MARN",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/por-que-el-rio-las-vacas-se-torno-rojo-esto-investiga-el-marn-breaking/",
-      "fecha": "Tue, 15 Sep 2026 18:13:20 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Ministerio de Ambiente analiza la coloración rojiza y busca establecer qué sustancia la produjo y su origen, mientras persisten antecedentes de contaminación en el afluente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El amor brilló en los Emmy 2026: las parejas más enamoradas",
-      "link": "https://www.prensalibre.com/vida/escenario/el-amor-brillo-en-los-emmy-2026-las-parejas-mas-enamoradas/",
-      "fecha": "Tue, 15 Sep 2026 17:49:20 +0000",
-      "categoria": "Escenario",
-      "resumen": "Más allá de la expectativa por los premios y el glamur que impone la alfombra roja, muchos pudieron apreciar los cariñosos gestos entre estas parejas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por primera vez Japón supera las 100.000 personas con 100 años o más (y qué hay detrás de esta asombrosa longevidad)",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-primera-vez-japon-supera-las-100-000-personas-con-100-anos-o-mas-y-que-hay-detras-de-esta-asombrosa-longevidad/",
-      "fecha": "Tue, 15 Sep 2026 17:45:57 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las cifras muestran que el 88% de los centenarios son mujeres, en un contexto en el que la población continúa envejeciendo y disminuyendo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Zendaya y Tom Holland: ¿Realmente están casados?",
-      "link": "https://www.prensalibre.com/vida/escenario/zendaya-y-tom-holland-realmente-estan-casados/",
-      "fecha": "Tue, 15 Sep 2026 17:09:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El estilista de la actriz, quien en marzo afirmó que la boda ya se había realizado, ahora dice que mintió y que la pareja aún no ha celebrado una ceremonia oficial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Wolverine llega a PlayStation con un juego de acción sin límite",
-      "link": "https://www.prensalibre.com/vida/escenario/wolverine-llega-a-playstation-con-un-juego-de-accion-sin-limite/",
-      "fecha": "Tue, 15 Sep 2026 17:05:10 +0000",
-      "categoria": "Escenario",
-      "resumen": "Una de las más importantes apuestas del año en el mundo de los videojuegos está basada en el famoso personaje de derivado de los \"X-Men\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jugadores de Antigua GFC respaldan a Mauricio Tapia en medio de la tensión con la directiva",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/jugadores-de-antigua-gfc-respaldan-a-mauricio-tapia-en-medio-de-la-tension-con-la-directiva-breaking/",
-      "fecha": "Tue, 15 Sep 2026 16:55:12 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El plantel colonial salió públicamente en defensa del técnico argentino y pidió a la dirigencia resolver las diferencias internas para mantener unido al equipo líder del Apertura 2026."
     },
     {
       "fuente": "Guatemala.com",
