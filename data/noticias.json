@@ -1,7 +1,103 @@
 {
-  "actualizado": "2026-09-17T05:15:01.629Z",
+  "actualizado": "2026-09-17T06:20:33.670Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La Fed sube las tasas: cómo afecta a hipotecas, préstamos y tarjetas",
+      "link": "https://www.prensalibre.com/economia/la-fed-sube-las-tasas-como-afecta-a-hipotecas-prestamos-y-tarjetas/",
+      "fecha": "Thu, 17 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El alza de las tasas de la Reserva Federal puede encarecer algunos créditos, mientras que los rendimientos de las cuentas de ahorro podrían aumentar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lo dejó el tren",
+      "link": "https://www.prensalibre.com/opinion/caricatura/lo-dejo-el-tren/",
+      "fecha": "Thu, 17 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Artificioso plan piloto de IA partido en 15 en el OJ",
+      "link": "https://www.prensalibre.com/opinion/editorial/artificioso-plan-piloto-de-ia-partido-en-15-en-el-oj/",
+      "fecha": "Thu, 17 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Es manido el truco de fragmentar compras para evadir licitaciones y efectuar compras con dedicatoria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cinco cosas que los dermatólogos quieren que deje de hacerle a su piel",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/cinco-cosas-que-los-dermatologos-quieren-que-deje-de-hacerle-a-su-piel/",
+      "fecha": "Thu, 17 Sep 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Hay hábitos sobre el cuidado de la piel que los especialistas sugieren no tomarse a la ligera. ¿Por qué?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "NSA prepara su mayor reestructuración interna en al menos una década",
+      "link": "https://www.prensalibre.com/internacional/nsa-prepara-su-mayor-reestructuracion-interna-en-al-menos-una-decada/",
+      "fecha": "Thu, 17 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "El plan contempla cinco nuevas áreas centradas en inteligencia artificial, China, ciberseguridad, apoyo al combate e inteligencia global, con cambios previstos desde octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Postuladora para CGC evita calificar expedientes en sesión plenaria",
+      "link": "https://www.prensalibre.com/guatemala/politica/postuladora-para-cgc-evita-calificar-expedientes-en-sesion-plenaria/",
+      "fecha": "Thu, 17 Sep 2026 06:05:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Esta semana la comisión planea calificar con tabla de gradación, hacer entrevistas a los 15 mejor evaluados; e integrar la nómina de seis candidatos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nunca la patria ha sido un gobernante",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/nunca-la-patria-ha-sido-un-gobernante/",
+      "fecha": "Thu, 17 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La patria, como Dios y el dinero, son ideas neutras que se interpretan y manipulan al antojo de quien tiene o quiere el poder."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dejemos de frenar a Guatemala",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/dejemos-de-frenar-a-guatemala/",
+      "fecha": "Thu, 17 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El poder de cambiar el país está en su gente y en dejar de impedir que pueda crear riqueza sin tantos obstáculos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "A doscientos años de la Independencia",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/a-doscientos-anos-de-la-independencia-2/",
+      "fecha": "Thu, 17 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La idea de la Independencia conlleva un compromiso ciudadano con unos ideales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Canuto y José",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/canuto-y-jose/",
+      "fecha": "Thu, 17 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Diferencia entre lo que se le puede exigir y lo que es capaz de hacer."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy jueves 17 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-17-de-septiembre-de-2026/",
+      "fecha": "Thu, 17 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "IUSI: alcance de las tarifas y vigencia",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/iusi-alcance-de-las-tarifas-y-vigencia/",
+      "fecha": "Thu, 17 Sep 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El pago del IUSI no es declaración. Las tarifas se aplicarán a partir del 26 de noviembre."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Guatemala y Estados Unidos fortalecen cooperación para combatir el tráfico ilícito y la trata de personas",
@@ -723,108 +819,12 @@
       "resumen": "Los días 19 y 20 de septiembre, en el Salón 9 y Área 8/9 del Parque de la Industria, en un horario de 8:00 de la mañana a 3:00 de la tarde, el Comité Permanente de Exposiciones (COPEREX), a través de su brazo social, realizará por cuarto año la Jornada de la Salud, un evento que ofrecerá servicios de salud gratuitos y de calidad a la población guatemalteca."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Scaloni hace su primera convocatoria después de la final de la Copa del Mundo 2026",
-      "link": "https://www.prensalibre.com/deportes/scaloni-hace-su-primera-convocatoria-despues-de-la-final-de-la-copa-del-mundo-2026-breaking/",
-      "fecha": "Wed, 16 Sep 2026 01:46:06 +0000",
-      "categoria": "Deportes",
-      "resumen": "El técnico de la selección de Argentina presentó el listado de jugadores para los primeros tres partidos que tendrá en las próximas fechas Fifa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Se separan Jesse y Joy? Esto es lo que se sabe de la pausa que tomarán",
-      "link": "https://www.prensalibre.com/vida/escenario/se-separan-jesse-y-joy-esto-es-lo-que-se-sabe-de-la-pausa-que-tomaran/",
-      "fecha": "Wed, 16 Sep 2026 01:09:01 +0000",
-      "categoria": "Escenario",
-      "resumen": "El dueto integrado por los hermanos Huerta detendrá su carrera de manera  indefinida luego de más de 20 años de hacer música."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Messi ya tiene fecha y rival para su juego de despedida con la Selección de Argentina",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/messi-ya-tiene-fecha-y-rival-para-su-juego-de-despedida-con-la-seleccion-de-argentina-breaking/",
-      "fecha": "Wed, 16 Sep 2026 01:02:30 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El presidente de la Asociación Argentina de Futbol (AFA) Claudio Tapia, dio a conocer que Lionel Messi tendrá su partido de despedida de la selección Albiceleste."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién es el empresario colombiano Alex Saab, aliado y supuesto testaferro de Nicolás Maduro que se declaró culpable de lavado de dinero en EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-el-empresario-colombiano-alex-saab-aliado-y-supuesto-testaferro-de-nicolas-maduro-que-se-declaro-culpable-de-lavado-de-dinero-en-ee-uu/",
-      "fecha": "Tue, 15 Sep 2026 23:54:42 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El empresario colombiano, a quien Maduro llegó a nombrar ministro de Industria, se declaró culpable ante una corte federal de Florida en un caso que implica millones de dólares de fondos públicos venezolanos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El hijo mayor de Brad Pitt y Angelina Jolie se quita el apellido paterno",
-      "link": "https://www.prensalibre.com/vida/escenario/el-hijo-mayor-de-brad-pitt-y-angelina-jolie-se-quita-el-apellido-paterno/",
-      "fecha": "Tue, 15 Sep 2026 23:24:07 +0000",
-      "categoria": "Escenario",
-      "resumen": "Maddox siguió el camino de su hermana menor Shiloh, quien al cumplir 18 años actuó legalmente para cambiar su nombre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo ocupa último lugar de ranking presidencial latinoamericano, encabezado por Sheinbaum y Bukele",
-      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-ocupa-ultimo-lugar-de-ranking-presidencial-latinoamericano-encabezado-por-sheinbaum-y-bukele-breaking/",
-      "fecha": "Tue, 15 Sep 2026 23:03:38 +0000",
-      "categoria": "Política",
-      "resumen": "Bernardo Arévalo ocupa la última posición del ranking de los presidentes latinoamericanos mejor valorados por sus ciudadanos, lista encabezada por Sheinbaum, Bukele y De la Espriella."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elevan el estándar en Guatemala con nuevos modelos 2026",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/elevan-el-estandar-en-guatemala-con-nuevos-modelos-2026/",
-      "fecha": "Tue, 15 Sep 2026 22:51:01 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Una nueva generación de motocicletas de alta gama Monster Plus V2, Hypermotard V2 SP, DesertX V2 y Streetfighter V2 S; llegan a Guatemala con el sello Ducati, quien continúa escribiendo su historia y reafirmando el ADN deportivo e innovador de la marca italiana."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Lugares del mundo rindieron homenaje a Guatemala por sus 205 años de Independencia",
       "link": "https://www.guatemala.com/noticias/sociedad/rinden-homenaje-guatemala-205-anos-independencia-distintos-lugares-mundo.html",
       "fecha": "Tue, 15 Sep 2026 22:36:01 +0000",
       "categoria": "Sociedad",
       "resumen": "Corea del Sur, India, Turquía y Ecuador han iluminado edificios emblemáticos con los colores de la bandera de Guatemala por su Independencia.\nThe post Lugares del mundo rindieron homenaje a Guatemala por sus 205 años de Independencia appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Está suspendido por el IGSS? Cuánto recibe, cuándo le pagan y dónde cobrar",
-      "link": "https://www.prensalibre.com/economia/esta-suspendido-por-el-igss-cuanto-recibe-cuando-le-pagan-y-donde-cobrar/",
-      "fecha": "Tue, 15 Sep 2026 22:35:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Los afiliados suspendidos temporalmente por enfermedad, accidente o maternidad pueden recibir un subsidio del IGSS. Conozca cuánto puede recibir, cuándo se realiza el pago y dónde cobrarlo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Descubren en Países Bajos un fragmento de &#8220;La Odisea&#8221; de más de mil años de antigüedad",
-      "link": "https://www.prensalibre.com/vida/escenario/descubren-en-paises-bajos-un-fragmento-de-la-odisea-de-mas-de-mil-anos-de-antiguedad/",
-      "fecha": "Tue, 15 Sep 2026 22:29:20 +0000",
-      "categoria": "Escenario",
-      "resumen": "La pieza, que fue identificada en una biblioteca, data de unos 1,700 años"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Espí despierta a tiempo al Real Madrid y destruye el sueño del Elche",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/espi-despierta-a-tiempo-al-real-madrid-y-destruye-el-sueno-del-elche-breaking/",
-      "fecha": "Tue, 15 Sep 2026 21:52:55 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El conjunto que dirige José Mourinho había dejado escapar una ventaja de dos goles y sobre el final tuvo que reaccionar para quedarse con el triunfo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Luis Fonsi celebrará el Mes de la Herencia Hispana en Disney World: ¿qué actividades realizará el cantante?",
-      "link": "https://www.prensalibre.com/vida/escenario/luis-fonsi-celebrara-el-mes-de-la-herencia-hispana-en-disney-world-que-actividades-realizara-el-cantante/",
-      "fecha": "Tue, 15 Sep 2026 20:37:46 +0000",
-      "categoria": "Escenario",
-      "resumen": "El intérprete de \"Despacito\"  se sumó a la campaña “Together We Are Magia”, que busca fomentar el orgullo por las raíces latinoamericanas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Marco Rubio felicita a Guatemala por su independencia y resalta cooperación del país con EE. UU.",
-      "link": "https://www.prensalibre.com/guatemala/politica/marco-rubio-felicita-a-guatemala-por-su-independencia-y-resalta-cooperacion-del-pais-con-ee-uu/",
-      "fecha": "Tue, 15 Sep 2026 20:12:51 +0000",
-      "categoria": "Política",
-      "resumen": "Marco Rubio, secretario de Estado de EE. UU. felicitó a Guatemala por su independencia y resaltó los logros obtenidos por la cooperación entre ambos países."
     },
     {
       "fuente": "Guatemala.com",
