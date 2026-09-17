@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-17T03:15:29.609Z",
+  "actualizado": "2026-09-17T04:16:08.742Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala y Estados Unidos fortalecen cooperación para combatir el tráfico ilícito y la trata de personas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/guatemala-y-estados-unidos-fortalecen-cooperacion-para-combatir-el-trafico-ilicito-y-la-trata-de-personas/",
+      "fecha": "Thu, 17 Sep 2026 04:01:56 +0000",
+      "categoria": "Justicia",
+      "resumen": "El MP y autoridades de Estados Unidos abordaron la cooperación bilateral para fortalecer la persecución penal y combatir delitos como el tráfico ilícito y la trata de personas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quiénes son los hutíes, los rebeldes aliados de Irán en Yemen que tienen en vilo al mercado mundial de petróleo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quienes-son-los-huties-los-rebeldes-aliados-de-iran-en-yemen-que-tienen-en-vilo-al-mercado-mundial-de-petroleo/",
+      "fecha": "Thu, 17 Sep 2026 03:43:05 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El rápido avance de los hutíes en Yemen podría añadir una nueva y peligrosa dimensión a la guerra de Irán."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "“Un policía parado ahí no es sinónimo de seguridad”: video revela cómo cinco personas rodean a un hombre y le roban el celular en Xelafer",
@@ -809,22 +825,6 @@
       "fecha": "Tue, 15 Sep 2026 19:28:54 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Para el acuerdo petrolero con Venezuela, el gobierno de EE.UU. está trabajando con una empresa poco conocida, en lugar de con gigantes energéticos como ExxonMobil. ¿Por qué ocurre esto?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vitto Murga: la guatemalteca que diseña para Ricardo Arjona debuta en la Semana de la Moda de Nueva York y presenta colección de edición limitada",
-      "link": "https://www.prensalibre.com/vida/escenario/vitto-murga-la-guatemalteca-que-disena-para-ricardo-arjona-debuta-en-la-semana-de-la-moda-de-nueva-york-y-presenta-coleccion-de-edicion-limitada/",
-      "fecha": "Tue, 15 Sep 2026 19:27:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Vitto Murga debutó en la plataforma Fashion Designers of Latin America (FDLA), en la Semana de la Moda de Nueva York, EE. UU., con una colección que incluyó piezas de edición limitada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El empresario colombiano Alex Saab, aliado clave de Nicolás Maduro, se declara culpable de lavado de dinero y entregará US$195 millones a EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-empresario-colombiano-alex-saab-aliado-clave-de-nicolas-maduro-se-declara-culpable-de-lavado-de-dinero-y-entregara-us195-millones-a-ee-uu/",
-      "fecha": "Tue, 15 Sep 2026 19:17:48 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Saab, quien llegó a ser ministro del gobierno de Maduro, cambió su declaración anterior de \"no culpable\" a \"culpable\" en un tribunal de Miami, tras un acuerdo con la Fiscalía."
     },
     {
       "fuente": "Guatemala.com",
