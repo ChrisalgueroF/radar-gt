@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-17T13:16:50.825Z",
+  "actualizado": "2026-09-17T14:16:39.126Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fernando Gutiérrez: El guatemalteco que murió en el desplome de un helicóptero en Los Ángeles",
+      "link": "https://www.prensalibre.com/internacional/fernando-gutierrez-el-guatemalteco-que-murio-en-el-desplome-de-un-helicoptero-en-los-angeles/",
+      "fecha": "Thu, 17 Sep 2026 13:38:40 +0000",
+      "categoria": "Internacional",
+      "resumen": "A Edy Fernando Gutiérrez sus familiares lo describen como un hombre trabajador, bromista y, sobre todas las cosas, un muy buen hijo, pues mantenía a su madre, Sonia Mejía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala registra tres temblores en las últimas horas, uno de ellos de magnitud 4.7",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-registra-tres-temblores-en-las-ultimas-horas-uno-de-ellos-de-magnitud-4-7-breaking/",
+      "fecha": "Thu, 17 Sep 2026 13:34:16 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Tres temblores han sido registrados por el Insivumeh, con epicentro en el océano Pacífico."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Motorista muere en accidente en el km 15 de la ruta Interamericana; PMT comparte rutas alternas",
@@ -801,22 +817,6 @@
       "fecha": "Wed, 16 Sep 2026 06:00:00 +0000",
       "categoria": "Plumas invitadas",
       "resumen": "Los resultados de la prueba PISA nos llevan a una reflexión profunda, que debe derivar en cambios para adoptar estrategias que mejoren todas las etapas de la trayectoria escolar de los estudiantes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Grupo AG: &#8220;Tenemos planificadas inversiones importantes dentro y fuera de Guatemala”",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/grupo-ag-tenemos-planificadas-inversiones-importantes-dentro-y-fuera-de-guatemala/",
-      "fecha": "Wed, 16 Sep 2026 06:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Director de Grupo AG ve un amplio potencial de crecimiento en el país, aunque señala que la certeza jurídica y la infraestructura deben avanzar para atraer más capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Como la hostilidad de Trump está empujando a Canadá a acercarse a la Unión Europea",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/como-la-hostilidad-de-trump-esta-empujando-a-canada-a-acercarse-a-la-union-europea/",
-      "fecha": "Wed, 16 Sep 2026 03:17:45 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El primer ministro canadiense viaja esta semana a Estrasburgo en busca de una \"alianza única\" con la UE."
     },
     {
       "fuente": "Guatemala.com",
