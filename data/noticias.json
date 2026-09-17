@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-17T14:16:39.126Z",
+  "actualizado": "2026-09-17T15:15:56.159Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hombre que viajaba en bus es capturado por señalamientos de ejecución extrajudicial y tortura",
+      "link": "https://www.prensalibre.com/guatemala/justicia/hombre-que-viajaba-en-bus-es-capturado-por-senalamientos-de-ejecucion-extrajudicial-y-tortura-breaking/",
+      "fecha": "Thu, 17 Sep 2026 14:18:26 +0000",
+      "categoria": "Justicia",
+      "resumen": "Capturan en Jutiapa a hombre señalado de la muerte de dos personas en el 2011."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amarini Villatoro vuelve a semifinales y destaca la resiliencia de Cartaginés: “Peleó hasta el final”",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/amarini-villatoro-vuelve-a-semifinales-y-destaca-la-resiliencia-de-cartagines-peleo-hasta-el-final/",
+      "fecha": "Thu, 17 Sep 2026 14:10:21 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El técnico guatemalteco alcanza esta instancia por segundo año consecutivo, después de hacerlo con Xelajú en 2025, y reconoce que su equipo todavía está en proceso de madurez."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Fernando Gutiérrez: El guatemalteco que murió en el desplome de un helicóptero en Los Ángeles",
@@ -801,22 +817,6 @@
       "fecha": "Wed, 16 Sep 2026 06:01:00 +0000",
       "categoria": "Vida",
       "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sesenta palabras para re-conocernos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/sesenta-palabras-para-re-conocernos/",
-      "fecha": "Wed, 16 Sep 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Una democracia funcional no se sostiene únicamente mediante elecciones y leyes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Necesario cambio de ruta para mejorar la educación",
-      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/necesario-cambio-de-ruta-para-mejorar-la-educacion/",
-      "fecha": "Wed, 16 Sep 2026 06:00:00 +0000",
-      "categoria": "Plumas invitadas",
-      "resumen": "Los resultados de la prueba PISA nos llevan a una reflexión profunda, que debe derivar en cambios para adoptar estrategias que mejoren todas las etapas de la trayectoria escolar de los estudiantes."
     },
     {
       "fuente": "Guatemala.com",
