@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-17T11:15:34.533Z",
+  "actualizado": "2026-09-17T12:19:44.804Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Puede el Vaticano buscar una nominación a los premios Óscar por primera vez en su historia?",
+      "link": "https://www.prensalibre.com/vida/escenario/puede-el-vaticano-buscar-una-nominacion-a-los-premios-oscar-por-primera-vez-en-su-historia/",
+      "fecha": "Thu, 17 Sep 2026 12:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La revista Variety informa que el Vaticano buscará por primera vez en su historia una nominación en los premios Óscar con un cortometraje documental."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Ley de Competencia en Guatemala necesita una autoridad sólida, afirma experto",
@@ -809,14 +817,6 @@
       "fecha": "Wed, 16 Sep 2026 03:15:16 +0000",
       "categoria": "Comunitario",
       "resumen": "El MARN emitió un comunicado donde detalló los trabajos de inspección en drenajes por el reciente caso de coloración del río Las Vacas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tebas pide &#8220;repensar&#8221; la candidatura de España para el Mundial de 2030 si Infantino sigue y la final es en Marruecos",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/tebas-pide-repensar-la-candidatura-de-espana-para-el-mundial-de-2030-si-infantino-sigue-y-la-final-es-en-marruecos-breaking/",
-      "fecha": "Wed, 16 Sep 2026 03:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El presidente de LaLiga cuestiona la candidatura española si el actual presidente de FIFA continúa en el cargo y la final del Mundial se disputa en Marruecos."
     },
     {
       "fuente": "Guatemala.com",
