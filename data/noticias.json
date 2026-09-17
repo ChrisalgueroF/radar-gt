@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-17T02:15:12.213Z",
+  "actualizado": "2026-09-17T03:15:29.609Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Un policía parado ahí no es sinónimo de seguridad”: video revela cómo cinco personas rodean a un hombre y le roban el celular en Xelafer",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/un-policia-parado-ahi-no-es-sinonimo-de-seguridad-video-revela-como-cinco-personas-rodean-a-un-hombre-y-le-roban-el-celular-en-xelafer/",
+      "fecha": "Thu, 17 Sep 2026 02:31:44 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Un video captó cómo cinco personas rodean a un hombre y le sustraen el celular durante Xelafer. Analistas advierten sobre la forma coordinada en que operan quienes aprovechan las aglomeraciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El técnico guatemalteco Amarini Villatoro hace historia: lleva al Cartaginés a semifinales de la Copa Centroamericana",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-tecnico-guatemalteco-amarini-villatoro-hace-historia-lleva-al-cartagines-a-semifinales-de-la-copa-centroamericana-breaking/",
+      "fecha": "Thu, 17 Sep 2026 02:28:01 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El técnico guatemalteco vivió un cierre dramático y volvió a colocar a su equipo entre los mejores de Centroamérica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así fue el momento en que los hermanos Gallagher decidieron emprender una nueva gira de Oasis en 2027",
+      "link": "https://www.prensalibre.com/vida/escenario/asi-fue-el-momento-en-que-los-hermanos-gallagher-decidieron-emprender-una-nueva-gira-de-oasis-en-2027/",
+      "fecha": "Thu, 17 Sep 2026 02:04:37 +0000",
+      "categoria": "Escenario",
+      "resumen": "Noel Gallagher reveló cómo fue el peculiar momento en que Oasis tomó la decisión de extender su gira y continuar con conciertos durante 2027."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Seis propuestas buscan bajar el precio de las gasolinas y el diésel: qué plantea cada una y cómo avanzan",
@@ -276,11 +300,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Cárceles sin bloqueadores de señal: la propuesta económica se eleva a Q110 millones y frena su ejecución",
+      "titulo": "Cárceles sin bloqueadores de señal: la propuesta se eleva a Q110 millones y frena su ejecución",
       "link": "https://www.prensalibre.com/guatemala/de-q10-millones-a-q110-millones-y-sin-fecha-de-ejecucion-disparidad-en-costos-frenan-el-bloqueo-de-senal-en-las-carceles/",
       "fecha": "Wed, 16 Sep 2026 19:16:21 +0000",
       "categoria": "Guatemala",
-      "resumen": "Pese al avance de las pruebas, la instalación definitiva de los equipos para bloquear la señal celular en las cárceles de Guatemala está paralizada entre variaciones de costos que dispararon la cifra de Q10 millones a Q110 millones."
+      "resumen": "La instalación definitiva de los equipos para bloquear la señal celular en las cárceles de Guatemala está paralizada entre variaciones que dispararon la cifra de su costo de Q10 millones a Q110 millones."
     },
     {
       "fuente": "Guatemala.com",
@@ -801,30 +825,6 @@
       "fecha": "Tue, 15 Sep 2026 19:17:48 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Saab, quien llegó a ser ministro del gobierno de Maduro, cambió su declaración anterior de \"no culpable\" a \"culpable\" en un tribunal de Miami, tras un acuerdo con la Fiscalía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nuevo aumento de combustibles lleva al diésel cerca de Q50 por galón, en modalidad autoservicio",
-      "link": "https://www.prensalibre.com/economia/nuevo-aumento-de-combustibles-lleva-al-diesel-cerca-de-q50-por-galon-en-modalidad-autoservicio/",
-      "fecha": "Tue, 15 Sep 2026 19:03:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Los precios de las gasolinas y el diésel mantienen una tendencia al alza desde el inicio del conflicto entre Estados Unidos e Irán. En menos de ocho meses, las gasolinas han aumentado cerca de 60%, mientras el diésel acumula un alza de 93% y se acerca a duplicar el precio con el que comenzó el año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Selección de Argentina define fechas y rivales a enfrentar después de perder el Mundial 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/seleccion-de-argentina-define-fechas-y-rivales-a-enfrentar-despues-de-perder-el-mundial-2026-breaking/",
-      "fecha": "Tue, 15 Sep 2026 18:56:01 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La Albiceleste prepara su regreso a la acción en casa, en medio de la expectativa por la posible presencia de Lionel Messi y con dudas sobre su próxima convocatoria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué se sabe del arma que EE.UU. dice que desplegó en el espacio",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-se-sabe-del-arma-que-ee-uu-dice-que-desplego-en-el-espacio/",
-      "fecha": "Tue, 15 Sep 2026 18:18:08 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El secretario de la Fuerza Aérea de Estados Unidos afirma que Estados Unidos puso un arma en órbita para defender al país de las acciones enemigas."
     },
     {
       "fuente": "Guatemala.com",
