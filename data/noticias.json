@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-17T16:16:32.591Z",
+  "actualizado": "2026-09-17T17:13:05.926Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Persecución termina con la captura de dos presuntos coyotes que trasladaban a personas de distintas nacionalidades",
+      "link": "https://www.prensalibre.com/guatemala/justicia/persecucion-termina-con-la-captura-de-dos-presuntos-coyotes-que-trasladaban-a-personas-de-distintas-nacionalidades-breaking/",
+      "fecha": "Thu, 17 Sep 2026 16:42:05 +0000",
+      "categoria": "Justicia",
+      "resumen": "Dos hombres fueron capturados en El Progreso cuando transportaban a personas que ingresaron de manera irregular a Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pistas clandestinas y avionetas: la ruta de cocaína que la DEA rastreó desde Costa Rica hacia EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/pistas-clandestinas-y-avionetas-la-ruta-de-cocaina-que-la-dea-rastreo-desde-costa-rica-hacia-ee-uu/",
+      "fecha": "Thu, 17 Sep 2026 16:40:53 +0000",
+      "categoria": "Internacional",
+      "resumen": "La investigación situó a Costa Rica en una ruta que tenía a México como escala y a EE. UU. como destino, donde cada kilogramo alcanzaba un valor de US$18 mil."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "María Micheo cambia de categoría y va por el boleto al título mundial del WBC",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/maria-micheo-cambia-de-categoria-y-va-por-el-boleto-al-titulo-mundial-del-wbc-breaking/",
+      "fecha": "Thu, 17 Sep 2026 16:31:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La guatemalteca deja las 112 libras para competir en las 115 y enfrentará a la australiana Mai Soliman en una eliminatoria final por una oportunidad mundial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La playa de los huesos: cómo Rusia intenta olvidar la represión soviética (pero las pruebas siguen aflorando en un lago)",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-playa-de-los-huesos-como-rusia-intenta-olvidar-la-represion-sovietica-pero-las-pruebas-siguen-aflorando-en-un-lago/",
+      "fecha": "Thu, 17 Sep 2026 16:11:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En un remoto pueblo ruso construido por prisioneros soviéticos, los huesos de las víctimas del gulag siguen apareciendo en una playa artificial."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Autoridades incautan cerca de Q2 millones y armas en operativo contra clica de la Mara Salvatrucha",
@@ -28,11 +60,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Hice un pedido desesperado en Facebook para encontrar un riñón y un desconocido me lo donó",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/hice-un-pedido-desesperado-en-facebook-para-encontrar-un-rinon-y-un-desconocido-me-lo-dono/",
+      "fecha": "Thu, 17 Sep 2026 15:13:21 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Una mujer recibió un trasplante de riñón que le salvó la vida luego de encontrar un donante que vio su publicación en las redes sociales."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Rescatan en Jutiapa a menor de 12 años que habría sido raptada por dos hombres",
       "link": "https://www.prensalibre.com/guatemala/justicia/rescatan-en-jutiapa-a-menor-de-12-anos-que-habria-sido-raptada-por-dos-hombres-breaking/",
       "fecha": "Thu, 17 Sep 2026 15:07:03 +0000",
       "categoria": "Justicia",
       "resumen": "La PNC reportó la captura de dos hombres señalados de raptar a una menor en Jutiapa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Diana Unheard: el documental que presenta audios inéditos de Lady Di sobre sus amores y la familia real",
+      "link": "https://www.prensalibre.com/vida/escenario/diana-unheard-el-documental-que-presenta-audios-ineditos-de-lady-di-sobre-sus-amores-y-la-familia-real/",
+      "fecha": "Thu, 17 Sep 2026 15:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Diana Unheard, una serie documental que revela audios inéditos de Lady Di en los que habla de sus amores, llegará a MIPCOM 2026."
     },
     {
       "fuente": "Prensa Libre",
@@ -73,6 +121,14 @@
       "fecha": "Thu, 17 Sep 2026 12:56:43 +0000",
       "categoria": "Sucesos",
       "resumen": "Motorista muere en accidente en el kilómetro 15.8 de la ruta Interamericana, con dirección a la ciudad de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El caso de los 3 estadounidenses que denunciaron torturas en Venezuela y por el que el gobierno de Trump pidió inmunidad para Delcy Rodríguez",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-caso-de-los-3-estadounidenses-que-denunciaron-torturas-en-venezuela-y-por-el-que-el-gobierno-de-trump-pidio-inmunidad-para-delcy-rodriguez/",
+      "fecha": "Thu, 17 Sep 2026 12:26:37 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Edgar José Marval fue uno de los 10 estadounidenses detenidos en Venezuela que fueron liberados a cambio de la liberación de Alex Saab, el empresario colombiano aliado de Nicolás Maduro."
     },
     {
       "fuente": "Prensa Libre",
@@ -761,62 +817,6 @@
       "fecha": "Wed, 16 Sep 2026 12:54:07 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Decenas de personas se encuentran desaparecidas bajo los escombros del edificio en la ciudad de Gaza, donde vivían unas 10 familias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las nuevas tácticas de intimidación de los grupos antiinmigrantes que preocupan a Reino Unido",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-nuevas-tacticas-de-intimidacion-de-los-grupos-antiinmigrantes-que-preocupan-a-reino-unido/",
-      "fecha": "Wed, 16 Sep 2026 11:02:04 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El nuevo grupo Patriot Platform asegura que busca aglutinar a votantes de clase trabajadora para influir en los partidos políticos de derecha."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Diésel a Q55? Analistas explican qué puede pasar con los combustibles y el subsidio en Guatemala",
-      "link": "https://www.prensalibre.com/economia/diesel-a-q55-analistas-explican-que-puede-pasar-con-los-combustibles-y-el-subsidio-en-guatemala/",
-      "fecha": "Wed, 16 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El impacto de las alzas internacionales podría sentirse en Guatemala en dos a cuatro semanas, mientras expertos advierten que las medidas para contener los precios tienen límites."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Plan piloto para implementar la IA en el OJ suma Q1.3 millones en compras fraccionadas",
-      "link": "https://www.prensalibre.com/guatemala/plan-piloto-para-implementar-la-ia-en-el-oj-suma-q1-3-millones-en-compras-fraccionadas/",
-      "fecha": "Wed, 16 Sep 2026 06:30:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La única empresa que ofertó servicios y herramientas para el uso de inteligencia artificial en el sistema de justicia suma 15 compras por Q1.3 millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Exportaciones de café crecen, pero preocupa déficit de lluvia que se reflejaría en cosecha 2026-2027",
-      "link": "https://www.prensalibre.com/economia/exportaciones-de-cafe-crecen-pero-preocupa-deficit-de-lluvia-que-se-reflejaria-en-cosecha-2026-2027/",
-      "fecha": "Wed, 16 Sep 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Guatemala perfila la mayor exportación de café de los últimos tres años, con una proyección de 4.1 millones de quintales de café oro para la cosecha 2025-2026. Pero el sector monitorea el déficit de lluvia por el fenómeno de El Niño, que podría afectar la cosecha 2026-2027 con caídas de entre 5% a 15%."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La IA llega a la justicia de Guatemala: el plan piloto del OJ y las dudas que genera entre abogados",
-      "link": "https://www.prensalibre.com/guatemala/la-ia-llega-a-la-justicia-de-guatemala-el-plan-piloto-del-oj-y-las-dudas-que-genera-entre-abogados/",
-      "fecha": "Wed, 16 Sep 2026 06:10:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Organismo Judicial implementa un plan piloto para incorporar inteligencia artificial. Un normativo establece sus límites y la supervisión humana, mientras abogados advierten sobre los riesgos de errores y sesgos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El combate del futuro",
-      "link": "https://www.prensalibre.com/opinion/caricatura/el-combate-del-futuro/",
-      "fecha": "Wed, 16 Sep 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Industria guatemalteca impulsa visión integral",
-      "link": "https://www.prensalibre.com/opinion/editorial/industria-guatemalteca-impulsa-vision-integral/",
-      "fecha": "Wed, 16 Sep 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "El sector industrial guatemalteco es uno de los grandes generadores de empleo y también de ingresos al fisco."
     },
     {
       "fuente": "Guatemala.com",
