@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-17T06:20:33.670Z",
+  "actualizado": "2026-09-17T07:17:15.145Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lavado de dinero en Guatemala supera los Q10 mil millones y entra en vigor nueva ley antilavado, pendiente del reglamento",
+      "link": "https://www.prensalibre.com/economia/lavado-de-dinero-en-guatemala-supera-los-q10-mil-millones-y-entra-en-vigor-nueva-ley-antilavado-pendiente-del-reglamento/",
+      "fecha": "Thu, 17 Sep 2026 06:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La detección de lavado de dinero alcanzó más de Q10 mil millones entre enero y agosto de este año, mientras hoy entra en vigor la ley que establece nuevos controles para prevenir este delito y combatir el financiamiento del terrorismo. El reglamento estará listo a finales de mes."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La Fed sube las tasas: cómo afecta a hipotecas, préstamos y tarjetas",
@@ -809,14 +817,6 @@
       "fecha": "Wed, 16 Sep 2026 01:52:56 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Este caso plantea interrogantes sobre qué debería ocurrir cuando los chatbots identifican una amenaza potencial antes de que se haya cometido un delito."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Atención médica gratuita en la cuarta Jornada de la Salud",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/atencion-medica-gratuita-en-la-cuarta-jornada-de-la-salud/",
-      "fecha": "Wed, 16 Sep 2026 01:51:24 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Los días 19 y 20 de septiembre, en el Salón 9 y Área 8/9 del Parque de la Industria, en un horario de 8:00 de la mañana a 3:00 de la tarde, el Comité Permanente de Exposiciones (COPEREX), a través de su brazo social, realizará por cuarto año la Jornada de la Salud, un evento que ofrecerá servicios de salud gratuitos y de calidad a la población guatemalteca."
     },
     {
       "fuente": "Guatemala.com",
