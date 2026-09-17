@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-17T22:14:34.915Z",
+  "actualizado": "2026-09-17T23:12:25.697Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Se reunieron en México”: Arjona anticipa colaboración en medio de su gira Lo que el Seco no dijo",
+      "link": "https://www.prensalibre.com/vida/escenario/se-reunieron-en-mexico-arjona-anticipa-colaboracion-en-medio-de-su-gira-lo-que-el-seco-no-dijo/",
+      "fecha": "Thu, 17 Sep 2026 23:01:01 +0000",
+      "categoria": "Escenario",
+      "resumen": "En medio de su gira Lo que el Seco no dijo, el cantautor guatemalteco Ricardo Arjona podría presentar a sus seguidores una colaboración. Estas son las pistas."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Todas las actividades del Festival de las Flores 2026 en Antigua Guatemala",
+      "link": "https://www.guatemala.com/noticias/cultura/agenda-festival-de-las-flores-antigua-guatemala-2026.html",
+      "fecha": "Thu, 17 Sep 2026 22:39:57 +0000",
+      "categoria": "Cultura",
+      "resumen": "Descubre las actividades que se desarrollarán entre octubre y noviembre por la décima edición del Festival de las Flores 2026 en Antigua Guatemala.\nThe post Todas las actividades del Festival de las Flores 2026 en Antigua Guatemala appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. se acerca a establecer una base militar permanente en Polonia: qué busca Trump",
+      "link": "https://www.prensalibre.com/internacional/ee-uu-se-acerca-a-establecer-una-base-militar-permanente-en-polonia-que-busca-trump/",
+      "fecha": "Thu, 17 Sep 2026 22:25:57 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente estadounidense aseguró que existen avances para establecer una base permanente del Ejército de EE. UU. en Polonia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC incauta armas y municiones a Los Tambora, vinculados con el narcomenudeo y en pugna con el Barrio 18 en Sanarate",
+      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-incauta-armas-y-municiones-a-los-tambora-vinculados-con-el-narcomenudeo-y-en-pugna-con-el-barrio-18-en-sanarate/",
+      "fecha": "Thu, 17 Sep 2026 22:18:38 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Autoridades allanan casas vinculadas con Los Tambora, señalados de narcomenudeo en Sanarate, tras una masacre que dejó siete muertos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Torneo Apertura 2026: Antigua GFC vs. Municipal: ¿Por qué se reprogramó el partido de la jornada 10 y cuándo se jugará?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-2026-antigua-gfc-vs-municipal-por-que-se-reprogramo-el-partido-de-la-jornada-10-y-cuando-se-jugara-breaking/",
+      "fecha": "Thu, 17 Sep 2026 22:00:33 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Antigua GFC y Municipal, los dos equipos que protagonizan la lucha por los primeros puestos del Apertura 2026 tendrán que esperar para enfrentarse en un duelo que promete ser clave en la pelea por el liderato."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "El equilibrio entre estética, funcionalidad y resistencia",
@@ -9,6 +49,14 @@
       "fecha": "Thu, 17 Sep 2026 21:49:50 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "A partir de hoy hasta el 30 de septiembre, EPA realiza la Feria de Pisos, donde se encontrará una amplia variedad de opciones, texturas y acabados para renovar ambientes interiores y exteriores, con alternativas pensadas para diferentes estilos, niveles de uso y necesidades del hogar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Durante un ejercicio de entrenamiento: así se estrelló un avión de combate F-16 en Michigan",
+      "link": "https://www.prensalibre.com/internacional/durante-un-ejercicio-de-entrenamiento-asi-se-estrello-un-avion-de-combate-f-16-en-michigan/",
+      "fecha": "Thu, 17 Sep 2026 21:02:07 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un avión de combate F16 se estrelló en una zona rural de Michigan mientras llevaba a cabo ejercicios de entrenamiento."
     },
     {
       "fuente": "Prensa Libre",
@@ -771,52 +819,12 @@
       "resumen": "Guatemala seguirá en el año fiscal 2027 en la lista de Estados Unidos de los principales países de tránsito o producción de drogas ilícitas, según una determinación del presidente Donald Trump."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Comisión de Comunicaciones avala iniciativa para reducir impuestos a los combustibles durante seis meses",
-      "link": "https://www.prensalibre.com/guatemala/politica/comision-de-comunicaciones-avala-iniciativa-para-reducir-impuestos-a-los-combustibles-durante-seis-meses/",
-      "fecha": "Wed, 16 Sep 2026 19:26:33 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Comisión de Comunicaciones del Congreso dio dictamen favorable a la iniciativa de ley 6809, que propone suspender el Impuesto a la Distribución del Petróleo (IDP) y exentar el 65% del Impuesto al Valor Agregado (IVA) en la venta de gasolinas regular y superior y diésel, también propone precios de referencia para la venta de combustibles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cárceles sin bloqueadores de señal: la propuesta se eleva a Q110 millones y frena su ejecución",
-      "link": "https://www.prensalibre.com/guatemala/de-q10-millones-a-q110-millones-y-sin-fecha-de-ejecucion-disparidad-en-costos-frenan-el-bloqueo-de-senal-en-las-carceles/",
-      "fecha": "Wed, 16 Sep 2026 19:16:21 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La instalación definitiva de los equipos para bloquear la señal celular en las cárceles de Guatemala está paralizada entre variaciones que dispararon la cifra de su costo de Q10 millones a Q110 millones."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Guatemala será el país invitado de un festival de cine latinoamericano en Francia",
       "link": "https://www.guatemala.com/noticias/sociedad/guatemala-pais-invitado-cinelatino-2027-festival-cine-francia.html",
       "fecha": "Wed, 16 Sep 2026 19:05:43 +0000",
       "categoria": "Sociedad",
       "resumen": "Producciones cinematográficas de Guatemala destacarán en Cinélatino 2027, un festival francés que celebra el cine latinoamericano.\nThe post Guatemala será el país invitado de un festival de cine latinoamericano en Francia appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mauro Ismael Morales Martínez acepta ser extraditado a Estados Unidos, señalado por tráfico de drogas",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mauro-ismael-morales-martinez-acepta-ser-extraditado-a-estados-unidos-senalado-por-trafico-de-drogas-breaking/",
-      "fecha": "Wed, 16 Sep 2026 18:59:42 +0000",
-      "categoria": "Justicia",
-      "resumen": "Mauro Ismael Morales, alias “Melito”, es señalado por las autoridades de haber participado en la coordinación del transporte de cargamentos de cocaína."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién era el guatemalteco que murió por el accidente de un helicóptero en Los Ángeles",
-      "link": "https://www.prensalibre.com/internacional/verificamos-por-usted-guatemaltecos-figuran-entre-las-victimas-del-helicoptero-accidentado-en-los-angeles-breaking/",
-      "fecha": "Wed, 16 Sep 2026 18:51:22 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Minex confirmó este miércoles si entre las víctimas del helicóptero accidentado el pasado 15 de septiembre en Los Ángeles hay guatemaltecos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Barcelona vs. Racing de Santander: los azulgrana buscan mantener su racha perfecta",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-barcelona-vs-racing-de-santander-los-azulgrana-buscan-mantener-su-racha-perfecta/",
-      "fecha": "Wed, 16 Sep 2026 18:35:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El equipo de Hansi Flick suma seis victorias consecutivas y pretende prolongar su gran inicio de temporada."
     },
     {
       "fuente": "Guatemala.com",
@@ -865,14 +873,6 @@
       "fecha": "Sun, 13 Sep 2026 18:44:48 +0000",
       "categoria": "Comunidad",
       "resumen": "Conoce las rutas alternas que recomienda Amilcar Montejo por las antorchas y el desfile de bandas que se realizarán el 14 y 15 de septiembre de 2026.\nThe post Rutas alternas por antorchas y el desfile de Independencia de Guatemala este 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Volcano Innovation Summit 2026 reunió en Guatemala a líderes para impulsar la innovación en Latinoamérica",
-      "link": "https://www.guatemala.com/noticias/sociedad/volcano-innovation-summit-2026-guatemala.html",
-      "fecha": "Fri, 11 Sep 2026 22:42:56 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Volcano Innovation Summit 2026 reunió en Guatemala a más de 2 mil líderes de 35 países para impulsar innovación, emprendimiento y colaboración.\nThe post Volcano Innovation Summit 2026 reunió en Guatemala a líderes para impulsar la innovación en Latinoamérica appeared first on Guatemala.com."
     }
   ]
 }
