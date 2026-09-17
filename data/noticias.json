@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-17T15:15:56.159Z",
+  "actualizado": "2026-09-17T16:16:32.591Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Autoridades incautan cerca de Q2 millones y armas en operativo contra clica de la Mara Salvatrucha",
+      "link": "https://www.prensalibre.com/guatemala/justicia/autoridades-incautan-cerca-de-q2-millones-y-armas-en-operativo-contra-clica-de-la-mara-salvatrucha-breaking/",
+      "fecha": "Thu, 17 Sep 2026 15:51:11 +0000",
+      "categoria": "Justicia",
+      "resumen": "Investigadores desarrollan un operativo en la zona 1 de la capital, donde han incautado dinero y armas vinculados con la mara Salvatrucha."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Podría ser demolido el Centro Kennedy? Todo lo que se sabe tras su cierre y el anuncio de Trump",
+      "link": "https://www.prensalibre.com/internacional/podria-ser-demolido-el-centro-kennedy-todo-lo-que-se-sabe-tras-su-cierre-y-el-anuncio-de-trump/",
+      "fecha": "Thu, 17 Sep 2026 15:32:11 +0000",
+      "categoria": "Internacional",
+      "resumen": "Después de que el centro amaneciera vallado, se hicieron públicas fotos de Trump observando un póster con el título \"Demolición del Kennedy Center\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Leo Messi compra un equipo de futbol en España: ¿de cuál se trata y cómo es su nuevo proyecto?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/leo-messi-compra-equipo-futbol-espana-breaking/",
+      "fecha": "Thu, 17 Sep 2026 15:15:16 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El astro argentino da un nuevo paso fuera de las canchas y asume el control de un club que acaba de iniciar una nueva etapa"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Rescatan en Jutiapa a menor de 12 años que habría sido raptada por dos hombres",
+      "link": "https://www.prensalibre.com/guatemala/justicia/rescatan-en-jutiapa-a-menor-de-12-anos-que-habria-sido-raptada-por-dos-hombres-breaking/",
+      "fecha": "Thu, 17 Sep 2026 15:07:03 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC reportó la captura de dos hombres señalados de raptar a una menor en Jutiapa."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Hombre que viajaba en bus es capturado por señalamientos de ejecución extrajudicial y tortura",
@@ -785,38 +817,6 @@
       "fecha": "Wed, 16 Sep 2026 06:05:00 +0000",
       "categoria": "Editorial",
       "resumen": "El sector industrial guatemalteco es uno de los grandes generadores de empleo y también de ingresos al fisco."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Terrible último lugar y decisiones absurdas",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/terrible-ultimo-lugar-y-decisiones-absurdas/",
-      "fecha": "Wed, 16 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Los resultados y efectos a largo tiempo para mantener el atraso del país tienen como causa acciones no solo ilegales sino contraproducentes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lloviendo sobre mojado",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/lloviendo-sobre-mojado-2/",
-      "fecha": "Wed, 16 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Seamos realistas, las circunstancias del país demandan además de la unidad nacional, una gran dosis de liderazgo y patriotismo de todos los sectores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Se autorizan 14 grupos financieros",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/se-autorizan-14-grupos-financieros/",
-      "fecha": "Wed, 16 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Los ministros de Comercio y Economía de Centroamérica y EUA firmaron el TLC-Cafta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy miércoles 16 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-16-de-septiembre-de-2026/",
-      "fecha": "Wed, 16 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
     },
     {
       "fuente": "Guatemala.com",
