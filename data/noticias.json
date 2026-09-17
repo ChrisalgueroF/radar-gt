@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-17T00:20:33.261Z",
+  "actualizado": "2026-09-17T01:14:59.369Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque armado en bulevar San Cristóbal deja un muerto, una mujer herida y complicaciones viales",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-bulevar-san-cristobal-deja-un-muerto-una-mujer-herida-y-complicaciones-viales-breaking/",
+      "fecha": "Thu, 17 Sep 2026 01:05:35 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Un hombre murió y una mujer resultó herida en un ataque armado ocurrido en el bulevar principal de Ciudad San Cristóbal, zona 8 de Mixco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La Reserva Federal de EE.UU. desafía a Trump y aumenta las tasas de interés por primera vez en 3 años: ¿qué consecuencias tendrá la medida?",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/la-reserva-federal-de-ee-uu-desafia-a-trump-y-aumenta-las-tasas-de-interes-por-primera-vez-en-3-anos-que-consecuencias-tendra-la-medida/",
+      "fecha": "Thu, 17 Sep 2026 01:02:28 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El presidente de la Fed, Kevin Warsh, afirmó que la medida se debió a que \"la inflación es demasiado alta\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hombres Rana recorren río de aguas residuales y localizan cuerpo de una persona desaparecida",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/hombres-rana-recorren-rio-de-aguas-residuales-y-localizan-cuerpo-de-una-persona-desaparecida-breaking/",
+      "fecha": "Thu, 17 Sep 2026 00:55:52 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Personal especializado de los Bomberos Voluntarios descendió por un barranco y recorrió un río de aguas residuales para localizar el cadáver de un hombre reportado como desaparecido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ciudad de Guatemala redujo en 250 toneladas la basura de las fiestas patrias, reporta municipalidad",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/ciudad-de-guatemala-redujo-en-250-toneladas-la-basura-de-las-fiestas-patrias-reporta-municipalidad/",
+      "fecha": "Thu, 17 Sep 2026 00:19:27 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Las fiestas patrias dejaron 350 toneladas de residuos en la Ciudad de Guatemala, 250 toneladas menos que el año pasado, indicaron autoridades municipales."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "Premio Emprendedora del Año 2026 abre convocatoria para mujeres empresarias en Guatemala",
@@ -12,11 +44,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Arévalo pide al Legislativo resolver objeciones a la ley que propone precios de referencia a los combustibles",
+      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-pide-al-legislativo-resolver-objeciones-a-la-ley-que-propone-precios-de-referencia-a-los-combustibles/",
+      "fecha": "Wed, 16 Sep 2026 23:55:52 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El presidente urgió al Congreso resolver a la brevedad las objeciones al decreto 21-2026 y remitirlo al Ejecutivo para su sanción, con el fin de aplicar los precios máximos establecidos para los combustibles."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "VIDEO &#124; Marvin Ávila anota su primer gol con São Paulo Sub-20",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/video-marvin-avila-anota-su-primer-gol-con-sao-paulo-sub-20-breaking/",
       "fecha": "Wed, 16 Sep 2026 23:46:13 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El delantero guatemalteco fue titular y marcó el tanto del triunfo ante União São João, en un nuevo paso de su crecimiento en Brasil y con la mira puesta en volver a tener protagonismo con la Selección Mayor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Polvo del Sahara afectará Guatemala y el Insivumeh detalla las fechas de mayor impacto",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/polvo-del-sahara-afectara-guatemala-y-el-insivumeh-detalla-las-fechas-de-mayor-impacto/",
+      "fecha": "Wed, 16 Sep 2026 23:34:07 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Una masa de polvo del Sahara afectará el territorio guatemalteco y las autoridades emiten recomendaciones."
     },
     {
       "fuente": "Prensa Libre",
@@ -57,6 +105,14 @@
       "fecha": "Wed, 16 Sep 2026 22:36:26 +0000",
       "categoria": "Economía",
       "resumen": "La Reserva Federal (Fed) aumentó los tipos de interés un cuarto de punto este miércoles, —su primera subida en más de tres años—, a medida que los precios persistentemente altos del petróleo, derivados del conflicto con Irán, propagan la inflación por toda la economía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Hugo Girón: por qué la primera declaración fue programada cinco meses después del accidente",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-hugo-giron-por-que-la-primera-declaracion-fue-programada-cinco-meses-despues-del-accidente/",
+      "fecha": "Wed, 16 Sep 2026 22:25:45 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La jueza Luisa Aguilar programó para febrero del 2027 la audiencia de primera declaración por la muerte del músico y docente Héctor Hugo Girón."
     },
     {
       "fuente": "Prensa Libre",
@@ -137,6 +193,14 @@
       "fecha": "Wed, 16 Sep 2026 20:25:59 +0000",
       "categoria": "Escenario",
       "resumen": "Uno de los galardones más destacados de la 27 edición de los premios Latin Grammy será disputado por artistas de diversos géneros y de renombre. Conozca los detalles de esta edición."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Actividades gratuitas en Guatemala durante septiembre: talleres, libros, cuentacuentos y poesía",
+      "link": "https://www.prensalibre.com/vida/escenario/actividades-gratuitas-en-guatemala-durante-septiembre-talleres-libros-cuentacuentos-y-poesia/",
+      "fecha": "Wed, 16 Sep 2026 19:56:45 +0000",
+      "categoria": "Escenario",
+      "resumen": "Diversas actividades culturales se realizarán de forma gratuita durante las últimas semanas de septiembre, tanto de manera virtual como presencial. Consulte aquí la agenda."
     },
     {
       "fuente": "Prensa Libre",
@@ -761,70 +825,6 @@
       "fecha": "Tue, 15 Sep 2026 16:55:12 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El plantel colonial salió públicamente en defensa del técnico argentino y pidió a la dirigencia resolver las diferencias internas para mantener unido al equipo líder del Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Conmemoran por segundo año el Día Mundial del Vehículo Eléctrico",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/conmemoran-por-segundo-ano-el-dia-mundial-del-vehiculo-electrico/",
-      "fecha": "Tue, 15 Sep 2026 16:51:59 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Por segundo año consecutivo, en un encuentro con estudiantes de la Universidad Francisco Marroquín, Porsche y Grupo Los Tres, importador exclusivo de la marca en el país, realizaron una jornada que permitió presentar iniciativas en marcha para impulsar esta transición y analizar su evolución y adopción en el mercado local, en el marco del Día Mundial del Vehículo Eléctrico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bill Gates advierte sobre riesgos de la IA y pide frenar su desarrollo acelerado",
-      "link": "https://www.prensalibre.com/vida/tecnologia/bill-gates-advierte-sobre-riesgos-de-la-ia-y-pide-frenar-su-desarrollo-acelerado/",
-      "fecha": "Tue, 15 Sep 2026 16:25:49 +0000",
-      "categoria": "Tecnología",
-      "resumen": "El cofundador de Microsoft y empresario estadounidense Bill Gates aseguró este 15 de septiembre que se debería considerar ralentizar el desarrollo de la inteligencia artificial (IA) hasta que la sociedad esté preparada para absorber su impacto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los tres puntos sobre las reformas al IUSI que explica Óscar Chile Monroy en cuanto a viviendas y Airbnb",
-      "link": "https://www.prensalibre.com/economia/los-tres-puntos-sobre-las-reformas-al-iusi-que-explica-oscar-chile-monroy-en-cuanto-a-viviendas-y-airbnb/",
-      "fecha": "Tue, 15 Sep 2026 16:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El experto tributario analiza el alcance, del Decreto 18-2026, de la tasa cero para viviendas, qué ocurre con propiedades alquiladas por Airbnb y por qué considera que no es necesario un reglamento para aplicar los cambios al IUSI."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Antigua GFC, líder pero con tensión: Mauricio Tapia pone en duda su continuidad por diferencias internas",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/antigua-gfc-lider-pero-con-tension-mauricio-tapia-pone-en-duda-su-continuidad-por-diferencias-internas-breaking/",
-      "fecha": "Tue, 15 Sep 2026 15:51:27 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El conjunto colonial atraviesa un gran momento deportivo, pero las declaraciones del técnico argentino dejan al descubierto diferencias internas con la dirigencia y abren incertidumbre sobre su continuidad pese al liderato del Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Es una bofetada para las mujeres&#8221;: las fuertes críticas de deportistas de élite al polémico anuncio de Sydney Sweeney para una casa de apuestas",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/es-una-bofetada-para-las-mujeres-las-fuertes-criticas-de-deportistas-de-elite-al-polemico-anuncio-de-sydney-sweeney-para-una-casa-de-apuestas/",
-      "fecha": "Tue, 15 Sep 2026 14:55:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El anuncio, que muestra a la actriz desnuda apenas cubierta por equipamiento deportivo, ha sido catalogado como \"sexista\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO: Desfile Cívico Escolar llena de color y tradición la ciudad capital este 15 de septiembre",
-      "link": "https://www.prensalibre.com/vida/escenario/en-vivo-desfile-civico-escolar-llena-de-color-y-tradicion-la-ciudad-capital-este-15-de-septiembre/",
-      "fecha": "Tue, 15 Sep 2026 14:32:58 +0000",
-      "categoria": "Escenario",
-      "resumen": "Bandas de distintos centros educativos recorren el Centro Histórico para llenar de música y alegría la conmemoración de la Independencia de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Amatitlán rompe su racha de ocho derrotas y así marcha la Liga Primera División",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/amatitlan-rompe-su-racha-de-ocho-derrotas-y-asi-marcha-la-liga-primera-division/",
-      "fecha": "Tue, 15 Sep 2026 14:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El conjunto amatitlaneco dejó atrás una prolongada crisis y busca que este triunfo sea el impulso para cambiar su rumbo en la segunda vuelta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "252 municipios enfrentan vulnerabilidad alta y muy alta ante el déficit hídrico en Guatemala, según el Maga",
-      "link": "https://www.prensalibre.com/guatemala/252-municipios-enfrentan-vulnerabilidad-alta-y-muy-alta-ante-el-deficit-hidrico-en-guatemala-segun-el-maga/",
-      "fecha": "Tue, 15 Sep 2026 14:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Un análisis del Ministerio de Agricultura detalla cómo la combinación de altas temperaturas y aguaceros de corta duración mantiene en riesgo a las plantaciones del país."
     },
     {
       "fuente": "Guatemala.com",
