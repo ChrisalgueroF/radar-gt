@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-17T10:15:37.542Z",
+  "actualizado": "2026-09-17T11:15:34.533Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ley de Competencia en Guatemala necesita una autoridad sólida, afirma experto",
+      "link": "https://www.prensalibre.com/economia/ley-de-competencia-en-guatemala-necesita-una-autoridad-solida-afirma-experto/",
+      "fecha": "Thu, 17 Sep 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Una ley de competencia, por sí sola, no garantiza resultados, explicó el abogado y académico costarricense Guillermo Rojas, al indicar que el éxito de la ley dependerá de que se  logre construir una autoridad técnica, independiente, con los recursos suficientes y bien administrados."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Lavado de dinero en Guatemala supera los Q10 mil millones y entra en vigor nueva ley antilavado, pendiente del reglamento",
@@ -809,14 +817,6 @@
       "fecha": "Wed, 16 Sep 2026 03:00:00 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "El presidente de LaLiga cuestiona la candidatura española si el actual presidente de FIFA continúa en el cargo y la final del Mundial se disputa en Marruecos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Le dijo a ChatGPT que quería matar a su hijo y luego fue arrestado por las autoridades",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/le-dijo-a-chatgpt-que-queria-matar-a-su-hijo-y-luego-fue-arrestado-por-las-autoridades/",
-      "fecha": "Wed, 16 Sep 2026 01:52:56 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Este caso plantea interrogantes sobre qué debería ocurrir cuando los chatbots identifican una amenaza potencial antes de que se haya cometido un delito."
     },
     {
       "fuente": "Guatemala.com",
