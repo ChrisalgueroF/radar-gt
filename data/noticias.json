@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-18T02:15:08.770Z",
+  "actualizado": "2026-09-18T03:15:02.414Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué a Putin le importan las elecciones legislativas en Rusia, pese a que no habrá sorpresas",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-a-putin-le-importan-las-elecciones-legislativas-en-rusia-pese-a-que-no-habra-sorpresas/",
+      "fecha": "Fri, 18 Sep 2026 03:05:40 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "No hay dudas sobre el resultado de esta votación, pero para el Kremlin sigue siendo importante."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Las 10 claves de LaLiga: Barcelona arrasa, Raphinha brilla y el Real Madrid encuentra un héroe",
@@ -105,6 +113,14 @@
       "fecha": "Thu, 17 Sep 2026 23:01:01 +0000",
       "categoria": "Escenario",
       "resumen": "En medio de su gira Lo que el Seco no dijo, el cantautor guatemalteco Ricardo Arjona podría presentar a sus seguidores una colaboración. Estas son las pistas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La compleja ingeniería que se requiere para fabricar las ventanillas de los aviones",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/la-compleja-ingenieria-que-se-requiere-para-fabricar-las-ventanillas-de-los-aviones/",
+      "fecha": "Thu, 17 Sep 2026 22:41:46 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Pocas empresas cuentan con la tecnología necesaria para fabricar ventanas de aviones, cuya producción es cada vez más compleja."
     },
     {
       "fuente": "Guatemala.com",
@@ -801,22 +817,6 @@
       "fecha": "Wed, 16 Sep 2026 22:41:10 +0000",
       "categoria": "Internacional",
       "resumen": "Trump alabó la labor de Claudia Sheinbaum en materia de la lucha contra el narcotráfico, pero insistió en que \"México tiene que hacer mucho más\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Tenemos la mejor calificación crediticia del mundo”: qué dijo Trump a la Fed tras la subida de tipos de interés en EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/tenemos-la-mejor-calificacion-crediticia-del-mundo-que-dijo-trump-a-la-fed-tras-la-subida-de-tipos-de-interes-en-ee-uu/",
-      "fecha": "Wed, 16 Sep 2026 22:39:33 +0000",
-      "categoria": "Internacional",
-      "resumen": "Donald Trump, presidente de EE. UU., vuelve a enfrentarse a la Reserva Federal (Fed) por el aumento de los tipos de interés."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Combustible supera los Q42 en Guatemala: ¿Cuánto cuesta en el resto de Centroamérica?",
-      "link": "https://www.prensalibre.com/internacional/combustible-supera-los-q42-en-guatemala-cuanto-cuesta-en-el-resto-de-centroamerica/",
-      "fecha": "Wed, 16 Sep 2026 22:36:35 +0000",
-      "categoria": "Internacional",
-      "resumen": "El galón de gasolina regular llegó hasta los Q42.58 en Guatemala, en un contexto de alzas en gran parte de Centroamérica, impulsadas por la tensión geopolítica global."
     },
     {
       "fuente": "Guatemala.com",
