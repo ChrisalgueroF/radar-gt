@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-18T14:15:24.767Z",
+  "actualizado": "2026-09-18T15:14:39.389Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Crédito Mi Primera Casa en Guatemala: cuota mensual puede ser hasta 29% menor frente a otras opciones",
+      "link": "https://www.prensalibre.com/economia/credito-mi-primera-casa-en-guatemala-cuota-mensual-puede-ser-hasta-29-menor-frente-a-otras-opciones/",
+      "fecha": "Fri, 18 Sep 2026 15:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Comprar una vivienda mediante Mi Primera Casa puede reducir entre 24% y 29% la cuota mensual frente a un financiamiento en condiciones de mercado, según ejercicios presentados por el Crédito Hipotecario Nacional (CHN)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué muestra el códice de la historia prehispánica que se exhibe por primera vez en México tras estar casi dos siglos en Francia",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-muestra-el-codice-de-la-historia-prehispanica-que-se-exhibe-por-primera-vez-en-mexico-tras-estar-casi-dos-siglos-en-francia/",
+      "fecha": "Fri, 18 Sep 2026 14:42:05 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El antiguo documento que narra la historia del pueblo mexica regresa en un préstamo de Francia a México luego de casi dos siglos de estar en Europa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clima en Guatemala: ondas del este traerán lluvias este fin de semana del 19 y 20 de septiembre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-ondas-del-este-traeran-lluvias-este-fin-de-semana-del-19-y-20-de-septiembre-breaking/",
+      "fecha": "Fri, 18 Sep 2026 14:11:15 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Temperaturas de hasta 38°C en algunas regiones y posibles lluvias pronostica el Insivumeh para el fin de semana en Guatemala"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cartaginés de Amarini Villatoro se cruza con otro gigante centroamericano por el pase a la final de la Copa Centroamericana",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cartagines-de-amarini-villatoro-se-cruza-con-otro-gigante-centroamericano-breaking/",
+      "fecha": "Fri, 18 Sep 2026 14:09:10 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El equipo costarricense dejó atrás al Saprissa y ahora enfrentará a un histórico del futbol hondureño por un lugar en la final."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Bomberos reportan el hallazgo de dos personas sin vida en calles de la capital",
@@ -777,38 +809,6 @@
       "fecha": "Thu, 17 Sep 2026 06:05:00 +0000",
       "categoria": "Salud y Familia",
       "resumen": "Hay hábitos sobre el cuidado de la piel que los especialistas sugieren no tomarse a la ligera. ¿Por qué?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "NSA prepara su mayor reestructuración interna en al menos una década",
-      "link": "https://www.prensalibre.com/internacional/nsa-prepara-su-mayor-reestructuracion-interna-en-al-menos-una-decada/",
-      "fecha": "Thu, 17 Sep 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "El plan contempla cinco nuevas áreas centradas en inteligencia artificial, China, ciberseguridad, apoyo al combate e inteligencia global, con cambios previstos desde octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Postuladora para CGC evita calificar expedientes en sesión plenaria",
-      "link": "https://www.prensalibre.com/guatemala/politica/postuladora-para-cgc-evita-calificar-expedientes-en-sesion-plenaria/",
-      "fecha": "Thu, 17 Sep 2026 06:05:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Esta semana la comisión planea calificar con tabla de gradación, hacer entrevistas a los 15 mejor evaluados; e integrar la nómina de seis candidatos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nunca la patria ha sido un gobernante",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/nunca-la-patria-ha-sido-un-gobernante/",
-      "fecha": "Thu, 17 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La patria, como Dios y el dinero, son ideas neutras que se interpretan y manipulan al antojo de quien tiene o quiere el poder."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dejemos de frenar a Guatemala",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/dejemos-de-frenar-a-guatemala/",
-      "fecha": "Thu, 17 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El poder de cambiar el país está en su gente y en dejar de impedir que pueda crear riqueza sin tantos obstáculos."
     },
     {
       "fuente": "Guatemala.com",
