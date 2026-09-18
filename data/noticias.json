@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-18T21:14:11.643Z",
+  "actualizado": "2026-09-18T22:14:33.541Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Exclusiva BBC &#124; &#8220;Estoy diciendo la verdad&#8221;: el hermano de Diana de Gales defiende sus señalamientos de que Carlos III estaba &#8220;eufórico&#8221; tras la muerte de la princesa",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/exclusiva-bbc-estoy-diciendo-la-verdad-el-hermano-de-diana-de-gales-defiende-sus-senalamientos-de-que-carlos-iii-estaba-euforico-tras-la-muerte-de-la-princesa/",
+      "fecha": "Fri, 18 Sep 2026 22:03:23 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Charles Spencer asegura en entrevista con la BBC que escuchó al entonces príncipe de Gales decirle que olvidarían \"muy pronto\" a la princesa tras la muerte de esta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "iPhone 18 Pro: en qué consisten las mejoras fotográficas, la cámara de vapor, la grabación de video y sus precios",
+      "link": "https://www.prensalibre.com/vida/tecnologia/iphone-18-pro-en-que-consisten-las-mejoras-fotograficas-la-camara-de-vapor-la-grabacion-de-video-y-sus-precios/",
+      "fecha": "Fri, 18 Sep 2026 22:00:00 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Apple incorporó mejoras en las cámaras de los nuevos iPhone 18 Pro y iPhone 18 Pro Max, que recientemente llegaron a las tiendas. Estas son sus principales novedades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Natalia Lafourcade volvió a Guatemala: 10 años después, la cancionera se reencontró con su público en una velada estremecedora",
+      "link": "https://www.prensalibre.com/vida/escenario/natalia-lafourcade-volvio-a-guatemala-10-anos-despues-la-cancionera-se-reencontro-con-su-publico-en-una-velada-estremecedora/",
+      "fecha": "Fri, 18 Sep 2026 21:51:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantautora mexicana Natalia Lafourcade regresó a Guatemala con su gira \"Cancionera Tour\" y el jueves 17 de septiembre ofreció un concierto íntimo y conmovedor, a lleno total, en el Centro Cultural Miguel Ángel Asturias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Reportan disturbios previo a elección en Cunor de la USAC y denuncian quema de llantas",
+      "link": "https://www.prensalibre.com/guatemala/politica/reportan-disturbios-previo-a-eleccion-en-cunor-de-la-usac-y-denuncian-quema-de-llantas/",
+      "fecha": "Fri, 18 Sep 2026 21:30:57 +0000",
+      "categoria": "Guatemala",
+      "resumen": "A pocas horas de elegir nuevo director, el Centro Universitario del Norte (CUNOR) fue tomado por desconocidos que quemaron llantas en el acceso principal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hogares de Chiquimula y Totonicapán reducen porciones de comida por sequía y alza de fertilizantes",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/hogares-de-chiquimula-y-totonicapan-reducen-porciones-de-comida-por-sequia-y-alza-de-fertilizantes/",
+      "fecha": "Fri, 18 Sep 2026 21:09:04 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Un estudio realizado por World Vision evalúa el impacto de la escasez de lluvia y del aumento del precio de alimentos y fertilizantes en hogares guatemaltecos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Condenan a Uber a pagar US$40 millones a la familia de una joven que murió en California después de que un conductor la abandonara en la autopista",
@@ -11,12 +51,36 @@
       "resumen": "La joven de 23 años regresaba a casa con una amiga que vomitó en el vehículo, por lo que el conductor de Uber les ordenó que se bajaran en plena autopista."
     },
     {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo EE. UU. habría &#8220;iniciado una guerra&#8221; con un supuesto informe hecho con IA, según CNN",
+      "link": "https://www.prensalibre.com/internacional/como-ee-uu-habria-iniciado-una-guerra-con-un-supuesto-informe-hecho-con-ia-segun-cnn/",
+      "fecha": "Fri, 18 Sep 2026 20:58:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "CNN reveló que un funcionario de EE. UU. habría hecho un informe de inteligencia con IA que \"casi habría iniciado una guerra\"."
+    },
+    {
       "fuente": "Guatemala.com",
       "titulo": "Acciones que caracterizan a todo guatemalteco Buena Gente",
       "link": "https://www.guatemala.com/noticias/sociedad/ciudad-guatemala-ciudad-guatemaltecos-buena-gente.html",
       "fecha": "Fri, 18 Sep 2026 20:49:22 +0000",
       "categoria": "Sociedad",
       "resumen": "La Ciudad de Guatemala está llena de guatemaltecos buena gente, dispuestos a ayudar en todo momento, con grandes o pequeños gestos.\nThe post Acciones que caracterizan a todo guatemalteco Buena Gente appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Violencia en Mixco: ataques con arma de fuego y machete dejan dos muertos y cinco heridos",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/violencia-en-mixco-ataques-con-arma-de-fuego-y-machete-dejan-dos-muertos-y-cinco-heridos/",
+      "fecha": "Fri, 18 Sep 2026 20:41:50 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Bomberos reportan dos hechos ocurridos en San Francisco 1, Mixco, donde dos personas fallecieron a balazos y cinco resultaron heridas tras un ataque con machete."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Concierto de Guateorquesta en Mixco incluirá baladas románticas y música tradicional guatemalteca",
+      "link": "https://www.prensalibre.com/vida/escenario/concierto-de-guateorquesta-en-mixco-incluira-baladas-romanticas-y-musica-tradicional-guatemalteca/",
+      "fecha": "Fri, 18 Sep 2026 20:40:19 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con entradas a Q10 por persona, Guateorquesta ofrecerá este fin de semana un concierto benéfico en Mixco. Conozca los detalles del evento."
     },
     {
       "fuente": "Prensa Libre",
@@ -769,70 +833,6 @@
       "fecha": "Thu, 17 Sep 2026 18:28:47 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La congresista republicana, que busca la reelección en un distrito de Miami de mayoría hispana, cuestiona las detenciones de migrantes sin antecedentes penales y advierte que los votantes latinos que apoyaron a Trump se sienten traicionados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aerolíneas de EE. UU. reducirán vuelos más baratos por el precio del combustible y así impactará al consumidor",
-      "link": "https://www.prensalibre.com/internacional/aerolineas-de-ee-uu-reduciran-vuelos-mas-baratos-por-el-precio-del-combustible-y-asi-impactara-al-consumidor/",
-      "fecha": "Thu, 17 Sep 2026 18:17:05 +0000",
-      "categoria": "Internacional",
-      "resumen": "Aerolíneas de EE. UU. como United, American y Southwest Airlines reducirán los vuelos más baratos este año por los altos precios del combustible."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La “doble” de Jennifer López: mujer arrestada por presunto robo se viraliza por su parecido con J. Lo",
-      "link": "https://www.prensalibre.com/internacional/la-doble-de-jennifer-lopez-mujer-arrestada-por-presunto-robo-se-viraliza-por-su-parecido-con-j-lo/",
-      "fecha": "Thu, 17 Sep 2026 18:04:57 +0000",
-      "categoria": "Internacional",
-      "resumen": "Cyrena Anne Quast se ha convertido en una celebridad viral en las redes sociales por su extraordinario parecido con la mismísima Jennifer López."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cancillería da seguimiento a heridos tras accidente de helicóptero en Los Ángeles en el que falleció Edy Gutiérrez Mejía",
-      "link": "https://www.prensalibre.com/guatemala/migrantes/cancilleria-da-seguimiento-a-heridos-tras-accidente-de-helicoptero-en-los-angeles-en-el-que-fallecio-edy-gutierrez-mejia-breaking/",
-      "fecha": "Thu, 17 Sep 2026 18:02:06 +0000",
-      "categoria": "Migrantes",
-      "resumen": "El Consulado General en Los Ángeles brinda seguimiento al caso de guatemaltecos heridos en un accidente de helicóptero que causó la muerte de Edy Gutiérrez Mejía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Microsoft advierte que la IA sin control podría dar lugar a una &#8220;especie no humana&#8221; que compita con las personas",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/microsoft-advierte-que-la-ia-sin-control-podria-dar-lugar-a-una-especie-no-humana-que-compita-con-las-personas/",
-      "fecha": "Thu, 17 Sep 2026 17:19:27 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El responsable de IA de Microsoft, Mustafa Suleyman, considera que la empresa rival Anthropic está enseñando a su bot Claude que \"puede ser consciente\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "OJ pide informe al magistrado Edwin Zaldaña por uso de camioneta involucrada en accidente en el que murió Hugo Girón",
-      "link": "https://www.prensalibre.com/guatemala/justicia/oj-pide-informe-al-magistrado-edwin-zaldana-por-uso-de-camioneta-involucrada-en-accidente-en-el-que-murio-hugo-giron/",
-      "fecha": "Thu, 17 Sep 2026 17:17:10 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La camioneta del Organismo Judicial involucrada en el accidente en el que murió el músico Hugo Girón, era conducida por el hijo del magistrado Edwin Zaldaña, quien fue capturado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;El TV4 cayó a tierra&#8221; la crónica del helicóptero de noticias que se desplomó en Los Ángeles y dejó tres fallecidos",
-      "link": "https://www.prensalibre.com/internacional/el-tv4-cayo-a-tierra-la-cronica-del-helicoptero-de-noticias-que-se-desplomo-en-los-angeles-y-dejo-tres-fallecidos/",
-      "fecha": "Thu, 17 Sep 2026 17:15:26 +0000",
-      "categoria": "Internacional",
-      "resumen": "Lo que era una cobertura aérea rutinaria terminó en tragedia luego de que el helicóptero de NBC4 y Telemundo 52 se estrellara causando la muerte de tres personas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cazzu en Guatemala: la argentina anuncia las nuevas fechas de Latinaje luego de posponer su concierto",
-      "link": "https://www.prensalibre.com/vida/escenario/cazzu-en-guatemala-la-argentina-anuncia-las-nuevas-fechas-de-latinaje-luego-de-posponer-su-concierto/",
-      "fecha": "Thu, 17 Sep 2026 17:03:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante argentina Cazzu anunció las nuevas fechas de sus conciertos en Guatemala y Costa Rica, luego de posponerlos debido a complicaciones de salud."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Persecución termina con la captura de dos presuntos coyotes que trasladaban a personas de distintas nacionalidades",
-      "link": "https://www.prensalibre.com/guatemala/justicia/persecucion-termina-con-la-captura-de-dos-presuntos-coyotes-que-trasladaban-a-personas-de-distintas-nacionalidades-breaking/",
-      "fecha": "Thu, 17 Sep 2026 16:42:05 +0000",
-      "categoria": "Justicia",
-      "resumen": "Dos hombres fueron capturados en El Progreso cuando transportaban a personas que ingresaron de manera irregular a Guatemala."
     },
     {
       "fuente": "Guatemala.com",
