@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-18T00:20:56.274Z",
+  "actualizado": "2026-09-18T01:14:17.073Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "UE afirma que sanciones contra 8 guatemaltecos siguen vigentes y contradice al juez Fredy Orellana",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ue-afirma-que-sanciones-contra-8-guatemaltecos-siguen-vigentes-y-contradice-al-juez-fredy-orellana-breaking/",
+      "fecha": "Fri, 18 Sep 2026 01:04:22 +0000",
+      "categoria": "Justicia",
+      "resumen": "La UE afirma que las sanciones contra ocho guatemaltecos y una entidad siguen vigentes, mientras el juez Fredy Orellana sostiene que las medidas en su contra fueron levantadas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué varios artistas abandonan la gira de Ed Sheeran en solidaridad con Macklemore?",
+      "link": "https://www.prensalibre.com/vida/escenario/por-que-varios-artistas-abandonan-la-gira-de-ed-sheeran-en-solidaridad-con-macklemore/",
+      "fecha": "Fri, 18 Sep 2026 00:57:08 +0000",
+      "categoria": "Escenario",
+      "resumen": "Varias celebridades de Hollywood han expresado su rechazo a la decisión de Ed Sheeran de apartar al rapero Macklemore de su gira, luego de que este expresara una postura geopolítica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuánto costaría el galón de gasolina y diésel si se elimina el IDP y el IVA?",
+      "link": "https://www.prensalibre.com/economia/cuanto-costaria-el-galon-de-gasolina-y-diesel-si-se-elimina-el-idp-y-el-iva/",
+      "fecha": "Fri, 18 Sep 2026 00:16:43 +0000",
+      "categoria": "Economía",
+      "resumen": "Cuánto pesa el IDP y el IVA en el precio del galón de combustible. Una fórmula simple puede ayudarlo a entender cómo se calculan estos impuestos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Universal evalúa el futuro del estreno del documental de Alex Gibney sobre Elon Musk",
@@ -41,6 +65,14 @@
       "fecha": "Thu, 17 Sep 2026 23:12:17 +0000",
       "categoria": "Deporte Nacional",
       "resumen": "La tradicional competencia espera reunir a 8 mil corredores en los recorridos de 5 y 10 kilómetros, en una jornada que combinará deporte, convivencia familiar, inclusión y solidaridad a beneficio de la Fundación Margarita Tejada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Dejas un vacío en mi corazón&#8221;: El mensaje de despedida del padre de Edy Gutiérrez, víctima del accidente de helicóptero en Los Ángeles",
+      "link": "https://www.prensalibre.com/internacional/dejas-un-vacio-en-mi-corazon-el-mensaje-de-despedida-del-padre-de-edy-gutierrez-victima-del-accidente-de-helicoptero-en-los-angeles/",
+      "fecha": "Thu, 17 Sep 2026 23:08:19 +0000",
+      "categoria": "Internacional",
+      "resumen": "El padre de Edy Gutiérrez, guatemalteco que murió en el accidente de un helicóptero en Los Ángeles, escribió un mensaje en redes donde se despidió de su hijo."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,38 +817,6 @@
       "fecha": "Wed, 16 Sep 2026 22:08:59 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "Alejado de los escenarios tradicionales y bajo el entorno colonial de Antigua Guatemala, se realizó la séptima edición del Volcano Innovation Summit 2026, donde más de 2,200 emprendedores, inversionistas, científicos, creativos y líderes de 35 países se reunieron bajo siete Ecos fundamentales (Propósito, Confianza, Comunidad, Innovación, Impacto, Transformación y Expansión), que fueron puntos de convergencia de un movimiento constante que busca multiplicar el potencial de la región guatemalteca y latinoamericana a través de la innovación y emprendimiento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las imágenes que revelan la destrucción causada por Irán en instalaciones militares de EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-imagenes-que-revelan-la-destruccion-causada-por-iran-en-instalaciones-militares-de-ee-uu/",
-      "fecha": "Wed, 16 Sep 2026 22:06:08 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las fotografías obtenidas por la cadena CBS muestran aviones destruidos, remolques aplastados y edificios gravemente dañados en bases de Arabia Saudita y Kuwait."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Maga sigue a la espera de Q55 millones para reforzar la asistencia alimentaria ante la sequía",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/maga-sigue-a-la-espera-de-q55-millones-para-reforzar-la-asistencia-alimentaria-ante-la-sequia/",
-      "fecha": "Wed, 16 Sep 2026 21:49:20 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El traslado de Q20 millones que cederá la Sesán al Maga para la compra del alimento fortificado es la única gestión que avanza en el Ministerio de Finanzas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Río Las Vacas sigue sin respuestas sobre el origen de la coloración rojiza; Ministerio de Ambiente mantiene análisis",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/rio-las-vacas-sigue-sin-respuestas-sobre-el-origen-de-la-coloracion-rojiza-ministerio-de-ambiente-mantiene-analisis/",
-      "fecha": "Wed, 16 Sep 2026 21:36:43 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Ministerio de Ambiente aún no determina qué sustancia provocó el cambio de color del río Las Vacas ni cuándo tendrá los resultados. El MP ya investiga de oficio el caso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Barcelona impone paso arrollador y golea 7-2 ante Racing de Santander",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/raphinha-esta-intratable-y-anota-triplete-en-la-goleada-del-barcelona-7-2-ante-racing-de-santader-breaking/",
-      "fecha": "Wed, 16 Sep 2026 21:29:45 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "João Cancelo, Raphinha, Gabriel Jesus y Lamine Yamal protagonizaron una noche de goles para el conjunto catalán."
     },
     {
       "fuente": "Guatemala.com",
