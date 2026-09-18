@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-18T04:15:11.080Z",
+  "actualizado": "2026-09-18T05:13:47.495Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Diputados y concejales denuncian supuestas anomalías en manejo de recursos de la Municipalidad de Mixco",
+      "link": "https://www.prensalibre.com/guatemala/politica/diputados-y-concejales-denuncian-supuestas-anomalias-en-manejo-de-recursos-de-la-municipalidad-de-mixco-breaking/",
+      "fecha": "Fri, 18 Sep 2026 04:11:13 +0000",
+      "categoria": "Política",
+      "resumen": "Diputados de VOS y concejales de oposición denunciaron supuestas irregularidades en el manejo de fondos de la Municipalidad de Mixco. El alcalde Neto Bran rechazó los señalamientos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Por qué a Putin le importan las elecciones legislativas en Rusia, pese a que no habrá sorpresas",
@@ -809,14 +817,6 @@
       "fecha": "Wed, 16 Sep 2026 23:34:07 +0000",
       "categoria": "Comunitario",
       "resumen": "Una masa de polvo del Sahara afectará el territorio guatemalteco y las autoridades emiten recomendaciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El hermano de Diana de Gales asegura que Carlos III le dijo que se &#8220;olvidaría pronto&#8221; a la princesa poco después de su muerte",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-hermano-de-diana-de-gales-asegura-que-carlos-iii-le-dijo-que-se-olvidaria-pronto-a-la-princesa-poco-despues-de-su-muerte/",
-      "fecha": "Wed, 16 Sep 2026 23:10:59 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El Palacio de Buckingham ha rechazado esta afirmación, y dijo que el duelo puede \"teñir el recuerdo\" de los acontecimientos."
     },
     {
       "fuente": "Guatemala.com",
