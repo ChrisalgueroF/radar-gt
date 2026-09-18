@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-09-18T05:13:47.495Z",
+  "actualizado": "2026-09-18T06:19:25.740Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuánto recauda el IDP en Guatemala y qué implicaría suspender este impuesto a los combustibles?",
+      "link": "https://www.prensalibre.com/economia/cuanto-recauda-el-idp-en-guatemala-y-que-implicaria-suspender-este-impuesto-a-los-combustibles/",
+      "fecha": "Fri, 18 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La recaudación tributaria por la distribución de petróleo y sus derivados aporta en promedio Q4 mil millones al sistema recaudatorio. En once años se han cobrado Q44 mil millones, según cifras oficiales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Justicia para Hugo Girón",
+      "link": "https://www.prensalibre.com/opinion/caricatura/justicia-para-hugo-giron/",
+      "fecha": "Fri, 18 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cierre de grifos del lavadero es estratégico",
+      "link": "https://www.prensalibre.com/opinion/editorial/cierre-de-grifos-del-lavadero-es-estrategico/",
+      "fecha": "Fri, 18 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "La nueva ley antilavado traerá un inédito monitoreo de flujos dinerarios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué es la contaminación acústica y por qué es un grave riesgo para la salud",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/que-es-la-contaminacion-acustica-y-por-que-es-un-grave-riesgo-para-la-salud/",
+      "fecha": "Fri, 18 Sep 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "El ruido es un riesgo ambiental importante para la salud, aunque a menudo se pasa por alto, advierten especialistas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Derecho electoral inútil por su ejercicio mínimo",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/derecho-electoral-inutil-por-su-ejercicio-minimo/",
+      "fecha": "Fri, 18 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La actual ley obliga al voto presencial y la teoría considera positivo el voto por medios electrónicos, pero en la práctica tiene resultados negativos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Precio de la gasolina, lo peor está por llegar",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/precio-de-la-gasolina-lo-peor-esta-por-llegar/",
+      "fecha": "Fri, 18 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El mapa del petróleo se está cerrando peligrosamente. Si sus principales arterias fallan, el mundo podría entrar en una recesión sin precedentes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La justicia bajo sospecha",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-justicia-bajo-sospecha/",
+      "fecha": "Fri, 18 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El hermano del magistrado habría intentado comprar el silencio de la familia de la víctima."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién nos protege de la incompetencia del gobierno?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/quien-nos-protege-de-la-incompetencia-del-gobierno/",
+      "fecha": "Fri, 18 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "¿Nos dejará el Congreso a merced de miles de normas inmortales? ¿Esas que nadie recuerda haber aprobado, pero que nadie se atreve a derogar?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy viernes 18 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-viernes-18-de-septiembre-de-2026/",
+      "fecha": "Fri, 18 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El cinismo y el doble pensar",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-cinismo-y-el-doble-pensar/",
+      "fecha": "Fri, 18 Sep 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Altas autoridades de gobierno declaran utilizando sofismas y burlas a la prensa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inversionistas evalúan ciberseguridad para operar en Guatemala, advierte AmCham",
+      "link": "https://www.prensalibre.com/economia/inversionistas-evaluan-ciberseguridad-para-operar-en-guatemala-advierte-amcham/",
+      "fecha": "Fri, 18 Sep 2026 06:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Empresas grandes y pequeñas enfrentan riesgos distintos, mientras el país discute cómo crear reglas claras y una respuesta coordinada ante ataques cibernéticos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Diputados y concejales denuncian supuestas anomalías en manejo de recursos de la Municipalidad de Mixco",
@@ -723,100 +811,12 @@
       "resumen": "Un hombre en aparente estado de ebriedad escaló parte de la Torre del Reformador, lo que generó alarma y motivó la coordinación de cuerpos de socorro y la Policía."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Video &#124; Así fue el gol 100 de Lionel Messi con el Inter Miami",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-asi-fue-el-gol-100-de-lionel-messi-con-el-inter-miami-breaking/",
-      "fecha": "Thu, 17 Sep 2026 01:14:01 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Una cifra que agiganta su leyenda: Messi alcanzó los 100 goles con el Inter Miami y volvió a dejar una huella histórica con una definición espectacular."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ataque armado en bulevar San Cristóbal deja un muerto, una mujer herida y complicaciones viales",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-bulevar-san-cristobal-deja-un-muerto-una-mujer-herida-y-complicaciones-viales-breaking/",
-      "fecha": "Thu, 17 Sep 2026 01:05:35 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un hombre murió y una mujer resultó herida en un ataque armado ocurrido en el bulevar principal de Ciudad San Cristóbal, zona 8 de Mixco."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La Reserva Federal de EE.UU. desafía a Trump y aumenta las tasas de interés por primera vez en 3 años: ¿qué consecuencias tendrá la medida?",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/la-reserva-federal-de-ee-uu-desafia-a-trump-y-aumenta-las-tasas-de-interes-por-primera-vez-en-3-anos-que-consecuencias-tendra-la-medida/",
-      "fecha": "Thu, 17 Sep 2026 01:02:28 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El presidente de la Fed, Kevin Warsh, afirmó que la medida se debió a que \"la inflación es demasiado alta\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hombres Rana recorren río de aguas residuales y localizan cuerpo de una persona desaparecida",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/hombres-rana-recorren-rio-de-aguas-residuales-y-localizan-cuerpo-de-una-persona-desaparecida-breaking/",
-      "fecha": "Thu, 17 Sep 2026 00:55:52 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Personal especializado de los Bomberos Voluntarios descendió por un barranco y recorrió un río de aguas residuales para localizar el cadáver de un hombre reportado como desaparecido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Estados Unidos sacó a Venezuela de la lista de países que incumplen en la lucha contra el narcotráfico? Esto dice Trump",
-      "link": "https://www.prensalibre.com/internacional/por-que-estados-unidos-saco-a-venezuela-de-la-lista-de-paises-que-incumplen-en-la-lucha-contra-el-narcotrafico-esto-dice-trump/",
-      "fecha": "Thu, 17 Sep 2026 00:42:11 +0000",
-      "categoria": "Internacional",
-      "resumen": "EE. UU. actualizó su evaluación sobre los esfuerzos de Venezuela contra el narcotráfico, mientras mantiene al país entre los principales territorios de tránsito o producción de drogas ilícitas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tom Cruise habla sobre el miedo a morir y las peligrosas escenas de sus películas",
-      "link": "https://www.prensalibre.com/vida/escenario/tom-cruise-habla-sobre-el-miedo-a-morir-y-las-peligrosas-escenas-de-sus-peliculas/",
-      "fecha": "Thu, 17 Sep 2026 00:41:51 +0000",
-      "categoria": "Escenario",
-      "resumen": "Próximo a estrenar su nueva película, \"Digger\", el actor estadounidense Tom Cruise habla sobre las escenas de riesgo que han marcado su carrera."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ciudad de Guatemala redujo en 250 toneladas la basura de las fiestas patrias, reporta municipalidad",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/ciudad-de-guatemala-redujo-en-250-toneladas-la-basura-de-las-fiestas-patrias-reporta-municipalidad/",
-      "fecha": "Thu, 17 Sep 2026 00:19:27 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Las fiestas patrias dejaron 350 toneladas de residuos en la Ciudad de Guatemala, 250 toneladas menos que el año pasado, indicaron autoridades municipales."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Premio Emprendedora del Año 2026 abre convocatoria para mujeres empresarias en Guatemala",
       "link": "https://www.guatemala.com/noticias/sociedad/convocatoria-abierta-premio-emprendedora-del-ano-2026-guatemala.html",
       "fecha": "Wed, 16 Sep 2026 23:55:53 +0000",
       "categoria": "Sociedad",
       "resumen": "El Premio Emprendedora del Año 2026 reconoce a empresarias que han contribuído al crecimiento del ecosistema emprendedor. ¡Conode dónde aplicar!\nThe post Premio Emprendedora del Año 2026 abre convocatoria para mujeres empresarias en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo pide al Legislativo resolver objeciones a la ley que propone precios de referencia a los combustibles",
-      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-pide-al-legislativo-resolver-objeciones-a-la-ley-que-propone-precios-de-referencia-a-los-combustibles/",
-      "fecha": "Wed, 16 Sep 2026 23:55:52 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El presidente urgió al Congreso resolver a la brevedad las objeciones al decreto 21-2026 y remitirlo al Ejecutivo para su sanción, con el fin de aplicar los precios máximos establecidos para los combustibles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "VIDEO &#124; Marvin Ávila anota su primer gol con São Paulo Sub-20",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/video-marvin-avila-anota-su-primer-gol-con-sao-paulo-sub-20-breaking/",
-      "fecha": "Wed, 16 Sep 2026 23:46:13 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El delantero guatemalteco fue titular y marcó el tanto del triunfo ante União São João, en un nuevo paso de su crecimiento en Brasil y con la mira puesta en volver a tener protagonismo con la Selección Mayor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ríos secos y falta de alimentos: así afecta la sequía a campesinos de El Progreso",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/rios-secos-y-falta-de-alimentos-asi-afecta-la-sequia-a-campesinos-de-el-progreso/",
-      "fecha": "Wed, 16 Sep 2026 23:43:39 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La sequía por el fenómeno de El Niño afecta cultivos y fuentes de subsistencia de agricultores de El Jícaro, El Progreso, que luchan por sobrevivir."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Polvo del Sahara afectará Guatemala y el Insivumeh detalla las fechas de mayor impacto",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/polvo-del-sahara-afectara-guatemala-y-el-insivumeh-detalla-las-fechas-de-mayor-impacto/",
-      "fecha": "Wed, 16 Sep 2026 23:34:07 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Una masa de polvo del Sahara afectará el territorio guatemalteco y las autoridades emiten recomendaciones."
     },
     {
       "fuente": "Guatemala.com",
