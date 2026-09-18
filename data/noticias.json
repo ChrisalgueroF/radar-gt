@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-17T23:12:25.697Z",
+  "actualizado": "2026-09-18T00:20:56.274Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Universal evalúa el futuro del estreno del documental de Alex Gibney sobre Elon Musk",
+      "link": "https://www.prensalibre.com/vida/escenario/universal-evalua-el-futuro-del-estreno-del-documental-de-alex-gibney-sobre-elon-musk/",
+      "fecha": "Thu, 17 Sep 2026 23:55:02 +0000",
+      "categoria": "Escenario",
+      "resumen": "El proyecto que examina la historia de Elon Musk, desde sus inicios hasta convertirse en una figura relevante en la tecnología y la política, podría no estrenarse con Universal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Son rumores no verificados”: representante de Hayden Panettiere cuestiona versión sobre pastilla con fentanilo vinculada a su muerte",
+      "link": "https://www.prensalibre.com/vida/escenario/son-rumores-no-verificados-representante-de-hayden-panettiere-cuestiona-version-sobre-pastilla-con-fentanilo-vinculada-a-su-muerte/",
+      "fecha": "Thu, 17 Sep 2026 23:36:33 +0000",
+      "categoria": "Escenario",
+      "resumen": "Tras las versiones que señalan que Hayden Panettiere habría consumido una pastilla adulterada el día de su muerte, su representante respondió y cuestionó la información difundida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sicom avanza en la elección del nuevo superintendente con entrevistas y examen de oposición",
+      "link": "https://www.prensalibre.com/economia/sicom-avanza-en-la-eleccion-del-nuevo-superintendente-con-entrevistas-y-examen-de-oposicion/",
+      "fecha": "Thu, 17 Sep 2026 23:28:05 +0000",
+      "categoria": "Economía",
+      "resumen": "Los 34 aspirantes para el cargo de superintendente de Competencia participan en la fase de entrevistas previo al examen de oposición que aplicará una universidad chilena. En la tabla de gradación el plan de trabajo y entrevista representan 32 puntos máximo y el examen de oposición otros 30."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "California prepara nuevas reglas para la IA: esto planea hacer Gavin Newsom antes de dejar el cargo",
+      "link": "https://www.prensalibre.com/internacional/california-prepara-nuevas-reglas-para-la-ia-esto-planea-hacer-gavin-newsom-antes-de-dejar-el-cargo/",
+      "fecha": "Thu, 17 Sep 2026 23:27:16 +0000",
+      "categoria": "Internacional",
+      "resumen": "Gavin Newsom evalúa nuevas medidas para reforzar la seguridad y endurecer las normas sobre inteligencia artificial en California antes de dejar el cargo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Carrera San Martín 2026: fecha, recorridos, inscripción y todos los detalles de la edición 13",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/carrera-san-martin-2026-fecha-recorridos-inscripcion-y-todos-los-detalles-de-la-edicion-13-breaking/",
+      "fecha": "Thu, 17 Sep 2026 23:12:17 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La tradicional competencia espera reunir a 8 mil corredores en los recorridos de 5 y 10 kilómetros, en una jornada que combinará deporte, convivencia familiar, inclusión y solidaridad a beneficio de la Fundación Margarita Tejada."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "“Se reunieron en México”: Arjona anticipa colaboración en medio de su gira Lo que el Seco no dijo",
@@ -20,6 +60,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Festival de Vino y Gastronomía 2026: una experiencia para descubrir los sabores de España en Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/festival-de-vino-y-gastronomia-2026-una-experiencia-para-descubrir-los-sabores-de-espana-en-guatemala/",
+      "fecha": "Thu, 17 Sep 2026 22:38:28 +0000",
+      "categoria": "Escenario",
+      "resumen": "Vinos, quesos, tapas y gastronomía española serán parte de esta actividad que se realizará en Guatemala este viernes 18 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "EE. UU. se acerca a establecer una base militar permanente en Polonia: qué busca Trump",
       "link": "https://www.prensalibre.com/internacional/ee-uu-se-acerca-a-establecer-una-base-militar-permanente-en-polonia-que-busca-trump/",
       "fecha": "Thu, 17 Sep 2026 22:25:57 +0000",
@@ -28,11 +76,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Violencia deja al menos siete muertos por ataques armados en Guatemala, Villa Nueva y San Miguel Petapa",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/violencia-deja-al-menos-cinco-muertos-por-ataques-armados-en-guatemala-villa-nueva-y-san-miguel-petapa/",
+      "fecha": "Thu, 17 Sep 2026 22:25:32 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Varios ataques armados en Guatemala, Villa Nueva y San Miguel Petapa dejaron al menos siete muertos y un herido; además, fue localizado el cadáver de una mujer en Alta Verapaz."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "PNC incauta armas y municiones a Los Tambora, vinculados con el narcomenudeo y en pugna con el Barrio 18 en Sanarate",
       "link": "https://www.prensalibre.com/guatemala/justicia/pnc-incauta-armas-y-municiones-a-los-tambora-vinculados-con-el-narcomenudeo-y-en-pugna-con-el-barrio-18-en-sanarate/",
       "fecha": "Thu, 17 Sep 2026 22:18:38 +0000",
       "categoria": "Guatemala",
       "resumen": "Autoridades allanan casas vinculadas con Los Tambora, señalados de narcomenudeo en Sanarate, tras una masacre que dejó siete muertos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Las deportaciones seguirán, le guste o no&#8221; la respuesta de Trump a la crítica de una congresista",
+      "link": "https://www.prensalibre.com/internacional/las-deportaciones-seguiran-le-guste-o-no-la-respuesta-de-trump-a-la-critica-de-una-congresista/",
+      "fecha": "Thu, 17 Sep 2026 22:11:10 +0000",
+      "categoria": "Internacional",
+      "resumen": "Tras una crítica de una congresista a las políticas migratorias, el Departamento de Seguridad Nacional de EE. UU. respondió que \"las deportaciones continuarán les guste o no\"."
     },
     {
       "fuente": "Prensa Libre",
@@ -753,70 +817,6 @@
       "fecha": "Wed, 16 Sep 2026 21:29:45 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "João Cancelo, Raphinha, Gabriel Jesus y Lamine Yamal protagonizaron una noche de goles para el conjunto catalán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bukele inaugura carretera y escuela en Ahuachapán y habla de fortalecer la conexión con Guatemala",
-      "link": "https://www.prensalibre.com/internacional/bukele-inaugura-carretera-y-escuela-en-ahuachapan-y-habla-de-fortalecer-la-conexion-con-guatemala/",
-      "fecha": "Wed, 16 Sep 2026 21:22:37 +0000",
-      "categoria": "Internacional",
-      "resumen": "Nayib Bukele inauguró, en el marco del Día de la Independencia de El Salvador, una escuela y un tramo carretero en el departamento de Ahuachapán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Directiva del Congreso intentaría pausar interpelación para tramitar objeción que frena el subsidio a combustibles",
-      "link": "https://www.prensalibre.com/guatemala/politica/directiva-del-congreso-intentaria-pausar-interpelacion-para-tramitar-objecion-que-frena-el-subsidio-a-combustibles/",
-      "fecha": "Wed, 16 Sep 2026 21:20:26 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Un Congreso fragmentado y un Ejecutivo sin coordinación para atender la crisis de los combustibles afectan a la población, según analistas que reprueban el trabajo del presidente y diputados para atender el alza al precio de los combustibles.."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tres hombres fingían ser policías y llevaban secuestrada a una persona con una orden de captura falsa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/tres-hombres-fingian-ser-policias-y-llevaban-secuestrado-a-un-hombre-con-una-orden-de-captura-falsa/",
-      "fecha": "Wed, 16 Sep 2026 21:01:21 +0000",
-      "categoria": "Justicia",
-      "resumen": "Los detenidos trasladaban a un hombre bajo una orden de aprehensión falsa. Autoridades hallaron en el vehículo prendas con insignias similares a las de agentes policiales, grilletes, pasamontañas y documentos presuntamente falsificados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Operativos de la PNC dejan cinco capturados por portación ilegal de armas de fuego",
-      "link": "https://www.prensalibre.com/guatemala/justicia/operativos-de-la-pnc-dejan-cinco-capturados-por-portacion-ilegal-de-armas-de-fuego/",
-      "fecha": "Wed, 16 Sep 2026 20:31:22 +0000",
-      "categoria": "Justicia",
-      "resumen": "Las capturas se efectuaron durante operativos en San José Pinula, Guatemala; Huehuetenango, Petén y Jalapa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De Rosalía a Mon Laferte: ¿quiénes son los artistas que se disputan el Latin Grammy al álbum del año?",
-      "link": "https://www.prensalibre.com/vida/escenario/de-rosalia-a-mon-laferte-quienes-son-los-artistas-que-se-disputan-el-latin-grammy-al-album-del-ano/",
-      "fecha": "Wed, 16 Sep 2026 20:25:59 +0000",
-      "categoria": "Escenario",
-      "resumen": "Uno de los galardones más destacados de la 27 edición de los premios Latin Grammy será disputado por artistas de diversos géneros y de renombre. Conozca los detalles de esta edición."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Actividades gratuitas en Guatemala durante septiembre: talleres, libros, cuentacuentos y poesía",
-      "link": "https://www.prensalibre.com/vida/escenario/actividades-gratuitas-en-guatemala-durante-septiembre-talleres-libros-cuentacuentos-y-poesia/",
-      "fecha": "Wed, 16 Sep 2026 19:56:45 +0000",
-      "categoria": "Escenario",
-      "resumen": "Diversas actividades culturales se realizarán de forma gratuita durante las últimas semanas de septiembre, tanto de manera virtual como presencial. Consulte aquí la agenda."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trend de ChatGPT: Los riesgos de compartir en redes su foto creada con IA al estilo de los 80’s",
-      "link": "https://www.prensalibre.com/internacional/trend-de-chatgpt-los-riesgos-de-compartir-en-redes-su-foto-creada-con-ia-al-estilo-de-los-80s/",
-      "fecha": "Wed, 16 Sep 2026 19:45:02 +0000",
-      "categoria": "Internacional",
-      "resumen": "Aunque participar puede parecer divertido, expertos advierten que la nueva tendencia de los años 80 también plantea riesgos para la privacidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estados Unidos mantiene a Guatemala entre principales países de tránsito o producción de drogas",
-      "link": "https://www.prensalibre.com/guatemala/politica/estados-unidos-mantiene-a-guatemala-entre-principales-paises-de-transito-o-produccion-de-drogas-breaking/",
-      "fecha": "Wed, 16 Sep 2026 19:44:42 +0000",
-      "categoria": "Política",
-      "resumen": "Guatemala seguirá en el año fiscal 2027 en la lista de Estados Unidos de los principales países de tránsito o producción de drogas ilícitas, según una determinación del presidente Donald Trump."
     },
     {
       "fuente": "Guatemala.com",
