@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-18T13:14:10.265Z",
+  "actualizado": "2026-09-18T14:15:24.767Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bomberos reportan el hallazgo de dos personas sin vida en calles de la capital",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/bomberos-reportan-el-hallazgo-de-dos-personas-sin-vida-en-calles-de-la-capital-breaking/",
+      "fecha": "Fri, 18 Sep 2026 13:19:21 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos hombres fueron hallados muertos en la vía pública en distintos puntos de la capital."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Comunicaciones vs. Guastatoya: Roberto Montoya busca su primer triunfo en el Apertura 2026",
@@ -105,6 +113,14 @@
       "fecha": "Fri, 18 Sep 2026 06:05:00 +0000",
       "categoria": "Salud y Familia",
       "resumen": "El ruido es un riesgo ambiental importante para la salud, aunque a menudo se pasa por alto, advierten especialistas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Diésel llega a US$8.35 por galón en California y analistas advierten que los precios podrían subir más",
+      "link": "https://www.prensalibre.com/internacional/diesel-llega-a-us8-35-por-galon-en-california-y-analistas-advierten-que-los-precios-podrian-subir-mas/",
+      "fecha": "Fri, 18 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Los daños a infraestructura petrolera saudí y las restricciones al flujo mundial de crudo aumentan la presión sobre los combustibles, mientras analistas advierten que las interrupciones podrían prolongarse."
     },
     {
       "fuente": "Prensa Libre",
@@ -265,6 +281,14 @@
       "fecha": "Thu, 17 Sep 2026 23:27:16 +0000",
       "categoria": "Internacional",
       "resumen": "Gavin Newsom evalúa nuevas medidas para reforzar la seguridad y endurecer las normas sobre inteligencia artificial en California antes de dejar el cargo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El hermano de Diana de Gales asegura que Carlos III sonaba &#8220;como si hubiera ganado la lotería&#8221; cuando le llamó tras la muerte de la princesa",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-hermano-de-diana-de-gales-asegura-que-carlos-iii-sonaba-como-si-hubiera-ganado-la-loteria-cuando-le-llamo-tras-la-muerte-de-la-princesa/",
+      "fecha": "Thu, 17 Sep 2026 23:13:06 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El Palacio de Buckingham ha rechazado estas afirmaciones y dijo que el duelo puede \"teñir el recuerdo\" de los acontecimientos."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,30 +809,6 @@
       "fecha": "Thu, 17 Sep 2026 06:03:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "El poder de cambiar el país está en su gente y en dejar de impedir que pueda crear riqueza sin tantos obstáculos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "A doscientos años de la Independencia",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/a-doscientos-anos-de-la-independencia-2/",
-      "fecha": "Thu, 17 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La idea de la Independencia conlleva un compromiso ciudadano con unos ideales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Canuto y José",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/canuto-y-jose/",
-      "fecha": "Thu, 17 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Diferencia entre lo que se le puede exigir y lo que es capaz de hacer."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy jueves 17 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-17-de-septiembre-de-2026/",
-      "fecha": "Thu, 17 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
     },
     {
       "fuente": "Guatemala.com",
