@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-18T15:14:39.389Z",
+  "actualizado": "2026-09-18T16:14:21.250Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ronaldo Nazário cumple 50 años: recordamos la noche en que “El Fenómeno” llegó a Guatemala",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/ronaldo-nazario-el-fenomeno-cumple-50-anos-y-revive-una-carrera-inolvidable-breaking/",
+      "fecha": "Fri, 18 Sep 2026 16:05:07 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El astro brasileño celebra medio siglo de vida y recordamos su visita a Guatemala en 2003, cuando miles de aficionados llegaron a La Aurora para recibirlo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Minex y Renap firman convenio para imprimir el DPI en consulados de Guatemala en EE. UU.",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/minex-y-renap-firman-convenio-para-imprimir-el-dpi-en-consulados-de-guatemala-en-ee-uu-breaking/",
+      "fecha": "Fri, 18 Sep 2026 15:09:53 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Cancillería detalla convenio con el Renap para imprimir DPI de guatemaltecos en EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Shakira y Maluma publican Agua, el merengue que mantiene vivas sus colaboraciones",
+      "link": "https://www.prensalibre.com/vida/escenario/shakira-y-maluma-publican-agua-el-merengue-que-mantiene-vivas-sus-colaboraciones/",
+      "fecha": "Fri, 18 Sep 2026 15:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La dupla colombiana se reúne ocho años después de su última colaboración para presentar un merengue que le canta al deseo. Así surge Agua, su nueva canción."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Crédito Mi Primera Casa en Guatemala: cuota mensual puede ser hasta 29% menor frente a otras opciones",
@@ -785,30 +809,6 @@
       "fecha": "Thu, 17 Sep 2026 06:10:00 +0000",
       "categoria": "Economía",
       "resumen": "El alza de las tasas de la Reserva Federal puede encarecer algunos créditos, mientras que los rendimientos de las cuentas de ahorro podrían aumentar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lo dejó el tren",
-      "link": "https://www.prensalibre.com/opinion/caricatura/lo-dejo-el-tren/",
-      "fecha": "Thu, 17 Sep 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Artificioso plan piloto de IA partido en 15 en el OJ",
-      "link": "https://www.prensalibre.com/opinion/editorial/artificioso-plan-piloto-de-ia-partido-en-15-en-el-oj/",
-      "fecha": "Thu, 17 Sep 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Es manido el truco de fragmentar compras para evadir licitaciones y efectuar compras con dedicatoria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cinco cosas que los dermatólogos quieren que deje de hacerle a su piel",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/cinco-cosas-que-los-dermatologos-quieren-que-deje-de-hacerle-a-su-piel/",
-      "fecha": "Thu, 17 Sep 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Hay hábitos sobre el cuidado de la piel que los especialistas sugieren no tomarse a la ligera. ¿Por qué?"
     },
     {
       "fuente": "Guatemala.com",
