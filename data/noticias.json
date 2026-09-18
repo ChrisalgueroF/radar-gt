@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-18T11:14:25.385Z",
+  "actualizado": "2026-09-18T12:19:10.963Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quiénes son los creadores de contenido que ofrecerán un show en Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/quienes-son-los-creadores-de-contenido-que-ofreceran-un-show-en-guatemala/",
+      "fecha": "Fri, 18 Sep 2026 12:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El talento mexicano y guatemalteco se une en un espectáculo de humor que llegará al país el próximo 24 de septiembre. Conozca a los protagonistas de “Vete a la tuerca”."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Gasolina y diésel en Guatemala: las crisis del 2022 y 2026 que llevaron a aplicar millonarios subsidios",
@@ -801,14 +809,6 @@
       "fecha": "Thu, 17 Sep 2026 02:04:37 +0000",
       "categoria": "Escenario",
       "resumen": "Noel Gallagher reveló cómo fue el peculiar momento en que Oasis tomó la decisión de extender su gira y continuar con conciertos durante 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Seis propuestas buscan bajar el precio de las gasolinas y el diésel: qué plantea cada una y cómo avanzan",
-      "link": "https://www.prensalibre.com/economia/seis-propuestas-buscan-bajar-el-precio-de-las-gasolinas-y-el-diesel-que-plantea-cada-una-y-como-avanzan/",
-      "fecha": "Thu, 17 Sep 2026 02:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Exonerar IDP, reducir o eliminar temporalmente el IVA, subsidios a los combustibles o establecer precios de referencia: estas son las alternativas que se discuten en el Congreso mientras el decreto 21-2026 continúa detenido y otras iniciativas buscan avanzar."
     },
     {
       "fuente": "Guatemala.com",
