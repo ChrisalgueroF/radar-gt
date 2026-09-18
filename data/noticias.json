@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T03:15:02.414Z",
+  "actualizado": "2026-09-18T04:15:11.080Z",
   "total": 109,
   "noticias": [
     {
@@ -9,6 +9,14 @@
       "fecha": "Fri, 18 Sep 2026 03:05:40 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "No hay dudas sobre el resultado de esta votación, pero para el Kremlin sigue siendo importante."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Tienen que seguir la trazabilidad al dinero”: investigan origen de más de Q1.4 millones que la PNC vincula con la MS",
+      "link": "https://www.prensalibre.com/guatemala/tienen-que-seguir-la-trazabilidad-al-dinero-investigan-origen-de-mas-de-q1-4-millones-que-la-pnc-vincula-con-la-ms/",
+      "fecha": "Fri, 18 Sep 2026 02:20:34 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Más de Q1.4 millones en efectivo, drogas y armas de fuego fueron localizados en un inmueble que funcionaba como car wash y parqueo en la zona 1; la PNC vincula los fondos con actividades de la Mara Salvatrucha."
     },
     {
       "fuente": "Prensa Libre",
@@ -809,14 +817,6 @@
       "fecha": "Wed, 16 Sep 2026 23:10:59 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El Palacio de Buckingham ha rechazado esta afirmación, y dijo que el duelo puede \"teñir el recuerdo\" de los acontecimientos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué Trump le dijo a Sheinbaum que &#8220;México debe hacer más&#8221; tras alabar su labor contra el narcotráfico",
-      "link": "https://www.prensalibre.com/internacional/por-que-trump-le-dijo-a-sheinbaum-que-mexico-debe-hacer-mas-tras-alabar-su-labor-contra-el-narcotrafico/",
-      "fecha": "Wed, 16 Sep 2026 22:41:10 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump alabó la labor de Claudia Sheinbaum en materia de la lucha contra el narcotráfico, pero insistió en que \"México tiene que hacer mucho más\"."
     },
     {
       "fuente": "Guatemala.com",
