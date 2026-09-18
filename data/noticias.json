@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-18T17:12:54.104Z",
+  "actualizado": "2026-09-18T18:16:57.587Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cinco sucesos geopolíticos han presionado al alza los combustibles, explica el MEM",
+      "link": "https://www.prensalibre.com/economia/cinco-sucesos-geopoliticos-han-presionado-al-alza-los-combustibles-explica-el-mem/",
+      "fecha": "Fri, 18 Sep 2026 18:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Diésel resiente mayor impacto por conflictos geopolíticos expone el MEM, las gasolinas también siguen al alza. La última semana el diésel aumentó Q3 por galón y las gasolinas alrededor de Q1.60."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala, punto de encuentro para abordar el futuro del desarrollo espacial de Centroamérica",
+      "link": "https://www.prensalibre.com/vida/ciencia/guatemala-punto-de-encuentro-para-abordar-el-futuro-del-desarrollo-espacial-de-centroamerica/",
+      "fecha": "Fri, 18 Sep 2026 17:34:49 +0000",
+      "categoria": "Ciencia",
+      "resumen": "Durante el III Congreso Espacial Centroamericano, Guatemala reunió a expertos para abordar el futuro espacial de Centroamérica, las capacidades existentes y las oportunidades para impulsar el desarrollo de este sector."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Negarles la Green Card? las cinco claves de la ley de EE. UU. hacia inmigrantes considerados &#8220;una carga pública&#8221;",
+      "link": "https://www.prensalibre.com/internacional/negarles-la-green-card-las-cinco-claves-de-la-ley-de-ee-uu-hacia-inmigrantes-considerados-una-carga-publica/",
+      "fecha": "Fri, 18 Sep 2026 17:07:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "Este viernes entró en vigor una normativa del Gobierno de EE. UU. que negaría la Green Card a inmigrantes que reciban ayudas del estado."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "El jurado que se opuso al caso de Lindsay Clancy afirma que no tenía ninguna duda de que ella mató a sus hijos deliberadamente",
@@ -17,6 +41,14 @@
       "fecha": "Fri, 18 Sep 2026 17:00:45 +0000",
       "categoria": "Comunidad",
       "resumen": "El Insivumeh pronostica temperaturas de hasta 38°C y lluvias en la mayor parte de Guatemala para el fin de semana del 19 y 20 de septiembre 2026. \nThe post Pronostican fin de semana cálido y lluvioso para este 19 y 20 de septiembre 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ruta Nacional 14 tendrá cierre este 19 de septiembre: conozca el horario de los trabajos y rutas alternas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/ruta-nacional-14-tendra-cierre-este-19-de-septiembre-conozca-el-horario-de-los-trabajos-y-rutas-alternas-breaking/",
+      "fecha": "Fri, 18 Sep 2026 16:46:18 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La PMT de Ciudad Vieja, Sacatepéquez, informó del cierre en el kilómetro 79 de la Ruta Nacional 14 para este sábado 19 de septiembre."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,38 +817,6 @@
       "fecha": "Thu, 17 Sep 2026 13:38:40 +0000",
       "categoria": "Internacional",
       "resumen": "A Edy Fernando Gutiérrez sus familiares lo describen como un hombre trabajador, bromista y, sobre todas las cosas, un muy buen hijo, pues mantenía a su madre, Sonia Mejía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala registra tres temblores en las últimas horas, uno de ellos de magnitud 4.7",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-registra-tres-temblores-en-las-ultimas-horas-uno-de-ellos-de-magnitud-4-7-breaking/",
-      "fecha": "Thu, 17 Sep 2026 13:34:16 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Tres temblores han sido registrados por el Insivumeh, con epicentro en el océano Pacífico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Motorista muere en accidente en el km 15 de la ruta Interamericana; PMT comparte rutas alternas",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/motorista-muere-en-accidente-en-el-km-15-de-la-ruta-interamericana-pmt-comparte-rutas-alternas-breaking/",
-      "fecha": "Thu, 17 Sep 2026 12:56:43 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Motorista muere en accidente en el kilómetro 15.8 de la ruta Interamericana, con dirección a la ciudad de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El caso de los 3 estadounidenses que denunciaron torturas en Venezuela y por el que el gobierno de Trump pidió inmunidad para Delcy Rodríguez",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-caso-de-los-3-estadounidenses-que-denunciaron-torturas-en-venezuela-y-por-el-que-el-gobierno-de-trump-pidio-inmunidad-para-delcy-rodriguez/",
-      "fecha": "Thu, 17 Sep 2026 12:26:37 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Edgar José Marval fue uno de los 10 estadounidenses detenidos en Venezuela que fueron liberados a cambio de la liberación de Alex Saab, el empresario colombiano aliado de Nicolás Maduro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Puede el Vaticano buscar una nominación a los premios Óscar por primera vez en su historia?",
-      "link": "https://www.prensalibre.com/vida/escenario/puede-el-vaticano-buscar-una-nominacion-a-los-premios-oscar-por-primera-vez-en-su-historia/",
-      "fecha": "Thu, 17 Sep 2026 12:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La revista Variety informa que el Vaticano buscará por primera vez en su historia una nominación en los premios Óscar con un cortometraje documental."
     },
     {
       "fuente": "Guatemala.com",
