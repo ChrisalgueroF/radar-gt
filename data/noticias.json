@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-18T10:15:37.146Z",
+  "actualizado": "2026-09-18T11:14:25.385Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gasolina y diésel en Guatemala: las crisis del 2022 y 2026 que llevaron a aplicar millonarios subsidios",
+      "link": "https://www.prensalibre.com/economia/gasolina-y-diesel-en-guatemala-las-crisis-del-2022-y-2026-que-llevaron-a-aplicar-millonarios-subsidios/",
+      "fecha": "Fri, 18 Sep 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Guatemala ha enfrentado dos fuertes escaladas en los precios de los combustibles en cuatro años. ¿Qué tan diferente es lo que se paga en el 2026 frente al 2022 y qué subsidios se aprobaron en cada crisis? Conozca las cifras."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Cuánto recauda el IDP en Guatemala y qué implicaría suspender este impuesto a los combustibles?",
@@ -801,14 +809,6 @@
       "fecha": "Thu, 17 Sep 2026 02:00:00 +0000",
       "categoria": "Economía",
       "resumen": "Exonerar IDP, reducir o eliminar temporalmente el IVA, subsidios a los combustibles o establecer precios de referencia: estas son las alternativas que se discuten en el Congreso mientras el decreto 21-2026 continúa detenido y otras iniciativas buscan avanzar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Alarma en la zona 9: hombre escala parte de la Torre del Reformador y obliga a coordinar presencia de socorristas",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/alarma-en-la-zona-9-hombre-escala-parte-de-la-torre-del-reformador-y-obliga-a-coordinar-presencia-de-socorristas-breaking/",
-      "fecha": "Thu, 17 Sep 2026 01:47:25 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un hombre en aparente estado de ebriedad escaló parte de la Torre del Reformador, lo que generó alarma y motivó la coordinación de cuerpos de socorro y la Policía."
     },
     {
       "fuente": "Guatemala.com",
