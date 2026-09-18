@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-18T12:19:10.963Z",
+  "actualizado": "2026-09-18T13:14:10.265Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comunicaciones vs. Guastatoya: Roberto Montoya busca su primer triunfo en el Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-vs-guastatoya-roberto-montoya-busca-su-primer-triunfo-en-el-apertura-2026-breaking/",
+      "fecha": "Fri, 18 Sep 2026 13:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Comunicaciones enfrenta a uno de los equipos mejor ubicados del torneo con la obligación de ganar y dejar atrás una racha de cinco partidos sin victoria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Expertos de la ONU afirman que hay motivos para creer que EE.UU. cometió crímenes de guerra en los ataques contra Irán",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/expertos-de-la-onu-afirman-que-hay-motivos-para-creer-que-ee-uu-cometio-crimenes-de-guerra-en-los-ataques-contra-iran/",
+      "fecha": "Fri, 18 Sep 2026 12:57:25 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Estados Unidos no ha reconocido haber llevado a cabo los ataques mortales de febrero contra una escuela primaria en Minab y un complejo deportivo en Lamerd."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo enseñar a los niños a comer saludable sin obligarlos ni premiarlos",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/como-ensenar-a-los-ninos-a-comer-saludable-sin-obligarlos-ni-premiarlos/",
+      "fecha": "Fri, 18 Sep 2026 12:44:59 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Más que elegir alimentos saludables para los niños, enseñarles a comer implica respetar sus señales de hambre y saciedad, evitar presiones y dar el ejemplo en casa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El sello de Amarini Villatoro: una historia de títulos, retos y triunfos entre Guatemala y Costa Rica",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/el-sello-de-amarini-villatoro-una-historia-de-titulos-retos-y-triunfos-entre-guatemala-y-costa-rica-breaking/",
+      "fecha": "Fri, 18 Sep 2026 12:24:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Dejó los estudios de Derecho para dedicarse al futbol y hoy vuelve a estar entre los cuatro mejores de Centroamérica, ahora al frente del Cartaginés."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo el peso colombiano se convirtió en una de las monedas más fuertes del mundo en 2026",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/como-el-peso-colombiano-se-convirtio-en-una-de-las-monedas-mas-fuertes-del-mundo-en-2026/",
+      "fecha": "Fri, 18 Sep 2026 12:00:28 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El peso colombiano se ha caracterizado históricamente más por su devaluación que apreciación. Ahora acumula una racha al alza poco habitual."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Quiénes son los creadores de contenido que ofrecerán un show en Guatemala",
@@ -9,6 +49,22 @@
       "fecha": "Fri, 18 Sep 2026 12:00:00 +0000",
       "categoria": "Escenario",
       "resumen": "El talento mexicano y guatemalteco se une en un espectáculo de humor que llegará al país el próximo 24 de septiembre. Conozca a los protagonistas de “Vete a la tuerca”."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo es Macondo Park, el escenario más grande de Europa que creó Shakira para su residencia artística en Madrid",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-es-macondo-park-el-escenario-mas-grande-de-europa-que-creo-shakira-para-su-residencia-artistica-en-madrid/",
+      "fecha": "Fri, 18 Sep 2026 11:12:06 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El recinto no solo acogerá los conciertos de la cantante colombiana, sino que también será un espacio para la difusión de la gastronomía y la literatura latinoamericanas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué mancharte las manos con tierra tiene beneficios para tu salud",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-mancharte-las-manos-con-tierra-tiene-beneficios-para-tu-salud/",
+      "fecha": "Fri, 18 Sep 2026 11:02:19 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Cada vez más investigaciones indican que el contacto prolongado o frecuente de la piel con la naturaleza podría alterar significativamente lo que ocurre en nuestra piel y en nuestro organismo."
     },
     {
       "fuente": "Prensa Libre",
@@ -753,62 +809,6 @@
       "fecha": "Thu, 17 Sep 2026 06:01:00 +0000",
       "categoria": "Vida",
       "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "IUSI: alcance de las tarifas y vigencia",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/iusi-alcance-de-las-tarifas-y-vigencia/",
-      "fecha": "Thu, 17 Sep 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El pago del IUSI no es declaración. Las tarifas se aplicarán a partir del 26 de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala y Estados Unidos fortalecen cooperación para combatir el tráfico ilícito y la trata de personas",
-      "link": "https://www.prensalibre.com/guatemala/justicia/guatemala-y-estados-unidos-fortalecen-cooperacion-para-combatir-el-trafico-ilicito-y-la-trata-de-personas/",
-      "fecha": "Thu, 17 Sep 2026 04:01:56 +0000",
-      "categoria": "Justicia",
-      "resumen": "El MP y autoridades de Estados Unidos abordaron la cooperación bilateral para fortalecer la persecución penal y combatir delitos como el tráfico ilícito y la trata de personas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quiénes son los hutíes, los rebeldes aliados de Irán en Yemen que tienen en vilo al mercado mundial de petróleo",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quienes-son-los-huties-los-rebeldes-aliados-de-iran-en-yemen-que-tienen-en-vilo-al-mercado-mundial-de-petroleo/",
-      "fecha": "Thu, 17 Sep 2026 03:43:05 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El rápido avance de los hutíes en Yemen podría añadir una nueva y peligrosa dimensión a la guerra de Irán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Spider-Man: Brand New Day hace historia: supera a Star Wars y se convierte en la película más taquillera de EE. UU.",
-      "link": "https://www.prensalibre.com/vida/escenario/spider-man-brand-new-day-destrona-a-star-wars-tom-holland-rompe-record-con-us936-millones/",
-      "fecha": "Thu, 17 Sep 2026 02:39:14 +0000",
-      "categoria": "Escenario",
-      "resumen": "\"Spider-Man: Brand New Day\", protagonizada por Tom Holland, alcanzó US$936 millones y rompió el récord de taquilla que \"Star Wars\" mantuvo por más de una década."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Un policía parado ahí no es sinónimo de seguridad”: video revela cómo cinco personas rodean a un hombre y le roban el celular en Xelafer",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/un-policia-parado-ahi-no-es-sinonimo-de-seguridad-video-revela-como-cinco-personas-rodean-a-un-hombre-y-le-roban-el-celular-en-xelafer/",
-      "fecha": "Thu, 17 Sep 2026 02:31:44 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un video captó cómo cinco personas rodean a un hombre y le sustraen el celular durante Xelafer. Analistas advierten sobre la forma coordinada en que operan quienes aprovechan las aglomeraciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El técnico guatemalteco Amarini Villatoro hace historia: lleva al Cartaginés a semifinales de la Copa Centroamericana",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-tecnico-guatemalteco-amarini-villatoro-hace-historia-lleva-al-cartagines-a-semifinales-de-la-copa-centroamericana-breaking/",
-      "fecha": "Thu, 17 Sep 2026 02:28:01 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El técnico guatemalteco vivió un cierre dramático y volvió a colocar a su equipo entre los mejores de Centroamérica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Así fue el momento en que los hermanos Gallagher decidieron emprender una nueva gira de Oasis en 2027",
-      "link": "https://www.prensalibre.com/vida/escenario/asi-fue-el-momento-en-que-los-hermanos-gallagher-decidieron-emprender-una-nueva-gira-de-oasis-en-2027/",
-      "fecha": "Thu, 17 Sep 2026 02:04:37 +0000",
-      "categoria": "Escenario",
-      "resumen": "Noel Gallagher reveló cómo fue el peculiar momento en que Oasis tomó la decisión de extender su gira y continuar con conciertos durante 2027."
     },
     {
       "fuente": "Guatemala.com",
