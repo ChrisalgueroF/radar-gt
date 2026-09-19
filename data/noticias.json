@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-19T03:14:31.931Z",
+  "actualizado": "2026-09-19T04:14:50.536Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comunicaciones vuelve a caer: Guastatoya agrava la crisis crema y suma seis partidos sin ganar",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-vuelve-a-caer-guastatoya-agrava-la-crisis-crema-y-suma-seis-partidos-sin-ganar-breaking/",
+      "fecha": "Sat, 19 Sep 2026 04:02:13 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Comunicaciones volvió a quedar en deuda y confirmó que el cambio de entrenador todavía no logra transformar la realidad de un equipo que sigue sin carburar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Rey Carlos III reacciona a libro del hermano de Lady Di que revela supuesta conversación: “El dolor puede nublar el juicio”",
+      "link": "https://www.prensalibre.com/vida/escenario/rey-carlos-iii-reacciona-a-libro-del-hermano-de-lady-di-que-revela-supuesta-conversacion-el-dolor-puede-nublar-el-juicio/",
+      "fecha": "Sat, 19 Sep 2026 02:54:29 +0000",
+      "categoria": "Escenario",
+      "resumen": "El hermano de Diana de Gales reveló que, tras su muerte, el entonces príncipe Carlos dijo: “La olvidaremos muy pronto”. Así reaccionó el monarca a la publicación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Un machete puede ser un arma letal”: el riesgo detrás de una pelea vial en zona 10 que escaló con amenazas",
+      "link": "https://www.prensalibre.com/guatemala/un-machete-puede-ser-un-arma-letal-el-riesgo-detras-de-una-pelea-vial-en-zona-10-que-escalo-con-amenazas/",
+      "fecha": "Sat, 19 Sep 2026 02:39:15 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Un hombre descendió de un camión recolector de basura con un machete durante una discusión con un motorista en la zona 10 capitalina, incidente que quedó grabado en video."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cumbre en Washington: Donald Trump recibirá a Xi Jinping al pie del avión durante visita de Estado",
+      "link": "https://www.prensalibre.com/internacional/cumbre-en-washington-donald-trump-recibira-a-xi-jinping-al-pie-del-avion-durante-visita-de-estado/",
+      "fecha": "Sat, 19 Sep 2026 02:37:44 +0000",
+      "categoria": "Internacional",
+      "resumen": "Donald Trump recibirá a Xi Jinping en la Casa Blanca con cena de Estado y honores. ¿lograrán frenar las tensiones comerciales y tecnológicas?"
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "OMS alerta por envejecimiento de médicos y déficit de personal sanitario para 2030",
@@ -793,38 +825,6 @@
       "fecha": "Thu, 17 Sep 2026 22:39:57 +0000",
       "categoria": "Cultura",
       "resumen": "Descubre las actividades que se desarrollarán entre octubre y noviembre por la décima edición del Festival de las Flores 2026 en Antigua Guatemala.\nThe post Todas las actividades del Festival de las Flores 2026 en Antigua Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Festival de Vino y Gastronomía 2026: una experiencia para descubrir los sabores de España en Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/festival-de-vino-y-gastronomia-2026-una-experiencia-para-descubrir-los-sabores-de-espana-en-guatemala/",
-      "fecha": "Thu, 17 Sep 2026 22:38:28 +0000",
-      "categoria": "Escenario",
-      "resumen": "Vinos, quesos, tapas y gastronomía española serán parte de esta actividad que se realizará en Guatemala este viernes 18 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. se acerca a establecer una base militar permanente en Polonia: qué busca Trump",
-      "link": "https://www.prensalibre.com/internacional/ee-uu-se-acerca-a-establecer-una-base-militar-permanente-en-polonia-que-busca-trump/",
-      "fecha": "Thu, 17 Sep 2026 22:25:57 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente estadounidense aseguró que existen avances para establecer una base permanente del Ejército de EE. UU. en Polonia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Violencia deja al menos siete muertos por ataques armados en Guatemala, Villa Nueva y San Miguel Petapa",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/violencia-deja-al-menos-cinco-muertos-por-ataques-armados-en-guatemala-villa-nueva-y-san-miguel-petapa/",
-      "fecha": "Thu, 17 Sep 2026 22:25:32 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Varios ataques armados en Guatemala, Villa Nueva y San Miguel Petapa dejaron al menos siete muertos y un herido; además, fue localizado el cadáver de una mujer en Alta Verapaz."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC incauta armas y municiones a Los Tambora, vinculados con el narcomenudeo y en pugna con el Barrio 18 en Sanarate",
-      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-incauta-armas-y-municiones-a-los-tambora-vinculados-con-el-narcomenudeo-y-en-pugna-con-el-barrio-18-en-sanarate/",
-      "fecha": "Thu, 17 Sep 2026 22:18:38 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Autoridades allanan casas vinculadas con Los Tambora, señalados de narcomenudeo en Sanarate, tras una masacre que dejó siete muertos."
     },
     {
       "fuente": "Guatemala.com",
