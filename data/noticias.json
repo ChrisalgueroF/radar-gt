@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-19T18:16:29.931Z",
+  "actualizado": "2026-09-19T19:12:03.907Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Sevilla vs. Barcelona: siga el minuto a minuto de la séptima jornada de LaLiga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-sevilla-vs-barcelona-siga-el-minuto-a-minuto-de-la-septima-jornada-de-laliga-este-sabado-breaking/",
+      "fecha": "Sat, 19 Sep 2026 18:30:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El líder invicto del campeonato visita el Ramón Sánchez-Pizjuán este sábado a la 13.00 horas en un duelo donde el Barcelona buscará mantener su paso perfecto ante un Sevilla que llega en la quinta posición."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Le he ganado todos los duelos directos&#8221;: Lamine Yamal lanza un dardo a Mbappé",
@@ -809,14 +817,6 @@
       "fecha": "Fri, 18 Sep 2026 11:02:19 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Cada vez más investigaciones indican que el contacto prolongado o frecuente de la piel con la naturaleza podría alterar significativamente lo que ocurre en nuestra piel y en nuestro organismo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gasolina y diésel en Guatemala: las crisis del 2022 y 2026 que llevaron a aplicar millonarios subsidios",
-      "link": "https://www.prensalibre.com/economia/gasolina-y-diesel-en-guatemala-las-crisis-del-2022-y-2026-que-llevaron-a-aplicar-millonarios-subsidios/",
-      "fecha": "Fri, 18 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Guatemala ha enfrentado dos fuertes escaladas en los precios de los combustibles en cuatro años. ¿Qué tan diferente es lo que se paga en el 2026 frente al 2022 y qué subsidios se aprobaron en cada crisis? Conozca las cifras."
     },
     {
       "fuente": "Guatemala.com",
