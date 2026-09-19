@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-19T13:14:31.698Z",
+  "actualizado": "2026-09-19T14:14:19.947Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La madre que se volvió viral por correr descalza (y ganar) una carrera para poder comprar los útiles escolares de su hija",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-madre-que-se-volvio-viral-por-correr-descalza-y-ganar-una-carrera-para-poder-comprar-los-utiles-escolares-de-su-hija/",
+      "fecha": "Sat, 19 Sep 2026 14:01:40 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La hazaña de esta mujer de 47 años ha contribuido a avivar las críticas a la situación económica y educativa del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Allanamientos en la Usac: MP confirma secuestro de evidencia y universidad niega ejecución de diligencias",
+      "link": "https://www.prensalibre.com/guatemala/justicia/allanamientos-en-la-usac-mp-confirma-secuestro-de-evidencia-y-universidad-niega-ejecucion-de-diligencias-breaking/",
+      "fecha": "Sat, 19 Sep 2026 13:33:38 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Ministerio Público califica de positivas las operaciones en la casa de estudios; universidad dice que estas no se efecutaron por incumplimiento de requisitos legales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Así avanza la remodelación del Irtra Agua Caliente: teleférico podría estar listo en tres meses",
@@ -801,22 +817,6 @@
       "fecha": "Fri, 18 Sep 2026 06:01:00 +0000",
       "categoria": "Vida",
       "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El cinismo y el doble pensar",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-cinismo-y-el-doble-pensar/",
-      "fecha": "Fri, 18 Sep 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Altas autoridades de gobierno declaran utilizando sofismas y burlas a la prensa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inversionistas evalúan ciberseguridad para operar en Guatemala, advierte AmCham",
-      "link": "https://www.prensalibre.com/economia/inversionistas-evaluan-ciberseguridad-para-operar-en-guatemala-advierte-amcham/",
-      "fecha": "Fri, 18 Sep 2026 06:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Empresas grandes y pequeñas enfrentan riesgos distintos, mientras el país discute cómo crear reglas claras y una respuesta coordinada ante ataques cibernéticos."
     },
     {
       "fuente": "Guatemala.com",
