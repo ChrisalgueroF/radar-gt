@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-19T20:14:22.846Z",
+  "actualizado": "2026-09-19T21:13:34.505Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Hat-trick de Raphinha le da al Barcelona la victoria 3-1 sobre el Sevilla en LaLiga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-hat-trick-de-raphinha-le-dio-al-barcelona-la-victoria-3-1-sobre-el-sevilla-en-laliga-breaking/",
+      "fecha": "Sat, 19 Sep 2026 20:56:28 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Raphinha fue figura con tres goles y el Barcelona venció 3-1 al Sevilla para seguir como único equipo invicto de LaLiga 2026-27."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Prueba PISA: así son los ejercicios que ponen a prueba a estudiantes",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/prueba-pisa-asi-son-los-ejercicios-que-ponen-a-prueba-a-estudiantes/",
+      "fecha": "Sat, 19 Sep 2026 20:44:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Algunas preguntas liberadas de PISA pueden resultar difíciles para adultos. ¿Qué habilidades evalúa esta prueba y qué deben resolver los estudiantes?"
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; Aurora vs. Marquense: siga el minuto a minuto de la décima jornada del Apertura 2026",
@@ -801,22 +817,6 @@
       "fecha": "Fri, 18 Sep 2026 12:57:25 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Estados Unidos no ha reconocido haber llevado a cabo los ataques mortales de febrero contra una escuela primaria en Minab y un complejo deportivo en Lamerd."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo enseñar a los niños a comer saludable sin obligarlos ni premiarlos",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/como-ensenar-a-los-ninos-a-comer-saludable-sin-obligarlos-ni-premiarlos/",
-      "fecha": "Fri, 18 Sep 2026 12:44:59 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Más que elegir alimentos saludables para los niños, enseñarles a comer implica respetar sus señales de hambre y saciedad, evitar presiones y dar el ejemplo en casa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El sello de Amarini Villatoro: una historia de títulos, retos y triunfos entre Guatemala y Costa Rica",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/el-sello-de-amarini-villatoro-una-historia-de-titulos-retos-y-triunfos-entre-guatemala-y-costa-rica-breaking/",
-      "fecha": "Fri, 18 Sep 2026 12:24:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Dejó los estudios de Derecho para dedicarse al futbol y hoy vuelve a estar entre los cuatro mejores de Centroamérica, ahora al frente del Cartaginés."
     },
     {
       "fuente": "Guatemala.com",
