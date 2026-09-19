@@ -1,7 +1,103 @@
 {
-  "actualizado": "2026-09-19T05:13:22.686Z",
+  "actualizado": "2026-09-19T06:19:06.864Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "CIV y Mides concentran el 35.9% del presupuesto para inseguridad alimentaria y desnutrición en el 2027",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/civ-y-mides-concentran-el-35-9-del-presupuesto-para-inseguridad-alimentaria-y-desnutricion-en-el-2027/",
+      "fecha": "Sat, 19 Sep 2026 06:11:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Instituciones públicas piden Q19,792.63 millones para atender la inseguridad alimentaria y desnutrición en el 2027. El 35.9% de los asignaciones requeridas se concentran en el CIV y el Mides."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Combustibles en Guatemala: cuánto perdería el fisco si se suspenden IVA e IDP",
+      "link": "https://www.prensalibre.com/economia/combustibles-en-guatemala-cuanto-perderia-el-fisco-si-se-suspenden-iva-e-idp/",
+      "fecha": "Sat, 19 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Una pérdida estimada de Q3 mil 430 millones en la recaudación tributaria sería el efecto de las iniciativas de ley que plantean suspender dos impuestos que gravan el consumo de derivados del petróleo durante el cuarto trimestre del año, según una fuente oficial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La caleta",
+      "link": "https://www.prensalibre.com/opinion/caricatura/la-caleta/",
+      "fecha": "Sat, 19 Sep 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Llegó la hora cero de la postuladora de contralor",
+      "link": "https://www.prensalibre.com/opinion/editorial/llego-la-hora-cero-de-la-postuladora-de-contralor/",
+      "fecha": "Sat, 19 Sep 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Es clave que los postuladores, lejos de amedrentarse, hagan públicas las intimidaciones y fortalezcan sus criterios de integridad para seleccionar los mejores perfiles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Al niño se le debe capacitar y no aprovecharlo",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/al-nino-se-le-debe-capacitar-y-no-aprovecharlo/",
+      "fecha": "Sat, 19 Sep 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Los niños están con nosotros no porque pidieron, por ello mismo debemos de invertir en sus vidas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Republicanos ignoran en gran medida los consejos de Trump para las elecciones de medio término",
+      "link": "https://www.prensalibre.com/internacional/republicanos-ignoran-en-gran-medida-los-consejos-de-trump-para-las-elecciones-de-medio-termino/",
+      "fecha": "Sat, 19 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Donald Trump pidió a los republicanos hacer campaña con su figura y ofrecer US$5 mil: muchos candidatos no lo están haciendo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Mal de ojo? Nunca es tarde: curarse para hacer Patria",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/mal-de-ojo-nunca-es-tarde-curarse-para-hacer-patria/",
+      "fecha": "Sat, 19 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "En la convivencia nacional siempre será tarea pendiente la superación de ese “mal de ojo”."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La independencia que ganamos y la unión que perdimos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-independencia-que-ganamos-y-la-union-que-perdimos/",
+      "fecha": "Sat, 19 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Quizás la respuesta sea aprender de los errores que destruyeron la Federación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nuevo aniversario de Independencia, nuevas falencias públicas",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/nuevo-aniversario-de-independencia-nuevas-falencias-publicas/",
+      "fecha": "Sat, 19 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Hoy lo sabemos, el Poder Ejecutivo opera con los otros dos literalmente en contra; su margen de acción es limitado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El agua que enferma",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/el-agua-que-enferma/",
+      "fecha": "Sat, 19 Sep 2026 06:01:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "Ríos contaminados, una deuda de décadas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Analistas plantean planes de austeridad y eliminación de impuestos ante el alza en los combustibles",
+      "link": "https://www.prensalibre.com/guatemala/politica/analistas-plantean-planes-de-austeridad-y-eliminacion-de-impuestos-ante-el-alza-en-los-combustibles/",
+      "fecha": "Sat, 19 Sep 2026 06:01:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Mientras los precios de los combustibles continúan al alza, analistas plantean que el Ejecutivo adopte medidas para reducir el impacto en los guatemaltecos y el Congreso se prepara para discutir las objeciones al decreto 21-2026, que establece precios de referencia para las gasolinas y el diésel."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy sábado 19 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-19-de-septiembre-de-2026/",
+      "fecha": "Sat, 19 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La historia detrás del acero que construye Guatemala",
@@ -721,102 +817,6 @@
       "fecha": "Fri, 18 Sep 2026 02:20:34 +0000",
       "categoria": "Guatemala",
       "resumen": "Más de Q1.4 millones en efectivo, drogas y armas de fuego fueron localizados en un inmueble que funcionaba como car wash y parqueo en la zona 1; la PNC vincula los fondos con actividades de la Mara Salvatrucha."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las 10 claves de LaLiga: Barcelona arrasa, Raphinha brilla y el Real Madrid encuentra un héroe",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/las-10-claves-de-laliga-barcelona-arrasa-raphinha-brilla-y-el-real-madrid-encuentra-un-heroe-breaking/",
-      "fecha": "Fri, 18 Sep 2026 02:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La sexta jornada dejó récords goleadores, actuaciones decisivas y resultados que comienzan a marcar el rumbo de una temporada en la que Barcelona, Betis y Atlético de Madrid son protagonistas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Amarini encuentra similitudes entre Cartaginés y Xelajú y habla sobre &#8220;Mr. Copa Centroamericana&#8221;",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/amarini-encuentra-similitudes-entre-cartagines-y-xelaju-y-habla-sobre-mr-copa-centroamericana/",
-      "fecha": "Fri, 18 Sep 2026 01:24:23 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El técnico guatemalteco recordó su experiencia con Xelajú y destacó el trabajo del preparador físico Leopoldo Posadas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "UE afirma que sanciones contra 8 guatemaltecos siguen vigentes y contradice al juez Fredy Orellana",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ue-afirma-que-sanciones-contra-8-guatemaltecos-siguen-vigentes-y-contradice-al-juez-fredy-orellana-breaking/",
-      "fecha": "Fri, 18 Sep 2026 01:04:22 +0000",
-      "categoria": "Justicia",
-      "resumen": "La UE afirma que las sanciones contra ocho guatemaltecos y una entidad siguen vigentes, mientras el juez Fredy Orellana sostiene que las medidas en su contra fueron levantadas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué varios artistas abandonan la gira de Ed Sheeran en solidaridad con Macklemore?",
-      "link": "https://www.prensalibre.com/vida/escenario/por-que-varios-artistas-abandonan-la-gira-de-ed-sheeran-en-solidaridad-con-macklemore/",
-      "fecha": "Fri, 18 Sep 2026 00:57:08 +0000",
-      "categoria": "Escenario",
-      "resumen": "Varias celebridades de Hollywood han expresado su rechazo a la decisión de Ed Sheeran de apartar al rapero Macklemore de su gira, luego de que este expresara una postura geopolítica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lady Gaga y Michael Polansky tuvieron una hija: así la llamaron",
-      "link": "https://www.prensalibre.com/vida/escenario/lady-gaga-y-michael-polansky-tuvieron-una-hija-asi-la-llamaron/",
-      "fecha": "Fri, 18 Sep 2026 00:37:14 +0000",
-      "categoria": "Escenario",
-      "resumen": "Luego de que se difundieran fotografías de Lady Gaga y Michael Polansky paseando con una bebé, se confirmó que se trata de su hija."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuánto costaría el galón de gasolina y diésel si se elimina el IDP y el IVA?",
-      "link": "https://www.prensalibre.com/economia/cuanto-costaria-el-galon-de-gasolina-y-diesel-si-se-elimina-el-idp-y-el-iva/",
-      "fecha": "Fri, 18 Sep 2026 00:16:43 +0000",
-      "categoria": "Economía",
-      "resumen": "Cuánto pesa el IDP y el IVA en el precio del galón de combustible. Una fórmula simple puede ayudarlo a entender cómo se calculan estos impuestos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Universal evalúa el futuro del estreno del documental de Alex Gibney sobre Elon Musk",
-      "link": "https://www.prensalibre.com/vida/escenario/universal-evalua-el-futuro-del-estreno-del-documental-de-alex-gibney-sobre-elon-musk/",
-      "fecha": "Thu, 17 Sep 2026 23:55:02 +0000",
-      "categoria": "Escenario",
-      "resumen": "El proyecto que examina la historia de Elon Musk, desde sus inicios hasta convertirse en una figura relevante en la tecnología y la política, podría no estrenarse con Universal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Son rumores no verificados”: representante de Hayden Panettiere cuestiona versión sobre pastilla con fentanilo vinculada a su muerte",
-      "link": "https://www.prensalibre.com/vida/escenario/son-rumores-no-verificados-representante-de-hayden-panettiere-cuestiona-version-sobre-pastilla-con-fentanilo-vinculada-a-su-muerte/",
-      "fecha": "Thu, 17 Sep 2026 23:36:33 +0000",
-      "categoria": "Escenario",
-      "resumen": "Tras las versiones que señalan que Hayden Panettiere habría consumido una pastilla adulterada el día de su muerte, su representante respondió y cuestionó la información difundida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sicom avanza en la elección del nuevo superintendente con entrevistas y examen de oposición",
-      "link": "https://www.prensalibre.com/economia/sicom-avanza-en-la-eleccion-del-nuevo-superintendente-con-entrevistas-y-examen-de-oposicion/",
-      "fecha": "Thu, 17 Sep 2026 23:28:05 +0000",
-      "categoria": "Economía",
-      "resumen": "Los 34 aspirantes para el cargo de superintendente de Competencia participan en la fase de entrevistas previo al examen de oposición que aplicará una universidad chilena. En la tabla de gradación el plan de trabajo y entrevista representan 32 puntos máximo y el examen de oposición otros 30."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "California prepara nuevas reglas para la IA: esto planea hacer Gavin Newsom antes de dejar el cargo",
-      "link": "https://www.prensalibre.com/internacional/california-prepara-nuevas-reglas-para-la-ia-esto-planea-hacer-gavin-newsom-antes-de-dejar-el-cargo/",
-      "fecha": "Thu, 17 Sep 2026 23:27:16 +0000",
-      "categoria": "Internacional",
-      "resumen": "Gavin Newsom evalúa nuevas medidas para reforzar la seguridad y endurecer las normas sobre inteligencia artificial en California antes de dejar el cargo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El hermano de Diana de Gales asegura que Carlos III sonaba &#8220;como si hubiera ganado la lotería&#8221; cuando le llamó tras la muerte de la princesa",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-hermano-de-diana-de-gales-asegura-que-carlos-iii-sonaba-como-si-hubiera-ganado-la-loteria-cuando-le-llamo-tras-la-muerte-de-la-princesa/",
-      "fecha": "Thu, 17 Sep 2026 23:13:06 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El Palacio de Buckingham ha rechazado estas afirmaciones y dijo que el duelo puede \"teñir el recuerdo\" de los acontecimientos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Carrera San Martín 2026: fecha, recorridos, inscripción y todos los detalles de la edición 13",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/carrera-san-martin-2026-fecha-recorridos-inscripcion-y-todos-los-detalles-de-la-edicion-13-breaking/",
-      "fecha": "Thu, 17 Sep 2026 23:12:17 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La tradicional competencia espera reunir a 8 mil corredores en los recorridos de 5 y 10 kilómetros, en una jornada que combinará deporte, convivencia familiar, inclusión y solidaridad a beneficio de la Fundación Margarita Tejada."
     },
     {
       "fuente": "Guatemala.com",
