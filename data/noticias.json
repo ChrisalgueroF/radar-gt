@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-19T16:14:36.642Z",
+  "actualizado": "2026-09-19T17:12:48.247Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Shakira se come a Madrid: &#8220;La loba&#8221; vuelve triunfante a la capital española",
+      "link": "https://www.prensalibre.com/vida/escenario/shakira-se-come-a-madrid-la-loba-vuelve-triunfante-a-la-capital-espanola/",
+      "fecha": "Sat, 19 Sep 2026 17:05:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante colombiana regresó a la capital española e impactó con música y potentes mensajes durante la primera función de su residencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Casa Blanca deniega acceso a periodistas de CNN, MS NOW y Politico y les confisca acreditaciones",
+      "link": "https://www.prensalibre.com/internacional/casa-blanca-deniega-acceso-a-periodistas-de-cnn-ms-now-y-politico-y-les-confisca-acreditaciones/",
+      "fecha": "Sat, 19 Sep 2026 16:15:19 +0000",
+      "categoria": "Internacional",
+      "resumen": "Medida se da después de que Trump vetara a los medios y los acusara de publicar \"noticias falsas\"."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Oktoberfest: la boda real en Alemania que dio origen a la mayor fiesta de la cerveza del mundo (y cómo llegó a América Latina)",
@@ -801,22 +817,6 @@
       "fecha": "Fri, 18 Sep 2026 06:05:00 +0000",
       "categoria": "Editorial",
       "resumen": "La nueva ley antilavado traerá un inédito monitoreo de flujos dinerarios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué es la contaminación acústica y por qué es un grave riesgo para la salud",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/que-es-la-contaminacion-acustica-y-por-que-es-un-grave-riesgo-para-la-salud/",
-      "fecha": "Fri, 18 Sep 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "El ruido es un riesgo ambiental importante para la salud, aunque a menudo se pasa por alto, advierten especialistas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Diésel llega a US$8.35 por galón en California y analistas advierten que los precios podrían subir más",
-      "link": "https://www.prensalibre.com/internacional/diesel-llega-a-us8-35-por-galon-en-california-y-analistas-advierten-que-los-precios-podrian-subir-mas/",
-      "fecha": "Fri, 18 Sep 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los daños a infraestructura petrolera saudí y las restricciones al flujo mundial de crudo aumentan la presión sobre los combustibles, mientras analistas advierten que las interrupciones podrían prolongarse."
     },
     {
       "fuente": "Guatemala.com",
