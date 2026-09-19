@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-19T04:14:50.536Z",
+  "actualizado": "2026-09-19T05:13:22.686Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La historia detrás del acero que construye Guatemala",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-historia-detras-del-acero-que-construye-guatemala/",
+      "fecha": "Sat, 19 Sep 2026 05:00:54 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Bajo el concepto “El comienzo después del final”, Grupo AG le da una segunda oportunidad a materiales que ya cumplieron su vida útil y regresan a la cadena industrial para fabricar nuevos productos de acero."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El grupo que lavaba cientos de millones de euros para criminales usando un sistema financiero con siglos de historia",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-grupo-que-lavaba-cientos-de-millones-de-euros-para-criminales-usando-un-sistema-financiero-con-siglos-de-historia/",
+      "fecha": "Sat, 19 Sep 2026 05:00:13 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los blanqueadores de dinero organizaban transferencias de efectivo en todo el mundo sin dejar rastro documental."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Comunicaciones vuelve a caer: Guastatoya agrava la crisis crema y suma seis partidos sin ganar",
@@ -9,6 +25,14 @@
       "fecha": "Sat, 19 Sep 2026 04:02:13 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Comunicaciones volvió a quedar en deuda y confirmó que el cambio de entrenador todavía no logra transformar la realidad de un equipo que sigue sin carburar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Contaminación en río Las Vacas: identifican empresa por coloración rojiza y suspenden sus operaciones",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/contaminacion-en-rio-las-vacas-identifican-empresa-por-coloracion-rojiza-y-suspenden-sus-operaciones/",
+      "fecha": "Sat, 19 Sep 2026 03:05:37 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La investigación por la coloración rojiza del río Las Vacas llevó a las autoridades hasta drenajes cercanos a una empresa de la zona 5."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,30 +817,6 @@
       "fecha": "Thu, 17 Sep 2026 23:12:17 +0000",
       "categoria": "Deporte Nacional",
       "resumen": "La tradicional competencia espera reunir a 8 mil corredores en los recorridos de 5 y 10 kilómetros, en una jornada que combinará deporte, convivencia familiar, inclusión y solidaridad a beneficio de la Fundación Margarita Tejada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Dejas un vacío en mi corazón&#8221;: El mensaje de despedida del padre de Edy Gutiérrez, víctima del accidente de helicóptero en Los Ángeles",
-      "link": "https://www.prensalibre.com/internacional/dejas-un-vacio-en-mi-corazon-el-mensaje-de-despedida-del-padre-de-edy-gutierrez-victima-del-accidente-de-helicoptero-en-los-angeles/",
-      "fecha": "Thu, 17 Sep 2026 23:08:19 +0000",
-      "categoria": "Internacional",
-      "resumen": "El padre de Edy Gutiérrez, guatemalteco que murió en el accidente de un helicóptero en Los Ángeles, escribió un mensaje en redes donde se despidió de su hijo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Se reunieron en México”: Arjona anticipa colaboración en medio de su gira Lo que el Seco no dijo",
-      "link": "https://www.prensalibre.com/vida/escenario/se-reunieron-en-mexico-arjona-anticipa-colaboracion-en-medio-de-su-gira-lo-que-el-seco-no-dijo/",
-      "fecha": "Thu, 17 Sep 2026 23:01:01 +0000",
-      "categoria": "Escenario",
-      "resumen": "En medio de su gira Lo que el Seco no dijo, el cantautor guatemalteco Ricardo Arjona podría presentar a sus seguidores una colaboración. Estas son las pistas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La compleja ingeniería que se requiere para fabricar las ventanillas de los aviones",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/la-compleja-ingenieria-que-se-requiere-para-fabricar-las-ventanillas-de-los-aviones/",
-      "fecha": "Thu, 17 Sep 2026 22:41:46 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Pocas empresas cuentan con la tecnología necesaria para fabricar ventanas de aviones, cuya producción es cada vez más compleja."
     },
     {
       "fuente": "Guatemala.com",
