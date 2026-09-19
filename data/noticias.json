@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T00:20:39.283Z",
+  "actualizado": "2026-09-19T01:12:40.079Z",
   "total": 109,
   "noticias": [
     {
@@ -60,11 +60,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "¿Ovnis y viajes en el tiempo? Qué incluyen los nuevos documentos secretos desclasificados por el Pentágono",
+      "link": "https://www.prensalibre.com/internacional/ovnis-y-viajes-en-el-tiempo-que-incluyen-los-nuevos-documentos-secretos-desclasificados-por-el-pentagono/",
+      "fecha": "Fri, 18 Sep 2026 22:32:11 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una nueva tanda de documentos secretos fueron desclasificados por el Pentágono, donde incluiría investigaciones sobre ovnis y posibles viajes en el tiempo."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Juzgado tramita querella contra Neto Bran por supuestas anomalías y ordena enviar expediente a la CSJ",
       "link": "https://www.prensalibre.com/guatemala/justicia/juzgado-tramita-querella-contra-neto-bran-por-supuestas-anomalias-y-ordena-enviar-expediente-a-la-csj-breaking/",
       "fecha": "Fri, 18 Sep 2026 22:32:01 +0000",
       "categoria": "Justicia",
       "resumen": "Un juzgado dio trámite a una querella contra el alcalde de Mixco, Neto Bran, por supuestas anomalías en un proyecto municipal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Niño se intensifica y las lluvias seguirían bajas en Centroamérica: esto se espera hasta diciembre",
+      "link": "https://www.prensalibre.com/internacional/el-nino-se-intensifica-y-las-lluvias-seguirian-bajas-en-centroamerica-esto-se-espera-hasta-diciembre/",
+      "fecha": "Fri, 18 Sep 2026 22:16:04 +0000",
+      "categoria": "Internacional",
+      "resumen": "El fenómeno climático alcanza la categoría de “muy fuerte” y aumenta la preocupación por las altas temperaturas y la disminución de las lluvias."
     },
     {
       "fuente": "Prensa Libre",
@@ -809,22 +825,6 @@
       "fecha": "Thu, 17 Sep 2026 20:50:44 +0000",
       "categoria": "Estados Unidos",
       "resumen": "Cancillería brinda asistencia a la familia de Edy Gutiérrez, víctima de un accidente de helicóptero en Los Ángeles,  y coordina el traslado de su cuerpo desde EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Innovación tecnológica para impulsar el crecimiento empresarial",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/innovacion-tecnologica-para-impulsar-el-crecimiento-empresarial/",
-      "fecha": "Thu, 17 Sep 2026 20:41:10 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "La iniciativa acerca soluciones digitales accesibles que simplifican la operación diaria, Pay-Volution, se desarrolló por primera vez en Guatemala, gracias a la iniciativa de BAC, dirigida al sector empresarial, diseñada para acercar soluciones tecnológicas innovadoras que facilitan la operación y aceleran el crecimiento de los negocios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Florida restringe el uso de la IA en escuelas y universidades: Estas serán las nuevas normas",
-      "link": "https://www.prensalibre.com/internacional/florida-restringe-el-uso-de-la-ia-en-escuelas-y-universidades-estas-seran-las-nuevas-normas/",
-      "fecha": "Thu, 17 Sep 2026 20:38:22 +0000",
-      "categoria": "Internacional",
-      "resumen": "El director de Anthropic urgió a desacelerar el desarrollo de la IA debido a los riesgos, pero Trump rechazó estas solicitudes para evitar que China aventaje a EE. UU."
     },
     {
       "fuente": "Guatemala.com",
