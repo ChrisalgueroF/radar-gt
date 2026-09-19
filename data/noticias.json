@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-19T22:13:37.731Z",
+  "actualizado": "2026-09-19T23:12:53.261Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Día Internacional del Aperitivo y otras conmemoraciones del 19 de septiembre",
+      "link": "https://www.prensalibre.com/vida/el-dia-internacional-del-aperitivo-y-otras-conmemoraciones-del-19-de-septiembre/",
+      "fecha": "Sat, 19 Sep 2026 22:02:44 +0000",
+      "categoria": "Vida",
+      "resumen": "Las conmemoraciones y festejos de este día son de lo más variado: Aunque algunos son serios, otros nacen con motivos comerciales o como una broma."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Accidente múltiple deja tres muertos y tres heridos de gravedad en Escuintla",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-multiple-deja-tres-muertos-y-tres-heridos-de-gravedad-en-escuintla/",
+      "fecha": "Sat, 19 Sep 2026 21:49:36 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Al menos seis vehículos se vieron involucrados en tragico accidente en Masagua, informaron los Bomberos Voluntarios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Shakira en Madrid: Los dardos y confesiones de la cantante colombiana al volver a España",
+      "link": "https://www.prensalibre.com/vida/escenario/shakira-en-madrid-los-dardos-y-confesiones-de-la-cantante-colombiana-al-volver-a-espana/",
+      "fecha": "Sat, 19 Sep 2026 20:59:50 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante colombiana comenzó su residencia en la capital española  y lanzó comentarios que dejó pensando a muchos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Video: Hat-trick de Raphinha le da al Barcelona la victoria 3-1 sobre el Sevilla en LaLiga",
@@ -793,30 +817,6 @@
       "fecha": "Fri, 18 Sep 2026 14:09:10 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "El equipo costarricense dejó atrás al Saprissa y ahora enfrentará a un histórico del futbol hondureño por un lugar en la final."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bomberos reportan el hallazgo de dos personas sin vida en calles de la capital",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/bomberos-reportan-el-hallazgo-de-dos-personas-sin-vida-en-calles-de-la-capital-breaking/",
-      "fecha": "Fri, 18 Sep 2026 13:19:21 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Dos hombres fueron hallados muertos en la vía pública en distintos puntos de la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comunicaciones vs. Guastatoya: Roberto Montoya busca su primer triunfo en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-vs-guastatoya-roberto-montoya-busca-su-primer-triunfo-en-el-apertura-2026-breaking/",
-      "fecha": "Fri, 18 Sep 2026 13:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Comunicaciones enfrenta a uno de los equipos mejor ubicados del torneo con la obligación de ganar y dejar atrás una racha de cinco partidos sin victoria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Expertos de la ONU afirman que hay motivos para creer que EE.UU. cometió crímenes de guerra en los ataques contra Irán",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/expertos-de-la-onu-afirman-que-hay-motivos-para-creer-que-ee-uu-cometio-crimenes-de-guerra-en-los-ataques-contra-iran/",
-      "fecha": "Fri, 18 Sep 2026 12:57:25 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Estados Unidos no ha reconocido haber llevado a cabo los ataques mortales de febrero contra una escuela primaria en Minab y un complejo deportivo en Lamerd."
     },
     {
       "fuente": "Guatemala.com",
