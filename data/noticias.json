@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-19T01:12:40.079Z",
+  "actualizado": "2026-09-19T02:14:32.641Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "OMS alerta por envejecimiento de médicos y déficit de personal sanitario para 2030",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/oms-alerta-por-envejecimiento-de-medicos-y-deficit-de-personal-sanitario-para-2030/",
+      "fecha": "Sat, 19 Sep 2026 01:19:39 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "La OMS advierte que el envejecimiento del personal de salud podría agravar la escasez de médicos y enfermeras y provocar una crisis sanitaria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Masacre en la zona 6: balacera deja cuatro hombres muertos en una venta de churros",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/masacre-en-la-zona-6-balacera-deja-cuatro-hombres-muertos-en-una-venta-de-churros-breaking/",
+      "fecha": "Sat, 19 Sep 2026 01:16:07 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Un ataque armado en una venta de churros dejó cuatro hombres muertos en la zona 6 de la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Comunicaciones vs. Guastatoya: los Cremas buscan salir del bache en el Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-comunicaciones-vs-guastatoya-los-cremas-buscan-salir-del-bache-en-el-apertura-2026-breakiing/",
+      "fecha": "Sat, 19 Sep 2026 01:12:52 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los Cremas afrontan una nueva prueba ante uno de los equipos que pelea por los primeros puestos del campeonato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comisión define los 15 elegibles para candidatos a contralor con aspirantes tachados de poca ética y nula independencia",
+      "link": "https://www.prensalibre.com/guatemala/politica/comision-define-los-15-elegibles-para-candidatos-a-contralor-con-aspirantes-tachados-de-poca-etica-y-nula-independencia/",
+      "fecha": "Sat, 19 Sep 2026 00:59:19 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los observadores destacan que la postuladora es de las mejores del 2026, pero que fue la que recibió menos aspirantes con excelencia profesional y moral."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Trump anuncia un acuerdo con Dinamarca por el que EE.UU. asumirá el &#8220;control permanente de la seguridad&#8221; de Groenlandia",
@@ -9,6 +41,14 @@
       "fecha": "Sat, 19 Sep 2026 00:04:59 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La noticia del acuerdo fue confirmada por la primera ministra de Dinamarca, Mette Frederiksen."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jóvenes de 18 a 25 años ganan terreno entre el público interesado en comprar vivienda en Guatemala",
+      "link": "https://www.prensalibre.com/economia/jovenes-de-18-a-25-anos-ganan-terreno-entre-el-publico-interesado-en-comprar-vivienda-en-guatemala/",
+      "fecha": "Fri, 18 Sep 2026 23:56:55 +0000",
+      "categoria": "Economía",
+      "resumen": "La participación de adultos jóvenes en ExpoCasa pasó de 8.9% en 2023 a 18.1% en 2026. Precio, cuota, enganche y crédito condicionan que el interés se convierta en una compra."
     },
     {
       "fuente": "Prensa Libre",
@@ -28,11 +68,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Tres armas de fuego sin registro: así fue capturado “El Patrón” en Jalapa, en estado de ebriedad",
+      "link": "https://www.prensalibre.com/guatemala/justicia/tres-armas-de-fuego-sin-registro-asi-fue-capturado-el-patron-en-jalapa-en-estado-de-ebriedad/",
+      "fecha": "Fri, 18 Sep 2026 23:26:28 +0000",
+      "categoria": "Justicia",
+      "resumen": "Luis “N”, de 36 años, conducía un picop y llevaba una pistola, una carabina y una escopeta sin la documentación correspondiente, cuando fue sorprendido presuntamente bajo efectos de licor."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Mujer interviene en discusión entre motorista y taxista y termina herida de bala en la zona 12",
       "link": "https://www.prensalibre.com/guatemala/sucesos/mujer-interviene-en-discusion-entre-motorista-y-taxista-y-termina-herida-de-bala-en-la-zona-12-breaking/",
       "fecha": "Fri, 18 Sep 2026 23:22:18 +0000",
       "categoria": "Sucesos",
       "resumen": "Una discusión de tránsito entre un motorista y un taxista terminó a balazos en la zona 12 y dejó herida a una pasajera que intervino en el altercado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ligan a proceso a dos presuntos integrantes de “Los Cazadores” por secuestro y otros delitos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ligan-a-proceso-a-dos-presuntos-integrantes-de-los-cazadores-por-secuestro-y-otros-delitos/",
+      "fecha": "Fri, 18 Sep 2026 23:12:56 +0000",
+      "categoria": "Justicia",
+      "resumen": "Dos presuntos integrantes de una estructura criminal conocida como “Los Cazadores”, que operaba en Petén, enfrentan un proceso penal por tres delitos."
     },
     {
       "fuente": "Prensa Libre",
@@ -769,62 +825,6 @@
       "fecha": "Thu, 17 Sep 2026 22:18:38 +0000",
       "categoria": "Guatemala",
       "resumen": "Autoridades allanan casas vinculadas con Los Tambora, señalados de narcomenudeo en Sanarate, tras una masacre que dejó siete muertos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Las deportaciones seguirán, le guste o no&#8221; la respuesta de Trump a la crítica de una congresista",
-      "link": "https://www.prensalibre.com/internacional/las-deportaciones-seguiran-le-guste-o-no-la-respuesta-de-trump-a-la-critica-de-una-congresista/",
-      "fecha": "Thu, 17 Sep 2026 22:11:10 +0000",
-      "categoria": "Internacional",
-      "resumen": "Tras una crítica de una congresista a las políticas migratorias, el Departamento de Seguridad Nacional de EE. UU. respondió que \"las deportaciones continuarán les guste o no\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Los hispanos se sienten traicionados&#8221;: el mensaje a Trump de la congresista republicana María Elvira Salazar en plena ola de arrestos y deportaciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-hispanos-se-sienten-traicionados-el-mensaje-a-trump-de-la-congresista-republicana-maria-elvira-salazar-en-plena-ola-de-arrestos-y-deportaciones/",
-      "fecha": "Thu, 17 Sep 2026 22:00:56 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La congresista republicana, que busca la reelección en un distrito de Miami de mayoría hispana, cuestiona las detenciones de migrantes sin antecedentes penales y advierte que los votantes latinos que apoyaron a Trump se sienten traicionados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Torneo Apertura 2026: Antigua GFC vs. Municipal: ¿Por qué se reprogramó el partido de la jornada 10 y cuándo se jugará?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-2026-antigua-gfc-vs-municipal-por-que-se-reprogramo-el-partido-de-la-jornada-10-y-cuando-se-jugara-breaking/",
-      "fecha": "Thu, 17 Sep 2026 22:00:33 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Antigua GFC y Municipal, los dos equipos que protagonizan la lucha por los primeros puestos del Apertura 2026 tendrán que esperar para enfrentarse en un duelo que promete ser clave en la pelea por el liderato."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El equilibrio entre estética, funcionalidad y resistencia",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/el-equilibrio-entre-estetica-funcionalidad-y-resistencia/",
-      "fecha": "Thu, 17 Sep 2026 21:49:50 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "A partir de hoy hasta el 30 de septiembre, EPA realiza la Feria de Pisos, donde se encontrará una amplia variedad de opciones, texturas y acabados para renovar ambientes interiores y exteriores, con alternativas pensadas para diferentes estilos, niveles de uso y necesidades del hogar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Durante un ejercicio de entrenamiento: así se estrelló un avión de combate F-16 en Michigan",
-      "link": "https://www.prensalibre.com/internacional/durante-un-ejercicio-de-entrenamiento-asi-se-estrello-un-avion-de-combate-f-16-en-michigan/",
-      "fecha": "Thu, 17 Sep 2026 21:02:07 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un avión de combate F16 se estrelló en una zona rural de Michigan mientras llevaba a cabo ejercicios de entrenamiento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "iPhone 18 Pro y Pro Max llegan a las tiendas en EE. UU.: estas son sus nuevas cámaras y el rediseño contra el sobrecalentamiento",
-      "link": "https://www.prensalibre.com/vida/tecnologia/iphone-18-pro-y-pro-max-llegan-a-las-tiendas-en-ee-uu-estas-son-sus-nuevas-camaras-y-el-rediseno-contra-el-sobrecalentamiento/",
-      "fecha": "Thu, 17 Sep 2026 20:56:45 +0000",
-      "categoria": "Tecnología",
-      "resumen": "El iPhone 18 Pro y Pro Max llegan a las tiendas en EE. UU. con mejoras en sus cámaras, nuevos colores y una cámara de vapor rediseñada para combatir el sobrecalentamiento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Minex gestiona repatriación de Edy Gutiérrez, el guatemalteco víctima de un accidente de helicóptero en EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/minex-gestiona-repatriacion-de-edy-gutierrez-el-guatemalteco-victima-de-un-accidente-de-helicoptero-en-ee-uu-breaking/",
-      "fecha": "Thu, 17 Sep 2026 20:50:44 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Cancillería brinda asistencia a la familia de Edy Gutiérrez, víctima de un accidente de helicóptero en Los Ángeles,  y coordina el traslado de su cuerpo desde EE. UU."
     },
     {
       "fuente": "Guatemala.com",
