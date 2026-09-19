@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-19T10:14:31.897Z",
+  "actualizado": "2026-09-19T11:13:23.463Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así avanza la remodelación del Irtra Agua Caliente: teleférico podría estar listo en tres meses",
+      "link": "https://www.prensalibre.com/economia/asi-avanza-la-remodelacion-del-irtra-agua-caliente-teleferico-podria-estar-listo-en-tres-meses/",
+      "fecha": "Sat, 19 Sep 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El Irtra invierte US$44 millones en la renovación de Agua Caliente, un proyecto que incluye nuevas atracciones acuáticas y recreativas, hotel, restaurante y teleférico. La modernización refleja avances y podrían estar listas a finales de este año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027 requiere más candados y fiscalización, según expertos",
+      "link": "https://www.prensalibre.com/guatemala/politica/presupuesto-2027-requiere-mas-candados-y-fiscalizacion-segun-expertos/",
+      "fecha": "Sat, 19 Sep 2026 11:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Ante el incremento de los recursos contemplados en el proyecto de presupuesto para el 2027, expertos advierten sobre la necesidad de establecer candados y fortalecer los mecanismos de fiscalización del gasto público."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La más corta, la más antigua y una isla compartida: 6 ejemplos que hacen de España uno de los países con las fronteras más peculiares del mundo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-mas-corta-la-mas-antigua-y-una-isla-compartida-6-ejemplos-que-hacen-de-espana-uno-de-los-paises-con-las-fronteras-mas-peculiares-del-mundo/",
+      "fecha": "Sat, 19 Sep 2026 10:46:26 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "España cuenta con fronteras con Francia, Portugal, Reino Unido, Andorra y Marruecos, y algunas de ellas son especialmente particulares."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "CIV y Mides concentran el 35.9% del presupuesto para inseguridad alimentaria y desnutrición en el 2027",
@@ -793,30 +817,6 @@
       "fecha": "Fri, 18 Sep 2026 06:00:00 +0000",
       "categoria": "Economía",
       "resumen": "Empresas grandes y pequeñas enfrentan riesgos distintos, mientras el país discute cómo crear reglas claras y una respuesta coordinada ante ataques cibernéticos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Diputados y concejales denuncian supuestas anomalías en manejo de recursos de la Municipalidad de Mixco",
-      "link": "https://www.prensalibre.com/guatemala/politica/diputados-y-concejales-denuncian-supuestas-anomalias-en-manejo-de-recursos-de-la-municipalidad-de-mixco-breaking/",
-      "fecha": "Fri, 18 Sep 2026 04:11:13 +0000",
-      "categoria": "Política",
-      "resumen": "Diputados de VOS y concejales de oposición denunciaron supuestas irregularidades en el manejo de fondos de la Municipalidad de Mixco. El alcalde Neto Bran rechazó los señalamientos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué a Putin le importan las elecciones legislativas en Rusia, pese a que no habrá sorpresas",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-a-putin-le-importan-las-elecciones-legislativas-en-rusia-pese-a-que-no-habra-sorpresas/",
-      "fecha": "Fri, 18 Sep 2026 03:05:40 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "No hay dudas sobre el resultado de esta votación, pero para el Kremlin sigue siendo importante."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Tienen que seguir la trazabilidad al dinero”: investigan origen de más de Q1.4 millones que la PNC vincula con la MS",
-      "link": "https://www.prensalibre.com/guatemala/tienen-que-seguir-la-trazabilidad-al-dinero-investigan-origen-de-mas-de-q1-4-millones-que-la-pnc-vincula-con-la-ms/",
-      "fecha": "Fri, 18 Sep 2026 02:20:34 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Más de Q1.4 millones en efectivo, drogas y armas de fuego fueron localizados en un inmueble que funcionaba como car wash y parqueo en la zona 1; la PNC vincula los fondos con actividades de la Mara Salvatrucha."
     },
     {
       "fuente": "Guatemala.com",
