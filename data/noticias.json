@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-20T17:13:13.160Z",
+  "actualizado": "2026-09-20T18:16:31.039Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Territorios latentes: Guatemala le da la bienvenida al criptoarte",
+      "link": "https://www.prensalibre.com/vida/escenario/territorios-latentes-guatemala-le-da-la-bienvenida-al-criptoarte/",
+      "fecha": "Sun, 20 Sep 2026 18:02:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La exposición internacional que presenta la Fundación Paiz reúne a 30 artistas de diversos países e inaugura una nueva línea institucional de arte digital de la entidad cultural."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La remota isla donde los hackers se preparan para defendernos de una guerra invisible",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-remota-isla-donde-los-hackers-se-preparan-para-defendernos-de-una-guerra-invisible/",
+      "fecha": "Sun, 20 Sep 2026 17:25:03 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "¿Qué tan fácil es paralizar nuestro mundo moderno? Conoce a los expertos que están averiguando la respuesta a esa pregunta en una isla remota al norte del Círculo Polar Ártico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Era roja? La polémica entrada de Kang-In Lee sobre Federico Valverde en el derbi madrileño",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/era-roja-la-polemica-entrada-de-kang-in-lee-sobre-federico-valverde-en-el-derbi-madrileno-breaking/",
+      "fecha": "Sun, 20 Sep 2026 16:51:39 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Kang-In Lee pisó el tobillo de Valverde al filo del descanso en una acción que el árbitro sancionó con falta sin mostrar cartulina generando debate sobre la decisión arbitral en el derbi madrileño del Metropolitano."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Atlético de Madrid aprovecha la expulsión de Huijsen y derrota 2-1 al Real Madrid en el derbi",
@@ -112,7 +136,7 @@
       "link": "https://www.prensalibre.com/guatemala/quien-debe-poner-limites-a-la-inteligencia-artificial-empresas-y-gobiernos-debaten-como-supervisarla/",
       "fecha": "Sun, 20 Sep 2026 12:00:00 +0000",
       "categoria": "Guatemala",
-      "resumen": "aboratorios tecnológicos abren sus modelos a evaluaciones externas mientras expertos y gobiernos discuten qué controles necesitan sistemas cada vez más capaces."
+      "resumen": "Laboratorios tecnológicos abren sus modelos a evaluaciones externas mientras expertos y gobiernos discuten qué controles necesitan sistemas cada vez más capaces."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,30 +801,6 @@
       "fecha": "Fri, 18 Sep 2026 22:00:00 +0000",
       "categoria": "Tecnología",
       "resumen": "Apple incorporó mejoras en las cámaras de los nuevos iPhone 18 Pro y iPhone 18 Pro Max, que recientemente llegaron a las tiendas. Estas son sus principales novedades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump veta a tres medios de la Casa Blanca: cuáles son y por qué los acusa de difundir &#8220;noticias falsas&#8221;",
-      "link": "https://www.prensalibre.com/internacional/trump-veta-a-tres-medios-de-la-casa-blanca-cuales-son-y-por-que-los-acusa-de-difundir-noticias-falsas/",
-      "fecha": "Fri, 18 Sep 2026 21:53:32 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump anunció que vetará, de manera inmediata, a tres medios de la Casa Blanca al acusarlos de \"difundir noticias falsas\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo es el gato tilcayo? La nueva especie de felino descubierta en los bosques de Bolivia",
-      "link": "https://www.prensalibre.com/internacional/como-es-el-gato-tilcayo-la-nueva-especie-de-felino-descubierta-en-los-bosques-de-bolivia/",
-      "fecha": "Fri, 18 Sep 2026 21:51:08 +0000",
-      "categoria": "Internacional",
-      "resumen": "Científicos identificaron en Bolivia al gato tilcayo, una nueva especie de felino silvestre descubierta mediante análisis de ADN de ejemplares."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Natalia Lafourcade volvió a Guatemala: 10 años después, la cancionera se reencontró con su público en una velada estremecedora",
-      "link": "https://www.prensalibre.com/vida/escenario/natalia-lafourcade-volvio-a-guatemala-10-anos-despues-la-cancionera-se-reencontro-con-su-publico-en-una-velada-estremecedora/",
-      "fecha": "Fri, 18 Sep 2026 21:51:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantautora mexicana Natalia Lafourcade regresó a Guatemala con su gira \"Cancionera Tour\" y el jueves 17 de septiembre ofreció un concierto íntimo y conmovedor, a lleno total, en el Centro Cultural Miguel Ángel Asturias."
     },
     {
       "fuente": "Guatemala.com",
