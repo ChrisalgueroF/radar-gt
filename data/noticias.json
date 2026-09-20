@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-19T23:12:53.261Z",
+  "actualizado": "2026-09-20T00:21:57.599Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Raphinha superó a Messi y se queda a un gol del récord histórico de Cristiano Ronaldo en LaLiga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/raphinha-supero-a-messi-y-se-queda-a-un-gol-del-record-historico-de-cristiano-ronaldo-en-laliga-breaking/",
+      "fecha": "Sun, 20 Sep 2026 00:10:50 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El brasileño llegó a 12 goles en siete jornadas tras su hat-trick ante el Sevilla superando el mejor arranque de Messi y quedando a solo un gol del registro histórico de Cristiano Ronaldo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;No entienden lo que es vestir esa camisola&#8221;: Machón y Paredes explotan ante la crisis de Comunicaciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/no-entienden-lo-que-es-vestir-esa-camisola-machon-y-paredes-explotan-ante-la-crisis-de-comunicaciones-breaking/",
+      "fecha": "Sat, 19 Sep 2026 23:11:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Dos históricos exjugadores de Comunicaciones alzaron la voz tras la derrota 1-2 ante Guastatoya cuestionando la estructura del club y la capitanía de Fredy Pérez."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aurora superó la inferioridad numérica y venció 1-0 a Marquense con gol de Héctor Morales",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/aurora-supero-la-inferioridad-numerica-y-vencio-1-0-a-marquense-con-gol-de-hector-morales-breaking/",
+      "fecha": "Sat, 19 Sep 2026 23:03:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los aurinegros jugaron más de 60 minutos con diez hombres tras la expulsión de Carlos Flores pero resistieron con orden y encontraron el gol de la victoria con un cabezazo de Héctor Morales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "El Día Internacional del Aperitivo y otras conmemoraciones del 19 de septiembre",
@@ -793,30 +817,6 @@
       "fecha": "Fri, 18 Sep 2026 15:00:00 +0000",
       "categoria": "Economía",
       "resumen": "Comprar una vivienda mediante Mi Primera Casa puede reducir entre 24% y 29% la cuota mensual frente a un financiamiento en condiciones de mercado, según ejercicios presentados por el Crédito Hipotecario Nacional (CHN)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué muestra el códice de la historia prehispánica que se exhibe por primera vez en México tras estar casi dos siglos en Francia",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-muestra-el-codice-de-la-historia-prehispanica-que-se-exhibe-por-primera-vez-en-mexico-tras-estar-casi-dos-siglos-en-francia/",
-      "fecha": "Fri, 18 Sep 2026 14:42:05 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El antiguo documento que narra la historia del pueblo mexica regresa en un préstamo de Francia a México luego de casi dos siglos de estar en Europa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala: ondas del este traerán lluvias este fin de semana del 19 y 20 de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-ondas-del-este-traeran-lluvias-este-fin-de-semana-del-19-y-20-de-septiembre-breaking/",
-      "fecha": "Fri, 18 Sep 2026 14:11:15 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Temperaturas de hasta 38°C en algunas regiones y posibles lluvias pronostica el Insivumeh para el fin de semana en Guatemala"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cartaginés de Amarini Villatoro se cruza con otro gigante centroamericano por el pase a la final de la Copa Centroamericana",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cartagines-de-amarini-villatoro-se-cruza-con-otro-gigante-centroamericano-breaking/",
-      "fecha": "Fri, 18 Sep 2026 14:09:10 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El equipo costarricense dejó atrás al Saprissa y ahora enfrentará a un histórico del futbol hondureño por un lugar en la final."
     },
     {
       "fuente": "Guatemala.com",
