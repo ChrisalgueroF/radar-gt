@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-20T20:13:54.607Z",
+  "actualizado": "2026-09-20T21:13:47.726Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Te amo muchísimo&#8221;: la pareja que falleció en el accidente en Masagua un día antes de su boda",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/te-amo-muchisimo-la-pareja-que-fallecio-en-el-accidente-en-masagua-un-dia-antes-de-su-boda-breaking/",
+      "fecha": "Sun, 20 Sep 2026 20:14:09 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Una pareja que iba a celebrar su boda este domingo 20 de septiembre perdió la vida el pasado sábado en una colisión múltiple en Masagua, Escuintla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; San Pedro vs. Cobán Imperial: siga el minuto a minuto de la décima jornada del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-san-pedro-vs-coban-imperial-siga-el-minuto-a-minuto-de-la-decima-jornada-del-apertura-2026-breaking/",
+      "fecha": "Sun, 20 Sep 2026 20:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los gallos reciben a los príncipes azules este domingo a las 2:50 PM en el estadio Municipal Sampedrano en el partido que abre la actividad dominical de la décima jornada."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Elección de contralor general: Así quedó integrada la nómina, los cambios finales y cómo fue la votación",
@@ -25,6 +41,14 @@
       "fecha": "Sun, 20 Sep 2026 19:15:03 +0000",
       "categoria": "Internacional",
       "resumen": "Rusia acusa a Kiev de querer empañar las elecciones legislativas este fin de semana en ese país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Angelina Jolie y Salma Hayek: Los vínculos que las unen y fortalecen una amistad que va más allá del cine",
+      "link": "https://www.prensalibre.com/vida/escenario/angelina-jolie-y-salma-hayek-los-vinculos-que-las-unen-y-fortalecen-una-amistad-que-va-mas-alla-del-cine/",
+      "fecha": "Sun, 20 Sep 2026 18:35:04 +0000",
+      "categoria": "Escenario",
+      "resumen": "Ambas actrices se dicen sorprendidas por la profundidad de la amistad que han construido en los últimos años."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,30 +801,6 @@
       "fecha": "Fri, 18 Sep 2026 22:41:52 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El presidente estadounidense ha mantenido una relación tensa y conflictiva con los medios de comunicación de Estados Unidos a lo largo de su carrera política."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump anuncia acuerdo con Dinamarca y Groenlandia y asegura que EE. UU. controlará “para siempre” su seguridad",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/trump-anuncia-acuerdo-con-dinamarca-y-groenlandia-y-asegura-que-ee-uu-controlara-para-siempre-su-seguridad/",
-      "fecha": "Fri, 18 Sep 2026 22:33:18 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Estados Unidos y Dinamarca avanzan en un acuerdo sobre Groenlandia que redefine la cooperación en seguridad y defensa de este estratégico territorio del Ártico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Ovnis y viajes en el tiempo? Qué incluyen los nuevos documentos secretos desclasificados por el Pentágono",
-      "link": "https://www.prensalibre.com/internacional/ovnis-y-viajes-en-el-tiempo-que-incluyen-los-nuevos-documentos-secretos-desclasificados-por-el-pentagono/",
-      "fecha": "Fri, 18 Sep 2026 22:32:11 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una nueva tanda de documentos secretos fueron desclasificados por el Pentágono, donde incluiría investigaciones sobre ovnis y posibles viajes en el tiempo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Juzgado tramita querella contra Neto Bran por supuestas anomalías y ordena enviar expediente a la CSJ",
-      "link": "https://www.prensalibre.com/guatemala/justicia/juzgado-tramita-querella-contra-neto-bran-por-supuestas-anomalias-y-ordena-enviar-expediente-a-la-csj-breaking/",
-      "fecha": "Fri, 18 Sep 2026 22:32:01 +0000",
-      "categoria": "Justicia",
-      "resumen": "Un juzgado dio trámite a una querella contra el alcalde de Mixco, Neto Bran, por supuestas anomalías en un proyecto municipal."
     },
     {
       "fuente": "Guatemala.com",
