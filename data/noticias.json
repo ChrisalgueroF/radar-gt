@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-20T21:13:47.726Z",
+  "actualizado": "2026-09-20T22:13:43.933Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Suchitepéquez vs. Xelajú MC: siga el minuto a minuto de la décima jornada del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-suchitepequez-vs-xelaju-mc-siga-el-minuto-a-minuto-de-la-decima-jornada-del-apertura-2026-breaking/",
+      "fecha": "Sun, 20 Sep 2026 22:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los venados reciben a los superchivos este domingo en el estadio Carlos Salazar Hijo en un duelo donde Suchitepéquez buscará sumar su segunda victoria del torneo ante un Xelajú que llega en la séptima posición."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Viernes Verde prepara en Xela una velada roquera con un cuarteto de cuerdas",
+      "link": "https://www.prensalibre.com/vida/escenario/viernes-verde-prepara-en-xela-una-velada-roquera-con-un-cuarteto-de-cuerdas/",
+      "fecha": "Sun, 20 Sep 2026 21:25:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La banda guatemalteca Viernes Verde contará con el respaldo de un cuarteto de cuerdas y ofrecerá un concierto especial en Quetzaltenango."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hallan a niño herido y una persona calcinada en una vivienda de Sumpango",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/hallan-a-nino-herido-y-una-persona-calcinada-en-una-vivienda-de-sumpango/",
+      "fecha": "Sun, 20 Sep 2026 21:21:29 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Crimen desata conmoción en comunidad de Sacatepéquez."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Te amo muchísimo&#8221;: la pareja que falleció en el accidente en Masagua un día antes de su boda",
@@ -777,30 +801,6 @@
       "fecha": "Fri, 18 Sep 2026 23:22:18 +0000",
       "categoria": "Sucesos",
       "resumen": "Una discusión de tránsito entre un motorista y un taxista terminó a balazos en la zona 12 y dejó herida a una pasajera que intervino en el altercado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ligan a proceso a dos presuntos integrantes de “Los Cazadores” por secuestro y otros delitos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ligan-a-proceso-a-dos-presuntos-integrantes-de-los-cazadores-por-secuestro-y-otros-delitos/",
-      "fecha": "Fri, 18 Sep 2026 23:12:56 +0000",
-      "categoria": "Justicia",
-      "resumen": "Dos presuntos integrantes de una estructura criminal conocida como “Los Cazadores”, que operaba en Petén, enfrentan un proceso penal por tres delitos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Equinoccio de otoño 2026: qué es, qué ocurre y cuándo sucederá este fenómeno astronómico",
-      "link": "https://www.prensalibre.com/vida/ciencia/equinoccio-de-otono-2026-que-es-que-ocurre-y-cuando-sucedera-este-fenomeno-astronomico/",
-      "fecha": "Fri, 18 Sep 2026 23:11:01 +0000",
-      "categoria": "Ciencia",
-      "resumen": "En septiembre llegará el segundo equinoccio del año, un fenómeno astronómico que marca el inicio del otoño en el hemisferio norte y se caracteriza por un equilibrio entre las horas de luz y oscuridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump prohíbe el acceso a la Casa Blanca a los periodistas de CNN, MS NOW y Politico",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-prohibe-el-acceso-a-la-casa-blanca-a-los-periodistas-de-cnn-ms-now-y-politico/",
-      "fecha": "Fri, 18 Sep 2026 22:41:52 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El presidente estadounidense ha mantenido una relación tensa y conflictiva con los medios de comunicación de Estados Unidos a lo largo de su carrera política."
     },
     {
       "fuente": "Guatemala.com",
