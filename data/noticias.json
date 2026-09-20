@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-20T13:13:24.215Z",
+  "actualizado": "2026-09-20T14:14:06.253Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comunicaciones agrava su crisis y suma seis derrotas en el Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-agrava-su-crisis-y-suma-seis-derrotas-en-el-apertura-2026-breaking/",
+      "fecha": "Sun, 20 Sep 2026 14:08:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La derrota ante Guastatoya aumentó la presión sobre los Cremas, con aficionados inconformes y exjugadores que cuestionan el mal momento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ucrania golpea Moscú con unos 450 drones en el mayor ataque contra la capital rusa hasta la fecha",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ucrania-golpea-moscu-con-unos-450-drones-en-el-mayor-ataque-contra-la-capital-rusa-hasta-la-fecha/",
+      "fecha": "Sun, 20 Sep 2026 13:52:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las autoridades reportaron al menos dos muertos y 20 heridos como consecuencia de los bombardeos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Atlético de Madrid vs. Real Madrid: un derbi de alta presión en LaLiga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-atletico-de-madrid-vs-real-madrid-un-derbi-de-alta-presion-en-laliga-breaking/",
+      "fecha": "Sun, 20 Sep 2026 13:30:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Atlético y Real Madrid se enfrentan en el Metropolitano con la obligación de no ceder más terreno ante el ritmo del Barcelona."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Ricardo Hernández convirtió a Pepito en una herramienta social",
@@ -785,30 +809,6 @@
       "fecha": "Fri, 18 Sep 2026 20:41:50 +0000",
       "categoria": "Sucesos",
       "resumen": "Bomberos reportan dos hechos ocurridos en San Francisco 1, Mixco, donde dos personas fallecieron a balazos y cinco resultaron heridas tras un ataque con machete."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Concierto de Guateorquesta en Mixco incluirá baladas románticas y música tradicional guatemalteca",
-      "link": "https://www.prensalibre.com/vida/escenario/concierto-de-guateorquesta-en-mixco-incluira-baladas-romanticas-y-musica-tradicional-guatemalteca/",
-      "fecha": "Fri, 18 Sep 2026 20:40:19 +0000",
-      "categoria": "Escenario",
-      "resumen": "Con entradas a Q10 por persona, Guateorquesta ofrecerá este fin de semana un concierto benéfico en Mixco. Conozca los detalles del evento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PMT prevé complicaciones viales este 18 de septiembre por partido de Comunicaciones y concierto de Grupo Pesado",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/pmt-preve-complicaciones-viales-este-18-de-septiembre-por-partido-de-comunicaciones-y-concierto-de-grupo-pesado/",
-      "fecha": "Fri, 18 Sep 2026 20:38:05 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Autoridades de Tránsito informan sobre complicaciones viales durante la noche del viernes 18 de septiembre por un encuentro de la Liga Nacional y una presentación de un grupo musical."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué son los agentes de la IA, los poderosos sistemas que despiertan el temor de los expertos",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/que-son-los-agentes-de-la-ia-los-poderosos-sistemas-que-despiertan-el-temor-de-los-expertos/",
-      "fecha": "Fri, 18 Sep 2026 20:15:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Son una de las formas de aplicar inteligencia artificial en tareas de todo tipo, pero su capacidad de pensar soluciones e improvisar está desconcertando a los especialistas."
     },
     {
       "fuente": "Guatemala.com",
