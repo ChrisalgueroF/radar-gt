@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-20T12:18:23.143Z",
+  "actualizado": "2026-09-20T13:13:24.215Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ricardo Hernández convirtió a Pepito en una herramienta social",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/ricardo-hernandez-convirtio-a-pepito-en-una-herramienta-social/",
+      "fecha": "Sun, 20 Sep 2026 13:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Pepito nació como una forma de acercarse a jóvenes y terminó acompañando durante casi dos décadas a niños, adolescentes y familias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué revisarán ahora los bancos? 8 preguntas para entender la nueva Ley Antilavado",
+      "link": "https://www.prensalibre.com/economia/que-revisaran-ahora-los-bancos-8-preguntas-para-entender-la-nueva-ley-antilavado/",
+      "fecha": "Sun, 20 Sep 2026 12:32:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La nueva ley antilavado ya está vigente en Guatemala desde el 17 de septiembre. Conozca qué implica para los usuarios de bancos y por qué una operación puede ser considerada inusual o sospechosa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Karl Bushby, el aventurero británico que partió de Chile y lleva 28 años recorriendo el mundo a pie",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/karl-bushby-el-aventurero-britanico-que-partio-de-chile-y-lleva-28-anos-recorriendo-el-mundo-a-pie/",
+      "fecha": "Sun, 20 Sep 2026 12:28:23 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La BBC se traslada a Bélgica para caminar un tramo con el aventurero Karl Bushby, cuyo viaje de regreso a casa se acerca al final tras 28 años."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Arévalo no asistirá por primera vez a Asamblea de la ONU por coincidencia con discusión sobre subsidio a combustibles en el Congreso",
@@ -785,30 +809,6 @@
       "fecha": "Fri, 18 Sep 2026 20:15:17 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Son una de las formas de aplicar inteligencia artificial en tareas de todo tipo, pero su capacidad de pensar soluciones e improvisar está desconcertando a los especialistas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MP pide extinguir cuentas bancarias, inmuebles y vehículos vinculados con Roxana Baldetti",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mp-pide-extinguir-cuentas-bancarias-inmuebles-y-vehiculos-vinculados-con-roxana-baldetti-breaking/",
-      "fecha": "Fri, 18 Sep 2026 20:12:33 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ministerio Público presentó 290 medios de prueba para que bienes vinculados con la exvicepresidenta Roxana Baldetti pasen a favor del Estado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Drama en Miss Universo: seis candidatas son vetadas en medio de disputa y Nawat Itsaragrisil amenaza con acciones legales",
-      "link": "https://www.prensalibre.com/vida/escenario/drama-en-miss-universo-seis-candidatas-son-vetadas-en-medio-de-disputa-y-nawat-itsaragrisil-amenaza-con-acciones-legales/",
-      "fecha": "Fri, 18 Sep 2026 20:09:32 +0000",
-      "categoria": "Escenario",
-      "resumen": "A pocas semanas de la celebración de la 75 edición de Miss Universo, seis candidatas quedaron en medio de una disputa por derechos de franquicia y autoridad corporativa relacionada con Nawat Itsaragrisil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Para reír y apoyar: Noche de Stand Up por Julio Serrano reunirá a nueve comediantes y recaudará fondos para la cirugía del escritor guatemalteco",
-      "link": "https://www.prensalibre.com/vida/escenario/para-reir-y-apoyar-noche-de-stand-up-por-julio-serrano-reunira-a-nueve-comediantes-y-recaudara-fondos-para-la-cirugia-del-escritor-guatemalteco/",
-      "fecha": "Fri, 18 Sep 2026 19:51:57 +0000",
-      "categoria": "Escenario",
-      "resumen": "Tras ser diagnosticado con un tumor cerebral, standuperos y chefs se unen en un evento benéfico para apoyar al escritor y poeta guatemalteco Julio Serrano."
     },
     {
       "fuente": "Guatemala.com",
