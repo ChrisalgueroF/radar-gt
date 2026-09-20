@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-20T11:13:38.500Z",
+  "actualizado": "2026-09-20T12:18:23.143Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo no asistirá por primera vez a Asamblea de la ONU por coincidencia con discusión sobre subsidio a combustibles en el Congreso",
+      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-no-asistira-a-asamblea-de-la-onu-mientras-congreso-discute-decreto-sobre-combustibles/",
+      "fecha": "Sun, 20 Sep 2026 12:00:00 +0000",
+      "categoria": "Política",
+      "resumen": "Carlos Ramiro Martínez encabezará la representación, integrada además por autoridades de Segeplan y Cancillería y la esposa del presidente, Lucrecia Peinado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala prepara su estrategia de inteligencia artificial, pero aún debe definir quién la dirigirá",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-prepara-su-estrategia-de-inteligencia-artificial-pero-aun-debe-definir-quien-la-dirigira/",
+      "fecha": "Sun, 20 Sep 2026 12:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Senacyt prevé completar este año una estrategia gubernamental de inteligencia artificial y avanzar en el 2027 hacia una política nacional que defina su conducción institucional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién debe poner límites a la inteligencia artificial? Empresas y gobiernos debaten cómo supervisarla",
+      "link": "https://www.prensalibre.com/guatemala/quien-debe-poner-limites-a-la-inteligencia-artificial-empresas-y-gobiernos-debaten-como-supervisarla/",
+      "fecha": "Sun, 20 Sep 2026 12:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "aboratorios tecnológicos abren sus modelos a evaluaciones externas mientras expertos y gobiernos discuten qué controles necesitan sistemas cada vez más capaces."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El día que la IA superó la ficción: qué está pasando con esta tecnología y por qué es necesario hacer una pausa",
+      "link": "https://www.prensalibre.com/vida/tecnologia/el-dia-que-la-ia-supero-la-ficcion-que-esta-pasando-con-esta-tecnologia-y-por-que-es-necesario-hacer-una-pausa/",
+      "fecha": "Sun, 20 Sep 2026 12:00:00 +0000",
+      "categoria": "Tecnología",
+      "resumen": "La inteligencia artificial avanza a una velocidad que comienza a generar miedo genuino por sus capacidades y sus riesgos y lo que podría significar para la humanidad."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Presión",
@@ -281,6 +313,14 @@
       "fecha": "Sat, 19 Sep 2026 15:00:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Los cremas cayeron 2-1 ante Guastatoya en el Estadio Cementos Progreso. Al finalizar el partido, varios aficionados superaron la seguridad y llegaron hasta los camerinos para increpar a jugadores y cuerpo técnico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Condenan a Uber a pagar US$40 millones a la familia de una joven que murió en California después de que un conductor la abandonara en la autopista",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/condenan-a-uber-a-pagar-us40-millones-a-la-familia-de-una-joven-que-murio-en-california-despues-de-que-un-conductor-la-abandonara-en-la-autopista-2/",
+      "fecha": "Sat, 19 Sep 2026 14:53:35 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La joven de 23 años regresaba a casa con una amiga que vomitó en el vehículo, por lo que el conductor de Uber les ordenó que se bajaran en plena autopista."
     },
     {
       "fuente": "Prensa Libre",
@@ -771,52 +811,12 @@
       "resumen": "Tras ser diagnosticado con un tumor cerebral, standuperos y chefs se unen en un evento benéfico para apoyar al escritor y poeta guatemalteco Julio Serrano."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Transportistas de carga advierten del impacto del alto costo del combustible en los alimentos",
-      "link": "https://www.prensalibre.com/economia/transportistas-de-carga-advierten-del-impacto-del-alto-costo-del-combustible-en-los-alimentos-breaking/",
-      "fecha": "Fri, 18 Sep 2026 19:20:14 +0000",
-      "categoria": "Economía",
-      "resumen": "Transportistas de carga fijan postura ante el alto costo del combustible y piden acciones efectivas a los organismos Ejecutivo y Legislativo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las imágenes de la tensión durante el intento de desalojo de miles de migrantes de las playas de Ceuta",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-imagenes-de-la-tension-durante-el-intento-de-desalojo-de-miles-de-migrantes-de-las-playas-de-ceuta/",
-      "fecha": "Fri, 18 Sep 2026 19:00:46 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El operativo trasladó a una parte de los migrantes a centros de acogida, pero miles tuvieron que regresar a las playas."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Abrieron convocatoria a los Premios Carlos Slim en Salud 2027",
       "link": "https://www.guatemala.com/noticias/sociedad/convocatoria-abierta-premios-carlos-slim-en-salud-2027.html",
       "fecha": "Fri, 18 Sep 2026 18:54:20 +0000",
       "categoria": "Sociedad",
       "resumen": "Abrieron convocatoria a los Premios Carlos Slim en Salud 2027, que reconocen instituciones y profesionales que han contribuído a mejorar la salud.\nThe post Abrieron convocatoria a los Premios Carlos Slim en Salud 2027 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jamaica vs Guatemala: Los Reggae Boyz no se guarda nada y convocan a sus referentes de las ligas de Europa y Estados Unidos",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/jamaica-no-se-guarda-nada-y-enfrentara-a-guatemala-con-sus-referentes-de-las-ligas-de-europa-y-estados-unidos-breaking/",
-      "fecha": "Fri, 18 Sep 2026 18:24:19 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Leon Bailey, del Olympiacos; Andre Blake, del Philadelphia Union; Joel Latibeaudiere, del Coventry City, y Javon East, del Hapoel Be'er Sheva, son algunos de los nombres que destacan."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De qué trata el &#8220;botón de apagado&#8221; que California evalúa imponer a las empresas de IA",
-      "link": "https://www.prensalibre.com/internacional/de-que-trata-el-boton-de-apagado-que-california-evalua-imponer-a-las-empresas-de-ia/",
-      "fecha": "Fri, 18 Sep 2026 18:20:55 +0000",
-      "categoria": "Internacional",
-      "resumen": "El gobernador de California planteó la posibilidad de implementar un \"botón de apagado\" para los modelos más avanzados de inteligencia artificial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cinco sucesos geopolíticos han presionado al alza los combustibles, explica el MEM",
-      "link": "https://www.prensalibre.com/economia/cinco-sucesos-geopoliticos-han-presionado-al-alza-los-combustibles-explica-el-mem/",
-      "fecha": "Fri, 18 Sep 2026 18:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Diésel resiente mayor impacto por conflictos geopolíticos expone el MEM, las gasolinas también siguen al alza. La última semana el diésel aumentó Q3 por galón y las gasolinas alrededor de Q1.60."
     },
     {
       "fuente": "Guatemala.com",
