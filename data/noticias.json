@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-20T16:14:57.255Z",
+  "actualizado": "2026-09-20T17:13:13.160Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Atlético de Madrid aprovecha la expulsión de Huijsen y derrota 2-1 al Real Madrid en el derbi",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/atletico-de-madrid-aprovecha-la-expulsion-de-huijsen-y-derrota-2-1-al-real-madrid-en-el-derbi-breaking/",
+      "fecha": "Sun, 20 Sep 2026 16:19:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Atlético de Madrid dominó con superioridad numérica tras la expulsión de Huijsen y selló el derbi con goles de Grimaldo y Jonathan David antes de que Rüdiger descontara en el último tramo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Cómo fue mi experiencia en la casa de baños nudista que encarna el espíritu de Tokio",
@@ -793,14 +801,6 @@
       "fecha": "Fri, 18 Sep 2026 21:51:00 +0000",
       "categoria": "Escenario",
       "resumen": "La cantautora mexicana Natalia Lafourcade regresó a Guatemala con su gira \"Cancionera Tour\" y el jueves 17 de septiembre ofreció un concierto íntimo y conmovedor, a lleno total, en el Centro Cultural Miguel Ángel Asturias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Reportan disturbios previo a elección en Cunor de la USAC y denuncian quema de llantas",
-      "link": "https://www.prensalibre.com/guatemala/politica/reportan-disturbios-previo-a-eleccion-en-cunor-de-la-usac-y-denuncian-quema-de-llantas/",
-      "fecha": "Fri, 18 Sep 2026 21:30:57 +0000",
-      "categoria": "Guatemala",
-      "resumen": "A pocas horas de elegir nuevo director, el Centro Universitario del Norte (CUNOR) fue tomado por desconocidos que quemaron llantas en el acceso principal."
     },
     {
       "fuente": "Guatemala.com",
