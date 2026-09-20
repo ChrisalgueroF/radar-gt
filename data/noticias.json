@@ -1,7 +1,87 @@
 {
-  "actualizado": "2026-09-20T05:14:12.194Z",
+  "actualizado": "2026-09-20T06:18:31.379Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presión",
+      "link": "https://www.prensalibre.com/opinion/caricatura/presion-2/",
+      "fecha": "Sun, 20 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "IA requiere inteligencia",
+      "link": "https://www.prensalibre.com/opinion/editorial/ia-requiere-inteligencia/",
+      "fecha": "Sun, 20 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Ahora que el diálogo sobre sus alcances y riesgos ha ganado fuerza, lo más importante es cultivar con más ahínco la inteligencia infantil y juvenil."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Niveles de interés sobre el lenguaje de la Política",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/niveles-de-interes-sobre-el-lenguaje-de-la-politica/",
+      "fecha": "Sun, 20 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El conocimiento del idioma aplicable a todos los temas, en este caso la política, es un instrumento cuya ausencia inicia el camino a estas desviaciones democráticas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Chauvinismo en el Ministerio de Educación?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/chauvinismo-en-el-ministerio-de-educacion/",
+      "fecha": "Sun, 20 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Conociendo que Guatemala ingresaba formalmente a la prueba Pisa a partir del 2014, tomé la iniciativa de promover un acercamiento entre Finlandia y Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuando el crimen vigila al Estado",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/cuando-el-crimen-vigila-al-estado/",
+      "fecha": "Sun, 20 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "¿Quién controla realmente el territorio? En una democracia solo puede haber una respuesta: el Estado, dentro de la ley y al servicio del ciudadano"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salvar la educación",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/salvar-la-educacion/",
+      "fecha": "Sun, 20 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Nuestro país enfrenta el doble reto de ofrecer educación para todos y lograr que aprendan."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "IA: Otra amenaza sobre la columna de opinión",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/ia-otra-amenaza-sobre-la-columna-de-opinion/",
+      "fecha": "Sun, 20 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La columna de opinión periodística, como formato, está de por sí viviendo una que no es su época de oro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lo que se pide vs. lo que se ofrece",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/lo-que-se-pide-vs-lo-que-se-ofrece/",
+      "fecha": "Sun, 20 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Ante el primer pedido de apoyo de la ciudadanía, el Gobierno optó por un subsidio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La incertidumbre y sus escenarios",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-incertidumbre-y-sus-escenarios/",
+      "fecha": "Sun, 20 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Tres posibles escenarios sobre los precios de combustible en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy domingo 20 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-domingo-20-de-septiembre-de-2026/",
+      "fecha": "Sun, 20 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Cuál es la visión de China sobre los peligros de la inteligencia artificial en plena competencia con EE.UU.",
@@ -739,92 +819,12 @@
       "resumen": "Diésel resiente mayor impacto por conflictos geopolíticos expone el MEM, las gasolinas también siguen al alza. La última semana el diésel aumentó Q3 por galón y las gasolinas alrededor de Q1.60."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Precio del combustible: transportistas advierten alza en las tarifas si sus propuestas no reciben respuesta",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/precio-del-combustible-transportistas-advierten-alza-en-las-tarifas-si-sus-propuestas-no-reciben-respuesta-breaking/",
-      "fecha": "Fri, 18 Sep 2026 17:56:10 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Gremiales de transportistas esperan respuesta a sus propuestas ante el alto costo del combustible; de lo contrario, advierten que aumentarán el precio del pasaje."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué muestra el códice Azcatitlan que se exhibe por primera vez en México tras estar casi dos siglos en Francia",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-muestra-el-codice-azcatitlan-que-se-exhibe-por-primera-vez-en-mexico-tras-estar-casi-dos-siglos-en-francia/",
-      "fecha": "Fri, 18 Sep 2026 17:41:12 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El antiguo documento que narra la historia del pueblo mexica regresa en un préstamo de Francia a México luego de casi dos siglos de estar en Europa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala, punto de encuentro para abordar el futuro del desarrollo espacial de Centroamérica",
-      "link": "https://www.prensalibre.com/vida/ciencia/guatemala-punto-de-encuentro-para-abordar-el-futuro-del-desarrollo-espacial-de-centroamerica/",
-      "fecha": "Fri, 18 Sep 2026 17:34:49 +0000",
-      "categoria": "Ciencia",
-      "resumen": "Durante el III Congreso Espacial Centroamericano, Guatemala reunió a expertos para abordar el futuro espacial de Centroamérica, las capacidades existentes y las oportunidades para impulsar el desarrollo de este sector."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cinco esposas de presidentes se reunirán en Guatemala y el Inguat busca alquilar vehículos blindados para movilizarlas",
-      "link": "https://www.prensalibre.com/guatemala/politica/cinco-esposas-de-presidentes-se-reuniran-en-guatemala-y-el-inguat-busca-alquilar-vehiculos-blindados-para-movilizarlas/",
-      "fecha": "Fri, 18 Sep 2026 17:17:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Las esposas de cinco presidentes de latinoamérica estarán en Guatemala para un encuentro privado y el Inguat busca alquilar tres camionetas blindadas para trasladar a invitados VIP."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Negarles la Green Card? las cinco claves de la ley de EE. UU. hacia inmigrantes considerados &#8220;una carga pública&#8221;",
-      "link": "https://www.prensalibre.com/internacional/negarles-la-green-card-las-cinco-claves-de-la-ley-de-ee-uu-hacia-inmigrantes-considerados-una-carga-publica/",
-      "fecha": "Fri, 18 Sep 2026 17:07:08 +0000",
-      "categoria": "Internacional",
-      "resumen": "Este viernes entró en vigor una normativa del Gobierno de EE. UU. que negaría la Green Card a inmigrantes que reciban ayudas del estado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El jurado que se opuso al caso de Lindsay Clancy afirma que no tenía ninguna duda de que ella mató a sus hijos deliberadamente",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-jurado-que-se-opuso-al-caso-de-lindsay-clancy-afirma-que-no-tenia-ninguna-duda-de-que-ella-mato-a-sus-hijos-deliberadamente/",
-      "fecha": "Fri, 18 Sep 2026 17:03:11 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Es la primera vez que el miembro del jurado, que se negó a unirse a los demás y absolver a Clancy, habla públicamente sobre su decisión."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Pronostican fin de semana cálido y lluvioso para este 19 y 20 de septiembre 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-19-y-20-septiembre-2026-insivumeh-anticipa-fin-de-semana-calido-lluvioso.html",
       "fecha": "Fri, 18 Sep 2026 17:00:45 +0000",
       "categoria": "Comunidad",
       "resumen": "El Insivumeh pronostica temperaturas de hasta 38°C y lluvias en la mayor parte de Guatemala para el fin de semana del 19 y 20 de septiembre 2026. \nThe post Pronostican fin de semana cálido y lluvioso para este 19 y 20 de septiembre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ruta Nacional 14 tendrá cierre este 19 de septiembre: conozca el horario de los trabajos y rutas alternas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/ruta-nacional-14-tendra-cierre-este-19-de-septiembre-conozca-el-horario-de-los-trabajos-y-rutas-alternas-breaking/",
-      "fecha": "Fri, 18 Sep 2026 16:46:18 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La PMT de Ciudad Vieja, Sacatepéquez, informó del cierre en el kilómetro 79 de la Ruta Nacional 14 para este sábado 19 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vigilar la curva de crecimiento, clave para detectar trastornos del desarrollo infantil",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/vigilar-la-curva-de-crecimiento-clave-para-detectar-trastornos-del-desarrollo-infantil/",
-      "fecha": "Fri, 18 Sep 2026 16:44:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "El seguimiento periódico de la talla puede ayudar a detectar en niñas, niños y adolescentes trastornos como la deficiencia de hormona de crecimiento, una condición poco frecuente para la que México incorporó una alternativa de tratamiento de administración semanal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ronaldo Nazário cumple 50 años: recordamos la noche en que “El Fenómeno” llegó a Guatemala",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/ronaldo-nazario-el-fenomeno-cumple-50-anos-y-revive-una-carrera-inolvidable-breaking/",
-      "fecha": "Fri, 18 Sep 2026 16:05:07 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El astro brasileño celebra medio siglo de vida y recordamos su visita a Guatemala en 2003, cuando miles de aficionados llegaron a La Aurora para recibirlo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presidente de postuladora a contralor expone intimidaciones y pide a comisionados no ceder ante presiones",
-      "link": "https://www.prensalibre.com/guatemala/politica/presidente-de-postuladora-a-contralor-expone-intimidaciones-y-pide-a-comisionados-no-ceder-ante-presiones/",
-      "fecha": "Fri, 18 Sep 2026 15:58:48 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La comisión de postulación para contralor general de cuentas está en sus últimas sesiones que serán determinantes para integrar la nómina de seis candidatos  que se enviará al Congreso."
     },
     {
       "fuente": "Guatemala.com",
