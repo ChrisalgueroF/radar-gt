@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-21T02:15:07.870Z",
+  "actualizado": "2026-09-21T03:15:44.273Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Malacateco aprovecha dos expulsiones de Mixco y se impone 1-0 con gol de José Ochoa",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/malacateco-aprovecha-dos-expulsiones-de-mixco-y-se-impone-1-0-con-gol-de-jose-ochoa-breaking/",
+      "fecha": "Mon, 21 Sep 2026 02:52:41 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los toros dominaron con superioridad numérica durante gran parte del partido tras las expulsiones de Jeshua Urizar  y Nicolás Martínez y encontraron el gol de la victoria con un remate de José Ochoa."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Caída global de Facebook e Instagram? Usuarios reportan fallas de redes este 20 de septiembre",
@@ -340,14 +348,6 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Niveles de interés sobre el lenguaje de la Política",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/niveles-de-interes-sobre-el-lenguaje-de-la-politica/",
-      "fecha": "Sun, 20 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El conocimiento del idioma aplicable a todos los temas, en este caso la política, es un instrumento cuya ausencia inicia el camino a estas desviaciones democráticas."
-    },
-    {
-      "fuente": "Prensa Libre",
       "titulo": "¿Chauvinismo en el Ministerio de Educación?",
       "link": "https://www.prensalibre.com/opinion/columnasdiarias/chauvinismo-en-el-ministerio-de-educacion/",
       "fecha": "Sun, 20 Sep 2026 06:04:00 +0000",
@@ -364,27 +364,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Salvar la educación",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/salvar-la-educacion/",
-      "fecha": "Sun, 20 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Nuestro país enfrenta el doble reto de ofrecer educación para todos y lograr que aprendan."
-    },
-    {
-      "fuente": "Prensa Libre",
       "titulo": "IA: Otra amenaza sobre la columna de opinión",
       "link": "https://www.prensalibre.com/opinion/columnasdiarias/ia-otra-amenaza-sobre-la-columna-de-opinion/",
       "fecha": "Sun, 20 Sep 2026 06:02:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "La columna de opinión periodística, como formato, está de por sí viviendo una que no es su época de oro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lo que se pide vs. lo que se ofrece",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/lo-que-se-pide-vs-lo-que-se-ofrece/",
-      "fecha": "Sun, 20 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Ante el primer pedido de apoyo de la ciudadanía, el Gobierno optó por un subsidio."
     },
     {
       "fuente": "Prensa Libre",
@@ -809,6 +793,22 @@
       "fecha": "Sat, 19 Sep 2026 02:37:44 +0000",
       "categoria": "Internacional",
       "resumen": "Donald Trump recibirá a Xi Jinping en la Casa Blanca con cena de Estado y honores. ¿lograrán frenar las tensiones comerciales y tecnológicas?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Para que más familias guatemaltecas encuentren su nuevo hogar",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/para-que-mas-familias-guatemaltecas-encuentren-su-nuevo-hogar/",
+      "fecha": "Sat, 19 Sep 2026 02:18:00 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "El corte de cinta selló simbólicamente diez ediciones de la Fiesta de la Vivienda en conjunto entre Banco Industrial, desarrolladoras y aliados del sector inmobiliario, reafirmando el compromiso de la institución por acercar alternativas de vivienda y financiamiento a las familias guatemaltecas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "OMS alerta por envejecimiento de médicos y déficit de personal sanitario para 2030",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/oms-alerta-por-envejecimiento-de-medicos-y-deficit-de-personal-sanitario-para-2030/",
+      "fecha": "Sat, 19 Sep 2026 01:19:39 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "La OMS advierte que el envejecimiento del personal de salud podría agravar la escasez de médicos y enfermeras y provocar una crisis sanitaria."
     },
     {
       "fuente": "Guatemala.com",
