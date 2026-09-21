@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-21T10:15:17.499Z",
+  "actualizado": "2026-09-21T11:14:57.274Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo la IA influye en la selección de candidatos: 5 novedades que debes conocer antes de postularte a un empleo",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/como-la-ia-influye-en-la-seleccion-de-candidatos-5-novedades-que-debes-conocer-antes-de-postularte-a-un-empleo/",
+      "fecha": "Mon, 21 Sep 2026 11:06:22 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La inteligencia artificial tiene cada vez más protagonismo en el mercado laboral. Te contamos lo que debes saber a la hora de buscar empleo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Muere a los 27 años Presley Gerber, hijo de la modelo Cindy Crawford",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/muere-a-los-27-anos-presley-gerber-hijo-de-la-modelo-cindy-crawford/",
+      "fecha": "Mon, 21 Sep 2026 11:00:39 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La familia del joven modelo pidió privacidad durante este \"momento muy difícil y doloroso\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Analistas cuestionan señalamientos y respaldos de candidatos a contralor general de Cuentas",
+      "link": "https://www.prensalibre.com/guatemala/politica/analistas-cuestionan-senalamientos-y-respaldos-de-candidatos-a-contralor-general-de-cuentas/",
+      "fecha": "Mon, 21 Sep 2026 11:00:00 +0000",
+      "categoria": "Política",
+      "resumen": "Tres aspirantes llegaron a la nómina para la Contraloría General de Cuentas con señalamientos no desvanecidos, una condición que no los excluye del proceso, pero generó críticas entre los analistas consultados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Agricultores de Guatemala podrían acceder a tecnología y capacitación de Estados Unidos",
+      "link": "https://www.prensalibre.com/economia/agricultores-de-guatemala-podrian-acceder-a-tecnologia-y-capacitacion-de-estados-unidos/",
+      "fecha": "Mon, 21 Sep 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Guatemala podría vincularse con NASDA, organización que representa a los departamentos de Agricultura de los 50 estados de Estados Unidos, para intercambiar tecnología, capacitación y experiencias agrícolas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "CIV proyecta atender 2 mil 300 km de red vial, pero expertos advierten déficit en cobertura actual",
+      "link": "https://www.prensalibre.com/guatemala/politica/civ-proyecta-atender-2-mil-300-km-de-red-vial-pero-expertos-advierten-deficit-en-cobertura-actual/",
+      "fecha": "Mon, 21 Sep 2026 11:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Ministerio de Comunicaciones, Infraestructura y Vivienda (CIV) tiene como meta atender más de 2 mil 300 kilómetros de la red vial durante la actual gestión; sin embargo, expertos consideran que persiste un déficit de cobertura y ponen en duda que se alcance lo proyectado."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Guatemala paga 40.8% más por importar hidrocarburos en el 2026, qué elevó el costo",
@@ -769,46 +809,6 @@
       "fecha": "Sat, 19 Sep 2026 06:10:00 +0000",
       "categoria": "Economía",
       "resumen": "Una pérdida estimada de Q3 mil 430 millones en la recaudación tributaria sería el efecto de las iniciativas de ley que plantean suspender dos impuestos que gravan el consumo de derivados del petróleo durante el cuarto trimestre del año, según una fuente oficial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La caleta",
-      "link": "https://www.prensalibre.com/opinion/caricatura/la-caleta/",
-      "fecha": "Sat, 19 Sep 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Llegó la hora cero de la postuladora de contralor",
-      "link": "https://www.prensalibre.com/opinion/editorial/llego-la-hora-cero-de-la-postuladora-de-contralor/",
-      "fecha": "Sat, 19 Sep 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Es clave que los postuladores, lejos de amedrentarse, hagan públicas las intimidaciones y fortalezcan sus criterios de integridad para seleccionar los mejores perfiles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Al niño se le debe capacitar y no aprovecharlo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/al-nino-se-le-debe-capacitar-y-no-aprovecharlo/",
-      "fecha": "Sat, 19 Sep 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Los niños están con nosotros no porque pidieron, por ello mismo debemos de invertir en sus vidas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Republicanos ignoran en gran medida los consejos de Trump para las elecciones de medio término",
-      "link": "https://www.prensalibre.com/internacional/republicanos-ignoran-en-gran-medida-los-consejos-de-trump-para-las-elecciones-de-medio-termino/",
-      "fecha": "Sat, 19 Sep 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Donald Trump pidió a los republicanos hacer campaña con su figura y ofrecer US$5 mil: muchos candidatos no lo están haciendo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Mal de ojo? Nunca es tarde: curarse para hacer Patria",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/mal-de-ojo-nunca-es-tarde-curarse-para-hacer-patria/",
-      "fecha": "Sat, 19 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "En la convivencia nacional siempre será tarea pendiente la superación de ese “mal de ojo”."
     },
     {
       "fuente": "Guatemala.com",
