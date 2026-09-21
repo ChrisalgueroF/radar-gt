@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-21T04:15:44.214Z",
+  "actualizado": "2026-09-21T05:15:10.676Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una alerta de 4 minutos no basta: la nueva e incesante táctica de bombardeos de Rusia que está agotando a los habitantes de Kyiv",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-alerta-de-4-minutos-no-basta-la-nueva-e-incesante-tactica-de-bombardeos-de-rusia-que-esta-agotando-a-los-habitantes-de-kyiv/",
+      "fecha": "Mon, 21 Sep 2026 04:41:50 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Desde hace meses, la capital ucraniana viene sufriendo ataques cada vez más frecuentes y feroces."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Suchitepéquez deja escapar la victoria y empata 2-2 con Xelajú en el Carlos Salazar Hijo",
@@ -801,14 +809,6 @@
       "fecha": "Sat, 19 Sep 2026 02:37:44 +0000",
       "categoria": "Internacional",
       "resumen": "Donald Trump recibirá a Xi Jinping en la Casa Blanca con cena de Estado y honores. ¿lograrán frenar las tensiones comerciales y tecnológicas?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Para que más familias guatemaltecas encuentren su nuevo hogar",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/para-que-mas-familias-guatemaltecas-encuentren-su-nuevo-hogar/",
-      "fecha": "Sat, 19 Sep 2026 02:18:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "El corte de cinta selló simbólicamente diez ediciones de la Fiesta de la Vivienda en conjunto entre Banco Industrial, desarrolladoras y aliados del sector inmobiliario, reafirmando el compromiso de la institución por acercar alternativas de vivienda y financiamiento a las familias guatemaltecas."
     },
     {
       "fuente": "Guatemala.com",
