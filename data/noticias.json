@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-21T01:14:18.422Z",
+  "actualizado": "2026-09-21T02:15:07.870Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Caída global de Facebook e Instagram? Usuarios reportan fallas de redes este 20 de septiembre",
+      "link": "https://www.prensalibre.com/internacional/caida-global-de-facebook-e-instagram-usuarios-reportan-fallas-de-redes-este-20-de-septiembre-breaking/",
+      "fecha": "Mon, 21 Sep 2026 01:34:01 +0000",
+      "categoria": "Internacional",
+      "resumen": "Usuarios en redes han reportado fallas a nivel global para acceder a las plataformas de Facebook e Instagram este 20 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Shakira recibe a Laura Pausini en su Macondo Park en España",
+      "link": "https://www.prensalibre.com/vida/escenario/shakira-recibe-a-laura-pausini-en-su-macondo-park-en-espana/",
+      "fecha": "Mon, 21 Sep 2026 01:15:59 +0000",
+      "categoria": "Escenario",
+      "resumen": "En la tercera noche de la residencia de la cantante colombiana en Madrid, la sorpresa principal fue la presencia de la cantautora italiana sobre el escenario."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Angélica María y Angélica Vale visitan la Parroquia de Nuestra Señora de Candelaria en Guatemala",
@@ -68,7 +84,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Suchitepéquez vs. Xelajú MC: se retrasa el partido por fuertes lluvias en el Carlos Salazar Hijo",
+      "titulo": "EN VIVO &#124; Suchitepéquez vs. Xelajú MC: siga el minuto a minuto de la décima jornada del Apertura 2026",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-suchitepequez-vs-xelaju-mc-siga-el-minuto-a-minuto-de-la-decima-jornada-del-apertura-2026-breaking/",
       "fecha": "Sun, 20 Sep 2026 22:00:00 +0000",
       "categoria": "Fútbol Nacional",
@@ -793,22 +809,6 @@
       "fecha": "Sat, 19 Sep 2026 02:37:44 +0000",
       "categoria": "Internacional",
       "resumen": "Donald Trump recibirá a Xi Jinping en la Casa Blanca con cena de Estado y honores. ¿lograrán frenar las tensiones comerciales y tecnológicas?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Para que más familias guatemaltecas encuentren su nuevo hogar",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/para-que-mas-familias-guatemaltecas-encuentren-su-nuevo-hogar/",
-      "fecha": "Sat, 19 Sep 2026 02:18:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "El corte de cinta selló simbólicamente diez ediciones de la Fiesta de la Vivienda en conjunto entre Banco Industrial, desarrolladoras y aliados del sector inmobiliario, reafirmando el compromiso de la institución por acercar alternativas de vivienda y financiamiento a las familias guatemaltecas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "OMS alerta por envejecimiento de médicos y déficit de personal sanitario para 2030",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/oms-alerta-por-envejecimiento-de-medicos-y-deficit-de-personal-sanitario-para-2030/",
-      "fecha": "Sat, 19 Sep 2026 01:19:39 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "La OMS advierte que el envejecimiento del personal de salud podría agravar la escasez de médicos y enfermeras y provocar una crisis sanitaria."
     },
     {
       "fuente": "Guatemala.com",
