@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-21T15:13:54.823Z",
+  "actualizado": "2026-09-21T16:15:54.325Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Lluvias y temperaturas de hasta 39°C se harán presentes del 21 al 25 de septiembre en Guatemala",
+      "link": "https://www.guatemala.com/noticias/comunidad/pronostico-semanal-clima-en-guatemala-21-al-25-septiembre-2026.html",
+      "fecha": "Mon, 21 Sep 2026 15:55:26 +0000",
+      "categoria": "Comunidad",
+      "resumen": "El Insivumeh anticipa lluvias y ambiente cálido en Guatemala del 21 al 25 de septiembre de 2026. Lee el pronóstico del clima completo acá.\nThe post Lluvias y temperaturas de hasta 39°C se harán presentes del 21 al 25 de septiembre en Guatemala appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La magia de Messi no se detiene: así fue el golazo de tiro libre y su tanto 101 con el Inter Miami",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/messi-golazo-tiro-libre-gol-101-inter-miami-san-diego-breaking/",
+      "fecha": "Mon, 21 Sep 2026 15:15:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El argentino marcó un espectacular tiro libre que golpeó en el poste antes de terminar en la portería durante el empate 2-2 frente al San Diego."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lluvias en Guatemala: Insivumeh pronostica posibles tormentas locales severas esta semana",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-en-guatemala-insivumeh-pronostica-posibles-tormentas-locales-severas-esta-semana-breaking/",
+      "fecha": "Mon, 21 Sep 2026 15:02:38 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La entrada de humedad, las altas temperaturas y el paso o acercamiento de ondas del este traerán lluvias a Guatemala del 21 al 25 de septiembre."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Mujer es detenida por la muerte de su sobrina, cuyo cadáver fue localizado en una carretera",
@@ -28,7 +52,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Alerta permite capturar a señalado de la muerte de su progenitora en Escuintla",
+      "titulo": "Capturan a “Psicópata” por ser presunto responsable de la muerte de su madre",
       "link": "https://www.prensalibre.com/guatemala/justicia/alerta-permite-capturar-a-senalado-de-la-muerte-de-su-progenitora-en-escuintla-breaking/",
       "fecha": "Mon, 21 Sep 2026 13:20:33 +0000",
       "categoria": "Justicia",
@@ -795,22 +819,6 @@
       "resumen": "Los cremas cayeron 2-1 ante Guastatoya en el Estadio Cementos Progreso. Al finalizar el partido, varios aficionados superaron la seguridad y llegaron hasta los camerinos para increpar a jugadores y cuerpo técnico."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Condenan a Uber a pagar US$40 millones a la familia de una joven que murió en California después de que un conductor la abandonara en la autopista",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/condenan-a-uber-a-pagar-us40-millones-a-la-familia-de-una-joven-que-murio-en-california-despues-de-que-un-conductor-la-abandonara-en-la-autopista-2/",
-      "fecha": "Sat, 19 Sep 2026 14:53:35 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La joven de 23 años regresaba a casa con una amiga que vomitó en el vehículo, por lo que el conductor de Uber les ordenó que se bajaran en plena autopista."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La madre que se volvió viral por correr descalza (y ganar) una carrera para poder comprar los útiles escolares de su hija",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-madre-que-se-volvio-viral-por-correr-descalza-y-ganar-una-carrera-para-poder-comprar-los-utiles-escolares-de-su-hija/",
-      "fecha": "Sat, 19 Sep 2026 14:01:40 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La hazaña de esta mujer de 47 años ha contribuido a avivar las críticas a la situación económica y educativa del país."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Acciones que caracterizan a todo guatemalteco Buena Gente",
       "link": "https://www.guatemala.com/noticias/sociedad/ciudad-guatemala-ciudad-guatemaltecos-buena-gente.html",
@@ -865,14 +873,6 @@
       "fecha": "Wed, 16 Sep 2026 19:05:43 +0000",
       "categoria": "Sociedad",
       "resumen": "Producciones cinematográficas de Guatemala destacarán en Cinélatino 2027, un festival francés que celebra el cine latinoamericano.\nThe post Guatemala será el país invitado de un festival de cine latinoamericano en Francia appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Proyecto creado por niños guatemaltecos acerca el espacio a personas con discapacidad auditiva",
-      "link": "https://www.guatemala.com/noticias/sociedad/universo-inclusivo-proyecto-acerca-astronomia-personas-discapacidad-auditiva-guatemala.html",
-      "fecha": "Wed, 16 Sep 2026 16:49:31 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Universo Inclusivo es una plataforma gratuita que facilita la participación de personas con discapacidad auditiva en observaciones astronómicas. \nThe post Proyecto creado por niños guatemaltecos acerca el espacio a personas con discapacidad auditiva appeared first on Guatemala.com."
     }
   ]
 }
