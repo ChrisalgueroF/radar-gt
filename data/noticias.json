@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-21T11:14:57.274Z",
+  "actualizado": "2026-09-21T12:18:31.953Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué necesitamos tener &#8220;mejores amigos&#8221;?",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/por-que-necesitamos-tener-mejores-amigos/",
+      "fecha": "Mon, 21 Sep 2026 12:00:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "La complicidad que se convierte en cariño incondicional entre dos personas repercute en su bienestar general, la longevidad y la calidad de vida durante el envejecimiento."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Cómo la IA influye en la selección de candidatos: 5 novedades que debes conocer antes de postularte a un empleo",
@@ -801,14 +809,6 @@
       "fecha": "Sat, 19 Sep 2026 06:11:00 +0000",
       "categoria": "Comunitario",
       "resumen": "Instituciones públicas piden Q19,792.63 millones para atender la inseguridad alimentaria y desnutrición en el 2027. El 35.9% de los asignaciones requeridas se concentran en el CIV y el Mides."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Combustibles en Guatemala: cuánto perdería el fisco si se suspenden IVA e IDP",
-      "link": "https://www.prensalibre.com/economia/combustibles-en-guatemala-cuanto-perderia-el-fisco-si-se-suspenden-iva-e-idp/",
-      "fecha": "Sat, 19 Sep 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Una pérdida estimada de Q3 mil 430 millones en la recaudación tributaria sería el efecto de las iniciativas de ley que plantean suspender dos impuestos que gravan el consumo de derivados del petróleo durante el cuarto trimestre del año, según una fuente oficial."
     },
     {
       "fuente": "Guatemala.com",
