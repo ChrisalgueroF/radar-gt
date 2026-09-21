@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-21T14:15:17.767Z",
+  "actualizado": "2026-09-21T15:13:54.823Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mujer es detenida por la muerte de su sobrina, cuyo cadáver fue localizado en una carretera",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mujer-es-detenida-por-la-muerte-de-su-sobrina-cuyo-cadaver-fue-localizado-en-una-carretera-breaking/",
+      "fecha": "Mon, 21 Sep 2026 14:17:28 +0000",
+      "categoria": "Justicia",
+      "resumen": "Capturan en Salamá, Baja Verapaz, a sospechosa de la muerte de su sobrina, por quien estaba activa una alerta Isabel-Claudina."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala vs. Jamaica: la Selección debuta en la Liga de Naciones tras el 3-0 de la eliminatoria en Kingston",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-jamaica-debut-liga-naciones-concacaf-kingston-breaking/",
+      "fecha": "Mon, 21 Sep 2026 14:09:16 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El combinado nacional se reencontrará con un rival que lo derrotó 3-0 en la eliminatoria de 2025, aunque después logró vencerlo en la Copa Oro."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Siete heridos tras accidente en la ruta Interamericana: dos carriles permanecen cerrados",
@@ -793,22 +809,6 @@
       "fecha": "Sat, 19 Sep 2026 14:01:40 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La hazaña de esta mujer de 47 años ha contribuido a avivar las críticas a la situación económica y educativa del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Allanamientos en la Usac: MP confirma secuestro de evidencia y universidad niega ejecución de diligencias",
-      "link": "https://www.prensalibre.com/guatemala/justicia/allanamientos-en-la-usac-mp-confirma-secuestro-de-evidencia-y-universidad-niega-ejecucion-de-diligencias-breaking/",
-      "fecha": "Sat, 19 Sep 2026 13:33:38 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ministerio Público califica de positivas las operaciones en la casa de estudios; universidad dice que estas no se efecutaron por incumplimiento de requisitos legales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Así avanza la remodelación del Irtra Agua Caliente: teleférico podría estar listo en tres meses",
-      "link": "https://www.prensalibre.com/economia/asi-avanza-la-remodelacion-del-irtra-agua-caliente-teleferico-podria-estar-listo-en-tres-meses/",
-      "fecha": "Sat, 19 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El Irtra invierte US$44 millones en la renovación de Agua Caliente, un proyecto que incluye nuevas atracciones acuáticas y recreativas, hotel, restaurante y teleférico. La modernización refleja avances y podrían estar listas a finales de este año."
     },
     {
       "fuente": "Guatemala.com",
