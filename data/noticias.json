@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-21T22:14:49.266Z",
+  "actualizado": "2026-09-21T23:14:12.087Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "No llegaron al altar: Daniel y Angélica mueren un día antes de su boda y son sepultados vestidos de novios",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/no-llegaron-al-altar-daniel-y-angelica-mueren-un-dia-antes-de-su-boda-y-son-sepultados-vestidos-de-novios-breaking/",
+      "fecha": "Mon, 21 Sep 2026 22:51:18 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Daniel Enrique Grande Brand y Angélica Gabriela García Estrada fueron inhumados con los trajes que habían preparado para su boda, luego de morir en un accidente un día antes de casarse."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Shakira en Madrid: así fueron los primeros conciertos de su residencia",
+      "link": "https://www.prensalibre.com/vida/escenario/shakira-en-madrid-asi-fueron-los-primeros-conciertos-de-su-residencia/",
+      "fecha": "Mon, 21 Sep 2026 22:36:43 +0000",
+      "categoria": "Escenario",
+      "resumen": "Shakira reunió a unos 165 mil fanáticos en Madrid durante los primeros tres conciertos de la residencia con la que cerrará su gira “Las Mujeres Ya No Lloran World Tour”."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala brilla en gimnasia artística con 14 medallas en el Campeonato Centroamericano y del Caribe",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/guatemala-brilla-en-gimnasia-artistica-con-14-medallas-en-el-campeonato-centroamericano-y-del-caribe-breaking/",
+      "fecha": "Mon, 21 Sep 2026 22:16:04 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La delegación nacional tuvo una sobresaliente actuación en El Salvador, donde confirmó su nivel regional con siete títulos, cinco platas y dos bronces."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así cuestionó Bill Gates a Donald Trump por su postura sobre la IA",
+      "link": "https://www.prensalibre.com/internacional/asi-cuestiono-bill-gates-a-donald-trump-por-su-postura-sobre-la-ia/",
+      "fecha": "Mon, 21 Sep 2026 21:48:41 +0000",
+      "categoria": "Internacional",
+      "resumen": "El cofundador de Microsoft cuestionó la postura del mandatario estadounidense sobre la inteligencia artificial y advirtió sobre la rapidez con la que esta tecnología está transformando el mundo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Carlos Rivera anuncia nueva fecha de “Vida México Tour”: ¿Por qué pospuso su concierto en Guatemala?",
@@ -25,6 +57,14 @@
       "fecha": "Mon, 21 Sep 2026 21:03:00 +0000",
       "categoria": "Escenario",
       "resumen": "Videos difundidos en redes sociales muestran el momento en que Brad Pitt se encuentra con cientos de fanáticos que lo esperaban a las afueras de su hotel."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Periodista de Perú &#8220;China Polo&#8221; es asesinada durante una actividad y qué han revelado las autoridades",
+      "link": "https://www.prensalibre.com/internacional/periodista-de-peru-china-polo-es-asesinada-durante-una-actividad-y-que-han-revelado-las-autoridades/",
+      "fecha": "Mon, 21 Sep 2026 21:01:29 +0000",
+      "categoria": "Internacional",
+      "resumen": "La periodista y candidata peruana \"China Polo\" fue asesinada el pasado 19 de septiembre mientras hablaba frente a una cámara para redes sociales."
     },
     {
       "fuente": "Prensa Libre",
@@ -73,6 +113,14 @@
       "fecha": "Mon, 21 Sep 2026 20:30:00 +0000",
       "categoria": "Escenario",
       "resumen": "En uno de sus últimos mensajes en redes sociales, Presley Gerber habló de su lucha contra la adicción y compartió un video en el que mostró parte de su proceso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Colt M4A1: qué características tienen los fusiles que Guatemala le compró a Estados Unidos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/colt-m4a1-que-caracteristicas-tienen-los-fusiles-que-guatemala-le-compro-a-estados-unidos/",
+      "fecha": "Mon, 21 Sep 2026 20:14:16 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Ligera, compacta y con un alcance efectivo de hasta 500 metros, la Colt M4A1 es la carabina que Guatemala comenzó a incorporar al equipamiento del Ejército."
     },
     {
       "fuente": "Prensa Libre",
@@ -761,54 +809,6 @@
       "fecha": "Sun, 20 Sep 2026 12:00:00 +0000",
       "categoria": "Guatemala",
       "resumen": "Senacyt prevé completar este año una estrategia gubernamental de inteligencia artificial y avanzar en el 2027 hacia una política nacional que defina su conducción institucional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién debe poner límites a la inteligencia artificial? Empresas y gobiernos debaten cómo supervisarla",
-      "link": "https://www.prensalibre.com/guatemala/quien-debe-poner-limites-a-la-inteligencia-artificial-empresas-y-gobiernos-debaten-como-supervisarla/",
-      "fecha": "Sun, 20 Sep 2026 12:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Laboratorios tecnológicos abren sus modelos a evaluaciones externas mientras expertos y gobiernos discuten qué controles necesitan sistemas cada vez más capaces."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El día que la IA superó la ficción: qué está pasando con esta tecnología y por qué es necesario hacer una pausa",
-      "link": "https://www.prensalibre.com/vida/tecnologia/el-dia-que-la-ia-supero-la-ficcion-que-esta-pasando-con-esta-tecnologia-y-por-que-es-necesario-hacer-una-pausa/",
-      "fecha": "Sun, 20 Sep 2026 12:00:00 +0000",
-      "categoria": "Tecnología",
-      "resumen": "La inteligencia artificial avanza a una velocidad que comienza a generar miedo genuino por sus capacidades y sus riesgos y lo que podría significar para la humanidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presión",
-      "link": "https://www.prensalibre.com/opinion/caricatura/presion-2/",
-      "fecha": "Sun, 20 Sep 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "IA requiere inteligencia",
-      "link": "https://www.prensalibre.com/opinion/editorial/ia-requiere-inteligencia/",
-      "fecha": "Sun, 20 Sep 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Ahora que el diálogo sobre sus alcances y riesgos ha ganado fuerza, lo más importante es cultivar con más ahínco la inteligencia infantil y juvenil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Chauvinismo en el Ministerio de Educación?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/chauvinismo-en-el-ministerio-de-educacion/",
-      "fecha": "Sun, 20 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Conociendo que Guatemala ingresaba formalmente a la prueba Pisa a partir del 2014, tomé la iniciativa de promover un acercamiento entre Finlandia y Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuando el crimen vigila al Estado",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/cuando-el-crimen-vigila-al-estado/",
-      "fecha": "Sun, 20 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "¿Quién controla realmente el territorio? En una democracia solo puede haber una respuesta: el Estado, dentro de la ley y al servicio del ciudadano"
     },
     {
       "fuente": "Guatemala.com",
