@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-21T03:15:44.273Z",
+  "actualizado": "2026-09-21T04:15:44.214Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Suchitepéquez deja escapar la victoria y empata 2-2 con Xelajú en el Carlos Salazar Hijo",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/suchitepequez-deja-escapar-la-victoria-y-empata-2-2-con-xelaju-en-el-carlos-salazar-hijo-breaking/",
+      "fecha": "Mon, 21 Sep 2026 03:11:16 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El primer tiempo concentró los cuatro goles del encuentro, incluidos dos de Armando Zamorano para Suchitepéquez, mientras que la expulsión de Elmer Cardoza obligó a Xelajú a jugar con diez en el complemento."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Malacateco aprovecha dos expulsiones de Mixco y se impone 1-0 con gol de José Ochoa",
@@ -801,14 +809,6 @@
       "fecha": "Sat, 19 Sep 2026 02:18:00 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "El corte de cinta selló simbólicamente diez ediciones de la Fiesta de la Vivienda en conjunto entre Banco Industrial, desarrolladoras y aliados del sector inmobiliario, reafirmando el compromiso de la institución por acercar alternativas de vivienda y financiamiento a las familias guatemaltecas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "OMS alerta por envejecimiento de médicos y déficit de personal sanitario para 2030",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/oms-alerta-por-envejecimiento-de-medicos-y-deficit-de-personal-sanitario-para-2030/",
-      "fecha": "Sat, 19 Sep 2026 01:19:39 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "La OMS advierte que el envejecimiento del personal de salud podría agravar la escasez de médicos y enfermeras y provocar una crisis sanitaria."
     },
     {
       "fuente": "Guatemala.com",
