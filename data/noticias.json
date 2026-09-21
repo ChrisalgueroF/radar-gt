@@ -1,7 +1,103 @@
 {
-  "actualizado": "2026-09-21T05:15:10.676Z",
+  "actualizado": "2026-09-21T06:21:55.131Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala paga 40.8% más por importar hidrocarburos en el 2026, qué elevó el costo",
+      "link": "https://www.prensalibre.com/economia/factura-petrolera-para-guatemala-por-importacion-de-hidrocarburos-sube-40-8-hasta-julio-del-2026/",
+      "fecha": "Mon, 21 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Conflictos geopolíticos elevan factura petrolera de Guatemala por importación de hidrocarburos por US$3 mil 599 millones en siete meses, alza en diésel uno de los principales, le siguen las gasolinas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pruebas Pisa: uno de cada tres estudiantes guatemaltecos carece de acceso a recreación y actividades sociales",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/pruebas-pisa-uno-de-cada-tres-estudiantes-guatemaltecos-carece-de-acceso-a-recreacion-y-actividades-sociales/",
+      "fecha": "Mon, 21 Sep 2026 06:10:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Las pruebas Pisa 2025 también miden factores que inciden en el desempeño de los estudiantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Noticias de la Casa Blanca",
+      "link": "https://www.prensalibre.com/opinion/caricatura/noticias-de-la-casa-blanca/",
+      "fecha": "Mon, 21 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Congreso busca contralor para un año electorero",
+      "link": "https://www.prensalibre.com/opinion/editorial/congreso-busca-contralor-para-un-ano-electorero/",
+      "fecha": "Mon, 21 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "La nómina pasa a manos del Congreso, y de ahí saldrá el siguiente titular de la Contraloría General de Cuentas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los US$1.4 mil millones de Trump en criptomonedas complican la batalla del sector por nuevas reglas",
+      "link": "https://www.prensalibre.com/internacional/los-us1-4-mil-millones-de-trump-en-criptomonedas-complican-la-batalla-del-sector-por-nuevas-reglas/",
+      "fecha": "Mon, 21 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "El fracaso de la Ley de Claridad expone la otra cara de la alianza del sector con Trump, mientras sus negocios con criptomonedas alimentan el debate sobre conflictos de interés."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Niveles de interés sobre el lenguaje de la Política",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/niveles-de-interes-sobre-el-lenguaje-de-la-politica/",
+      "fecha": "Mon, 21 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El conocimiento del idioma aplicable a todos los temas, en este caso la política, es un instrumento cuya ausencia inicia el camino a estas desviaciones democráticas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Seamos serios",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/seamos-serios/",
+      "fecha": "Mon, 21 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Los subsidios no funcionarán ante una escalada global de precios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salvar la educación",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/salvar-la-educacion/",
+      "fecha": "Mon, 21 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Nuestro país enfrenta el doble reto de ofrecer educación para todos y lograr que aprendan."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lo que se pide vs. lo que se ofrece",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/lo-que-se-pide-vs-lo-que-se-ofrece/",
+      "fecha": "Mon, 21 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Ante el primer pedido de apoyo de la ciudadanía, el Gobierno optó por un subsidio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy lunes 21 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-21-de-septiembre-de-2026/",
+      "fecha": "Mon, 21 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Constancia transitoria de inexistencia de cargos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/constancia-transitoria-de-inexistencia-de-cargos/",
+      "fecha": "Mon, 21 Sep 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La CTIRC es un documento que acredita que una persona que ha desempeñado un cargo público no tiene reclamaciones o juicios pendientes derivados de esos cargos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Licencias de construcción: Ventanilla Ágil venció en agosto y renovación de convenio está pendiente",
+      "link": "https://www.prensalibre.com/economia/licencias-de-construccion-ventanilla-agil-vencio-en-agosto-y-renovacion-de-convenio-esta-pendiente/",
+      "fecha": "Mon, 21 Sep 2026 06:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Pese a reducciones de hasta el 54% en los tiempos para obtener licencias de construcción, el convenio que permite la operación de la Ventanilla Ágil de la Construcción (VAC) no ha sido renovado desde su vencimiento, el mes pasado."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Una alerta de 4 minutos no basta: la nueva e incesante táctica de bombardeos de Rusia que está agotando a los habitantes de Kyiv",
@@ -713,102 +809,6 @@
       "fecha": "Sat, 19 Sep 2026 06:04:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "En la convivencia nacional siempre será tarea pendiente la superación de ese “mal de ojo”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La independencia que ganamos y la unión que perdimos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-independencia-que-ganamos-y-la-union-que-perdimos/",
-      "fecha": "Sat, 19 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Quizás la respuesta sea aprender de los errores que destruyeron la Federación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nuevo aniversario de Independencia, nuevas falencias públicas",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/nuevo-aniversario-de-independencia-nuevas-falencias-publicas/",
-      "fecha": "Sat, 19 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Hoy lo sabemos, el Poder Ejecutivo opera con los otros dos literalmente en contra; su margen de acción es limitado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El agua que enferma",
-      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/el-agua-que-enferma/",
-      "fecha": "Sat, 19 Sep 2026 06:01:00 +0000",
-      "categoria": "Plumas invitadas",
-      "resumen": "Ríos contaminados, una deuda de décadas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Analistas plantean planes de austeridad y eliminación de impuestos ante el alza en los combustibles",
-      "link": "https://www.prensalibre.com/guatemala/politica/analistas-plantean-planes-de-austeridad-y-eliminacion-de-impuestos-ante-el-alza-en-los-combustibles/",
-      "fecha": "Sat, 19 Sep 2026 06:01:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Mientras los precios de los combustibles continúan al alza, analistas plantean que el Ejecutivo adopte medidas para reducir el impacto en los guatemaltecos y el Congreso se prepara para discutir las objeciones al decreto 21-2026, que establece precios de referencia para las gasolinas y el diésel."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy sábado 19 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-19-de-septiembre-de-2026/",
-      "fecha": "Sat, 19 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La historia detrás del acero que construye Guatemala",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-historia-detras-del-acero-que-construye-guatemala/",
-      "fecha": "Sat, 19 Sep 2026 05:00:54 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Bajo el concepto “El comienzo después del final”, Grupo AG le da una segunda oportunidad a materiales que ya cumplieron su vida útil y regresan a la cadena industrial para fabricar nuevos productos de acero."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El grupo que lavaba cientos de millones de euros para criminales usando un sistema financiero con siglos de historia",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-grupo-que-lavaba-cientos-de-millones-de-euros-para-criminales-usando-un-sistema-financiero-con-siglos-de-historia/",
-      "fecha": "Sat, 19 Sep 2026 05:00:13 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los blanqueadores de dinero organizaban transferencias de efectivo en todo el mundo sin dejar rastro documental."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comunicaciones vuelve a caer: Guastatoya agrava la crisis crema y suma seis partidos sin ganar",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-vuelve-a-caer-guastatoya-agrava-la-crisis-crema-y-suma-seis-partidos-sin-ganar-breaking/",
-      "fecha": "Sat, 19 Sep 2026 04:02:13 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Comunicaciones volvió a quedar en deuda y confirmó que el cambio de entrenador todavía no logra transformar la realidad de un equipo que sigue sin carburar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Contaminación en río Las Vacas: identifican empresa por coloración rojiza y suspenden sus operaciones",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/contaminacion-en-rio-las-vacas-identifican-empresa-por-coloracion-rojiza-y-suspenden-sus-operaciones/",
-      "fecha": "Sat, 19 Sep 2026 03:05:37 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La investigación por la coloración rojiza del río Las Vacas llevó a las autoridades hasta drenajes cercanos a una empresa de la zona 5."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rey Carlos III reacciona a libro del hermano de Lady Di que revela supuesta conversación: “El dolor puede nublar el juicio”",
-      "link": "https://www.prensalibre.com/vida/escenario/rey-carlos-iii-reacciona-a-libro-del-hermano-de-lady-di-que-revela-supuesta-conversacion-el-dolor-puede-nublar-el-juicio/",
-      "fecha": "Sat, 19 Sep 2026 02:54:29 +0000",
-      "categoria": "Escenario",
-      "resumen": "El hermano de Diana de Gales reveló que, tras su muerte, el entonces príncipe Carlos dijo: “La olvidaremos muy pronto”. Así reaccionó el monarca a la publicación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Un machete puede ser un arma letal”: el riesgo detrás de una pelea vial en zona 10 que escaló con amenazas",
-      "link": "https://www.prensalibre.com/guatemala/un-machete-puede-ser-un-arma-letal-el-riesgo-detras-de-una-pelea-vial-en-zona-10-que-escalo-con-amenazas/",
-      "fecha": "Sat, 19 Sep 2026 02:39:15 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Un hombre descendió de un camión recolector de basura con un machete durante una discusión con un motorista en la zona 10 capitalina, incidente que quedó grabado en video."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cumbre en Washington: Donald Trump recibirá a Xi Jinping al pie del avión durante visita de Estado",
-      "link": "https://www.prensalibre.com/internacional/cumbre-en-washington-donald-trump-recibira-a-xi-jinping-al-pie-del-avion-durante-visita-de-estado/",
-      "fecha": "Sat, 19 Sep 2026 02:37:44 +0000",
-      "categoria": "Internacional",
-      "resumen": "Donald Trump recibirá a Xi Jinping en la Casa Blanca con cena de Estado y honores. ¿lograrán frenar las tensiones comerciales y tecnológicas?"
     },
     {
       "fuente": "Guatemala.com",
