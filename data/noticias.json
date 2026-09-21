@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-20T23:14:05.244Z",
+  "actualizado": "2026-09-21T00:21:32.562Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué se enojó Shakira durante su primer concierto en Madrid?",
+      "link": "https://www.prensalibre.com/vida/escenario/por-que-se-enojo-shakira-durante-su-primer-concierto-en-madrid/",
+      "fecha": "Sun, 20 Sep 2026 23:43:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Durante la primera presentación de su residencia en Madrid, la cantante colombiana hizo gestos que indicaban que algo no iba como ella quería."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alux Nahual recibe las Llaves de la Ciudad de Providence, Rhode Island, por su aporte a la cultura en la comunidad centroamericana",
+      "link": "https://www.prensalibre.com/vida/escenario/alux-nahual-recibe-las-llaves-de-la-ciudad-de-providence-rhode-island-por-su-aporte-a-la-cultura-en-la-comunidad-centroamericana/",
+      "fecha": "Sun, 20 Sep 2026 23:29:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La banda guatemalteca Alux Nahual recibió una distinción en Providence, Rhode Island, EE. UU., por su aporte a la cultura en una ciudad donde guatemaltecos residen y contribuyen al desarrollo de su comunidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "AeroMetro Línea 1: dónde quedarán las estaciones y qué lugares tendrán cerca",
+      "link": "https://www.prensalibre.com/economia/aerometro-linea-1-donde-quedaran-las-estaciones-y-que-lugares-tendran-cerca/",
+      "fecha": "Sun, 20 Sep 2026 23:25:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Conozca dónde estarán las cuatro estaciones del AeroMetro Línea 1, qué lugares tendrán cerca, su recorrido, tarifa y fecha prevista de finalización."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "Angélica María y Angélica Vale visitaron una reconocida parroquia en Guatemala, 2026",
@@ -28,11 +52,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Suchitepéquez vs. Xelajú MC: siga el minuto a minuto de la décima jornada del Apertura 2026",
+      "titulo": "EN VIVO &#124; Suchitepéquez vs. Xelajú MC: se retrasa el partido por fuertes lluvias en el Carlos Salazar Hijo",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-suchitepequez-vs-xelaju-mc-siga-el-minuto-a-minuto-de-la-decima-jornada-del-apertura-2026-breaking/",
       "fecha": "Sun, 20 Sep 2026 22:00:00 +0000",
       "categoria": "Fútbol Nacional",
-      "resumen": "Los venados reciben a los superchivos este domingo en el estadio Carlos Salazar Hijo en un duelo donde Suchitepéquez buscará sumar su segunda victoria del torneo ante un Xelajú que llega en la séptima posición."
+      "resumen": "El encuentro programado para las 5:00 PM en el estadio Carlos Salazar Hijo de Mazatenango sufrió un retraso debido a las fuertes lluvias que cayeron sobre la región. El partido dará inicio a las 6:00 PM."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,30 +809,6 @@
       "fecha": "Sat, 19 Sep 2026 01:12:52 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Los Cremas afrontan una nueva prueba ante uno de los equipos que pelea por los primeros puestos del campeonato."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comisión define los 15 elegibles para candidatos a contralor con aspirantes tachados de poca ética y nula independencia",
-      "link": "https://www.prensalibre.com/guatemala/politica/comision-define-los-15-elegibles-para-candidatos-a-contralor-con-aspirantes-tachados-de-poca-etica-y-nula-independencia/",
-      "fecha": "Sat, 19 Sep 2026 00:59:19 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Los observadores destacan que la postuladora es de las mejores del 2026, pero que fue la que recibió menos aspirantes con excelencia profesional y moral."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump anuncia un acuerdo con Dinamarca por el que EE.UU. asumirá el &#8220;control permanente de la seguridad&#8221; de Groenlandia",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-anuncia-un-acuerdo-con-dinamarca-por-el-que-ee-uu-asumira-el-control-permanente-de-la-seguridad-de-groenlandia/",
-      "fecha": "Sat, 19 Sep 2026 00:04:59 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La noticia del acuerdo fue confirmada por la primera ministra de Dinamarca, Mette Frederiksen."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jóvenes de 18 a 25 años ganan terreno entre el público interesado en comprar vivienda en Guatemala",
-      "link": "https://www.prensalibre.com/economia/jovenes-de-18-a-25-anos-ganan-terreno-entre-el-publico-interesado-en-comprar-vivienda-en-guatemala/",
-      "fecha": "Fri, 18 Sep 2026 23:56:55 +0000",
-      "categoria": "Economía",
-      "resumen": "La participación de adultos jóvenes en ExpoCasa pasó de 8.9% en 2023 a 18.1% en 2026. Precio, cuota, enganche y crédito condicionan que el interés se convierta en una compra."
     },
     {
       "fuente": "Guatemala.com",
