@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-21T19:13:46.431Z",
+  "actualizado": "2026-09-21T20:15:08.950Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Claudia González pide que retiren la inmunidad al juez Jimi Bremer por cinco supuestos delitos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/claudia-gonzalez-pide-que-retiren-la-inmunidad-al-juez-jimi-bremer-por-cinco-supuestos-delitos-breaking/",
+      "fecha": "Mon, 21 Sep 2026 19:49:20 +0000",
+      "categoria": "Justicia",
+      "resumen": "La abogada Claudia González solicita el retiro del derecho de antejuicio contra Jimi Bremer por supuestos delitos en su caso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presidente Arévalo identifica candidatos &#8220;sólidos&#8221; para contralor general de Cuentas",
+      "link": "https://www.prensalibre.com/guatemala/politica/presidente-arevalo-identifica-candidatos-solidos-para-contralor-general-de-cuentas/",
+      "fecha": "Mon, 21 Sep 2026 19:36:45 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El presidente Bernardo Arévalo afirmó que espera que el Congreso realice una buena elección del próximo contralor general de Cuentas, luego de que la Comisión de Postulación integrara la nómina de seis candidatos para ocupar el cargo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Un día en la jungla”: la celebración del Día del Niño llega al Museo del Ferrocarril con actividades y un recorrido en tren",
+      "link": "https://www.prensalibre.com/vida/escenario/un-dia-en-la-jungla-la-celebracion-del-dia-del-nino-llega-al-museo-del-ferrocarril-con-actividades-y-un-recorrido-en-tren/",
+      "fecha": "Mon, 21 Sep 2026 19:20:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Para celebrar el Día del Niño, el Museo del Ferrocarril prepara actividades especiales y recorridos en tren para que las familias disfruten de una jornada de entretenimiento. Esto es lo que debe saber del evento."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Los ataques de EE.UU. contra embarcaciones sospechosas de traficar drogas en el Caribe y el Pacífico podrían constituir crímenes de lesa humanidad, dice la ONU",
@@ -24,7 +48,7 @@
       "link": "https://www.prensalibre.com/guatemala/justicia/les-ofrecia-trabajo-las-amenazaba-y-luego-les-apuntaba-con-un-arma-asi-operaba-el-presunto-violador-serial-en-san-jose-pinula/",
       "fecha": "Mon, 21 Sep 2026 18:31:38 +0000",
       "categoria": "Guatemala",
-      "resumen": "Un hombre de 51 años fue capturado en San José Pinula. La Policía lo sindica de agredir sexualmente a mujeres y señala que registra nueve antecedentes policiales"
+      "resumen": "Rosendo de Jesús Herrera Moguel fue ligado a proceso por violación y violación con agravación de la pena. El MP lo sindica de agredir sexualmente a tres mujeres."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,30 +817,6 @@
       "fecha": "Sat, 19 Sep 2026 22:02:44 +0000",
       "categoria": "Vida",
       "resumen": "Las conmemoraciones y festejos de este día son de lo más variado: Aunque algunos son serios, otros nacen con motivos comerciales o como una broma."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente múltiple deja tres muertos y tres heridos de gravedad en Escuintla",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-multiple-deja-tres-muertos-y-tres-heridos-de-gravedad-en-escuintla/",
-      "fecha": "Sat, 19 Sep 2026 21:49:36 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Al menos seis vehículos se vieron involucrados en tragico accidente en Masagua, informaron los Bomberos Voluntarios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Shakira en Madrid: Los dardos y confesiones de la cantante colombiana al volver a España",
-      "link": "https://www.prensalibre.com/vida/escenario/shakira-en-madrid-los-dardos-y-confesiones-de-la-cantante-colombiana-al-volver-a-espana/",
-      "fecha": "Sat, 19 Sep 2026 20:59:50 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante colombiana comenzó su residencia en la capital española  y lanzó comentarios que dejó pensando a muchos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video: Hat-trick de Raphinha le da al Barcelona la victoria 3-1 sobre el Sevilla en LaLiga",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-hat-trick-de-raphinha-le-dio-al-barcelona-la-victoria-3-1-sobre-el-sevilla-en-laliga-breaking/",
-      "fecha": "Sat, 19 Sep 2026 20:56:28 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Raphinha fue figura con tres goles y el Barcelona venció 3-1 al Sevilla para seguir como único equipo invicto de LaLiga 2026-27."
     },
     {
       "fuente": "Guatemala.com",
