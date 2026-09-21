@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-21T17:12:27.659Z",
+  "actualizado": "2026-09-21T18:17:12.763Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Protestas en Texas tras el disparo de un agente de ICE contra un migrante venezolano",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/protestas-en-texas-tras-el-disparo-de-un-agente-de-ice-contra-un-migrante-venezolano/",
+      "fecha": "Mon, 21 Sep 2026 17:54:41 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las protestas tuvieron lugar en Austin, después de que un repartidor venezolano fuera trasladado al hospital con una herida de bala en el torso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Afectarán a EE. UU.? Así avanzan las tormentas tropicales Fay y Odalys en el Atlántico y Pacífico",
+      "link": "https://www.prensalibre.com/internacional/afectaran-a-ee-uu-asi-avanzan-las-tormentas-tropicales-fay-y-odalys-en-el-atlantico-y-pacifico/",
+      "fecha": "Mon, 21 Sep 2026 17:05:01 +0000",
+      "categoria": "Internacional",
+      "resumen": "El NHC vigila dos tormentas tropicales que se han formado en el Atlántico y el Pacífico, además de explicar si existe riesgo de que impacten en EE. UU."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Converse retira un anuncio &#8220;profundamente perturbador&#8221; tras acusaciones de racismo",
@@ -661,6 +677,14 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Cuál es la visión de China sobre los peligros de la inteligencia artificial en plena competencia con EE.UU.",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/cual-es-la-vision-de-china-sobre-los-peligros-de-la-inteligencia-artificial-en-plena-competencia-con-ee-uu-2/",
+      "fecha": "Sun, 20 Sep 2026 04:37:41 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los esfuerzos para abordar los riesgos que plantea la IA podrían complicarse por la intensa rivalidad entre las dos principales superpotencias mundiales, China y Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuál es la visión de China sobre los peligros de la inteligencia artificial en plena competencia con EE.UU.",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/cual-es-la-vision-de-china-sobre-los-peligros-de-la-inteligencia-artificial-en-plena-competencia-con-ee-uu/",
       "fecha": "Sun, 20 Sep 2026 04:37:41 +0000",
       "categoria": "BBC News Mundo",
@@ -793,30 +817,6 @@
       "fecha": "Sat, 19 Sep 2026 17:38:59 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "El joven delantero Lamine Yamal no se guardó nada al hablar sobre las comparaciones con Mbappé, su nominación al Balón de Oro, el racismo y sus ambiciones con el FC Barcelona."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sneijder subastó sus tesoros del Mundial: del Balón de Plata de 2010 a la medalla de Brasil 2014",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/sneijder-subasto-sus-tesoros-del-mundial-del-balon-de-plata-de-2010-a-la-medalla-de-brasil-2014-breaking/",
-      "fecha": "Sat, 19 Sep 2026 17:37:52 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El histórico exjugador neerlandés subastó objetos de sus participaciones en los Mundiales. El Balón de Plata de Sudáfrica 2010 fue la pieza más codiciada, con un precio final de US$22 mil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Selección guatemalteca de ciclismo viaja a Montreal para el Mundial de Ruta 2026",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/seleccion-guatemalteca-de-ciclismo-viaja-a-montreal-para-el-mundial-de-ruta-2026-breaking/",
-      "fecha": "Sat, 19 Sep 2026 17:37:42 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Melvin Torres, Anderson Ajpacajá, Gaby Soto, Andrea Vásquez y Sofía Robles son parte de la delegación nacional que viajó a Canadá para competir en el Mundial de Ciclismo de Ruta Montreal 2026 que se disputará del 20 al 27 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Shakira se come a Madrid: &#8220;La loba&#8221; vuelve triunfante a la capital española",
-      "link": "https://www.prensalibre.com/vida/escenario/shakira-se-come-a-madrid-la-loba-vuelve-triunfante-a-la-capital-espanola/",
-      "fecha": "Sat, 19 Sep 2026 17:05:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante colombiana regresó a la capital española e impactó con música y potentes mensajes durante la primera función de su residencia."
     },
     {
       "fuente": "Guatemala.com",
