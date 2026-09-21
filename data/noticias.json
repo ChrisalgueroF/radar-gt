@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-21T00:21:32.562Z",
+  "actualizado": "2026-09-21T01:14:18.422Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Angélica María y Angélica Vale visitan la Parroquia de Nuestra Señora de Candelaria en Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/angelica-maria-y-angelica-vale-visitan-la-parroquia-de-nuestra-senora-de-candelaria-en-guatemala/",
+      "fecha": "Mon, 21 Sep 2026 00:57:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Las artistas mexicanas, que en el 2025 visitaron  a niños que apadrinan en la Antigua Guatemala, llegaron nuevamente al país este fin de semana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Malacateco vs. Mixco: siga el minuto a minuto de la décima jornada del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-malacateco-vs-mixco-siga-el-minuto-a-minuto-de-la-decima-jornada-del-apertura-2026-breaking/",
+      "fecha": "Mon, 21 Sep 2026 00:35:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los toros reciben a los chicharroneros este domingo a las 7:00 PM en el estadio Municipal Santa Lucía en el partido que cierra la décima jornada con Mixco buscando sumar para mantenerse en la pelea por los primeros lugares del torneo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Por qué se enojó Shakira durante su primer concierto en Madrid?",
@@ -56,7 +72,7 @@
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-suchitepequez-vs-xelaju-mc-siga-el-minuto-a-minuto-de-la-decima-jornada-del-apertura-2026-breaking/",
       "fecha": "Sun, 20 Sep 2026 22:00:00 +0000",
       "categoria": "Fútbol Nacional",
-      "resumen": "El encuentro programado para las 5:00 PM en el estadio Carlos Salazar Hijo de Mazatenango sufrió un retraso debido a las fuertes lluvias que cayeron sobre la región. El partido dará inicio a las 6:00 PM."
+      "resumen": "El encuentro programado para las 5:00 PM en el estadio Carlos Salazar Hijo de Mazatenango sufrió un retraso debido a las fuertes lluvias que cayeron sobre la región. El partido dará inicio a las 7:00 PM."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,22 +809,6 @@
       "fecha": "Sat, 19 Sep 2026 01:19:39 +0000",
       "categoria": "Salud y Familia",
       "resumen": "La OMS advierte que el envejecimiento del personal de salud podría agravar la escasez de médicos y enfermeras y provocar una crisis sanitaria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Masacre en la zona 6: balacera deja cuatro hombres muertos en una venta de churros",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/masacre-en-la-zona-6-balacera-deja-cuatro-hombres-muertos-en-una-venta-de-churros-breaking/",
-      "fecha": "Sat, 19 Sep 2026 01:16:07 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un ataque armado en una venta de churros dejó cuatro hombres muertos en la zona 6 de la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Comunicaciones vs. Guastatoya: los Cremas buscan salir del bache en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-comunicaciones-vs-guastatoya-los-cremas-buscan-salir-del-bache-en-el-apertura-2026-breakiing/",
-      "fecha": "Sat, 19 Sep 2026 01:12:52 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los Cremas afrontan una nueva prueba ante uno de los equipos que pelea por los primeros puestos del campeonato."
     },
     {
       "fuente": "Guatemala.com",
