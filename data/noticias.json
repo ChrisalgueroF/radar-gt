@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-21T13:14:32.741Z",
+  "actualizado": "2026-09-21T14:15:17.767Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Siete heridos tras accidente en la ruta Interamericana: dos carriles permanecen cerrados",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/siete-heridos-tras-accidente-en-la-ruta-interamericana-dos-carriles-permanecen-cerrados-breaking/",
+      "fecha": "Mon, 21 Sep 2026 13:50:53 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Siete personas heridas en colisión de microbús y automóvil en el kilómetro 44 de la ruta Interamericana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alerta permite capturar a señalado de la muerte de su progenitora en Escuintla",
+      "link": "https://www.prensalibre.com/guatemala/justicia/alerta-permite-capturar-a-senalado-de-la-muerte-de-su-progenitora-en-escuintla-breaking/",
+      "fecha": "Mon, 21 Sep 2026 13:20:33 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC informó sobre detalles de la captura de un hombre señalado de la muerte de su madre en Escuintla."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Me hubiera consumido por dentro para siempre&#8221;: las razones del exesposo de Lindsay Clancy para perdonar a la mujer acusada de matar a sus 3 hijos",
@@ -793,22 +809,6 @@
       "fecha": "Sat, 19 Sep 2026 11:00:00 +0000",
       "categoria": "Economía",
       "resumen": "El Irtra invierte US$44 millones en la renovación de Agua Caliente, un proyecto que incluye nuevas atracciones acuáticas y recreativas, hotel, restaurante y teleférico. La modernización refleja avances y podrían estar listas a finales de este año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto 2027 requiere más candados y fiscalización, según expertos",
-      "link": "https://www.prensalibre.com/guatemala/politica/presupuesto-2027-requiere-mas-candados-y-fiscalizacion-segun-expertos/",
-      "fecha": "Sat, 19 Sep 2026 11:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Ante el incremento de los recursos contemplados en el proyecto de presupuesto para el 2027, expertos advierten sobre la necesidad de establecer candados y fortalecer los mecanismos de fiscalización del gasto público."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La más corta, la más antigua y una isla compartida: 6 ejemplos que hacen de España uno de los países con las fronteras más peculiares del mundo",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-mas-corta-la-mas-antigua-y-una-isla-compartida-6-ejemplos-que-hacen-de-espana-uno-de-los-paises-con-las-fronteras-mas-peculiares-del-mundo/",
-      "fecha": "Sat, 19 Sep 2026 10:46:26 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "España cuenta con fronteras con Francia, Portugal, Reino Unido, Andorra y Marruecos, y algunas de ellas son especialmente particulares."
     },
     {
       "fuente": "Guatemala.com",
