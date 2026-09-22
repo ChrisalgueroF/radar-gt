@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-22T04:14:55.721Z",
+  "actualizado": "2026-09-22T05:14:22.181Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala registra a unos 400 migrantes hondureños ante el anuncio de una nueva caravana",
+      "link": "https://www.prensalibre.com/guatemala/migrantes/guatemala-registra-a-unos-400-migrantes-hondurenos-ante-el-anuncio-de-una-nueva-caravana-breaking/",
+      "fecha": "Tue, 22 Sep 2026 04:09:27 +0000",
+      "categoria": "Migrantes",
+      "resumen": "Unos 400 migrantes hondureños fueron registrados tras ingresar a Guatemala por Izabal, ante el anuncio de una nueva caravana que busca llegar a Estados Unidos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Por qué los estados de la antigua Alemania comunista se convirtieron en el bastión de la extrema derecha en el país europeo",
@@ -801,14 +809,6 @@
       "fecha": "Sun, 20 Sep 2026 19:48:57 +0000",
       "categoria": "Guatemala",
       "resumen": "La Comisión de Postulación completó este domingo 20 de septiembre la nómina de seis candidatos a contralor general de Cuentas, después de cuatro rondas de votación en las que los apoyos cambiaron hasta alcanzar los 18 votos requeridos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Celine Dion baila descalza sobre un automóvil: ¿por qué ese gesto le da esperanza a sus admiradores?",
-      "link": "https://www.prensalibre.com/vida/escenario/celine-dion-baila-descalza-sobre-un-automovil-por-que-ese-gesto-le-da-esperanza-a-sus-admiradores/",
-      "fecha": "Sun, 20 Sep 2026 19:18:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante canadiense ofreció un singular saludo a quienes la siguieron hasta la entrada de su hotel en París."
     },
     {
       "fuente": "Guatemala.com",
