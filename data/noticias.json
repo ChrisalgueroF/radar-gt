@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-22T15:15:09.593Z",
+  "actualizado": "2026-09-22T16:15:36.703Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Conciertos en Guatemala 2026: los shows programados de octubre a diciembre",
+      "link": "https://www.prensalibre.com/vida/escenario/conciertos-en-guatemala-2026-los-shows-programados-de-octubre-a-diciembre/",
+      "fecha": "Tue, 22 Sep 2026 16:01:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La agenda musical del último trimestre de 2026 incluye presentaciones de solistas y agrupaciones en distintos escenarios de la Ciudad de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La guatemalteca Aisha Solórzano firma doblete y lidera triunfo del FC Juárez en México",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/la-guatemalteca-aisha-solorzano-firma-doblete-y-lidera-triunfo-del-fc-juarez-en-mexico-breaking/",
+      "fecha": "Tue, 22 Sep 2026 15:50:59 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La delantera nacional marcó dos goles en la victoria 2-0 sobre León y llegó a cuatro anotaciones en el Apertura 2026 de la Liga MX Femenil."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así es el plan de Honduras para estimular la lluvia: 20 vuelos, US$600 mil y tres meses de ejecución",
+      "link": "https://www.prensalibre.com/internacional/asi-es-el-plan-de-honduras-para-estimular-la-lluvia-20-vuelos-us600-mil-y-tres-meses-de-ejecucion/",
+      "fecha": "Tue, 22 Sep 2026 15:16:57 +0000",
+      "categoria": "Internacional",
+      "resumen": "El objetivo declarado de Honduras es provocar lluvias sobre 2 millones de hectáreas afectadas por la peor sequía que el país ha enfrentado en 30 años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Agua Mágica: Roxana Baldetti suma una nueva medida de arresto domiciliario",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-agua-magica-roxana-baldetti-suma-una-nueva-medida-de-arresto-domiciliario-breaking/",
+      "fecha": "Tue, 22 Sep 2026 15:02:13 +0000",
+      "categoria": "Justicia",
+      "resumen": "Sala Segunda de Apelaciones de Mayor Riesgo autoriza otro beneficio para Roxana Baldetti en el caso Agua Mágica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En medio del debate por suspender impuestos a los combustibles surge una nueva iniciativa del oficialismo",
+      "link": "https://www.prensalibre.com/guatemala/politica/en-medio-del-debate-por-suspender-impuestos-a-los-combustibles-surge-una-nueva-iniciativa-del-oficialismo/",
+      "fecha": "Tue, 22 Sep 2026 14:59:32 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los diputados prevén aprobar este martes una nueva ley para mitigar el alza de los combustibles, pero no terminan de definir cuál de las propuestas apoyarán."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Clima en Guatemala este 22 de septiembre: Insivumeh informa sobre lluvias y temperaturas máximas",
@@ -761,46 +801,6 @@
       "fecha": "Mon, 21 Sep 2026 06:06:00 +0000",
       "categoria": "Caricatura",
       "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso busca contralor para un año electorero",
-      "link": "https://www.prensalibre.com/opinion/editorial/congreso-busca-contralor-para-un-ano-electorero/",
-      "fecha": "Mon, 21 Sep 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "La nómina pasa a manos del Congreso, y de ahí saldrá el siguiente titular de la Contraloría General de Cuentas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los US$1.4 mil millones de Trump en criptomonedas complican la batalla del sector por nuevas reglas",
-      "link": "https://www.prensalibre.com/internacional/los-us1-4-mil-millones-de-trump-en-criptomonedas-complican-la-batalla-del-sector-por-nuevas-reglas/",
-      "fecha": "Mon, 21 Sep 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "El fracaso de la Ley de Claridad expone la otra cara de la alianza del sector con Trump, mientras sus negocios con criptomonedas alimentan el debate sobre conflictos de interés."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Niveles de interés sobre el lenguaje de la Política",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/niveles-de-interes-sobre-el-lenguaje-de-la-politica/",
-      "fecha": "Mon, 21 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El conocimiento del idioma aplicable a todos los temas, en este caso la política, es un instrumento cuya ausencia inicia el camino a estas desviaciones democráticas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Seamos serios",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/seamos-serios/",
-      "fecha": "Mon, 21 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Los subsidios no funcionarán ante una escalada global de precios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Salvar la educación",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/salvar-la-educacion/",
-      "fecha": "Mon, 21 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Nuestro país enfrenta el doble reto de ofrecer educación para todos y lograr que aprendan."
     },
     {
       "fuente": "Guatemala.com",
