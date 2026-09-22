@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-22T02:14:51.904Z",
+  "actualizado": "2026-09-22T03:15:24.105Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué los estados de la antigua Alemania comunista se convirtieron en el bastión de la extrema derecha en el país europeo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-los-estados-de-la-antigua-alemania-comunista-se-convirtieron-en-el-bastion-de-la-extrema-derecha-en-el-pais-europeo/",
+      "fecha": "Tue, 22 Sep 2026 03:11:05 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La inmigración, el declive económico, las secuelas de la reunificación e incluso el legado del nazismo son algunos de los factores que los expertos señalan para explicar el voto de los alemanes orientales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "WhatsApp dejará de ser compatible con algunos celulares en el 2026: cuáles son los dispositivos afectados y desde cuándo",
+      "link": "https://www.prensalibre.com/vida/tecnologia/whatsapp-dejara-de-ser-compatible-con-algunos-celulares-en-el-2026-cuales-son-los-dispositivos-afectados-y-desde-cuando/",
+      "fecha": "Tue, 22 Sep 2026 03:00:00 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Meta anunció cambios en la compatibilidad de WhatsApp con algunos sistemas operativos de Android y iOS. Estos son los dispositivos afectados y las fechas en las que dejarán de ser compatibles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC prepara resguardo para periodistas y actores políticos ante riesgos durante el proceso electoral",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/pnc-prepara-resguardo-para-periodistas-y-actores-politicos-ante-riesgos-durante-el-proceso-electoral-breaking/",
+      "fecha": "Tue, 22 Sep 2026 02:36:06 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La PNC anunció medidas preventivas para la cobertura periodística y las actividades políticas de cara a las elecciones generales del 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Se debe definir la procedencia”: los detalles del arsenal hallado en Santo Domingo Xenacoj y las dudas de su origen",
+      "link": "https://www.prensalibre.com/guatemala/justicia/se-debe-definir-la-procedencia-los-detalles-del-arsenal-hallado-en-santo-domingo-xenacoj-y-las-dudas-de-su-origen/",
+      "fecha": "Tue, 22 Sep 2026 02:25:48 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC y el MP localizaron lanzagranadas, miles de municiones, silenciadores y otros accesorios durante un allanamiento en Santo Domingo Xenacoj, Sacatepéquez, como parte de una investigación en curso."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Encuentro de Conviteros 2026: Puntos clave para disfrutar de este evento que reúne arte, música y tradición",
@@ -17,6 +49,14 @@
       "fecha": "Tue, 22 Sep 2026 01:30:00 +0000",
       "categoria": "Comunitario",
       "resumen": "La última torre de la Línea 1 del AeroMetro tendrá una característica que puede llamar la atención cuando sea instalada: estará inclinada 10 grados. La empresa desarrolladora del proyecto explica la razón."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amenazas, robos y vínculos criminales: así fue la captura y deportación de un peruano vinculado a Los Lobos",
+      "link": "https://www.prensalibre.com/internacional/amenazas-robos-y-vinculos-criminales-asi-fue-la-captura-y-deportacion-de-un-peruano-vinculado-a-los-lobos/",
+      "fecha": "Tue, 22 Sep 2026 01:15:34 +0000",
+      "categoria": "Internacional",
+      "resumen": "Expulsan de Ecuador a un peruano con 26 denuncias y nexos con la peligrosa banda \"Los Lobos\". ¿Cómo fue su captura en plena frontera?"
     },
     {
       "fuente": "Prensa Libre",
@@ -140,7 +180,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Mingob emite alerta por posible llegada de migrantes hondureños a Guatemala",
+      "titulo": "Mingob emite alerta por llegada de migrantes hondureños a Guatemala",
       "link": "https://www.prensalibre.com/guatemala/comunitario/mingob-emite-alerta-por-posible-llegada-de-migrantes-hondurenos-a-guatemala/",
       "fecha": "Mon, 21 Sep 2026 21:10:25 +0000",
       "categoria": "Comunitario",
@@ -769,46 +809,6 @@
       "fecha": "Sun, 20 Sep 2026 18:35:04 +0000",
       "categoria": "Escenario",
       "resumen": "Ambas actrices se dicen sorprendidas por la profundidad de la amistad que han construido en los últimos años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Territorios latentes: Guatemala le da la bienvenida al criptoarte",
-      "link": "https://www.prensalibre.com/vida/escenario/territorios-latentes-guatemala-le-da-la-bienvenida-al-criptoarte/",
-      "fecha": "Sun, 20 Sep 2026 18:02:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La exposición internacional que presenta la Fundación Paiz reúne a 30 artistas de diversos países e inaugura una nueva línea institucional de arte digital de la entidad cultural."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La remota isla donde los hackers se preparan para defendernos de una guerra invisible",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-remota-isla-donde-los-hackers-se-preparan-para-defendernos-de-una-guerra-invisible/",
-      "fecha": "Sun, 20 Sep 2026 17:25:03 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "¿Qué tan fácil es paralizar nuestro mundo moderno? Conoce a los expertos que están averiguando la respuesta a esa pregunta en una isla remota al norte del Círculo Polar Ártico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Era roja? La polémica entrada de Kang-In Lee sobre Federico Valverde en el derbi madrileño",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/era-roja-la-polemica-entrada-de-kang-in-lee-sobre-federico-valverde-en-el-derbi-madrileno-breaking/",
-      "fecha": "Sun, 20 Sep 2026 16:51:39 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Kang-In Lee pisó el tobillo de Valverde al filo del descanso en una acción que el árbitro sancionó con falta sin mostrar cartulina generando debate sobre la decisión arbitral en el derbi madrileño del Metropolitano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué le pasó a Alejandra Guzmán y por qué preocupó a sus admiradores?",
-      "link": "https://www.prensalibre.com/vida/escenario/que-le-paso-a-alejandra-guzman-y-por-que-preocupo-a-sus-admiradores/",
-      "fecha": "Sun, 20 Sep 2026 16:34:49 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante mexicana paró un concierto en Veracruz a pocos minutos de haber iniciado y debió ser trasladada a un hospital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Atlético de Madrid aprovecha la expulsión de Huijsen y derrota 2-1 al Real Madrid en el derbi",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/atletico-de-madrid-aprovecha-la-expulsion-de-huijsen-y-derrota-2-1-al-real-madrid-en-el-derbi-breaking/",
-      "fecha": "Sun, 20 Sep 2026 16:19:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Atlético de Madrid dominó con superioridad numérica tras la expulsión de Huijsen y selló el derbi con goles de Grimaldo y Jonathan David antes de que Rüdiger descontara en el último tramo."
     },
     {
       "fuente": "Guatemala.com",
