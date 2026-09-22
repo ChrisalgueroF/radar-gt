@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-22T22:14:00.699Z",
+  "actualizado": "2026-09-22T23:12:52.294Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "3 afirmaciones que Trump realizó ante la Asamblea General de la ONU, verificadas por la BBC",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/3-afirmaciones-que-trump-realizo-ante-la-asamblea-general-de-la-onu-verificadas-por-la-bbc/",
+      "fecha": "Tue, 22 Sep 2026 22:50:14 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Jake Horton, Ben Chu y Rupert Carey, de BBC Verify, examinaron las afirmaciones del presidente y las contrastaron con los datos y la evidencia disponibles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP presenta más pruebas para extinguir inmuebles, vehículos y cuentas vinculados con Roxana Baldetti",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mp-presenta-mas-pruebas-para-extinguir-inmuebles-vehiculos-y-cuentas-vinculados-con-roxana-baldetti/",
+      "fecha": "Tue, 22 Sep 2026 22:41:14 +0000",
+      "categoria": "Justicia",
+      "resumen": "El proceso de extinción de dominio de 11 bienes vinculados con la exvicepresidenta Roxana Baldetti avanzó con el ofrecimiento de prueba del MP y continuará el 25 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Real Madrid pide que Javier Tebas deje la presidencia de LaLiga y reclama un dirigente neutral",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-pide-que-javier-tebas-deje-la-presidencia-de-laliga-y-reclama-un-dirigente-neutral-breaking/",
+      "fecha": "Tue, 22 Sep 2026 22:35:57 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": ".img_fo{\n\t\t\t\t    aspect-ratio: 16/9;\n                    width: 100%;\n                    height: auto;\n                    margin-bottom: 8px;\n                    object-fit: contain;\n\t\t\t\t}\n\t\t\t\n    .canal-whatsapp,\n    .canal-whatsapp:hover,\n    .canal-whatsapp:focus,\n    .canal-whatsapp:visited {\n        text-decoration: none !important;\n    }\n\n    .canal-whatsapp {\n        display: inline-flex;\n        align-items: center;\n        gap: 8px;\n        background: #fff;\n        border-radius: 999px;\n        padding: 6px 14px 6px 6px !important;\n        text-decoration: none;\n    }\n    .canal-wh"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Reafirman su compromiso con el desarrollo de Guatemala",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/reafirman-su-compromiso-con-el-desarrollo-de-guatemala/",
+      "fecha": "Tue, 22 Sep 2026 22:31:56 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Grupo Financiero InterBanco presentó su Memoria de Sostenibilidad 2025, documento que reúne los principales resultados e iniciativas desarrollados en materia ambiental, social y de gobernanza (ASG), reafirmando su propósito institucional de impulsar el desarrollo de su entorno para un mejor futuro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miguel Ángel Asturias: se reajusta la fecha de repatriación de los restos del Nobel de Literatura de París a Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/miguel-angel-asturias-se-reajusta-la-fecha-de-repatriacion-de-los-restos-del-nobel-de-literatura-de-paris-a-guatemala/",
+      "fecha": "Tue, 22 Sep 2026 22:17:23 +0000",
+      "categoria": "Escenario",
+      "resumen": "La llegada a Guatemala de los restos del nobel de literatura Miguel Ángel Asturias podría reajustarse, según anunció su familia. Estos son los avances y la nueva proyección para su repatriación."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Ager advierte riesgo de escasez de energía desde el 2027 si Guatemala no suma nueva generación",
@@ -9,6 +49,14 @@
       "fecha": "Tue, 22 Sep 2026 22:05:08 +0000",
       "categoria": "Economía",
       "resumen": "El país necesitaría incorporar 4 mil 312 MW de nueva capacidad hacia el 2040. La sequía redujo alrededor de 25% la generación hidroeléctrica durante el 2026 y se expuso la necesidad de diversificar la matriz energética."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;El Curioso&#8221;, presunto pandillero del Barrio 18, es capturado con arma un arma de fuego, municiones y droga",
+      "link": "https://www.prensalibre.com/guatemala/justicia/el-curioso-presunto-pandillero-del-barrio-18-es-capturado-con-arma-un-arma-de-fuego-municiones-y-droga/",
+      "fecha": "Tue, 22 Sep 2026 21:56:25 +0000",
+      "categoria": "Justicia",
+      "resumen": "Allanamiento en la zona 18 dejó como resultado la captura de un presunto integrante del Barrio 18, identificado como Joan \"A\", alias “El Curioso”."
     },
     {
       "fuente": "Prensa Libre",
@@ -41,6 +89,14 @@
       "fecha": "Tue, 22 Sep 2026 21:14:05 +0000",
       "categoria": "Justicia",
       "resumen": "Uno de los capturados portaba un DPI falso con un nombre distinto, por lo que se sospecha que el salvadoreño se hacía pasar por guatemalteco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PMT anuncia desvíos viales frente al templo Don Bosco desde el 23 de septiembre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/pmt-anuncia-desvios-viales-frente-al-templo-don-bosco-desde-el-23-de-septiembre-breaking/",
+      "fecha": "Tue, 22 Sep 2026 21:10:47 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Autoridades de Tránsito informan sobre los desvíos viales frente al Santuario Expiatorio Nacional al Sagrado Corazón de Jesús hacia la avenida Bolívar, a partir del 23 de septiembre, por obras municipales que se realizan frente al templo Don Bosco."
     },
     {
       "fuente": "Prensa Libre",
@@ -733,82 +789,26 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Muere a los 27 años Presley Gerber, hijo de la modelo Cindy Crawford",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/muere-a-los-27-anos-presley-gerber-hijo-de-la-modelo-cindy-crawford-2/",
+      "link": "https://www.prensalibre.com/guatemala/muere-a-los-27-anos-presley-gerber-hijo-de-la-modelo-cindy-crawford-4/",
+      "fecha": "Mon, 21 Sep 2026 20:45:59 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La familia del joven modelo pidió privacidad durante este \"momento muy difícil y doloroso\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Muere a los 27 años Presley Gerber, hijo de la modelo Cindy Crawford",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/muere-a-los-27-anos-presley-gerber-hijo-de-la-modelo-cindy-crawford-3/",
       "fecha": "Mon, 21 Sep 2026 20:45:59 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La familia del joven modelo pidió privacidad durante este \"momento muy difícil y doloroso\"."
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Familia de odontólogo Julio Martínez apela arresto domiciliario otorgado a presunto implicado en el secuestro",
-      "link": "https://www.prensalibre.com/guatemala/justicia/familia-de-odontologo-julio-martinez-apela-arresto-domiciliario-otorgado-a-presunto-implicado-en-el-secuestro-breaking/",
-      "fecha": "Mon, 21 Sep 2026 20:44:51 +0000",
-      "categoria": "Justicia",
-      "resumen": "La familia del odontólogo Julio Amílcar Martínez Murillo apeló la resolución que otorgó arresto domiciliario a Andrés Alcázar Crespo, ligado a proceso secuestro en grado de complicidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Campeonato Latinoamericano 2026: bandas escolares recorrerán el Centro Histórico con música y expresiones culturales",
-      "link": "https://www.prensalibre.com/vida/escenario/campeonato-latinoamericano-2026-bandas-escolares-recorreran-el-centro-historico-con-musica-y-expresiones-culturales/",
-      "fecha": "Mon, 21 Sep 2026 20:30:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Un encuentro de bandas escolares de distintos formatos convertirá parte del Centro Histórico en un escenario de música y cultura, como parte de un intercambio entre países latinoamericanos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presley Gerber habló de su adicción antes de morir a los 27 años: esto publicó el hijo de Cindy Crawford",
-      "link": "https://www.prensalibre.com/vida/escenario/presley-gerber-hablo-de-su-adiccion-antes-de-morir-a-los-27-anos-esto-publico-el-hijo-de-cindy-crawford/",
-      "fecha": "Mon, 21 Sep 2026 20:30:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "En uno de sus últimos mensajes en redes sociales, Presley Gerber habló de su lucha contra la adicción y compartió un video en el que mostró parte de su proceso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Colt M4A1: qué características tienen los fusiles que Guatemala le compró a Estados Unidos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/colt-m4a1-que-caracteristicas-tienen-los-fusiles-que-guatemala-le-compro-a-estados-unidos/",
-      "fecha": "Mon, 21 Sep 2026 20:14:16 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Ligera, compacta y con un alcance efectivo de hasta 500 metros, la Colt M4A1 es la carabina que Guatemala comenzó a incorporar al equipamiento del Ejército."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La guatemalteca Alejandra Higueros brilla con un quinto lugar en el Mundial de poomsae",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/alejandra-higueros-hace-historia-para-guatemala-en-el-mundial-de-poomsae-breaking/",
-      "fecha": "Mon, 21 Sep 2026 20:02:09 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Higueros sobresalió en la modalidad de poomsae reconocido durante la competencia disputada en Chuncheon, Corea del Sur."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Claudia González pide que retiren la inmunidad al juez Jimi Bremer por cinco supuestos delitos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/claudia-gonzalez-pide-que-retiren-la-inmunidad-al-juez-jimi-bremer-por-cinco-supuestos-delitos-breaking/",
-      "fecha": "Mon, 21 Sep 2026 19:49:20 +0000",
-      "categoria": "Justicia",
-      "resumen": "La abogada Claudia González solicita el retiro del derecho de antejuicio contra Jimi Bremer por supuestos delitos en su caso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presidente Arévalo identifica candidatos &#8220;sólidos&#8221; para contralor general de Cuentas",
-      "link": "https://www.prensalibre.com/guatemala/politica/presidente-arevalo-identifica-candidatos-solidos-para-contralor-general-de-cuentas/",
-      "fecha": "Mon, 21 Sep 2026 19:36:45 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El presidente Bernardo Arévalo afirmó que espera que el Congreso realice una buena elección del próximo contralor general de Cuentas, luego de que la Comisión de Postulación integrara la nómina de seis candidatos para ocupar el cargo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Un día en la jungla”: la celebración del Día del Niño llega al Museo del Ferrocarril con actividades y un recorrido en tren",
-      "link": "https://www.prensalibre.com/vida/escenario/un-dia-en-la-jungla-la-celebracion-del-dia-del-nino-llega-al-museo-del-ferrocarril-con-actividades-y-un-recorrido-en-tren/",
-      "fecha": "Mon, 21 Sep 2026 19:20:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Para celebrar el Día del Niño, el Museo del Ferrocarril prepara actividades especiales y recorridos en tren para que las familias disfruten de una jornada de entretenimiento. Esto es lo que debe saber del evento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los ataques de EE.UU. contra embarcaciones sospechosas de traficar drogas en el Caribe y el Pacífico podrían constituir crímenes de lesa humanidad, dice la ONU",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-ataques-de-ee-uu-contra-embarcaciones-sospechosas-de-traficar-drogas-en-el-caribe-y-el-pacifico-podrian-constituir-crimenes-de-lesa-humanidad-dice-la-onu/",
-      "fecha": "Mon, 21 Sep 2026 18:33:26 +0000",
+      "titulo": "Muere a los 27 años Presley Gerber, hijo de la modelo Cindy Crawford",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/muere-a-los-27-anos-presley-gerber-hijo-de-la-modelo-cindy-crawford-2/",
+      "fecha": "Mon, 21 Sep 2026 20:45:59 +0000",
       "categoria": "BBC News Mundo",
-      "resumen": "Según un informe, los ataques, de los cuales se han producido al menos 68, no han sido en defensa propia."
+      "resumen": "La familia del joven modelo pidió privacidad durante este \"momento muy difícil y doloroso\"."
     },
     {
       "fuente": "Guatemala.com",
