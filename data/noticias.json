@@ -1,7 +1,103 @@
 {
-  "actualizado": "2026-09-22T05:14:22.181Z",
+  "actualizado": "2026-09-22T06:19:18.656Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salario mínimo 2027: qué sigue tras la falta de consenso entre trabajadores y empleadores",
+      "link": "https://www.prensalibre.com/economia/salario-minimo-2027-que-sigue-tras-la-falta-de-consenso-entre-trabajadores-y-empleadores/",
+      "fecha": "Tue, 22 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Las Comisiones Paritarias entregaron a la Comisión Nacional del Salario (CNS) sus informes sin consenso sobre el salario mínimo del 2027. La discusión de los sectores laboral, empleador y gubernamental continuará en la CNS, la cual debe enviar su informe al Ministerio de Trabajo y, este, a su vez, al presidente de la República."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Solicitan retiro de antejuicio",
+      "link": "https://www.prensalibre.com/opinion/caricatura/solicitan-retiro-de-antejuicio/",
+      "fecha": "Tue, 22 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Soberana libertad de informar e informarse",
+      "link": "https://www.prensalibre.com/opinion/editorial/soberana-libertad-de-informar-e-informarse/",
+      "fecha": "Tue, 22 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "En un acto de solidaridad profesional y periodística, las cadenas \"ABC\", \"CBS\", \"NBC\" y \"Fox News\", así como otros medios escritos, suspendieron ayer la cobertura conjunta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tres remedios caseros con respaldo científico para aliviar el resfriado común",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/tres-remedios-caseros-con-respaldo-cientifico-para-aliviar-el-resfriado-comun/",
+      "fecha": "Tue, 22 Sep 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Los consejos maternales de mantenerse bien hidratado y descansar lo suficiente ayudarán a la recuperación tanto como cualquier remedio de venta libre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Rusia reclutó a adolescentes ucranianos para cometer ataques a cambio de dinero",
+      "link": "https://www.prensalibre.com/internacional/rusia-recluto-a-adolescentes-ucranianos-para-cometer-ataques-a-cambio-de-dinero/",
+      "fecha": "Tue, 22 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Más de 300 jóvenes han sido detenidos en Ucrania por casos vinculados con Rusia; algunos cumplen condenas por sabotajes e incidentes con explosivos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fumando espero",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/fumando-espero-2/",
+      "fecha": "Tue, 22 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Se mueren más por tabaco que por guerras."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Migrante, tu futuro no tiene fronteras",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/migrante-tu-futuro-no-tiene-fronteras/",
+      "fecha": "Tue, 22 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Tu regreso debe ser un nuevo comienzo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El último de la clase",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-ultimo-de-la-clase/",
+      "fecha": "Tue, 22 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Tres años después, el daño político no es la mala posición en una encuesta, sino haber destruido la esperanza de quienes creyeron en aquella promesa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La lucha por recuperar la Usac continúa",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-lucha-por-recuperar-la-usac-continua/",
+      "fecha": "Tue, 22 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Mazariegos había conseguido frenar las investigaciones en su contra porque tenía a una fiscal general aliada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy martes 22 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-22-de-septiembre-de-2026/",
+      "fecha": "Tue, 22 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El rol del &#8220;outsider&#8221; en las elecciones",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-rol-del-outsider-en-las-elecciones/",
+      "fecha": "Tue, 22 Sep 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "¿Qué está detrás de nuestra preferencia por las caras nuevas?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nueva arena para conciertos: “Guatemala va a tener una industria vigente de espectáculos”",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/nueva-arena-para-conciertos-guatemala-va-a-tener-una-industria-vigente-de-espectaculos/",
+      "fecha": "Tue, 22 Sep 2026 06:00:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "Con la Arena Gallo se identificó una demanda que hoy lleva a miles de guatemaltecos a viajar por conciertos y decidió invertir en una infraestructura para competir por espectáculos internacionales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Guatemala registra a unos 400 migrantes hondureños ante el anuncio de una nueva caravana",
@@ -707,108 +803,12 @@
       "resumen": "Durante la primera presentación de su residencia en Madrid, la cantante colombiana hizo gestos que indicaban que algo no iba como ella quería."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Alux Nahual recibe las Llaves de la Ciudad de Providence, Rhode Island, por su aporte a la cultura en la comunidad centroamericana",
-      "link": "https://www.prensalibre.com/vida/escenario/alux-nahual-recibe-las-llaves-de-la-ciudad-de-providence-rhode-island-por-su-aporte-a-la-cultura-en-la-comunidad-centroamericana/",
-      "fecha": "Sun, 20 Sep 2026 23:29:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La banda guatemalteca Alux Nahual recibió una distinción en Providence, Rhode Island, EE. UU., por su aporte a la cultura en una ciudad donde guatemaltecos residen y contribuyen al desarrollo de su comunidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "AeroMetro Línea 1: dónde quedarán las estaciones y qué lugares tendrán cerca",
-      "link": "https://www.prensalibre.com/economia/aerometro-linea-1-donde-quedaran-las-estaciones-y-que-lugares-tendran-cerca/",
-      "fecha": "Sun, 20 Sep 2026 23:25:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Conozca dónde estarán las cuatro estaciones del AeroMetro Línea 1, qué lugares tendrán cerca, su recorrido, tarifa y fecha prevista de finalización."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Angélica María y Angélica Vale visitaron una reconocida parroquia en Guatemala, 2026",
       "link": "https://www.guatemala.com/noticias/entretenimiento/angelica-maria-angelica-vale-visita-guatemala-2026.html",
       "fecha": "Sun, 20 Sep 2026 23:01:18 +0000",
       "categoria": "Entretenimiento",
       "resumen": "Angélica María y Angélica Vale visitaron una parroquia en Guatemala durante su estancia en el país.\nThe post Angélica María y Angélica Vale visitaron una reconocida parroquia en Guatemala, 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quiénes son los seis candidatos a contralor entre los que deberá elegir el Congreso",
-      "link": "https://www.prensalibre.com/guatemala/politica/quienes-son-los-seis-candidatos-a-contralor-entre-los-que-debera-elegir-el-congreso/",
-      "fecha": "Sun, 20 Sep 2026 23:00:00 +0000",
-      "categoria": "Política",
-      "resumen": "La nómina incluye a funcionarios de la CGC, un integrante del Directorio de la SAT y aspirantes que ya participaron en procesos anteriores. Conozca los perfiles de los seis candidatos a contralor general de cuentas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "San Pedro rescata el empate 1-1 ante Cobán y sigue invicto como local en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/san-pedro-rescata-el-empate-1-1-ante-coban-y-sigue-invicto-como-local-en-el-apertura-2026-breaking/",
-      "fecha": "Sun, 20 Sep 2026 22:57:45 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "San Pedro igualó en los últimos minutos con gol de Renny Folleco, mientras Cobán dejó escapar la oportunidad de sumar tres puntos que le habrían permitido escalar posiciones en la tabla del Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Suchitepéquez vs. Xelajú MC: siga el minuto a minuto de la décima jornada del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-suchitepequez-vs-xelaju-mc-siga-el-minuto-a-minuto-de-la-decima-jornada-del-apertura-2026-breaking/",
-      "fecha": "Sun, 20 Sep 2026 22:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El encuentro programado para las 5:00 PM en el estadio Carlos Salazar Hijo de Mazatenango sufrió un retraso debido a las fuertes lluvias que cayeron sobre la región. El partido dará inicio a las 7:00 PM."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "The Big Bang Theory: Su creador revela el secreto de su éxito",
-      "link": "https://www.prensalibre.com/vida/escenario/the-big-bang-theory-su-creador-revela-el-secreto-de-su-exito/",
-      "fecha": "Sun, 20 Sep 2026 21:37:24 +0000",
-      "categoria": "Escenario",
-      "resumen": "Chuck Lorre revela el factor que haría que la serie que concluyó hace siete años siga vigente en el gusto de una gran audiencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Viernes Verde prepara en Xela una velada roquera con un cuarteto de cuerdas",
-      "link": "https://www.prensalibre.com/vida/escenario/viernes-verde-prepara-en-xela-una-velada-roquera-con-un-cuarteto-de-cuerdas/",
-      "fecha": "Sun, 20 Sep 2026 21:25:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La banda guatemalteca Viernes Verde contará con el respaldo de un cuarteto de cuerdas y ofrecerá un concierto especial en Quetzaltenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hallan a niño herido y una persona calcinada en una vivienda de Sumpango",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/hallan-a-nino-herido-y-una-persona-calcinada-en-una-vivienda-de-sumpango/",
-      "fecha": "Sun, 20 Sep 2026 21:21:29 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Crimen desata conmoción en comunidad de Sacatepéquez."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Los Miserables&#8221;: una cinta más fiel a la novela se estrena en San Sebastián",
-      "link": "https://www.prensalibre.com/vida/escenario/los-miserables-una-cinta-mas-fiel-a-la-novela-se-estrena-en-san-sebastian/",
-      "fecha": "Sun, 20 Sep 2026 21:16:07 +0000",
-      "categoria": "Escenario",
-      "resumen": "Entre las propuestas del festival de cine español se alza esta versión de un clásico con un elenco digno de prestarle atención."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Te amo muchísimo&#8221;: la pareja que falleció en el accidente en Masagua un día antes de su boda",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/te-amo-muchisimo-la-pareja-que-fallecio-en-el-accidente-en-masagua-un-dia-antes-de-su-boda-breaking/",
-      "fecha": "Sun, 20 Sep 2026 20:14:09 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Una pareja que iba a celebrar su boda este domingo 20 de septiembre perdió la vida el pasado sábado en una colisión múltiple en Masagua, Escuintla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; San Pedro vs. Cobán Imperial: siga el minuto a minuto de la décima jornada del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-san-pedro-vs-coban-imperial-siga-el-minuto-a-minuto-de-la-decima-jornada-del-apertura-2026-breaking/",
-      "fecha": "Sun, 20 Sep 2026 20:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los gallos reciben a los príncipes azules este domingo a las 2:50 PM en el estadio Municipal Sampedrano en el partido que abre la actividad dominical de la décima jornada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elección de contralor general: Así quedó integrada la nómina, los cambios finales y cómo fue la votación",
-      "link": "https://www.prensalibre.com/guatemala/eleccion-de-contralor-general-asi-quedo-integrada-la-nomina-los-cambios-finales-y-como-fue-la-votacion-breaking/",
-      "fecha": "Sun, 20 Sep 2026 19:48:57 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Comisión de Postulación completó este domingo 20 de septiembre la nómina de seis candidatos a contralor general de Cuentas, después de cuatro rondas de votación en las que los apoyos cambiaron hasta alcanzar los 18 votos requeridos."
     },
     {
       "fuente": "Guatemala.com",
