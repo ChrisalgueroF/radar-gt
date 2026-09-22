@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-22T10:16:21.610Z",
+  "actualizado": "2026-09-22T11:14:42.609Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Terminal de contenedores: EPQ inicia proceso para definir operador y APM Terminals busca continuar en Puerto Quetzal",
+      "link": "https://www.prensalibre.com/economia/terminal-de-contenedores-epq-inicia-proceso-para-definir-operador-y-apm-terminals-busca-continuar-en-puerto-quetzal/",
+      "fecha": "Tue, 22 Sep 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "A un año de que concluya el contrato temporal entre la Empresa Portuaria Quetzal (EPQ) y APM Terminals Quetzal, el pasado 1 de septiembre comenzó el proceso de invitación a compañías especializadas interesadas en operar la terminal de contenedores mediante contratos de arrendamiento y prestación de servicios marítimos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los voluntarios que arriesgan sus vidas para desactivar las &#8220;bombas de carbono&#8221; de los catastróficos incendios forestales que azotan Indonesia",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-voluntarios-que-arriesgan-sus-vidas-para-desactivar-las-bombas-de-carbono-de-los-catastroficos-incendios-forestales-que-azotan-indonesia/",
+      "fecha": "Tue, 22 Sep 2026 10:32:19 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los incendios en las turberas de Borneo están liberando antiguas reservas de carbono y extendiendo una nube tóxica por todo el sudeste asiático."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Salario mínimo 2027: qué sigue tras la falta de consenso entre trabajadores y empleadores",
@@ -785,22 +801,6 @@
       "fecha": "Mon, 21 Sep 2026 00:57:00 +0000",
       "categoria": "Escenario",
       "resumen": "Las artistas mexicanas, que en el 2025 visitaron  a niños que apadrinan en la Antigua Guatemala, llegaron nuevamente al país este fin de semana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Malacateco vs. Mixco: siga el minuto a minuto de la décima jornada del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-malacateco-vs-mixco-siga-el-minuto-a-minuto-de-la-decima-jornada-del-apertura-2026-breaking/",
-      "fecha": "Mon, 21 Sep 2026 00:35:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los toros reciben a los chicharroneros este domingo a las 7:00 PM en el estadio Municipal Santa Lucía en el partido que cierra la décima jornada con Mixco buscando sumar para mantenerse en la pelea por los primeros lugares del torneo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué se enojó Shakira durante su primer concierto en Madrid?",
-      "link": "https://www.prensalibre.com/vida/escenario/por-que-se-enojo-shakira-durante-su-primer-concierto-en-madrid/",
-      "fecha": "Sun, 20 Sep 2026 23:43:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Durante la primera presentación de su residencia en Madrid, la cantante colombiana hizo gestos que indicaban que algo no iba como ella quería."
     },
     {
       "fuente": "Guatemala.com",
