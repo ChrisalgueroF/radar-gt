@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-22T21:13:46.570Z",
+  "actualizado": "2026-09-22T22:14:00.699Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ager advierte riesgo de escasez de energía desde el 2027 si Guatemala no suma nueva generación",
+      "link": "https://www.prensalibre.com/economia/ager-advierte-riesgo-de-escasez-de-energia-desde-el-2027-si-guatemala-no-suma-nueva-generacion/",
+      "fecha": "Tue, 22 Sep 2026 22:05:08 +0000",
+      "categoria": "Economía",
+      "resumen": "El país necesitaría incorporar 4 mil 312 MW de nueva capacidad hacia el 2040. La sequía redujo alrededor de 25% la generación hidroeléctrica durante el 2026 y se expuso la necesidad de diversificar la matriz energética."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Verificamos por usted: ¿son reales las fotos de tucanes muertos en el Parque Nacional Tikal?",
+      "link": "https://www.prensalibre.com/guatemala/verificamos-por-usted-son-reales-las-fotos-de-tucanes-muertos-en-el-parque-nacional-tikal/",
+      "fecha": "Tue, 22 Sep 2026 21:37:58 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Las imágenes de tucanes sin vida en la selva petenera encendieron las alertas de usuarios, pero detrás del revuelo hay una mezcla de imágenes generadas por Inteligencia Artificial."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Alux Nahual recibió las Llaves de la Ciudad de Providence por su aporte cultural",
+      "link": "https://www.guatemala.com/noticias/entretenimiento/alux-nahual-recibe-las-llaves-de-la-ciudad-de-providence.html",
+      "fecha": "Tue, 22 Sep 2026 21:35:22 +0000",
+      "categoria": "Entretenimiento",
+      "resumen": "Alux Nahual recibió las Llaves de la Ciudad de Providence por su aporte a la música y a la comunidad guatemalteca y centroamericana en Estados Unidos.\nThe post Alux Nahual recibió las Llaves de la Ciudad de Providence por su aporte cultural appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué contempla el acuerdo sobre Groenlandia firmado entre EE.UU. y Dinamarca tras meses de amenazas de Trump",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-contempla-el-acuerdo-sobre-groenlandia-firmado-entre-ee-uu-y-dinamarca-tras-meses-de-amenazas-de-trump/",
+      "fecha": "Tue, 22 Sep 2026 21:32:31 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El acuerdo de defensa firmado en la Asamblea General de la ONU también reafirma la soberanía de Dinamarca sobre su territorio ártico semiautónomo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Con armas y con un DPI falso: Estos son los cuatro salvadoreños de la MS13 capturados en Amatitlán",
+      "link": "https://www.prensalibre.com/guatemala/justicia/con-armas-y-con-un-dpi-falso-estos-son-los-cuatro-salvadorenos-de-la-ms13-capturados-en-amatitlan/",
+      "fecha": "Tue, 22 Sep 2026 21:14:05 +0000",
+      "categoria": "Justicia",
+      "resumen": "Uno de los capturados portaba un DPI falso con un nombre distinto, por lo que se sospecha que el salvadoreño se hacía pasar por guatemalteco."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Luis Miguel Tour 2027: el “Sol de México” confirma nueva gira y su regreso a los escenarios",
@@ -12,11 +52,35 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Jennifer Eckhart: fallece exproductora de Fox News que acusó a un expresentador de noticias de abuso",
+      "link": "https://www.prensalibre.com/internacional/jennifer-eckhart-fallece-exproductora-de-fox-news-que-acuso-a-un-expresentador-de-noticias-de-abuso/",
+      "fecha": "Tue, 22 Sep 2026 20:58:12 +0000",
+      "categoria": "Internacional",
+      "resumen": "TMZ informó sobre la muerte de Jennifer Eckhart, mujer exproductora de Fox News y conocida por señalar a un expresentador de la cadena de abuso sexual."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Congreso entra a sesión plenaria con acuerdos para exonerar impuestos a los combustibles",
+      "link": "https://www.prensalibre.com/guatemala/politica/congreso-entra-a-sesion-plenaria-con-acuerdos-para-exonerar-impuestos-a-los-combustibles/",
+      "fecha": "Tue, 22 Sep 2026 20:56:11 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Elmer Palencia, segundo vicepresidente del Congreso, anunció acuerdos para suspender temporalmente impuestos al diésel, a la gasolina regular y superior."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Multan con Q25 mil a conductor de camión que bloqueó el bulevar Los Próceres por fallas mecánicas",
       "link": "https://www.prensalibre.com/guatemala/comunitario/multan-con-q25-mil-a-conductor-de-camion-que-bloqueo-el-bulevar-los-proceres-por-fallas-mecanicas/",
       "fecha": "Tue, 22 Sep 2026 20:28:08 +0000",
       "categoria": "Comunitario",
       "resumen": "Un vehículo de transporte pesado presentó fallas mecánicas y bloqueó la circulación en el bulevar Los Próceres y 24 avenida, zona 10. La Municipalidad de Guatemala efectuó trabajos para reactivar el paso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala aparece en la lista de hoteles con Llave Michelin por segundo año: dónde están y cuáles son",
+      "link": "https://www.prensalibre.com/economia/guatemala-aparece-en-la-lista-de-hoteles-con-llave-michelin-por-segundo-ano-donde-estan-y-cuales-son/",
+      "fecha": "Tue, 22 Sep 2026 20:18:09 +0000",
+      "categoria": "Economía",
+      "resumen": "Guatemala mantiene por segundo año su presencia en la selección de hoteles con Llave Michelin. En suma, hay cinco hoteles con esa distinción."
     },
     {
       "fuente": "Prensa Libre",
@@ -73,6 +137,14 @@
       "fecha": "Tue, 22 Sep 2026 18:37:32 +0000",
       "categoria": "Guatemala",
       "resumen": "Miquel Cortés, presidente de la postuladora, pidió a los diputados publicidad, transparencia e independencia al momento de elegir al contralor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Menos que en 2025? Cuántos centroamericanos fueron detenidos en EE. UU. y México en lo que va del 2026",
+      "link": "https://www.prensalibre.com/internacional/menos-que-en-2025-cuantos-centroamericanos-fueron-detenidos-en-ee-uu-y-mexico-en-lo-que-va-del-2026/",
+      "fecha": "Tue, 22 Sep 2026 18:30:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "Registros oficiales han informado la cantidad de migrantes hondureños, guatemaltecos y salvadoreños fueron detenidos en EE. UU. y México en lo que va del 2026."
     },
     {
       "fuente": "Prensa Libre",
@@ -739,70 +811,6 @@
       "resumen": "Según un informe, los ataques, de los cuales se han producido al menos 68, no han sido en defensa propia."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "El Niño amenaza con pérdidas de al menos 2% del PIB de América Latina y el Caribe, advierte la Cepal",
-      "link": "https://www.prensalibre.com/economia/el-nino-amenaza-con-perdidas-de-al-menos-2-del-pib-de-america-latina-y-el-caribe-advierte-la-cepal/",
-      "fecha": "Mon, 21 Sep 2026 18:31:44 +0000",
-      "categoria": "Economía",
-      "resumen": "Un episodio extremo de El Niño podría provocar pérdidas económicas durante tres años y aumentar la pobreza en hasta 4.8 millones de personas, según un informe de la Cepal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Les ofrecía trabajo, las amenazaba y luego les apuntaba con un arma: así operaba el presunto violador serial en San José Pinula",
-      "link": "https://www.prensalibre.com/guatemala/justicia/les-ofrecia-trabajo-las-amenazaba-y-luego-les-apuntaba-con-un-arma-asi-operaba-el-presunto-violador-serial-en-san-jose-pinula/",
-      "fecha": "Mon, 21 Sep 2026 18:31:38 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Rosendo de Jesús Herrera Moguel fue ligado a proceso por violación y violación con agravación de la pena. El MP lo sindica de agredir sexualmente a tres mujeres."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuando la inteligencia artificial se convierte en el psicólogo de los jóvenes",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/cuando-la-inteligencia-artificial-se-convierte-en-el-psicologo-de-los-jovenes/",
-      "fecha": "Mon, 21 Sep 2026 18:30:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Aunque estas herramientas pueden ofrecer acompañamiento en situaciones cotidianas, especialistas señalan que utilizarlas como sustituto de la atención psicológica puede representar riesgos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estas son las 20 mejores aerolíneas del mundo, según los World Airline Awards 2026",
-      "link": "https://www.prensalibre.com/internacional/estas-son-las-20-mejores-aerolineas-del-mundo-segun-los-world-airline-awards-2026/",
-      "fecha": "Mon, 21 Sep 2026 18:26:57 +0000",
-      "categoria": "Internacional",
-      "resumen": "El 18 de septiembre se celebró los World Airline Awards 2026, en donde se enlistaron las 20 aerolíneas mejores evaluadas del mundo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. destaca compra de fusiles por parte de Guatemala para combatir redes de tráfico de drogas, armas y personas",
-      "link": "https://www.prensalibre.com/guatemala/politica/ee-uu-destaca-compra-de-fusiles-por-parte-de-guatemala-para-combatir-redes-de-trafico-de-drogas-armas-y-personas-breaking/",
-      "fecha": "Mon, 21 Sep 2026 18:16:44 +0000",
-      "categoria": "Política",
-      "resumen": "Tras el levantamiento del embargo, Guatemala le compra armas a Estados Unidos para combatir el narcotráfico y otras amenazas transnacionales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Protestas en Texas tras el disparo de un agente de ICE contra un migrante venezolano",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/protestas-en-texas-tras-el-disparo-de-un-agente-de-ice-contra-un-migrante-venezolano/",
-      "fecha": "Mon, 21 Sep 2026 17:54:41 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las protestas tuvieron lugar en Austin, después de que un repartidor venezolano fuera trasladado al hospital con una herida de bala en el torso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gemini, IA de Google, habría &#8220;hackeado&#8221; tres empresas sin recibir órdenes: así fue cómo ocurrió",
-      "link": "https://www.prensalibre.com/vida/tecnologia/gemini-ia-de-google-habria-hackeado-tres-empresas-sin-recibir-ordenes-asi-fue-como-ocurrio/",
-      "fecha": "Mon, 21 Sep 2026 17:34:00 +0000",
-      "categoria": "Tecnología",
-      "resumen": "En medio de discusiones sobre la IA, Google afirmó que su sistema Gemini \"hackeó\" tres empresas de forma autónoma durante una prueba en mayo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Afectarán a EE. UU.? Así avanzan las tormentas tropicales Fay y Odalys en el Atlántico y Pacífico",
-      "link": "https://www.prensalibre.com/internacional/afectaran-a-ee-uu-asi-avanzan-las-tormentas-tropicales-fay-y-odalys-en-el-atlantico-y-pacifico/",
-      "fecha": "Mon, 21 Sep 2026 17:05:01 +0000",
-      "categoria": "Internacional",
-      "resumen": "El NHC vigila dos tormentas tropicales que se han formado en el Atlántico y el Pacífico, además de explicar si existe riesgo de que impacten en EE. UU."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Vaguada monzónica y onda del este incrementarán lluvias en Guatemala",
       "link": "https://www.guatemala.com/noticias/comunidad/pronostico-semanal-clima-en-guatemala-21-al-25-septiembre-2026.html",
@@ -865,14 +873,6 @@
       "fecha": "Thu, 17 Sep 2026 18:58:23 +0000",
       "categoria": "Sociedad",
       "resumen": "Estudiantes de centros educativos públicos y privados tendrán su último día de clases en octubre de 2026, según el calendario escolar del Mineduc.\nThe post ¿Cuándo finaliza el ciclo escolar 2026 en Guatemala? appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Premio Emprendedora del Año 2026 abre convocatoria para mujeres empresarias en Guatemala",
-      "link": "https://www.guatemala.com/noticias/sociedad/convocatoria-abierta-premio-emprendedora-del-ano-2026-guatemala.html",
-      "fecha": "Wed, 16 Sep 2026 23:55:53 +0000",
-      "categoria": "Sociedad",
-      "resumen": "El Premio Emprendedora del Año 2026 reconoce a empresarias que han contribuído al crecimiento del ecosistema emprendedor. ¡Conode dónde aplicar!\nThe post Premio Emprendedora del Año 2026 abre convocatoria para mujeres empresarias en Guatemala appeared first on Guatemala.com."
     }
   ]
 }
