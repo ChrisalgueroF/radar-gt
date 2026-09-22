@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T03:15:24.105Z",
+  "actualizado": "2026-09-22T04:14:55.721Z",
   "total": 109,
   "noticias": [
     {
@@ -20,11 +20,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Apertura 2026: Comunicaciones, Cobán y Suchitepéquez se hunden y así marcha la clasificación",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-comunicaciones-coban-y-suchitepequez-se-hunden-y-asi-marcha-la-clasificacion-breaking/",
+      "fecha": "Tue, 22 Sep 2026 02:46:33 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La lucha por el liderato se mantiene cerrada, mientras Comunicaciones, Cobán y Suchitepéquez enfrentan una creciente presión en el fondo."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "PNC prepara resguardo para periodistas y actores políticos ante riesgos durante el proceso electoral",
       "link": "https://www.prensalibre.com/guatemala/comunitario/pnc-prepara-resguardo-para-periodistas-y-actores-politicos-ante-riesgos-durante-el-proceso-electoral-breaking/",
       "fecha": "Tue, 22 Sep 2026 02:36:06 +0000",
       "categoria": "Comunitario",
       "resumen": "La PNC anunció medidas preventivas para la cobertura periodística y las actividades políticas de cara a las elecciones generales del 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Príncipe Enrique planea documental sobre Diana para Netflix: qué se sabe del proyecto que podría incomodar a Guillermo",
+      "link": "https://www.prensalibre.com/vida/escenario/principe-enrique-planea-documental-sobre-diana-para-netflix-que-se-sabe-del-proyecto-que-podria-incomodar-a-guillermo/",
+      "fecha": "Tue, 22 Sep 2026 02:28:44 +0000",
+      "categoria": "Escenario",
+      "resumen": "El príncipe Enrique evalúa producir un documental sobre su madre, Lady Di. La iniciativa, podría reabrir viejas heridas y tensar la relación con su hermano, el pr´ncipe Guillermo."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,22 +809,6 @@
       "fecha": "Sun, 20 Sep 2026 19:18:00 +0000",
       "categoria": "Escenario",
       "resumen": "La cantante canadiense ofreció un singular saludo a quienes la siguieron hasta la entrada de su hotel en París."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Videos: Ucrania lanza el &#8220;ataque más fuerte&#8221; hasta ahora contra la capital rusa con cientos de drones",
-      "link": "https://www.prensalibre.com/internacional/videos-ucrania-lanza-el-ataque-mas-fuerte-hasta-ahora-contra-la-capital-rusa-con-cientos-de-drones/",
-      "fecha": "Sun, 20 Sep 2026 19:15:03 +0000",
-      "categoria": "Internacional",
-      "resumen": "Rusia acusa a Kiev de querer empañar las elecciones legislativas este fin de semana en ese país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Angelina Jolie y Salma Hayek: Los vínculos que las unen y fortalecen una amistad que va más allá del cine",
-      "link": "https://www.prensalibre.com/vida/escenario/angelina-jolie-y-salma-hayek-los-vinculos-que-las-unen-y-fortalecen-una-amistad-que-va-mas-alla-del-cine/",
-      "fecha": "Sun, 20 Sep 2026 18:35:04 +0000",
-      "categoria": "Escenario",
-      "resumen": "Ambas actrices se dicen sorprendidas por la profundidad de la amistad que han construido en los últimos años."
     },
     {
       "fuente": "Guatemala.com",
