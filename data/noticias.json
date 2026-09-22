@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-22T19:13:09.610Z",
+  "actualizado": "2026-09-22T20:14:45.024Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Contratacaremos si nos atacan&#8221;: el gobierno de Lituania le dice a la BBC que tiene planes de respuesta y evacuación ante las amenazas de Rusia",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/contratacaremos-si-nos-atacan-el-gobierno-de-lituania-le-dice-a-la-bbc-que-tiene-planes-de-respuesta-y-evacuacion-ante-las-amenazas-de-rusia/",
+      "fecha": "Tue, 22 Sep 2026 19:54:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En conversación con el programa Newsnight de la BBC, el primer ministro de Lituania dijo que la población se siente \"constantemente amenazada\" por Moscú."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video &#124; CTA admite error arbitral: Kang-in Lee debió ser expulsado ante el Real Madrid",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-cta-admite-error-del-var-kang-in-lee-debio-ser-expulsado-ante-el-real-madrid-breaking/",
+      "fecha": "Tue, 22 Sep 2026 19:37:45 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El árbitro reconoció el error y el CTA determinó que la entrada de Kang-in Lee era merecedora de roja, mientras el VAR debía haber intervenido."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Qué hay detrás de Trump TV? La Casa Blanca lanza un canal 24/7 en plena disputa con medios",
@@ -164,7 +180,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Jamaica pierde a su figura, Leon Bailey, del Olympiacos, para enfrentar a Guatemala en la Liga de Naciones",
+      "titulo": "Jamaica pierde a su figura, Leon Bailey, del Olympiacos y convoca a Jahmarie Nolan, de 16 años, para enfrentar a Guatemala",
       "link": "https://www.prensalibre.com/deportes/futbol-internacional/jamaica-pierde-a-su-figura-leon-bailey-del-olympiacos-para-enfrentar-a-guatemala-en-la-liga-de-naciones/",
       "fecha": "Tue, 22 Sep 2026 14:14:11 +0000",
       "categoria": "Fútbol Internacional",
@@ -793,22 +809,6 @@
       "fecha": "Mon, 21 Sep 2026 15:47:42 +0000",
       "categoria": "Escenario",
       "resumen": "Arcángel sorprendió a sus seguidores durante su visita a un centro comercial de la zona 10 de la Ciudad de Guatemala, horas antes de su concierto en el país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La magia de Messi no se detiene: así fue el golazo de tiro libre y su tanto 101 con el Inter Miami",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/messi-golazo-tiro-libre-gol-101-inter-miami-san-diego-breaking/",
-      "fecha": "Mon, 21 Sep 2026 15:15:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El argentino marcó un espectacular tiro libre que golpeó en el poste antes de terminar en la portería durante el empate 2-2 frente al San Diego."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvias en Guatemala: Insivumeh pronostica posibles tormentas locales severas esta semana",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-en-guatemala-insivumeh-pronostica-posibles-tormentas-locales-severas-esta-semana-breaking/",
-      "fecha": "Mon, 21 Sep 2026 15:02:38 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La entrada de humedad, las altas temperaturas y el paso o acercamiento de ondas del este traerán lluvias a Guatemala del 21 al 25 de septiembre."
     },
     {
       "fuente": "Guatemala.com",
