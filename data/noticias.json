@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-22T16:15:36.703Z",
+  "actualizado": "2026-09-22T17:14:12.084Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Shakira y Alejandro Sanz volverán a cantar juntos? Mensajes generan expectativa por una posible colaboración",
+      "link": "https://www.prensalibre.com/vida/escenario/shakira-y-alejandro-sanz-volveran-a-cantar-juntos-mensajes-generan-expectativa-por-una-posible-colaboracion/",
+      "fecha": "Tue, 22 Sep 2026 17:01:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Los artistas intercambiaron emotivos mensajes en redes sociales que despertaron entre sus seguidores la emoción de volver a verlos cantar juntos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Decisiones diarias que generan impacto positivo",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/decisiones-diarias-que-generan-impacto-positivo/",
+      "fecha": "Tue, 22 Sep 2026 17:00:00 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Por tercer año consecutivo, BAC promueve el \"Mes de las Acciones Positivas\", una iniciativa que demuestra que la responsabilidad ambiental no es exclusiva de las grandes corporaciones, sino que empieza en las decisiones que tomamos todos los días."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP confirma la destitución de la fiscal Leonor Morales Lazo, contra quien pesaba un procedimiento administrativo",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mp-confirma-la-destitucion-de-la-fiscal-leonor-morales-lazo-contra-quien-pesaba-un-procedimiento-administrativo-breaking/",
+      "fecha": "Tue, 22 Sep 2026 16:45:14 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Ministerio Público informó que destituyó a la fiscal Leonor Morales Lazo por nombrar a un auxiliar fiscal como encargado de la fiscalía mientras ella estaba de vacaciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Selección de Guatemala trabaja en Miami antes de viajar a Jamaica para la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-trabaja-en-miami-antes-de-viajar-a-jamaica-para-la-liga-de-naciones-breaking/",
+      "fecha": "Tue, 22 Sep 2026 16:26:54 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Bicolor realizó su práctica en el Amerant Bank Field como parte de la preparación para el duelo de este viernes contra los Reggae Boyz."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Conciertos en Guatemala 2026: los shows programados de octubre a diciembre",
@@ -769,38 +801,6 @@
       "fecha": "Mon, 21 Sep 2026 11:00:00 +0000",
       "categoria": "Economía",
       "resumen": "Guatemala podría vincularse con NASDA, organización que representa a los departamentos de Agricultura de los 50 estados de Estados Unidos, para intercambiar tecnología, capacitación y experiencias agrícolas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "CIV proyecta atender 2 mil 300 km de red vial, pero expertos advierten déficit en cobertura actual",
-      "link": "https://www.prensalibre.com/guatemala/politica/civ-proyecta-atender-2-mil-300-km-de-red-vial-pero-expertos-advierten-deficit-en-cobertura-actual/",
-      "fecha": "Mon, 21 Sep 2026 11:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Ministerio de Comunicaciones, Infraestructura y Vivienda (CIV) tiene como meta atender más de 2 mil 300 kilómetros de la red vial durante la actual gestión; sin embargo, expertos consideran que persiste un déficit de cobertura y ponen en duda que se alcance lo proyectado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala paga 40.8% más por importar hidrocarburos en el 2026",
-      "link": "https://www.prensalibre.com/economia/factura-petrolera-para-guatemala-por-importacion-de-hidrocarburos-sube-40-8-hasta-julio-del-2026/",
-      "fecha": "Mon, 21 Sep 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Conflictos geopolíticos elevan factura petrolera de Guatemala por importación de hidrocarburos por US$3 mil 599 millones en siete meses, alza en diésel uno de los principales, le siguen las gasolinas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pruebas Pisa: uno de cada tres estudiantes guatemaltecos carece de acceso a recreación y actividades sociales",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/pruebas-pisa-uno-de-cada-tres-estudiantes-guatemaltecos-carece-de-acceso-a-recreacion-y-actividades-sociales/",
-      "fecha": "Mon, 21 Sep 2026 06:10:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Las pruebas Pisa 2025 también miden factores que inciden en el desempeño de los estudiantes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Noticias de la Casa Blanca",
-      "link": "https://www.prensalibre.com/opinion/caricatura/noticias-de-la-casa-blanca/",
-      "fecha": "Mon, 21 Sep 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
     },
     {
       "fuente": "Guatemala.com",
