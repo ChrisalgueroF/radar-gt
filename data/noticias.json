@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-22T14:15:25.875Z",
+  "actualizado": "2026-09-22T15:15:09.593Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clima en Guatemala este 22 de septiembre: Insivumeh informa sobre lluvias y temperaturas máximas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-este-22-de-septiembre-insivumeh-informa-sobre-lluvias-y-temperaturas-maximas-breaking/",
+      "fecha": "Tue, 22 Sep 2026 14:21:04 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh pronostica lluvias durante la tarde o noche en gran parte del territorio nacional este martes 22 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jamaica pierde a su figura, Leon Bailey, del Olympiacos, para enfrentar a Guatemala en la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/jamaica-pierde-a-su-figura-leon-bailey-del-olympiacos-para-enfrentar-a-guatemala-en-la-liga-de-naciones/",
+      "fecha": "Tue, 22 Sep 2026 14:14:11 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El extremo jamaicano sufrió una lesión y permanecerá en Grecia para recuperarse; los Reggae Boyz debutarán este viernes ante la Bicolor."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Veto de Trump a medios: J.D Vance explica por qué defiende las restricciones en la Casa Blanca",
@@ -785,22 +801,6 @@
       "fecha": "Mon, 21 Sep 2026 06:02:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Nuestro país enfrenta el doble reto de ofrecer educación para todos y lograr que aprendan."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lo que se pide vs. lo que se ofrece",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/lo-que-se-pide-vs-lo-que-se-ofrece/",
-      "fecha": "Mon, 21 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Ante el primer pedido de apoyo de la ciudadanía, el Gobierno optó por un subsidio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy lunes 21 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-21-de-septiembre-de-2026/",
-      "fecha": "Mon, 21 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
     },
     {
       "fuente": "Guatemala.com",
