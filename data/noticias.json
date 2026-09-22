@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-21T23:14:12.087Z",
+  "actualizado": "2026-09-22T00:20:44.851Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Subsidio al diésel daría estabilidad a las tarifas por época de fin de año, afirman transportistas",
+      "link": "https://www.prensalibre.com/economia/subsidio-al-diesel-daria-estabilidad-a-las-tarifas-por-epoca-de-fin-de-ano-afirman-transportistas/",
+      "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El sector logístico y de transporte de carga pidió al Congreso concluir lo antes posible el proceso legislativo relacionado con alguna medida de apoyo temporal a los combustibles, frente a los precios actuales en las estaciones de servicio. Dado que brindaría estabilidad a las tarifas en plena temporada alta de movimiento de mercancías."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lluvia complica el tránsito en la capital y Villa Nueva este 21 de septiembre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvia-complica-el-transito-en-la-capital-y-villa-nueva-este-21-de-septiembre-breaking/",
+      "fecha": "Mon, 21 Sep 2026 23:38:34 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Las fuertes lluvias de este lunes afectan la movilidad en distintos sectores del área metropolitana. Autoridades de tránsito piden extremar las precauciones y advierten sobre reducción de visibilidad y tránsito lento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Verificamos por usted: ¿Hay desabastecimiento de gasolina en Guatemala? Ministerio de Energía y Asociación de Expendedores responden",
+      "link": "https://www.prensalibre.com/guatemala/verificamos-por-usted-hay-desabastecimiento-de-gasolina-en-guatemala-ministerio-de-energia-y-asociacion-de-expendedores-responden/",
+      "fecha": "Mon, 21 Sep 2026 23:30:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El MEM asegura que Guatemala cuenta con suficiente gasolina, mientras AGEG explica que algunas estaciones han registrado faltantes temporales y de corta duración debido a dos factores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Paramount y Warner Bros.: fiscales generales estatales acuerdan resolver demanda contra la fusión de los gigantes de Hollywood",
+      "link": "https://www.prensalibre.com/vida/escenario/paramount-y-warner-bros-fiscales-generales-estatales-acuerdan-resolver-demanda-contra-la-fusion-de-los-gigantes-de-hollywood/",
+      "fecha": "Mon, 21 Sep 2026 23:23:31 +0000",
+      "categoria": "Escenario",
+      "resumen": "La demanda antimonopolio que puso en pausa la fusión entre Paramount y Warner Bros. podría llegar a su fin, luego de que se anunciara un acuerdo para resolver el proceso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así respondió la prensa de EE. UU. al veto de Trump a medios que acusa de publicar “noticias falsas”",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/asi-respondio-la-prensa-de-ee-uu-al-veto-de-trump-a-medios-que-acusa-de-publicar-noticias-falsas/",
+      "fecha": "Mon, 21 Sep 2026 23:12:53 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "The Washington Post y The New York Times se solidarizan con los medios restringidos en la Casa Blanca al no publicar fotografías de las actividades de Donald Trump. ABC, CBS y NBC también suspendieron la cobertura de la Casa Blanca."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "No llegaron al altar: Daniel y Angélica mueren un día antes de su boda y son sepultados vestidos de novios",
@@ -17,6 +57,14 @@
       "fecha": "Mon, 21 Sep 2026 22:36:43 +0000",
       "categoria": "Escenario",
       "resumen": "Shakira reunió a unos 165 mil fanáticos en Madrid durante los primeros tres conciertos de la residencia con la que cerrará su gira “Las Mujeres Ya No Lloran World Tour”."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué pasó con el pasajero del crucero Carnival que saltó al mar horas antes de llegar a tierra",
+      "link": "https://www.prensalibre.com/internacional/que-paso-con-el-pasajero-del-crucero-carnival-que-salto-al-mar-horas-antes-de-llegar-a-tierra/",
+      "fecha": "Mon, 21 Sep 2026 22:31:51 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un viaje de crucero termina en pesadilla cuando las cámaras captaron a un pasajero saltando al mar a horas de llegar a su destino."
     },
     {
       "fuente": "Prensa Libre",
@@ -761,54 +809,6 @@
       "fecha": "Sun, 20 Sep 2026 13:52:54 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Las autoridades reportaron al menos dos muertos y 20 heridos como consecuencia de los bombardeos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Atlético de Madrid vs. Real Madrid: un derbi de alta presión en LaLiga",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-atletico-de-madrid-vs-real-madrid-un-derbi-de-alta-presion-en-laliga-breaking/",
-      "fecha": "Sun, 20 Sep 2026 13:30:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Atlético y Real Madrid se enfrentan en el Metropolitano con la obligación de no ceder más terreno ante el ritmo del Barcelona."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ricardo Hernández convirtió a Pepito en una herramienta social",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/ricardo-hernandez-convirtio-a-pepito-en-una-herramienta-social/",
-      "fecha": "Sun, 20 Sep 2026 13:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Pepito nació como una forma de acercarse a jóvenes y terminó acompañando durante casi dos décadas a niños, adolescentes y familias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué revisarán ahora los bancos? 8 preguntas para entender la nueva Ley Antilavado",
-      "link": "https://www.prensalibre.com/economia/que-revisaran-ahora-los-bancos-8-preguntas-para-entender-la-nueva-ley-antilavado/",
-      "fecha": "Sun, 20 Sep 2026 12:32:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La nueva ley antilavado ya está vigente en Guatemala desde el 17 de septiembre. Conozca qué implica para los usuarios de bancos y por qué una operación puede ser considerada inusual o sospechosa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Karl Bushby, el aventurero británico que partió de Chile y lleva 28 años recorriendo el mundo a pie",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/karl-bushby-el-aventurero-britanico-que-partio-de-chile-y-lleva-28-anos-recorriendo-el-mundo-a-pie/",
-      "fecha": "Sun, 20 Sep 2026 12:28:23 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La BBC se traslada a Bélgica para caminar un tramo con el aventurero Karl Bushby, cuyo viaje de regreso a casa se acerca al final tras 28 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo no asistirá por primera vez a Asamblea de la ONU por coincidencia con discusión sobre subsidio a combustibles en el Congreso",
-      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-no-asistira-a-asamblea-de-la-onu-mientras-congreso-discute-decreto-sobre-combustibles/",
-      "fecha": "Sun, 20 Sep 2026 12:00:00 +0000",
-      "categoria": "Política",
-      "resumen": "Carlos Ramiro Martínez encabezará la representación, integrada además por autoridades de Segeplan y Cancillería y la esposa del presidente, Lucrecia Peinado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala prepara su estrategia de inteligencia artificial, pero aún debe definir quién la dirigirá",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-prepara-su-estrategia-de-inteligencia-artificial-pero-aun-debe-definir-quien-la-dirigira/",
-      "fecha": "Sun, 20 Sep 2026 12:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Senacyt prevé completar este año una estrategia gubernamental de inteligencia artificial y avanzar en el 2027 hacia una política nacional que defina su conducción institucional."
     },
     {
       "fuente": "Guatemala.com",
