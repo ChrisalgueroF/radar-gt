@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-22T13:16:12.177Z",
+  "actualizado": "2026-09-22T14:15:25.875Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Veto de Trump a medios: J.D Vance explica por qué defiende las restricciones en la Casa Blanca",
+      "link": "https://www.prensalibre.com/internacional/veto-de-trump-a-medios-j-d-vance-explica-por-que-defiende-las-restricciones-en-la-casa-blanca/",
+      "fecha": "Tue, 22 Sep 2026 13:52:46 +0000",
+      "categoria": "Internacional",
+      "resumen": "El vicepresidente J. D. Vance justificó la prohibición de acceso al afirmar que el 92% de las noticias de esos medios sobre Trump son negativas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Accidente entre camión y tráiler complica el tránsito en el km 25 de la ruta Interamericana",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-entre-camion-y-trailer-complica-el-transito-en-el-km-25-de-la-ruta-interamericana-breaking/",
+      "fecha": "Tue, 22 Sep 2026 13:38:18 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Bomberos reportan accidente entre tráiler y camión que transportaba cilindros de gas en la ruta Interamericana."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Mundial de Ciclismo 2026: Guatemala afronta el reto de competir ante los mejores",
@@ -785,22 +801,6 @@
       "fecha": "Mon, 21 Sep 2026 06:01:00 +0000",
       "categoria": "Vida",
       "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Constancia transitoria de inexistencia de cargos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/constancia-transitoria-de-inexistencia-de-cargos/",
-      "fecha": "Mon, 21 Sep 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La CTIRC es un documento que acredita que una persona que ha desempeñado un cargo público no tiene reclamaciones o juicios pendientes derivados de esos cargos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Licencias de construcción: Ventanilla Ágil venció en agosto y renovación de convenio está pendiente",
-      "link": "https://www.prensalibre.com/economia/licencias-de-construccion-ventanilla-agil-vencio-en-agosto-y-renovacion-de-convenio-esta-pendiente/",
-      "fecha": "Mon, 21 Sep 2026 06:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Pese a reducciones de hasta el 54% en los tiempos para obtener licencias de construcción, el convenio que permite la operación de la Ventanilla Ágil de la Construcción (VAC) no ha sido renovado desde su vencimiento, el mes pasado."
     },
     {
       "fuente": "Guatemala.com",
