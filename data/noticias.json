@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-22T00:20:44.851Z",
+  "actualizado": "2026-09-22T01:12:47.190Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una máquina para contar dinero, radios, armas, municiones y droga: los indicios localizados en siete allanamientos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/una-maquina-para-contar-dinero-radios-armas-municiones-y-droga-los-indicios-localizados-en-siete-allanamientos-breaking/",
+      "fecha": "Tue, 22 Sep 2026 00:38:00 +0000",
+      "categoria": "Justicia",
+      "resumen": "Siete allanamientos antinarcóticos en el departamento de Guatemala permitieron localizar droga, armas, municiones y un posible narcolaboratorio."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Subsidio al diésel daría estabilidad a las tarifas por época de fin de año, afirman transportistas",
@@ -73,6 +81,14 @@
       "fecha": "Mon, 21 Sep 2026 22:16:04 +0000",
       "categoria": "Deporte Nacional",
       "resumen": "La delegación nacional tuvo una sobresaliente actuación en El Salvador, donde confirmó su nivel regional con siete títulos, cinco platas y dos bronces."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Replican el modelo de Bukele? los 10 países que buscarían implementar el modelo de cárceles de El Salvador",
+      "link": "https://www.prensalibre.com/internacional/replican-el-modelo-de-bukele-los-10-paises-que-buscarian-implementar-el-modelo-de-carceles-de-el-salvador/",
+      "fecha": "Mon, 21 Sep 2026 22:14:51 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un informe de Insight Crime informó que el modelo carcelario de El Salvador habría impulsado 16 proyectos carcelarios en 10 países de América Latina."
     },
     {
       "fuente": "Prensa Libre",
@@ -308,11 +324,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Sequía prolongada pone en alerta roja a 15 municipios de Chiquimula y Jutiapa",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/sequia-prolongada-pone-en-alerta-roja-a-15-municipios-del-trifinio-breaking/",
+      "titulo": "Declaran alerta roja por sequía en Chiquimula y Jutiapa, pero aún no se define cuándo llegará la ayuda",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/declaran-alerta-roja-por-sequia-en-chiquimula-y-jutiapa-pero-aun-no-se-define-cuando-llegara-la-ayuda/",
       "fecha": "Mon, 21 Sep 2026 16:11:38 +0000",
       "categoria": "Comunitario",
-      "resumen": "Son 13 mil 825 familias las que están en mayor vulnerabilidad en municipios de la Región Trifinio, en Chiquimula y Jutiapa, por la sequía prolongada."
+      "resumen": "Vulnerabilidad por la sequía prolongada alcanza 13 mil 825 familias en municipios de la Región Trifinio y Conred expone cómo se gestiona la asistencia."
     },
     {
       "fuente": "Guatemala.com",
@@ -793,22 +809,6 @@
       "fecha": "Sun, 20 Sep 2026 14:36:45 +0000",
       "categoria": "Deporte Nacional",
       "resumen": "Copenhague fue escenario de otra jornada histórica para la guatemalteca Viviana Aroche, quien completó los 21 kilómetros en 1:10:53, superando por 34 segundos la marca que había conseguido en Barcelona."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comunicaciones agrava su crisis y suma seis derrotas en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-agrava-su-crisis-y-suma-seis-derrotas-en-el-apertura-2026-breaking/",
-      "fecha": "Sun, 20 Sep 2026 14:08:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La derrota ante Guastatoya aumentó la presión sobre los Cremas, con aficionados inconformes y exjugadores que cuestionan el mal momento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ucrania golpea Moscú con unos 450 drones en el mayor ataque contra la capital rusa hasta la fecha",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ucrania-golpea-moscu-con-unos-450-drones-en-el-mayor-ataque-contra-la-capital-rusa-hasta-la-fecha/",
-      "fecha": "Sun, 20 Sep 2026 13:52:54 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las autoridades reportaron al menos dos muertos y 20 heridos como consecuencia de los bombardeos."
     },
     {
       "fuente": "Guatemala.com",
