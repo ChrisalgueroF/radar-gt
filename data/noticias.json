@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-23T18:18:56.681Z",
+  "actualizado": "2026-09-23T19:13:13.569Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Festival de las Flores en Petén 2026: agenda de actividades que llenarán de color, arte y música la Isla de Flores",
+      "link": "https://www.prensalibre.com/vida/escenario/festival-de-las-flores-en-peten-2026-agenda-de-actividades-que-llenaran-de-color-arte-y-musica-la-isla-de-flores/",
+      "fecha": "Wed, 23 Sep 2026 18:50:28 +0000",
+      "categoria": "Escenario",
+      "resumen": "La creatividad del arte floral, la música y la belleza de la Isla de Flores serán los componentes del primer Festival de las Flores en Petén. Conozca la agenda de actividades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Irán ofrece reabrir el estrecho de Ormuz en siete días: estas son las condiciones que pone a EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/iran-ofrece-reabrir-el-estrecho-de-ormuz-en-siete-dias-estas-son-las-condiciones-que-pone-a-ee-uu/",
+      "fecha": "Wed, 23 Sep 2026 18:49:12 +0000",
+      "categoria": "Internacional",
+      "resumen": "Este hecho permitiría un gran cambio: el aumento del tránsito de crudo y la reducción de su precio, así como una mayor circulación de productos refinados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El dramático desahucio de la anciana Maricarmen de 87 años que expone la gravedad de la crisis de vivienda en España",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-dramatico-desahucio-de-la-anciana-maricarmen-de-87-anos-que-expone-la-gravedad-de-la-crisis-de-vivienda-en-espana/",
+      "fecha": "Wed, 23 Sep 2026 18:35:23 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Maricarmen, inquilina de un piso en el centro de Madrid, no podía pagar el alquiler fijado por la empresa que lo compró años atrás."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Una colisión y un arma: confuso incidente deja una persona fallecida y otra herida en área de El Trébol",
@@ -9,6 +33,14 @@
       "fecha": "Wed, 23 Sep 2026 17:57:25 +0000",
       "categoria": "Sucesos",
       "resumen": "La PMT informa de cierres viales frente al mercado El Guarda, zona 11, tras un confuso incidente que dejó una persona herida y otra fallecida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿El más fuerte jamás visto? Así avanza el huracán Polo en México tras debilitarse a categoría 4",
+      "link": "https://www.prensalibre.com/internacional/el-mas-fuerte-jamas-visto-asi-avanza-el-huracan-polo-en-mexico-tras-debilitarse-a-categoria-4/",
+      "fecha": "Wed, 23 Sep 2026 17:42:05 +0000",
+      "categoria": "Internacional",
+      "resumen": "A pesar de bajar a categoría 4, el huracán Polo es considerado por muchos expertos como una de las tormentas más fuertes jamás vistas."
     },
     {
       "fuente": "Prensa Libre",
@@ -787,44 +819,12 @@
       "resumen": "La librería Sophos reúne en un conversatorio a autores que han publicado libros en los últimos meses."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué pasará con California tras ser declarado estado de emergencia por los riesgos del fenómeno de &#8220;El Niño&#8221;",
-      "link": "https://www.prensalibre.com/internacional/que-pasara-con-california-tras-ser-declarado-estado-de-emergencia-por-los-riesgos-del-fenomeno-de-el-nino/",
-      "fecha": "Tue, 22 Sep 2026 18:13:28 +0000",
-      "categoria": "Internacional",
-      "resumen": "Autoridades estadounidenses advierten que El Niño amenaza con potenciar un invierno con lluvias y nevadas muy por encima de lo normal en California."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Revelan la causa de la muerte de la actriz Hayden Panettiere, estrella de &#8220;Heroes&#8221; y &#8220;Nashville&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/revelan-la-causa-de-la-muerte-de-la-actriz-hayden-panettiere-estrella-de-heroes-y-nashville/",
-      "fecha": "Tue, 22 Sep 2026 18:09:56 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Según la oficina forense, una mezcla letal de drogas causó la muerte de la actriz de 36 años."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Guatemalteca actúa en serie protagonizada por Eugenio Derbez y Pedro Alonso de La Casa de Papel",
       "link": "https://www.guatemala.com/noticias/entretenimiento/guatemalteca-lourdes-chavez-actua-junto-eugenio-derbez-pedro-alonso-serie-el-juicio.html",
       "fecha": "Tue, 22 Sep 2026 18:07:03 +0000",
       "categoria": "Entretenimiento",
       "resumen": "La actriz Lourdes Chavez actúa en la serie de Prime Video, El Juicio, protagonizada por Eugenio Derbez y Pedro Alonso de La Casa de Papel.\nThe post Guatemalteca actúa en serie protagonizada por Eugenio Derbez y Pedro Alonso de La Casa de Papel appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo le ha ido a Guatemala contra Jamaica? Conozca el historial entre las dos selecciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/como-le-ha-ido-a-guatemala-contra-jamaica-conozca-el-historial-entre-las-dos-selecciones/",
-      "fecha": "Tue, 22 Sep 2026 17:17:21 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El dominio de Jamaica no es casualidad, sino que responde a características que a Guatemala le ha costado contrarrestar, como el despliegue atlético y el roce internacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Shakira y Alejandro Sanz volverán a cantar juntos? Mensajes generan expectativa por una posible colaboración",
-      "link": "https://www.prensalibre.com/vida/escenario/shakira-y-alejandro-sanz-volveran-a-cantar-juntos-mensajes-generan-expectativa-por-una-posible-colaboracion/",
-      "fecha": "Tue, 22 Sep 2026 17:01:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Los artistas intercambiaron emotivos mensajes en redes sociales que despertaron entre sus seguidores la emoción de volver a verlos cantar juntos."
     },
     {
       "fuente": "Guatemala.com",
