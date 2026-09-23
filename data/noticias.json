@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-23T13:16:46.491Z",
+  "actualizado": "2026-09-23T14:16:01.074Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clima en Guatemala: las lluvias continuarán en gran parte del territorio nacional este 23 de septiembre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-las-lluvias-continuaran-en-gran-parte-del-territorio-nacional-este-23-de-septiembre-breaking/",
+      "fecha": "Wed, 23 Sep 2026 14:01:51 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh pronostica fuertes lluvias en Guatemala para este miércoles 23 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Santiago de León, el piloto guatemalteco que convierte sus sueños en velocidad",
+      "link": "https://www.prensalibre.com/deportes/santiago-de-leon-el-piloto-guatemalteco-que-convierte-sus-suenos-en-velocidad-breaking/",
+      "fecha": "Wed, 23 Sep 2026 14:00:00 +0000",
+      "categoria": "Deportes",
+      "resumen": "Con esfuerzo, disciplina y el respaldo de su familia, Santiago de León ha convertido su pasión por la velocidad en una historia que lleva el nombre de Guatemala a las pistas internacionales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Metimos la pata&#8221;: la enorme compensación que tendrá que desembolsar DoorDash tras admitir que pagó menos de lo debido a sus repartidores en Nueva York",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/metimos-la-pata-la-enorme-compensacion-que-tendra-que-desembolsar-doordash-tras-admitir-que-pago-menos-de-lo-debido-a-sus-repartidores-en-nueva-york/",
+      "fecha": "Wed, 23 Sep 2026 13:27:47 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La empresa aceptó la deuda que tenía con varios repartidores que trabajan con su aplicación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lluvia, árboles derribados y vehículos averiados complican tránsito en la metrópoli este 23 de septiembre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvia-arboles-derribados-y-vehiculos-averiados-complican-transito-en-la-metropoli-este-23-de-septiembre-breaking/",
+      "fecha": "Wed, 23 Sep 2026 13:13:15 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La movilidad vehicular se complica este 23 de septiembre en la metrópoli por las lluvias de las últimas horas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Combustibles: el Congreso aprobó una nueva medida, pero ¿qué pasará con el subsidio?",
@@ -777,38 +809,6 @@
       "fecha": "Tue, 22 Sep 2026 11:24:52 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Dos excompañeros de clase indonesios dedicaron años a reunir pruebas contra el director de su escuela antes de enamorarse."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Nuestro director era un abusador&#8221;: cómo dos exalumnos de un internado unieron fuerzas para buscar justicia y terminaron casándose",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/nuestro-director-era-un-abusador-como-dos-exalumnos-de-un-internado-unieron-fuerzas-para-buscar-justicia-y-terminaron-casandose/",
-      "fecha": "Tue, 22 Sep 2026 11:24:52 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Dos excompañeros de clase indonesios dedicaron años a reunir pruebas contra el director de su escuela antes de enamorarse."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Terminal de contenedores: EPQ inicia proceso para definir operador y APM Terminals busca continuar en Puerto Quetzal",
-      "link": "https://www.prensalibre.com/economia/terminal-de-contenedores-epq-inicia-proceso-para-definir-operador-y-apm-terminals-busca-continuar-en-puerto-quetzal/",
-      "fecha": "Tue, 22 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "A un año de que concluya el contrato temporal entre la Empresa Portuaria Quetzal (EPQ) y APM Terminals Quetzal, el pasado 1 de septiembre comenzó el proceso de invitación a compañías especializadas interesadas en operar la terminal de contenedores mediante contratos de arrendamiento y prestación de servicios marítimos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los voluntarios que arriesgan sus vidas para desactivar las &#8220;bombas de carbono&#8221; de los catastróficos incendios forestales que azotan Indonesia",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-voluntarios-que-arriesgan-sus-vidas-para-desactivar-las-bombas-de-carbono-de-los-catastroficos-incendios-forestales-que-azotan-indonesia/",
-      "fecha": "Tue, 22 Sep 2026 10:32:19 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los incendios en las turberas de Borneo están liberando antiguas reservas de carbono y extendiendo una nube tóxica por todo el sudeste asiático."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Salario mínimo 2027: qué sigue tras la falta de consenso entre trabajadores y empleadores",
-      "link": "https://www.prensalibre.com/economia/salario-minimo-2027-que-sigue-tras-la-falta-de-consenso-entre-trabajadores-y-empleadores/",
-      "fecha": "Tue, 22 Sep 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Las Comisiones Paritarias entregaron a la Comisión Nacional del Salario (CNS) sus informes sin consenso sobre el salario mínimo del 2027. La discusión de los sectores laboral, empleador y gubernamental continuará en la CNS, la cual debe enviar su informe al Ministerio de Trabajo y, este, a su vez, al presidente de la República."
     },
     {
       "fuente": "Guatemala.com",
