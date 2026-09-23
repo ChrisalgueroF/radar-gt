@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-23T14:16:01.074Z",
+  "actualizado": "2026-09-23T15:14:43.355Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Muerte de guatemalteco en Míchigan: ICE dice que intentó detenerlo antes del accidente mortal",
+      "link": "https://www.prensalibre.com/internacional/muerte-de-guatemalteco-en-michigan-ice-dice-que-intento-detenerlo-antes-del-accidente-mortal/",
+      "fecha": "Wed, 23 Sep 2026 15:11:14 +0000",
+      "categoria": "Internacional",
+      "resumen": "El guatemalteco Mario David Coronado Juárez murió luego de que su camioneta se estrellara contra un árbol y se incendiara durante un intento de detención por el ICE."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Combustibles en Guatemala estarán exentos temporalmente de impuestos",
+      "link": "https://www.guatemala.com/noticias/comunidad/autorizan-exoneracion-temporal-impuestos-iva-e-idp-gasolina-diesel-guatemala.html",
+      "fecha": "Wed, 23 Sep 2026 14:50:49 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Congreso de la República aprobó exoneración temporal de impuestos a la gasolina y el diésel en Guatemala, aunque la medida aún no entra en vigencia.\nThe post Combustibles en Guatemala estarán exentos temporalmente de impuestos appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a presunto integrante de la banda “El Canche”, señalada de robar motocicletas y automóviles",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-presunto-integrante-de-la-banda-el-canche-senalada-de-robar-motocicletas-y-automoviles-breaking/",
+      "fecha": "Wed, 23 Sep 2026 14:46:17 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC capturó en Escuintla a presunto integrante de una estructura criminal dedicada al robo de vehículos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Clima en Guatemala: las lluvias continuarán en gran parte del territorio nacional este 23 de septiembre",
@@ -795,22 +819,6 @@
       "resumen": "Reportan temblor de magnitud 5.2 con epicentro en Escuintla este martes 22 de septiembre."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Turismo de salud: las ventajas de Guatemala para atraer pacientes extranjeros y qué frena al sector",
-      "link": "https://www.prensalibre.com/economia/turismo-de-salud-las-ventajas-de-guatemala-para-atraer-pacientes-extranjeros-y-que-frena-al-sector/",
-      "fecha": "Tue, 22 Sep 2026 12:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El país tiene ventajas para desarrollar el turismo de salud, pero expertos señalan que debe conectar clínicas, hospitales, hoteles, transporte y operadores turísticos para convertir servicios aislados en una oferta integral."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Nuestro director era un abusador&#8221;: cómo dos exalumnos de un internado unieron fuerzas para buscar justicia y terminaron casándose",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/nuestro-director-era-un-abusador-como-dos-exalumnos-de-un-internado-unieron-fuerzas-para-buscar-justicia-y-terminaron-casandose-2/",
-      "fecha": "Tue, 22 Sep 2026 11:24:52 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Dos excompañeros de clase indonesios dedicaron años a reunir pruebas contra el director de su escuela antes de enamorarse."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Vaguada monzónica y onda del este incrementarán lluvias en Guatemala",
       "link": "https://www.guatemala.com/noticias/comunidad/pronostico-semanal-clima-en-guatemala-21-al-25-septiembre-2026.html",
@@ -865,14 +873,6 @@
       "fecha": "Thu, 17 Sep 2026 22:39:57 +0000",
       "categoria": "Cultura",
       "resumen": "Descubre las actividades que se desarrollarán entre octubre y noviembre por la décima edición del Festival de las Flores 2026 en Antigua Guatemala.\nThe post Todas las actividades del Festival de las Flores 2026 en Antigua Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "¿Cuándo finaliza el ciclo escolar 2026 en Guatemala?",
-      "link": "https://www.guatemala.com/noticias/sociedad/cuando-finaliza-ciclo-escolar-2026-guatemala-sector-privado-y-publico.html",
-      "fecha": "Thu, 17 Sep 2026 18:58:23 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Estudiantes de centros educativos públicos y privados tendrán su último día de clases en octubre de 2026, según el calendario escolar del Mineduc.\nThe post ¿Cuándo finaliza el ciclo escolar 2026 en Guatemala? appeared first on Guatemala.com."
     }
   ]
 }
