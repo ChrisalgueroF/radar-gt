@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-23T00:20:07.279Z",
+  "actualizado": "2026-09-23T01:13:52.478Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "California declara el 25 de septiembre como el Día de Dolly Parton",
+      "link": "https://www.prensalibre.com/vida/escenario/california-declara-el-25-de-septiembre-como-el-dia-de-dolly-parton/",
+      "fecha": "Wed, 23 Sep 2026 00:48:02 +0000",
+      "categoria": "Escenario",
+      "resumen": "La leyenda de la música country, Dolly Parton, tendrá un día al año dedicado a reconocer su legado y trayectoria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Camilo Séptimo pospone todos sus conciertos de 2026 tras la muerte de su tecladista &#8220;Honas&#8221; Meléndez",
+      "link": "https://www.prensalibre.com/vida/escenario/camilo-septimo-pospone-todos-sus-conciertos-de-2026-tras-la-muerte-de-su-tecladista-honas-melendez/",
+      "fecha": "Wed, 23 Sep 2026 00:35:19 +0000",
+      "categoria": "Escenario",
+      "resumen": "La agrupación mexicana buscará reprogramar para 2027 los conciertos que tenía previstos para este año. Esto se sabe."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El sector tecnológico argentino regresa a Guatemala: 15 empresas buscan nuevos negocios",
+      "link": "https://www.prensalibre.com/economia/el-sector-tecnologico-argentino-regresa-a-guatemala-15-empresas-buscan-nuevos-negocios/",
+      "fecha": "Wed, 23 Sep 2026 00:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Una misión de 15 compañías llegará al país para buscar alianzas en sectores como tecnología financiera y agrícola, ciberseguridad y comercio electrónico. El sector de servicios basados en conocimiento de Argentina exporta US$9 mil 600 millones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Campeonato Latinoamericano de Bandas 2026: ¿Cuáles son las bandas escolares internacionales que desfilarán por la Sexta Avenida?",
+      "link": "https://www.prensalibre.com/vida/escenario/campeonato-latinoamericano-de-bandas-2026-cuales-son-las-bandas-escolares-internacionales-que-desfilaran-por-la-sexta-avenida/",
+      "fecha": "Wed, 23 Sep 2026 00:21:42 +0000",
+      "categoria": "Escenario",
+      "resumen": "El sonido de las bandas escolares de distintos países de Latinoamérica llegará al Paseo de la Sexta con el desfile del Campeonato Latinoamericano de Bandas 2026. Estas son las delegaciones que participarán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. y Guatemala ponen el foco en narcopolíticos y dinero ilícito frente a las elecciones del 2027",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ee-uu-y-guatemala-ponen-el-foco-en-narcopoliticos-y-dinero-ilicito-frente-a-las-elecciones-del-2027/",
+      "fecha": "Tue, 22 Sep 2026 23:42:14 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La narcopolítica, estructuras transnacionales y el flujo de dinero ilícito están entre los objetivos de la cooperación entre Guatemala y fiscales de nueve distritos de Estados Unidos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Estrés, ansiedad y depresión: cómo afecta el fenómeno de El Niño a la salud mental",
@@ -9,6 +49,14 @@
       "fecha": "Tue, 22 Sep 2026 23:30:28 +0000",
       "categoria": "Salud y Familia",
       "resumen": "La OPS alerta sobre los efectos que el fenómeno climático de El Niño puede tener en la salud mental y brinda recomendaciones para afrontarlos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "CyberDays 2026 tendrá cinco días de ofertas: cuándo comienza y qué productos tendrán descuentos",
+      "link": "https://www.prensalibre.com/guatemala/cyberdays-2026-tendra-cinco-dias-de-ofertas-cuando-comienza-y-que-productos-tendran-descuentos/",
+      "fecha": "Tue, 22 Sep 2026 23:30:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "CyberDays 2026 se realizará del 19 al 23 de octubre y reunirá a marcas con consumidores en una nueva jornada de comercio electrónico en Guatemala."
     },
     {
       "fuente": "Prensa Libre",
@@ -36,6 +84,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "“Hágannoslo saber y los eliminamos”: Qué dijo Trump sobre usar fuerza militar en Latinoamérica contra organizaciones criminales",
+      "link": "https://www.prensalibre.com/internacional/hagannoslo-saber-y-los-eliminamos-que-dijo-trump-sobre-usar-fuerza-militar-en-latinoamerica-contra-organizaciones-criminales/",
+      "fecha": "Tue, 22 Sep 2026 23:12:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente de Estados Unidos, Donald Trump, durante su intervención ante la Asamblea General de la ONU, ofreció usar la fuerza militar en Latinoamérica contra organizaciones criminales que amenazan los intereses de su país."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Una fiesta de sabor, diversión y promociones inspirada por el taco",
       "link": "https://www.prensalibre.com/economia/vida-empresarial/una-fiesta-de-sabor-diversion-y-promociones-inspirada-por-el-taco/",
       "fecha": "Tue, 22 Sep 2026 23:09:40 +0000",
@@ -49,6 +105,14 @@
       "fecha": "Tue, 22 Sep 2026 22:50:14 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Jake Horton, Ben Chu y Rupert Carey, de BBC Verify, examinaron las afirmaciones del presidente y las contrastaron con los datos y la evidencia disponibles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué implica el acuerdo de seguridad entre EE. UU., Dinamarca y Groenlandia que permitirá nuevas bases militares?",
+      "link": "https://www.prensalibre.com/internacional/que-implica-el-acuerdo-de-seguridad-entre-ee-uu-dinamarca-y-groenlandia-que-permitira-nuevas-bases-militares/",
+      "fecha": "Tue, 22 Sep 2026 22:43:16 +0000",
+      "categoria": "Internacional",
+      "resumen": "Estados Unidos amplía su presencia militar en Groenlandia con nuevas bases para frenar a potencias rivales. ¿Cómo impacta esto al Ártico?"
     },
     {
       "fuente": "Prensa Libre",
@@ -745,70 +809,6 @@
       "fecha": "Mon, 21 Sep 2026 22:31:51 +0000",
       "categoria": "Internacional",
       "resumen": "Un viaje de crucero termina en pesadilla cuando las cámaras captaron a un pasajero saltando al mar a horas de llegar a su destino."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala brilla en gimnasia artística con 14 medallas en el Campeonato Centroamericano y del Caribe",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/guatemala-brilla-en-gimnasia-artistica-con-14-medallas-en-el-campeonato-centroamericano-y-del-caribe-breaking/",
-      "fecha": "Mon, 21 Sep 2026 22:16:04 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La delegación nacional tuvo una sobresaliente actuación en El Salvador, donde confirmó su nivel regional con siete títulos, cinco platas y dos bronces."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Replican el modelo de Bukele? los 10 países que buscarían implementar el modelo de cárceles de El Salvador",
-      "link": "https://www.prensalibre.com/internacional/replican-el-modelo-de-bukele-los-10-paises-que-buscarian-implementar-el-modelo-de-carceles-de-el-salvador/",
-      "fecha": "Mon, 21 Sep 2026 22:14:51 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un informe de Insight Crime informó que el modelo carcelario de El Salvador habría impulsado 16 proyectos carcelarios en 10 países de América Latina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Así cuestionó Bill Gates a Donald Trump por su postura sobre la IA",
-      "link": "https://www.prensalibre.com/internacional/asi-cuestiono-bill-gates-a-donald-trump-por-su-postura-sobre-la-ia/",
-      "fecha": "Mon, 21 Sep 2026 21:48:41 +0000",
-      "categoria": "Internacional",
-      "resumen": "El cofundador de Microsoft cuestionó la postura del mandatario estadounidense sobre la inteligencia artificial y advirtió sobre la rapidez con la que esta tecnología está transformando el mundo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Carlos Rivera anuncia nueva fecha de “Vida México Tour”: ¿Por qué pospuso su concierto en Guatemala?",
-      "link": "https://www.prensalibre.com/vida/escenario/carlos-rivera-anuncia-nueva-fecha-de-vida-mexico-tour-por-que-pospuso-su-concierto-en-guatemala/",
-      "fecha": "Mon, 21 Sep 2026 21:16:26 +0000",
-      "categoria": "Escenario",
-      "resumen": "El cantante mexicano Carlos Rivera pospuso su concierto en Guatemala y otros países, pero ya anunció las nuevas fechas de su gira Vida México Tour. Esto es lo que se sabe sobre el cambio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mingob emite alerta por llegada de migrantes hondureños a Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/mingob-emite-alerta-por-posible-llegada-de-migrantes-hondurenos-a-guatemala/",
-      "fecha": "Mon, 21 Sep 2026 21:10:25 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Ministerio de Gobernación y la Policía Nacional Civil activaron un plan de seguridad ante la entrada de migrantes hondureños al territorio nacional con destino a EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Brad Pitt saluda, firma autógrafos y se toma fotos en San Sebastián: así lo esperaban sus seguidores",
-      "link": "https://www.prensalibre.com/vida/escenario/brad-pitt-saluda-firma-autografos-y-se-toma-fotos-en-san-sebastian-asi-lo-esperaban-sus-seguidores/",
-      "fecha": "Mon, 21 Sep 2026 21:03:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Videos difundidos en redes sociales muestran el momento en que Brad Pitt se encuentra con cientos de fanáticos que lo esperaban a las afueras de su hotel."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Periodista de Perú &#8220;China Polo&#8221; es asesinada durante una actividad y qué han revelado las autoridades",
-      "link": "https://www.prensalibre.com/internacional/periodista-de-peru-china-polo-es-asesinada-durante-una-actividad-y-que-han-revelado-las-autoridades/",
-      "fecha": "Mon, 21 Sep 2026 21:01:29 +0000",
-      "categoria": "Internacional",
-      "resumen": "La periodista y candidata peruana \"China Polo\" fue asesinada el pasado 19 de septiembre mientras hablaba frente a una cámara para redes sociales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso podría aprobar una exención fiscal a los combustibles en la plenaria de este martes",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-podria-aprobar-una-exencion-fiscal-a-los-combustibles-en-la-plenaria-de-este-martes/",
-      "fecha": "Mon, 21 Sep 2026 21:01:09 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Diputados tienen en agenda conocer las objeciones al subsidio de los combustibles, y una iniciativa para suspender temporalmente algunos impuestos a los carburantes."
     },
     {
       "fuente": "Guatemala.com",
