@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-23T06:20:15.832Z",
+  "actualizado": "2026-09-23T07:16:02.803Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comisión de Ambiente prevé analizar Ley de Aguas a finales de septiembre",
+      "link": "https://www.prensalibre.com/guatemala/politica/comision-de-ambiente-preve-analizar-ley-de-aguas-a-finales-de-septiembre/",
+      "fecha": "Wed, 23 Sep 2026 06:29:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La Comisión de Ambiente y Recursos Naturales del Congreso prevé comenzar a finales de septiembre el análisis de la iniciativa 6816, Ley de Aguas, para lo cual abrirá espacios de discusión con distintos sectores del país."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Gasolina regular con etanol: qué cambió tras el primer mes de uso en Guatemala",
@@ -801,14 +809,6 @@
       "fecha": "Tue, 22 Sep 2026 06:05:00 +0000",
       "categoria": "Internacional",
       "resumen": "Más de 300 jóvenes han sido detenidos en Ucrania por casos vinculados con Rusia; algunos cumplen condenas por sabotajes e incidentes con explosivos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fumando espero",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/fumando-espero-2/",
-      "fecha": "Tue, 22 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Se mueren más por tabaco que por guerras."
     },
     {
       "fuente": "Guatemala.com",
