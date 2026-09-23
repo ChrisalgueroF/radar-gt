@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-23T15:14:43.355Z",
+  "actualizado": "2026-09-23T16:16:32.885Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "La Promo Shell 2026 regresa para sortear 3 vehículos BMW M y premios instantáneos a  los guatemaltecos",
+      "link": "https://www.guatemala.com/noticias/sociedad/la-promo-shell-2026-bmw-m-guatemala.html",
+      "fecha": "Wed, 23 Sep 2026 15:21:01 +0000",
+      "categoria": "Sociedad",
+      "resumen": "La Promo Shell 2026 regresa en septiembre con oportunidades para ganar un BMW M3, dos BMW X3 y premios instantáneos.\nThe post La Promo Shell 2026 regresa para sortear 3 vehículos BMW M y premios instantáneos a  los guatemaltecos appeared first on Guatemala.com."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Muerte de guatemalteco en Míchigan: ICE dice que intentó detenerlo antes del accidente mortal",
@@ -9,6 +17,22 @@
       "fecha": "Wed, 23 Sep 2026 15:11:14 +0000",
       "categoria": "Internacional",
       "resumen": "El guatemalteco Mario David Coronado Juárez murió luego de que su camioneta se estrellara contra un árbol y se incendiara durante un intento de detención por el ICE."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ver a Guatemala cuesta Q280 en casa y Q75 en Jamaica: estos son los precios de los boletos",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/de-q80-a-q250-cuestan-los-boletos-para-ver-a-guatemala-ante-jamaica-en-kingston-breaking/",
+      "fecha": "Wed, 23 Sep 2026 15:07:43 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Mientras en Guatemala las entradas para los partidos de la Liga de Naciones van de Q280 a Q1 mil 330, en Jamaica el boleto más barato es de Q73 (US$9.49)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump y Xi Jinping se reúnen en la Casa Blanca: comercio, Taiwán, Irán e IA marcan la agenda",
+      "link": "https://www.prensalibre.com/internacional/trump-y-xi-jinping-se-reunen-en-la-casa-blanca-comercio-taiwan-iran-e-ia-marcan-la-agenda/",
+      "fecha": "Wed, 23 Sep 2026 15:06:06 +0000",
+      "categoria": "Internacional",
+      "resumen": "Xi Jinping regresa a la Casa Blanca por primera vez desde el 2015 para reunirse con Donald Trump. Ambos mandatarios llegan a la cita con asuntos pendientes que abarcan desde el comercio hasta Taiwán y la IA."
     },
     {
       "fuente": "Guatemala.com",
@@ -803,22 +827,6 @@
       "resumen": "Manuel Rodas, Mardoqueo Vásquez y Gaby Soto encabezan la representación nacional en la gran cita del ciclismo mundial."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Es un hada madrina&#8221;: la mujer que envía US$10.000 a la semana para que los niños migrantes detenidos en EE.UU. compren comida",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/es-un-hada-madrina-la-mujer-que-envia-us10-000-a-la-semana-para-que-los-ninos-migrantes-detenidos-en-ee-uu-compren-comida/",
-      "fecha": "Tue, 22 Sep 2026 12:29:24 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Casey Revkin empezó a ayudar a menores afectados por las políticas migratorias durante el primer gobierno de Trump. Hoy deposita dinero en las cuentas de las familias detenidas en Dilley."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Insivumeh reporta temblor de magnitud 5.2 con epicentro en Escuintla este 22 de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-22-de-septiembre-de-2026-en-guatemala-breaking/",
-      "fecha": "Tue, 22 Sep 2026 12:25:47 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Reportan temblor de magnitud 5.2 con epicentro en Escuintla este martes 22 de septiembre."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Vaguada monzónica y onda del este incrementarán lluvias en Guatemala",
       "link": "https://www.guatemala.com/noticias/comunidad/pronostico-semanal-clima-en-guatemala-21-al-25-septiembre-2026.html",
@@ -865,14 +873,6 @@
       "fecha": "Fri, 18 Sep 2026 17:00:45 +0000",
       "categoria": "Comunidad",
       "resumen": "El Insivumeh pronostica temperaturas de hasta 38°C y lluvias en la mayor parte de Guatemala para el fin de semana del 19 y 20 de septiembre 2026. \nThe post Pronostican fin de semana cálido y lluvioso para este 19 y 20 de septiembre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Todas las actividades del Festival de las Flores 2026 en Antigua Guatemala",
-      "link": "https://www.guatemala.com/noticias/cultura/agenda-festival-de-las-flores-antigua-guatemala-2026.html",
-      "fecha": "Thu, 17 Sep 2026 22:39:57 +0000",
-      "categoria": "Cultura",
-      "resumen": "Descubre las actividades que se desarrollarán entre octubre y noviembre por la décima edición del Festival de las Flores 2026 en Antigua Guatemala.\nThe post Todas las actividades del Festival de las Flores 2026 en Antigua Guatemala appeared first on Guatemala.com."
     }
   ]
 }
