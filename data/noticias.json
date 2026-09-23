@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-23T02:15:12.054Z",
+  "actualizado": "2026-09-23T03:15:37.717Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "William y Kate se reúnen con Alejandro González Iñárritu y Tom Cruise sorprende con un gesto de cortesía en el estreno de “Digger”",
+      "link": "https://www.prensalibre.com/vida/escenario/william-y-kate-se-reunen-con-alejandro-gonzalez-inarritu-y-tom-cruise-sorprende-con-un-gesto-de-cortesia-en-el-estreno-de-digger/",
+      "fecha": "Wed, 23 Sep 2026 03:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Durante el estreno de “Digger” en Londres, los príncipes de Gales sorprendieron al público con su presencia y compartieron con el director mexicano Alejandro González Iñárritu y Tom Cruise."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“El individuo tiene 30 años delinquiendo”: registros del señalado por agresiones sexuales en San José Pinula se remontan a 1996",
+      "link": "https://www.prensalibre.com/guatemala/justicia/el-individuo-tiene-30-anos-delinquiendo-registros-del-senalado-por-agresiones-sexuales-en-san-jose-pinula-se-remontan-a-1996/",
+      "fecha": "Wed, 23 Sep 2026 02:35:06 +0000",
+      "categoria": "Justicia",
+      "resumen": "Rosendo de Jesús Herrera Moguel, señalado por el MP de agredir sexualmente a mujeres contactadas mediante falsas ofertas de trabajo, registra nueve antecedentes desde 1996, entre ellos señalamientos por violación desde el 2000, según registros policiales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Atletas del COG advierten sobre los riesgos de la iniciativa de ley 6690 para el deporte guatemalteco",
@@ -793,22 +809,6 @@
       "fecha": "Tue, 22 Sep 2026 00:38:00 +0000",
       "categoria": "Justicia",
       "resumen": "Siete allanamientos antinarcóticos en el departamento de Guatemala permitieron localizar droga, armas, municiones y un posible narcolaboratorio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sobrevivió a un disparo del ICE: migrante venezolano relata desde el encierro en Texas la agresión de agentes migratorios",
-      "link": "https://www.prensalibre.com/internacional/sobrevivio-a-un-disparo-del-ice-migrante-venezolano-relata-desde-el-encierro-en-texas-la-agresion-de-agentes-migratorios/",
-      "fecha": "Tue, 22 Sep 2026 00:24:34 +0000",
-      "categoria": "Internacional",
-      "resumen": "Herido por el  ICE, con una bala cerca de la columna y recluido, un migrante venezolano relata cómo un error administrativo le cambió la vida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Subsidio al diésel daría estabilidad a las tarifas por época de fin de año, afirman transportistas",
-      "link": "https://www.prensalibre.com/economia/subsidio-al-diesel-daria-estabilidad-a-las-tarifas-por-epoca-de-fin-de-ano-afirman-transportistas/",
-      "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El sector logístico y de transporte de carga pidió al Congreso concluir lo antes posible el proceso legislativo relacionado con alguna medida de apoyo temporal a los combustibles, frente a los precios actuales en las estaciones de servicio. Dado que brindaría estabilidad a las tarifas en plena temporada alta de movimiento de mercancías."
     },
     {
       "fuente": "Guatemala.com",
