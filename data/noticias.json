@@ -1,7 +1,55 @@
 {
-  "actualizado": "2026-09-23T21:15:01.410Z",
+  "actualizado": "2026-09-23T22:14:34.024Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Precio de los combustibles en Guatemala: estos son los precios de galón de regular y super en autoservicio",
+      "link": "https://www.prensalibre.com/economia/precio-de-los-combustibles-en-guatemala-estos-son-los-precios-de-galon-de-regular-y-super-en-autoservicio/",
+      "fecha": "Wed, 23 Sep 2026 21:56:37 +0000",
+      "categoria": "Economía",
+      "resumen": "La gasolina regular y superior aumentaron unos Q0.70 por galón en Guatemala, mientras el precio promedio del diésel se mantiene sin cambios, hasta el momento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La feria Libro al Viento vuela al Noroccidente en busca de lectores",
+      "link": "https://www.prensalibre.com/vida/escenario/la-feria-libro-al-viento-vuela-al-noroccidente-en-busca-de-lectores/",
+      "fecha": "Wed, 23 Sep 2026 21:55:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La primera edición de la feria en esta región del país se celebrará del 7 al 10 de octubre en Huehuetenango y será dedicada al poeta y antropólogo Víctor D. Montejo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La guatemalteca Anaí Porras destaca en el Mundial Junior de Surf",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/la-guatemalteca-anai-porras-destaca-en-el-mundial-junior-de-surf-breaking/",
+      "fecha": "Wed, 23 Sep 2026 21:53:16 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La atleta de 15 años alcanzó el mejor resultado para la delegación nacional y de Centroamérica en la prueba donde participaron representantes de 56 países."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué cambia con la nueva Ley Antilavado en Guatemala? La guía para poder entenderla mejor",
+      "link": "https://www.prensalibre.com/economia/que-cambia-con-la-nueva-ley-antilavado-en-guatemala-la-guia-para-poder-entenderla-mejor/",
+      "fecha": "Wed, 23 Sep 2026 21:46:45 +0000",
+      "categoria": "Economía",
+      "resumen": "Guatemala necesitaba una ley integral que cubriera el lavado de dinero y el financiamiento del terrorismo, de forma que el país se ajustara a las recomendaciones del GAFI."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Adria Arjona desfiló en icónico evento de moda de Milán y compartió momento especial con Jason Momoa",
+      "link": "https://www.guatemala.com/noticias/entretenimiento/adria-arjona-desfilo-vogue-world-milan-compartio-momento-especial-jason-momoa.html",
+      "fecha": "Wed, 23 Sep 2026 21:28:49 +0000",
+      "categoria": "Entretenimiento",
+      "resumen": "La actriz de raíces guatemaltecas, Adria Arjona, compartió pasarela con Jennifer López, J Balvin y otros famosos en el icónico Vogue World: Milán. \nThe post Adria Arjona desfiló en icónico evento de moda de Milán y compartió momento especial con Jason Momoa appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Condenan a Apolinario Hernández Pú por abusar sexualmente a 11 menores en Joyabaj, Quiché",
+      "link": "https://www.prensalibre.com/guatemala/justicia/condenan-a-apolinario-hernandez-pu-por-abusar-sexualmente-a-11-menores-en-joyabaj-quiche/",
+      "fecha": "Wed, 23 Sep 2026 21:23:02 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Un tribunal declaró culpable a Apolinario Hernández Pú de tres delitos, luego de establecer que utilizaba dispositivos electrónicos para grabar los abusos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Fenómenos astronómicos de octubre a diciembre del 2026: ¿cuáles serán los más destacados que se verán en Guatemala?",
@@ -20,7 +68,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Embarazo oculto, relación con su cuñado y esposo en EE. UU.: lo que hay detrás del abandono de una bebé",
+      "titulo": "Embarazo oculto, relación con su cuñado y esposo en EE. UU.: lo que revela el parte policial sobre el abandono de una bebé",
       "link": "https://www.prensalibre.com/guatemala/comunitario/embarazo-oculto-relacion-con-su-cunado-y-esposo-en-ee-uu-lo-que-hay-detras-del-abandono-de-una-bebe-breaking/",
       "fecha": "Wed, 23 Sep 2026 19:05:37 +0000",
       "categoria": "Comunitario",
@@ -84,11 +132,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Hundimiento obliga al cierre de la avenida Pablo VI en la zona 7 de Mixco",
+      "titulo": "Hundimientos obligan al cierre de la avenida Pablo VI en la zona 7 de Mixco",
       "link": "https://www.prensalibre.com/guatemala/comunitario/hundimiento-obliga-al-cierre-de-la-avenida-pablo-vi-en-la-zona-7-de-mixco-breaking/",
       "fecha": "Wed, 23 Sep 2026 17:11:19 +0000",
       "categoria": "Comunitario",
-      "resumen": "La comuna de Mixco informó de un hundimiento en la avenida Pablo VI y de las acciones que coordina para repararlo."
+      "resumen": "La comuna de Mixco informó de dos hundimientos en la avenida Pablo VI y de las acciones que coordina para repararlos."
     },
     {
       "fuente": "Prensa Libre",
@@ -779,46 +827,6 @@
       "resumen": "Una guatemalteca de 39 años, identificada como Santos Maria Chilel Soto, murió después de recibir un disparo de Walter Moorhead, quien quedó en libertad luego de pagar una fianza en efectivo."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "En 2040, la metrópoli habrá agotado el 50% de sus reservas de agua subterránea",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/en-2040-la-metropoli-habra-agotado-el-50-de-sus-reservas-de-agua-subterranea/",
-      "fecha": "Tue, 22 Sep 2026 20:01:53 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La dependencia del agua subterránea pone en riesgo el abastecimiento de la metrópoli, según estudio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Contratacaremos si nos atacan&#8221;: el gobierno de Lituania le dice a la BBC que tiene planes de respuesta y evacuación ante las amenazas de Rusia",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/contratacaremos-si-nos-atacan-el-gobierno-de-lituania-le-dice-a-la-bbc-que-tiene-planes-de-respuesta-y-evacuacion-ante-las-amenazas-de-rusia/",
-      "fecha": "Tue, 22 Sep 2026 19:54:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En conversación con el programa Newsnight de la BBC, el primer ministro de Lituania dijo que la población se siente \"constantemente amenazada\" por Moscú."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video &#124; CTA admite error arbitral: Kang-in Lee debió ser expulsado ante el Real Madrid",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-cta-admite-error-del-var-kang-in-lee-debio-ser-expulsado-ante-el-real-madrid-breaking/",
-      "fecha": "Tue, 22 Sep 2026 19:37:45 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El árbitro reconoció el error y el CTA determinó que la entrada de Kang-in Lee era merecedora de roja, mientras el VAR debía haber intervenido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo avanza la elección del contralor general de Cuentas y qué sigue en el Congreso?",
-      "link": "https://www.prensalibre.com/guatemala/politica/como-avanza-la-eleccion-del-contralor-general-de-cuentas-y-que-sigue-en-el-congreso/",
-      "fecha": "Tue, 22 Sep 2026 19:08:40 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Comisión de Postulación entregó al Congreso la nómina de seis candidatos. Estos son los pasos que ha seguido el proceso y lo que falta para elegir al nuevo jefe de la Contraloría General de Cuentas para el período 2026-2030."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué hay detrás de Trump TV? La Casa Blanca lanza un canal 24/7 en plena disputa con medios",
-      "link": "https://www.prensalibre.com/internacional/que-hay-detras-de-trump-tv-la-casa-blanca-lanza-un-canal-24-7-en-plena-disputa-con-medios/",
-      "fecha": "Tue, 22 Sep 2026 18:42:55 +0000",
-      "categoria": "Internacional",
-      "resumen": "La marginación de los medios y la creación de un canal propio asimilan el modelo de comunicación de EE. UU. al de regímenes como los de Rusia, China y Corea del Norte."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Guatemalteca actúa en serie protagonizada por Eugenio Derbez y Pedro Alonso de La Casa de Papel",
       "link": "https://www.guatemala.com/noticias/entretenimiento/guatemalteca-lourdes-chavez-actua-junto-eugenio-derbez-pedro-alonso-serie-el-juicio.html",
@@ -865,14 +873,6 @@
       "fecha": "Fri, 18 Sep 2026 18:54:20 +0000",
       "categoria": "Sociedad",
       "resumen": "Abrieron convocatoria a los Premios Carlos Slim en Salud 2027, que reconocen instituciones y profesionales que han contribuído a mejorar la salud.\nThe post Abrieron convocatoria a los Premios Carlos Slim en Salud 2027 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Pronostican fin de semana cálido y lluvioso para este 19 y 20 de septiembre 2026",
-      "link": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-19-y-20-septiembre-2026-insivumeh-anticipa-fin-de-semana-calido-lluvioso.html",
-      "fecha": "Fri, 18 Sep 2026 17:00:45 +0000",
-      "categoria": "Comunidad",
-      "resumen": "El Insivumeh pronostica temperaturas de hasta 38°C y lluvias en la mayor parte de Guatemala para el fin de semana del 19 y 20 de septiembre 2026. \nThe post Pronostican fin de semana cálido y lluvioso para este 19 y 20 de septiembre 2026 appeared first on Guatemala.com."
     }
   ]
 }
