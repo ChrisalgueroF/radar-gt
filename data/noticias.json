@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-23T20:16:13.255Z",
+  "actualizado": "2026-09-23T21:15:01.410Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fenómenos astronómicos de octubre a diciembre del 2026: ¿cuáles serán los más destacados que se verán en Guatemala?",
+      "link": "https://www.prensalibre.com/vida/ciencia/fenomenos-astronomicos-de-octubre-a-diciembre-del-2026-cuales-seran-los-mas-destacados-que-se-veran-en-guatemala/",
+      "fecha": "Wed, 23 Sep 2026 21:00:20 +0000",
+      "categoria": "Ciencia",
+      "resumen": "El último trimestre del año traerá a los amantes de la astronomía diversos eventos que harán del cielo su escenario, entre lluvias de meteoros, el solsticio y la observación de planetas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Jornada de Cultura Altense: Un espacio para la historia, literatura e identidad celebra su tercera edición",
@@ -9,6 +17,22 @@
       "fecha": "Wed, 23 Sep 2026 20:02:00 +0000",
       "categoria": "Escenario",
       "resumen": "La tercera edición de este encuentro se celebrará en el Teatro Municipal de Quetzaltenango y contará con la asistencia de autores, investigadores y gestores culturales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Embarazo oculto, relación con su cuñado y esposo en EE. UU.: lo que hay detrás del abandono de una bebé",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/embarazo-oculto-relacion-con-su-cunado-y-esposo-en-ee-uu-lo-que-hay-detras-del-abandono-de-una-bebe-breaking/",
+      "fecha": "Wed, 23 Sep 2026 19:05:37 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Una bebé fue localizada en una cueva de San Pedro Carchá. Según el reporte policial, su madre mantuvo en secreto el embarazo, producto de una relación con su cuñado, mientras su esposo estaba en Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Deportados desaparecidos? la denuncia que señala al ICE de dejar de mostrarlos en sus sistemas de localización",
+      "link": "https://www.prensalibre.com/internacional/deportados-desaparecidos-la-denuncia-que-senala-al-ice-de-dejar-de-mostrarlos-en-sus-sistemas-de-localizacion/",
+      "fecha": "Wed, 23 Sep 2026 18:55:37 +0000",
+      "categoria": "Internacional",
+      "resumen": "AILA ha denunciado al ICE y lo señala de \"desaparecer\" de sus sistemas de localización a los migrantes detenidos que posean órdenes de deportación."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,30 +817,6 @@
       "fecha": "Tue, 22 Sep 2026 18:42:55 +0000",
       "categoria": "Internacional",
       "resumen": "La marginación de los medios y la creación de un canal propio asimilan el modelo de comunicación de EE. UU. al de regímenes como los de Rusia, China y Corea del Norte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso recibe nómina de seis candidatos a dirigir la Contraloría General de Cuentas",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-recibe-nomina-de-seis-candidatos-a-dirigir-la-contraloria-general-de-cuentas/",
-      "fecha": "Tue, 22 Sep 2026 18:37:32 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Miquel Cortés, presidente de la postuladora, pidió a los diputados publicidad, transparencia e independencia al momento de elegir al contralor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Menos que en 2025? Cuántos centroamericanos fueron detenidos en EE. UU. y México en lo que va del 2026",
-      "link": "https://www.prensalibre.com/internacional/menos-que-en-2025-cuantos-centroamericanos-fueron-detenidos-en-ee-uu-y-mexico-en-lo-que-va-del-2026/",
-      "fecha": "Tue, 22 Sep 2026 18:30:08 +0000",
-      "categoria": "Internacional",
-      "resumen": "Registros oficiales han informado la cantidad de migrantes hondureños, guatemaltecos y salvadoreños fueron detenidos en EE. UU. y México en lo que va del 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Alcalde de San Andrés Itzapa declara en juicio contra expolicías señalados por crimen de Nelson Santamaría y Eldin Choc",
-      "link": "https://www.prensalibre.com/guatemala/justicia/alcalde-de-san-andres-itzapa-declara-en-juicio-contra-expolicias-senalados-por-crimen-de-nelson-santamaria-y-eldin-choc-breaking/",
-      "fecha": "Tue, 22 Sep 2026 18:25:04 +0000",
-      "categoria": "Justicia",
-      "resumen": "José Denis Azurdia, alcalde de San Andrés Itzapa, participa como testigo en el juicio por la muerte de Nelson Santamaría y Eldin Leonel Choc Xi."
     },
     {
       "fuente": "Guatemala.com",
