@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-23T17:15:07.940Z",
+  "actualizado": "2026-09-23T18:18:56.681Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una colisión y un arma: confuso incidente deja una persona fallecida y otra herida en área de El Trébol",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/una-colision-y-un-arma-confuso-incidente-deja-una-persona-fallecida-y-otra-herida-en-area-de-el-trebol-breaking/",
+      "fecha": "Wed, 23 Sep 2026 17:57:25 +0000",
+      "categoria": "Sucesos",
+      "resumen": "La PMT informa de cierres viales frente al mercado El Guarda, zona 11, tras un confuso incidente que dejó una persona herida y otra fallecida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "FBI investiga ciberataque: ShinyHunters afirma haber robado datos de empleados y candidatos",
+      "link": "https://www.prensalibre.com/internacional/fbi-investiga-ciberataque-shinyhunters-afirma-haber-robado-datos-de-empleados-y-candidatos/",
+      "fecha": "Wed, 23 Sep 2026 17:27:40 +0000",
+      "categoria": "Internacional",
+      "resumen": "El grupo de hackers conocido como Shiny Hunters pirateó varias organizaciones de gran envergadura, lo que llevó a que fuera calificado como un \"peligro para el mundo\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hundimiento obliga al cierre de la avenida Pablo VI en la zona 7 de Mixco",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/hundimiento-obliga-al-cierre-de-la-avenida-pablo-vi-en-la-zona-7-de-mixco-breaking/",
+      "fecha": "Wed, 23 Sep 2026 17:11:19 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La comuna de Mixco informó de un hundimiento en la avenida Pablo VI y de las acciones que coordina para repararlo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Guatemala suspende IVA e IDP a combustibles: estos son los efectos fiscales que anticipan analistas",
@@ -28,11 +52,51 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "&#8220;Cuerpos como moneda de cambio&#8221;: la realidad de los migrantes deportados de EE. UU. a &#8220;terceros países&#8221;",
+      "link": "https://www.prensalibre.com/internacional/cuerpos-como-moneda-de-cambio-la-realidad-de-los-migrantes-deportados-de-ee-uu-a-terceros-paises/",
+      "fecha": "Wed, 23 Sep 2026 16:38:12 +0000",
+      "categoria": "Internacional",
+      "resumen": "Los migrantes que son deportados de EE. UU. a \"terceros países\" deben enfrentarse a la incertidumbre de ir a un sitio desconocido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quiénes están detrás? Los hombres de Trump que lideran su política migratoria",
+      "link": "https://www.prensalibre.com/internacional/quienes-estan-detras-los-hombres-de-trump-que-lideran-su-politica-migratoria/",
+      "fecha": "Wed, 23 Sep 2026 16:23:50 +0000",
+      "categoria": "Internacional",
+      "resumen": "Aunque Donald Trump es la cara reconocida de su política migratoria, hay funcionarios de bajo perfil que lideran las acciones."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "¿Cuándo se cambia la hora en los Estados Unidos en el 2026? El horario de verano terminará pronto",
       "link": "https://www.prensalibre.com/internacional/cuando-se-cambia-la-hora-en-los-estados-unidos-en-el-2026-el-horario-de-verano-terminara-pronto/",
       "fecha": "Wed, 23 Sep 2026 16:18:51 +0000",
       "categoria": "Internacional",
       "resumen": "Aunque en EE. UU. se debate la Sunshine Protection Act, un proyecto de ley que busca hacer permanente el horario de verano, la iniciativa aún no ha sido aprobada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo el Departamento de Estado se &#8220;transformó&#8221; tras la llegada de Trump en favor de su política migratoria",
+      "link": "https://www.prensalibre.com/internacional/como-el-departamento-de-estado-se-transformo-tras-la-llegada-de-trump-en-favor-de-su-politica-migratoria/",
+      "fecha": "Wed, 23 Sep 2026 16:11:24 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Departamento de Estado paso a ser una entidad comprometida con asistir a los migrantes ha ser la principal impulsora de la política migratoria de Donald Trump."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Oficina de remigración: la entidad que supone un cambio radical en la política migratoria de Trump",
+      "link": "https://www.prensalibre.com/internacional/oficina-de-remigracion-la-entidad-que-supone-un-cambio-radical-en-la-politica-migratoria-de-trump/",
+      "fecha": "Wed, 23 Sep 2026 16:02:25 +0000",
+      "categoria": "Internacional",
+      "resumen": "La oficina de remigración transformó el compromiso histórico de EE. UU. con el reasentamiento de refugiados en un enfoque intensivo para la expulsión de migrantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo EE. UU. negociaría con los &#8220;terceros países&#8221; para que reciban a migrantes deportados",
+      "link": "https://www.prensalibre.com/internacional/como-ee-uu-negociaria-con-los-terceros-paises-para-que-reciban-a-migrantes-deportados/",
+      "fecha": "Wed, 23 Sep 2026 16:00:35 +0000",
+      "categoria": "Internacional",
+      "resumen": "EE. UU. habría invertido US$410 millones para lograr acuerdos con \"terceros países\" y así reciban a migrantes deportados."
     },
     {
       "fuente": "Prensa Libre",
@@ -556,6 +620,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Cómo la administración de Trump ha destinado US$410 millones para deportar migrantes a terceros países",
+      "link": "https://www.prensalibre.com/internacional/como-la-administracion-de-trump-ha-destinado-us410-millones-para-deportar-migrantes-a-terceros-paises/",
+      "fecha": "Tue, 22 Sep 2026 21:51:07 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una investigación de \"Project Deportation\" detalla cómo el gobierno de Trump ha invertido US$410 millones en enviar a migrantes a terceros países mediante la denominada oficina de remigración."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Verificamos por usted: ¿son reales las fotos de tucanes muertos en el Parque Nacional Tikal?",
       "link": "https://www.prensalibre.com/guatemala/verificamos-por-usted-son-reales-las-fotos-de-tucanes-muertos-en-el-parque-nacional-tikal/",
       "fecha": "Tue, 22 Sep 2026 21:37:58 +0000",
@@ -753,78 +825,6 @@
       "fecha": "Tue, 22 Sep 2026 17:01:00 +0000",
       "categoria": "Escenario",
       "resumen": "Los artistas intercambiaron emotivos mensajes en redes sociales que despertaron entre sus seguidores la emoción de volver a verlos cantar juntos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Decisiones diarias que generan impacto positivo",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/decisiones-diarias-que-generan-impacto-positivo/",
-      "fecha": "Tue, 22 Sep 2026 17:00:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Por tercer año consecutivo, BAC promueve el \"Mes de las Acciones Positivas\", una iniciativa que demuestra que la responsabilidad ambiental no es exclusiva de las grandes corporaciones, sino que empieza en las decisiones que tomamos todos los días."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Amenazas de lluvias intensas: así avanza el huracán Polo en México, que llegó a categoría 5",
-      "link": "https://www.prensalibre.com/internacional/amenazas-de-lluvias-intensas-asi-avanza-el-huracan-polo-en-mexico-que-llego-a-categoria-5/",
-      "fecha": "Tue, 22 Sep 2026 16:51:38 +0000",
-      "categoria": "Internacional",
-      "resumen": "Autoridades vigilan la trayectoria del huracán Polo, el cual alcanzó rápidamente el pasado 21 de septiembre la categoría 5 de la escala Saffir-Simpson."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MP confirma la destitución de la fiscal Leonor Morales Lazo, contra quien pesaba un procedimiento administrativo",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mp-confirma-la-destitucion-de-la-fiscal-leonor-morales-lazo-contra-quien-pesaba-un-procedimiento-administrativo-breaking/",
-      "fecha": "Tue, 22 Sep 2026 16:45:14 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ministerio Público informó que destituyó a la fiscal Leonor Morales Lazo por nombrar a un auxiliar fiscal como encargado de la fiscalía mientras ella estaba de vacaciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Selección de Guatemala trabaja en Miami antes de viajar a Jamaica para la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-trabaja-en-miami-antes-de-viajar-a-jamaica-para-la-liga-de-naciones-breaking/",
-      "fecha": "Tue, 22 Sep 2026 16:26:54 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Bicolor realizó su práctica en el Amerant Bank Field como parte de la preparación para el duelo de este viernes contra los Reggae Boyz."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ofrecía trabajo en una parada de buses: qué hallaron en el cuarto del presunto violador serial",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ofrecia-trabajo-en-una-parada-de-buses-que-hallaron-en-el-cuarto-del-presunto-violador-serial/",
-      "fecha": "Tue, 22 Sep 2026 16:07:27 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Un allanamiento en la habitación que ocupaba Rosendo de Jesús Herrera Moguel permitió localizar 12 indicios. El MP afirma que el sindicado contactaba a las víctimas en una parada de buses de Fraijanes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Conciertos en Guatemala 2026: los shows programados de octubre a diciembre",
-      "link": "https://www.prensalibre.com/vida/escenario/conciertos-en-guatemala-2026-los-shows-programados-de-octubre-a-diciembre/",
-      "fecha": "Tue, 22 Sep 2026 16:01:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La agenda musical del último trimestre de 2026 incluye presentaciones de solistas y agrupaciones en distintos escenarios de la Ciudad de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La guatemalteca Aisha Solórzano firma doblete y lidera triunfo del FC Juárez en México",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/la-guatemalteca-aisha-solorzano-firma-doblete-y-lidera-triunfo-del-fc-juarez-en-mexico-breaking/",
-      "fecha": "Tue, 22 Sep 2026 15:50:59 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La delantera nacional marcó dos goles en la victoria 2-0 sobre León y llegó a cuatro anotaciones en el Apertura 2026 de la Liga MX Femenil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Así es el plan de Honduras para estimular la lluvia: 20 vuelos, US$600 mil y tres meses de ejecución",
-      "link": "https://www.prensalibre.com/internacional/asi-es-el-plan-de-honduras-para-estimular-la-lluvia-20-vuelos-us600-mil-y-tres-meses-de-ejecucion/",
-      "fecha": "Tue, 22 Sep 2026 15:16:57 +0000",
-      "categoria": "Internacional",
-      "resumen": "El objetivo declarado de Honduras es provocar lluvias sobre 2 millones de hectáreas afectadas por la peor sequía que el país ha enfrentado en 30 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Agua Mágica: Roxana Baldetti suma una nueva medida de arresto domiciliario",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-agua-magica-roxana-baldetti-suma-una-nueva-medida-de-arresto-domiciliario-breaking/",
-      "fecha": "Tue, 22 Sep 2026 15:02:13 +0000",
-      "categoria": "Justicia",
-      "resumen": "Sala Segunda de Apelaciones de Mayor Riesgo autoriza otro beneficio para Roxana Baldetti en el caso Agua Mágica."
     },
     {
       "fuente": "Guatemala.com",
