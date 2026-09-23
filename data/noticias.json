@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-23T10:15:26.574Z",
+  "actualizado": "2026-09-23T11:14:52.426Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MEM analiza si es necesario declarar emergencia en el sistema de electricidad ante déficit de lluvia",
+      "link": "https://www.prensalibre.com/economia/mem-analiza-si-es-necesario-declarar-emergencia-en-el-sistema-de-electricidad-ante-deficit-de-lluvia/",
+      "fecha": "Wed, 23 Sep 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El MEM evalúa declarar una emergencia en el sistema eléctrico nacional tras la caída de la generación hidroeléctrica por el déficit de lluvia, la medida busca garantizar el suministro de energía si las condiciones del clima siguen impactando. Espera un nuevo análisis del ente operador del sistema."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Xi Jinping viaja a EE.UU.: el &#8220;príncipe&#8221; que lo perdió todo antes de convertirse en el líder más poderoso de China",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/xi-jinping-viaja-a-ee-uu-el-principe-que-lo-perdio-todo-antes-de-convertirse-en-el-lider-mas-poderoso-de-china/",
+      "fecha": "Wed, 23 Sep 2026 10:16:34 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Antes de convertirse en el dirigente más influyente de China en décadas, Xi Jinping pasó de una infancia privilegiada a la persecución política y el exilio rural durante la Revolución Cultural."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Comisión de Ambiente prevé analizar Ley de Aguas a finales de septiembre",
@@ -793,22 +809,6 @@
       "fecha": "Tue, 22 Sep 2026 06:05:00 +0000",
       "categoria": "Editorial",
       "resumen": "En un acto de solidaridad profesional y periodística, las cadenas \"ABC\", \"CBS\", \"NBC\" y \"Fox News\", así como otros medios escritos, suspendieron ayer la cobertura conjunta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tres remedios caseros con respaldo científico para aliviar el resfriado común",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/tres-remedios-caseros-con-respaldo-cientifico-para-aliviar-el-resfriado-comun/",
-      "fecha": "Tue, 22 Sep 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Los consejos maternales de mantenerse bien hidratado y descansar lo suficiente ayudarán a la recuperación tanto como cualquier remedio de venta libre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rusia reclutó a adolescentes ucranianos para cometer ataques a cambio de dinero",
-      "link": "https://www.prensalibre.com/internacional/rusia-recluto-a-adolescentes-ucranianos-para-cometer-ataques-a-cambio-de-dinero/",
-      "fecha": "Tue, 22 Sep 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Más de 300 jóvenes han sido detenidos en Ucrania por casos vinculados con Rusia; algunos cumplen condenas por sabotajes e incidentes con explosivos."
     },
     {
       "fuente": "Guatemala.com",
