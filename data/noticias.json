@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-23T19:13:13.569Z",
+  "actualizado": "2026-09-23T20:16:13.255Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jornada de Cultura Altense: Un espacio para la historia, literatura e identidad celebra su tercera edición",
+      "link": "https://www.prensalibre.com/vida/escenario/jornada-de-cultura-altense-un-espacio-para-la-historia-literatura-e-identidad-celebra-su-tercera-edicion/",
+      "fecha": "Wed, 23 Sep 2026 20:02:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La tercera edición de este encuentro se celebrará en el Teatro Municipal de Quetzaltenango y contará con la asistencia de autores, investigadores y gestores culturales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Festival de las Flores en Petén 2026: agenda de actividades que llenarán de color, arte y música la Isla de Flores",
@@ -809,14 +817,6 @@
       "fecha": "Tue, 22 Sep 2026 18:25:04 +0000",
       "categoria": "Justicia",
       "resumen": "José Denis Azurdia, alcalde de San Andrés Itzapa, participa como testigo en el juicio por la muerte de Nelson Santamaría y Eldin Leonel Choc Xi."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala en letras: un encuentro con la actualidad literaria del país",
-      "link": "https://www.prensalibre.com/vida/escenario/guatemala-en-letras-un-encuentro-con-la-actualidad-literaria-del-pais/",
-      "fecha": "Tue, 22 Sep 2026 18:25:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La librería Sophos reúne en un conversatorio a autores que han publicado libros en los últimos meses."
     },
     {
       "fuente": "Guatemala.com",
