@@ -1,7 +1,55 @@
 {
-  "actualizado": "2026-09-23T16:16:32.885Z",
+  "actualizado": "2026-09-23T17:15:07.940Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala suspende IVA e IDP a combustibles: estos son los efectos fiscales que anticipan analistas",
+      "link": "https://www.prensalibre.com/economia/guatemala-suspende-iva-e-idp-a-combustibles-estos-son-los-efectos-fiscales-que-anticipan-analistas/",
+      "fecha": "Wed, 23 Sep 2026 17:05:57 +0000",
+      "categoria": "Economía",
+      "resumen": "La suspensión temporal del IVA y el IDP a los combustibles (decreto 22-2026), reducirá la recaudación y plantea riesgos para la política fiscal de Guatemala, según analistas políticos y económicos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¡Cristiano Ronaldo va por los 1,000 goles! “Quiero llegar y voy a llegar”, asegura el portugués",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-va-por-los-1-000-goles-quiero-llegar-y-voy-a-llegar-asegura-el-portugues-breaking/",
+      "fecha": "Wed, 23 Sep 2026 16:59:31 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La estrella portuguesa confirmó que busca alcanzar una cifra histórica y reveló cómo afronta el reto en la etapa final de su carrera."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "4 vacaciones al año: los jubilados que deciden gastarse su dinero en lugar de dejárselo en herencia a sus hijos",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/4-vacaciones-al-ano-los-jubilados-que-deciden-gastarse-su-dinero-en-lugar-de-dejarselo-en-herencia-a-sus-hijos/",
+      "fecha": "Wed, 23 Sep 2026 16:49:21 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Este fenómeno consiste en que los jubilados gastan todo su dinero en disfrutar de la vida al máximo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuándo se cambia la hora en los Estados Unidos en el 2026? El horario de verano terminará pronto",
+      "link": "https://www.prensalibre.com/internacional/cuando-se-cambia-la-hora-en-los-estados-unidos-en-el-2026-el-horario-de-verano-terminara-pronto/",
+      "fecha": "Wed, 23 Sep 2026 16:18:51 +0000",
+      "categoria": "Internacional",
+      "resumen": "Aunque en EE. UU. se debate la Sunshine Protection Act, un proyecto de ley que busca hacer permanente el horario de verano, la iniciativa aún no ha sido aprobada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Seguridad del celular: el chequeo de diez minutos y cómo proteger sus cuentas si le roban el teléfono",
+      "link": "https://www.prensalibre.com/vida/tecnologia/seguridad-del-celular-el-chequeo-de-diez-minutos-y-como-proteger-sus-cuentas-si-le-roban-el-telefono/",
+      "fecha": "Wed, 23 Sep 2026 16:00:12 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Revisar la seguridad del teléfono puede ayudar a prevenir ataques cibernéticos y proteger la información, pero también es clave tomar medidas ante el riesgo de un robo físico que podría comprometer cuentas y datos personales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala registra 16 fallecidos y más de 1 mil 500 emergencias por la temporada de lluvias de 2026",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-registra-16-fallecidos-y-mas-de-1-mil-500-emergencias-por-la-temporada-de-lluvias-de-2026-breaking/",
+      "fecha": "Wed, 23 Sep 2026 15:56:17 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Conred brindó detalles de la cantidad de personas fallecidas y de los daños en infraestructura en Guatemala por las lluvias en el 2026."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "La Promo Shell 2026 regresa para sortear 3 vehículos BMW M y premios instantáneos a  los guatemaltecos",
@@ -777,54 +825,6 @@
       "fecha": "Tue, 22 Sep 2026 15:02:13 +0000",
       "categoria": "Justicia",
       "resumen": "Sala Segunda de Apelaciones de Mayor Riesgo autoriza otro beneficio para Roxana Baldetti en el caso Agua Mágica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En medio del debate por suspender impuestos a los combustibles surge una nueva iniciativa del oficialismo",
-      "link": "https://www.prensalibre.com/guatemala/politica/en-medio-del-debate-por-suspender-impuestos-a-los-combustibles-surge-una-nueva-iniciativa-del-oficialismo/",
-      "fecha": "Tue, 22 Sep 2026 14:59:32 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Los diputados prevén aprobar este martes una nueva ley para mitigar el alza de los combustibles, pero no terminan de definir cuál de las propuestas apoyarán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala este 22 de septiembre: Insivumeh informa sobre lluvias y temperaturas máximas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-este-22-de-septiembre-insivumeh-informa-sobre-lluvias-y-temperaturas-maximas-breaking/",
-      "fecha": "Tue, 22 Sep 2026 14:21:04 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh pronostica lluvias durante la tarde o noche en gran parte del territorio nacional este martes 22 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jamaica pierde a su figura, Leon Bailey, del Olympiacos y convoca a Jahmarie Nolan, de 16 años, para enfrentar a Guatemala",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/jamaica-pierde-a-su-figura-leon-bailey-del-olympiacos-para-enfrentar-a-guatemala-en-la-liga-de-naciones/",
-      "fecha": "Tue, 22 Sep 2026 14:14:11 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "En lugar de Bailey, Jamaica convocó al juvenil Jahmarie Nolan, de 16 años, jugador del Toronto FC II y con experiencia en selecciones menores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Veto de Trump a medios: J.D Vance explica por qué defiende las restricciones en la Casa Blanca",
-      "link": "https://www.prensalibre.com/internacional/veto-de-trump-a-medios-j-d-vance-explica-por-que-defiende-las-restricciones-en-la-casa-blanca/",
-      "fecha": "Tue, 22 Sep 2026 13:52:46 +0000",
-      "categoria": "Internacional",
-      "resumen": "El vicepresidente J. D. Vance justificó la prohibición de acceso al afirmar que el 92% de las noticias de esos medios sobre Trump son negativas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente entre camión y tráiler complica el tránsito en el km 25 de la ruta Interamericana",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-entre-camion-y-trailer-complica-el-transito-en-el-km-25-de-la-ruta-interamericana-breaking/",
-      "fecha": "Tue, 22 Sep 2026 13:38:18 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Bomberos reportan accidente entre tráiler y camión que transportaba cilindros de gas en la ruta Interamericana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mundial de Ciclismo 2026: Guatemala afronta el reto de competir ante los mejores",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/mundial-de-ciclismo-2026-guatemala-afronta-el-reto-de-competir-ante-los-mejores-breaking/",
-      "fecha": "Tue, 22 Sep 2026 13:00:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Manuel Rodas, Mardoqueo Vásquez y Gaby Soto encabezan la representación nacional en la gran cita del ciclismo mundial."
     },
     {
       "fuente": "Guatemala.com",
