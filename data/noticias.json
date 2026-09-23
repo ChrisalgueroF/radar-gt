@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-22T23:12:52.294Z",
+  "actualizado": "2026-09-23T00:20:07.279Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estrés, ansiedad y depresión: cómo afecta el fenómeno de El Niño a la salud mental",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/estres-ansiedad-y-depresion-como-afecta-el-fenomeno-de-el-nino-a-la-salud-mental/",
+      "fecha": "Tue, 22 Sep 2026 23:30:28 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "La OPS alerta sobre los efectos que el fenómeno climático de El Niño puede tener en la salud mental y brinda recomendaciones para afrontarlos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El norte del país fortalece y amplia la oferta automotriz",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/el-norte-del-pais-fortalece-y-amplia-la-oferta-automotriz/",
+      "fecha": "Tue, 22 Sep 2026 23:29:59 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "IVESA inauguró la agencia de Mazda y GWM en la 7ª avenida 25-15, zona 1, San Benito, Petén, con el objetivo de fortalecer su presencia a nivel nacional y acercar nuevas alternativas de movilidad a los guatemaltecos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“En 24 horas y a pie es absurdo”: los relatos de migrantes hondureños que cruzan Guatemala con un plazo que critican",
+      "link": "https://www.prensalibre.com/guatemala/migrantes/en-24-horas-y-a-pie-es-absurdo-migrantes-hondurenos-cuestionan-plazo-para-cruzar-guatemala-breaking/",
+      "fecha": "Tue, 22 Sep 2026 23:25:57 +0000",
+      "categoria": "Migrantes",
+      "resumen": "Migrantes hondureños que avanzan a pie por Guatemala cuestionan el plazo de 24 horas otorgado para atravesar el país mientras continúan su recorrido hacia México."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Zoológico La Aurora invita a correr 5K por la conservación animal en la XVI edición de “Corre por el Zoo”",
+      "link": "https://www.prensalibre.com/vida/escenario/zoologico-la-aurora-invita-a-correr-5k-por-la-conservacion-animal-en-la-xvi-edicion-de-corre-por-el-zoo/",
+      "fecha": "Tue, 22 Sep 2026 23:23:21 +0000",
+      "categoria": "Escenario",
+      "resumen": "El Zoológico La Aurora invita a participar en una carrera de cinco kilómetros que busca, por medio de la actividad física, respaldar el trabajo de conservación animal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una fiesta de sabor, diversión y promociones inspirada por el taco",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-fiesta-de-sabor-diversion-y-promociones-inspirada-por-el-taco/",
+      "fecha": "Tue, 22 Sep 2026 23:09:40 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "El próximo 7 de octubre el taco tendrá su propia fiesta en todos los restaurantes Taco Bell a nivel nacional, para celebrar el Día del Taco, donde se sumarán a la celebración con música, promociones exclusivas y experiencias únicas, pensadas para que amigos, familias y compañeros de trabajo compartan juntos de sus tacos favoritos y vivan buenos momentos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "3 afirmaciones que Trump realizó ante la Asamblea General de la ONU, verificadas por la BBC",
@@ -116,11 +156,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Congreso entra a sesión plenaria con acuerdos para exonerar impuestos a los combustibles",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-entra-a-sesion-plenaria-con-acuerdos-para-exonerar-impuestos-a-los-combustibles/",
+      "titulo": "Congreso aprueba de urgencia nacional exoneración a los impuestos de combustibles",
+      "link": "https://www.prensalibre.com/guatemala/politica/congreso-aprobara-de-urgencia-nacional-exoneracion-a-los-impuestos-de-combustibles/",
       "fecha": "Tue, 22 Sep 2026 20:56:11 +0000",
       "categoria": "Guatemala",
-      "resumen": "Elmer Palencia, segundo vicepresidente del Congreso, anunció acuerdos para suspender temporalmente impuestos al diésel, a la gasolina regular y superior."
+      "resumen": "Los diputados, oficialistas y oposición, coinciden en suspender los tributos de forma temporal para estabilizar el precio al diésel, gasolina regular y superior."
     },
     {
       "fuente": "Prensa Libre",
@@ -769,46 +809,6 @@
       "fecha": "Mon, 21 Sep 2026 21:01:09 +0000",
       "categoria": "Guatemala",
       "resumen": "Diputados tienen en agenda conocer las objeciones al subsidio de los combustibles, y una iniciativa para suspender temporalmente algunos impuestos a los carburantes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Guardar silencio sería fallarle a nuestra institución”: San Pedro reclama por el arbitraje ante Cobán",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guardar-silencio-seria-fallarle-a-nuestra-institucion-san-pedro-reclama-por-el-arbitraje-ante-coban-breaking/",
-      "fecha": "Mon, 21 Sep 2026 20:57:40 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El club sampedrano cuestionó las decisiones arbitrales después de terminar con tres expulsados y exigió “justicia, imparcialidad y deportividad”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muere Presley Gerber: la lucha contra los problemas de adicción y salud mental del hijo de la modelo Cindy Crawford",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/muere-presley-gerber-la-lucha-contra-los-problemas-de-adiccion-y-salud-mental-del-hijo-de-la-modelo-cindy-crawford/",
-      "fecha": "Mon, 21 Sep 2026 20:50:14 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El joven, quien murió en un centro de rehabilitación este domingo, hablaba abiertamente del tema en entrevistas y en su perfil en Instagram, en una serie de publicaciones al que llamaba \"lunes de salud mental\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muere a los 27 años Presley Gerber, hijo de la modelo Cindy Crawford",
-      "link": "https://www.prensalibre.com/guatemala/muere-a-los-27-anos-presley-gerber-hijo-de-la-modelo-cindy-crawford-4/",
-      "fecha": "Mon, 21 Sep 2026 20:45:59 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La familia del joven modelo pidió privacidad durante este \"momento muy difícil y doloroso\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muere a los 27 años Presley Gerber, hijo de la modelo Cindy Crawford",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/muere-a-los-27-anos-presley-gerber-hijo-de-la-modelo-cindy-crawford-3/",
-      "fecha": "Mon, 21 Sep 2026 20:45:59 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La familia del joven modelo pidió privacidad durante este \"momento muy difícil y doloroso\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muere a los 27 años Presley Gerber, hijo de la modelo Cindy Crawford",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/muere-a-los-27-anos-presley-gerber-hijo-de-la-modelo-cindy-crawford-2/",
-      "fecha": "Mon, 21 Sep 2026 20:45:59 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La familia del joven modelo pidió privacidad durante este \"momento muy difícil y doloroso\"."
     },
     {
       "fuente": "Guatemala.com",
