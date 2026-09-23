@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-09-23T05:13:56.442Z",
+  "actualizado": "2026-09-23T06:20:15.832Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gasolina regular con etanol: qué cambió tras el primer mes de uso en Guatemala",
+      "link": "https://www.prensalibre.com/economia/gasolina-regular-con-etanol-que-cambio-tras-el-primer-mes-de-uso-en-guatemala/",
+      "fecha": "Wed, 23 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Al cumplirse el primer mes de la incorporación de 10% de etanol a la gasolina regular comercializada al consumidor final, autoridades y representantes de los sectores vinculados con los combustibles expusieron los efectos observados, entre ellos, cambios en los patrones de consumo y en los precios, así como los retos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La que faltaba",
+      "link": "https://www.prensalibre.com/opinion/caricatura/la-que-faltaba/",
+      "fecha": "Wed, 23 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. refuerza lucha antinarco y antilavado",
+      "link": "https://www.prensalibre.com/opinion/editorial/ee-uu-refuerza-lucha-antinarco-y-antilavado/",
+      "fecha": "Wed, 23 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Norma moderniza y amplía las herramientas de prevención, supervisión e inteligencia financiera."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Debería vacunarse aún contra el covid-19? Esto dicen los especialistas",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/deberia-vacunarse-aun-contra-el-covid-19-esto-es-lo-que-debe-saber/",
+      "fecha": "Wed, 23 Sep 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "La vacunación sigue siendo la mejor manera de disminuir la probabilidad de sufrir consecuencias graves a causa del virus, especialmente el covid prolongado, aseguran expertos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Carteles de la droga perfeccionan el uso de drones con experiencia adquirida en Ucrania",
+      "link": "https://www.prensalibre.com/internacional/carteles-de-la-droga-perfeccionan-el-uso-de-drones-con-experiencia-adquirida-en-ucrania/",
+      "fecha": "Wed, 23 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una evaluación del Gobierno de EE. UU. advierte que organizaciones del narcotráfico buscan nuevas capacidades para evadir sistemas antidrones y transportar explosivos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El amargo resultado de la inacción política",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-amargo-resultado-de-la-inaccion-politica/",
+      "fecha": "Wed, 23 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Arévalo, con el terrible último puesto en el apoyo popular a los presidentes latinoamericanos, tiene cerrada la salida de renunciar, como de seguro quisiera."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Activando el buen algoritmo",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/activando-el-buen-algoritmo/",
+      "fecha": "Wed, 23 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Es preciso activar en nuestro comportamiento de vida una especie de algoritmo, que asegure que lo que bueno que hacemos y decimos tenga un efecto multiplicador."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La IA surgió para quedarse",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-ia-surgio-para-quedarse/",
+      "fecha": "Wed, 23 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Nuestro reto no es frenar la innovación, sino orientarla con responsabilidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Se cierran tres bancos en el 2005",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/se-cierran-tres-bancos/",
+      "fecha": "Wed, 23 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Se suspendieron las operaciones del Banco Empresarial, Banco Metropolitano y Banco Promotor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy miércoles 23 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-23-de-septiembre-de-2026/",
+      "fecha": "Wed, 23 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cómo aprender las primeras sesenta palabras?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/como-aprender-las-primeras-sesenta-palabras/",
+      "fecha": "Wed, 23 Sep 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Todavía podemos agregar una meta a nuestra lista para 2026: aprender 60 palabras del idioma indígena del territorio que habitamos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Lionel Richie es hospitalizado por problemas cardíacos y cancela tres conciertos: “Se tomará un tiempo de descanso”",
@@ -721,94 +809,6 @@
       "fecha": "Tue, 22 Sep 2026 06:04:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Se mueren más por tabaco que por guerras."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Migrante, tu futuro no tiene fronteras",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/migrante-tu-futuro-no-tiene-fronteras/",
-      "fecha": "Tue, 22 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Tu regreso debe ser un nuevo comienzo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El último de la clase",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-ultimo-de-la-clase/",
-      "fecha": "Tue, 22 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Tres años después, el daño político no es la mala posición en una encuesta, sino haber destruido la esperanza de quienes creyeron en aquella promesa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La lucha por recuperar la Usac continúa",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-lucha-por-recuperar-la-usac-continua/",
-      "fecha": "Tue, 22 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Mazariegos había conseguido frenar las investigaciones en su contra porque tenía a una fiscal general aliada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy martes 22 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-22-de-septiembre-de-2026/",
-      "fecha": "Tue, 22 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El rol del &#8220;outsider&#8221; en las elecciones",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-rol-del-outsider-en-las-elecciones/",
-      "fecha": "Tue, 22 Sep 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "¿Qué está detrás de nuestra preferencia por las caras nuevas?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nueva arena para conciertos: “Guatemala va a tener una industria vigente de espectáculos”",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/nueva-arena-para-conciertos-guatemala-va-a-tener-una-industria-vigente-de-espectaculos/",
-      "fecha": "Tue, 22 Sep 2026 06:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Con la Arena Gallo se identificó una demanda que hoy lleva a miles de guatemaltecos a viajar por conciertos y decidió invertir en una infraestructura para competir por espectáculos internacionales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala registra a unos 400 migrantes hondureños ante el anuncio de una nueva caravana",
-      "link": "https://www.prensalibre.com/guatemala/migrantes/guatemala-registra-a-unos-400-migrantes-hondurenos-ante-el-anuncio-de-una-nueva-caravana-breaking/",
-      "fecha": "Tue, 22 Sep 2026 04:09:27 +0000",
-      "categoria": "Migrantes",
-      "resumen": "Unos 400 migrantes hondureños fueron registrados tras ingresar a Guatemala por Izabal, ante el anuncio de una nueva caravana que busca llegar a Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué los estados de la antigua Alemania comunista se convirtieron en el bastión de la extrema derecha en el país europeo",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-los-estados-de-la-antigua-alemania-comunista-se-convirtieron-en-el-bastion-de-la-extrema-derecha-en-el-pais-europeo/",
-      "fecha": "Tue, 22 Sep 2026 03:11:05 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La inmigración, el declive económico, las secuelas de la reunificación e incluso el legado del nazismo son algunos de los factores que los expertos señalan para explicar el voto de los alemanes orientales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "WhatsApp dejará de ser compatible con algunos celulares en el 2026: cuáles son los dispositivos afectados y desde cuándo",
-      "link": "https://www.prensalibre.com/vida/tecnologia/whatsapp-dejara-de-ser-compatible-con-algunos-celulares-en-el-2026-cuales-son-los-dispositivos-afectados-y-desde-cuando/",
-      "fecha": "Tue, 22 Sep 2026 03:00:00 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Meta anunció cambios en la compatibilidad de WhatsApp con algunos sistemas operativos de Android y iOS. Estos son los dispositivos afectados y las fechas en las que dejarán de ser compatibles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Apertura 2026: Comunicaciones, Cobán y Suchitepéquez se hunden y así marcha la clasificación",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-comunicaciones-coban-y-suchitepequez-se-hunden-y-asi-marcha-la-clasificacion-breaking/",
-      "fecha": "Tue, 22 Sep 2026 02:46:33 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La lucha por el liderato se mantiene cerrada, mientras Comunicaciones, Cobán y Suchitepéquez enfrentan una creciente presión en el fondo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC prepara resguardo para periodistas y actores políticos ante riesgos durante el proceso electoral",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/pnc-prepara-resguardo-para-periodistas-y-actores-politicos-ante-riesgos-durante-el-proceso-electoral-breaking/",
-      "fecha": "Tue, 22 Sep 2026 02:36:06 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La PNC anunció medidas preventivas para la cobertura periodística y las actividades políticas de cara a las elecciones generales del 2027."
     },
     {
       "fuente": "Guatemala.com",
