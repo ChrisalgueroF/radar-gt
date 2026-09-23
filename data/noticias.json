@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-23T01:13:52.478Z",
+  "actualizado": "2026-09-23T02:15:12.054Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Atletas del COG advierten sobre los riesgos de la iniciativa de ley 6690 para el deporte guatemalteco",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/atletas-del-cog-advierten-sobre-los-riesgos-de-la-iniciativa-de-ley-6690-para-el-deporte-guatemalteco-breaking/",
+      "fecha": "Wed, 23 Sep 2026 01:51:07 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La Comisión de Atletas señala que los cambios al deporte federado podrían generar incertidumbre en las competencias internacionales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Kit Harington reconsidera volver como Jon Snow y habla de su participación en “Harry Potter” de HBO",
+      "link": "https://www.prensalibre.com/vida/escenario/kit-harington-reconsidera-volver-como-jon-snow-y-habla-de-su-participacion-en-harry-potter-de-hbo/",
+      "fecha": "Wed, 23 Sep 2026 01:43:46 +0000",
+      "categoria": "Escenario",
+      "resumen": "Su papel como Jon Snow en la aclamada serie “Game of Thrones” marcó su carrera como actor. Años después, Kit Harington reconoce que reconsideraría la posibilidad de retomar al personaje en una eventual secuela."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "CC mantiene vigente el uso de etanol en la gasolina regular al no suspender el reglamento",
+      "link": "https://www.prensalibre.com/guatemala/justicia/cc-mantiene-vigente-el-uso-de-etanol-en-la-gasolina-regular-al-no-suspender-el-reglamento-breaking/",
+      "fecha": "Wed, 23 Sep 2026 01:27:29 +0000",
+      "categoria": "Justicia",
+      "resumen": "La CC no suspendió temporalmente el reglamento que establece el uso de etanol en la gasolina regular, por lo que la medida continúa vigente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Los narcopolíticos y narcotraficantes deberían estar preocupados y nerviosos&#8221;, señala la Embajada de EE. UU. en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/los-narcopoliticos-y-narcotraficantes-deberian-estar-preocupados-y-nerviosos-senala-la-embajada-de-ee-uu-en-guatemala/",
+      "fecha": "Wed, 23 Sep 2026 01:17:37 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Fiscales de nueve distritos de Estados Unidos visitaron Guatemala para reforzar la cooperación contra el narcotráfico, el crimen organizado y la narcopolítica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Viviana Aroche revela sus próximos retos tras hacer historia en Copenhague",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/viviana-aroche-proximos-retos-record-copenhague-maraton/",
+      "fecha": "Wed, 23 Sep 2026 00:56:56 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La fondista guatemalteca cuenta cómo consiguió el récord nacional y centroamericano de medio maratón y adelanta sus objetivos para 2027."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "California declara el 25 de septiembre como el Día de Dolly Parton",
@@ -12,11 +52,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Qué tiene que ver Selena con la demanda por US$1 millón entre A. B. Quintanilla y su hermana Suzette",
+      "link": "https://www.prensalibre.com/vida/escenario/que-tiene-que-ver-selena-con-la-demanda-por-us1-millon-entre-a-b-quintanilla-y-su-hermana-suzette/",
+      "fecha": "Wed, 23 Sep 2026 00:39:20 +0000",
+      "categoria": "Escenario",
+      "resumen": "El músico estadounidense A.B. Quintanilla demandó por US$1 millón a su hermana Suzette, por una disputa relacionada con las regalías de Selena."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Camilo Séptimo pospone todos sus conciertos de 2026 tras la muerte de su tecladista &#8220;Honas&#8221; Meléndez",
       "link": "https://www.prensalibre.com/vida/escenario/camilo-septimo-pospone-todos-sus-conciertos-de-2026-tras-la-muerte-de-su-tecladista-honas-melendez/",
       "fecha": "Wed, 23 Sep 2026 00:35:19 +0000",
       "categoria": "Escenario",
       "resumen": "La agrupación mexicana buscará reprogramar para 2027 los conciertos que tenía previstos para este año. Esto se sabe."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jhonsson Pulpo: quién es el cabecilla de Los Pulpos que será enviado a una cárcel militar de Perú para cumplir cadena perpetua",
+      "link": "https://www.prensalibre.com/internacional/jhonsson-pulpo-quien-es-el-cabecilla-de-los-pulpos-que-sera-enviado-a-una-carcel-militar-de-peru-para-cumplir-cadena-perpetua/",
+      "fecha": "Wed, 23 Sep 2026 00:32:48 +0000",
+      "categoria": "Internacional",
+      "resumen": "Cabecilla de la banda criminal Los Pulpos será recluido en la prisión de máxima seguridad de Perú, donde cumplirá cadena perpetua bajo custodia militar."
     },
     {
       "fuente": "Prensa Libre",
@@ -33,6 +89,14 @@
       "fecha": "Wed, 23 Sep 2026 00:21:42 +0000",
       "categoria": "Escenario",
       "resumen": "El sonido de las bandas escolares de distintos países de Latinoamérica llegará al Paseo de la Sexta con el desfile del Campeonato Latinoamericano de Bandas 2026. Estas son las delegaciones que participarán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué pasará con Wilber Garcés, el migrante venezolano herido por un agente de ICE que sigue con una bala alojada en el cuerpo",
+      "link": "https://www.prensalibre.com/internacional/que-pasara-con-wilber-garces-el-migrante-venezolano-herido-por-un-agente-de-ice-que-sigue-con-una-bala-alojada-en-el-cuerpo/",
+      "fecha": "Tue, 22 Sep 2026 23:53:56 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un juez de Texas fijó para la próxima semana una audiencia para evaluar la demanda que solicita la liberación de un venezolano herido de bala por un agente de ICE, así como la suspensión temporal de su deportación."
     },
     {
       "fuente": "Prensa Libre",
@@ -65,6 +129,14 @@
       "fecha": "Tue, 22 Sep 2026 23:29:59 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "IVESA inauguró la agencia de Mazda y GWM en la 7ª avenida 25-15, zona 1, San Benito, Petén, con el objetivo de fortalecer su presencia a nivel nacional y acercar nuevas alternativas de movilidad a los guatemaltecos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué ocurre con migrantes detenidos por ICE: informe documenta condiciones antihigiénicas y personas encadenadas",
+      "link": "https://www.prensalibre.com/internacional/que-ocurre-con-migrantes-detenidos-por-ice-informe-documenta-condiciones-antihigienicas-y-personas-encadenadas/",
+      "fecha": "Tue, 22 Sep 2026 23:26:28 +0000",
+      "categoria": "Internacional",
+      "resumen": "Inodoros desbordados, falta de atención médica y personas retenidas con cadenas destapan una grave crisis humanitaria en recintos de Florida."
     },
     {
       "fuente": "Prensa Libre",
@@ -737,78 +809,6 @@
       "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
       "categoria": "Economía",
       "resumen": "El sector logístico y de transporte de carga pidió al Congreso concluir lo antes posible el proceso legislativo relacionado con alguna medida de apoyo temporal a los combustibles, frente a los precios actuales en las estaciones de servicio. Dado que brindaría estabilidad a las tarifas en plena temporada alta de movimiento de mercancías."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Sigo con la bala dentro&#8221;: Wilber Garcés, el repartidor venezolano de comida que recibió un disparo de un agente de ICE en Texas",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/sigo-con-la-bala-dentro-wilber-garces-el-repartidor-venezolano-de-comida-que-recibio-un-disparo-de-un-agente-de-ice-en-texas/",
-      "fecha": "Mon, 21 Sep 2026 23:43:06 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Su abogada confirmó que se encuentra en un centro de procesamiento mientras es interrogado. El incidente provocó protestas en Austin, Texas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvia complica el tránsito en la capital y Villa Nueva este 21 de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvia-complica-el-transito-en-la-capital-y-villa-nueva-este-21-de-septiembre-breaking/",
-      "fecha": "Mon, 21 Sep 2026 23:38:34 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Las fuertes lluvias de este lunes afectan la movilidad en distintos sectores del área metropolitana. Autoridades de tránsito piden extremar las precauciones y advierten sobre reducción de visibilidad y tránsito lento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Verificamos por usted: ¿Hay desabastecimiento de gasolina en Guatemala? Ministerio de Energía y Asociación de Expendedores responden",
-      "link": "https://www.prensalibre.com/guatemala/verificamos-por-usted-hay-desabastecimiento-de-gasolina-en-guatemala-ministerio-de-energia-y-asociacion-de-expendedores-responden/",
-      "fecha": "Mon, 21 Sep 2026 23:30:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El MEM asegura que Guatemala cuenta con suficiente gasolina, mientras AGEG explica que algunas estaciones han registrado faltantes temporales y de corta duración debido a dos factores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Paramount y Warner Bros.: fiscales generales estatales acuerdan resolver demanda contra la fusión de los gigantes de Hollywood",
-      "link": "https://www.prensalibre.com/vida/escenario/paramount-y-warner-bros-fiscales-generales-estatales-acuerdan-resolver-demanda-contra-la-fusion-de-los-gigantes-de-hollywood/",
-      "fecha": "Mon, 21 Sep 2026 23:23:31 +0000",
-      "categoria": "Escenario",
-      "resumen": "La demanda antimonopolio que puso en pausa la fusión entre Paramount y Warner Bros. podría llegar a su fin, luego de que se anunciara un acuerdo para resolver el proceso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Con tijeras doradas: Así inauguró Donald Trump el helipuerto de la Casa Blanca",
-      "link": "https://www.prensalibre.com/internacional/con-tijeras-doradas-asi-inauguro-donald-trump-el-helipuerto-de-la-casa-blanca/",
-      "fecha": "Mon, 21 Sep 2026 23:21:42 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente de Estados Unidos, Donald Trump, estrenó su nueva obra antes de viajar a Nueva York, en medio de una disputa con varios medios de comunicación por las restricciones de acceso a la Casa Blanca."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Así respondió la prensa de EE. UU. al veto de Trump a medios que acusa de publicar “noticias falsas”",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/asi-respondio-la-prensa-de-ee-uu-al-veto-de-trump-a-medios-que-acusa-de-publicar-noticias-falsas/",
-      "fecha": "Mon, 21 Sep 2026 23:12:53 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "The Washington Post y The New York Times se solidarizan con los medios restringidos en la Casa Blanca al no publicar fotografías de las actividades de Donald Trump. ABC, CBS y NBC también suspendieron la cobertura de la Casa Blanca."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "No llegaron al altar: Daniel y Angélica mueren un día antes de su boda y son sepultados vestidos de novios",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/no-llegaron-al-altar-daniel-y-angelica-mueren-un-dia-antes-de-su-boda-y-son-sepultados-vestidos-de-novios-breaking/",
-      "fecha": "Mon, 21 Sep 2026 22:51:18 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Daniel Enrique Grande Brand y Angélica Gabriela García Estrada fueron inhumados con los trajes que habían preparado para su boda, luego de morir en un accidente un día antes de casarse."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Shakira en Madrid: así fueron los primeros conciertos de su residencia",
-      "link": "https://www.prensalibre.com/vida/escenario/shakira-en-madrid-asi-fueron-los-primeros-conciertos-de-su-residencia/",
-      "fecha": "Mon, 21 Sep 2026 22:36:43 +0000",
-      "categoria": "Escenario",
-      "resumen": "Shakira reunió a unos 165 mil fanáticos en Madrid durante los primeros tres conciertos de la residencia con la que cerrará su gira “Las Mujeres Ya No Lloran World Tour”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué pasó con el pasajero del crucero Carnival que saltó al mar horas antes de llegar a tierra",
-      "link": "https://www.prensalibre.com/internacional/que-paso-con-el-pasajero-del-crucero-carnival-que-salto-al-mar-horas-antes-de-llegar-a-tierra/",
-      "fecha": "Mon, 21 Sep 2026 22:31:51 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un viaje de crucero termina en pesadilla cuando las cámaras captaron a un pasajero saltando al mar a horas de llegar a su destino."
     },
     {
       "fuente": "Guatemala.com",
