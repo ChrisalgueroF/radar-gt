@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-23T12:19:27.182Z",
+  "actualizado": "2026-09-23T13:16:46.491Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Combustibles: el Congreso aprobó una nueva medida, pero ¿qué pasará con el subsidio?",
+      "link": "https://www.prensalibre.com/economia/combustibles-el-congreso-aprobo-una-nueva-medida-pero-que-pasara-con-el-subsidio/",
+      "fecha": "Wed, 23 Sep 2026 13:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El Congreso aprobó suspender temporalmente los impuestos a los combustibles, pero el subsidio anterior sigue pendiente. ¿Qué pasa ahora con ambos decretos?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Cuando Raúl Castro muera, habrá posibilidades de cambio en Cuba, porque desaparecerá una figura extraordinaria, por vieja y debilitada que esté&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/cuando-raul-castro-muera-habra-posibilidades-de-cambio-en-cuba-porque-desaparecera-una-figura-extraordinaria-por-vieja-y-debilitada-que-este/",
+      "fecha": "Wed, 23 Sep 2026 12:47:24 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El reconocido periodista estadounidense Jon Lee Anderson habla de los retos que enfrenta América Latina en medio de la influencia de EE.UU. y Donald Trump."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "MEM analiza si es necesario declarar emergencia en el sistema de electricidad ante déficit de lluvia",
@@ -793,22 +809,6 @@
       "fecha": "Tue, 22 Sep 2026 06:10:00 +0000",
       "categoria": "Economía",
       "resumen": "Las Comisiones Paritarias entregaron a la Comisión Nacional del Salario (CNS) sus informes sin consenso sobre el salario mínimo del 2027. La discusión de los sectores laboral, empleador y gubernamental continuará en la CNS, la cual debe enviar su informe al Ministerio de Trabajo y, este, a su vez, al presidente de la República."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Solicitan retiro de antejuicio",
-      "link": "https://www.prensalibre.com/opinion/caricatura/solicitan-retiro-de-antejuicio/",
-      "fecha": "Tue, 22 Sep 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Soberana libertad de informar e informarse",
-      "link": "https://www.prensalibre.com/opinion/editorial/soberana-libertad-de-informar-e-informarse/",
-      "fecha": "Tue, 22 Sep 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "En un acto de solidaridad profesional y periodística, las cadenas \"ABC\", \"CBS\", \"NBC\" y \"Fox News\", así como otros medios escritos, suspendieron ayer la cobertura conjunta."
     },
     {
       "fuente": "Guatemala.com",
