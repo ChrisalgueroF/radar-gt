@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-24T15:16:10.626Z",
+  "actualizado": "2026-09-24T16:16:36.675Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nearshoring en Guatemala: estos son los retos para atraer nuevas industrias e inversión",
+      "link": "https://www.prensalibre.com/economia/nearshoring-en-guatemala-estos-son-los-retos-para-atraer-nuevas-industrias-e-inversion/",
+      "fecha": "Thu, 24 Sep 2026 16:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El Guatemala Development Forum 2026 puso sobre la mesa las oportunidades para atraer nuevas industrias, pero empresarios y especialistas señalaron que el país debe mejorar el capital humano, la infraestructura y la información que ofrece a los inversionistas."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "La copa ENERGUATE vuelve con una nueva edición este 2026",
+      "link": "https://www.guatemala.com/noticias/sociedad/copa-energuate-2026-torneo-guatemala.html",
+      "fecha": "Thu, 24 Sep 2026 15:21:59 +0000",
+      "categoria": "Sociedad",
+      "resumen": "La Copa ENERGUATE 2026 regresa el próximo 24 de septiembre con más de 2 mil niños de 24 municipios y tres categorías deportivas.  \nThe post La copa ENERGUATE vuelve con una nueva edición este 2026 appeared first on Guatemala.com."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Superinteligencia y lentes inteligentes: Zuckerberg defiende el desarrollo de la IA",
@@ -9,6 +25,14 @@
       "fecha": "Thu, 24 Sep 2026 15:13:42 +0000",
       "categoria": "Internacional",
       "resumen": "El presidente de Meta, Mark Zuckerberg, dijo que \"empoderar a las personas\" con la inteligencia artificial (IA) es la mejor vía hacia un futuro seguro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así ocurrió la jugada que terminó en su expulsión y una sanción de seis meses al técnico de San Pedro, Edwin Vásquez",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/asi-ocurrio-la-jugada-que-termino-en-su-expulsion-y-una-sancion-de-seis-meses-al-tecnico-de-san-pedro-edwin-vasquez-breaking/",
+      "fecha": "Thu, 24 Sep 2026 15:04:54 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Imágenes muestran la secuencia del incidente con Kenneth Valdez que terminó con la expulsión del entrenador. El informe arbitral señaló que Vásquez agredió al jugador de Cobán Imperial."
     },
     {
       "fuente": "Prensa Libre",
@@ -49,6 +73,14 @@
       "fecha": "Thu, 24 Sep 2026 14:00:00 +0000",
       "categoria": "Economía",
       "resumen": "El Congreso aprobó la exención temporal del IDP e IVA para combustibles, una medida que aún debe completar el trámite antes de entrar en vigor. ¿Cuáles son los plazos que están manejando el Legislativo y el Ejecutivo?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jesse presenta su nueva banda después de anunciar su separación de Joy ¿Qué se sabe sobre el futuro del dúo?",
+      "link": "https://www.prensalibre.com/vida/escenario/jesse-presenta-su-nueva-banda-despues-de-anunciar-su-separacion-de-joy-que-se-sabe-sobre-el-futuro-del-duo/",
+      "fecha": "Thu, 24 Sep 2026 13:48:21 +0000",
+      "categoria": "Escenario",
+      "resumen": "Después de sorprender al público y a su propia hermana con el anuncio de su retiro, el cantante lanza su nuevo proyecto."
     },
     {
       "fuente": "Prensa Libre",
@@ -803,30 +835,6 @@
       "resumen": "La movilidad vehicular se complica este 23 de septiembre en la metrópoli por las lluvias de las últimas horas."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Combustibles: el Congreso aprobó una nueva medida, pero ¿qué pasará con el subsidio?",
-      "link": "https://www.prensalibre.com/economia/combustibles-el-congreso-aprobo-una-nueva-medida-pero-que-pasara-con-el-subsidio/",
-      "fecha": "Wed, 23 Sep 2026 13:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El Congreso aprobó suspender temporalmente los impuestos a los combustibles, pero el subsidio anterior sigue pendiente. ¿Qué pasa ahora con ambos decretos?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Cuando Raúl Castro muera, habrá posibilidades de cambio en Cuba, porque desaparecerá una figura extraordinaria, por vieja y debilitada que esté&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/cuando-raul-castro-muera-habra-posibilidades-de-cambio-en-cuba-porque-desaparecera-una-figura-extraordinaria-por-vieja-y-debilitada-que-este/",
-      "fecha": "Wed, 23 Sep 2026 12:47:24 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El reconocido periodista estadounidense Jon Lee Anderson habla de los retos que enfrenta América Latina en medio de la influencia de EE.UU. y Donald Trump."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MEM analiza si es necesario declarar emergencia en el sistema de electricidad ante déficit de lluvia",
-      "link": "https://www.prensalibre.com/economia/mem-analiza-si-es-necesario-declarar-emergencia-en-el-sistema-de-electricidad-ante-deficit-de-lluvia/",
-      "fecha": "Wed, 23 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El MEM evalúa declarar una emergencia en el sistema eléctrico nacional tras la caída de la generación hidroeléctrica por el déficit de lluvia, la medida busca garantizar el suministro de energía si las condiciones del clima siguen impactando. Espera un nuevo análisis del ente operador del sistema."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Alux Nahual recibió las Llaves de la Ciudad de Providence por su aporte cultural",
       "link": "https://www.guatemala.com/noticias/entretenimiento/alux-nahual-recibe-las-llaves-de-la-ciudad-de-providence.html",
@@ -865,14 +873,6 @@
       "fecha": "Sun, 20 Sep 2026 03:44:26 +0000",
       "categoria": "Entretenimiento",
       "resumen": "Conoce a los ganadores de Premios Estela 2026: lista de artistas, canciones, agrupaciones y reconocimientos especiales de la décima edición.\nThe post Ganadores de los Premios Estela  2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Acciones que caracterizan a todo guatemalteco Buena Gente",
-      "link": "https://www.guatemala.com/noticias/sociedad/ciudad-guatemala-ciudad-guatemaltecos-buena-gente.html",
-      "fecha": "Fri, 18 Sep 2026 20:49:22 +0000",
-      "categoria": "Sociedad",
-      "resumen": "La Ciudad de Guatemala está llena de guatemaltecos buena gente, dispuestos a ayudar en todo momento, con grandes o pequeños gestos.\nThe post Acciones que caracterizan a todo guatemalteco Buena Gente appeared first on Guatemala.com."
     }
   ]
 }
