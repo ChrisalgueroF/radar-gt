@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-24T17:14:13.790Z",
+  "actualizado": "2026-09-24T18:18:39.786Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Así ha destacado Ximena Carrillo en los primeros días de Miss Grand International 2026",
+      "link": "https://www.guatemala.com/noticias/sociedad/ximena-carrillo-representa-guatemala-miss-grand-international-2026.html",
+      "fecha": "Thu, 24 Sep 2026 18:03:53 +0000",
+      "categoria": "Sociedad",
+      "resumen": "La guatemalteca Ximena Carrillo ha destacado en los primeros días de concentración de Miss Grand International 2026. \nThe post Así ha destacado Ximena Carrillo en los primeros días de Miss Grand International 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lluvias en Guatemala: reportan derrumbes, inundaciones y una vivienda destruida",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-en-guatemala-reportan-derrumbes-inundaciones-y-una-vivienda-destruida-breaking/",
+      "fecha": "Thu, 24 Sep 2026 17:16:56 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Conred informó que en las últimas horas se han reportado en Guatemala 40 emergencias por incidentes derivados de las lluvias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Persiste riesgo de lluvias y oleajes: Así avanza el huracán Polo en México tras bajar a categoría 4",
+      "link": "https://www.prensalibre.com/internacional/persiste-riesgo-de-lluvias-y-oleajes-asi-avanza-el-huracan-polo-en-mexico-tras-bajar-a-categoria-4/",
+      "fecha": "Thu, 24 Sep 2026 16:53:04 +0000",
+      "categoria": "Internacional",
+      "resumen": "El huracán Polo, a pesar de debilitarse a categoría 4, aún generará fuertes lluvias y oleajes en las costas del pacífico mexicano."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Casa Blanca mantiene veto a tres medios pese a orden judicial: Juez pide explicaciones a Trump",
@@ -17,6 +41,14 @@
       "fecha": "Thu, 24 Sep 2026 16:36:28 +0000",
       "categoria": "Justicia",
       "resumen": "El Ministerio de Gobernación informó que Guatemala extraditó hacia Estados Unidos a cuatro privados de libertad señalados de narcotráfico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jamaica vs. Guatemala: día, hora y dónde ver el debut en la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/jamaica-vs-guatemala-dia-hora-y-donde-ver-el-debut-en-la-liga-de-naciones-breaking/",
+      "fecha": "Thu, 24 Sep 2026 16:20:59 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Bicolor inicia este viernes su participación frente a los Reggae Boyz, con la misión de dejar atrás el fracaso en las eliminatorias mundialistas."
     },
     {
       "fuente": "Prensa Libre",
@@ -803,36 +835,12 @@
       "resumen": "Mientras en Guatemala las entradas para los partidos de la Liga de Naciones van de Q280 a Q1 mil 330, en Jamaica el boleto más barato es de Q73 (US$9.49)."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump y Xi Jinping se reúnen en la Casa Blanca: comercio, Taiwán, Irán e IA marcan la agenda",
-      "link": "https://www.prensalibre.com/internacional/trump-y-xi-jinping-se-reunen-en-la-casa-blanca-comercio-taiwan-iran-e-ia-marcan-la-agenda/",
-      "fecha": "Wed, 23 Sep 2026 15:06:06 +0000",
-      "categoria": "Internacional",
-      "resumen": "Xi Jinping regresa a la Casa Blanca por primera vez desde el 2015 para reunirse con Donald Trump. Ambos mandatarios llegan a la cita con asuntos pendientes que abarcan desde el comercio hasta Taiwán y la IA."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Combustibles en Guatemala estarán exentos temporalmente de impuestos",
       "link": "https://www.guatemala.com/noticias/comunidad/autorizan-exoneracion-temporal-impuestos-iva-e-idp-gasolina-diesel-guatemala.html",
       "fecha": "Wed, 23 Sep 2026 14:50:49 +0000",
       "categoria": "Comunidad",
       "resumen": "Congreso de la República aprobó exoneración temporal de impuestos a la gasolina y el diésel en Guatemala, aunque la medida aún no entra en vigencia.\nThe post Combustibles en Guatemala estarán exentos temporalmente de impuestos appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan a presunto integrante de la banda “El Canche”, señalada de robar motocicletas y automóviles",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-presunto-integrante-de-la-banda-el-canche-senalada-de-robar-motocicletas-y-automoviles-breaking/",
-      "fecha": "Wed, 23 Sep 2026 14:46:17 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC capturó en Escuintla a presunto integrante de una estructura criminal dedicada al robo de vehículos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala: las lluvias continuarán en gran parte del territorio nacional este 23 de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-las-lluvias-continuaran-en-gran-parte-del-territorio-nacional-este-23-de-septiembre-breaking/",
-      "fecha": "Wed, 23 Sep 2026 14:01:51 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh pronostica fuertes lluvias en Guatemala para este miércoles 23 de septiembre."
     },
     {
       "fuente": "Guatemala.com",
@@ -865,14 +873,6 @@
       "fecha": "Sun, 20 Sep 2026 23:01:18 +0000",
       "categoria": "Entretenimiento",
       "resumen": "Angélica María y Angélica Vale visitaron una parroquia en Guatemala durante su estancia en el país.\nThe post Angélica María y Angélica Vale visitaron una reconocida parroquia en Guatemala, 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Ganadores de los Premios Estela  2026",
-      "link": "https://www.guatemala.com/noticias/entretenimiento/ganadores-de-los-premios-estela-2026.html",
-      "fecha": "Sun, 20 Sep 2026 03:44:26 +0000",
-      "categoria": "Entretenimiento",
-      "resumen": "Conoce a los ganadores de Premios Estela 2026: lista de artistas, canciones, agrupaciones y reconocimientos especiales de la décima edición.\nThe post Ganadores de los Premios Estela  2026 appeared first on Guatemala.com."
     }
   ]
 }
