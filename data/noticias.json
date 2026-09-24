@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-24T12:19:23.763Z",
+  "actualizado": "2026-09-24T13:16:54.312Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ricardo Montaner vuelve a Guatemala: ¿cuándo y dónde será su concierto?",
+      "link": "https://www.prensalibre.com/vida/escenario/ricardo-montaner-vuelve-a-guatemala-cuando-y-donde-sera-su-concierto/",
+      "fecha": "Thu, 24 Sep 2026 13:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El cantautor venezolano-argentino  se reencontrará con su público guatemalteco en una velada cargada de éxitos y nostalgia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo la nueva derecha que gobierna en América Latina muestra su alineamiento pleno con Trump ante los ojos del mundo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-la-nueva-derecha-que-gobierna-en-america-latina-muestra-su-alineamiento-pleno-con-trump-ante-los-ojos-del-mundo/",
+      "fecha": "Thu, 24 Sep 2026 12:21:33 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Varios presidentes de la región endosan en Nueva York las políticas de mano dura en seguridad impulsadas por Estados Unidos, señal del giro político radical del continente."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Conamigua, casi 20 años después: qué hace por los migrantes y cómo mide sus resultados",
@@ -809,22 +825,6 @@
       "fecha": "Wed, 23 Sep 2026 06:04:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Arévalo, con el terrible último puesto en el apoyo popular a los presidentes latinoamericanos, tiene cerrada la salida de renunciar, como de seguro quisiera."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Activando el buen algoritmo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/activando-el-buen-algoritmo/",
-      "fecha": "Wed, 23 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Es preciso activar en nuestro comportamiento de vida una especie de algoritmo, que asegure que lo que bueno que hacemos y decimos tenga un efecto multiplicador."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La IA surgió para quedarse",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-ia-surgio-para-quedarse/",
-      "fecha": "Wed, 23 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Nuestro reto no es frenar la innovación, sino orientarla con responsabilidad."
     },
     {
       "fuente": "Guatemala.com",
