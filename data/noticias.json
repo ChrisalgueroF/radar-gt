@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-24T22:15:12.006Z",
+  "actualizado": "2026-09-24T23:13:51.105Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En video: decenas de delegados abandonan la Asamblea General de la ONU durante la intervención de Netanyahu",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/en-video-decenas-de-delegados-abandonan-la-asamblea-general-de-la-onu-durante-la-intervencion-de-netanyahu/",
+      "fecha": "Thu, 24 Sep 2026 23:02:21 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Decenas de delegados de Naciones Unidas abandonaron este jueves la sala donde el primer ministro israelí, Benjamin Netanyahu, se disponía a pronunciar un discurso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Crecida de ríos mantiene en alerta a ocho departamentos y esto recomienda el Insivumeh",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/crecida-de-rios-mantiene-en-alerta-a-ocho-departamentos-y-esto-recomienda-el-insivumeh-breaking/",
+      "fecha": "Thu, 24 Sep 2026 22:50:29 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh mantiene vigilancia por el aumento del caudal de varios ríos en ocho departamentos y hace recomendaciones para evitar emergencias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo la hermética comunidad Amish combate el brote de sarampión más mortal de la historia reciente en EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-la-hermetica-comunidad-amish-combate-el-brote-de-sarampion-mas-mortal-de-la-historia-reciente-en-ee-uu/",
+      "fecha": "Thu, 24 Sep 2026 22:30:33 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Después de 4 muertes relacionadas con el sarampión en Pensilvania, las autoridades sanitarias esperan que la gente se anime a vacunarse en privado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Orquesta Sinfónica Nacional interpretará concierto para violín de Prokófiev después de 43 años en Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/orquesta-sinfonica-nacional-interpretara-concierto-para-violin-de-prokofiev-despues-de-43-anos-en-guatemala/",
+      "fecha": "Thu, 24 Sep 2026 22:23:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Este jueves 24 de septiembre, la OSN presentará el concierto “Lienzos y Melodías” e interpretará una pieza que no se tocaba en Guatemala desde 1983."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "El camino de Guatemala hacia la Copa Oro 2027: Los posibles escenarios en la Liga de Naciones",
@@ -9,6 +41,14 @@
       "fecha": "Thu, 24 Sep 2026 22:02:13 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Guatemala definirá su camino hacia la Copa Oro en la Liga de Naciones, competición en la que comparte grupo con Honduras, Jamaica, Surinam, Martinica y El Salvador."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué ICE detuvo a un guatemalteco tras un accidente de tránsito que reveló otras infracciones",
+      "link": "https://www.prensalibre.com/internacional/por-que-ice-detuvo-a-un-guatemalteco-tras-un-accidente-de-transito-que-revelo-otras-infracciones/",
+      "fecha": "Thu, 24 Sep 2026 21:54:09 +0000",
+      "categoria": "Internacional",
+      "resumen": "ICE arrestó a un migrante guatemalteco indocumentado tras su presunta implicación en un accidente con un tráiler en Massachusetts."
     },
     {
       "fuente": "Prensa Libre",
@@ -25,6 +65,14 @@
       "fecha": "Thu, 24 Sep 2026 21:44:00 +0000",
       "categoria": "Escenario",
       "resumen": "La Cofradía del Santo Rosario da a conocer las actividades que se celebrarán en el Templo de Santo Domingo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Este autopen es Biden&#8221;, la foto que Trump le mostró a Xi Jinping y provocó la risa del mandatario chino",
+      "link": "https://www.prensalibre.com/internacional/este-autopen-es-biden-la-foto-que-trump-le-mostro-a-xi-jinping-y-provoco-la-risa-del-mandatario-chino/",
+      "fecha": "Thu, 24 Sep 2026 21:41:18 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump le enseñó a Xi Jinping el llamado \"Paseo de la Fama Presidencial\" cuando hizo un comentario de Biden que provocó la risa del mandatario chino."
     },
     {
       "fuente": "Prensa Libre",
@@ -588,14 +636,6 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "¿En qué fecha se celebra el Día del Niño en Guatemala?",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/en-que-fecha-se-celebra-el-dia-del-nino-en-guatemala/",
-      "fecha": "Thu, 24 Sep 2026 00:15:24 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Durante el Día del Niño en Guatemala, se organizan distintas actividades familiares y escolares, pero también se busca concientizar a la población sobre la realidad de la niñez en nuestro país."
-    },
-    {
-      "fuente": "Prensa Libre",
       "titulo": "La luna llena de septiembre de 2026: ¿cuándo será y dónde se podrá ver mejor en Guatemala?",
       "link": "https://www.prensalibre.com/vida/ciencia/la-luna-llena-de-septiembre-de-2026-cuando-sera-y-donde-se-podra-ver-mejor-en-guatemala/",
       "fecha": "Thu, 24 Sep 2026 00:13:11 +0000",
@@ -693,6 +733,14 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "La polémica en Francia por el autor al que acusan de haber escrito con IA su premiada novela",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/la-polemica-en-francia-por-el-autor-al-que-acusan-de-haber-escrito-con-ia-su-premiada-novela-2/",
+      "fecha": "Wed, 23 Sep 2026 22:47:14 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El escritor canadiense-haitiano Thélyson Orélien acaba de ser galardonado con el Premio de Novela Fnac por su primera obra."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La polémica en Francia por el autor al que acusan de haber escrito con IA su premiada novela",
       "link": "https://www.prensalibre.com/guatemala/la-polemica-en-francia-por-el-autor-al-que-acusan-de-haber-escrito-con-ia-su-premiada-novela/",
       "fecha": "Wed, 23 Sep 2026 22:47:14 +0000",
       "categoria": "Guatemala",
@@ -779,60 +827,12 @@
       "resumen": "Guatemala necesitaba una ley integral que cubriera el lavado de dinero y el financiamiento del terrorismo, de forma que el país se ajustara a las recomendaciones del GAFI."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Vigente desde 2022: Por qué se ha vuelto a prorrogar el régimen de excepción de Bukele en El Salvador",
-      "link": "https://www.prensalibre.com/internacional/vigente-desde-2022-por-que-se-ha-vuelto-a-prorrogar-el-regimen-de-excepcion-de-bukele-en-el-salvador/",
-      "fecha": "Wed, 23 Sep 2026 21:38:07 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Congreso de El Salvador, conformado en su mayoría por miembros del partido de Bukele, aprobaron la prórroga número 55 del régimen de excepción."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Adria Arjona desfiló en icónico evento de moda de Milán y compartió momento especial con Jason Momoa",
       "link": "https://www.guatemala.com/noticias/entretenimiento/adria-arjona-desfilo-vogue-world-milan-compartio-momento-especial-jason-momoa.html",
       "fecha": "Wed, 23 Sep 2026 21:28:49 +0000",
       "categoria": "Entretenimiento",
       "resumen": "La actriz de raíces guatemaltecas, Adria Arjona, compartió pasarela con Jennifer López, J Balvin y otros famosos en el icónico Vogue World: Milán. \nThe post Adria Arjona desfiló en icónico evento de moda de Milán y compartió momento especial con Jason Momoa appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Condenan a Apolinario Hernández Pú por abusar sexualmente a 11 menores en Joyabaj, Quiché",
-      "link": "https://www.prensalibre.com/guatemala/justicia/condenan-a-apolinario-hernandez-pu-por-abusar-sexualmente-a-11-menores-en-joyabaj-quiche/",
-      "fecha": "Wed, 23 Sep 2026 21:23:02 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Un tribunal declaró culpable a Apolinario Hernández Pú de tres delitos, luego de establecer que utilizaba dispositivos electrónicos para grabar los abusos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fenómenos astronómicos de octubre a diciembre del 2026: ¿cuáles serán los más destacados que se verán en Guatemala?",
-      "link": "https://www.prensalibre.com/vida/ciencia/fenomenos-astronomicos-de-octubre-a-diciembre-del-2026-cuales-seran-los-mas-destacados-que-se-veran-en-guatemala/",
-      "fecha": "Wed, 23 Sep 2026 21:00:20 +0000",
-      "categoria": "Ciencia",
-      "resumen": "El último trimestre del año traerá a los amantes de la astronomía diversos eventos que harán del cielo su escenario, entre lluvias de meteoros, el solsticio y la observación de planetas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jornada de Cultura Altense: Un espacio para la historia, literatura e identidad celebra su tercera edición",
-      "link": "https://www.prensalibre.com/vida/escenario/jornada-de-cultura-altense-un-espacio-para-la-historia-literatura-e-identidad-celebra-su-tercera-edicion/",
-      "fecha": "Wed, 23 Sep 2026 20:02:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La tercera edición de este encuentro se celebrará en el Teatro Municipal de Quetzaltenango y contará con la asistencia de autores, investigadores y gestores culturales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Embarazo oculto, relación con su cuñado y esposo en EE. UU.: lo que revela el parte policial sobre el abandono de una bebé",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/embarazo-oculto-relacion-con-su-cunado-y-esposo-en-ee-uu-lo-que-hay-detras-del-abandono-de-una-bebe-breaking/",
-      "fecha": "Wed, 23 Sep 2026 19:05:37 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Una bebé fue localizada en una cueva de San Pedro Carchá. Según el reporte policial, su madre mantuvo en secreto el embarazo, producto de una relación con su cuñado, mientras su esposo estaba en Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Deportados desaparecidos? la denuncia que señala al ICE de dejar de mostrarlos en sus sistemas de localización",
-      "link": "https://www.prensalibre.com/internacional/deportados-desaparecidos-la-denuncia-que-senala-al-ice-de-dejar-de-mostrarlos-en-sus-sistemas-de-localizacion/",
-      "fecha": "Wed, 23 Sep 2026 18:55:37 +0000",
-      "categoria": "Internacional",
-      "resumen": "AILA ha denunciado al ICE y lo señala de \"desaparecer\" de sus sistemas de localización a los migrantes detenidos que posean órdenes de deportación."
     },
     {
       "fuente": "Guatemala.com",
