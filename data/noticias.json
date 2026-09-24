@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-24T14:15:59.395Z",
+  "actualizado": "2026-09-24T15:16:10.626Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Superinteligencia y lentes inteligentes: Zuckerberg defiende el desarrollo de la IA",
+      "link": "https://www.prensalibre.com/internacional/superinteligencia-y-lentes-inteligentes-zuckerberg-defiende-el-desarrollo-de-la-ia/",
+      "fecha": "Thu, 24 Sep 2026 15:13:42 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente de Meta, Mark Zuckerberg, dijo que \"empoderar a las personas\" con la inteligencia artificial (IA) es la mejor vía hacia un futuro seguro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Siento que esto es como un secuestro&#8221;: los migrantes que se aíslan en sus casas para evitar las redadas de ICE en Doral, la ciudad más venezolana de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/siento-que-esto-es-como-un-secuestro-los-migrantes-que-se-aislan-en-sus-casas-para-evitar-las-redadas-de-ice-en-doral-la-ciudad-mas-venezolana-de-ee-uu/",
+      "fecha": "Thu, 24 Sep 2026 15:00:47 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "María y su familia evitan salir a la calle en Doral para evitar toparse con agentes de ICE, aunque tienen una solicitud activa de asilo que, según la ley de EE.UU., debería protegerlos de la deportación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Operativo en zona 1 permite incautar indicios vinculados con falsificación de documentos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/operativo-en-zona-1-permite-incautar-indicios-vinculados-con-falsificacion-de-documentos-breaking/",
+      "fecha": "Thu, 24 Sep 2026 14:42:20 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC compartió detalles de una investigación relacionada con una posible estructura criminal dedicada a la falsificación de documentos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Javier Milei carga contra la ONU: La califica de “organización inútil” y habla de unos “parásitos”",
@@ -9,6 +33,14 @@
       "fecha": "Thu, 24 Sep 2026 14:05:19 +0000",
       "categoria": "Internacional",
       "resumen": "El presidente argentino Javier Milei también aprovechó su mensaje ante la Asamblea General de la ONU para defender a Israel y a Estados Unidos y criticar a Irán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién era “El Flaco”, el presunto delincuente que murió prensado bajo un tráiler en la zona 11",
+      "link": "https://www.prensalibre.com/guatemala/justicia/quien-era-el-flaco-el-presunto-delincuente-que-murio-prensado-bajo-un-trailer-en-la-zona-11-breaking/",
+      "fecha": "Thu, 24 Sep 2026 14:01:59 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC detalló los antecedentes del presunto delincuente que murió prensado bajo un tráiler en la zona 11 de la capital."
     },
     {
       "fuente": "Prensa Libre",
@@ -60,7 +92,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Enade 2026: Fundesa propone reducir homicidios y extorsiones y mejorar el control de las cárceles",
+      "titulo": "Enade 2026: Empresarios proponen reducir homicidios y extorsiones en Guatemala",
       "link": "https://www.prensalibre.com/economia/enade-2026-fundesa-propone-reducir-homicidios-y-extorsiones-y-mejorar-el-control-de-las-carceles/",
       "fecha": "Thu, 24 Sep 2026 11:00:00 +0000",
       "categoria": "Economía",
@@ -793,38 +825,6 @@
       "fecha": "Wed, 23 Sep 2026 11:00:00 +0000",
       "categoria": "Economía",
       "resumen": "El MEM evalúa declarar una emergencia en el sistema eléctrico nacional tras la caída de la generación hidroeléctrica por el déficit de lluvia, la medida busca garantizar el suministro de energía si las condiciones del clima siguen impactando. Espera un nuevo análisis del ente operador del sistema."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Xi Jinping viaja a EE.UU.: el &#8220;príncipe&#8221; que lo perdió todo antes de convertirse en el líder más poderoso de China",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/xi-jinping-viaja-a-ee-uu-el-principe-que-lo-perdio-todo-antes-de-convertirse-en-el-lider-mas-poderoso-de-china/",
-      "fecha": "Wed, 23 Sep 2026 10:16:34 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Antes de convertirse en el dirigente más influyente de China en décadas, Xi Jinping pasó de una infancia privilegiada a la persecución política y el exilio rural durante la Revolución Cultural."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comisión de Ambiente prevé analizar Ley de Aguas a finales de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/politica/comision-de-ambiente-preve-analizar-ley-de-aguas-a-finales-de-septiembre/",
-      "fecha": "Wed, 23 Sep 2026 06:29:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Comisión de Ambiente y Recursos Naturales del Congreso prevé comenzar a finales de septiembre el análisis de la iniciativa 6816, Ley de Aguas, para lo cual abrirá espacios de discusión con distintos sectores del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gasolina regular con etanol: qué cambió tras el primer mes de uso en Guatemala",
-      "link": "https://www.prensalibre.com/economia/gasolina-regular-con-etanol-que-cambio-tras-el-primer-mes-de-uso-en-guatemala/",
-      "fecha": "Wed, 23 Sep 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Al cumplirse el primer mes de la incorporación de 10% de etanol a la gasolina regular comercializada al consumidor final, autoridades y representantes de los sectores vinculados con los combustibles expusieron los efectos observados, entre ellos, cambios en los patrones de consumo y en los precios, así como los retos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La que faltaba",
-      "link": "https://www.prensalibre.com/opinion/caricatura/la-que-faltaba/",
-      "fecha": "Wed, 23 Sep 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
     },
     {
       "fuente": "Guatemala.com",
