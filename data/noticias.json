@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-24T03:15:15.802Z",
+  "actualizado": "2026-09-24T04:16:16.292Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El primer ministro de Australia denuncia que un agente de OpenAI hackeó un sitio web de su gobierno",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-primer-ministro-de-australia-denuncia-que-un-agente-de-openai-hackeo-un-sitio-web-de-su-gobierno/",
+      "fecha": "Thu, 24 Sep 2026 04:13:11 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La intrusión en una página del sistema público de salud australiano tardó semanas en ser detectada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Torneo Apertura: Xelajú MC golea 4-0 a Antigua GFC y celebra una noche contundente en el Mario Camposeco",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-xelaju-mc-golea-4-0-a-antigua-gfc-y-celebra-una-noche-contundente-en-el-mario-camposeco-breaking/",
+      "fecha": "Thu, 24 Sep 2026 04:01:19 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los chivos fueron superiores desde el inicio y sentenciaron el partido con cuatro goles para quedarse con una contundente victoria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "China busca poner fin a la guerra con Irán, pero no como Trump quiere",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/china-busca-poner-fin-a-la-guerra-con-iran-pero-no-como-trump-quiere/",
+      "fecha": "Thu, 24 Sep 2026 03:33:50 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Pekín podría presionar a Teherán para que reanude las negociaciones, pero los analistas afirman que es poco probable que China deje de comprar petróleo iraní."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Socios y no rivales”: el mensaje de Xi Jinping a Donald Trump para redefinir acuerdos comerciales",
+      "link": "https://www.prensalibre.com/internacional/socios-y-no-rivales-el-mensaje-de-xi-jinping-a-donald-trump-para-redefinir-acuerdos-comerciales/",
+      "fecha": "Thu, 24 Sep 2026 02:55:01 +0000",
+      "categoria": "Internacional",
+      "resumen": "¿Qué hay detrás de la inesperada postura de Pekín y el llamado a ser “socios y no rivales”? Descubre la estrategia de Xi Jinping aquí."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "“Sabemos quién lo hizo, pero no quién dio la orden”: condenan a 35 años a dos hombres por asesinato del alcalde de Chuarrancho",
@@ -793,38 +825,6 @@
       "fecha": "Wed, 23 Sep 2026 01:13:10 +0000",
       "categoria": "Internacional",
       "resumen": "¿Cuánto pagan por cazar a una de las serpientes más grandes del mundo en los pantanos de Florida?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Viviana Aroche revela sus próximos retos tras hacer historia en Copenhague",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/viviana-aroche-proximos-retos-record-copenhague-maraton/",
-      "fecha": "Wed, 23 Sep 2026 00:56:56 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La fondista guatemalteca cuenta cómo consiguió el récord nacional y centroamericano de medio maratón y adelanta sus objetivos para 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "California declara el 25 de septiembre como el Día de Dolly Parton",
-      "link": "https://www.prensalibre.com/vida/escenario/california-declara-el-25-de-septiembre-como-el-dia-de-dolly-parton/",
-      "fecha": "Wed, 23 Sep 2026 00:48:02 +0000",
-      "categoria": "Escenario",
-      "resumen": "La leyenda de la música country, Dolly Parton, tendrá un día al año dedicado a reconocer su legado y trayectoria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué tiene que ver Selena con la demanda por US$1 millón entre A. B. Quintanilla y su hermana Suzette",
-      "link": "https://www.prensalibre.com/vida/escenario/que-tiene-que-ver-selena-con-la-demanda-por-us1-millon-entre-a-b-quintanilla-y-su-hermana-suzette/",
-      "fecha": "Wed, 23 Sep 2026 00:39:20 +0000",
-      "categoria": "Escenario",
-      "resumen": "El músico estadounidense A.B. Quintanilla demandó por US$1 millón a su hermana Suzette, por una disputa relacionada con las regalías de Selena."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Camilo Séptimo pospone todos sus conciertos de 2026 tras la muerte de su tecladista &#8220;Honas&#8221; Meléndez",
-      "link": "https://www.prensalibre.com/vida/escenario/camilo-septimo-pospone-todos-sus-conciertos-de-2026-tras-la-muerte-de-su-tecladista-honas-melendez/",
-      "fecha": "Wed, 23 Sep 2026 00:35:19 +0000",
-      "categoria": "Escenario",
-      "resumen": "La agrupación mexicana buscará reprogramar para 2027 los conciertos que tenía previstos para este año. Esto se sabe."
     },
     {
       "fuente": "Guatemala.com",
