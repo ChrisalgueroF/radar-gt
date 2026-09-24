@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-24T16:16:36.675Z",
+  "actualizado": "2026-09-24T17:14:13.790Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Casa Blanca mantiene veto a tres medios pese a orden judicial: Juez pide explicaciones a Trump",
+      "link": "https://www.prensalibre.com/internacional/casa-blanca-mantiene-veto-a-tres-medios-pese-a-orden-judicial-juez-pide-explicaciones-a-trump/",
+      "fecha": "Thu, 24 Sep 2026 16:43:15 +0000",
+      "categoria": "Internacional",
+      "resumen": "El juez federal Timothy Kelly dio un ultimátum a Trump para que explique en las próximas horas por qué se impide el acceso de CNN, MS NOW y Politico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala extradita a cuatro por vínculos con narcopolítica, entre ellos un ligado a “El Pocho” y un hermano de alcalde",
+      "link": "https://www.prensalibre.com/guatemala/justicia/guatemala-extradita-a-cuatro-por-vinculos-con-narcopolitica-entre-ellos-un-ligado-a-el-pocho-y-un-hermano-de-alcalde/",
+      "fecha": "Thu, 24 Sep 2026 16:36:28 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Ministerio de Gobernación informó que Guatemala extraditó hacia Estados Unidos a cuatro privados de libertad señalados de narcotráfico."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Nearshoring en Guatemala: estos son los retos para atraer nuevas industrias e inversión",
@@ -9,6 +25,14 @@
       "fecha": "Thu, 24 Sep 2026 16:00:00 +0000",
       "categoria": "Economía",
       "resumen": "El Guatemala Development Forum 2026 puso sobre la mesa las oportunidades para atraer nuevas industrias, pero empresarios y especialistas señalaron que el país debe mejorar el capital humano, la infraestructura y la información que ofrece a los inversionistas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Allanamientos vinculados a Miguel Martínez: qué buscaba el MP en los 13 cateos en inmuebles de parientes del exfuncionario",
+      "link": "https://www.prensalibre.com/guatemala/justicia/allanamientos-vinculados-a-miguel-martinez-que-buscaba-el-mp-en-los-13-cateos-en-inmuebles-de-parientes-del-exfuncionario/",
+      "fecha": "Thu, 24 Sep 2026 15:36:36 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Ministerio Público incautó indicios relacionados con la creación de sociedades anónimas y la compra de bienes inmuebles."
     },
     {
       "fuente": "Guatemala.com",
@@ -809,30 +833,6 @@
       "fecha": "Wed, 23 Sep 2026 14:01:51 +0000",
       "categoria": "Comunitario",
       "resumen": "El Insivumeh pronostica fuertes lluvias en Guatemala para este miércoles 23 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Santiago de León, el piloto guatemalteco que convierte sus sueños en velocidad",
-      "link": "https://www.prensalibre.com/deportes/santiago-de-leon-el-piloto-guatemalteco-que-convierte-sus-suenos-en-velocidad-breaking/",
-      "fecha": "Wed, 23 Sep 2026 14:00:00 +0000",
-      "categoria": "Deportes",
-      "resumen": "Con esfuerzo, disciplina y el respaldo de su familia, Santiago de León ha convertido su pasión por la velocidad en una historia que lleva el nombre de Guatemala a las pistas internacionales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Metimos la pata&#8221;: la enorme compensación que tendrá que desembolsar DoorDash tras admitir que pagó menos de lo debido a sus repartidores en Nueva York",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/metimos-la-pata-la-enorme-compensacion-que-tendra-que-desembolsar-doordash-tras-admitir-que-pago-menos-de-lo-debido-a-sus-repartidores-en-nueva-york/",
-      "fecha": "Wed, 23 Sep 2026 13:27:47 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La empresa aceptó la deuda que tenía con varios repartidores que trabajan con su aplicación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvia, árboles derribados y vehículos averiados complican tránsito en la metrópoli este 23 de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvia-arboles-derribados-y-vehiculos-averiados-complican-transito-en-la-metropoli-este-23-de-septiembre-breaking/",
-      "fecha": "Wed, 23 Sep 2026 13:13:15 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La movilidad vehicular se complica este 23 de septiembre en la metrópoli por las lluvias de las últimas horas."
     },
     {
       "fuente": "Guatemala.com",
