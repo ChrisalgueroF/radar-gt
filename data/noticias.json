@@ -1,7 +1,55 @@
 {
-  "actualizado": "2026-09-24T00:20:46.010Z",
+  "actualizado": "2026-09-24T01:14:03.817Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vigilia Sanando mi Corazón 2026: fecha, lugar, actividades y artistas invitados",
+      "link": "https://www.prensalibre.com/vida/escenario/vigilia-sanando-mi-corazon-2026-fecha-lugar-actividades-y-artistas-invitados/",
+      "fecha": "Thu, 24 Sep 2026 01:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Fe, música y generosidad se unirán en la Vigilia Sanando mi Corazón 2026, un evento gratuito a beneficio de la Fundación Hogar de Niños Shalom."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Daños en puente La Palmilla amenazan el paso por la ruta al Atlántico y obligan a restringir el tránsito",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/danos-en-puente-la-palmilla-amenazan-el-paso-por-la-ruta-al-atlantico-y-obligan-a-restringir-el-transito/",
+      "fecha": "Thu, 24 Sep 2026 00:43:48 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Los daños en el puente La Palmilla, en el km 116 de la ruta al Atlántico, obligaron a restringir el paso y mantienen bajo análisis un posible cierre total."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El presidente de Irán le dice a Trump que su país nunca se &#8220;arrodillará&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-presidente-de-iran-le-dice-a-trump-que-su-pais-nunca-se-arrodillara/",
+      "fecha": "Thu, 24 Sep 2026 00:39:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El desafiante discurso de Masoud Pezeshkian ante la ONU se produce después de que el presidente estadounidense amenazara con \"aniquilar\" a Irán si no se llega pronto a un acuerdo de paz."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Festival del Níspero 2026: San Juan del Obispo celebra su “fruto de oro” en la XIV edición; fecha, hora y detalles",
+      "link": "https://www.prensalibre.com/vida/escenario/festival-del-nispero-2026-san-juan-del-obispo-celebra-su-fruto-de-oro-en-la-xiv-edicion-fecha-hora-y-detalles/",
+      "fecha": "Thu, 24 Sep 2026 00:36:25 +0000",
+      "categoria": "Escenario",
+      "resumen": "Conocida como la cuna de este fruto, San Juan del Obispo se prepara para celebrar la XIV edición del Festival del Níspero, un encuentro en el que la música, la gastronomía y las raíces culturales se fusionan."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Invasión de aficionados le cuesta una fuerte multa a Comunicaciones",
+      "link": "https://www.prensalibre.com/deportes/invasion-de-aficionados-le-cuesta-una-fuerte-multa-a-comunicaciones-breaking/",
+      "fecha": "Thu, 24 Sep 2026 00:15:29 +0000",
+      "categoria": "Deportes",
+      "resumen": "El Órgano Disciplinario sancionó al club luego de que seguidores cremas irrumpieran tras la derrota ante Guastatoya e intentaran llegar a los camerinos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿En qué fecha se celebra el Día del Niño en Guatemala?",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/en-que-fecha-se-celebra-el-dia-del-nino-en-guatemala/",
+      "fecha": "Thu, 24 Sep 2026 00:15:24 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Durante el Día del Niño en Guatemala, se organizan distintas actividades familiares y escolares, pero también se busca concientizar a la población sobre la realidad de la niñez en nuestro país."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La luna llena de septiembre de 2026: ¿cuándo será y dónde se podrá ver mejor en Guatemala?",
@@ -20,6 +68,22 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Acuerdo de Busan: de qué trata la tregua comercial entre EE. UU. y China que fue extendida hasta enero",
+      "link": "https://www.prensalibre.com/internacional/acuerdo-de-busan-de-que-trata-la-tregua-comercial-entre-ee-uu-y-china-que-fue-extendida-hasta-enero/",
+      "fecha": "Wed, 23 Sep 2026 23:58:46 +0000",
+      "categoria": "Internacional",
+      "resumen": "El secretario del tesoro anunció que EE. UU. y China acordaron extender hasta enero su tregua comercial  que alcanzaron el año pasado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dónde podrían funcionar las unidades móviles que ICE busca contratar para mantener bajo custodia a migrantes",
+      "link": "https://www.prensalibre.com/internacional/donde-podrian-funcionar-las-unidades-moviles-que-ice-busca-contratar-para-mantener-bajo-custodia-a-migrantes/",
+      "fecha": "Wed, 23 Sep 2026 23:43:06 +0000",
+      "categoria": "Internacional",
+      "resumen": "La propuesta contempla vehículos adaptados para mantener temporalmente a personas detenidas durante operativos migratorios antes de su traslado a centros regionales. El proyecto aún está en fase de contratación."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "¡Fuerte castigo! Edwin Vásquez, técnico de San Pedro, recibe seis meses de suspensión y Q10 mil de multa",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/fuerte-castigo-edwin-vasquez-tecnico-de-san-pedro-recibe-seis-meses-de-suspension-y-q10-mil-de-multa-breaking/",
       "fecha": "Wed, 23 Sep 2026 23:36:59 +0000",
@@ -33,6 +97,14 @@
       "fecha": "Wed, 23 Sep 2026 23:35:51 +0000",
       "categoria": "Salud y Familia",
       "resumen": "Las lluvias dispersas pueden favorecer el aumento de resfriados y otras enfermedades respiratorias. Ante la posibilidad de que las precipitaciones continúen, estas son algunas recomendaciones para cuidar la salud."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemalteco reclutado por Rusia desapareció tras ir a combatir en Ucrania: su esposa cuenta el calvario",
+      "link": "https://www.prensalibre.com/internacional/guatemalteco-reclutado-por-rusia-desaparecio-tras-ir-a-combatir-en-ucrania-su-esposa-cuenta-el-calvario/",
+      "fecha": "Wed, 23 Sep 2026 23:30:18 +0000",
+      "categoria": "Internacional",
+      "resumen": "La esposa de un guatemalteco reclutado en las fuerzas armadas rusas comparte su testimonio, revelando el uso de inyecciones letales y las promesas no cumplidas. El paradero del guatemalteco es incierto desde el 2024."
     },
     {
       "fuente": "Prensa Libre",
@@ -753,78 +825,6 @@
       "fecha": "Tue, 22 Sep 2026 23:30:00 +0000",
       "categoria": "Guatemala",
       "resumen": "CyberDays 2026 se realizará del 19 al 23 de octubre y reunirá a marcas con consumidores en una nueva jornada de comercio electrónico en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El norte del país fortalece y amplia la oferta automotriz",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/el-norte-del-pais-fortalece-y-amplia-la-oferta-automotriz/",
-      "fecha": "Tue, 22 Sep 2026 23:29:59 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "IVESA inauguró la agencia de Mazda y GWM en la 7ª avenida 25-15, zona 1, San Benito, Petén, con el objetivo de fortalecer su presencia a nivel nacional y acercar nuevas alternativas de movilidad a los guatemaltecos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué ocurre con migrantes detenidos por ICE: informe documenta condiciones antihigiénicas y personas encadenadas",
-      "link": "https://www.prensalibre.com/internacional/que-ocurre-con-migrantes-detenidos-por-ice-informe-documenta-condiciones-antihigienicas-y-personas-encadenadas/",
-      "fecha": "Tue, 22 Sep 2026 23:26:28 +0000",
-      "categoria": "Internacional",
-      "resumen": "Inodoros desbordados, falta de atención médica y personas retenidas con cadenas destapan una grave crisis humanitaria en recintos de Florida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“En 24 horas y a pie es absurdo”: los relatos de migrantes hondureños que cruzan Guatemala con un plazo que critican",
-      "link": "https://www.prensalibre.com/guatemala/migrantes/en-24-horas-y-a-pie-es-absurdo-migrantes-hondurenos-cuestionan-plazo-para-cruzar-guatemala-breaking/",
-      "fecha": "Tue, 22 Sep 2026 23:25:57 +0000",
-      "categoria": "Migrantes",
-      "resumen": "Migrantes hondureños que avanzan a pie por Guatemala cuestionan el plazo de 24 horas otorgado para atravesar el país mientras continúan su recorrido hacia México."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Zoológico La Aurora invita a correr 5K por la conservación animal en la XVI edición de “Corre por el Zoo”",
-      "link": "https://www.prensalibre.com/vida/escenario/zoologico-la-aurora-invita-a-correr-5k-por-la-conservacion-animal-en-la-xvi-edicion-de-corre-por-el-zoo/",
-      "fecha": "Tue, 22 Sep 2026 23:23:21 +0000",
-      "categoria": "Escenario",
-      "resumen": "El Zoológico La Aurora invita a participar en una carrera de cinco kilómetros que busca, por medio de la actividad física, respaldar el trabajo de conservación animal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Hágannoslo saber y los eliminamos”: Qué dijo Trump sobre usar fuerza militar en Latinoamérica contra organizaciones criminales",
-      "link": "https://www.prensalibre.com/internacional/hagannoslo-saber-y-los-eliminamos-que-dijo-trump-sobre-usar-fuerza-militar-en-latinoamerica-contra-organizaciones-criminales/",
-      "fecha": "Tue, 22 Sep 2026 23:12:45 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente de Estados Unidos, Donald Trump, durante su intervención ante la Asamblea General de la ONU, ofreció usar la fuerza militar en Latinoamérica contra organizaciones criminales que amenazan los intereses de su país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una fiesta de sabor, diversión y promociones inspirada por el taco",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-fiesta-de-sabor-diversion-y-promociones-inspirada-por-el-taco/",
-      "fecha": "Tue, 22 Sep 2026 23:09:40 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "El próximo 7 de octubre el taco tendrá su propia fiesta en todos los restaurantes Taco Bell a nivel nacional, para celebrar el Día del Taco, donde se sumarán a la celebración con música, promociones exclusivas y experiencias únicas, pensadas para que amigos, familias y compañeros de trabajo compartan juntos de sus tacos favoritos y vivan buenos momentos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "3 afirmaciones que Trump realizó ante la Asamblea General de la ONU, verificadas por la BBC",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/3-afirmaciones-que-trump-realizo-ante-la-asamblea-general-de-la-onu-verificadas-por-la-bbc/",
-      "fecha": "Tue, 22 Sep 2026 22:50:14 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Jake Horton, Ben Chu y Rupert Carey, de BBC Verify, examinaron las afirmaciones del presidente y las contrastaron con los datos y la evidencia disponibles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué implica el acuerdo de seguridad entre EE. UU., Dinamarca y Groenlandia que permitirá nuevas bases militares?",
-      "link": "https://www.prensalibre.com/internacional/que-implica-el-acuerdo-de-seguridad-entre-ee-uu-dinamarca-y-groenlandia-que-permitira-nuevas-bases-militares/",
-      "fecha": "Tue, 22 Sep 2026 22:43:16 +0000",
-      "categoria": "Internacional",
-      "resumen": "Estados Unidos amplía su presencia militar en Groenlandia con nuevas bases para frenar a potencias rivales. ¿Cómo impacta esto al Ártico?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MP presenta más pruebas para extinguir inmuebles, vehículos y cuentas vinculados con Roxana Baldetti",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mp-presenta-mas-pruebas-para-extinguir-inmuebles-vehiculos-y-cuentas-vinculados-con-roxana-baldetti/",
-      "fecha": "Tue, 22 Sep 2026 22:41:14 +0000",
-      "categoria": "Justicia",
-      "resumen": "El proceso de extinción de dominio de 11 bienes vinculados con la exvicepresidenta Roxana Baldetti avanzó con el ofrecimiento de prueba del MP y continuará el 25 de septiembre."
     },
     {
       "fuente": "Guatemala.com",
