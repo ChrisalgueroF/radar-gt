@@ -1,14 +1,54 @@
 {
-  "actualizado": "2026-09-24T18:18:39.786Z",
+  "actualizado": "2026-09-24T19:14:02.961Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vacunas Sputnik vencidas y bajo investigación: almacenarlas ya cuesta cerca de Q1 millón",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/vacunas-sputnik-vencidas-y-bajo-investigacion-almacenarlas-ya-cuesta-cerca-de-q1-millon/",
+      "fecha": "Thu, 24 Sep 2026 19:00:15 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Las dosis de la vacuna Sputnik V que se compraron a Rusia durante la administración de Alejandro Giammattei, permanecen en bodegas desde febrero del 2022."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sala revoca medidas sustitutivas a Jorge Santos, exdirector de Informática del TSE, por el caso Corrupción Semilla",
+      "link": "https://www.prensalibre.com/guatemala/justicia/sala-revoca-medidas-sustitutivas-a-jorge-santos-exdirector-de-informatica-del-tse-por-el-caso-corrupcion-semilla-breaking/",
+      "fecha": "Thu, 24 Sep 2026 18:43:52 +0000",
+      "categoria": "Justicia",
+      "resumen": "Sala deja sin efecto la orden de libertad girada a favor del exdirector de Informática del TSE, Jorge Santos, en el caso Corrupción Semilla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nuevas series y películas llegan a Netflix en octubre 2026: estos son los estrenos destacados",
+      "link": "https://www.prensalibre.com/vida/escenario/nuevas-series-y-peliculas-llegan-a-netflix-en-octubre-2026-estos-son-los-estrenos-destacados/",
+      "fecha": "Thu, 24 Sep 2026 18:30:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Misterio, acción, drama y risas se hacen presentes en las propuestas de la plataforma de streaming."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué es y cómo opera Urbagestión, la empresa detrás del desalojo de la anciana Maricarmen de 87 años en Madrid",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/que-es-y-como-opera-urbagestion-la-empresa-detras-del-desalojo-de-la-anciana-maricarmen-de-87-anos-en-madrid/",
+      "fecha": "Thu, 24 Sep 2026 18:23:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La actividad de la empresa consiste en aumentar el valor de edificios tras comprarlos, vaciarlos de inquilinos y hacer reformas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cilia Flores busca salir de prisión bajo fianza: Estados Unidos advierte extremo riesgo de fuga",
+      "link": "https://www.prensalibre.com/internacional/cilia-flores-busca-salir-de-prision-bajo-fianza-estados-unidos-advierte-extremo-riesgo-de-fuga/",
+      "fecha": "Thu, 24 Sep 2026 18:21:46 +0000",
+      "categoria": "Internacional",
+      "resumen": "La defensa de Cilia Flores pidió que la venezolana fuera trasladada a una residencia privada en Nueva York y sometida a un régimen de arresto domiciliario."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "Así ha destacado Ximena Carrillo en los primeros días de Miss Grand International 2026",
       "link": "https://www.guatemala.com/noticias/sociedad/ximena-carrillo-representa-guatemala-miss-grand-international-2026.html",
       "fecha": "Thu, 24 Sep 2026 18:03:53 +0000",
       "categoria": "Sociedad",
-      "resumen": "La guatemalteca Ximena Carrillo ha destacado en los primeros días de concentración de Miss Grand International 2026. \nThe post Así ha destacado Ximena Carrillo en los primeros días de Miss Grand International 2026 appeared first on Guatemala.com."
+      "resumen": "La guatemalteca Ximena Carrillo destaca en actividades de Miss Grand International 2026, uno de los certámenes de belleza más importantes del mundo.\nThe post Así ha destacado Ximena Carrillo en los primeros días de Miss Grand International 2026 appeared first on Guatemala.com."
     },
     {
       "fuente": "Prensa Libre",
@@ -787,52 +827,12 @@
       "resumen": "La oficina de remigración transformó el compromiso histórico de EE. UU. con el reasentamiento de refugiados en un enfoque intensivo para la expulsión de migrantes."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo EE. UU. negociaría con los &#8220;terceros países&#8221; para que reciban a migrantes deportados",
-      "link": "https://www.prensalibre.com/internacional/como-ee-uu-negociaria-con-los-terceros-paises-para-que-reciban-a-migrantes-deportados/",
-      "fecha": "Wed, 23 Sep 2026 16:00:35 +0000",
-      "categoria": "Internacional",
-      "resumen": "EE. UU. habría invertido US$410 millones para lograr acuerdos con \"terceros países\" y así reciban a migrantes deportados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Seguridad del celular: el chequeo de diez minutos y cómo proteger sus cuentas si le roban el teléfono",
-      "link": "https://www.prensalibre.com/vida/tecnologia/seguridad-del-celular-el-chequeo-de-diez-minutos-y-como-proteger-sus-cuentas-si-le-roban-el-telefono/",
-      "fecha": "Wed, 23 Sep 2026 16:00:12 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Revisar la seguridad del teléfono puede ayudar a prevenir ataques cibernéticos y proteger la información, pero también es clave tomar medidas ante el riesgo de un robo físico que podría comprometer cuentas y datos personales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala registra 16 fallecidos y más de 1 mil 500 emergencias por la temporada de lluvias de 2026",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-registra-16-fallecidos-y-mas-de-1-mil-500-emergencias-por-la-temporada-de-lluvias-de-2026-breaking/",
-      "fecha": "Wed, 23 Sep 2026 15:56:17 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Conred brindó detalles de la cantidad de personas fallecidas y de los daños en infraestructura en Guatemala por las lluvias en el 2026."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "La Promo Shell 2026 regresa para sortear 3 vehículos BMW M y premios instantáneos a  los guatemaltecos",
       "link": "https://www.guatemala.com/noticias/sociedad/la-promo-shell-2026-bmw-m-guatemala.html",
       "fecha": "Wed, 23 Sep 2026 15:21:01 +0000",
       "categoria": "Sociedad",
       "resumen": "La Promo Shell 2026 regresa en septiembre con oportunidades para ganar un BMW M3, dos BMW X3 y premios instantáneos.\nThe post La Promo Shell 2026 regresa para sortear 3 vehículos BMW M y premios instantáneos a  los guatemaltecos appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muerte de guatemalteco en Míchigan: ICE dice que intentó detenerlo antes del accidente mortal",
-      "link": "https://www.prensalibre.com/internacional/muerte-de-guatemalteco-en-michigan-ice-dice-que-intento-detenerlo-antes-del-accidente-mortal/",
-      "fecha": "Wed, 23 Sep 2026 15:11:14 +0000",
-      "categoria": "Internacional",
-      "resumen": "El guatemalteco Mario David Coronado Juárez murió luego de que su camioneta se estrellara contra un árbol y se incendiara durante un intento de detención por el ICE."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ver a Guatemala cuesta Q280 en casa y Q75 en Jamaica: estos son los precios de los boletos",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/de-q80-a-q250-cuestan-los-boletos-para-ver-a-guatemala-ante-jamaica-en-kingston-breaking/",
-      "fecha": "Wed, 23 Sep 2026 15:07:43 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Mientras en Guatemala las entradas para los partidos de la Liga de Naciones van de Q280 a Q1 mil 330, en Jamaica el boleto más barato es de Q73 (US$9.49)."
     },
     {
       "fuente": "Guatemala.com",
