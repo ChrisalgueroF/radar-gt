@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-24T19:14:02.961Z",
+  "actualizado": "2026-09-24T20:16:20.393Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;No sabía que mi pareja me violaba mientras dormía&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/no-sabia-que-mi-pareja-me-violaba-mientras-dormia/",
+      "fecha": "Thu, 24 Sep 2026 20:05:47 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Adelle Overton llevaba 13 años con Steven Uden cuando descubrió que él la había estado violando mientras dormía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Scaloni revela cómo hizo posible el último partido de Messi con Argentina",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/scaloni-revela-como-hizo-posible-el-ultimo-partido-de-messi-con-argentina-breaking/",
+      "fecha": "Thu, 24 Sep 2026 19:32:13 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El técnico de la Albiceleste explicó que hizo todo lo posible para que Lionel Messi estuviera presente en el partido que marcará su adiós de la Selección Argentina."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clase previa al Jamaica vs. Guatemala en Liga de Naciones: El Profe se alista para sufrir en Kingston",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/clase-previa-al-jamaica-vs-guatemala-en-liga-de-naciones-el-profe-se-alista-para-sufrir-en-kingston/",
+      "fecha": "Thu, 24 Sep 2026 19:31:12 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El Profe enfatizó que Guatemala debe salir a ganar en Kingston y no conformarse con excusas sobre procesos ni intentar rescatar un empate en Jamaica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Selección de Guatemala: Luis Fernando Tena revela cómo encuentra a Aarón Herrera pese a estar sin equipo",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-luis-fernando-tena-revela-como-encuentra-a-aaron-herrera-pese-a-estar-sin-equipo-breaking/",
+      "fecha": "Thu, 24 Sep 2026 19:08:03 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El técnico de la Selección de Guatemala explicó cómo llega el lateral a la Liga de Naciones tras más de tres meses sin actividad profesional."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Vacunas Sputnik vencidas y bajo investigación: almacenarlas ya cuesta cerca de Q1 millón",
@@ -9,6 +41,22 @@
       "fecha": "Thu, 24 Sep 2026 19:00:15 +0000",
       "categoria": "Comunitario",
       "resumen": "Las dosis de la vacuna Sputnik V que se compraron a Rusia durante la administración de Alejandro Giammattei, permanecen en bodegas desde febrero del 2022."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amigos de Miguel Martínez, contratos con el Estado y una denuncia por lavado: quiénes son los 13 investigados por el MP",
+      "link": "https://www.prensalibre.com/guatemala/justicia/amigos-de-miguel-martinez-contratos-con-el-estado-y-una-denuncia-por-lavado-quienes-son-los-13-investigados-por-el-mp/",
+      "fecha": "Thu, 24 Sep 2026 18:54:03 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Familiares, amigos y empresarios vinculados con contratos del Estado figuran entre los 13 nombres incluidos en las diligencias contra Miguel Martínez."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuántos muertos reporta EE. UU. por la bacteria &#8220;come carne&#8221; y qué estados tienen más casos",
+      "link": "https://www.prensalibre.com/internacional/cuantos-muertos-reporta-ee-uu-por-la-bacteria-come-carne-y-que-estados-tienen-mas-casos/",
+      "fecha": "Thu, 24 Sep 2026 18:46:51 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las autoridades sanitarias de EE. UU. recomiendan a la población no sumergirse en el mar con heridas abiertas para evitar infectarse."
     },
     {
       "fuente": "Prensa Libre",
@@ -524,6 +572,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Xi Jinping llega a EE.UU.: el &#8220;príncipe&#8221; que lo perdió todo antes de convertirse en el líder más poderoso de China",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/xi-jinping-llega-a-ee-uu-el-principe-que-lo-perdio-todo-antes-de-convertirse-en-el-lider-mas-poderoso-de-china/",
+      "fecha": "Wed, 23 Sep 2026 23:15:15 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Antes de convertirse en el dirigente más influyente de China en décadas, Xi Jinping pasó de una infancia privilegiada a la persecución política y el exilio rural durante la Revolución Cultural."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "¿Quién ganará el duelo entre Jamaica y Guatemala? Esto dice la IA sobre las posibilidades",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/quien-ganara-el-duelo-entre-jamaica-y-guatemala-esto-dice-la-ia-sobre-las-posibilidades/",
       "fecha": "Wed, 23 Sep 2026 23:10:07 +0000",
@@ -769,62 +825,6 @@
       "fecha": "Wed, 23 Sep 2026 17:05:57 +0000",
       "categoria": "Economía",
       "resumen": "La suspensión temporal del IVA y el IDP a los combustibles (decreto 22-2026), reducirá la recaudación y plantea riesgos para la política fiscal de Guatemala, según analistas políticos y económicos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡Cristiano Ronaldo va por los 1,000 goles! “Quiero llegar y voy a llegar”, asegura el portugués",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-va-por-los-1-000-goles-quiero-llegar-y-voy-a-llegar-asegura-el-portugues-breaking/",
-      "fecha": "Wed, 23 Sep 2026 16:59:31 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La estrella portuguesa confirmó que busca alcanzar una cifra histórica y reveló cómo afronta el reto en la etapa final de su carrera."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "4 vacaciones al año: los jubilados que deciden gastarse su dinero en lugar de dejárselo en herencia a sus hijos",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/4-vacaciones-al-ano-los-jubilados-que-deciden-gastarse-su-dinero-en-lugar-de-dejarselo-en-herencia-a-sus-hijos/",
-      "fecha": "Wed, 23 Sep 2026 16:49:21 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Este fenómeno consiste en que los jubilados gastan todo su dinero en disfrutar de la vida al máximo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Cuerpos como moneda de cambio&#8221;: la realidad de los migrantes deportados de EE. UU. a &#8220;terceros países&#8221;",
-      "link": "https://www.prensalibre.com/internacional/cuerpos-como-moneda-de-cambio-la-realidad-de-los-migrantes-deportados-de-ee-uu-a-terceros-paises/",
-      "fecha": "Wed, 23 Sep 2026 16:38:12 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los migrantes que son deportados de EE. UU. a \"terceros países\" deben enfrentarse a la incertidumbre de ir a un sitio desconocido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quiénes están detrás? Los hombres de Trump que lideran su política migratoria",
-      "link": "https://www.prensalibre.com/internacional/quienes-estan-detras-los-hombres-de-trump-que-lideran-su-politica-migratoria/",
-      "fecha": "Wed, 23 Sep 2026 16:23:50 +0000",
-      "categoria": "Internacional",
-      "resumen": "Aunque Donald Trump es la cara reconocida de su política migratoria, hay funcionarios de bajo perfil que lideran las acciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuándo se cambia la hora en los Estados Unidos en el 2026? El horario de verano terminará pronto",
-      "link": "https://www.prensalibre.com/internacional/cuando-se-cambia-la-hora-en-los-estados-unidos-en-el-2026-el-horario-de-verano-terminara-pronto/",
-      "fecha": "Wed, 23 Sep 2026 16:18:51 +0000",
-      "categoria": "Internacional",
-      "resumen": "Aunque en EE. UU. se debate la Sunshine Protection Act, un proyecto de ley que busca hacer permanente el horario de verano, la iniciativa aún no ha sido aprobada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo el Departamento de Estado se &#8220;transformó&#8221; tras la llegada de Trump en favor de su política migratoria",
-      "link": "https://www.prensalibre.com/internacional/como-el-departamento-de-estado-se-transformo-tras-la-llegada-de-trump-en-favor-de-su-politica-migratoria/",
-      "fecha": "Wed, 23 Sep 2026 16:11:24 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Departamento de Estado paso a ser una entidad comprometida con asistir a los migrantes ha ser la principal impulsora de la política migratoria de Donald Trump."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Oficina de remigración: la entidad que supone un cambio radical en la política migratoria de Trump",
-      "link": "https://www.prensalibre.com/internacional/oficina-de-remigracion-la-entidad-que-supone-un-cambio-radical-en-la-politica-migratoria-de-trump/",
-      "fecha": "Wed, 23 Sep 2026 16:02:25 +0000",
-      "categoria": "Internacional",
-      "resumen": "La oficina de remigración transformó el compromiso histórico de EE. UU. con el reasentamiento de refugiados en un enfoque intensivo para la expulsión de migrantes."
     },
     {
       "fuente": "Guatemala.com",
