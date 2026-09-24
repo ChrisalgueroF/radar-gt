@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-24T11:14:44.404Z",
+  "actualizado": "2026-09-24T12:19:23.763Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Conamigua, casi 20 años después: qué hace por los migrantes y cómo mide sus resultados",
+      "link": "https://www.prensalibre.com/guatemala/migrantes/conamigua-casi-20-anos-despues-que-hace-por-los-migrantes-y-como-mide-sus-resultados/",
+      "fecha": "Thu, 24 Sep 2026 12:00:00 +0000",
+      "categoria": "Migrantes",
+      "resumen": "Con recursos públicos ligados al flujo de remesas, Conamigua enfrenta cuestionamientos sobre su funcionamiento mientras el Congreso se prepara para renovarla."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Enade 2026: Fundesa propone reducir homicidios y extorsiones y mejorar el control de las cárceles",
@@ -817,14 +825,6 @@
       "fecha": "Wed, 23 Sep 2026 06:02:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Nuestro reto no es frenar la innovación, sino orientarla con responsabilidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Se cierran tres bancos en el 2005",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/se-cierran-tres-bancos/",
-      "fecha": "Wed, 23 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Se suspendieron las operaciones del Banco Empresarial, Banco Metropolitano y Banco Promotor."
     },
     {
       "fuente": "Guatemala.com",
