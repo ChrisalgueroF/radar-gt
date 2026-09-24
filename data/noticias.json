@@ -1,7 +1,111 @@
 {
-  "actualizado": "2026-09-24T05:14:27.422Z",
+  "actualizado": "2026-09-24T06:19:50.070Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Suspensión del IVA y del IDP: no atiende la situación del diésel, y sectores piden medidas más sostenibles",
+      "link": "https://www.prensalibre.com/economia/suspension-del-iva-y-del-idp-no-atiende-la-situacion-del-diesel-y-sectores-piden-medidas-mas-sostenibles/",
+      "fecha": "Thu, 24 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La exoneración temporal del IVA y el IDP aliviará el precio de los combustibles hasta diciembre, pero empresarios y transportistas piden definir desde ahora las medidas para enfrentar un posible escenario de precios altos para el próximo año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La entrega",
+      "link": "https://www.prensalibre.com/opinion/caricatura/la-entrega-2/",
+      "fecha": "Thu, 24 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presumiendo un parche con agujeros",
+      "link": "https://www.prensalibre.com/opinion/editorial/presumiendo-un-parche-con-agujeros/",
+      "fecha": "Thu, 24 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Anoche mismo, mientras aprobaban el \"sacrificio\", cenaban con cajas de servicio a domicilio de un prestigioso restaurante."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Exfuncionarios y trabajadores de Conamigua buscan dirigir la institución por los próximos tres años",
+      "link": "https://www.prensalibre.com/guatemala/politica/exfuncionarios-y-trabajadores-de-conamigua-buscan-dirigir-la-institucion-por-los-proximos-tres-anos/",
+      "fecha": "Thu, 24 Sep 2026 06:05:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Exfuncionarios de gobiernos anteriores, un exdiputado, trabajadores y extrabajadores de Conamigua figuran entre los 31 aspirantes a dirigir la institución durante el periodo 2026-2029, cuya elección está a cargo del Congreso en las próximas semanas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Siete cambios oculares comunes relacionados con la edad que no debe ignorar",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/siete-cambios-oculares-comunes-relacionados-con-la-edad-que-no-debe-ignorar/",
+      "fecha": "Thu, 24 Sep 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Los adultos mayores deberían considerar realizarse exámenes oculares con mayor frecuencia, recomiendan los especialistas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Xi Jinping y Donald Trump buscan una IA segura sin frenar la carrera por la supremacía",
+      "link": "https://www.prensalibre.com/internacional/xi-jinping-y-donald-trump-buscan-una-ia-segura-sin-frenar-la-carrera-por-la-supremacia/",
+      "fecha": "Thu, 24 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Estados Unidos y China muestran poco interés en desacelerar el desarrollo de la inteligencia artificial, aunque exploran acuerdos para contener riesgos específicos de una tecnología clave en su rivalidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El sabor de la igualdad",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-sabor-de-la-igualdad/",
+      "fecha": "Thu, 24 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Hoy, las mujeres en Afganistán no pueden estudiar ni trabajar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Combustibles: alivio temporal",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/combustibles-alivio-temporal/",
+      "fecha": "Thu, 24 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "No sabemos qué va a pasar con los precios del petróleo dada la incertidumbre que existe por razones geopolíticas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una oportunidad para llevar el arbitraje a nivel internacional",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/una-oportunidad-para-llevar-el-arbitraje-a-nivel-internacional/",
+      "fecha": "Thu, 24 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Uno de los costos de transacción son las expectativas de resolución eficaz de disputas. Cuando son buenas, la economía florece."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Desde Yarmuk hasta el yihadismo",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/desde-yarmuk-hasta-el-yihadismo/",
+      "fecha": "Thu, 24 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El ataque fue un hecho más en una larga cadena de conflicto civilizacional"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy jueves 24 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-24-de-septiembre-de-2026/",
+      "fecha": "Thu, 24 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Foro Público de la OMC del 2026",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-foro-publico-de-la-omc-del-2026/",
+      "fecha": "Thu, 24 Sep 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La edición del 2026 del Foro Público de la OMC se inauguró el 15 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nuevas reglas migratorias abren espacio al talento extranjero y suman 125 solicitudes de residencia",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/nuevas-reglas-migratorias-abren-espacio-al-talento-extranjero-y-suman-125-solicitudes-de-residencia/",
+      "fecha": "Thu, 24 Sep 2026 06:00:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "Modalidades para que extranjeros se instalen en el país implementadas recientemente facilitan la llegada de perfiles especializados, con el reto de convertir su conocimiento en capacidades locales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "El primer ministro de Australia denuncia que un agente de OpenAI hackeó un sitio web de su gobierno",
@@ -721,110 +825,6 @@
       "fecha": "Wed, 23 Sep 2026 06:01:00 +0000",
       "categoria": "Vida",
       "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo aprender las primeras sesenta palabras?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/como-aprender-las-primeras-sesenta-palabras/",
-      "fecha": "Wed, 23 Sep 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Todavía podemos agregar una meta a nuestra lista para 2026: aprender 60 palabras del idioma indígena del territorio que habitamos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lionel Richie es hospitalizado por problemas cardíacos y cancela tres conciertos: “Se tomará un tiempo de descanso”",
-      "link": "https://www.prensalibre.com/vida/escenario/lionel-richie-es-hospitalizado-por-problemas-cardiacos-y-cancela-tres-conciertos-se-tomara-un-tiempo-de-descanso/",
-      "fecha": "Wed, 23 Sep 2026 03:54:29 +0000",
-      "categoria": "Escenario",
-      "resumen": "El cantante Lionel Richie fue hospitalizado luego de presentar complicaciones de salud. Esto se conoce de su diagnóstico y de los conciertos cancelados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué es tan relevante el encuentro que Trump y Delcy Rodríguez mantuvieron en Nueva York, a menos de 15 km de la cárcel en la que está preso Maduro",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-es-tan-relevante-el-encuentro-que-trump-y-delcy-rodriguez-mantuvieron-en-nueva-york-a-menos-de-15-km-de-la-carcel-en-la-que-esta-preso-maduro/",
-      "fecha": "Wed, 23 Sep 2026 03:45:10 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los gobernantes de Estados Unidos y Venezuela consuman su polémica alianza con una reunión cara a cara al margen de la Asamblea General de la ONU con varios significados, según analistas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvias causan derrumbes, inundaciones y caída de árboles en distintos puntos de Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-causan-derrumbes-inundaciones-y-caida-de-arboles-en-distintos-puntos-de-guatemala-breaking/",
-      "fecha": "Wed, 23 Sep 2026 03:31:51 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Las lluvias causan emergencias en distintos puntos de Guatemala, entre ellas derrumbes, inundaciones, caída de árboles y lahares."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El potencial verde de Latinoamérica, entre la geopolítica y el desafío de El Niño",
-      "link": "https://www.prensalibre.com/internacional/el-potencial-verde-de-latinoamerica-entre-la-geopolitica-y-el-desafio-de-el-nino/",
-      "fecha": "Wed, 23 Sep 2026 03:22:52 +0000",
-      "categoria": "Internacional",
-      "resumen": "Latinoamérica busca convertir su biodiversidad y recursos naturales en riqueza, mientras enfrenta desafíos geopolíticos, climáticos y energéticos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump quiere cambiar el nombre de la inteligencia artificial en EE.UU: así propone llamarla y estas son sus razones",
-      "link": "https://www.prensalibre.com/internacional/trump-quiere-cambiar-el-nombre-de-la-inteligencia-artificial-en-ee-uu-asi-propone-llamarla-y-estas-son-sus-razones/",
-      "fecha": "Wed, 23 Sep 2026 03:07:48 +0000",
-      "categoria": "Internacional",
-      "resumen": "La Casa Blanca decidió cambiar el término inteligencia artificial en sus documentos oficiales. ¿Qué implicaciones tiene este cambio?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "William y Kate se reúnen con Alejandro González Iñárritu y Tom Cruise sorprende con un gesto de cortesía en el estreno de “Digger”",
-      "link": "https://www.prensalibre.com/vida/escenario/william-y-kate-se-reunen-con-alejandro-gonzalez-inarritu-y-tom-cruise-sorprende-con-un-gesto-de-cortesia-en-el-estreno-de-digger/",
-      "fecha": "Wed, 23 Sep 2026 03:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Durante el estreno de “Digger” en Londres, los príncipes de Gales sorprendieron al público con su presencia y compartieron con el director mexicano Alejandro González Iñárritu y Tom Cruise."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“El individuo tiene 30 años delinquiendo”: registros del señalado por agresiones sexuales en San José Pinula se remontan a 1996",
-      "link": "https://www.prensalibre.com/guatemala/justicia/el-individuo-tiene-30-anos-delinquiendo-registros-del-senalado-por-agresiones-sexuales-en-san-jose-pinula-se-remontan-a-1996/",
-      "fecha": "Wed, 23 Sep 2026 02:35:06 +0000",
-      "categoria": "Justicia",
-      "resumen": "Rosendo de Jesús Herrera Moguel, señalado por el MP de agredir sexualmente a mujeres contactadas mediante falsas ofertas de trabajo, registra nueve antecedentes desde 1996, entre ellos señalamientos por violación desde el 2000, según registros policiales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Atletas del COG advierten sobre los riesgos de la iniciativa de ley 6690 para el deporte guatemalteco",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/atletas-del-cog-advierten-sobre-los-riesgos-de-la-iniciativa-de-ley-6690-para-el-deporte-guatemalteco-breaking/",
-      "fecha": "Wed, 23 Sep 2026 01:51:07 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La Comisión de Atletas señala que los cambios al deporte federado podrían generar incertidumbre en las competencias internacionales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Kit Harington reconsidera volver como Jon Snow y habla de su participación en “Harry Potter” de HBO",
-      "link": "https://www.prensalibre.com/vida/escenario/kit-harington-reconsidera-volver-como-jon-snow-y-habla-de-su-participacion-en-harry-potter-de-hbo/",
-      "fecha": "Wed, 23 Sep 2026 01:43:46 +0000",
-      "categoria": "Escenario",
-      "resumen": "Su papel como Jon Snow en la aclamada serie “Game of Thrones” marcó su carrera como actor. Años después, Kit Harington reconoce que reconsideraría la posibilidad de retomar al personaje en una eventual secuela."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "CC mantiene vigente el uso de etanol en la gasolina regular al no suspender el reglamento",
-      "link": "https://www.prensalibre.com/guatemala/justicia/cc-mantiene-vigente-el-uso-de-etanol-en-la-gasolina-regular-al-no-suspender-el-reglamento-breaking/",
-      "fecha": "Wed, 23 Sep 2026 01:27:29 +0000",
-      "categoria": "Justicia",
-      "resumen": "La CC no suspendió temporalmente el reglamento que establece el uso de etanol en la gasolina regular, por lo que la medida continúa vigente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Los narcopolíticos y narcotraficantes deberían estar preocupados y nerviosos&#8221;, señala la Embajada de EE. UU. en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/los-narcopoliticos-y-narcotraficantes-deberian-estar-preocupados-y-nerviosos-senala-la-embajada-de-ee-uu-en-guatemala/",
-      "fecha": "Wed, 23 Sep 2026 01:17:37 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Fiscales de nueve distritos de Estados Unidos visitaron Guatemala para reforzar la cooperación contra el narcotráfico, el crimen organizado y la narcopolítica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo funciona el concurso de pitones en Florida: premios y objetivos detrás del torneo para retirar serpientes en los Everglades",
-      "link": "https://www.prensalibre.com/internacional/como-funciona-el-concurso-de-pitones-en-florida-premios-y-objetivos-detras-del-torneo-para-retirar-serpientes-en-los-everglades/",
-      "fecha": "Wed, 23 Sep 2026 01:13:10 +0000",
-      "categoria": "Internacional",
-      "resumen": "¿Cuánto pagan por cazar a una de las serpientes más grandes del mundo en los pantanos de Florida?"
     },
     {
       "fuente": "Guatemala.com",
