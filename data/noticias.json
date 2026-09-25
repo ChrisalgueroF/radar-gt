@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T03:14:24.113Z",
+  "actualizado": "2026-09-25T04:15:37.440Z",
   "total": 109,
   "noticias": [
     {
@@ -9,6 +9,22 @@
       "fecha": "Fri, 25 Sep 2026 03:10:03 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Los ejecutivos del sector automovilístico de toda Europa esperan que el rearme les ayude a volver a demostrar su poderío industrial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La automotriz más influyente de América Latina",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-automotriz-mas-influyente-de-america-latina/",
+      "fecha": "Fri, 25 Sep 2026 03:09:39 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Según el ranking elaborado por HORSE, Volkswagen consolida su transformación en América Latina también en el terreno de la reputación y la influencia corporativa. La marca alemana alcanzó el cuarto lugar entre las 100 empresas más influyentes de América Latina y el primer puesto entre las automotrices."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Torneo Apertura: Municipal vuelve a la cima al vencer al colero Suchitepéquez",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-municipal-vuelve-a-la-cima-al-vencer-al-colero-suchitepequez-breaking/",
+      "fecha": "Fri, 25 Sep 2026 02:44:53 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los rojos vencieron 3-0 a los venados, recuperaron el liderato del Apertura y extendieron a 37 partidos su invicto en casa."
     },
     {
       "fuente": "Prensa Libre",
@@ -28,11 +44,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "“Eso se llama alegría perversa”: juzgado dicta falta de mérito a piloto tras incidente donde murió alias “el Flaco”",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/eso-se-llama-alegria-perversa-juzgado-dicta-falta-de-merito-a-piloto-tras-incidente-donde-murio-alias-el-flaco-breaking/",
+      "fecha": "Fri, 25 Sep 2026 01:59:52 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Un juzgado de turno dictó falta de mérito a favor del piloto involucrado en el incidente en la zona 11, en el que murió Carlos Alberto Carrillo, alias “el Flaco”, presunto asaltante capturado 39 días antes por la PNC."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Tras siete años de intentos, logran reproducir machorras o pejelagartos e introducen mil alevines en su entorno natural",
       "link": "https://www.prensalibre.com/guatemala/comunitario/tras-siete-anos-de-intentos-logran-reproducir-machorras-o-pejelagartos-e-introducen-mil-alevines-en-su-entorno-natural/",
       "fecha": "Fri, 25 Sep 2026 01:58:36 +0000",
       "categoria": "Comunitario",
       "resumen": "El Centro de Conservación Marina logró reproducir machorras o pejelagartos bajo cuidado humano e introdujo mil alevines nacidos en el centro en la laguna Güiscoyol, Santa Rosa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miss Jamaica 2025 demanda a organizadores de Miss Universo por caída que la dejó hospitalizada casi un mes: “Alteró permanentemente el curso de mi vida”",
+      "link": "https://www.prensalibre.com/vida/escenario/miss-jamaica-2025-demanda-a-organizadores-de-miss-universo-por-caida-que-la-dejo-hospitalizada-casi-un-mes-altero-permanentemente-el-curso-de-mi-vida/",
+      "fecha": "Fri, 25 Sep 2026 01:53:26 +0000",
+      "categoria": "Escenario",
+      "resumen": "La exreina de belleza acusa de negligencia a los organizadores del certamen por no señalizar el área del escenario donde sufrió la caída que la obligó a pasar varios meses en recuperación."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,38 +825,6 @@
       "fecha": "Thu, 24 Sep 2026 00:56:45 +0000",
       "categoria": "Internacional",
       "resumen": "El Salvador permitirá pagar el aguinaldo desde el 1 de octubre y exonerará del ISR montos de hasta US$1,500 para trabajadores y pensionados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Daños en puente La Palmilla amenazan el paso por la ruta al Atlántico y obligan a restringir el tránsito",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/danos-en-puente-la-palmilla-amenazan-el-paso-por-la-ruta-al-atlantico-y-obligan-a-restringir-el-transito/",
-      "fecha": "Thu, 24 Sep 2026 00:43:48 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los daños en el puente La Palmilla, en el km 116 de la ruta al Atlántico, obligaron a restringir el paso y mantienen bajo análisis un posible cierre total."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El presidente de Irán le dice a Trump que su país nunca se &#8220;arrodillará&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-presidente-de-iran-le-dice-a-trump-que-su-pais-nunca-se-arrodillara/",
-      "fecha": "Thu, 24 Sep 2026 00:39:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El desafiante discurso de Masoud Pezeshkian ante la ONU se produce después de que el presidente estadounidense amenazara con \"aniquilar\" a Irán si no se llega pronto a un acuerdo de paz."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Festival del Níspero 2026: San Juan del Obispo celebra su “fruto de oro” en la XIV edición; fecha, hora y detalles",
-      "link": "https://www.prensalibre.com/vida/escenario/festival-del-nispero-2026-san-juan-del-obispo-celebra-su-fruto-de-oro-en-la-xiv-edicion-fecha-hora-y-detalles/",
-      "fecha": "Thu, 24 Sep 2026 00:36:25 +0000",
-      "categoria": "Escenario",
-      "resumen": "Conocida como la cuna de este fruto, San Juan del Obispo se prepara para celebrar la XIV edición del Festival del Níspero, un encuentro en el que la música, la gastronomía y las raíces culturales se fusionan."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Invasión de aficionados le cuesta una fuerte multa a Comunicaciones",
-      "link": "https://www.prensalibre.com/deportes/invasion-de-aficionados-le-cuesta-una-fuerte-multa-a-comunicaciones-breaking/",
-      "fecha": "Thu, 24 Sep 2026 00:15:29 +0000",
-      "categoria": "Deportes",
-      "resumen": "El Órgano Disciplinario sancionó al club luego de que seguidores cremas irrumpieran tras la derrota ante Guastatoya e intentaran llegar a los camerinos."
     },
     {
       "fuente": "Guatemala.com",
