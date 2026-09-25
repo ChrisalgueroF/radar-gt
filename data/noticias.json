@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-25T12:19:38.194Z",
+  "actualizado": "2026-09-25T13:16:55.777Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo Australia se ha convertido en el país que lidera la cruzada contra las grandes tecnológicas",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-australia-se-ha-convertido-en-el-pais-que-lidera-la-cruzada-contra-las-grandes-tecnologicas/",
+      "fecha": "Fri, 25 Sep 2026 13:15:03 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Australia, que ya cuenta con restricciones sobre redes sociales y ha propuesto controles sobre algoritmos, anunció durante la Asamblea General de la ONU un hackeo por parte de un agente de IA a uno de sus organismos gubernamentales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Valentina Agudelo, la colombiana que creó un innovador dispositivo que identifica el riesgo de cáncer de mama en minutos y en cualquier parte",
@@ -17,6 +25,14 @@
       "fecha": "Fri, 25 Sep 2026 11:00:00 +0000",
       "categoria": "Economía",
       "resumen": "La actividad económica de Guatemala creció 4.4% en julio, mientras se mantienen las expectativas sobre los efectos del fenómeno de El Niño en la inflación y la producción nacional, según una fuente oficial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un águila, una foto de Biden y magnates tecnológicos: quiénes llegaron y qué dejó la cumbre entre Trump y Xi Jinping",
+      "link": "https://www.prensalibre.com/internacional/un-aguila-una-foto-de-biden-y-magnates-tecnologicos-quienes-llegaron-y-que-dejo-la-cumbre-entre-trump-y-xi-jinping/",
+      "fecha": "Fri, 25 Sep 2026 06:30:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "La visita de Estado de Xi Jinping a Washington reunió a líderes políticos y algunos de los empresarios tecnológicos más influyentes de Estados Unidos, además de dejar regalos, gestos diplomáticos y momentos particulares en la Casa Blanca."
     },
     {
       "fuente": "Prensa Libre",
@@ -809,22 +825,6 @@
       "fecha": "Thu, 24 Sep 2026 06:05:00 +0000",
       "categoria": "Internacional",
       "resumen": "Estados Unidos y China muestran poco interés en desacelerar el desarrollo de la inteligencia artificial, aunque exploran acuerdos para contener riesgos específicos de una tecnología clave en su rivalidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El sabor de la igualdad",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-sabor-de-la-igualdad/",
-      "fecha": "Thu, 24 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Hoy, las mujeres en Afganistán no pueden estudiar ni trabajar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Combustibles: alivio temporal",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/combustibles-alivio-temporal/",
-      "fecha": "Thu, 24 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "No sabemos qué va a pasar con los precios del petróleo dada la incertidumbre que existe por razones geopolíticas."
     },
     {
       "fuente": "Guatemala.com",
