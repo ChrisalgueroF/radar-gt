@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-25T01:13:44.275Z",
+  "actualizado": "2026-09-25T02:13:57.361Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Corte de Constitucionalidad avala que el número del DPI sea el NIT, pero delimita alcances a la SAT",
+      "link": "https://www.prensalibre.com/economia/corte-de-constitucionalidad-avala-que-el-numero-del-dpi-sea-el-nit-pero-delimita-alcances-a-la-sat/",
+      "fecha": "Fri, 25 Sep 2026 02:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La CC declaró sin lugar las acciones contra la resolución de la Superintendencia de Administración Tributaria que establece la armonización del Código Único de Identificación (CUI), utilizado en el número del DPI, con el Número de Identificación Tributaria (NIT)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Protegen los recursos naturales al sembrar más de mil arboles",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/protegen-los-recursos-naturales-al-sembrar-mas-de-mil-arboles/",
+      "fecha": "Fri, 25 Sep 2026 01:52:25 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Walmart realizó dos jornadas de reforestación en los meses de julio y septiembre en el Parque Ecológico Florencia, ubicado en Santa Lucía Milpas Altas, esto, como parte de sus acciones de sostenibilidad y su meta de convertirse en una empresa regenerativa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala reconoce la cancha en Jamaica antes de su debut ante la Selección local en la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-reconoce-la-cancha-en-jamaica-antes-de-su-debut-ante-la-seleccion-local-en-la-liga-de-naciones-breaking/",
+      "fecha": "Fri, 25 Sep 2026 01:39:32 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Bicolor realizó este jueves su última práctica en el National Stadium de Kingston, donde este viernes enfrentará a Jamaica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Municipal vs. Suchitepéquez: los rojos buscan recuperar el liderato",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-municipal-vs-suchitepequez-los-rojos-buscan-recuperar-el-liderato-breaking/",
+      "fecha": "Fri, 25 Sep 2026 01:15:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El campeón recibe a unos Venados urgidos de puntos para alejarse del último lugar del Apertura 2026."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Puentes de la ruta al Atlántico acumulan daños y obras inconclusas pese al pago de más de Q26 millones",
@@ -25,6 +57,14 @@
       "fecha": "Fri, 25 Sep 2026 00:30:00 +0000",
       "categoria": "Escenario",
       "resumen": "El proyecto musical Cuarto7 presenta en octubre un espectáculo en vivo con 15 músicos para rendir homenaje a la trayectoria del cantante Luis Miguel de la Ciudad de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amaia Montero queda a media salida del escenario en concierto de La Oreja de Van Gogh: “¿Conseguiré verlos?”",
+      "link": "https://www.prensalibre.com/vida/escenario/amaia-montero-queda-a-media-salida-del-escenario-en-concierto-de-la-oreja-de-van-gogh-conseguire-verlos/",
+      "fecha": "Fri, 25 Sep 2026 00:23:56 +0000",
+      "categoria": "Escenario",
+      "resumen": "Asistentes al concierto de La Oreja de Van Gogh en Madrid quedaron confundidos al escuchar la voz de Amaia Montero mientras la artista no lograba salir al escenario."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,46 +825,6 @@
       "fecha": "Wed, 23 Sep 2026 23:58:46 +0000",
       "categoria": "Internacional",
       "resumen": "El secretario del tesoro anunció que EE. UU. y China acordaron extender hasta enero su tregua comercial  que alcanzaron el año pasado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dónde podrían funcionar las unidades móviles que ICE busca contratar para mantener bajo custodia a migrantes",
-      "link": "https://www.prensalibre.com/internacional/donde-podrian-funcionar-las-unidades-moviles-que-ice-busca-contratar-para-mantener-bajo-custodia-a-migrantes/",
-      "fecha": "Wed, 23 Sep 2026 23:43:06 +0000",
-      "categoria": "Internacional",
-      "resumen": "La propuesta contempla vehículos adaptados para mantener temporalmente a personas detenidas durante operativos migratorios antes de su traslado a centros regionales. El proyecto aún está en fase de contratación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡Fuerte castigo! Edwin Vásquez, técnico de San Pedro, recibe seis meses de suspensión y Q10 mil de multa",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/fuerte-castigo-edwin-vasquez-tecnico-de-san-pedro-recibe-seis-meses-de-suspension-y-q10-mil-de-multa-breaking/",
-      "fecha": "Wed, 23 Sep 2026 23:36:59 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La resolución del Órgano Disciplinario de la Liga Nacional, deja al técnico de San Pedro fuera de los banquillos hasta marzo del 2027, mientras el club estaría preparando la apelación y solicitud de revisión para buscar revertir el castigo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Temporada de lluvias en Guatemala: cuidados esenciales para prevenir enfermedades respiratorias",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/temporada-de-lluvias-en-guatemala-cuidados-esenciales-para-prevenir-enfermedades-respiratorias/",
-      "fecha": "Wed, 23 Sep 2026 23:35:51 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Las lluvias dispersas pueden favorecer el aumento de resfriados y otras enfermedades respiratorias. Ante la posibilidad de que las precipitaciones continúen, estas son algunas recomendaciones para cuidar la salud."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemalteco reclutado por Rusia desapareció tras ir a combatir en Ucrania: su esposa cuenta el calvario",
-      "link": "https://www.prensalibre.com/internacional/guatemalteco-reclutado-por-rusia-desaparecio-tras-ir-a-combatir-en-ucrania-su-esposa-cuenta-el-calvario/",
-      "fecha": "Wed, 23 Sep 2026 23:30:18 +0000",
-      "categoria": "Internacional",
-      "resumen": "La esposa de un guatemalteco reclutado en las fuerzas armadas rusas comparte su testimonio, revelando el uso de inyecciones letales y las promesas no cumplidas. El paradero del guatemalteco es incierto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Xi Jinping llega a EE.UU.: el &#8220;príncipe&#8221; que lo perdió todo antes de convertirse en el líder más poderoso de China",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/xi-jinping-llega-a-ee-uu-el-principe-que-lo-perdio-todo-antes-de-convertirse-en-el-lider-mas-poderoso-de-china/",
-      "fecha": "Wed, 23 Sep 2026 23:15:15 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Antes de convertirse en el dirigente más influyente de China en décadas, Xi Jinping pasó de una infancia privilegiada a la persecución política y el exilio rural durante la Revolución Cultural."
     },
     {
       "fuente": "Guatemala.com",
