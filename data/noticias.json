@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-25T11:15:17.593Z",
+  "actualizado": "2026-09-25T12:19:38.194Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Valentina Agudelo, la colombiana que creó un innovador dispositivo que identifica el riesgo de cáncer de mama en minutos y en cualquier parte",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/valentina-agudelo-la-colombiana-que-creo-un-innovador-dispositivo-que-identifica-el-riesgo-de-cancer-de-mama-en-minutos-y-en-cualquier-parte/",
+      "fecha": "Fri, 25 Sep 2026 11:38:33 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El cáncer de mama es uno de los más tratables, pero sigue siendo el que más mujeres mata. La clave es un diagnóstico oportuno. Y una colombiana lo está logrando,"
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Economía de Guatemala mantiene crecimiento, pero El Niño y el petróleo generan riesgos",
@@ -817,14 +825,6 @@
       "fecha": "Thu, 24 Sep 2026 06:03:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "No sabemos qué va a pasar con los precios del petróleo dada la incertidumbre que existe por razones geopolíticas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una oportunidad para llevar el arbitraje a nivel internacional",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/una-oportunidad-para-llevar-el-arbitraje-a-nivel-internacional/",
-      "fecha": "Thu, 24 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Uno de los costos de transacción son las expectativas de resolución eficaz de disputas. Cuando son buenas, la economía florece."
     },
     {
       "fuente": "Guatemala.com",
