@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-25T20:14:13.102Z",
+  "actualizado": "2026-09-25T21:15:07.668Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Netflix anuncia nueva película de Plaza Sésamo y amplía sus proyectos infantiles",
+      "link": "https://www.prensalibre.com/vida/escenario/netflix-anuncia-nueva-pelicula-de-plaza-sesamo-y-amplia-sus-proyectos-infantiles/",
+      "fecha": "Fri, 25 Sep 2026 20:47:33 +0000",
+      "categoria": "Escenario",
+      "resumen": "Elmo tendrá una nueva aventura junto a sus amigos, según lo anunciado por Netflix, que desarrolla una nueva película de Plaza Sésamo. La plataforma también dio a conocer otras producciones infantiles."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Atrapar a un depredador&#8221;: el controvertido programa que exponía a pedófilos y que fascinó a la TV de EE.UU.",
@@ -9,6 +17,14 @@
       "fecha": "Fri, 25 Sep 2026 19:59:34 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Una nueva película revisa uno de los programas de la televisión estadounidense más polémicos de los años 2000."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miguel Martínez: MP confirma investigaciones contra exfuncionario y señala posible fuga de información en cateos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/miguel-martinez-mp-confirma-investigaciones-contra-exfuncionario-y-senala-fuga-de-informacion-en-cateos/",
+      "fecha": "Fri, 25 Sep 2026 19:44:04 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El fiscal general confirmó que existen “un sinnúmero de denuncias” contra el exjefe del Centro de Gobierno Miguel Martínez y que las pesquisas alcanzan a familiares y personas de su círculo cercano."
     },
     {
       "fuente": "Prensa Libre",
@@ -811,28 +827,12 @@
       "resumen": "El Guatemala Development Forum 2026 puso sobre la mesa las oportunidades para atraer nuevas industrias, pero empresarios y especialistas señalaron que el país debe mejorar el capital humano, la infraestructura y la información que ofrece a los inversionistas."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Allanamientos vinculados a Miguel Martínez: qué buscaba el MP en los 13 cateos en inmuebles de parientes del exfuncionario",
-      "link": "https://www.prensalibre.com/guatemala/justicia/allanamientos-vinculados-a-miguel-martinez-que-buscaba-el-mp-en-los-13-cateos-en-inmuebles-de-parientes-del-exfuncionario/",
-      "fecha": "Thu, 24 Sep 2026 15:36:36 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Ministerio Público incautó indicios relacionados con la creación de sociedades anónimas y la compra de bienes inmuebles."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "La copa ENERGUATE vuelve con una nueva edición este 2026",
       "link": "https://www.guatemala.com/noticias/sociedad/copa-energuate-2026-torneo-guatemala.html",
       "fecha": "Thu, 24 Sep 2026 15:21:59 +0000",
       "categoria": "Sociedad",
       "resumen": "La Copa ENERGUATE 2026 regresa el próximo 24 de septiembre con más de 2 mil niños de 24 municipios y tres categorías deportivas.  \nThe post La copa ENERGUATE vuelve con una nueva edición este 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Superinteligencia y lentes inteligentes: Zuckerberg defiende el desarrollo de la IA",
-      "link": "https://www.prensalibre.com/internacional/superinteligencia-y-lentes-inteligentes-zuckerberg-defiende-el-desarrollo-de-la-ia/",
-      "fecha": "Thu, 24 Sep 2026 15:13:42 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente de Meta, Mark Zuckerberg, dijo que \"empoderar a las personas\" con la inteligencia artificial (IA) es la mejor vía hacia un futuro seguro."
     },
     {
       "fuente": "Guatemala.com",
