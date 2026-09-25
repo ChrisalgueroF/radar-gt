@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-09-24T23:13:51.105Z",
+  "actualizado": "2026-09-25T00:22:30.720Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comedia “Milagro en el convento de Santa María Juana” apoya a Fundación Margarita Tejada: trama, funciones y precios de entradas",
+      "link": "https://www.prensalibre.com/vida/escenario/comedia-milagro-en-el-convento-de-santa-maria-juana-apoya-a-fundacion-margarita-tejada-trama-funciones-y-precios-de-entradas/",
+      "fecha": "Fri, 25 Sep 2026 00:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Esta comedia llegará al Teatro Lux con el propósito de recaudar fondos para programas dirigidos a personas con síndrome de Down."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tena habla sobre el rechazo de Arquímides Ordóñez a la Selección de Guatemala",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/tena-habla-sobre-el-rechazo-de-arquimides-ordonez-a-la-seleccion-de-guatemala-breaking/",
+      "fecha": "Fri, 25 Sep 2026 00:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El técnico explicó que Ordóñez comunicó una supuesta lesión para no incorporarse a la Bicolor, aunque días después disputó minutos con FC Tulsa en la USL Championship."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jamaica advierte sobre la dificultad de enfrentar a Guatemala en el inicio de la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/jamaica-advierte-sobre-la-dificultad-de-enfrentar-a-guatemala-en-el-inicio-de-la-liga-de-naciones-breaking/",
+      "fecha": "Thu, 24 Sep 2026 23:47:50 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El técnico del combinado caribeño Rudolph Speid destaca el juego con balón de la Bicolor y apuesta por la adaptación de Jamaica para afrontar el encuentro."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Café cultivado en Sacatepéquez será parte de una cata global organizada por James Hoffmann",
+      "link": "https://www.guatemala.com/noticias/sociedad/cafe-guatemalteco-sera-parte-the-fermentation-project-cata-global-liderada-james-hoffmann.html",
+      "fecha": "Thu, 24 Sep 2026 23:34:41 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Un café cultivado en Sacatepéquez será parte de la cata global de The Fermentation Project, liderada por el reconocido barista James Hoffmann.\nThe post Café cultivado en Sacatepéquez será parte de una cata global organizada por James Hoffmann appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque armado en zona 25 deja dos fallecidos y cierres viales: otros hechos violentos dejan dos muertos en Chimaltenango",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-zona-25-deja-dos-fallecidos-y-cierres-viales-otros-hechos-violentos-dejan-dos-muertos-en-chimaltenango/",
+      "fecha": "Thu, 24 Sep 2026 23:23:10 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos personas murieron por heridas de bala en la entrada a la colonia El Buen Pastor, mientras autoridades acordonaron el área para efectuar las diligencias correspondientes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Trae compras del extranjero? Así determina la SAT si son equipaje personal o deben pagar impuestos",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/trae-compras-del-extranjero-asi-determina-la-sat-si-son-equipaje-personal-o-deben-pagar-impuestos/",
+      "fecha": "Thu, 24 Sep 2026 23:23:03 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Una computadora de uso personal puede formar parte del equipaje, mientras que varios equipos, compras o regalos pueden recibir otro tratamiento. Conozca cuándo aplican las exenciones de US$500."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Róbalo y helado: así es el menú para el encuentro de Trump y Xi Jinping en la Casa Blanca",
+      "link": "https://www.prensalibre.com/internacional/robalo-y-helado-asi-es-el-menu-para-el-encuentro-de-trump-y-xi-jinping-en-la-casa-blanca/",
+      "fecha": "Thu, 24 Sep 2026 23:07:31 +0000",
+      "categoria": "Internacional",
+      "resumen": "La primera dama Melania Trump estuvo a cargo de los preparativos de la cena de Estado, cuyo menú combina ingredientes estadounidenses con influencia china, además de música y una decoración en la que predominará el rojo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "En video: decenas de delegados abandonan la Asamblea General de la ONU durante la intervención de Netanyahu",
@@ -9,6 +65,22 @@
       "fecha": "Thu, 24 Sep 2026 23:02:21 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Decenas de delegados de Naciones Unidas abandonaron este jueves la sala donde el primer ministro israelí, Benjamin Netanyahu, se disponía a pronunciar un discurso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Xavi y Klopp debutan con empate en la Liga de Naciones: resultados de la jornada",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/xavi-y-klopp-debutan-con-empate-en-la-liga-de-naciones-resultados-de-la-jornada-breaking/",
+      "fecha": "Thu, 24 Sep 2026 23:00:43 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Países Bajos y Alemania igualaron 1-1 en Ámsterdam, mientras Portugal y Noruega comenzaron con victorias su camino en el torneo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estafa por venta de terrenos: capturan a pareja señalada de defraudar Q180 mil en Izabal",
+      "link": "https://www.prensalibre.com/guatemala/justicia/estafa-por-venta-de-terrenos-capturan-a-pareja-senalada-de-defraudar-q180-mil-en-izabal/",
+      "fecha": "Thu, 24 Sep 2026 22:59:12 +0000",
+      "categoria": "Justicia",
+      "resumen": "Una pareja que tenía órdenes de aprehensión por estafa en venta de terrenos fue capturada por autoridades en El Estor, Izabal."
     },
     {
       "fuente": "Prensa Libre",
@@ -49,6 +121,14 @@
       "fecha": "Thu, 24 Sep 2026 21:54:09 +0000",
       "categoria": "Internacional",
       "resumen": "ICE arrestó a un migrante guatemalteco indocumentado tras su presunta implicación en un accidente con un tráiler en Massachusetts."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué estrenos ver en octubre 2026 en Prime Video?",
+      "link": "https://www.prensalibre.com/vida/escenario/que-estrenos-ver-en-octubre-2026-en-prime-video/",
+      "fecha": "Thu, 24 Sep 2026 21:52:52 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con una gran variedad de títulos, la plataforma busca complacer los gustos más variados."
     },
     {
       "fuente": "Prensa Libre",
@@ -755,78 +835,6 @@
       "resumen": "El presidente Donald Trump recibió a su homólogo chino Xi Jinping en Washington este 23 de septiembre."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "OEA llama a garantizar elección transparente de contralor y advierte sobre uso político de finiquitos",
-      "link": "https://www.prensalibre.com/guatemala/politica/oea-llama-a-garantizar-eleccion-transparente-de-contralor-y-advierte-sobre-uso-politico-de-finiquitos-breaking/",
-      "fecha": "Wed, 23 Sep 2026 22:27:17 +0000",
-      "categoria": "Política",
-      "resumen": "La OEA pidió que la elección del contralor de Cuentas garantice transparencia e independencia, y destacó la necesidad de preservar la objetividad de los finiquitos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Francisco Arredondo competirá en Marruecos rumbo al Rally Dakar 2027",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/francisco-arredondo-competira-en-marruecos-rumbo-al-rally-dakar-2027-breaking/",
-      "fecha": "Wed, 23 Sep 2026 22:21:18 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El piloto guatemalteco afrontará una de las últimas pruebas de alta exigencia antes del Dakar, junto a destacados corredores internacionales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vaguada monzónica y onda tropical generan intensas lluvias en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/vaguada-monzonica-y-onda-tropical-generan-intensas-lluvias-en-guatemala/",
-      "fecha": "Wed, 23 Sep 2026 22:05:30 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Guatemala pasó de jornadas calurosas y con poca lluvia a días de precipitaciones prolongadas y tormentas. El Insivumeh explica qué fenómenos están detrás de este cambio y qué se espera para los próximos días."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué reveló el informe forense sobre la muerte de Hayden Panettiere y el estado de su cuerpo",
-      "link": "https://www.prensalibre.com/vida/escenario/que-revelo-el-informe-forense-sobre-la-muerte-de-hayden-panettiere-y-el-estado-de-su-cuerpo/",
-      "fecha": "Wed, 23 Sep 2026 21:57:17 +0000",
-      "categoria": "Escenario",
-      "resumen": "El informe forense señala que la actriz murió por los efectos tóxicos del fentanilo y otros medicamentos. Cerca de su cuerpo también se encontraron pastillas que dieron positivo a la prueba de esa sustancia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos menores caen al río Cahabón: una es rescatada con vida y la otra muere",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-menores-caen-al-rio-cahabon-una-es-rescatada-con-vida-y-la-otra-muere/",
-      "fecha": "Wed, 23 Sep 2026 21:57:12 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Dos niñas cayeron accidentalmente al río Cahabón, en Cobán, Alta Verapaz; una de ellas fue rescatada y trasladada a un hospital, mientras que la otra falleció."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Precio de los combustibles en Guatemala: estos son los precios de galón de regular y super en autoservicio",
-      "link": "https://www.prensalibre.com/economia/precio-de-los-combustibles-en-guatemala-estos-son-los-precios-de-galon-de-regular-y-super-en-autoservicio/",
-      "fecha": "Wed, 23 Sep 2026 21:56:37 +0000",
-      "categoria": "Economía",
-      "resumen": "La gasolina regular y superior aumentaron unos Q0.70 por galón en Guatemala, mientras el precio promedio del diésel se mantiene sin cambios, hasta el momento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La feria Libro al Viento vuela al Noroccidente en busca de lectores",
-      "link": "https://www.prensalibre.com/vida/escenario/la-feria-libro-al-viento-vuela-al-noroccidente-en-busca-de-lectores/",
-      "fecha": "Wed, 23 Sep 2026 21:55:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La primera edición de la feria en esta región del país se celebrará del 7 al 10 de octubre en Huehuetenango y será dedicada al poeta y antropólogo Víctor D. Montejo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La guatemalteca Anaí Porras destaca en el Mundial Junior de Surf",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/la-guatemalteca-anai-porras-destaca-en-el-mundial-junior-de-surf-breaking/",
-      "fecha": "Wed, 23 Sep 2026 21:53:16 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La atleta de 15 años alcanzó el mejor resultado para la delegación nacional y de Centroamérica en la prueba donde participaron representantes de 56 países."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué cambia con la nueva Ley Antilavado en Guatemala? La guía para poder entenderla mejor",
-      "link": "https://www.prensalibre.com/economia/que-cambia-con-la-nueva-ley-antilavado-en-guatemala-la-guia-para-poder-entenderla-mejor/",
-      "fecha": "Wed, 23 Sep 2026 21:46:45 +0000",
-      "categoria": "Economía",
-      "resumen": "Guatemala necesitaba una ley integral que cubriera el lavado de dinero y el financiamiento del terrorismo, de forma que el país se ajustara a las recomendaciones del GAFI."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Adria Arjona desfiló en icónico evento de moda de Milán y compartió momento especial con Jason Momoa",
       "link": "https://www.guatemala.com/noticias/entretenimiento/adria-arjona-desfilo-vogue-world-milan-compartio-momento-especial-jason-momoa.html",
@@ -865,14 +873,6 @@
       "fecha": "Tue, 22 Sep 2026 18:07:03 +0000",
       "categoria": "Entretenimiento",
       "resumen": "La actriz Lourdes Chavez actúa en la serie de Prime Video, El Juicio, protagonizada por Eugenio Derbez y Pedro Alonso de La Casa de Papel.\nThe post Guatemalteca actúa en serie protagonizada por Eugenio Derbez y Pedro Alonso de La Casa de Papel appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Vaguada monzónica y onda del este incrementarán lluvias en Guatemala",
-      "link": "https://www.guatemala.com/noticias/comunidad/pronostico-semanal-clima-en-guatemala-21-al-25-septiembre-2026.html",
-      "fecha": "Mon, 21 Sep 2026 15:55:26 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Una vaguada monzónica y otras condiciones traerán un incremento en las lluvias en Guatemala del 21 al 25 de septiembre 2026, reporta el Insivumeh.\nThe post Vaguada monzónica y onda del este incrementarán lluvias en Guatemala appeared first on Guatemala.com."
     }
   ]
 }
