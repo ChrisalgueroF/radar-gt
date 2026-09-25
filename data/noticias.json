@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-25T15:16:51.161Z",
+  "actualizado": "2026-09-25T16:16:31.263Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Encuentro de Conviteros 2026: recomendaciones y puntos para disfrutar los recorridos en el Centro Histórico",
+      "link": "https://www.prensalibre.com/vida/escenario/encuentro-de-conviteros-2026-recomendaciones-y-puntos-para-disfrutar-los-recorridos-en-el-centro-historico/",
+      "fecha": "Fri, 25 Sep 2026 16:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La tradición de los convites guatemaltecos llegará al Centro Histórico para celebrar el legado cultural y artístico del país, con la participación de agrupaciones de más de 99 municipios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Incidentes armados en zonas 1 y 12 dejan cinco heridos, entre ellos dos supuestos delincuentes",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/incidentes-armados-en-zonas-1-y-12-dejan-cinco-heridos-entre-ellos-dos-supuestos-delincuentes-breaking/",
+      "fecha": "Fri, 25 Sep 2026 15:41:57 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Cinco personas resultaron heridas de bala en incidentes armados en las zonas 1 y 12. Según la PNC, dos de los heridos son presuntos delincuentes."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "Clima en Guatemala: lluvias continuarán el fin de semana del 26 y 27 de septiembre 2026",
@@ -817,22 +833,6 @@
       "fecha": "Thu, 24 Sep 2026 13:20:20 +0000",
       "categoria": "Comunitario",
       "resumen": "Tránsito lento en sectores de la metrópoli por percances viales, vehículos con desperfectos mecánicos y derrumbes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ricardo Montaner vuelve a Guatemala: ¿cuándo y dónde será su concierto?",
-      "link": "https://www.prensalibre.com/vida/escenario/ricardo-montaner-vuelve-a-guatemala-cuando-y-donde-sera-su-concierto/",
-      "fecha": "Thu, 24 Sep 2026 13:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El cantautor venezolano-argentino  se reencontrará con su público guatemalteco en una velada cargada de éxitos y nostalgia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo la nueva derecha que gobierna en América Latina muestra su alineamiento pleno con Trump ante los ojos del mundo",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-la-nueva-derecha-que-gobierna-en-america-latina-muestra-su-alineamiento-pleno-con-trump-ante-los-ojos-del-mundo/",
-      "fecha": "Thu, 24 Sep 2026 12:21:33 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Varios presidentes de la región endosan en Nueva York las políticas de mano dura en seguridad impulsadas por Estados Unidos, señal del giro político radical del continente."
     },
     {
       "fuente": "Guatemala.com",
