@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-25T13:16:55.777Z",
+  "actualizado": "2026-09-25T14:16:23.930Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clima en Guatemala: cuál es la probabilidad de lluvia para el fin de semana del 26 y 27 de septiembre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-cual-es-la-probabilidad-de-lluvia-para-el-fin-de-semana-del-26-y-27-de-septiembre-breaking/",
+      "fecha": "Fri, 25 Sep 2026 13:58:30 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh informó que el paso o acercamiento de ondas del este y la inestabilidad en el Pacífico traerán lluvias a Guatemala este fin de semana."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Cómo Australia se ha convertido en el país que lidera la cruzada contra las grandes tecnológicas",
@@ -9,6 +17,14 @@
       "fecha": "Fri, 25 Sep 2026 13:15:03 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Australia, que ya cuenta con restricciones sobre redes sociales y ha propuesto controles sobre algoritmos, anunció durante la Asamblea General de la ONU un hackeo por parte de un agente de IA a uno de sus organismos gubernamentales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Persecuciones por robo de vehículos dejan agentes de la PNC arrollados y capturas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/persecuciones-por-robo-de-vehiculos-dejan-agentes-de-la-pnc-arrollados-y-capturas-breaking/",
+      "fecha": "Fri, 25 Sep 2026 13:15:01 +0000",
+      "categoria": "Justicia",
+      "resumen": "Persecuciones en Escuintla y Chiquimula terminan en capturas y agentes de la PNC arrollados."
     },
     {
       "fuente": "Prensa Libre",
@@ -809,22 +825,6 @@
       "fecha": "Thu, 24 Sep 2026 06:05:00 +0000",
       "categoria": "Guatemala",
       "resumen": "Exfuncionarios de gobiernos anteriores, un exdiputado, trabajadores y extrabajadores de Conamigua figuran entre los 31 aspirantes a dirigir la institución durante el periodo 2026-2029, cuya elección está a cargo del Congreso en las próximas semanas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Siete cambios oculares comunes relacionados con la edad que no debe ignorar",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/siete-cambios-oculares-comunes-relacionados-con-la-edad-que-no-debe-ignorar/",
-      "fecha": "Thu, 24 Sep 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Los adultos mayores deberían considerar realizarse exámenes oculares con mayor frecuencia, recomiendan los especialistas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Xi Jinping y Donald Trump buscan una IA segura sin frenar la carrera por la supremacía",
-      "link": "https://www.prensalibre.com/internacional/xi-jinping-y-donald-trump-buscan-una-ia-segura-sin-frenar-la-carrera-por-la-supremacia/",
-      "fecha": "Thu, 24 Sep 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Estados Unidos y China muestran poco interés en desacelerar el desarrollo de la inteligencia artificial, aunque exploran acuerdos para contener riesgos específicos de una tecnología clave en su rivalidad."
     },
     {
       "fuente": "Guatemala.com",
