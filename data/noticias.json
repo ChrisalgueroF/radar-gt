@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-25T18:17:00.691Z",
+  "actualizado": "2026-09-25T19:13:21.237Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Italia prohíbe el burka y el niqab en las escuelas y limita el número de niños que no hablen italiano en las aulas",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/italia-prohibe-el-burka-y-el-niqab-en-las-escuelas-y-limita-el-numero-de-ninos-que-no-hablen-italiano-en-las-aulas/",
+      "fecha": "Fri, 25 Sep 2026 18:23:00 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La primera ministra de Italia, Giorgia Meloni, describió las medidas como \"instrumentos de sentido común que no dividen, sino que realmente ayudan a integrar\"."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "De un hospital a una persecución policial: hombre roba un auto y termina detenido en Miami, Florida",
@@ -40,7 +48,7 @@
       "link": "https://www.prensalibre.com/guatemala/justicia/que-ha-cambiado-en-el-ministerio-publico-con-la-llegada-de-gabriel-garcia-luna/",
       "fecha": "Fri, 25 Sep 2026 15:44:15 +0000",
       "categoria": "Guatemala",
-      "resumen": "La transformación no está concluida”, dijo el jefe del MP en su primer informe de gestión, en el que expuso los problemas encontrados y los cambios emprendidos durante cuatro meses."
+      "resumen": "\"La transformación no está concluida”, dijo el jefe del MP en su primer informe de gestión, en el que expuso los problemas encontrados y los cambios emprendidos durante cuatro meses."
     },
     {
       "fuente": "Prensa Libre",
@@ -825,14 +833,6 @@
       "fecha": "Thu, 24 Sep 2026 14:05:19 +0000",
       "categoria": "Internacional",
       "resumen": "El presidente argentino Javier Milei también aprovechó su mensaje ante la Asamblea General de la ONU para defender a Israel y a Estados Unidos y criticar a Irán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién era “El Flaco”, el presunto delincuente que murió prensado bajo un tráiler en la zona 11",
-      "link": "https://www.prensalibre.com/guatemala/justicia/quien-era-el-flaco-el-presunto-delincuente-que-murio-prensado-bajo-un-trailer-en-la-zona-11-breaking/",
-      "fecha": "Thu, 24 Sep 2026 14:01:59 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC detalló los antecedentes del presunto delincuente que murió prensado bajo un tráiler en la zona 11 de la capital."
     },
     {
       "fuente": "Guatemala.com",
