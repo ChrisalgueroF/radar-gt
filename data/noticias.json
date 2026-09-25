@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-25T22:14:27.545Z",
+  "actualizado": "2026-09-25T23:13:30.440Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Grupo de diputados busca adelantar elección de contralor y llevarla al pleno el 29 de septiembre",
+      "link": "https://www.prensalibre.com/guatemala/politica/grupo-de-diputados-busca-adelantar-eleccion-de-contralor-y-llevarla-al-pleno-el-29-de-septiembre/",
+      "fecha": "Fri, 25 Sep 2026 23:03:01 +0000",
+      "categoria": "Política",
+      "resumen": "Fuentes cercanas al Congreso aseguran que un grupo de diputados busca adelantar para el 29 de septiembre la elección del nuevo contralor general de Cuentas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Avengers: Doomsday”: anuncian la preventa en Guatemala de la película que reunirá a los héroes de Marvel y los X-Men",
+      "link": "https://www.prensalibre.com/vida/escenario/avengers-doomsday-anuncian-la-preventa-en-guatemala-de-la-pelicula-que-reunira-a-los-heroes-de-marvel-y-los-x-men/",
+      "fecha": "Fri, 25 Sep 2026 23:00:28 +0000",
+      "categoria": "Escenario",
+      "resumen": "Una de las películas más ambiciosas del UCM traerá a Robert Downey Jr. como Doctor Doom y a héroes de distintas producciones de Marvel y los X-Men. La cinta ya cuenta con preventa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Taylor Swift lanza &#8220;The Encore&#8221; y sus nuevas canciones generan rumores sobre sus ex: esto dicen",
+      "link": "https://www.prensalibre.com/vida/escenario/taylor-swift-lanza-the-encore-y-sus-nuevas-canciones-generan-rumores-sobre-sus-ex-esto-dicen/",
+      "fecha": "Fri, 25 Sep 2026 22:48:43 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con cuatro canciones inéditas que completan su disco, Taylor Swift vuelve a poner bajo la lupa sus antiguas relaciones por las posibles referencias que aparecen en las letras."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "María Micheo cumple con el pesaje y queda lista para la pelea por el boleto al título mundial",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/maria-micheo-cumple-con-el-pesaje-y-queda-lista-para-la-pelea-por-el-boleto-al-titulo-mundial-breaking/",
+      "fecha": "Fri, 25 Sep 2026 22:38:05 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": ".img_fo{\n\t\t\t\t    aspect-ratio: 16/9;\n                    width: 100%;\n                    height: auto;\n                    margin-bottom: 8px;\n                    object-fit: contain;\n\t\t\t\t}\n\t\t\t\n    .canal-whatsapp,\n    .canal-whatsapp:hover,\n    .canal-whatsapp:focus,\n    .canal-whatsapp:visited {\n        text-decoration: none !important;\n    }\n\n    .canal-whatsapp {\n        display: inline-flex;\n        align-items: center;\n        gap: 8px;\n        background: #fff;\n        border-radius: 999px;\n        padding: 6px 14px 6px 6px !important;\n        text-decoration: none;\n    }\n    .canal-wh"
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Estas son las 12 fotografías sobre ciencia que destacaron en Fotocyt 2026",
+      "link": "https://www.guatemala.com/noticias/sociedad/fotocyt-2026-12-imagenes-ganadoras-concurso-fotografia-cientifica-guatemala.html",
+      "fecha": "Fri, 25 Sep 2026 22:19:06 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Descubre las 12 imágenes ganadoras de Fotocyt 2026, un concurso que promueve el conocimiento de la ciencia a través de la fotografía.\nThe post Estas son las 12 fotografías sobre ciencia que destacaron en Fotocyt 2026 appeared first on Guatemala.com."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¡Se encienden las alarmas por Mbappé! El francés marca y sale lesionado en el debut de Zidane",
@@ -12,11 +52,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Otra noche de pesadilla para Italia: Mancini regresa con derrota y la crisis no da tregua",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/otra-noche-de-pesadilla-para-italia-mancini-regresa-con-derrota-y-la-crisis-no-da-tregua-breaking/",
+      "fecha": "Fri, 25 Sep 2026 21:29:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Bélgica aprovechó las debilidades defensivas de la Azzurra y se impuso en el debut de Roberto Mancini, quien busca reconstruir a la selección."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Aumentan casos y muertes por el virus del Nilo Occidental: ¿cuáles son los principales síntomas?",
       "link": "https://www.prensalibre.com/internacional/aumentan-casos-y-muertes-por-el-virus-del-nilo-occidental-cuales-son-los-principales-sintomas/",
       "fecha": "Fri, 25 Sep 2026 21:20:27 +0000",
       "categoria": "Internacional",
       "resumen": "El virus ha dejado de ser una preocupación tropical y se ha vuelto endémico en áreas templadas, con picos de transmisión durante las temporadas de calor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Narcopolítica en Guatemala: MP investiga vínculos del narcotráfico con el Estado y la actividad electoral",
+      "link": "https://www.prensalibre.com/guatemala/justicia/narcopolitica-en-guatemala-mp-investiga-vinculos-del-narcotrafico-con-el-estado-y-la-actividad-electoral/",
+      "fecha": "Fri, 25 Sep 2026 21:18:37 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La institución indaga posibles vínculos del narcotráfico con estructuras del Estado y una alianza de narcotraficantes con el Barrio 18."
     },
     {
       "fuente": "Prensa Libre",
@@ -771,60 +827,12 @@
       "resumen": "Las autoridades sanitarias de EE. UU. recomiendan a la población no sumergirse en el mar con heridas abiertas para evitar infectarse."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Sala revoca medidas sustitutivas a Jorge Santos, exdirector de Informática del TSE, por el caso Corrupción Semilla",
-      "link": "https://www.prensalibre.com/guatemala/justicia/sala-revoca-medidas-sustitutivas-a-jorge-santos-exdirector-de-informatica-del-tse-por-el-caso-corrupcion-semilla-breaking/",
-      "fecha": "Thu, 24 Sep 2026 18:43:52 +0000",
-      "categoria": "Justicia",
-      "resumen": "Sala deja sin efecto la orden de libertad girada a favor del exdirector de Informática del TSE, Jorge Santos, en el caso Corrupción Semilla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nuevas series y películas llegan a Netflix en octubre 2026: estos son los estrenos destacados",
-      "link": "https://www.prensalibre.com/vida/escenario/nuevas-series-y-peliculas-llegan-a-netflix-en-octubre-2026-estos-son-los-estrenos-destacados/",
-      "fecha": "Thu, 24 Sep 2026 18:30:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Misterio, acción, drama y risas se hacen presentes en las propuestas de la plataforma de streaming."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Reponer una Green Card o reprogramar entrevistas: Cómo apoya la USCIS a migrantes afectados por desastres naturales",
-      "link": "https://www.prensalibre.com/internacional/reponer-una-green-card-o-reprogramar-entrevistas-como-apoya-la-uscis-a-migrantes-afectados-por-desastres-naturales/",
-      "fecha": "Thu, 24 Sep 2026 18:29:48 +0000",
-      "categoria": "Internacional",
-      "resumen": "La USCIS cuenta con algunas ayudas en caso un migrante fue afectado por un desastre natural como un huracán, un incendio o una inundación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué es y cómo opera Urbagestión, la empresa detrás del desalojo de la anciana Maricarmen de 87 años en Madrid",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/que-es-y-como-opera-urbagestion-la-empresa-detras-del-desalojo-de-la-anciana-maricarmen-de-87-anos-en-madrid/",
-      "fecha": "Thu, 24 Sep 2026 18:23:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La actividad de la empresa consiste en aumentar el valor de edificios tras comprarlos, vaciarlos de inquilinos y hacer reformas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cilia Flores busca salir de prisión bajo fianza: Estados Unidos advierte extremo riesgo de fuga",
-      "link": "https://www.prensalibre.com/internacional/cilia-flores-busca-salir-de-prision-bajo-fianza-estados-unidos-advierte-extremo-riesgo-de-fuga/",
-      "fecha": "Thu, 24 Sep 2026 18:21:46 +0000",
-      "categoria": "Internacional",
-      "resumen": "La defensa de Cilia Flores pidió que la venezolana fuera trasladada a una residencia privada en Nueva York y sometida a un régimen de arresto domiciliario."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Así ha destacado Ximena Carrillo en los primeros días de Miss Grand International 2026",
       "link": "https://www.guatemala.com/noticias/sociedad/ximena-carrillo-representa-guatemala-miss-grand-international-2026.html",
       "fecha": "Thu, 24 Sep 2026 18:03:53 +0000",
       "categoria": "Sociedad",
       "resumen": "La guatemalteca Ximena Carrillo destaca en actividades de Miss Grand International 2026, uno de los certámenes de belleza más importantes del mundo.\nThe post Así ha destacado Ximena Carrillo en los primeros días de Miss Grand International 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvias en Guatemala: reportan derrumbes, inundaciones y una vivienda destruida",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-en-guatemala-reportan-derrumbes-inundaciones-y-una-vivienda-destruida-breaking/",
-      "fecha": "Thu, 24 Sep 2026 17:16:56 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Conred informó que en las últimas horas se han reportado en Guatemala 40 emergencias por incidentes derivados de las lluvias."
     },
     {
       "fuente": "Guatemala.com",
@@ -865,14 +873,6 @@
       "fecha": "Wed, 23 Sep 2026 14:50:49 +0000",
       "categoria": "Comunidad",
       "resumen": "Congreso de la República aprobó exoneración temporal de impuestos a la gasolina y el diésel en Guatemala, aunque la medida aún no entra en vigencia.\nThe post Combustibles en Guatemala estarán exentos temporalmente de impuestos appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Alux Nahual recibió las Llaves de la Ciudad de Providence por su aporte cultural",
-      "link": "https://www.guatemala.com/noticias/entretenimiento/alux-nahual-recibe-las-llaves-de-la-ciudad-de-providence.html",
-      "fecha": "Tue, 22 Sep 2026 21:35:22 +0000",
-      "categoria": "Entretenimiento",
-      "resumen": "Alux Nahual recibió las Llaves de la Ciudad de Providence por su aporte a la música y a la comunidad guatemalteca y centroamericana en Estados Unidos.\nThe post Alux Nahual recibió las Llaves de la Ciudad de Providence por su aporte cultural appeared first on Guatemala.com."
     }
   ]
 }
