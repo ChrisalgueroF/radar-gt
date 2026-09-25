@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-25T21:15:07.668Z",
+  "actualizado": "2026-09-25T22:14:27.545Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¡Se encienden las alarmas por Mbappé! El francés marca y sale lesionado en el debut de Zidane",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/se-encienden-las-alarmas-por-mbappe-el-frances-marca-y-sale-lesionado-en-el-debut-de-zidane-breaking/",
+      "fecha": "Fri, 25 Sep 2026 21:31:12 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Francia venció 0-1 a Turquía en el inicio de la era de Zinedine Zidane, aunque la lesión de su capitán ensombreció la victoria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aumentan casos y muertes por el virus del Nilo Occidental: ¿cuáles son los principales síntomas?",
+      "link": "https://www.prensalibre.com/internacional/aumentan-casos-y-muertes-por-el-virus-del-nilo-occidental-cuales-son-los-principales-sintomas/",
+      "fecha": "Fri, 25 Sep 2026 21:20:27 +0000",
+      "categoria": "Internacional",
+      "resumen": "El virus ha dejado de ser una preocupación tropical y se ha vuelto endémico en áreas templadas, con picos de transmisión durante las temporadas de calor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO: Tránsito complicado en Guatemala este 25 de septiembre por lluvias, inundaciones, accidentes y ataques armados",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/en-vivo-transito-complicado-en-guatemala-este-25-de-septiembre-por-lluvias-inundaciones-accidentes-y-ataques-armados/",
+      "fecha": "Fri, 25 Sep 2026 21:15:25 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Las lluvias y distintos incidentes viales complican la movilidad este viernes 25 de septiembre en la capital y municipios cercanos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Yo corro para que vuelen”: cuándo y dónde será la carrera 5K a beneficio de niños huérfanos",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/yo-corro-para-que-vuelen-cuando-y-donde-sera-la-carrera-5k-a-beneficio-de-ninos-huerfanos/",
+      "fecha": "Fri, 25 Sep 2026 21:11:19 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "El Hogar Casa Bernabé celebrará su carrera familiar 5K, que busca recaudar fondos para los programas de atención integral dirigidos a los niños que acoge."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Netflix anuncia nueva película de Plaza Sésamo y amplía sus proyectos infantiles",
@@ -25,6 +57,14 @@
       "fecha": "Fri, 25 Sep 2026 19:44:04 +0000",
       "categoria": "Guatemala",
       "resumen": "El fiscal general confirmó que existen “un sinnúmero de denuncias” contra el exjefe del Centro de Gobierno Miguel Martínez y que las pesquisas alcanzan a familiares y personas de su círculo cercano."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Seis personas quedan ligadas a proceso por manipulación no autorizada de la red eléctrica",
+      "link": "https://www.prensalibre.com/guatemala/justicia/seis-personas-quedan-ligadas-a-proceso-por-manipulacion-no-autorizada-de-la-red-electrica/",
+      "fecha": "Fri, 25 Sep 2026 19:42:04 +0000",
+      "categoria": "Justicia",
+      "resumen": "Seis personas quedaron ligadas a proceso por hechos relacionados con la manipulación no autorizada de la red eléctrica en Retalhuleu y Huehuetenango."
     },
     {
       "fuente": "Prensa Libre",
@@ -432,7 +472,7 @@
       "link": "https://www.prensalibre.com/vida/escenario/una-noche-con-el-sol-tributo-a-luis-miguel/",
       "fecha": "Fri, 25 Sep 2026 00:30:00 +0000",
       "categoria": "Escenario",
-      "resumen": "El proyecto musical Cuarto7 presenta en octubre un espectáculo en vivo con 15 músicos para rendir homenaje a la trayectoria del cantante Luis Miguel de la Ciudad de Guatemala."
+      "resumen": "El proyecto musical Cuarto7 presenta en octubre un espectáculo en vivo con 16 músicos para rendir homenaje a la trayectoria del cantante Luis Miguel de la Ciudad de Guatemala."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,46 +825,6 @@
       "fecha": "Thu, 24 Sep 2026 17:16:56 +0000",
       "categoria": "Comunitario",
       "resumen": "Conred informó que en las últimas horas se han reportado en Guatemala 40 emergencias por incidentes derivados de las lluvias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Persiste riesgo de lluvias y oleajes: Así avanza el huracán Polo en México tras bajar a categoría 4",
-      "link": "https://www.prensalibre.com/internacional/persiste-riesgo-de-lluvias-y-oleajes-asi-avanza-el-huracan-polo-en-mexico-tras-bajar-a-categoria-4/",
-      "fecha": "Thu, 24 Sep 2026 16:53:04 +0000",
-      "categoria": "Internacional",
-      "resumen": "El huracán Polo, a pesar de debilitarse a categoría 4, aún generará fuertes lluvias y oleajes en las costas del pacífico mexicano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Casa Blanca mantiene veto a tres medios pese a orden judicial: Juez pide explicaciones a Trump",
-      "link": "https://www.prensalibre.com/internacional/casa-blanca-mantiene-veto-a-tres-medios-pese-a-orden-judicial-juez-pide-explicaciones-a-trump/",
-      "fecha": "Thu, 24 Sep 2026 16:43:15 +0000",
-      "categoria": "Internacional",
-      "resumen": "El juez federal Timothy Kelly dio un ultimátum a Trump para que explique en las próximas horas por qué se impide el acceso de CNN, MS NOW y Politico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala extradita a cuatro por vínculos con narcopolítica, entre ellos un ligado a “El Pocho” y un hermano de alcalde",
-      "link": "https://www.prensalibre.com/guatemala/justicia/guatemala-extradita-a-cuatro-por-vinculos-con-narcopolitica-entre-ellos-un-ligado-a-el-pocho-y-un-hermano-de-alcalde/",
-      "fecha": "Thu, 24 Sep 2026 16:36:28 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ministerio de Gobernación informó que Guatemala extraditó hacia Estados Unidos a cuatro privados de libertad señalados de narcotráfico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jamaica vs. Guatemala: día, hora y dónde ver el debut de la Bicolor en la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/jamaica-vs-guatemala-dia-hora-y-donde-ver-el-debut-en-la-liga-de-naciones-breaking/",
-      "fecha": "Thu, 24 Sep 2026 16:20:59 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Bicolor inicia este viernes su participación frente a los Reggae Boyz, con la misión de dejar atrás el fracaso en las eliminatorias mundialistas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nearshoring en Guatemala: estos son los retos para atraer nuevas industrias e inversión",
-      "link": "https://www.prensalibre.com/economia/nearshoring-en-guatemala-estos-son-los-retos-para-atraer-nuevas-industrias-e-inversion/",
-      "fecha": "Thu, 24 Sep 2026 16:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El Guatemala Development Forum 2026 puso sobre la mesa las oportunidades para atraer nuevas industrias, pero empresarios y especialistas señalaron que el país debe mejorar el capital humano, la infraestructura y la información que ofrece a los inversionistas."
     },
     {
       "fuente": "Guatemala.com",
