@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-25T10:15:28.428Z",
+  "actualizado": "2026-09-25T11:15:17.593Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Economía de Guatemala mantiene crecimiento, pero El Niño y el petróleo generan riesgos",
+      "link": "https://www.prensalibre.com/economia/economia-de-guatemala-mantiene-crecimiento-pero-el-nino-y-el-petroleo-generan-riesgos/",
+      "fecha": "Fri, 25 Sep 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La actividad económica de Guatemala creció 4.4% en julio, mientras se mantienen las expectativas sobre los efectos del fenómeno de El Niño en la inflación y la producción nacional, según una fuente oficial."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Análisis: Arévalo cede ante la exoneración de impuestos en medio del desgaste y la negociación del presupuesto",
@@ -817,14 +825,6 @@
       "fecha": "Thu, 24 Sep 2026 06:02:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Uno de los costos de transacción son las expectativas de resolución eficaz de disputas. Cuando son buenas, la economía florece."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Desde Yarmuk hasta el yihadismo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/desde-yarmuk-hasta-el-yihadismo/",
-      "fecha": "Thu, 24 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El ataque fue un hecho más en una larga cadena de conflicto civilizacional"
     },
     {
       "fuente": "Guatemala.com",
