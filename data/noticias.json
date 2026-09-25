@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-25T17:14:45.067Z",
+  "actualizado": "2026-09-25T18:17:00.691Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De un hospital a una persecución policial: hombre roba un auto y termina detenido en Miami, Florida",
+      "link": "https://www.prensalibre.com/internacional/de-un-hospital-a-una-persecucion-policial-hombre-roba-un-auto-y-termina-detenido-en-miami-florida/",
+      "fecha": "Fri, 25 Sep 2026 17:55:07 +0000",
+      "categoria": "Internacional",
+      "resumen": "Jordan Brown había sido trasladado a un centro médico bajo una orden de la Ley Baker, un mecanismo que permite una evaluación involuntaria de salud mental."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemalteco desaparecido en el frente ruso fue cabo del Ejército y pidió su baja en el 2010",
+      "link": "https://www.prensalibre.com/internacional/guatemalteco-desaparecido-en-el-frente-ruso-fue-cabo-del-ejercito-y-pidio-su-baja-en-el-2010-breaking/",
+      "fecha": "Fri, 25 Sep 2026 17:22:03 +0000",
+      "categoria": "Internacional",
+      "resumen": "Carlos Alfredo González estuvo de alta en la 4.ª Brigada de Infantería con sede en Cuyotenango, Suchitepéquez, entre diciembre del 2008 y enero del 2010. Su esposa lo reporta desaparecido desde el 8 de septiembre del 2026."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "De Latinoamérica a las trincheras de Ucrania: denuncian reclutamientos de Rusia con engaños",
@@ -17,6 +33,14 @@
       "fecha": "Fri, 25 Sep 2026 16:00:00 +0000",
       "categoria": "Escenario",
       "resumen": "La tradición de los convites guatemaltecos llegará al Centro Histórico para celebrar el legado cultural y artístico del país, con la participación de agrupaciones de más de 99 municipios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué ha cambiado en el Ministerio Público con la llegada de Gabriel García Luna?",
+      "link": "https://www.prensalibre.com/guatemala/justicia/que-ha-cambiado-en-el-ministerio-publico-con-la-llegada-de-gabriel-garcia-luna/",
+      "fecha": "Fri, 25 Sep 2026 15:44:15 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La transformación no está concluida”, dijo el jefe del MP en su primer informe de gestión, en el que expuso los problemas encontrados y los cambios emprendidos durante cuatro meses."
     },
     {
       "fuente": "Prensa Libre",
@@ -809,30 +833,6 @@
       "fecha": "Thu, 24 Sep 2026 14:01:59 +0000",
       "categoria": "Justicia",
       "resumen": "La PNC detalló los antecedentes del presunto delincuente que murió prensado bajo un tráiler en la zona 11 de la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuándo entra en vigencia el subsidio a la gasolina en Guatemala, que aplica exención del IDP e IVA a los combustibles",
-      "link": "https://www.prensalibre.com/economia/que-falta-para-que-se-aplique-la-exencion-del-idp-e-iva-a-la-gasolina-y-el-diesel-en-guatemala/",
-      "fecha": "Thu, 24 Sep 2026 14:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El Congreso aprobó la exención temporal del IDP e IVA para combustibles, una medida que aún debe completar el trámite antes de entrar en vigor. ¿Cuáles son los plazos que están manejando el Legislativo y el Ejecutivo?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jesse presenta su nueva banda después de anunciar su separación de Joy ¿Qué se sabe sobre el futuro del dúo?",
-      "link": "https://www.prensalibre.com/vida/escenario/jesse-presenta-su-nueva-banda-despues-de-anunciar-su-separacion-de-joy-que-se-sabe-sobre-el-futuro-del-duo/",
-      "fecha": "Thu, 24 Sep 2026 13:48:21 +0000",
-      "categoria": "Escenario",
-      "resumen": "Después de sorprender al público y a su propia hermana con el anuncio de su retiro, el cantante lanza su nuevo proyecto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vander Cruz lidera a los porteros menos vencidos tras 10 jornadas del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/vander-cruz-lidera-a-los-porteros-menos-vencidos-tras-10-jornadas-del-apertura-2026-breaking/",
-      "fecha": "Thu, 24 Sep 2026 13:30:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El guardameta suma ocho goles recibidos en 10 partidos y lidera la clasificación de menos vencidos, mientras el equipo recién ascendido marcha cuarto bajo la dirección de Edwin “El Chino” Estrada."
     },
     {
       "fuente": "Guatemala.com",
