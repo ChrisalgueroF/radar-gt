@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-25T00:22:30.720Z",
+  "actualizado": "2026-09-25T01:13:44.275Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Puentes de la ruta al Atlántico acumulan daños y obras inconclusas pese al pago de más de Q26 millones",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/puentes-de-la-ruta-al-atlantico-acumulan-danos-y-obras-inconclusas-pese-al-pago-de-mas-de-q26-millones-breaking/",
+      "fecha": "Fri, 25 Sep 2026 00:30:04 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Los puentes El Lobo y Doña María, en la ruta al Atlántico, siguen inconclusos pese al pago de más de Q26 millones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Factura petrolera aumenta demanda de dólares y presiona el tipo de cambio en Guatemala",
+      "link": "https://www.prensalibre.com/economia/factura-petrolera-aumenta-demanda-de-dolares-y-presiona-el-tipo-de-cambio/",
+      "fecha": "Fri, 25 Sep 2026 00:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El mayor costo de las importaciones de derivados del petróleo y las compras de fin de año incrementaron la demanda de divisas. El Banguat vendió US$150 millones en el mercado cambiario."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una noche con el Sol: Tributo a Luis Miguel",
+      "link": "https://www.prensalibre.com/vida/escenario/una-noche-con-el-sol-tributo-a-luis-miguel/",
+      "fecha": "Fri, 25 Sep 2026 00:30:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El proyecto musical Cuarto7 presenta en octubre un espectáculo en vivo con 15 músicos para rendir homenaje a la trayectoria del cantante Luis Miguel de la Ciudad de Guatemala."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Comedia “Milagro en el convento de Santa María Juana” apoya a Fundación Margarita Tejada: trama, funciones y precios de entradas",
@@ -25,6 +49,22 @@
       "fecha": "Thu, 24 Sep 2026 23:47:50 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El técnico del combinado caribeño Rudolph Speid destaca el juego con balón de la Bicolor y apuesta por la adaptación de Jamaica para afrontar el encuentro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Avanzan esfuerzos por erradicar el cáncer de cérvix",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/avanzan-esfuerzos-por-erradicar-el-cancer-de-cervix/",
+      "fecha": "Thu, 24 Sep 2026 23:40:46 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "La firma de un acuerdo entre una firma farmacéutica y la Organización Panamericana de la Salud permite acceso a pruebas de diagnóstico más precisas y una mayor cobertura de los servicios de salud."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ministerio de Ambiente espera resultados sobre la coloración roja en río Las Vacas",
+      "link": "https://www.prensalibre.com/guatemala/ministerio-de-ambiente-espera-resultados-sobre-la-coloracion-roja-en-rio-las-vacas/",
+      "fecha": "Thu, 24 Sep 2026 23:36:10 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los análisis de las muestras tomadas en el afluente podrían establecer qué sustancia provocó el cambio de color. El resultado se conocería el viernes, mientras la cartera de ambiente informa sobre 54 denuncias presentadas ante el Ministerio Público."
     },
     {
       "fuente": "Guatemala.com",
@@ -89,6 +129,14 @@
       "fecha": "Thu, 24 Sep 2026 22:50:29 +0000",
       "categoria": "Comunitario",
       "resumen": "El Insivumeh mantiene vigilancia por el aumento del caudal de varios ríos en ocho departamentos y hace recomendaciones para evitar emergencias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump pide al Supremo seguir con la deportación de migrantes a &#8220;terceros países&#8221; y así lo justifica",
+      "link": "https://www.prensalibre.com/internacional/trump-pide-al-supremo-seguir-con-la-deportacion-de-migrantes-a-terceros-paises-y-asi-lo-justifica/",
+      "fecha": "Thu, 24 Sep 2026 22:48:04 +0000",
+      "categoria": "Internacional",
+      "resumen": "La administración de Trump ha pedido a la Corte Suprema de EE. UU. poder continuar con la deportación de migrantes a terceros países."
     },
     {
       "fuente": "Prensa Libre",
@@ -420,7 +468,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "¿Qué falta para que se aplique la exención del IDP e IVA a la gasolina y el diésel en Guatemala?",
+      "titulo": "Cuándo entra en vigencia el subsidio a la gasolina en Guatemala, que aplica exención del IDP e IVA a los combustibles",
       "link": "https://www.prensalibre.com/economia/que-falta-para-que-se-aplique-la-exencion-del-idp-e-iva-a-la-gasolina-y-el-diesel-en-guatemala/",
       "fecha": "Thu, 24 Sep 2026 14:00:00 +0000",
       "categoria": "Economía",
@@ -768,7 +816,7 @@
       "link": "https://www.prensalibre.com/internacional/guatemalteco-reclutado-por-rusia-desaparecio-tras-ir-a-combatir-en-ucrania-su-esposa-cuenta-el-calvario/",
       "fecha": "Wed, 23 Sep 2026 23:30:18 +0000",
       "categoria": "Internacional",
-      "resumen": "La esposa de un guatemalteco reclutado en las fuerzas armadas rusas comparte su testimonio, revelando el uso de inyecciones letales y las promesas no cumplidas. El paradero del guatemalteco es incierto desde el 2024."
+      "resumen": "La esposa de un guatemalteco reclutado en las fuerzas armadas rusas comparte su testimonio, revelando el uso de inyecciones letales y las promesas no cumplidas. El paradero del guatemalteco es incierto."
     },
     {
       "fuente": "Prensa Libre",
@@ -779,60 +827,12 @@
       "resumen": "Antes de convertirse en el dirigente más influyente de China en décadas, Xi Jinping pasó de una infancia privilegiada a la persecución política y el exilio rural durante la Revolución Cultural."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién ganará el duelo entre Jamaica y Guatemala? Esto dice la IA sobre las posibilidades",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/quien-ganara-el-duelo-entre-jamaica-y-guatemala-esto-dice-la-ia-sobre-las-posibilidades/",
-      "fecha": "Wed, 23 Sep 2026 23:10:07 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Selección de Guatemala debutará ante Jamaica en la fase de grupos de la Liga de Naciones de la Concacaf 2026, con el objetivo de clasificar a la Copa Oro 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aceptación de cargos: una de cada tres sentencias en 2025 se logró por esta vía",
-      "link": "https://www.prensalibre.com/guatemala/justicia/aceptacion-de-cargos-una-de-cada-tres-sentencias-en-2025-se-logro-por-esta-via/",
-      "fecha": "Wed, 23 Sep 2026 23:03:56 +0000",
-      "categoria": "Guatemala",
-      "resumen": "A cuatro años de implementarse la aceptación de cargos, crece la resolución de casos por esta vía y violencia contra la mujer concentra el 41%, según informe del Cien."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Nadie podrá solucionar esto solo&#8221; la advertencia de Anthropic en la ONU sobre los peligros de la IA",
-      "link": "https://www.prensalibre.com/internacional/nadie-podra-solucionar-esto-solo-la-advertencia-de-anthropic-en-la-onu-sobre-los-peligros-de-la-ia/",
-      "fecha": "Wed, 23 Sep 2026 23:01:57 +0000",
-      "categoria": "Internacional",
-      "resumen": "Dario Amodei, consejero de Anthropic, dijo ante la ONU que los riesgos de la IA son \"el problema de seguridad global más importante al que se enfrenta el mundo\"."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Guatemaltecos de 17 años destacaron en el Mundial Escolar de Debate 2026",
       "link": "https://www.guatemala.com/noticias/sociedad/guatemaltecos-17-anos-destacaron-mundial-escolar-de-debate-2026.html",
       "fecha": "Wed, 23 Sep 2026 23:00:44 +0000",
       "categoria": "Sociedad",
       "resumen": "Guatemala llegó por primera vez a la final del Mundial Escolar de Debate gracias a la destacada participación de José Andrés Sequén. \nThe post Guatemaltecos de 17 años destacaron en el Mundial Escolar de Debate 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La polémica en Francia por el autor al que acusan de haber escrito con IA su premiada novela",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/la-polemica-en-francia-por-el-autor-al-que-acusan-de-haber-escrito-con-ia-su-premiada-novela-2/",
-      "fecha": "Wed, 23 Sep 2026 22:47:14 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El escritor canadiense-haitiano Thélyson Orélien acaba de ser galardonado con el Premio de Novela Fnac por su primera obra."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La polémica en Francia por el autor al que acusan de haber escrito con IA su premiada novela",
-      "link": "https://www.prensalibre.com/guatemala/la-polemica-en-francia-por-el-autor-al-que-acusan-de-haber-escrito-con-ia-su-premiada-novela/",
-      "fecha": "Wed, 23 Sep 2026 22:47:14 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El escritor canadiense-haitiano Thélyson Orélien acaba de ser galardonado con el Premio de Novela Fnac por su primera obra."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Así fue la llegada de Xi Jinping a Washington: Donald Trump lo recibió al pie del avión",
-      "link": "https://www.prensalibre.com/internacional/asi-fue-la-llegada-del-presidente-chino-xi-jinping-a-washington-donde-lo-recibio-donald-trump/",
-      "fecha": "Wed, 23 Sep 2026 22:34:51 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente Donald Trump recibió a su homólogo chino Xi Jinping en Washington este 23 de septiembre."
     },
     {
       "fuente": "Guatemala.com",
