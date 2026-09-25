@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-25T02:13:57.361Z",
+  "actualizado": "2026-09-25T03:14:24.113Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo la amenaza de la guerra puede salvar a los grandes fabricantes europeos de automóviles",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/como-la-amenaza-de-la-guerra-puede-salvar-a-los-grandes-fabricantes-europeos-de-automoviles/",
+      "fecha": "Fri, 25 Sep 2026 03:10:03 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los ejecutivos del sector automovilístico de toda Europa esperan que el rearme les ayude a volver a demostrar su poderío industrial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala investiga muerte de migrante tras intento de intervención del ICE en Míchigan",
+      "link": "https://www.prensalibre.com/guatemala/migrantes/guatemala-investiga-muerte-de-migrante-tras-intento-de-intervencion-del-ice-en-michigan-breaking/",
+      "fecha": "Fri, 25 Sep 2026 02:33:59 +0000",
+      "categoria": "Migrantes",
+      "resumen": "Guatemala investiga la muerte de un migrante en Míchigan, ocurrida después de que agentes del ICE intentaran interceptar su vehículo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Corte de Constitucionalidad avala que el número del DPI sea el NIT, pero delimita alcances a la SAT",
@@ -9,6 +25,14 @@
       "fecha": "Fri, 25 Sep 2026 02:00:00 +0000",
       "categoria": "Economía",
       "resumen": "La CC declaró sin lugar las acciones contra la resolución de la Superintendencia de Administración Tributaria que establece la armonización del Código Único de Identificación (CUI), utilizado en el número del DPI, con el Número de Identificación Tributaria (NIT)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tras siete años de intentos, logran reproducir machorras o pejelagartos e introducen mil alevines en su entorno natural",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/tras-siete-anos-de-intentos-logran-reproducir-machorras-o-pejelagartos-e-introducen-mil-alevines-en-su-entorno-natural/",
+      "fecha": "Fri, 25 Sep 2026 01:58:36 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Centro de Conservación Marina logró reproducir machorras o pejelagartos bajo cuidado humano e introdujo mil alevines nacidos en el centro en la laguna Güiscoyol, Santa Rosa."
     },
     {
       "fuente": "Prensa Libre",
@@ -801,30 +825,6 @@
       "fecha": "Thu, 24 Sep 2026 00:15:29 +0000",
       "categoria": "Deportes",
       "resumen": "El Órgano Disciplinario sancionó al club luego de que seguidores cremas irrumpieran tras la derrota ante Guastatoya e intentaran llegar a los camerinos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La luna llena de septiembre de 2026: ¿cuándo será y dónde se podrá ver mejor en Guatemala?",
-      "link": "https://www.prensalibre.com/vida/ciencia/la-luna-llena-de-septiembre-de-2026-cuando-sera-y-donde-se-podra-ver-mejor-en-guatemala/",
-      "fecha": "Thu, 24 Sep 2026 00:13:11 +0000",
-      "categoria": "Ciencia",
-      "resumen": "Además de apreciar la natural belleza del plenilunio hay que conocer el porqué de algunos nombres que se le dan en Estados Unidos y en otros países."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Videos, fotos y mensajes: las pruebas del MP sobre cómo ingresaban a adolescentes a cárceles para explotarlas sexualmente",
-      "link": "https://www.prensalibre.com/guatemala/justicia/videos-fotos-y-mensajes-las-pruebas-del-mp-sobre-como-ingresaban-a-adolescentes-a-carceles-para-explotarlas-sexualmente/",
-      "fecha": "Thu, 24 Sep 2026 00:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El MP presentó imágenes, extracción de teléfonos y declaraciones de víctimas para explicar cómo el Barrio 18 trasladaba adolescentes a las cárceles Fraijanes 2 y al Preventivo de la zona 18."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Acuerdo de Busan: de qué trata la tregua comercial entre EE. UU. y China que fue extendida hasta enero",
-      "link": "https://www.prensalibre.com/internacional/acuerdo-de-busan-de-que-trata-la-tregua-comercial-entre-ee-uu-y-china-que-fue-extendida-hasta-enero/",
-      "fecha": "Wed, 23 Sep 2026 23:58:46 +0000",
-      "categoria": "Internacional",
-      "resumen": "El secretario del tesoro anunció que EE. UU. y China acordaron extender hasta enero su tregua comercial  que alcanzaron el año pasado."
     },
     {
       "fuente": "Guatemala.com",
