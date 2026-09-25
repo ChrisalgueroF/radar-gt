@@ -1,7 +1,119 @@
 {
-  "actualizado": "2026-09-25T05:14:32.636Z",
+  "actualizado": "2026-09-25T06:19:51.844Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Análisis: Arévalo cede ante la exoneración de impuestos en medio del desgaste y la negociación del presupuesto",
+      "link": "https://www.prensalibre.com/guatemala/politica/analisis-arevalo-cede-ante-la-exoneracion-de-impuestos-en-medio-del-desgaste-y-la-negociacion-del-presupuesto/",
+      "fecha": "Fri, 25 Sep 2026 06:12:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El giro del Gobierno sobre los impuestos a los combustibles ocurre en medio del desgaste político y, según analistas, también apunta a buscar apoyos en el Congreso para la discusión del presupuesto 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Oracle alega fuerza mayor ante retrasos de su centro de datos para OpenAI",
+      "link": "https://www.prensalibre.com/economia/oracle-alega-fuerza-mayor-ante-retrasos-de-su-centro-de-datos-para-openai/",
+      "fecha": "Fri, 25 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Oracle invocó fuerza mayor ante los retrasos del Proyecto Júpiter, un centro de datos en Nuevo México vinculado a OpenAI."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El valor de actuar juntos",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/el-valor-de-actuar-juntos/",
+      "fecha": "Fri, 25 Sep 2026 06:08:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "A partir de sus prioridades, el SICA articula esfuerzos regionales y contribuye a generar capacidades y oportunidades adicionales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sin consuelo",
+      "link": "https://www.prensalibre.com/opinion/caricatura/sin-consuelo/",
+      "fecha": "Fri, 25 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bendita lluvia también arrastra complicaciones",
+      "link": "https://www.prensalibre.com/opinion/editorial/bendita-lluvia-tambien-arrastra-complicaciones/",
+      "fecha": "Fri, 25 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "La discusión de fondo debe ser cómo pasar de una cultura de reparación a una de mantenimiento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué cuidar de los nietos puede ser beneficioso, según expertos",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/por-que-cuidar-de-los-nietos-puede-ser-beneficioso-segun-expertos/",
+      "fecha": "Fri, 25 Sep 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Cada vez hay más evidencia de que ser abuelo o abuela puede ayudar a proteger el cerebro durante el envejecimiento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Líderes tecnológicos piden en la ONU un esfuerzo global para limitar los riesgos de la IA",
+      "link": "https://www.prensalibre.com/internacional/lideres-tecnologicos-piden-en-la-onu-un-esfuerzo-global-para-limitar-los-riesgos-de-la-ia/",
+      "fecha": "Fri, 25 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Ejecutivos de OpenAI y Anthropic reclaman cooperación internacional y mayores medidas de seguridad ante el avance de la inteligencia artificial, mientras Estados Unidos rechaza una regulación global."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Causas del derrumbe de todos los imperios",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/causas-del-derrumbe-de-todos-los-imperios/",
+      "fecha": "Fri, 25 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "En este momento el mundo observa a dos imperios decadentes, Estados Unidos y Rusia; uno en ascenso, China Continental, y otro adelantándose en avances tecnológicos, Irán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nada es casual, una nueva época se está gestando",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/nada-es-casual-una-nueva-epoca-se-esta-gestando/",
+      "fecha": "Fri, 25 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Ovnis desclasificados, guerras y máquinas que inquietan a sus propios creadores. No son titulares sueltos, sino el parto ruidoso de otra época."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Festines a costillas de nuestros impuestos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/festines-a-costillas-de-nuestros-impuestos/",
+      "fecha": "Fri, 25 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "¿Por qué los magistrados de la CC y el TSE necesitan que el Estado les dé de comer?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién ganó más en la crisis de los combustibles?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/quien-gano-mas-en-la-crisis-de-los-combustibles/",
+      "fecha": "Fri, 25 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Con el diésel a Q50, el IVA por galón casi se duplicó. Quien más ganó con la crisis de los combustibles fue el fisco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy viernes 25 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-viernes-25-de-septiembre-de-2026/",
+      "fecha": "Fri, 25 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Oportunistas medran en la ignorancia",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/oportunistas-medran-en-la-ignorancia/",
+      "fecha": "Fri, 25 Sep 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Se manipula la subida del precio de combustibles por irresponsables."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tecnología para aprender, crear y compartir en familia",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/tecnologia-para-aprender-crear-y-compartir-en-familia/",
+      "fecha": "Fri, 25 Sep 2026 05:35:58 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "La tecnología puede ser una herramienta para aprender, desarrollar intereses y comunicarse, que permita a los niños investigar temas que despierten su curiosidad. A pocos días de celebrar el Día del Niño, la cadena de tiendas guatemalteca especializada en la venta de productos de tecnología, computación, accesorios y servicio técnico, Intelaf, da consejos muy importantes para escoger el regalo ideal para sus hijos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Curazao remonta un 3-0 y propina a Costa Rica una dura derrota en Liga de Naciones",
@@ -713,118 +825,6 @@
       "fecha": "Thu, 24 Sep 2026 06:01:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "El ataque fue un hecho más en una larga cadena de conflicto civilizacional"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy jueves 24 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-24-de-septiembre-de-2026/",
-      "fecha": "Thu, 24 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Foro Público de la OMC del 2026",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-foro-publico-de-la-omc-del-2026/",
-      "fecha": "Thu, 24 Sep 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La edición del 2026 del Foro Público de la OMC se inauguró el 15 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nuevas reglas migratorias abren espacio al talento extranjero y suman 125 solicitudes de residencia",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/nuevas-reglas-migratorias-abren-espacio-al-talento-extranjero-y-suman-125-solicitudes-de-residencia/",
-      "fecha": "Thu, 24 Sep 2026 06:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Modalidades para que extranjeros se instalen en el país implementadas recientemente facilitan la llegada de perfiles especializados, con el reto de convertir su conocimiento en capacidades locales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El primer ministro de Australia denuncia que un agente de OpenAI hackeó un sitio web de su gobierno",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-primer-ministro-de-australia-denuncia-que-un-agente-de-openai-hackeo-un-sitio-web-de-su-gobierno/",
-      "fecha": "Thu, 24 Sep 2026 04:13:11 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La intrusión en una página del sistema público de salud australiano tardó semanas en ser detectada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Torneo Apertura: Xelajú MC golea 4-0 a Antigua GFC y celebra una noche contundente en el Mario Camposeco",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-xelaju-mc-golea-4-0-a-antigua-gfc-y-celebra-una-noche-contundente-en-el-mario-camposeco-breaking/",
-      "fecha": "Thu, 24 Sep 2026 04:01:19 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los chivos fueron superiores desde el inicio y sentenciaron el partido con cuatro goles para quedarse con una contundente victoria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "China busca poner fin a la guerra con Irán, pero no como Trump quiere",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/china-busca-poner-fin-a-la-guerra-con-iran-pero-no-como-trump-quiere/",
-      "fecha": "Thu, 24 Sep 2026 03:33:50 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Pekín podría presionar a Teherán para que reanude las negociaciones, pero los analistas afirman que es poco probable que China deje de comprar petróleo iraní."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Socios y no rivales”: el mensaje de Xi Jinping a Donald Trump para redefinir acuerdos comerciales",
-      "link": "https://www.prensalibre.com/internacional/socios-y-no-rivales-el-mensaje-de-xi-jinping-a-donald-trump-para-redefinir-acuerdos-comerciales/",
-      "fecha": "Thu, 24 Sep 2026 02:55:01 +0000",
-      "categoria": "Internacional",
-      "resumen": "Xi Jinping emitió un mensaje luego de su llegada a Washington donde fue recibido por su homólogo Donald Trump."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Sabemos quién lo hizo, pero no quién dio la orden”: condenan a 35 años a dos hombres por asesinato del alcalde de Chuarrancho",
-      "link": "https://www.prensalibre.com/guatemala/justicia/sabemos-quien-lo-hizo-pero-no-quien-dio-la-orden-condenan-a-35-anos-a-dos-hombres-por-asesinato-del-alcalde-de-chuarrancho/",
-      "fecha": "Thu, 24 Sep 2026 02:36:56 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Tribunal Segundo de Sentencia Penal impuso 35 años de prisión inconmutables a dos hombres por el asesinato del alcalde de Chuarrancho, Gerson Saúl Ajcuc, ocurrido en febrero del 2025."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;El hombre que le vendió drogas mortales a mi hija para que se quitara la vida debería pudrirse en el infierno&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-hombre-que-le-vendio-drogas-mortales-a-mi-hija-para-que-se-quitara-la-vida-deberia-pudrirse-en-el-infierno/",
-      "fecha": "Thu, 24 Sep 2026 02:17:49 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La hija de Louise Nunn compró una sustancia al canadiense Kenneth Law, que vendía productos químicos tóxicos a través de un foro en internet sobre suicidio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fiscalía contra el Crimen Organizado allana vivienda vinculada a Miguel Martínez en Jocotenango",
-      "link": "https://www.prensalibre.com/guatemala/justicia/fiscalia-contra-la-corrupcion-allana-vivienda-vinculada-a-miguel-martinez-en-jocotenango-breaking/",
-      "fecha": "Thu, 24 Sep 2026 02:01:36 +0000",
-      "categoria": "Justicia",
-      "resumen": "Fiscales del MP allanan una vivienda  vinculada a Miguel Martínez, exfuncionario del gobierno de Alejandro Giammattei, en Jocotenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Xelajú MC vs. Antigua GFC: duelo de contrastes en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-xelaju-mc-vs-antigua-gfc-duelo-de-contrastes-en-el-apertura-2026-breaking/",
-      "fecha": "Thu, 24 Sep 2026 01:50:41 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los Chivos buscan acercarse a los primeros puestos ante un Antigua GFC que quiere ampliar su ventaja en el liderato."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Junta Monetaria mantiene tasa líder en 3.50% ante riesgos de inflación en Guatemala",
-      "link": "https://www.prensalibre.com/economia/junta-monetaria-mantiene-tasa-lider-en-3-50-ante-riesgos-de-inflacion-en-guatemala/",
-      "fecha": "Thu, 24 Sep 2026 01:30:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Los miembros de la Junta Monetaria (JM) decidieron mantener en 3.50% la tasa líder de interés de política monetaria, tras conocer el reporte del balance de riesgos durante la sesión celebrada esta noche en las instalaciones del Banco de Guatemala (Banguat)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Valat: agraviados buscan resarcimiento y niegan representación legal",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-valat-agraviados-buscan-resarcimiento-y-niegan-representacion-legal/",
-      "fecha": "Thu, 24 Sep 2026 01:23:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El caso Valat, iniciado en el 2006 por una denuncia de la Superintendencia de Bancos (SIB), se encuentra en fase de acto conclusivo, mientras 42 de los agraviados buscan el resarcimiento de sus inversiones, informó su mandataria, la abogada Lisseth García Penagos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vigilia Sanando mi Corazón 2026: fecha, lugar, actividades y artistas invitados",
-      "link": "https://www.prensalibre.com/vida/escenario/vigilia-sanando-mi-corazon-2026-fecha-lugar-actividades-y-artistas-invitados/",
-      "fecha": "Thu, 24 Sep 2026 01:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Fe, música y generosidad se unirán en la Vigilia Sanando mi Corazón 2026, un evento gratuito a beneficio de la Fundación Hogar de Niños Shalom."
     },
     {
       "fuente": "Guatemala.com",
