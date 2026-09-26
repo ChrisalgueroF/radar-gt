@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-26T03:14:22.519Z",
+  "actualizado": "2026-09-26T04:14:59.360Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video capta agresión contra ascensorista en edificio de zona 1 y MP abre investigación por lesiones leves",
+      "link": "https://www.prensalibre.com/guatemala/justicia/video-capta-agresion-contra-ascensorista-en-edificio-de-zona-1-y-mp-abre-investigacion-por-lesiones-leves-breaking/",
+      "fecha": "Sat, 26 Sep 2026 04:04:12 +0000",
+      "categoria": "Justicia",
+      "resumen": "Una cámara de seguridad captó el momento en que un hombre agrede a una ascensorista en un edificio de la zona 1. El MP confirmó que el caso es investigado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué se sabe de Noah Woods, el niño que desapareció mientras jugaba en un parque de Inglaterra y fue hallado muerto en un lago",
+      "link": "https://www.prensalibre.com/internacional/que-se-sabe-de-noah-woods-el-nino-que-desaparecio-mientras-jugaba-en-un-parque-de-inglaterra-y-fue-hallado-muerto-en-un-lago/",
+      "fecha": "Sat, 26 Sep 2026 02:55:12 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las autoridades encontraron el cuerpo de Noah Woods, de tres años, en las profundidades de un lago, tras haber desaparecido en un parque de juegos cercano."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Guatemala pide ante la ONU el cese de las guerras y una mujer latinoamericana al frente del organismo",
@@ -17,6 +33,14 @@
       "fecha": "Sat, 26 Sep 2026 02:29:09 +0000",
       "categoria": "Sucesos",
       "resumen": "Cuatro hombres llegaron en dos motocicletas y asaltaron un punto de servicio bancario en la comunidad La Vega, Mazatenango, Suchitepéquez; cámaras de vigilancia registraron cómo observaron el negocio antes de ingresar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué es una tormenta nor’easter y cómo está golpeando el noreste de EE. UU.?",
+      "link": "https://www.prensalibre.com/internacional/que-es-una-tormenta-noreaster-y-como-esta-golpeando-el-noreste-de-ee-uu/",
+      "fecha": "Sat, 26 Sep 2026 02:24:59 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un fenómeno costero inusual amenaza a más de 40 millones de personas en EE. UU."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,30 +817,6 @@
       "fecha": "Thu, 24 Sep 2026 22:59:12 +0000",
       "categoria": "Justicia",
       "resumen": "Una pareja que tenía órdenes de aprehensión por estafa en venta de terrenos fue capturada por autoridades en El Estor, Izabal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Crecida de ríos mantiene en alerta a ocho departamentos y esto recomienda el Insivumeh",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/crecida-de-rios-mantiene-en-alerta-a-ocho-departamentos-y-esto-recomienda-el-insivumeh-breaking/",
-      "fecha": "Thu, 24 Sep 2026 22:50:29 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh mantiene vigilancia por el aumento del caudal de varios ríos en ocho departamentos y hace recomendaciones para evitar emergencias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump pide al Supremo seguir con la deportación de migrantes a &#8220;terceros países&#8221; y así lo justifica",
-      "link": "https://www.prensalibre.com/internacional/trump-pide-al-supremo-seguir-con-la-deportacion-de-migrantes-a-terceros-paises-y-asi-lo-justifica/",
-      "fecha": "Thu, 24 Sep 2026 22:48:04 +0000",
-      "categoria": "Internacional",
-      "resumen": "La administración de Trump ha pedido a la Corte Suprema de EE. UU. poder continuar con la deportación de migrantes a terceros países."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo la hermética comunidad Amish combate el brote de sarampión más mortal de la historia reciente en EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-la-hermetica-comunidad-amish-combate-el-brote-de-sarampion-mas-mortal-de-la-historia-reciente-en-ee-uu/",
-      "fecha": "Thu, 24 Sep 2026 22:30:33 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Después de 4 muertes relacionadas con el sarampión en Pensilvania, las autoridades sanitarias esperan que la gente se anime a vacunarse en privado."
     },
     {
       "fuente": "Guatemala.com",
