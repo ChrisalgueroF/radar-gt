@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-26T14:14:16.640Z",
+  "actualizado": "2026-09-26T15:14:17.120Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bomberos relatan cómo atendieron el nacimiento de una bebé en una ambulancia camino al hospital",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/bomberos-relatan-como-atendieron-el-nacimiento-de-una-bebe-en-una-ambulancia-camino-al-hospital-breaking/",
+      "fecha": "Sat, 26 Sep 2026 14:18:28 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Bomberos detallaron cómo atendieron un parto en una ambulancia durante el trayecto entre el municipio de San Manuel Chaparrón y la ciudad de Jalapa."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Colombiano es capturado en San Miguel Dueñas con fines de extradición a EE. UU. por narcotráfico",
@@ -801,14 +809,6 @@
       "fecha": "Fri, 25 Sep 2026 02:00:00 +0000",
       "categoria": "Economía",
       "resumen": "La CC declaró sin lugar las acciones contra la resolución de la Superintendencia de Administración Tributaria que establece la armonización del Código Único de Identificación (CUI), utilizado en el número del DPI, con el Número de Identificación Tributaria (NIT)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Eso se llama alegría perversa”: juzgado dicta falta de mérito a piloto tras incidente donde murió alias “el Flaco”",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/eso-se-llama-alegria-perversa-juzgado-dicta-falta-de-merito-a-piloto-tras-incidente-donde-murio-alias-el-flaco-breaking/",
-      "fecha": "Fri, 25 Sep 2026 01:59:52 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Un juzgado de turno dictó falta de mérito a favor del piloto involucrado en el incidente en la zona 11, en el que murió Carlos Alberto Carrillo, alias “el Flaco”, presunto asaltante capturado 39 días antes por la PNC."
     },
     {
       "fuente": "Guatemala.com",
