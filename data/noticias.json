@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-26T17:13:14.161Z",
+  "actualizado": "2026-09-26T18:16:49.968Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Banguat detecta más de tres mil billetes falsos en Guatemala",
+      "link": "https://www.prensalibre.com/economia/banguat-detecta-mas-de-tres-mil-billetes-falsos-en-guatemala/",
+      "fecha": "Sat, 26 Sep 2026 18:02:07 +0000",
+      "categoria": "Economía",
+      "resumen": "Seis de cada 10 billetes falsos detectados en Guatemala corresponden a la denominación de Q100. De enero a la fecha se han incautado más de tres mil piezas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala tiene inundaciones después de meses de sequía: por qué la lluvia no ha borrado el déficit",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-tiene-inundaciones-despues-de-meses-de-sequia-por-que-la-lluvia-no-ha-borrado-el-deficit/",
+      "fecha": "Sat, 26 Sep 2026 17:55:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "En agosto, cerca del 95% del área analizada mostraba algún grado de condición seca. Septiembre saturó suelos y elevó ríos, pero el déficit acumulado de lluvia persiste."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así marcha el grupo de Guatemala en la Liga de Naciones tras la primera jornada",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/asi-marcha-el-grupo-de-guatemala-en-la-liga-de-naciones-tras-la-primera-jornada-breaking/",
+      "fecha": "Sat, 26 Sep 2026 17:06:41 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El Salvador lidera el grupo B tras vencer a Martinica mientras Guatemala y Honduras arrancan con derrota y necesitan sumar en la segunda jornada para no complicar sus opciones de avanzar en la Liga de Naciones de Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿El Chapo y El Mayo pensaban retirarse del Cartel de Sinaloa? esto reveló Lucero Sánchez, la &#8220;Chapodiputada&#8221;",
+      "link": "https://www.prensalibre.com/internacional/el-chapo-y-el-mayo-pensaban-retirarse-del-cartel-de-sinaloa-esto-revelo-lucero-sanchez-la-chapodiputada/",
+      "fecha": "Sat, 26 Sep 2026 17:06:33 +0000",
+      "categoria": "Internacional",
+      "resumen": "“Ya estaban cansados y viejos”. Lucero Sánchez contó los planes de retiro que discutían El Chapo y El Mayo y reveló qué pensaba Guzmán sobre el futuro de sus hijos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Luna de la Cosecha: a qué hora verla este sábado y por qué se llama así",
@@ -9,6 +41,14 @@
       "fecha": "Sat, 26 Sep 2026 17:00:37 +0000",
       "categoria": "Ciencia",
       "resumen": "La noche de este sábado, al ocultarse el Sol, se podrá apreciar la Luna de la Cosecha, conozca más detalles acerca de la hora exacta para verla y por qué se llama así."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Señales GPS permiten ubicar furgón con mercadería robado en la ruta al Pacífico y capturar a ocho personas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/senales-gps-permiten-ubicar-furgon-con-mercaderia-robado-en-la-ruta-al-pacifico-y-capturar-a-ocho-personas-breaking/",
+      "fecha": "Sat, 26 Sep 2026 16:46:10 +0000",
+      "categoria": "Justicia",
+      "resumen": "Ocho hombres fueron capturados cuando descargaban mercadería de furgón robado en la ruta al Pacífico."
     },
     {
       "fuente": "Prensa Libre",
@@ -769,46 +809,6 @@
       "fecha": "Fri, 25 Sep 2026 06:02:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "¿Por qué los magistrados de la CC y el TSE necesitan que el Estado les dé de comer?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién ganó más en la crisis de los combustibles?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/quien-gano-mas-en-la-crisis-de-los-combustibles/",
-      "fecha": "Fri, 25 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Con el diésel a Q50, el IVA por galón casi se duplicó. Quien más ganó con la crisis de los combustibles fue el fisco."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy viernes 25 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-viernes-25-de-septiembre-de-2026/",
-      "fecha": "Fri, 25 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Oportunistas medran en la ignorancia",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/oportunistas-medran-en-la-ignorancia/",
-      "fecha": "Fri, 25 Sep 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Se manipula la subida del precio de combustibles por irresponsables."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tecnología para aprender, crear y compartir en familia",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/tecnologia-para-aprender-crear-y-compartir-en-familia/",
-      "fecha": "Fri, 25 Sep 2026 05:35:58 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "La tecnología puede ser una herramienta para aprender, desarrollar intereses y comunicarse, que permita a los niños investigar temas que despierten su curiosidad. A pocos días de celebrar el Día del Niño, la cadena de tiendas guatemalteca especializada en la venta de productos de tecnología, computación, accesorios y servicio técnico, Intelaf, da consejos muy importantes para escoger el regalo ideal para sus hijos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Curazao remonta un 3-0 y propina a Costa Rica una dura derrota en Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/curazao-remonta-un-3-0-y-propina-a-costa-rica-una-dura-derrota-en-liga-de-naciones-breaking/",
-      "fecha": "Fri, 25 Sep 2026 04:17:49 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Curazao reaccionó a tiempo ante Costa Rica y logró darle la vuelta al marcador en un partido de muchas emociones en la Liga de Naciones de Concacaf."
     },
     {
       "fuente": "Guatemala.com",
