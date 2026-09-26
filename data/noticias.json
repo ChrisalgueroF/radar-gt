@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-26T21:14:01.206Z",
+  "actualizado": "2026-09-26T22:14:08.614Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan en Mixco a presunto pandillero vinculado a desmembramientos y abandono de cadáveres",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-en-mixco-a-presunto-pandillero-vinculado-a-desmembramientos-y-abandono-de-cadaveres-breaking/",
+      "fecha": "Sat, 26 Sep 2026 21:21:27 +0000",
+      "categoria": "Justicia",
+      "resumen": "Presunto pandillero con ocho ingresos a prisión es capturado en Mixco señalado del abandono de cadáveres, informó la PNC."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Huracán Polo categoría 4: cuál es su trayectoria por México y cómo llegarían sus lluvias a Estados Unidos",
+      "link": "https://www.prensalibre.com/internacional/huracan-polo-categoria-4-cual-es-su-trayectoria-por-mexico-y-como-llegarian-sus-lluvias-a-estados-unidos/",
+      "fecha": "Sat, 26 Sep 2026 21:20:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "Con vientos de 230 kilómetros por hora, Polo se mantiene como huracán categoría 4 y se dirige hacia Baja California. Autoridades mexicanas activaron más de 500 refugios temporales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "MEM descarta interrupciones en suministro de gasolina y diésel en Guatemala",
@@ -12,7 +28,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Trump pide a Zelenski y Putin alcanzar un acuerdo antes del “duro invierno”",
+      "titulo": "Qué propone Trump para que Zelenski y Putin lleguen a un acuerdo y termine la guerra en Ucrania",
       "link": "https://www.prensalibre.com/internacional/trump-pide-a-zelenski-y-putin-alcanzar-un-acuerdo-antes-del-duro-invierno/",
       "fecha": "Sat, 26 Sep 2026 20:36:38 +0000",
       "categoria": "Internacional",
@@ -25,6 +41,14 @@
       "fecha": "Sat, 26 Sep 2026 20:30:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Los pecho amarillo reciben a los gallos este sábado a las 3:00 PM en el estadio David Cordón Hichos en un duelo de alto voltaje entre dos de los equipos más sólidos del torneo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala reporta más de 10 toneladas de cocaína incautadas durante el 2026",
+      "link": "https://www.prensalibre.com/guatemala/justicia/guatemala-incauta-mas-de-10-toneladas-de-cocaina-durante-el-2026-segun-la-pnc-breaking/",
+      "fecha": "Sat, 26 Sep 2026 20:18:57 +0000",
+      "categoria": "Justicia",
+      "resumen": "El registro de la Policía Nacional Civil (PNC) señala que este 2026 se ha incautado 37.55% más de cocaína que en el 2025."
     },
     {
       "fuente": "Prensa Libre",
@@ -60,7 +84,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Muere presunto delincuente herido en La Reformita; suman dos casos esta semana con el “El Flaco”",
+      "titulo": "Muere presunto delincuente herido en La Reformita; suman dos casos esta semana con el de “El Flaco”",
       "link": "https://www.prensalibre.com/guatemala/justicia/muere-presunto-delincuente-herido-en-la-reformita-suman-dos-casos-esta-semana-con-el-el-flaco-breaking/",
       "fecha": "Sat, 26 Sep 2026 18:19:49 +0000",
       "categoria": "Justicia",
@@ -193,14 +217,6 @@
       "fecha": "Sat, 26 Sep 2026 11:00:00 +0000",
       "categoria": "Economía",
       "resumen": "El MEM incorporó 13 proyectos al Plan de Expansión de Transmisión de electricidad, mientras la Comisión Nacional de Energía Eléctrica deberá determinar qué obras se incluirán en la licitación PET 4."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué los holandeses tienen una nueva palabra para los labios vaginales",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-los-holandeses-tienen-una-nueva-palabra-para-los-labios-vaginales/",
-      "fecha": "Sat, 26 Sep 2026 08:53:33 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Activistas esperan que la nueva palabra y la incorporación de otras conduzcan a una menor discriminación por el aspecto físico y a una mayor aceptación de la sexualidad."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,22 +809,6 @@
       "fecha": "Fri, 25 Sep 2026 11:38:33 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El cáncer de mama es uno de los más tratables, pero sigue siendo el que más mujeres mata. La clave es un diagnóstico oportuno. Y una colombiana lo está logrando,"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Economía de Guatemala mantiene crecimiento, pero El Niño y el petróleo generan riesgos",
-      "link": "https://www.prensalibre.com/economia/economia-de-guatemala-mantiene-crecimiento-pero-el-nino-y-el-petroleo-generan-riesgos/",
-      "fecha": "Fri, 25 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La actividad económica de Guatemala creció 4.4% en julio, mientras se mantienen las expectativas sobre los efectos del fenómeno de El Niño en la inflación y la producción nacional, según una fuente oficial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un águila, una foto de Biden y magnates tecnológicos: quiénes llegaron y qué dejó la cumbre entre Trump y Xi Jinping",
-      "link": "https://www.prensalibre.com/internacional/un-aguila-una-foto-de-biden-y-magnates-tecnologicos-quienes-llegaron-y-que-dejo-la-cumbre-entre-trump-y-xi-jinping/",
-      "fecha": "Fri, 25 Sep 2026 06:30:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "La visita de Estado de Xi Jinping a Washington reunió a líderes políticos y algunos de los empresarios tecnológicos más influyentes de Estados Unidos, además de dejar regalos, gestos diplomáticos y momentos particulares en la Casa Blanca."
     },
     {
       "fuente": "Guatemala.com",
