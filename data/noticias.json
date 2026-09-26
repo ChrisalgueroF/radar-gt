@@ -1,10 +1,26 @@
 {
-  "actualizado": "2026-09-26T00:20:41.302Z",
+  "actualizado": "2026-09-26T01:13:04.156Z",
   "total": 109,
   "noticias": [
     {
       "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Jamaica vs. Guatemala: comienza el nuevo reto de Tena en la Liga de Naciones",
+      "titulo": "Gobernación cuestiona liberación de capturados por asaltos en motocicleta y pide a jueces valorar trabajo de la PNC",
+      "link": "https://www.prensalibre.com/guatemala/justicia/gobernacion-cuestiona-liberacion-de-capturados-por-asaltos-en-motocicleta-y-pide-a-jueces-valorar-trabajo-de-la-pnc-breaking/",
+      "fecha": "Sat, 26 Sep 2026 00:48:46 +0000",
+      "categoria": "Justicia",
+      "resumen": "Gobernación cuestionó que 15 de 29 capturados por la PNC en operativos contra asaltos cometidos desde motocicletas hayan recuperado su libertad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué es el kratom, la &#8220;heroína de las gasolineras&#8221; que causa alarma entre las autoridades en EE.UU.?",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-es-el-kratom-la-heroina-de-las-gasolineras-que-causa-alarma-entre-las-autoridades-en-ee-uu/",
+      "fecha": "Sat, 26 Sep 2026 00:20:28 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Hallado durante una investigación sobre la muerte de dos estudiantes universitarios, esta hierba se vende en Estados Unidos desde hace aproximadamente una década."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Jamaica vs. Guatemala: la bicolor empata 1-1 ante los caribeños; en las gradas está Gianni Infantino",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-jamaica-vs-guatemala-comienza-el-nuevo-reto-de-tena-en-la-liga-de-naciones-breaking/",
       "fecha": "Fri, 25 Sep 2026 23:34:27 +0000",
       "categoria": "Fútbol Nacional",
@@ -809,22 +825,6 @@
       "fecha": "Thu, 24 Sep 2026 19:32:13 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "El técnico de la Albiceleste explicó que hizo todo lo posible para que Lionel Messi estuviera presente en el partido que marcará su adiós de la Selección Argentina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clase previa al Jamaica vs. Guatemala en Liga de Naciones: El Profe se alista para sufrir en Kingston",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/clase-previa-al-jamaica-vs-guatemala-en-liga-de-naciones-el-profe-se-alista-para-sufrir-en-kingston/",
-      "fecha": "Thu, 24 Sep 2026 19:31:12 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El Profe enfatizó que Guatemala debe salir a ganar en Kingston y no conformarse con excusas sobre procesos ni intentar rescatar un empate en Jamaica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Selección de Guatemala: Luis Fernando Tena revela cómo encuentra a Aarón Herrera pese a estar sin equipo",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-luis-fernando-tena-revela-como-encuentra-a-aaron-herrera-pese-a-estar-sin-equipo-breaking/",
-      "fecha": "Thu, 24 Sep 2026 19:08:03 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El técnico de la Selección de Guatemala explicó cómo llega el lateral a la Liga de Naciones tras más de tres meses sin actividad profesional."
     },
     {
       "fuente": "Guatemala.com",
