@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-26T02:14:13.511Z",
+  "actualizado": "2026-09-26T03:14:22.519Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala pide ante la ONU el cese de las guerras y una mujer latinoamericana al frente del organismo",
+      "link": "https://www.prensalibre.com/guatemala/politica/guatemala-pide-ante-la-onu-el-cese-de-las-guerras-y-una-mujer-latinoamericana-al-frente-del-organismo/",
+      "fecha": "Sat, 26 Sep 2026 02:37:42 +0000",
+      "categoria": "Política",
+      "resumen": "Guatemala llamó ante la ONU a poner fin a los conflictos armados y respaldó que una mujer latinoamericana ocupe la Secretaría General."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: cuatro hombres aparentan ser clientes antes de asaltar un punto de servicio bancario en Mazatenango",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/video-cuatro-hombres-aparentan-ser-clientes-antes-de-asaltar-un-punto-de-servicio-bancario-en-mazatenango/",
+      "fecha": "Sat, 26 Sep 2026 02:29:09 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Cuatro hombres llegaron en dos motocicletas y asaltaron un punto de servicio bancario en la comunidad La Vega, Mazatenango, Suchitepéquez; cámaras de vigilancia registraron cómo observaron el negocio antes de ingresar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala ganaba en Kingston, pero Jamaica remontó en el final y amarga el debut de Luis Fernando Tena",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-ganaba-en-kingston-pero-jamaica-remonto-en-el-final-y-amarga-el-debut-de-luis-fernando-tena-breaking/",
+      "fecha": "Sat, 26 Sep 2026 02:20:31 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Óscar Santis marcó un doblete, pero la Bicolor no pudo sostener la ventaja inicial y terminó perdiendo en su primer partido de la Liga de Naciones de Concacaf."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Irán ofrece a EE.UU. un acuerdo para reabrir el estrecho de Ormuz en 7 días",
@@ -33,6 +57,14 @@
       "fecha": "Sat, 26 Sep 2026 01:35:23 +0000",
       "categoria": "Escenario",
       "resumen": "En el cuarto concierto de la residencia de Shakira en Madrid, Alejandro Sanz apareció como invitado especial para cantar junto a la colombiana, ante la euforia del público."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Huracán Nolo: ¿por qué se fortaleció tan rápido y qué se espera en Hawái?",
+      "link": "https://www.prensalibre.com/internacional/huracan-nolo-por-que-se-fortalecio-tan-rapido-y-que-se-espera-en-hawai/",
+      "fecha": "Sat, 26 Sep 2026 01:16:55 +0000",
+      "categoria": "Internacional",
+      "resumen": "El huracán Nolo se intensificó rápidamente mientras se acerca a Hawái. Conozca qué impulsa su fuerza y cuáles podrían ser sus principales efectos."
     },
     {
       "fuente": "Prensa Libre",
@@ -145,6 +177,14 @@
       "fecha": "Fri, 25 Sep 2026 22:38:05 +0000",
       "categoria": "Deporte Nacional",
       "resumen": ".img_fo{\n\t\t\t\t    aspect-ratio: 16/9;\n                    width: 100%;\n                    height: auto;\n                    margin-bottom: 8px;\n                    object-fit: contain;\n\t\t\t\t}\n\t\t\t\n    .canal-whatsapp,\n    .canal-whatsapp:hover,\n    .canal-whatsapp:focus,\n    .canal-whatsapp:visited {\n        text-decoration: none !important;\n    }\n\n    .canal-whatsapp {\n        display: inline-flex;\n        align-items: center;\n        gap: 8px;\n        background: #fff;\n        border-radius: 999px;\n        padding: 6px 14px 6px 6px !important;\n        text-decoration: none;\n    }\n    .canal-wh"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué cada vez más inquilinos en Estados Unidos tienen dificultades para pagar el alquiler?",
+      "link": "https://www.prensalibre.com/internacional/por-que-cada-vez-mas-inquilinos-en-estados-unidos-tienen-dificultades-para-pagar-el-alquiler/",
+      "fecha": "Fri, 25 Sep 2026 22:25:11 +0000",
+      "categoria": "Internacional",
+      "resumen": "Cada vez más inquilinos en Estados Unidos enfrentan dificultades para pagar el alquiler debido al alza de precios y la reducción de ingresos."
     },
     {
       "fuente": "Guatemala.com",
@@ -777,46 +817,6 @@
       "fecha": "Thu, 24 Sep 2026 22:30:33 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Después de 4 muertes relacionadas con el sarampión en Pensilvania, las autoridades sanitarias esperan que la gente se anime a vacunarse en privado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Orquesta Sinfónica Nacional interpretará concierto para violín de Prokófiev después de 43 años en Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/orquesta-sinfonica-nacional-interpretara-concierto-para-violin-de-prokofiev-despues-de-43-anos-en-guatemala/",
-      "fecha": "Thu, 24 Sep 2026 22:23:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Este jueves 24 de septiembre, la OSN presentará el concierto “Lienzos y Melodías” e interpretará una pieza que no se tocaba en Guatemala desde 1983."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala: lluvias darán un breve respiro, pero El Niño prolongará la sequía",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-lluvias-daran-un-breve-respiro-pero-el-nino-prolongara-la-sequia/",
-      "fecha": "Thu, 24 Sep 2026 22:16:05 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Las lluvias continuarán por unos días, pero no compensarán el déficit acumulado desde mayo. Expertos explican qué ocurrirá en los próximos meses."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El camino de Guatemala hacia la Copa Oro 2027: Los posibles escenarios en la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/el-camino-de-guatemala-hacia-la-copa-oro-2027-los-posibles-escenarios-en-la-liga-de-naciones/",
-      "fecha": "Thu, 24 Sep 2026 22:02:13 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Guatemala definirá su camino hacia la Copa Oro en la Liga de Naciones, competición en la que comparte grupo con Honduras, Jamaica, Surinam, Martinica y El Salvador."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué ICE detuvo a un guatemalteco tras un accidente de tránsito que reveló otras infracciones",
-      "link": "https://www.prensalibre.com/internacional/por-que-ice-detuvo-a-un-guatemalteco-tras-un-accidente-de-transito-que-revelo-otras-infracciones/",
-      "fecha": "Thu, 24 Sep 2026 21:54:09 +0000",
-      "categoria": "Internacional",
-      "resumen": "ICE arrestó a un migrante guatemalteco indocumentado tras su presunta implicación en un accidente con un tráiler en Massachusetts."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué estrenos ver en octubre 2026 en Prime Video?",
-      "link": "https://www.prensalibre.com/vida/escenario/que-estrenos-ver-en-octubre-2026-en-prime-video/",
-      "fecha": "Thu, 24 Sep 2026 21:52:52 +0000",
-      "categoria": "Escenario",
-      "resumen": "Con una gran variedad de títulos, la plataforma busca complacer los gustos más variados."
     },
     {
       "fuente": "Guatemala.com",
