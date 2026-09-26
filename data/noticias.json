@@ -1,7 +1,111 @@
 {
-  "actualizado": "2026-09-26T05:13:59.989Z",
+  "actualizado": "2026-09-26T06:18:50.371Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mides pide Q1 mil 300 millones más para 2027: estos programas recibirían más recursos",
+      "link": "https://www.prensalibre.com/guatemala/politica/mides-pide-q1-mil-300-millones-mas-para-2027-estos-programas-recibirian-mas-recursos/",
+      "fecha": "Sat, 26 Sep 2026 06:12:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Para el 202 año electoral, Ministerio de Desarrollo Social (Mides) pide Q5 mil 500 millones para el 2027 un 30.95% más del presupuesto para este año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala prepara la PEG 6: qué tipo de energía busca contratar y cuándo comenzaría el suministro",
+      "link": "https://www.prensalibre.com/economia/guatemala-prepara-la-peg-6-que-tipo-de-energia-busca-contratar-y-cuando-comenzaria-el-suministro/",
+      "fecha": "Sat, 26 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La PEG 6 busca contratar 600 megavatios de energía para atender el crecimiento de la demanda eléctrica en Guatemala, con inversiones estimadas de hasta US$1 mil 400 millones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fortalece su apuesta por el e-commerce en Guatemala",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/fortalece-su-apuesta-por-el-e-commerce-en-guatemala/",
+      "fecha": "Sat, 26 Sep 2026 06:08:17 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Grupo Distelsa realiza su primer Sellers Day en Guatemala para acercarse aún más a los Sellers (vendedores) locales que forman parte de su Marketplace y que, día a día, ayudan a ampliar la oferta disponible para los consumidores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La transformación del MP",
+      "link": "https://www.prensalibre.com/opinion/caricatura/la-transformacion-del-mp/",
+      "fecha": "Sat, 26 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vertedero de Amsa sigue recibiendo los desechos de más de 30 municipios",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/vertedero-de-amsa-sigue-recibiendo-los-desechos-de-mas-de-30-municipios/",
+      "fecha": "Sat, 26 Sep 2026 06:06:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Marn señala que acató la orden de la CC y que el vertedero puede seguir recibiendo desechos por dos años más."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP aborda asuntos que estaban bajo la alfombra",
+      "link": "https://www.prensalibre.com/opinion/editorial/mp-aborda-asuntos-que-estaban-bajo-la-alfombra/",
+      "fecha": "Sat, 26 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "El Ministerio Público tiene una gran responsabilidad: no debe convertir sospechas en condenas mediáticas ni investigaciones en persecución infundada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuál es el plan de Xi Jinping para convertir a China en la nueva potencia dominante del mundo y qué quiere de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/cual-es-el-plan-de-xi-jinping-para-convertir-a-china-en-la-nueva-potencia-dominante-del-mundo-y-que-quiere-de-ee-uu/",
+      "fecha": "Sat, 26 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "China busca ampliar su influencia en el Sur Global y transformar el orden internacional mientras Xi Jinping enfrenta a Estados Unidos y Donald Trump."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El tiempo no alcanza si estamos produciendo",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-tiempo-no-alcanza-si-estamos-produciendo/",
+      "fecha": "Sat, 26 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La relatividad del tiempo está directamente valorizada en lo que estamos produciendo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una actitud introspectiva para dar paso a la trascendencia",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/una-actitud-introspectiva-para-dar-paso-a-la-trascendencia/",
+      "fecha": "Sat, 26 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Vivimos en un activismo desenfrenado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El “Godzilla” climático ya viene. ¿Estamos preparados?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-godzilla-climatico-ya-viene-estamos-preparados/",
+      "fecha": "Sat, 26 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Es un evento extraordinariamente intenso sobre un planeta al que sin piedad hemos alterado por décadas de emisiones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los dueños de la finca la volvieron a hacer",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/los-duenos-de-la-finca-la-volvieron-a-hacer/",
+      "fecha": "Sat, 26 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Hoy, los dueños de la finca ya entendieron que en las elecciones de 2027 perderán la privilegiada posición que detentan desde 1954."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy sábado 26 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-26-de-septiembre-de-2026/",
+      "fecha": "Sat, 26 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Estamos dispuestos a soltar?",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/estamos-dispuestos-a-soltar/",
+      "fecha": "Sat, 26 Sep 2026 06:00:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "Las oportunidades están por todos lados, pero no se materializan por sí solas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Me enteré de que lo mataron por las redes sociales&#8221;: el doble castigo que sufren los condenados en Arabia Saudita, uno de los países que ejecuta más personas en el mundo",
@@ -707,116 +811,12 @@
       "resumen": "El campeón recibe a unos Venados urgidos de puntos para alejarse del último lugar del Apertura 2026."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Puentes de la ruta al Atlántico acumulan daños y obras inconclusas pese al pago de más de Q26 millones",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/puentes-de-la-ruta-al-atlantico-acumulan-danos-y-obras-inconclusas-pese-al-pago-de-mas-de-q26-millones-breaking/",
-      "fecha": "Fri, 25 Sep 2026 00:30:04 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los puentes El Lobo y Doña María, en la ruta al Atlántico, siguen inconclusos pese al pago de más de Q26 millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Factura petrolera aumenta demanda de dólares y presiona el tipo de cambio en Guatemala",
-      "link": "https://www.prensalibre.com/economia/factura-petrolera-aumenta-demanda-de-dolares-y-presiona-el-tipo-de-cambio/",
-      "fecha": "Fri, 25 Sep 2026 00:30:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El mayor costo de las importaciones de derivados del petróleo y las compras de fin de año incrementaron la demanda de divisas. El Banguat vendió US$150 millones en el mercado cambiario."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una noche con el Sol: Tributo a Luis Miguel",
-      "link": "https://www.prensalibre.com/vida/escenario/una-noche-con-el-sol-tributo-a-luis-miguel/",
-      "fecha": "Fri, 25 Sep 2026 00:30:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El proyecto musical Cuarto7 presenta en octubre un espectáculo en vivo con 16 músicos para rendir homenaje a la trayectoria del cantante Luis Miguel de la Ciudad de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Amaia Montero queda a media salida del escenario en concierto de La Oreja de Van Gogh: “¿Conseguiré verlos?”",
-      "link": "https://www.prensalibre.com/vida/escenario/amaia-montero-queda-a-media-salida-del-escenario-en-concierto-de-la-oreja-de-van-gogh-conseguire-verlos/",
-      "fecha": "Fri, 25 Sep 2026 00:23:56 +0000",
-      "categoria": "Escenario",
-      "resumen": "Asistentes al concierto de La Oreja de Van Gogh en Madrid quedaron confundidos al escuchar la voz de Amaia Montero mientras la artista no lograba salir al escenario."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comedia “Milagro en el convento de Santa María Juana” apoya a Fundación Margarita Tejada: trama, funciones y precios de entradas",
-      "link": "https://www.prensalibre.com/vida/escenario/comedia-milagro-en-el-convento-de-santa-maria-juana-apoya-a-fundacion-margarita-tejada-trama-funciones-y-precios-de-entradas/",
-      "fecha": "Fri, 25 Sep 2026 00:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Esta comedia llegará al Teatro Lux con el propósito de recaudar fondos para programas dirigidos a personas con síndrome de Down."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tena habla sobre el rechazo de Arquímides Ordóñez a la Selección de Guatemala",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/tena-habla-sobre-el-rechazo-de-arquimides-ordonez-a-la-seleccion-de-guatemala-breaking/",
-      "fecha": "Fri, 25 Sep 2026 00:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El técnico explicó que Ordóñez comunicó una supuesta lesión para no incorporarse a la Bicolor, aunque días después disputó minutos con FC Tulsa en la USL Championship."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jamaica advierte sobre la dificultad de enfrentar a Guatemala en el inicio de la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/jamaica-advierte-sobre-la-dificultad-de-enfrentar-a-guatemala-en-el-inicio-de-la-liga-de-naciones-breaking/",
-      "fecha": "Thu, 24 Sep 2026 23:47:50 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El técnico del combinado caribeño Rudolph Speid destaca el juego con balón de la Bicolor y apuesta por la adaptación de Jamaica para afrontar el encuentro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Avanzan esfuerzos por erradicar el cáncer de cérvix",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/avanzan-esfuerzos-por-erradicar-el-cancer-de-cervix/",
-      "fecha": "Thu, 24 Sep 2026 23:40:46 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "La firma de un acuerdo entre una firma farmacéutica y la Organización Panamericana de la Salud permite acceso a pruebas de diagnóstico más precisas y una mayor cobertura de los servicios de salud."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ministerio de Ambiente espera resultados sobre la coloración roja en río Las Vacas",
-      "link": "https://www.prensalibre.com/guatemala/ministerio-de-ambiente-espera-resultados-sobre-la-coloracion-roja-en-rio-las-vacas/",
-      "fecha": "Thu, 24 Sep 2026 23:36:10 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Los análisis de las muestras tomadas en el afluente podrían establecer qué sustancia provocó el cambio de color. El resultado se conocería el viernes, mientras la cartera de ambiente informa sobre 54 denuncias presentadas ante el Ministerio Público."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Café cultivado en Sacatepéquez será parte de una cata global organizada por James Hoffmann",
       "link": "https://www.guatemala.com/noticias/sociedad/cafe-guatemalteco-sera-parte-the-fermentation-project-cata-global-liderada-james-hoffmann.html",
       "fecha": "Thu, 24 Sep 2026 23:34:41 +0000",
       "categoria": "Sociedad",
       "resumen": "Un café cultivado en Sacatepéquez será parte de la cata global de The Fermentation Project, liderada por el reconocido barista James Hoffmann.\nThe post Café cultivado en Sacatepéquez será parte de una cata global organizada por James Hoffmann appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ataque armado en zona 25 deja dos fallecidos y cierres viales: otros hechos violentos dejan dos muertos en Chimaltenango",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-zona-25-deja-dos-fallecidos-y-cierres-viales-otros-hechos-violentos-dejan-dos-muertos-en-chimaltenango/",
-      "fecha": "Thu, 24 Sep 2026 23:23:10 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Dos personas murieron por heridas de bala en la entrada a la colonia El Buen Pastor, mientras autoridades acordonaron el área para efectuar las diligencias correspondientes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Trae compras del extranjero? Así determina la SAT si son equipaje personal o deben pagar impuestos",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/trae-compras-del-extranjero-asi-determina-la-sat-si-son-equipaje-personal-o-deben-pagar-impuestos/",
-      "fecha": "Thu, 24 Sep 2026 23:23:03 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Una computadora de uso personal puede formar parte del equipaje, mientras que varios equipos, compras o regalos pueden recibir otro tratamiento. Conozca cuándo aplican las exenciones de US$500."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Róbalo y helado: así es el menú para el encuentro de Trump y Xi Jinping en la Casa Blanca",
-      "link": "https://www.prensalibre.com/internacional/robalo-y-helado-asi-es-el-menu-para-el-encuentro-de-trump-y-xi-jinping-en-la-casa-blanca/",
-      "fecha": "Thu, 24 Sep 2026 23:07:31 +0000",
-      "categoria": "Internacional",
-      "resumen": "La primera dama Melania Trump estuvo a cargo de los preparativos de la cena de Estado, cuyo menú combina ingredientes estadounidenses con influencia china, además de música y una decoración en la que predominará el rojo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En video: decenas de delegados abandonan la Asamblea General de la ONU durante la intervención de Netanyahu",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/en-video-decenas-de-delegados-abandonan-la-asamblea-general-de-la-onu-durante-la-intervencion-de-netanyahu/",
-      "fecha": "Thu, 24 Sep 2026 23:02:21 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Decenas de delegados de Naciones Unidas abandonaron este jueves la sala donde el primer ministro israelí, Benjamin Netanyahu, se disponía a pronunciar un discurso."
     },
     {
       "fuente": "Guatemala.com",
