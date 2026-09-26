@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-25T23:13:30.440Z",
+  "actualizado": "2026-09-26T00:20:41.302Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Jamaica vs. Guatemala: comienza el nuevo reto de Tena en la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-jamaica-vs-guatemala-comienza-el-nuevo-reto-de-tena-en-la-liga-de-naciones-breaking/",
+      "fecha": "Fri, 25 Sep 2026 23:34:27 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Bicolor debuta en Kingston en su primer torneo oficial bajo la segunda etapa de Luis Fernando Tena."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tena sorprende con la alineación de Guatemala para debutar ante Jamaica en la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/tena-sorprende-con-la-alineacion-de-guatemala-para-debutar-ante-jamaica-en-la-liga-de-naciones-breaking/",
+      "fecha": "Fri, 25 Sep 2026 23:31:42 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Kenderson Navarro, Jorge Aparicio y la dupla Darwin Lom-Rubio Rubín son las principales novedades del once elegido para enfrentar a Jamaica."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Grupo de diputados busca adelantar elección de contralor y llevarla al pleno el 29 de septiembre",
@@ -57,6 +73,14 @@
       "fecha": "Fri, 25 Sep 2026 21:29:00 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Bélgica aprovechó las debilidades defensivas de la Azzurra y se impuso en el debut de Roberto Mancini, quien busca reconstruir a la selección."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué NASA y SpaceX aplazaron el viaje de cuatro astronautas a la EEI y cuándo será el nuevo lanzamiento",
+      "link": "https://www.prensalibre.com/internacional/por-que-nasa-y-spacex-aplazaron-el-viaje-de-cuatro-astronautas-a-la-eei-y-cuando-sera-el-nuevo-lanzamiento/",
+      "fecha": "Fri, 25 Sep 2026 21:25:43 +0000",
+      "categoria": "Internacional",
+      "resumen": "NASA y SpaceX prevén lanzar el 1 de octubre a cuatro astronautas hacia la EEI, tras aplazar la misión por una fuga detectada en la nave Dragon."
     },
     {
       "fuente": "Prensa Libre",
@@ -801,30 +825,6 @@
       "fecha": "Thu, 24 Sep 2026 19:08:03 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El técnico de la Selección de Guatemala explicó cómo llega el lateral a la Liga de Naciones tras más de tres meses sin actividad profesional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vacunas Sputnik vencidas y bajo investigación: almacenarlas ya cuesta cerca de Q1 millón",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/vacunas-sputnik-vencidas-y-bajo-investigacion-almacenarlas-ya-cuesta-cerca-de-q1-millon/",
-      "fecha": "Thu, 24 Sep 2026 19:00:15 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Las dosis de la vacuna Sputnik V que se compraron a Rusia durante la administración de Alejandro Giammattei, permanecen en bodegas desde febrero del 2022."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Amigos de Miguel Martínez, contratos con el Estado y una denuncia por lavado: quiénes son los 13 investigados por el MP",
-      "link": "https://www.prensalibre.com/guatemala/justicia/amigos-de-miguel-martinez-contratos-con-el-estado-y-una-denuncia-por-lavado-quienes-son-los-13-investigados-por-el-mp/",
-      "fecha": "Thu, 24 Sep 2026 18:54:03 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Familiares, amigos y empresarios vinculados con contratos del Estado figuran entre los 13 nombres incluidos en las diligencias contra Miguel Martínez."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuántos muertos reporta EE. UU. por la bacteria &#8220;come carne&#8221; y qué estados tienen más casos",
-      "link": "https://www.prensalibre.com/internacional/cuantos-muertos-reporta-ee-uu-por-la-bacteria-come-carne-y-que-estados-tienen-mas-casos/",
-      "fecha": "Thu, 24 Sep 2026 18:46:51 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las autoridades sanitarias de EE. UU. recomiendan a la población no sumergirse en el mar con heridas abiertas para evitar infectarse."
     },
     {
       "fuente": "Guatemala.com",
