@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-26T15:14:17.120Z",
+  "actualizado": "2026-09-26T16:15:09.308Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;No hemos tenido suerte como selección&#8221;: Óscar Santis tras la derrota de Guatemala ante Jamaica",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/no-hemos-tenido-suerte-como-seleccion-oscar-santis-tras-la-derrota-de-guatemala-ante-jamaica-breaking/",
+      "fecha": "Sat, 26 Sep 2026 15:28:54 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Óscar Santis anotó dos goles en Kingston pero Jamaica remontó en los minutos finales para vencer 3-2 en el debut oficial de la Bicolor en la Liga de Naciones de Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Operativo permite localizar arsenal en vehículo y la captura de dos personas en Villa Canales",
+      "link": "https://www.prensalibre.com/guatemala/justicia/operativo-permite-localizar-arsenal-en-vehiculo-y-la-captura-de-dos-personas-en-villa-canales-breaking/",
+      "fecha": "Sat, 26 Sep 2026 15:22:02 +0000",
+      "categoria": "Justicia",
+      "resumen": "Autoridades decomisan siete fusiles, dos pistolas y tolvas en operativo en Santa Elena Barillas, Villa Canales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Bomberos relatan cómo atendieron el nacimiento de una bebé en una ambulancia camino al hospital",
@@ -9,6 +25,14 @@
       "fecha": "Sat, 26 Sep 2026 14:18:28 +0000",
       "categoria": "Comunitario",
       "resumen": "Bomberos detallaron cómo atendieron un parto en una ambulancia durante el trayecto entre el municipio de San Manuel Chaparrón y la ciudad de Jalapa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Señora Guatemala 2026 presenta a sus candidatas",
+      "link": "https://www.prensalibre.com/vida/escenario/senora-guatemala-2026-presenta-a-sus-candidatas/",
+      "fecha": "Sat, 26 Sep 2026 13:28:43 +0000",
+      "categoria": "Escenario",
+      "resumen": "La XIX edición del certamen cuenta con 16 participantes. Su gala final se celebrará el 21 de noviembre y será transmitida a través de Guatevisión."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,30 +809,6 @@
       "fecha": "Fri, 25 Sep 2026 03:09:39 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "Según el ranking elaborado por HORSE, Volkswagen consolida su transformación en América Latina también en el terreno de la reputación y la influencia corporativa. La marca alemana alcanzó el cuarto lugar entre las 100 empresas más influyentes de América Latina y el primer puesto entre las automotrices."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Torneo Apertura: Municipal vuelve a la cima al vencer al colero Suchitepéquez",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-municipal-vuelve-a-la-cima-al-vencer-al-colero-suchitepequez-breaking/",
-      "fecha": "Fri, 25 Sep 2026 02:44:53 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los rojos vencieron 3-0 a los venados, recuperaron el liderato del Apertura y extendieron a 37 partidos su invicto en casa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala investiga muerte de migrante tras intento de intervención del ICE en Míchigan",
-      "link": "https://www.prensalibre.com/guatemala/migrantes/guatemala-investiga-muerte-de-migrante-tras-intento-de-intervencion-del-ice-en-michigan-breaking/",
-      "fecha": "Fri, 25 Sep 2026 02:33:59 +0000",
-      "categoria": "Migrantes",
-      "resumen": "Guatemala investiga la muerte de un migrante en Míchigan, ocurrida después de que agentes del ICE intentaran interceptar su vehículo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Corte de Constitucionalidad avala que el número del DPI sea el NIT, pero delimita alcances a la SAT",
-      "link": "https://www.prensalibre.com/economia/corte-de-constitucionalidad-avala-que-el-numero-del-dpi-sea-el-nit-pero-delimita-alcances-a-la-sat/",
-      "fecha": "Fri, 25 Sep 2026 02:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La CC declaró sin lugar las acciones contra la resolución de la Superintendencia de Administración Tributaria que establece la armonización del Código Único de Identificación (CUI), utilizado en el número del DPI, con el Número de Identificación Tributaria (NIT)."
     },
     {
       "fuente": "Guatemala.com",
