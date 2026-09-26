@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-26T16:15:09.308Z",
+  "actualizado": "2026-09-26T17:13:14.161Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Luna de la Cosecha: a qué hora verla este sábado y por qué se llama así",
+      "link": "https://www.prensalibre.com/vida/ciencia/luna-de-la-cosecha-a-que-hora-verla-este-sabado-y-por-que-se-llama-asi/",
+      "fecha": "Sat, 26 Sep 2026 17:00:37 +0000",
+      "categoria": "Ciencia",
+      "resumen": "La noche de este sábado, al ocultarse el Sol, se podrá apreciar la Luna de la Cosecha, conozca más detalles acerca de la hora exacta para verla y por qué se llama así."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Salvador salvó el honor: cuatro selecciones centroamericanas cayeron en el debut de la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/el-salvador-salvo-el-honor-cuatro-selecciones-centroamericanas-cayeron-en-el-debut-de-la-liga-de-naciones-breaking/",
+      "fecha": "Sat, 26 Sep 2026 16:05:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los salvadoreños vencieron 3-1 a Martinica mientras Guatemala, Nicaragua, Honduras y Costa Rica perdieron en sus respectivos partidos en lo que fue una primera jornada muy complicada para el fútbol centroamericano en la Liga de Naciones."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;No hemos tenido suerte como selección&#8221;: Óscar Santis tras la derrota de Guatemala ante Jamaica",
@@ -793,22 +809,6 @@
       "fecha": "Fri, 25 Sep 2026 04:17:49 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Curazao reaccionó a tiempo ante Costa Rica y logró darle la vuelta al marcador en un partido de muchas emociones en la Liga de Naciones de Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo la amenaza de la guerra puede salvar a los grandes fabricantes europeos de automóviles",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/como-la-amenaza-de-la-guerra-puede-salvar-a-los-grandes-fabricantes-europeos-de-automoviles/",
-      "fecha": "Fri, 25 Sep 2026 03:10:03 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los ejecutivos del sector automovilístico de toda Europa esperan que el rearme les ayude a volver a demostrar su poderío industrial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La automotriz más influyente de América Latina",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-automotriz-mas-influyente-de-america-latina/",
-      "fecha": "Fri, 25 Sep 2026 03:09:39 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Según el ranking elaborado por HORSE, Volkswagen consolida su transformación en América Latina también en el terreno de la reputación y la influencia corporativa. La marca alemana alcanzó el cuarto lugar entre las 100 empresas más influyentes de América Latina y el primer puesto entre las automotrices."
     },
     {
       "fuente": "Guatemala.com",
