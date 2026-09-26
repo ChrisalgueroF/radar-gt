@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-26T22:14:08.614Z",
+  "actualizado": "2026-09-26T23:13:42.444Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump dice que Estados Unidos y Cuba “harán un acuerdo” y no ve necesaria una acción militar",
+      "link": "https://www.prensalibre.com/internacional/trump-dice-que-estados-unidos-y-cuba-haran-un-acuerdo-y-no-ve-necesaria-una-accion-militar/",
+      "fecha": "Sat, 26 Sep 2026 22:15:26 +0000",
+      "categoria": "Internacional",
+      "resumen": "Mientras aumenta la presión de Washington sobre Cuba, Trump afirmó que prevé un acuerdo con la isla y que no cree necesaria una intervención militar."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Capturan en Mixco a presunto pandillero vinculado a desmembramientos y abandono de cadáveres",
@@ -801,14 +809,6 @@
       "fecha": "Fri, 25 Sep 2026 13:15:01 +0000",
       "categoria": "Justicia",
       "resumen": "Persecuciones en Escuintla y Chiquimula terminan en capturas y agentes de la PNC arrollados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Valentina Agudelo, la colombiana que creó un innovador dispositivo que identifica el riesgo de cáncer de mama en minutos y en cualquier parte",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/valentina-agudelo-la-colombiana-que-creo-un-innovador-dispositivo-que-identifica-el-riesgo-de-cancer-de-mama-en-minutos-y-en-cualquier-parte/",
-      "fecha": "Fri, 25 Sep 2026 11:38:33 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El cáncer de mama es uno de los más tratables, pero sigue siendo el que más mujeres mata. La clave es un diagnóstico oportuno. Y una colombiana lo está logrando,"
     },
     {
       "fuente": "Guatemala.com",
