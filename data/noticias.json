@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-26T18:16:49.968Z",
+  "actualizado": "2026-09-26T19:12:50.431Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más de 400 vuelos cancelados, inundaciones y 95 mil hogares sin luz por tormenta nor’easter en Estados Unidos",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/mas-de-400-vuelos-cancelados-inundaciones-y-95-mil-hogares-sin-luz-por-tormenta-noreaster-en-estados-unidos/",
+      "fecha": "Sat, 26 Sep 2026 18:35:56 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Una fuerte tormenta costera golpea el noreste de Estados Unidos con inundaciones, apagones y más de 400 vuelos cancelados, mientras las autoridades mantienen alertas en varios estados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Muere presunto delincuente herido en La Reformita; suman dos casos esta semana con el “El Flaco”",
+      "link": "https://www.prensalibre.com/guatemala/justicia/muere-presunto-delincuente-herido-en-la-reformita-suman-dos-casos-esta-semana-con-el-el-flaco-breaking/",
+      "fecha": "Sat, 26 Sep 2026 18:19:49 +0000",
+      "categoria": "Justicia",
+      "resumen": "Uno de los dos presuntos delincuentes que resultaron heridos durante un enfrentamiento con agentes de la PNC en La Reformita, zona 12, murió en el Hospital Roosevelt."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entre 10 y 15 días de baja: el Real Madrid confirma la lesión de rodilla de Mbappé",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/entre-10-y-15-dias-de-baja-el-real-madrid-confirma-la-lesion-de-rodilla-de-mbappe-breaking/",
+      "fecha": "Sat, 26 Sep 2026 18:09:59 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Kylian Mbappé sufrió una hiperextensión de la cápsula posterior de la rodilla izquierda al marcar el gol de la victoria de Francia ante Turquía en la Liga de Naciones con un plazo estimado de recuperación de dos semanas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Banguat detecta más de tres mil billetes falsos en Guatemala",
@@ -9,6 +33,14 @@
       "fecha": "Sat, 26 Sep 2026 18:02:07 +0000",
       "categoria": "Economía",
       "resumen": "Seis de cada 10 billetes falsos detectados en Guatemala corresponden a la denominación de Q100. De enero a la fecha se han incautado más de tres mil piezas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "StarYuuki publica fotos desde Guatemala y busca al joven que se las tomó",
+      "link": "https://www.prensalibre.com/vida/escenario/staryuuki-publica-fotos-desde-guatemala-y-busca-al-joven-que-se-las-tomo/",
+      "fecha": "Sat, 26 Sep 2026 17:57:23 +0000",
+      "categoria": "Escenario",
+      "resumen": "La famosa gamer estadounidense StarYuuki, conocida por sus transmisiones en vivo de videojuegos, bailes y comedias, está de visita en Guatemala."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,38 +809,6 @@
       "fecha": "Fri, 25 Sep 2026 06:05:00 +0000",
       "categoria": "Salud y Familia",
       "resumen": "Cada vez hay más evidencia de que ser abuelo o abuela puede ayudar a proteger el cerebro durante el envejecimiento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Líderes tecnológicos piden en la ONU un esfuerzo global para limitar los riesgos de la IA",
-      "link": "https://www.prensalibre.com/internacional/lideres-tecnologicos-piden-en-la-onu-un-esfuerzo-global-para-limitar-los-riesgos-de-la-ia/",
-      "fecha": "Fri, 25 Sep 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Ejecutivos de OpenAI y Anthropic reclaman cooperación internacional y mayores medidas de seguridad ante el avance de la inteligencia artificial, mientras Estados Unidos rechaza una regulación global."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Causas del derrumbe de todos los imperios",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/causas-del-derrumbe-de-todos-los-imperios/",
-      "fecha": "Fri, 25 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "En este momento el mundo observa a dos imperios decadentes, Estados Unidos y Rusia; uno en ascenso, China Continental, y otro adelantándose en avances tecnológicos, Irán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nada es casual, una nueva época se está gestando",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/nada-es-casual-una-nueva-epoca-se-esta-gestando/",
-      "fecha": "Fri, 25 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Ovnis desclasificados, guerras y máquinas que inquietan a sus propios creadores. No son titulares sueltos, sino el parto ruidoso de otra época."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Festines a costillas de nuestros impuestos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/festines-a-costillas-de-nuestros-impuestos/",
-      "fecha": "Fri, 25 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "¿Por qué los magistrados de la CC y el TSE necesitan que el Estado les dé de comer?"
     },
     {
       "fuente": "Guatemala.com",
