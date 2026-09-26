@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-26T01:13:04.156Z",
+  "actualizado": "2026-09-26T02:14:13.511Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Irán ofrece a EE.UU. un acuerdo para reabrir el estrecho de Ormuz en 7 días",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/iran-ofrece-a-ee-uu-un-acuerdo-para-reabrir-el-estrecho-de-ormuz-en-7-dias/",
+      "fecha": "Sat, 26 Sep 2026 02:08:22 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Araghchi declaró a la prensa en la sede de la ONU en Nueva York que esto podría lograrse \"si se cumplen las condiciones necesarias\", señalando que dichas condiciones figuran en el memorando de entendimiento firmado en junio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Superintendencia de Competencia: Directorio definirá a los seis candidatos mejor calificados",
+      "link": "https://www.prensalibre.com/economia/superintendencia-de-competencia-directorio-definira-a-los-seis-candidatos-mejor-calificados/",
+      "fecha": "Sat, 26 Sep 2026 01:56:29 +0000",
+      "categoria": "Economía",
+      "resumen": "Los 33 aspirantes a dirigir la Superintendencia de Competencia (Sicom) fueron evaluados por el Directorio, que deberá incorporar la nota del examen de oposición antes de definir a los seis candidatos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Todo quedó grabado: camión cargado con piedras vuelca y causa momentos de tensión en la carretera",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/todo-quedo-grabado-camion-cargado-con-piedras-vuelca-y-causa-momentos-de-tension-en-la-carretera-breaking/",
+      "fecha": "Sat, 26 Sep 2026 01:51:48 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Un video captó el momento exacto en que un camión cargado con piedras volcó y estuvo a punto de aplastar varios vehículos en una autopista que conduce de Amatitlán a Villa Canales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alejandro Sanz sorprende en concierto de Shakira y cantan juntos “La Tortura”: así fue su encuentro en Madrid",
+      "link": "https://www.prensalibre.com/vida/escenario/alejandro-sanz-sorprende-en-concierto-de-shakira-y-cantan-juntos-la-tortura-asi-fue-su-encuentro-en-madrid/",
+      "fecha": "Sat, 26 Sep 2026 01:35:23 +0000",
+      "categoria": "Escenario",
+      "resumen": "En el cuarto concierto de la residencia de Shakira en Madrid, Alejandro Sanz apareció como invitado especial para cantar junto a la colombiana, ante la euforia del público."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fiscal general confirma investigaciones contra Consuelo Porras y un caso con fiscal especial",
+      "link": "https://www.prensalibre.com/guatemala/fiscal-general-confirma-investigaciones-contra-consuelo-porras-y-un-caso-con-fiscal-especial/",
+      "fecha": "Sat, 26 Sep 2026 00:51:18 +0000",
+      "categoria": "Guatemala",
+      "resumen": "García Luna indicó que siguen vigentes varias denuncias contra la exfiscal general, entre ellas una investigación por posibles adopciones irregulares."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Gobernación cuestiona liberación de capturados por asaltos en motocicleta y pide a jueces valorar trabajo de la PNC",
@@ -20,7 +60,23 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Jamaica vs. Guatemala: la bicolor empata 1-1 ante los caribeños; en las gradas está Gianni Infantino",
+      "titulo": "Quiénes son Los Choneros de Ecuador y qué vínculo tienen con el Cártel Jalisco Nueva Generación",
+      "link": "https://www.prensalibre.com/internacional/quienes-son-los-choneros-de-ecuador-y-que-vinculo-tienen-con-el-cartel-jalisco-nueva-generacion/",
+      "fecha": "Sat, 26 Sep 2026 00:19:22 +0000",
+      "categoria": "Internacional",
+      "resumen": "Autoridades de Ecuador reportaron la desarticulación de una red que tendría vínculos con el Cartel Jalisco Nueva Generación y reportaron al menos 30 capturas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Museo Rafael Álvarez Ovalle adapta al braille cédulas informativas y el Himno Nacional de Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/museo-rafael-alvarez-ovalle-adapta-al-braille-cedulas-informativas-y-el-himno-nacional-de-guatemala/",
+      "fecha": "Fri, 25 Sep 2026 23:56:18 +0000",
+      "categoria": "Escenario",
+      "resumen": "Ubicado en San Juan Comalapa, tierra natal de Rafael Álvarez Ovalle, el museo se convierte en el primero de Chimaltenango en incorporar recursos inclusivos para personas no videntes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Jamaica vs. Guatemala: la bicolor cae 3-2; el juego lo observó el presidente de la Fifa, Gianni Infantino",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-jamaica-vs-guatemala-comienza-el-nuevo-reto-de-tena-en-la-liga-de-naciones-breaking/",
       "fecha": "Fri, 25 Sep 2026 23:34:27 +0000",
       "categoria": "Fútbol Nacional",
@@ -33,6 +89,30 @@
       "fecha": "Fri, 25 Sep 2026 23:31:42 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Kenderson Navarro, Jorge Aparicio y la dupla Darwin Lom-Rubio Rubín son las principales novedades del once elegido para enfrentar a Jamaica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Melissa Lucio: por qué Texas mantiene la condena a muerte de la mujer acusada de matar a su hija",
+      "link": "https://www.prensalibre.com/internacional/melissa-lucio-por-que-texas-mantiene-la-condena-a-muerte-de-la-mujer-acusada-de-matar-a-su-hija/",
+      "fecha": "Fri, 25 Sep 2026 23:31:02 +0000",
+      "categoria": "Internacional",
+      "resumen": "Texas mantiene la condena a muerte de Melissa Lucio pese a nuevas pruebas que respaldan su versión sobre la muerte accidental de su hija."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Perderá si decide meter la mano”: El mensaje de Lula a Trump por las elecciones en Brasil",
+      "link": "https://www.prensalibre.com/internacional/perdera-si-decide-meter-la-mano-el-mensaje-de-lula-a-trump-por-las-elecciones-en-brasil/",
+      "fecha": "Fri, 25 Sep 2026 23:30:47 +0000",
+      "categoria": "Internacional",
+      "resumen": "Lula advirtió a Trump que perderá si interviene en las elecciones de Brasil, previstas para el 4 de octubre y en las que busca la reelección."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo avanzan las investigaciones por la muerte de un niño de 6 años atropellado por su padre en un Tesla Cybertruck",
+      "link": "https://www.prensalibre.com/internacional/como-avanzan-las-investigaciones-por-la-muerte-de-un-nino-de-6-anos-atropellado-por-su-padre-en-un-tesla-cybertruck/",
+      "fecha": "Fri, 25 Sep 2026 23:29:55 +0000",
+      "categoria": "Internacional",
+      "resumen": "La investigación continúa para esclarecer cómo un niño de 6 años murió atropellado por su padre cuando maniobraba un Tesla Cybertruck en California."
     },
     {
       "fuente": "Prensa Libre",
@@ -739,92 +819,12 @@
       "resumen": "Con una gran variedad de títulos, la plataforma busca complacer los gustos más variados."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Socavamiento cierra paso en Boca del Monte y complica el tránsito: lluvias causan derrumbes y daños en otras rutas",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/socavamiento-cierra-paso-en-boca-del-monte-y-complica-el-transito-lluvias-causan-derrumbes-y-danos-en-otras-rutas-breaking/",
-      "fecha": "Thu, 24 Sep 2026 21:46:02 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Las lluvias continúan generando problemas para la movilidad en distintos puntos del departamento de Guatemala este 24 de septiembre, con cierres, derrumbes y dificultades para el transporte pesado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mes del Rosario en Guatemala: Guía de actividades para celebrar en octubre 2026",
-      "link": "https://www.prensalibre.com/vida/escenario/mes-del-rosario-en-guatemala-guia-de-actividades-para-celebrar-en-octubre-2026/",
-      "fecha": "Thu, 24 Sep 2026 21:44:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La Cofradía del Santo Rosario da a conocer las actividades que se celebrarán en el Templo de Santo Domingo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Este autopen es Biden&#8221;, la foto que Trump le mostró a Xi Jinping y provocó la risa del mandatario chino",
-      "link": "https://www.prensalibre.com/internacional/este-autopen-es-biden-la-foto-que-trump-le-mostro-a-xi-jinping-y-provoco-la-risa-del-mandatario-chino/",
-      "fecha": "Thu, 24 Sep 2026 21:41:18 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump le enseñó a Xi Jinping el llamado \"Paseo de la Fama Presidencial\" cuando hizo un comentario de Biden que provocó la risa del mandatario chino."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ricardo Arjona publica emotivo video y recuerda sus inicios en México: “El destino me pintó el camino que hoy me trajo hasta aquí”",
-      "link": "https://www.prensalibre.com/vida/escenario/ricardo-arjona-publica-emotivo-video-y-recuerda-sus-inicios-en-mexico-el-destino-me-pinto-el-camino-que-hoy-me-trajo-hasta-aqui/",
-      "fecha": "Thu, 24 Sep 2026 21:40:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Previo a sus presentaciones en México como parte de su gira “Lo Que El Seco No Dijo”, Ricardo Arjona compartió una publicación en la que recordó los inicios de su carrera en ese país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mujer del barrio El Gallito es capturada en la Granja Canadá cuando visitaba a su pareja, recluida por secuestro",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mujer-del-barrio-el-gallito-es-capturada-en-la-granja-canada-cuando-visitaba-a-su-pareja-recluida-por-secuestro-breaking/",
-      "fecha": "Thu, 24 Sep 2026 21:15:27 +0000",
-      "categoria": "Justicia",
-      "resumen": "Una mujer que llegó a visitar a su pareja, recluida por secuestro en la Granja Penal Canadá, fue capturada porque tenía una orden de aprehensión por presunta extorsión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estrenos y novedades que llegan a Disney Plus en octubre 2026",
-      "link": "https://www.prensalibre.com/vida/escenario/estrenos-y-novedades-que-llegan-a-disney-plus-en-octubre-2026/",
-      "fecha": "Thu, 24 Sep 2026 21:10:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La plataforma presentará nuevos episodios de algunas de sus series más populares y cintas esperadas desde hace mucho tiempo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso rechaza objeciones y remite a Arévalo decreto que fija precios máximos a los combustibles",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-rechaza-objeciones-y-remite-a-arevalo-decreto-que-fija-precios-maximos-a-los-combustibles-breaking/",
-      "fecha": "Thu, 24 Sep 2026 21:00:55 +0000",
-      "categoria": "Política",
-      "resumen": "El Congreso rechazó las objeciones contra el Decreto 21-2026, y ahora será el presidente Bernardo Arévalo quien deberá decidir si sanciona o veta la normativa que fija precios máximos a los combustibles."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Actividades para celebrar el Día del Niño en Guatemala este 2026",
       "link": "https://www.guatemala.com/noticias/sociedad/agenda-actividades-celebrar-dia-del-nino-guatemala-2026.html",
       "fecha": "Thu, 24 Sep 2026 20:52:42 +0000",
       "categoria": "Sociedad",
       "resumen": "Descubre distintas actividades para celebrar el Día del Niño en Guatemala este 2026. La agenda incluye recorridos en tren, obras, musicales y más.\nThe post Actividades para celebrar el Día del Niño en Guatemala este 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala tiene plan para Jamaica: Tena explica cómo buscará frenar al rival",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-tiene-plan-para-jamaica-tena-explica-como-buscara-frenar-al-rival-breaking/",
-      "fecha": "Thu, 24 Sep 2026 20:23:24 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El entrenador nacional analizó las fortalezas del conjunto caribeño y detalló el trabajo táctico realizado durante la concentración."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;No sabía que mi pareja me violaba mientras dormía&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/no-sabia-que-mi-pareja-me-violaba-mientras-dormia/",
-      "fecha": "Thu, 24 Sep 2026 20:05:47 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Adelle Overton llevaba 13 años con Steven Uden cuando descubrió que él la había estado violando mientras dormía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Scaloni revela cómo hizo posible el último partido de Messi con Argentina",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/scaloni-revela-como-hizo-posible-el-ultimo-partido-de-messi-con-argentina-breaking/",
-      "fecha": "Thu, 24 Sep 2026 19:32:13 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El técnico de la Albiceleste explicó que hizo todo lo posible para que Lionel Messi estuviera presente en el partido que marcará su adiós de la Selección Argentina."
     },
     {
       "fuente": "Guatemala.com",
