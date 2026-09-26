@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-26T04:14:59.360Z",
+  "actualizado": "2026-09-26T05:13:59.989Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Me enteré de que lo mataron por las redes sociales&#8221;: el doble castigo que sufren los condenados en Arabia Saudita, uno de los países que ejecuta más personas en el mundo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/me-entere-de-que-lo-mataron-por-las-redes-sociales-el-doble-castigo-que-sufren-los-condenados-en-arabia-saudita-uno-de-los-paises-que-ejecuta-mas-personas-en-el-mundo/",
+      "fecha": "Sat, 26 Sep 2026 04:57:09 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Arabia Saudita se encuentra entre los tres países con mayor número de ejecuciones, que se aplican a extranjeros en más del 40% de los casos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Video capta agresión contra ascensorista en edificio de zona 1 y MP abre investigación por lesiones leves",
@@ -9,6 +17,14 @@
       "fecha": "Sat, 26 Sep 2026 04:04:12 +0000",
       "categoria": "Justicia",
       "resumen": "Una cámara de seguridad captó el momento en que un hombre agrede a una ascensorista en un edificio de la zona 1. El MP confirmó que el caso es investigado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Primera vacuna de ARNm contra la gripe para adultos mayores llega a Estados Unidos",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/primera-vacuna-de-arnm-contra-la-gripe-para-adultos-mayores-llega-a-estados-unidos/",
+      "fecha": "Sat, 26 Sep 2026 03:59:36 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Tras ser aprobada por la FDA, la vacuna mFlusiva se convierte en una nueva alternativa de inmunización contra la gripe para los adultos mayores en Estados Unidos."
     },
     {
       "fuente": "Prensa Libre",
@@ -801,22 +817,6 @@
       "fecha": "Thu, 24 Sep 2026 23:02:21 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Decenas de delegados de Naciones Unidas abandonaron este jueves la sala donde el primer ministro israelí, Benjamin Netanyahu, se disponía a pronunciar un discurso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Xavi y Klopp debutan con empate en la Liga de Naciones: resultados de la jornada",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/xavi-y-klopp-debutan-con-empate-en-la-liga-de-naciones-resultados-de-la-jornada-breaking/",
-      "fecha": "Thu, 24 Sep 2026 23:00:43 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Países Bajos y Alemania igualaron 1-1 en Ámsterdam, mientras Portugal y Noruega comenzaron con victorias su camino en el torneo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estafa por venta de terrenos: capturan a pareja señalada de defraudar Q180 mil en Izabal",
-      "link": "https://www.prensalibre.com/guatemala/justicia/estafa-por-venta-de-terrenos-capturan-a-pareja-senalada-de-defraudar-q180-mil-en-izabal/",
-      "fecha": "Thu, 24 Sep 2026 22:59:12 +0000",
-      "categoria": "Justicia",
-      "resumen": "Una pareja que tenía órdenes de aprehensión por estafa en venta de terrenos fue capturada por autoridades en El Estor, Izabal."
     },
     {
       "fuente": "Guatemala.com",
