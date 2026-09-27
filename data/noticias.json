@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-27T13:14:02.797Z",
+  "actualizado": "2026-09-27T14:13:54.363Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La policía antiterrorista británica investiga un &#8220;incidente grave&#8221; cerca de una base aérea que utiliza el ejército de Estados Unidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-policia-antiterrorista-britanica-investiga-un-incidente-grave-cerca-de-una-base-aerea-que-utiliza-el-ejercito-de-estados-unidos/",
+      "fecha": "Sun, 27 Sep 2026 14:04:21 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Varios sujetos fueron detenidos sospechosos por delitos relacionados con explosivos, informaron las autoridades británicas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hipótesis de Fiscalía descartaría violencia en muerte de menor en Xela",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/hipotesis-de-fiscalia-descartaria-violencia-en-muerte-de-menor-en-xela/",
+      "fecha": "Sun, 27 Sep 2026 14:00:00 +0000",
+      "categoria": "Sucesos",
+      "resumen": "El Ministerio Público da detalles de la investigación sobre la muerte de una adolescente localizada sin vida en la zona 5 de Quetzaltenango."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Opinión: El tráfico en Guatemala, entre comida, sueño, trabajo y psiquiatra",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/opinion-el-trafico-en-guatemala-entre-comida-sueno-trabajo-y-psiquiatra/",
+      "fecha": "Sun, 27 Sep 2026 14:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El tráfico hoy restringe qué hacemos, a qué hora salimos, a quién visitamos y hasta dónde vivimos. El vehículo ya dejó de ser un simple medio de transporte. Es comedor, es dormitorio y es oficina."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La Casa de los Secretos, la lujosa mansión donde Reino Unido espiaba a los generales nazis y que cambió el curso de la II Guerra Mundial",
@@ -777,30 +801,6 @@
       "fecha": "Fri, 25 Sep 2026 21:29:00 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Bélgica aprovechó las debilidades defensivas de la Azzurra y se impuso en el debut de Roberto Mancini, quien busca reconstruir a la selección."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué NASA y SpaceX aplazaron el viaje de cuatro astronautas a la EEI y cuándo será el nuevo lanzamiento",
-      "link": "https://www.prensalibre.com/internacional/por-que-nasa-y-spacex-aplazaron-el-viaje-de-cuatro-astronautas-a-la-eei-y-cuando-sera-el-nuevo-lanzamiento/",
-      "fecha": "Fri, 25 Sep 2026 21:25:43 +0000",
-      "categoria": "Internacional",
-      "resumen": "NASA y SpaceX prevén lanzar el 1 de octubre a cuatro astronautas hacia la EEI, tras aplazar la misión por una fuga detectada en la nave Dragon."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aumentan casos y muertes por el virus del Nilo Occidental: ¿cuáles son los principales síntomas?",
-      "link": "https://www.prensalibre.com/internacional/aumentan-casos-y-muertes-por-el-virus-del-nilo-occidental-cuales-son-los-principales-sintomas/",
-      "fecha": "Fri, 25 Sep 2026 21:20:27 +0000",
-      "categoria": "Internacional",
-      "resumen": "El virus ha dejado de ser una preocupación tropical y se ha vuelto endémico en áreas templadas, con picos de transmisión durante las temporadas de calor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Narcopolítica en Guatemala: MP investiga vínculos del narcotráfico con el Estado y la actividad electoral",
-      "link": "https://www.prensalibre.com/guatemala/justicia/narcopolitica-en-guatemala-mp-investiga-vinculos-del-narcotrafico-con-el-estado-y-la-actividad-electoral/",
-      "fecha": "Fri, 25 Sep 2026 21:18:37 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La institución indaga posibles vínculos del narcotráfico con estructuras del Estado y una alianza de narcotraficantes con el Barrio 18."
     },
     {
       "fuente": "Guatemala.com",
