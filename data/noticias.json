@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-27T20:14:22.756Z",
+  "actualizado": "2026-09-27T21:14:26.198Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vecinos de Villa Hermosa rechazan al alcalde de San Miguel Petapa durante visita a zona afectada por colapso de viviendas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/vecinos-de-villa-hermosa-rechazan-visita-del-alcalde-de-san-miguel-petapa-breaking/",
+      "fecha": "Sun, 27 Sep 2026 20:34:23 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El alcalde Mynor Morales llegó a Villa Hermosa, donde varias viviendas han colapsado por la fuerza del río Pinula; sin embargo, los vecinos rechazaron su visita."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump espera negociar con Irán esta semana tras rechazar su propuesta sobre Ormuz",
+      "link": "https://www.prensalibre.com/internacional/trump-espera-negociar-con-iran-esta-semana-tras-rechazar-su-propuesta-sobre-ormuz/",
+      "fecha": "Sun, 27 Sep 2026 20:29:48 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump rechazó las condiciones de Irán sobre Ormuz, pero espera retomar las negociaciones esta semana mientras persisten las diferencias sobre el programa nuclear iraní."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; Mixco vs. Antigua GFC: siga el minuto a minuto de la jornada 11 del Apertura 2026",
@@ -777,22 +793,6 @@
       "fecha": "Sat, 26 Sep 2026 02:08:22 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Araghchi declaró a la prensa en la sede de la ONU en Nueva York que esto podría lograrse \"si se cumplen las condiciones necesarias\", señalando que dichas condiciones figuran en el memorando de entendimiento firmado en junio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Superintendencia de Competencia: Directorio definirá a los seis candidatos mejor calificados",
-      "link": "https://www.prensalibre.com/economia/superintendencia-de-competencia-directorio-definira-a-los-seis-candidatos-mejor-calificados/",
-      "fecha": "Sat, 26 Sep 2026 01:56:29 +0000",
-      "categoria": "Economía",
-      "resumen": "Los 33 aspirantes a dirigir la Superintendencia de Competencia (Sicom) fueron evaluados por el Directorio, que deberá incorporar la nota del examen de oposición antes de definir a los seis candidatos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Todo quedó grabado: camión cargado con piedras vuelca y causa momentos de tensión en la carretera",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/todo-quedo-grabado-camion-cargado-con-piedras-vuelca-y-causa-momentos-de-tension-en-la-carretera-breaking/",
-      "fecha": "Sat, 26 Sep 2026 01:51:48 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un video captó el momento exacto en que un camión cargado con piedras volcó y estuvo a punto de aplastar varios vehículos en una autopista que conduce de Amatitlán a Villa Canales."
     },
     {
       "fuente": "Guatemala.com",
