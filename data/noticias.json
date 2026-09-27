@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-27T21:14:26.198Z",
+  "actualizado": "2026-09-27T22:14:02.238Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tom Cruise e Iñárritu presentan Digger en México: así es la sátira sobre poder y petróleo",
+      "link": "https://www.prensalibre.com/vida/escenario/tom-cruise-e-inarritu-presentan-digger-en-mexico-asi-es-la-satira-sobre-poder-y-petroleo/",
+      "fecha": "Sun, 27 Sep 2026 21:57:53 +0000",
+      "categoria": "Escenario",
+      "resumen": "Iñárritu celebra la acogida de su “urgente” cinta Digger en México junto a Tom Cruise."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Partido Prosperidad Ciudadana completa la integración de su Comité Ejecutivo Nacional",
+      "link": "https://www.prensalibre.com/guatemala/politica/partido-prosperidad-ciudadana-completa-la-integracion-de-su-comite-ejecutivo-nacional-breaking/",
+      "fecha": "Sun, 27 Sep 2026 21:10:55 +0000",
+      "categoria": "Política",
+      "resumen": "En asamblea nacional extraordinaria, el partido Prosperidad Ciudadana completó la integración de su Comité Ejecutivo Nacional y eligió a los miembros del Tribunal de Honor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Janderson Pereira lidera con doblete la victoria de Cobán 3-2 sobre Aurora",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/janderson-pereira-lidera-con-doblete-la-victoria-de-coban-3-2-sobre-aurora-breaking/",
+      "fecha": "Sun, 27 Sep 2026 21:03:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los príncipes azules cortaron una racha de siete partidos sin ganar al vencer 3-2 a Aurora en el estadio José Ángel Rossi, en un partido cerrado en el que el brasileño fue figura para los locales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Vecinos de Villa Hermosa rechazan al alcalde de San Miguel Petapa durante visita a zona afectada por colapso de viviendas",
@@ -769,30 +793,6 @@
       "fecha": "Sat, 26 Sep 2026 02:29:09 +0000",
       "categoria": "Sucesos",
       "resumen": "Cuatro hombres llegaron en dos motocicletas y asaltaron un punto de servicio bancario en la comunidad La Vega, Mazatenango, Suchitepéquez; cámaras de vigilancia registraron cómo observaron el negocio antes de ingresar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué es una tormenta nor’easter y cómo está golpeando el noreste de EE. UU.?",
-      "link": "https://www.prensalibre.com/internacional/que-es-una-tormenta-noreaster-y-como-esta-golpeando-el-noreste-de-ee-uu/",
-      "fecha": "Sat, 26 Sep 2026 02:24:59 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un fenómeno costero inusual amenaza a más de 40 millones de personas en EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala ganaba en Kingston, pero Jamaica remontó en el final y amarga el debut de Luis Fernando Tena",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-ganaba-en-kingston-pero-jamaica-remonto-en-el-final-y-amarga-el-debut-de-luis-fernando-tena-breaking/",
-      "fecha": "Sat, 26 Sep 2026 02:20:31 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Óscar Santis marcó un doblete, pero la Bicolor no pudo sostener la ventaja inicial y terminó perdiendo en su primer partido de la Liga de Naciones de Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Irán ofrece a EE.UU. un acuerdo para reabrir el estrecho de Ormuz en 7 días",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/iran-ofrece-a-ee-uu-un-acuerdo-para-reabrir-el-estrecho-de-ormuz-en-7-dias/",
-      "fecha": "Sat, 26 Sep 2026 02:08:22 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Araghchi declaró a la prensa en la sede de la ONU en Nueva York que esto podría lograrse \"si se cumplen las condiciones necesarias\", señalando que dichas condiciones figuran en el memorando de entendimiento firmado en junio."
     },
     {
       "fuente": "Guatemala.com",
