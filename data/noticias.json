@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-27T16:15:00.987Z",
+  "actualizado": "2026-09-27T17:13:35.504Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién es el hombre más rico de África y por qué ahora quiere vender partes de su imperio",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/quien-es-el-hombre-mas-rico-de-africa-y-por-que-ahora-quiere-vender-partes-de-su-imperio/",
+      "fecha": "Sun, 27 Sep 2026 16:46:21 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El multimillonario empresario Aliko Dangote ha protagonizado la mayor salida a bolsa de la historia del continente africano."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bill Gates lanza una advertencia sobre la IA: “Podría causar mil millones de muertes”",
+      "link": "https://www.prensalibre.com/vida/tecnologia/bill-gates-lanza-una-advertencia-sobre-la-ia-podria-causar-mil-millones-de-muertes/",
+      "fecha": "Sun, 27 Sep 2026 16:42:42 +0000",
+      "categoria": "Tecnología",
+      "resumen": "El cofundador de Microsoft alertó sobre los riesgos de una IA en “manos equivocadas”, mientras Estados Unidos debate cómo mantener su ventaja tecnológica frente a China."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Máscaras, penachos y botargas llenan de color el Centro Histórico durante desfile de conviteros",
+      "link": "https://www.prensalibre.com/vida/escenario/mascaras-penachos-y-botargas-llenan-de-color-el-centro-historico-durante-desfile-de-conviteros/",
+      "fecha": "Sun, 27 Sep 2026 16:32:20 +0000",
+      "categoria": "Escenario",
+      "resumen": "Máscaras, plumajes, armaduras, botargas e indumentarias mayas y regionales convierten este domingo las calles en escenarios de color en el II Desfile de Conviteros."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Operativos dejan capturas por secuestro, extorsión y estafa, además del decomiso de droga",
+      "link": "https://www.prensalibre.com/guatemala/justicia/operativos-dejan-capturas-por-secuestro-extorsion-y-estafa-ademas-del-decomiso-de-droga-breaking/",
+      "fecha": "Sun, 27 Sep 2026 16:10:46 +0000",
+      "categoria": "Justicia",
+      "resumen": "Autoridades reportan capturas por distintos delitos en cinco departamentos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Aisha Solórzano marcó un hat-trick ante Tijuana y se convierte en la figura de las Bravas",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/video-aisha-solorzano-marco-un-hat-trick-ante-tijuana-y-se-convierte-en-la-figura-de-las-bravas-breaking/",
+      "fecha": "Sun, 27 Sep 2026 16:07:24 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La delantera guatemalteca anotó tres goles en la goleada 5-1 de Juárez sobre Tijuana en la jornada 9 del Apertura 2026 de la Liga MX Femenil llegando a siete goles en el torneo y cinco en sus últimos dos partidos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Por qué 130 años después sigue la obsesión con el asesinato de los padres de Lizzie Borden, uno de los mayores misterios sin resolver en EE.UU.",
@@ -9,6 +49,14 @@
       "fecha": "Sun, 27 Sep 2026 15:40:32 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "En junio de 1892, Lizzie Borden fue enjuiciada y exculpada del asesinato de su padre y madrastra. El caso se convirtió en uno de los misterios más infames en la historia de EE.UU. y tema de novelas, películas y un nuevo drama de Netflix."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Empate amargo para María Micheo: igualó ante Mai Soliman tras una cerrada pelea en California",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/empate-amargo-para-maria-micheo-igualo-ante-mai-soliman-tras-una-cerrada-pelea-en-california-breaking/",
+      "fecha": "Sun, 27 Sep 2026 15:27:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La guatemalteca protagonizó diez asaltos muy disputados ante la australiana Mai Soliman pero el empate dividido de los jueces le negó la victoria que necesitaba para acercarse al título mundial supermosca del CMB."
     },
     {
       "fuente": "Prensa Libre",
@@ -745,54 +793,6 @@
       "fecha": "Fri, 25 Sep 2026 23:31:42 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Kenderson Navarro, Jorge Aparicio y la dupla Darwin Lom-Rubio Rubín son las principales novedades del once elegido para enfrentar a Jamaica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Melissa Lucio: por qué Texas mantiene la condena a muerte de la mujer acusada de matar a su hija",
-      "link": "https://www.prensalibre.com/internacional/melissa-lucio-por-que-texas-mantiene-la-condena-a-muerte-de-la-mujer-acusada-de-matar-a-su-hija/",
-      "fecha": "Fri, 25 Sep 2026 23:31:02 +0000",
-      "categoria": "Internacional",
-      "resumen": "Texas mantiene la condena a muerte de Melissa Lucio pese a nuevas pruebas que respaldan su versión sobre la muerte accidental de su hija."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Perderá si decide meter la mano”: El mensaje de Lula a Trump por las elecciones en Brasil",
-      "link": "https://www.prensalibre.com/internacional/perdera-si-decide-meter-la-mano-el-mensaje-de-lula-a-trump-por-las-elecciones-en-brasil/",
-      "fecha": "Fri, 25 Sep 2026 23:30:47 +0000",
-      "categoria": "Internacional",
-      "resumen": "Lula advirtió a Trump que perderá si interviene en las elecciones de Brasil, previstas para el 4 de octubre y en las que busca la reelección."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo avanzan las investigaciones por la muerte de un niño de 6 años atropellado por su padre en un Tesla Cybertruck",
-      "link": "https://www.prensalibre.com/internacional/como-avanzan-las-investigaciones-por-la-muerte-de-un-nino-de-6-anos-atropellado-por-su-padre-en-un-tesla-cybertruck/",
-      "fecha": "Fri, 25 Sep 2026 23:29:55 +0000",
-      "categoria": "Internacional",
-      "resumen": "La investigación continúa para esclarecer cómo un niño de 6 años murió atropellado por su padre cuando maniobraba un Tesla Cybertruck en California."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Grupo de diputados busca adelantar elección de contralor y llevarla al pleno el 29 de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/politica/grupo-de-diputados-busca-adelantar-eleccion-de-contralor-y-llevarla-al-pleno-el-29-de-septiembre/",
-      "fecha": "Fri, 25 Sep 2026 23:03:01 +0000",
-      "categoria": "Política",
-      "resumen": "Fuentes cercanas al Congreso aseguran que un grupo de diputados busca adelantar para el 29 de septiembre la elección del nuevo contralor general de Cuentas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Avengers: Doomsday”: anuncian la preventa en Guatemala de la película que reunirá a los héroes de Marvel y los X-Men",
-      "link": "https://www.prensalibre.com/vida/escenario/avengers-doomsday-anuncian-la-preventa-en-guatemala-de-la-pelicula-que-reunira-a-los-heroes-de-marvel-y-los-x-men/",
-      "fecha": "Fri, 25 Sep 2026 23:00:28 +0000",
-      "categoria": "Escenario",
-      "resumen": "Una de las películas más ambiciosas del UCM traerá a Robert Downey Jr. como Doctor Doom y a héroes de distintas producciones de Marvel y los X-Men. La cinta ya cuenta con preventa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Taylor Swift lanza &#8220;The Encore&#8221; y sus nuevas canciones generan rumores sobre sus ex: esto dicen",
-      "link": "https://www.prensalibre.com/vida/escenario/taylor-swift-lanza-the-encore-y-sus-nuevas-canciones-generan-rumores-sobre-sus-ex-esto-dicen/",
-      "fecha": "Fri, 25 Sep 2026 22:48:43 +0000",
-      "categoria": "Escenario",
-      "resumen": "Con cuatro canciones inéditas que completan su disco, Taylor Swift vuelve a poner bajo la lupa sus antiguas relaciones por las posibles referencias que aparecen en las letras."
     },
     {
       "fuente": "Guatemala.com",
