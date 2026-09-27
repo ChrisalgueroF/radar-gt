@@ -1,7 +1,71 @@
 {
-  "actualizado": "2026-09-27T05:14:06.277Z",
+  "actualizado": "2026-09-27T06:19:28.397Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mantenidos",
+      "link": "https://www.prensalibre.com/opinion/caricatura/mantenidos/",
+      "fecha": "Sun, 27 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tesoro agotable",
+      "link": "https://www.prensalibre.com/opinion/editorial/tesoro-agotable/",
+      "fecha": "Sun, 27 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Existen modelos virtuosos de cuidado comunitario en el país que deberían dar pie a políticas públicas integradas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un poco de optimismo, por favor",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/un-poco-de-optimismo-por-favor/",
+      "fecha": "Sun, 27 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "¿Realmente tenemos buenas opciones para las elecciones del 2027? ¿Qué tendría que cambiar en el sistema para producir mejores resultados?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La inteligencia artificial exige criterio humano",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-inteligencia-artificial-exige-criterio-humano/",
+      "fecha": "Sun, 27 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La IA se debe aprender a utilizar con rigor, nunca permitir que sustituya responsabilidad del juicio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Conamigua, otra vez",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/conamigua-otra-vez/",
+      "fecha": "Sun, 27 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Su existencia por casi 20 años es el cuento de una tragedia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La caja negra de la ONU",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-caja-negra-de-la-onu/",
+      "fecha": "Sun, 27 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La ONU o se reforma o se mantiene inservible; la pregunta es cómo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy domingo 27 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-domingo-27-de-septiembre-de-2026/",
+      "fecha": "Sun, 27 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué un nuevo pacto fronterizo entre Pakistán y China enfurece a India",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-un-nuevo-pacto-fronterizo-entre-pakistan-y-china-enfurece-a-india/",
+      "fecha": "Sun, 27 Sep 2026 05:19:47 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Un acuerdo de fronteras entre China y Pakistán desafía las reivindicaciones territoriales de India y profundiza las preocupaciones estratégicas sobre la disputada región de Cachemira."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La sequía terminó: Comunicaciones remontó 3-2 a Xelajú y volvió a ganar en el Apertura 2026",
@@ -737,70 +801,6 @@
       "fecha": "Fri, 25 Sep 2026 19:59:34 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Una nueva película revisa uno de los programas de la televisión estadounidense más polémicos de los años 2000."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miguel Martínez: MP confirma investigaciones contra exfuncionario y señala posible fuga de información en cateos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/miguel-martinez-mp-confirma-investigaciones-contra-exfuncionario-y-senala-fuga-de-informacion-en-cateos/",
-      "fecha": "Fri, 25 Sep 2026 19:44:04 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El fiscal general confirmó que existen “un sinnúmero de denuncias” contra el exjefe del Centro de Gobierno Miguel Martínez y que las pesquisas alcanzan a familiares y personas de su círculo cercano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Seis personas quedan ligadas a proceso por manipulación no autorizada de la red eléctrica",
-      "link": "https://www.prensalibre.com/guatemala/justicia/seis-personas-quedan-ligadas-a-proceso-por-manipulacion-no-autorizada-de-la-red-electrica/",
-      "fecha": "Fri, 25 Sep 2026 19:42:04 +0000",
-      "categoria": "Justicia",
-      "resumen": "Seis personas quedaron ligadas a proceso por hechos relacionados con la manipulación no autorizada de la red eléctrica en Retalhuleu y Huehuetenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuántas selecciones participarán en la Copa Oro del 2027? La ruta de clasificación de la Concacaf",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cuantas-selecciones-participaran-en-la-copa-oro-del-2027-la-ruta-de-clasificacion-de-la-concacaf/",
-      "fecha": "Fri, 25 Sep 2026 19:27:55 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Las naciones que participarán en la Copa Oro del 2027 competirán por coronarse como la mejor selección nacional masculina de la Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvia, cierre vial y accidentes complican el tránsito en la capital y Mixco este viernes",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/lluvia-cierre-vial-y-accidentes-complican-el-transito-en-la-capital-y-mixco-este-viernes-breaking/",
-      "fecha": "Fri, 25 Sep 2026 19:16:13 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Autoridades de tránsito alertan sobre complicaciones en el tráfico en varios sectores de la capital y Mixco debido a accidentes, lluvias e incidentes armados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Italia prohíbe el burka y el niqab en las escuelas y limita el número de niños que no hablen italiano en las aulas",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/italia-prohibe-el-burka-y-el-niqab-en-las-escuelas-y-limita-el-numero-de-ninos-que-no-hablen-italiano-en-las-aulas/",
-      "fecha": "Fri, 25 Sep 2026 18:23:00 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La primera ministra de Italia, Giorgia Meloni, describió las medidas como \"instrumentos de sentido común que no dividen, sino que realmente ayudan a integrar\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De un hospital a una persecución policial: hombre roba un auto y termina detenido en Miami, Florida",
-      "link": "https://www.prensalibre.com/internacional/de-un-hospital-a-una-persecucion-policial-hombre-roba-un-auto-y-termina-detenido-en-miami-florida/",
-      "fecha": "Fri, 25 Sep 2026 17:55:07 +0000",
-      "categoria": "Internacional",
-      "resumen": "Jordan Brown había sido trasladado a un centro médico bajo una orden de la Ley Baker, un mecanismo que permite una evaluación involuntaria de salud mental."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemalteco desaparecido en el frente ruso fue cabo del Ejército y pidió su baja en el 2010",
-      "link": "https://www.prensalibre.com/internacional/guatemalteco-desaparecido-en-el-frente-ruso-fue-cabo-del-ejercito-y-pidio-su-baja-en-el-2010-breaking/",
-      "fecha": "Fri, 25 Sep 2026 17:22:03 +0000",
-      "categoria": "Internacional",
-      "resumen": "Carlos Alfredo González estuvo de alta en la 4.ª Brigada de Infantería con sede en Cuyotenango, Suchitepéquez, entre diciembre del 2008 y enero del 2010. Su esposa lo reporta desaparecido desde el 8 de septiembre del 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De Latinoamérica a las trincheras de Ucrania: denuncian reclutamientos de Rusia con engaños",
-      "link": "https://www.prensalibre.com/internacional/de-latinoamerica-a-las-trincheras-de-ucrania-denuncian-reclutamientos-de-rusia-con-enganos/",
-      "fecha": "Fri, 25 Sep 2026 16:37:21 +0000",
-      "categoria": "Internacional",
-      "resumen": "Latinoamérica se ha convertido en uno de los principales escenarios de captación engañosa de ciudadanos para combatir en la guerra entre Rusia y Ucrania."
     },
     {
       "fuente": "Guatemala.com",
