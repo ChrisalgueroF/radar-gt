@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-27T15:14:17.157Z",
+  "actualizado": "2026-09-27T16:15:00.987Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué 130 años después sigue la obsesión con el asesinato de los padres de Lizzie Borden, uno de los mayores misterios sin resolver en EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-130-anos-despues-sigue-la-obsesion-con-el-asesinato-de-los-padres-de-lizzie-borden-uno-de-los-mayores-misterios-sin-resolver-en-ee-uu/",
+      "fecha": "Sun, 27 Sep 2026 15:40:32 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En junio de 1892, Lizzie Borden fue enjuiciada y exculpada del asesinato de su padre y madrastra. El caso se convirtió en uno de los misterios más infames en la historia de EE.UU. y tema de novelas, películas y un nuevo drama de Netflix."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Jóvenes son los que más expresan impacto negativo del tráfico",
@@ -785,14 +793,6 @@
       "fecha": "Fri, 25 Sep 2026 22:48:43 +0000",
       "categoria": "Escenario",
       "resumen": "Con cuatro canciones inéditas que completan su disco, Taylor Swift vuelve a poner bajo la lupa sus antiguas relaciones por las posibles referencias que aparecen en las letras."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presentan la nueva joya de la Corona",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/presentan-la-nueva-joya-de-la-corona/",
-      "fecha": "Fri, 25 Sep 2026 22:40:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Corona amplía su portafolio premium en Guatemala con el lanzamiento de Corona Latón 16 oz, la nueva presentación que ya se encuentra disponible en supermercados y tiendas de conveniencia de todo el país; dándole a los consumidores una alternativa práctica y versátil para distintas ocasiones de consumo."
     },
     {
       "fuente": "Guatemala.com",
