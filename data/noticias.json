@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-27T11:14:01.146Z",
+  "actualizado": "2026-09-27T12:18:26.310Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala retrocede en el Índice de Desarrollo de Turismo y Viajes por retos en infraestructura",
+      "link": "https://www.prensalibre.com/economia/guatemala-retrocede-en-el-indice-de-desarrollo-de-turismo-y-viajes-por-retos-en-infraestructura/",
+      "fecha": "Sun, 27 Sep 2026 12:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Guatemala  ocupa la casilla 94 de 110 economías evaluadas según las condiciones necesarias para ser calificado como un destino muy atractivo para el turismo internacional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cristo de la Calle: el proyecto que busca crear un albergue para personas sin hogar en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/cristo-de-la-calle-el-proyecto-que-busca-crear-un-albergue-para-personas-sin-hogar-en-guatemala/",
+      "fecha": "Sun, 27 Sep 2026 12:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Desde hace nueve años, un grupo de voluntarios sale cada 15 días a las calles de la zona 1 para llevar comida, escuchar historias y construir una nueva forma de ayudar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué Japón tiene tan pocos cestos de basura y aun así mantiene sus calles limpias",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-japon-tiene-tan-pocos-cestos-de-basura-y-aun-asi-mantiene-sus-calles-limpias/",
+      "fecha": "Sun, 27 Sep 2026 11:45:32 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La escasez de papeleras en Japón responde a una combinación de factores que van desde un atentado mortal en 1995 hasta arraigadas normas de convivencia."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Mantenidos",
@@ -777,30 +801,6 @@
       "fecha": "Fri, 25 Sep 2026 21:15:25 +0000",
       "categoria": "Comunitario",
       "resumen": "Las lluvias y distintos incidentes viales complican la movilidad este viernes 25 de septiembre en la capital y municipios cercanos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Yo corro para que vuelen”: cuándo y dónde será la carrera 5K a beneficio de niños huérfanos",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/yo-corro-para-que-vuelen-cuando-y-donde-sera-la-carrera-5k-a-beneficio-de-ninos-huerfanos/",
-      "fecha": "Fri, 25 Sep 2026 21:11:19 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "El Hogar Casa Bernabé celebrará su carrera familiar 5K, que busca recaudar fondos para los programas de atención integral dirigidos a los niños que acoge."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Netflix anuncia nueva película de Plaza Sésamo y amplía sus proyectos infantiles",
-      "link": "https://www.prensalibre.com/vida/escenario/netflix-anuncia-nueva-pelicula-de-plaza-sesamo-y-amplia-sus-proyectos-infantiles/",
-      "fecha": "Fri, 25 Sep 2026 20:47:33 +0000",
-      "categoria": "Escenario",
-      "resumen": "Elmo tendrá una nueva aventura junto a sus amigos, según lo anunciado por Netflix, que desarrolla una nueva película de Plaza Sésamo. La plataforma también dio a conocer otras producciones infantiles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Atrapar a un depredador&#8221;: el controvertido programa que exponía a pedófilos y que fascinó a la TV de EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/atrapar-a-un-depredador-el-controvertido-programa-que-exponia-a-pedofilos-y-que-fascino-a-la-tv-de-ee-uu/",
-      "fecha": "Fri, 25 Sep 2026 19:59:34 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Una nueva película revisa uno de los programas de la televisión estadounidense más polémicos de los años 2000."
     },
     {
       "fuente": "Guatemala.com",
