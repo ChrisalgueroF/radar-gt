@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-27T22:14:02.238Z",
+  "actualizado": "2026-09-27T23:13:49.084Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hallan dos narcolaboratorios, armas y presunta marihuana en Sacatepéquez",
+      "link": "https://www.prensalibre.com/guatemala/justicia/hallan-dos-narcolaboratorios-armas-y-presunta-marihuana-en-sacatepequez-breaking/",
+      "fecha": "Sun, 27 Sep 2026 22:40:07 +0000",
+      "categoria": "Justicia",
+      "resumen": "Allanamientos en tres municipios de Sacatepéquez llevaron al hallazgo de dos presuntos narcolaboratorios, pequeñas plantaciones de presunta marihuana, armas y sustancias bajo análisis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué algunos alimentos nos parecen deliciosos y otros repugnantes",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/por-que-algunos-alimentos-nos-parecen-deliciosos-y-otros-repugnantes/",
+      "fecha": "Sun, 27 Sep 2026 22:30:25 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El asco por la comida no depende solo del sabor: la cultura también influye, por eso en algunos países es común comer  insectos, pero para otros causa rechazo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hombre muere baleado en un autohotel de Petén donde la PNC capturó a una mujer y halló drogas",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/hombre-muere-baleado-en-un-autohotel-de-peten-donde-la-pnc-capturo-a-una-mujer-y-hallo-drogas/",
+      "fecha": "Sun, 27 Sep 2026 22:21:09 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos hombres con pasamontañas asesinaron a balazos a un hombre en un autohotel de Las Cruces, Petén."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Nadie es indispensable”: Luis Fernando Tena anticipa posibles cambios ante El Salvador",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/nadie-es-indispensable-luis-fernando-tena-anticipa-posibles-cambios-ante-el-salvador-breaking/",
+      "fecha": "Sun, 27 Sep 2026 22:15:30 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El técnico de la Selección de Guatemala, Luis Fernando Tena, habló sobre los posibles cambios para enfrentar el próximo lunes a El Salvador y no descartó variantes en la portería y el ataque."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Tom Cruise e Iñárritu presentan Digger en México: así es la sátira sobre poder y petróleo",
@@ -492,11 +524,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Museos, teatro y zoológico: 6 lugares para celebrar el Día del Niño en Guatemala",
+      "titulo": "Museos, teatro y zoológico: 5 lugares para celebrar el Día del Niño en Guatemala",
       "link": "https://www.prensalibre.com/vida/escenario/museos-teatro-y-zoologico-6-lugares-para-celebrar-el-dia-del-nino-en-guatemala/",
       "fecha": "Sat, 26 Sep 2026 18:49:52 +0000",
       "categoria": "Escenario",
-      "resumen": "Le presentamos seis opciones de actividades en diferentes fechas y lugares para celebrar a los más pequeños del hogar por el Día del Niño."
+      "resumen": "Le presentamos cinco opciones de actividades en diferentes fechas y lugares para celebrar a los más pequeños del hogar por el Día del Niño."
     },
     {
       "fuente": "Prensa Libre",
@@ -761,38 +793,6 @@
       "fecha": "Sat, 26 Sep 2026 04:04:12 +0000",
       "categoria": "Justicia",
       "resumen": "Una cámara de seguridad captó el momento en que un hombre agrede a una ascensorista en un edificio de la zona 1. El MP confirmó que el caso es investigado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Primera vacuna de ARNm contra la gripe para adultos mayores llega a Estados Unidos",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/primera-vacuna-de-arnm-contra-la-gripe-para-adultos-mayores-llega-a-estados-unidos/",
-      "fecha": "Sat, 26 Sep 2026 03:59:36 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Tras ser aprobada por la FDA, la vacuna mFlusiva se convierte en una nueva alternativa de inmunización contra la gripe para los adultos mayores en Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué se sabe de Noah Woods, el niño que desapareció mientras jugaba en un parque de Inglaterra y fue hallado muerto en un lago",
-      "link": "https://www.prensalibre.com/internacional/que-se-sabe-de-noah-woods-el-nino-que-desaparecio-mientras-jugaba-en-un-parque-de-inglaterra-y-fue-hallado-muerto-en-un-lago/",
-      "fecha": "Sat, 26 Sep 2026 02:55:12 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las autoridades encontraron el cuerpo de Noah Woods, de tres años, en las profundidades de un lago, tras haber desaparecido en un parque de juegos cercano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala pide ante la ONU el cese de las guerras y una mujer latinoamericana al frente del organismo",
-      "link": "https://www.prensalibre.com/guatemala/politica/guatemala-pide-ante-la-onu-el-cese-de-las-guerras-y-una-mujer-latinoamericana-al-frente-del-organismo/",
-      "fecha": "Sat, 26 Sep 2026 02:37:42 +0000",
-      "categoria": "Política",
-      "resumen": "Guatemala llamó ante la ONU a poner fin a los conflictos armados y respaldó que una mujer latinoamericana ocupe la Secretaría General."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video: cuatro hombres aparentan ser clientes antes de asaltar un punto de servicio bancario en Mazatenango",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/video-cuatro-hombres-aparentan-ser-clientes-antes-de-asaltar-un-punto-de-servicio-bancario-en-mazatenango/",
-      "fecha": "Sat, 26 Sep 2026 02:29:09 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Cuatro hombres llegaron en dos motocicletas y asaltaron un punto de servicio bancario en la comunidad La Vega, Mazatenango, Suchitepéquez; cámaras de vigilancia registraron cómo observaron el negocio antes de ingresar."
     },
     {
       "fuente": "Guatemala.com",
