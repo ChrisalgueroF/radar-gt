@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-27T18:16:54.545Z",
+  "actualizado": "2026-09-27T19:12:49.799Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Cobán Imperial vs. Aurora FC: siga el minuto a minuto de la jornada 11 del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-coban-imperial-vs-aurora-fc-siga-el-minuto-a-minuto-de-la-jornada-11-del-apertura-2026-breaking/",
+      "fecha": "Sun, 27 Sep 2026 18:15:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los príncipes azules reciben a los aurinegros este domingo a la 1:00 PM en el estadio José Ángel Rossi en un partido donde Cobán buscará sumar tres puntos vitales de local."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos pandas llegan a Atlanta tras la cumbre de Trump y Xi Jinping: quiénes son Ping Ping y Fu Shuang",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/dos-pandas-llegan-a-atlanta-tras-la-cumbre-de-trump-y-xi-jinping-quienes-son-ping-ping-y-fu-shuang/",
+      "fecha": "Sun, 27 Sep 2026 18:08:57 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Los pandas gigantes Ping Ping y Fu Shuang ya están en Atlanta, días después de que Xi Jinping anunciara su llegada durante su visita a Washington y su reunión con Donald Trump."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "“Guatemala en letras”: un encuentro de escritores que retrata al país",
@@ -9,6 +25,14 @@
       "fecha": "Sun, 27 Sep 2026 18:00:00 +0000",
       "categoria": "Escenario",
       "resumen": "Las voces de seis autores se fusionaron en la tercera edición de la reunión anual que organiza Sophos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así llega El Salvador ante Guatemala: Brayan Gil y Nathan Ordaz entre las figuras de la Selecta",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/asi-llega-el-salvador-ante-guatemala-brayan-gil-y-nathan-ordaz-entre-las-figuras-de-la-selecta-breaking/",
+      "fecha": "Sun, 27 Sep 2026 17:48:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Este lunes 28 de septiembre El Salvador enfrentará a Guatemala como líder del grupo B con un bloque de jugadores en buen momento de forma que pondrán a prueba a la Bicolor en la segunda jornada de la Liga de Naciones."
     },
     {
       "fuente": "Prensa Libre",
@@ -769,30 +793,6 @@
       "fecha": "Sat, 26 Sep 2026 01:16:55 +0000",
       "categoria": "Internacional",
       "resumen": "El huracán Nolo se intensificó rápidamente mientras se acerca a Hawái. Conozca qué impulsa su fuerza y cuáles podrían ser sus principales efectos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fiscal general confirma investigaciones contra Consuelo Porras y un caso con fiscal especial",
-      "link": "https://www.prensalibre.com/guatemala/fiscal-general-confirma-investigaciones-contra-consuelo-porras-y-un-caso-con-fiscal-especial/",
-      "fecha": "Sat, 26 Sep 2026 00:51:18 +0000",
-      "categoria": "Guatemala",
-      "resumen": "García Luna indicó que siguen vigentes varias denuncias contra la exfiscal general, entre ellas una investigación por posibles adopciones irregulares."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gobernación cuestiona liberación de capturados por asaltos en motocicleta y pide a jueces valorar trabajo de la PNC",
-      "link": "https://www.prensalibre.com/guatemala/justicia/gobernacion-cuestiona-liberacion-de-capturados-por-asaltos-en-motocicleta-y-pide-a-jueces-valorar-trabajo-de-la-pnc-breaking/",
-      "fecha": "Sat, 26 Sep 2026 00:48:46 +0000",
-      "categoria": "Justicia",
-      "resumen": "Gobernación cuestionó que 15 de 29 capturados por la PNC en operativos contra asaltos cometidos desde motocicletas hayan recuperado su libertad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué es el kratom, la &#8220;heroína de las gasolineras&#8221; que causa alarma entre las autoridades en EE.UU.?",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-es-el-kratom-la-heroina-de-las-gasolineras-que-causa-alarma-entre-las-autoridades-en-ee-uu/",
-      "fecha": "Sat, 26 Sep 2026 00:20:28 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Hallado durante una investigación sobre la muerte de dos estudiantes universitarios, esta hierba se vende en Estados Unidos desde hace aproximadamente una década."
     },
     {
       "fuente": "Guatemala.com",
