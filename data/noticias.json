@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-27T12:18:26.310Z",
+  "actualizado": "2026-09-27T13:14:02.797Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La Casa de los Secretos, la lujosa mansión donde Reino Unido espiaba a los generales nazis y que cambió el curso de la II Guerra Mundial",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-casa-de-los-secretos-la-lujosa-mansion-donde-reino-unido-espiaba-a-los-generales-nazis-y-que-cambio-el-curso-de-la-ii-guerra-mundial/",
+      "fecha": "Sun, 27 Sep 2026 12:32:41 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Mientras los prisioneros de guerra nazis de alto rango se relajaban y charlaban en las elegantes habitaciones de Trent Park, en el sótano los escuchaban en secreto."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Guatemala retrocede en el Índice de Desarrollo de Turismo y Viajes por retos en infraestructura",
@@ -793,14 +801,6 @@
       "fecha": "Fri, 25 Sep 2026 21:18:37 +0000",
       "categoria": "Guatemala",
       "resumen": "La institución indaga posibles vínculos del narcotráfico con estructuras del Estado y una alianza de narcotraficantes con el Barrio 18."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO: Tránsito complicado en Guatemala este 25 de septiembre por lluvias, inundaciones, accidentes y ataques armados",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/en-vivo-transito-complicado-en-guatemala-este-25-de-septiembre-por-lluvias-inundaciones-accidentes-y-ataques-armados/",
-      "fecha": "Fri, 25 Sep 2026 21:15:25 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Las lluvias y distintos incidentes viales complican la movilidad este viernes 25 de septiembre en la capital y municipios cercanos."
     },
     {
       "fuente": "Guatemala.com",
