@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-27T17:13:35.504Z",
+  "actualizado": "2026-09-27T18:16:54.545Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Guatemala en letras”: un encuentro de escritores que retrata al país",
+      "link": "https://www.prensalibre.com/vida/escenario/guatemala-en-letras-un-encuentro-de-escritores-que-retrata-al-pais/",
+      "fecha": "Sun, 27 Sep 2026 18:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Las voces de seis autores se fusionaron en la tercera edición de la reunión anual que organiza Sophos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a sospechoso de abusar sexualmente de una mujer durante corte de energía eléctrica",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-sospechoso-de-abusar-sexualmente-de-una-mujer-durante-corte-de-energia-electrica-breaking/",
+      "fecha": "Sun, 27 Sep 2026 17:41:41 +0000",
+      "categoria": "Justicia",
+      "resumen": "En Concepción Huista, Huehuetenango, fue detenido un hombre señalado de abusar sexualmente de una mujer."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala vs. El Salvador: fecha, hora y todos los detalles del partido de Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-el-salvador-fecha-hora-y-todos-los-detalles-del-partido-de-liga-de-naciones-breaking/",
+      "fecha": "Sun, 27 Sep 2026 17:29:42 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Bicolor, que perdió en su debut ante Jamaica, necesita sumar ante El Salvador este lunes. La Selecta llega como líder del grupo B tras vencer a Martinica en la primera jornada de la Liga de Naciones de Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Canciller de Taiwán viaja a Guatemala con más de 30 empresarios y se reunirá con Bernardo Arévalo",
+      "link": "https://www.prensalibre.com/guatemala/politica/canciller-de-taiwan-viaja-a-guatemala-con-mas-de-30-empresarios-y-se-reunira-con-bernardo-arevalo/",
+      "fecha": "Sun, 27 Sep 2026 17:21:46 +0000",
+      "categoria": "Política",
+      "resumen": "Lin Chia-lung viaja acompañado de una delegación empresarial y se reunirá con el presidente Bernardo Arévalo. La visita ocurre mientras Taiwán conserva solo 12 aliados diplomáticos en el mundo, siete de ellos en América Latina y el Caribe."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Quién es el hombre más rico de África y por qué ahora quiere vender partes de su imperio",
@@ -761,38 +793,6 @@
       "fecha": "Sat, 26 Sep 2026 00:20:28 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Hallado durante una investigación sobre la muerte de dos estudiantes universitarios, esta hierba se vende en Estados Unidos desde hace aproximadamente una década."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quiénes son Los Choneros de Ecuador y qué vínculo tienen con el Cártel Jalisco Nueva Generación",
-      "link": "https://www.prensalibre.com/internacional/quienes-son-los-choneros-de-ecuador-y-que-vinculo-tienen-con-el-cartel-jalisco-nueva-generacion/",
-      "fecha": "Sat, 26 Sep 2026 00:19:22 +0000",
-      "categoria": "Internacional",
-      "resumen": "Autoridades de Ecuador reportaron la desarticulación de una red que tendría vínculos con el Cartel Jalisco Nueva Generación y reportaron al menos 30 capturas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Museo Rafael Álvarez Ovalle adapta al braille cédulas informativas y el Himno Nacional de Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/museo-rafael-alvarez-ovalle-adapta-al-braille-cedulas-informativas-y-el-himno-nacional-de-guatemala/",
-      "fecha": "Fri, 25 Sep 2026 23:56:18 +0000",
-      "categoria": "Escenario",
-      "resumen": "Ubicado en San Juan Comalapa, tierra natal de Rafael Álvarez Ovalle, el museo se convierte en el primero de Chimaltenango en incorporar recursos inclusivos para personas no videntes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Jamaica vs. Guatemala: la bicolor cae 3-2; el juego lo observó el presidente de la Fifa, Gianni Infantino",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-jamaica-vs-guatemala-comienza-el-nuevo-reto-de-tena-en-la-liga-de-naciones-breaking/",
-      "fecha": "Fri, 25 Sep 2026 23:34:27 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Bicolor debuta en Kingston en su primer torneo oficial bajo la segunda etapa de Luis Fernando Tena."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tena sorprende con la alineación de Guatemala para debutar ante Jamaica en la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/tena-sorprende-con-la-alineacion-de-guatemala-para-debutar-ante-jamaica-en-la-liga-de-naciones-breaking/",
-      "fecha": "Fri, 25 Sep 2026 23:31:42 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Kenderson Navarro, Jorge Aparicio y la dupla Darwin Lom-Rubio Rubín son las principales novedades del once elegido para enfrentar a Jamaica."
     },
     {
       "fuente": "Guatemala.com",
