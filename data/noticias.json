@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-28T04:16:54.091Z",
+  "actualizado": "2026-09-28T05:16:03.086Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo China está transformando una zona rural donde se cultivan papas en el centro de su competencia tecnológica con EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-china-esta-transformando-una-zona-rural-donde-se-cultivan-papas-en-el-centro-de-su-competencia-tecnologica-con-ee-uu/",
+      "fecha": "Mon, 28 Sep 2026 04:35:07 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La BBC visitó Mongolia Interior, uno de los escenarios más inesperados de la carrera entre Pekín y Washington por el liderazgo en inteligencia artificial."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Dos personas mueren durante balacera en Huité, Zacapa",
@@ -785,14 +793,6 @@
       "fecha": "Sat, 26 Sep 2026 06:12:00 +0000",
       "categoria": "Guatemala",
       "resumen": "Para el 202 año electoral, Ministerio de Desarrollo Social (Mides) pide Q5 mil 500 millones para el 2027 un 30.95% más del presupuesto para este año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PEG 6: Guatemala licitará 600 megavatios, qué tipo de energía busca contratar y cuándo comenzaría el suministro",
-      "link": "https://www.prensalibre.com/economia/guatemala-prepara-la-peg-6-que-tipo-de-energia-busca-contratar-y-cuando-comenzaria-el-suministro/",
-      "fecha": "Sat, 26 Sep 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La PEG 6 busca contratar 600 megavatios de energía para atender el crecimiento de la demanda eléctrica en Guatemala, con inversiones estimadas de hasta US$1 mil 400 millones."
     },
     {
       "fuente": "Guatemala.com",
