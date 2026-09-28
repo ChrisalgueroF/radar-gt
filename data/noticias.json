@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-09-28T20:14:43.020Z",
+  "actualizado": "2026-09-28T21:15:31.275Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Shakira transmitirá concierto en directo: cuándo, a qué hora y dónde verlo gratis",
+      "link": "https://www.prensalibre.com/vida/escenario/shakira-transmitira-concierto-en-directo-cuando-a-que-hora-y-donde-verlo-gratis/",
+      "fecha": "Mon, 28 Sep 2026 21:07:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante colombiana y Amazon Music anunciaron la transmisión gratuita de uno de los conciertos de su residencia en Madrid. Así podrá verlo en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Madelyn Ventura alcanza los 400 goles y hace historia con Xelajú MC",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/madelyn-ventura-alcanza-los-400-goles-y-hace-historia-con-xelaju-mc-breaking/",
+      "fecha": "Mon, 28 Sep 2026 20:49:06 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Desde sus primeros goles con Deportivo Xela hasta su paso por Europa, Ventura construyó una trayectoria que ahora alcanza los 400 tantos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tiroteo durante una fiesta de cumpleaños en Georgia: 12 jóvenes heridos tras enfrentamiento",
+      "link": "https://www.prensalibre.com/internacional/tiroteo-durante-una-fiesta-de-cumpleanos-en-georgia-12-jovenes-heridos-tras-enfrentamiento/",
+      "fecha": "Mon, 28 Sep 2026 20:32:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "Dos grupos de personas se dispararon entre sí durante una fiesta de cumpleaños, lo que dejó a doce adolescentes heridos de bala y reavivó el debate sobre el control de armas en EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Recorrido de Leyendas revive la tradición oral que perdura desde el traslado de la ciudad de Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/recorrido-de-leyendas-revive-la-tradicion-oral-que-perdura-desde-el-traslado-de-la-ciudad-de-guatemala/",
+      "fecha": "Mon, 28 Sep 2026 20:30:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La tradición oral que de generación en generación ha asustado a los guatemaltecos revivirá por dos noches más en el Cerrito del Carmen, durante los Recorridos de Leyendas. Conozca los detalles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fernando Batista es destituido de Costa Rica: qué resultados provocaron su salida y quién lo reemplaza",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/fernando-batista-es-destituido-de-costa-rica-que-resultados-provocaron-su-salida-y-quien-lo-reemplaza/",
+      "fecha": "Mon, 28 Sep 2026 20:19:02 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La Federación Costarricense de Futbol puso fin al ciclo de Fernando Batista tras una racha de malos resultados."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Día del Niño en el Zoológico La Aurora: descubrimientos, retos y diversión son parte de la agenda para los niños",
@@ -9,6 +49,14 @@
       "fecha": "Mon, 28 Sep 2026 20:00:00 +0000",
       "categoria": "Escenario",
       "resumen": "Con una invitación a explorar y aprender, el Zoológico La Aurora celebrará durante tres días el Día del Niño con actividades especiales para los más pequeños del hogar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jefes de bloques evitan compromisos de transparencia para la elección del jefe de la CGC",
+      "link": "https://www.prensalibre.com/guatemala/politica/jefes-de-bloques-evitan-compromisos-de-transparencia-para-la-eleccion-del-jefe-de-la-cgc/",
+      "fecha": "Mon, 28 Sep 2026 19:45:02 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Al menos uno de los seis candidatos para jefe de la Contraloría General de Cuentas es investigado por el Ministerio Público."
     },
     {
       "fuente": "Prensa Libre",
@@ -40,7 +88,7 @@
       "link": "https://www.guatemala.com/noticias/entretenimiento/arturo-castro-y-adria-arjona-comercial-atyt.html",
       "fecha": "Mon, 28 Sep 2026 18:46:14 +0000",
       "categoria": "Entretenimiento",
-      "resumen": "Arturo Castro y Adria Arjona compartieron pantalla en uno de los nuevos comerciales de AT&#38;T lanzados en septiembre de 2026, un encuentro que llama\nThe post Arturo Castro y Adria Arjona protagonizan comercial de AT&T appeared first on Guatemala.com."
+      "resumen": "Arturo Castro y Adria Arjona compartieron pantalla en un nuevo comercial de AT&#038;T que reúne a dos actores con una especial conexión con Guatemala.\nThe post Arturo Castro y Adria Arjona protagonizan comercial de AT&T appeared first on Guatemala.com."
     },
     {
       "fuente": "Prensa Libre",
@@ -761,54 +809,6 @@
       "fecha": "Sun, 27 Sep 2026 06:06:45 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El fin del conflicto entre Irán y Estados Unidos parece cada vez más lejano, después de que el presidente estadounidense calificara de \"inaceptable\" la última oferta presentada por Teherán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mantenidos",
-      "link": "https://www.prensalibre.com/opinion/caricatura/mantenidos/",
-      "fecha": "Sun, 27 Sep 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tesoro agotable",
-      "link": "https://www.prensalibre.com/opinion/editorial/tesoro-agotable/",
-      "fecha": "Sun, 27 Sep 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Existen modelos virtuosos de cuidado comunitario en el país que deberían dar pie a políticas públicas integradas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un poco de optimismo, por favor",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/un-poco-de-optimismo-por-favor/",
-      "fecha": "Sun, 27 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "¿Realmente tenemos buenas opciones para las elecciones del 2027? ¿Qué tendría que cambiar en el sistema para producir mejores resultados?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La inteligencia artificial exige criterio humano",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-inteligencia-artificial-exige-criterio-humano/",
-      "fecha": "Sun, 27 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La IA se debe aprender a utilizar con rigor, nunca permitir que sustituya responsabilidad del juicio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Conamigua, otra vez",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/conamigua-otra-vez/",
-      "fecha": "Sun, 27 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Su existencia por casi 20 años es el cuento de una tragedia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La caja negra de la ONU",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-caja-negra-de-la-onu/",
-      "fecha": "Sun, 27 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La ONU o se reforma o se mantiene inservible; la pregunta es cómo."
     },
     {
       "fuente": "Guatemala.com",
