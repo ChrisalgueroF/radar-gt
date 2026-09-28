@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-28T13:17:00.955Z",
+  "actualizado": "2026-09-28T14:17:47.408Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga de Naciones: ¿Quién ganará el duelo entre Guatemala y El Salvador, según la IA?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-de-naciones-quien-ganara-el-duelo-entre-guatemala-y-el-salvador-segun-la-ia/",
+      "fecha": "Mon, 28 Sep 2026 14:15:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Sin margen de error, Guatemala recibe a El Salvador con la obligación de ganar para seguir aspirando a la clasificación en la Liga de Naciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clima en Guatemala: altas temperaturas y posibles tormentas locales severas se esperan del 28 de septiembre al 2 de octubre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-altas-temperaturas-y-posibles-tormentas-locales-severas-se-esperan-del-28-de-septiembre-al-2-de-octubre-breaking/",
+      "fecha": "Mon, 28 Sep 2026 13:38:46 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La entrada de humedad, la inestabilidad en el Pacífico y el paso o acercamiento de ondas del este provocarán lluvias en Guatemala esta semana."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Capturan al “Carnicero”, señalado de abandonar cadáveres desmembrados en Villa Nueva",
@@ -777,22 +793,6 @@
       "fecha": "Sat, 26 Sep 2026 19:12:17 +0000",
       "categoria": "Sucesos",
       "resumen": "Menor con alerta Alba-Keneth es localizada sin vida en la zona 5 de Quetzaltenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Museos, teatro y zoológico: 5 lugares para celebrar el Día del Niño en Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/museos-teatro-y-zoologico-6-lugares-para-celebrar-el-dia-del-nino-en-guatemala/",
-      "fecha": "Sat, 26 Sep 2026 18:49:52 +0000",
-      "categoria": "Escenario",
-      "resumen": "Le presentamos cinco opciones de actividades en diferentes fechas y lugares para celebrar a los más pequeños del hogar por el Día del Niño."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Más de 400 vuelos cancelados, inundaciones y 95 mil hogares sin luz por tormenta nor’easter en Estados Unidos",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/mas-de-400-vuelos-cancelados-inundaciones-y-95-mil-hogares-sin-luz-por-tormenta-noreaster-en-estados-unidos/",
-      "fecha": "Sat, 26 Sep 2026 18:35:56 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Una fuerte tormenta costera golpea el noreste de Estados Unidos con inundaciones, apagones y más de 400 vuelos cancelados, mientras las autoridades mantienen alertas en varios estados."
     },
     {
       "fuente": "Guatemala.com",
