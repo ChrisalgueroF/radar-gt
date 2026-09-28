@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-27T23:13:49.084Z",
+  "actualizado": "2026-09-28T00:23:10.406Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las palabras que usan niños y adolescentes en internet y qué significan",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/las-palabras-que-usan-ninos-y-adolescentes-en-internet-y-que-significan/",
+      "fecha": "Sun, 27 Sep 2026 23:33:20 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Especialistas explican los términos y expresiones más utilizados por los más jóvenes en el ámbito digital, con el objeto de  reducir la brecha comunicacional en las familias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las imágenes de la acampada en la Puerta del Sol de Madrid para protestar por la crisis de vivienda",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-imagenes-de-la-acampada-en-la-puerta-del-sol-de-madrid-para-protestar-por-la-crisis-de-vivienda/",
+      "fecha": "Sun, 27 Sep 2026 23:23:56 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Cientos de personas pasaron la noche en la plaza tras una protesta motivada por el desahucio de Maricarmen, una mujer de 87 años a la que desalojaron de la vivienda que alquilaba en Madrid."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mixco aprovechó su condición de local y venció 3-1 a Antigua en la jornada 11 del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/mixco-aprovecho-su-condicion-de-local-y-vencio-3-1-a-antigua-en-la-jornada-11-del-apertura-2026-breaking/",
+      "fecha": "Sun, 27 Sep 2026 23:00:49 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los chicharroneros dominaron de principio a fin en el estadio Santo Domingo de Guzmán con goles de Christian Ojeda, Yonatan Pozuelos y José Bolaños para sumar tres puntos importantes sobre Antigua en el torneo Apertura."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Hallan dos narcolaboratorios, armas y presunta marihuana en Sacatepéquez",
@@ -41,6 +65,14 @@
       "fecha": "Sun, 27 Sep 2026 21:57:53 +0000",
       "categoria": "Escenario",
       "resumen": "Iñárritu celebra la acogida de su “urgente” cinta Digger en México junto a Tom Cruise."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Una piscina? Qué planes tiene Trump para sustituir la sala de prensa de la Casa Blanca",
+      "link": "https://www.prensalibre.com/internacional/trump-tiene-planes-para-sustituir-la-sala-de-prensa-de-la-casa-blanca-breaking/",
+      "fecha": "Sun, 27 Sep 2026 21:23:18 +0000",
+      "categoria": "Internacional",
+      "resumen": "En medio de la ofensiva contra periodistas de CNN y MS Now y el periódico Político, Donald Trump insinúa que hará cambios en la sala de prensa de la Casa Blanca."
     },
     {
       "fuente": "Prensa Libre",
@@ -761,38 +793,6 @@
       "fecha": "Sat, 26 Sep 2026 06:01:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Hoy, los dueños de la finca ya entendieron que en las elecciones de 2027 perderán la privilegiada posición que detentan desde 1954."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy sábado 26 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-26-de-septiembre-de-2026/",
-      "fecha": "Sat, 26 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Estamos dispuestos a soltar?",
-      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/estamos-dispuestos-a-soltar/",
-      "fecha": "Sat, 26 Sep 2026 06:00:00 +0000",
-      "categoria": "Plumas invitadas",
-      "resumen": "Las oportunidades están por todos lados, pero no se materializan por sí solas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Me enteré de que lo mataron por las redes sociales&#8221;: el doble castigo que sufren los condenados en Arabia Saudita, uno de los países que ejecuta más personas en el mundo",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/me-entere-de-que-lo-mataron-por-las-redes-sociales-el-doble-castigo-que-sufren-los-condenados-en-arabia-saudita-uno-de-los-paises-que-ejecuta-mas-personas-en-el-mundo/",
-      "fecha": "Sat, 26 Sep 2026 04:57:09 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Arabia Saudita se encuentra entre los tres países con mayor número de ejecuciones, que se aplican a extranjeros en más del 40% de los casos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video capta agresión contra ascensorista en edificio de zona 1 y MP abre investigación por lesiones leves",
-      "link": "https://www.prensalibre.com/guatemala/justicia/video-capta-agresion-contra-ascensorista-en-edificio-de-zona-1-y-mp-abre-investigacion-por-lesiones-leves-breaking/",
-      "fecha": "Sat, 26 Sep 2026 04:04:12 +0000",
-      "categoria": "Justicia",
-      "resumen": "Una cámara de seguridad captó el momento en que un hombre agrede a una ascensorista en un edificio de la zona 1. El MP confirmó que el caso es investigado."
     },
     {
       "fuente": "Guatemala.com",
