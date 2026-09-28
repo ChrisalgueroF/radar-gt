@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-28T00:23:10.406Z",
+  "actualizado": "2026-09-28T01:15:09.132Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los jugadores de Irlanda e Israel no se dan la mano en un encuentro cargado de tensión y polémica",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-jugadores-de-irlanda-e-israel-no-se-dan-la-mano-en-un-encuentro-cargado-de-tension-y-polemica/",
+      "fecha": "Mon, 28 Sep 2026 00:58:53 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los jugadores de la República de Irlanda e Israel no se dieron la mano ni antes ni después del polémico partido de la Liga de Naciones de la UEFA que se disputó el domingo en Hungría."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién debe poner límites a la IA? Gobiernos y gigantes tecnológicos buscan reglas comunes",
+      "link": "https://www.prensalibre.com/vida/tecnologia/quien-debe-poner-limites-a-la-ia-gobiernos-y-gigantes-tecnologicos-buscan-reglas-comunes/",
+      "fecha": "Mon, 28 Sep 2026 00:13:28 +0000",
+      "categoria": "Tecnología",
+      "resumen": "La regulación de la inteligencia artificial está cada vez más fragmentada en un mundo sin fronteras digitales: Europa, China y Estados Unidos toman rutas diferentes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Anuncian cierre en puente Santa Cruz, Zacapa, por trabajos de mantenimiento",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/cerraran-ambas-vias-del-puente-santa-cruz-en-zacapa-por-trabajos-breaking/",
+      "fecha": "Mon, 28 Sep 2026 00:03:57 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El puente Santa Cruz, en Zacapa, permanecerá cerrado durante dos horas debido a trabajos de mantenimiento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Huracán Polo deja dos niños muertos y tres desaparecidos en Jalisco y avanza hacia Baja California Sur",
+      "link": "https://www.prensalibre.com/internacional/huracan-polo-deja-dos-ninos-muertos-y-tres-desaparecidos-en-jalisco-y-avanza-hacia-baja-california-sur/",
+      "fecha": "Mon, 28 Sep 2026 00:03:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "Equipos de emergencia buscan a tres personas desaparecidas en Jalisco, donde el huracán Polo dejó dos niños muertos y causó derrumbes y deslaves."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Las palabras que usan niños y adolescentes en internet y qué significan",
@@ -39,7 +71,7 @@
       "titulo": "Por qué algunos alimentos nos parecen deliciosos y otros repugnantes",
       "link": "https://www.prensalibre.com/vida/salud-y-familia/por-que-algunos-alimentos-nos-parecen-deliciosos-y-otros-repugnantes/",
       "fecha": "Sun, 27 Sep 2026 22:30:25 +0000",
-      "categoria": "Guatemala",
+      "categoria": "Salud y Familia",
       "resumen": "El asco por la comida no depende solo del sabor: la cultura también influye, por eso en algunos países es común comer  insectos, pero para otros causa rechazo."
     },
     {
@@ -252,7 +284,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Insivumeh informa de la formación de la depresión tropical Dieciocho-E y explica cuál es su ubicación y trayectoria",
+      "titulo": "Depresión tropical Dieciocho-E: Insivumeh informa dónde se ubica y cuál es su trayectoria",
       "link": "https://www.prensalibre.com/guatemala/comunitario/insivumeh-informa-de-la-formacion-de-la-depresion-tropical-dieciocho-e-y-explica-cual-es-su-ubicacion-y-trayectoria/",
       "fecha": "Sun, 27 Sep 2026 14:30:43 +0000",
       "categoria": "Comunitario",
@@ -401,6 +433,14 @@
       "fecha": "Sun, 27 Sep 2026 02:03:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Marquense sufrió pero encontró el gol de la victoria con Linton al minuto 65 en un resultado que le favorece a los Leones en el cierre de la primera vuelta del Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los perros procesan el habla humana de forma similar a las personas: esto revela un estudio",
+      "link": "https://www.prensalibre.com/vida/ciencia/los-perros-procesan-el-habla-humana-de-forma-similar-a-las-personas-esto-revela-un-estudio/",
+      "fecha": "Sun, 27 Sep 2026 01:00:00 +0000",
+      "categoria": "Ciencia",
+      "resumen": "Un estudio revela que los perros usan las consonantes para identificar palabras en el habla humana, un mecanismo similar al de las personas."
     },
     {
       "fuente": "Prensa Libre",
@@ -753,46 +793,6 @@
       "fecha": "Sat, 26 Sep 2026 06:05:00 +0000",
       "categoria": "Editorial",
       "resumen": "El Ministerio Público tiene una gran responsabilidad: no debe convertir sospechas en condenas mediáticas ni investigaciones en persecución infundada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuál es el plan de Xi Jinping para convertir a China en la nueva potencia dominante del mundo y qué quiere de EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/cual-es-el-plan-de-xi-jinping-para-convertir-a-china-en-la-nueva-potencia-dominante-del-mundo-y-que-quiere-de-ee-uu/",
-      "fecha": "Sat, 26 Sep 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "China busca ampliar su influencia en el Sur Global y transformar el orden internacional mientras Xi Jinping enfrenta a Estados Unidos y Donald Trump."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El tiempo no alcanza si estamos produciendo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-tiempo-no-alcanza-si-estamos-produciendo/",
-      "fecha": "Sat, 26 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La relatividad del tiempo está directamente valorizada en lo que estamos produciendo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una actitud introspectiva para dar paso a la trascendencia",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/una-actitud-introspectiva-para-dar-paso-a-la-trascendencia/",
-      "fecha": "Sat, 26 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Vivimos en un activismo desenfrenado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El “Godzilla” climático ya viene. ¿Estamos preparados?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-godzilla-climatico-ya-viene-estamos-preparados/",
-      "fecha": "Sat, 26 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Es un evento extraordinariamente intenso sobre un planeta al que sin piedad hemos alterado por décadas de emisiones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los dueños de la finca la volvieron a hacer",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/los-duenos-de-la-finca-la-volvieron-a-hacer/",
-      "fecha": "Sat, 26 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Hoy, los dueños de la finca ya entendieron que en las elecciones de 2027 perderán la privilegiada posición que detentan desde 1954."
     },
     {
       "fuente": "Guatemala.com",
