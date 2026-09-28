@@ -1,7 +1,111 @@
 {
-  "actualizado": "2026-09-28T05:16:03.086Z",
+  "actualizado": "2026-09-28T06:22:27.309Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027: deuda para financiar el funcionamiento del Estado",
+      "link": "https://www.prensalibre.com/economia/presupuesto-2027-deuda-para-financiar-el-funcionamiento-del-estado/",
+      "fecha": "Mon, 28 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El presupuesto del 2027 abre el debate sobre el creciente uso de deuda para financiar el funcionamiento del Estado. Hugo Maul advierte que el reto está en convertir más recursos públicos en inversión y resultados concretos para la población."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturas inservibles",
+      "link": "https://www.prensalibre.com/opinion/caricatura/capturas-inservibles/",
+      "fecha": "Mon, 28 Sep 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entidades estatales deben priorizar austeridad",
+      "link": "https://www.prensalibre.com/opinion/editorial/entidades-estatales-deben-priorizar-austeridad/",
+      "fecha": "Mon, 28 Sep 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Un cargo público no es una minimonarquía, y debería entrañar más obligaciones que privilegios, pues todo magistrado, diputado o funcionario se ha postulado voluntariamente para servir, y no para servirse."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Esta guerra provoca adaptación y cambios",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/esta-guerra-provoca-adaptacion-y-cambios/",
+      "fecha": "Mon, 28 Sep 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Todos los países ya están afectados por la guerra USA-Oriente Medio y su población debe adaptarse a los urgentes cambios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Xi Jinping reconoce los riesgos de la IA mientras Donald Trump los minimiza",
+      "link": "https://www.prensalibre.com/internacional/xi-jinping-reconoce-los-riesgos-de-la-ia-mientras-donald-trump-los-minimiza/",
+      "fecha": "Mon, 28 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente chino, Xi Jinping, plantea mantener la inteligencia artificial bajo control humano y dialogar sobre sus riesgos, mientras Donald Trump se resiste a nuevas restricciones para la industria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Turismo necesita más inversión",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/turismo-necesita-mas-inversion/",
+      "fecha": "Mon, 28 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Más competitividad para mejorar los ingresos"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aceptar cargos no basta",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/aceptar-cargos-no-basta/",
+      "fecha": "Mon, 28 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Una de cada tres sentencias registradas por el MP en 2025 fue por aceptación de cargos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El imperativo de invertir",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-imperativo-de-invertir/",
+      "fecha": "Mon, 28 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Invertir más y mejor es indispensable para el bienestar y la gobernabilidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El honor de ser presidente",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-honor-de-ser-presidente/",
+      "fecha": "Mon, 28 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "No les ha interesado pasar a la historia como estadistas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Exención del IDP e IVA en combustibles: así se reflejará en las facturas de los consumidores",
+      "link": "https://www.prensalibre.com/economia/exencion-del-idp-e-iva-en-combustibles-asi-se-reflejara-en-las-facturas-de-los-consumidores/",
+      "fecha": "Mon, 28 Sep 2026 06:01:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El Congreso envió al Ejecutivo la ley que establece una exención temporal del Impuesto a la Distribución de Petróleo (IDP) y del Impuesto al Valor Agregado (IVA) aplicados a los combustibles, mientras la SAT ya definió la ruta que seguirá una vez entre en vigor la medida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Walter Mazariegos en la Usac: las maniobras cuestionadas que lo llevaron a la rectoría y afianzaron su control",
+      "link": "https://www.prensalibre.com/guatemala/politica/walter-mazariegos-en-la-usac-las-maniobras-cuestionadas-que-lo-llevaron-a-la-rectoria-y-afianzaron-su-control/",
+      "fecha": "Mon, 28 Sep 2026 06:01:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La captura de espacios y otras maniobras cuestionadas se suman a resoluciones judiciales que han favorecido la permanencia de Walter Mazariegos en la rectoría de la Usac."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy lunes 28 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-28-de-septiembre-de-2026/",
+      "fecha": "Mon, 28 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aeropuerto Los Altos proyecta operar como internacional en 2029",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/aeropuerto-los-altos-proyecta-operar-como-internacional-en-2029/",
+      "fecha": "Mon, 28 Sep 2026 06:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La DGAC proyecta que el Aeropuerto Los Altos complete su proceso de certificación en los primeros meses de ese año. Antes, prevé ejecutar obras de infraestructura en el 2027, entre ellas una nueva torre de control, un edificio para bomberos y la ampliación de la terminal aérea."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Cómo China está transformando una zona rural donde se cultivan papas en el centro de su competencia tecnológica con EE.UU.",
@@ -689,110 +793,6 @@
       "fecha": "Sat, 26 Sep 2026 17:55:00 +0000",
       "categoria": "Comunitario",
       "resumen": "En agosto, cerca del 95% del área analizada mostraba algún grado de condición seca. Septiembre saturó suelos y elevó ríos, pero el déficit acumulado de lluvia persiste."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Así marcha el grupo de Guatemala en la Liga de Naciones tras la primera jornada",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/asi-marcha-el-grupo-de-guatemala-en-la-liga-de-naciones-tras-la-primera-jornada-breaking/",
-      "fecha": "Sat, 26 Sep 2026 17:06:41 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El Salvador lidera el grupo B tras vencer a Martinica mientras Guatemala y Honduras arrancan con derrota y necesitan sumar en la segunda jornada para no complicar sus opciones de avanzar en la Liga de Naciones de Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿El Chapo y El Mayo pensaban retirarse del Cartel de Sinaloa? esto reveló Lucero Sánchez, la &#8220;Chapodiputada&#8221;",
-      "link": "https://www.prensalibre.com/internacional/el-chapo-y-el-mayo-pensaban-retirarse-del-cartel-de-sinaloa-esto-revelo-lucero-sanchez-la-chapodiputada/",
-      "fecha": "Sat, 26 Sep 2026 17:06:33 +0000",
-      "categoria": "Internacional",
-      "resumen": "“Ya estaban cansados y viejos”. Lucero Sánchez contó los planes de retiro que discutían El Chapo y El Mayo y reveló qué pensaba Guzmán sobre el futuro de sus hijos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Luna de la Cosecha: a qué hora verla este sábado y por qué se llama así",
-      "link": "https://www.prensalibre.com/vida/ciencia/luna-de-la-cosecha-a-que-hora-verla-este-sabado-y-por-que-se-llama-asi/",
-      "fecha": "Sat, 26 Sep 2026 17:00:37 +0000",
-      "categoria": "Ciencia",
-      "resumen": "La noche de este sábado, al ocultarse el Sol, se podrá apreciar la Luna de la Cosecha, conozca más detalles acerca de la hora exacta para verla y por qué se llama así."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Señales GPS permiten ubicar furgón con mercadería robado en la ruta al Pacífico y capturar a ocho personas",
-      "link": "https://www.prensalibre.com/guatemala/justicia/senales-gps-permiten-ubicar-furgon-con-mercaderia-robado-en-la-ruta-al-pacifico-y-capturar-a-ocho-personas-breaking/",
-      "fecha": "Sat, 26 Sep 2026 16:46:10 +0000",
-      "categoria": "Justicia",
-      "resumen": "Ocho hombres fueron capturados cuando descargaban mercadería de furgón robado en la ruta al Pacífico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Salvador salvó el honor: cuatro selecciones centroamericanas cayeron en el debut de la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/el-salvador-salvo-el-honor-cuatro-selecciones-centroamericanas-cayeron-en-el-debut-de-la-liga-de-naciones-breaking/",
-      "fecha": "Sat, 26 Sep 2026 16:05:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los salvadoreños vencieron 3-1 a Martinica mientras Guatemala, Nicaragua, Honduras y Costa Rica perdieron en sus respectivos partidos en lo que fue una primera jornada muy complicada para el fútbol centroamericano en la Liga de Naciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;No hemos tenido suerte como selección&#8221;: Óscar Santis tras la derrota de Guatemala ante Jamaica",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/no-hemos-tenido-suerte-como-seleccion-oscar-santis-tras-la-derrota-de-guatemala-ante-jamaica-breaking/",
-      "fecha": "Sat, 26 Sep 2026 15:28:54 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Óscar Santis anotó dos goles en Kingston pero Jamaica remontó en los minutos finales para vencer 3-2 en el debut oficial de la Bicolor en la Liga de Naciones de Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Operativo permite localizar arsenal en vehículo y la captura de dos personas en Villa Canales",
-      "link": "https://www.prensalibre.com/guatemala/justicia/operativo-permite-localizar-arsenal-en-vehiculo-y-la-captura-de-dos-personas-en-villa-canales-breaking/",
-      "fecha": "Sat, 26 Sep 2026 15:22:02 +0000",
-      "categoria": "Justicia",
-      "resumen": "Autoridades decomisan siete fusiles, dos pistolas y tolvas en operativo en Santa Elena Barillas, Villa Canales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bomberos relatan cómo atendieron el nacimiento de una bebé en una ambulancia camino al hospital",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/bomberos-relatan-como-atendieron-el-nacimiento-de-una-bebe-en-una-ambulancia-camino-al-hospital-breaking/",
-      "fecha": "Sat, 26 Sep 2026 14:18:28 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Bomberos detallaron cómo atendieron un parto en una ambulancia durante el trayecto entre el municipio de San Manuel Chaparrón y la ciudad de Jalapa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Señora Guatemala 2026 presenta a sus candidatas",
-      "link": "https://www.prensalibre.com/vida/escenario/senora-guatemala-2026-presenta-a-sus-candidatas/",
-      "fecha": "Sat, 26 Sep 2026 13:28:43 +0000",
-      "categoria": "Escenario",
-      "resumen": "La XIX edición del certamen cuenta con 16 participantes. Su gala final se celebrará el 21 de noviembre y será transmitida a través de Guatevisión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Colombiano es capturado en San Miguel Dueñas con fines de extradición a EE. UU. por narcotráfico",
-      "link": "https://www.prensalibre.com/guatemala/justicia/colombiano-es-capturado-en-san-miguel-duenas-con-fines-de-extradicion-a-ee-uu-por-narcotrafico-breaking/",
-      "fecha": "Sat, 26 Sep 2026 13:27:27 +0000",
-      "categoria": "Justicia",
-      "resumen": "Un hombre de nacionalidad colombiana fue capturado en San Miguel Dueñas, Sacatepéquez, con fines de extradición a Estados Unidos por supuestos delitos relacionados con el narcotráfico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La historia de 3.000 años escondida en el símbolo @ (y por qué está ligado a la cerámica)",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/la-historia-de-3-000-anos-escondida-en-el-simbolo-y-por-que-esta-ligado-a-la-ceramica/",
-      "fecha": "Sat, 26 Sep 2026 12:20:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En Taiwán, a la @ la llaman \"ratoncito\". En ruso es \"perro\", y en holandés \"cola de mono\". El símbolo @ es un espejo, y su historia se remonta a miles de años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Licitación PET 4: El MEM adiciona 13 obras al Plan de Expansión de Transmisión de electricidad",
-      "link": "https://www.prensalibre.com/economia/licitacion-pet-4-el-mem-adiciona-13-obras-al-plan-de-expansion-de-transmision-de-electricidad/",
-      "fecha": "Sat, 26 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El MEM incorporó 13 proyectos al Plan de Expansión de Transmisión de electricidad, mientras la Comisión Nacional de Energía Eléctrica deberá determinar qué obras se incluirán en la licitación PET 4."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mides pide Q1 mil 300 millones más para 2027: estos programas recibirían más recursos",
-      "link": "https://www.prensalibre.com/guatemala/politica/mides-pide-q1-mil-300-millones-mas-para-2027-estos-programas-recibirian-mas-recursos/",
-      "fecha": "Sat, 26 Sep 2026 06:12:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Para el 202 año electoral, Ministerio de Desarrollo Social (Mides) pide Q5 mil 500 millones para el 2027 un 30.95% más del presupuesto para este año."
     },
     {
       "fuente": "Guatemala.com",
