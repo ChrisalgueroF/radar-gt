@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-28T21:15:31.275Z",
+  "actualizado": "2026-09-28T22:15:20.012Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sequía y anomalías climáticas podrían afectar a más de 1.2 millones de familias en Guatemala, según el MAGA",
+      "link": "https://www.prensalibre.com/guatemala/sequia-y-anomalias-climaticas-podrian-afectar-a-mas-de-1-2-millones-de-familias-en-guatemala-segun-el-maga-breakig/",
+      "fecha": "Mon, 28 Sep 2026 21:49:45 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El MAGA advierte de daños agrícolas sin precedentes en los últimos 76 años y proyecta que más de 1.2 millones de familias podrían resultar afectadas por las anomalías climáticas"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fuerte lluvia causa inundaciones, caída de árboles y daños en la capital: tránsito se complica en varios sectores",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/fuerte-lluvia-causa-inundaciones-caida-de-arboles-y-danos-en-la-capital-transito-se-complica-en-varios-sectores-breaking/",
+      "fecha": "Mon, 28 Sep 2026 21:46:39 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Una tormenta acompañada de fuertes vientos y granizo provocó emergencias en distintos sectores de la ciudad de Guatemala, donde las autoridades reportan árboles caídos, calles inundadas, vehículos con fallas y bloqueos viales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Granizo sorprende a la capital durante fuerte tormenta e Insivumeh explica qué provocó el fenómeno",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/granizo-sorprende-a-la-capital-durante-fuerte-tormenta-e-insivumeh-explica-que-provoco-el-fenomeno-cuando-dejara-de-llover-breaking/",
+      "fecha": "Mon, 28 Sep 2026 21:27:03 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh explicó por qué cayó granizo este lunes 28 de septiembre en varios sectores de la capital, durante una fuerte tormenta acompañada de lluvia y viento."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Shakira transmitirá concierto en directo: cuándo, a qué hora y dónde verlo gratis",
@@ -9,6 +33,14 @@
       "fecha": "Mon, 28 Sep 2026 21:07:00 +0000",
       "categoria": "Escenario",
       "resumen": "La cantante colombiana y Amazon Music anunciaron la transmisión gratuita de uno de los conciertos de su residencia en Madrid. Así podrá verlo en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bomberos hallan dos cadáveres en bolsas en carretera antigua a Chinautla",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/bomberos-hallan-dos-cadaveres-en-bolsas-en-carretera-antigua-a-chinautla/",
+      "fecha": "Mon, 28 Sep 2026 21:04:39 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Bomberos Voluntarios localizaron dos cuerpos humanos en el km 4.5 de la carretera antigua a Chinautla."
     },
     {
       "fuente": "Prensa Libre",
@@ -56,7 +88,7 @@
       "link": "https://www.prensalibre.com/guatemala/politica/jefes-de-bloques-evitan-compromisos-de-transparencia-para-la-eleccion-del-jefe-de-la-cgc/",
       "fecha": "Mon, 28 Sep 2026 19:45:02 +0000",
       "categoria": "Guatemala",
-      "resumen": "Al menos uno de los seis candidatos para jefe de la Contraloría General de Cuentas es investigado por el Ministerio Público."
+      "resumen": "Uno de los seis candidatos para jefe de la Contraloría General de Cuentas es investigado por el Ministerio Público."
     },
     {
       "fuente": "Prensa Libre",
@@ -65,6 +97,14 @@
       "fecha": "Mon, 28 Sep 2026 19:32:05 +0000",
       "categoria": "Política",
       "resumen": "El TSE informó cómo será el proceso de simulacro del sistema de transmisión de resultados y se refirió a la reunión con representantes del Departamento de Estado de Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Tendrán que matarme&#8221;: surge nuevo video del ataque en Times Squares hecho por Pamela Cisneros",
+      "link": "https://www.prensalibre.com/internacional/tendran-que-matarme-surge-nuevo-video-del-ataque-en-times-squares-hecho-por-pamela-cisneros/",
+      "fecha": "Mon, 28 Sep 2026 19:09:22 +0000",
+      "categoria": "Internacional",
+      "resumen": "Se ha publicado un video, tomado por la cámara corporal de un policía, del ataque en Times Square protagonizada por una mujer llamada Pamela Cisneros."
     },
     {
       "fuente": "Prensa Libre",
@@ -769,46 +809,6 @@
       "fecha": "Sun, 27 Sep 2026 14:00:00 +0000",
       "categoria": "Comunitario",
       "resumen": "El tráfico hoy restringe qué hacemos, a qué hora salimos, a quién visitamos y hasta dónde vivimos. El vehículo ya dejó de ser un simple medio de transporte. Es comedor, es dormitorio y es oficina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La Casa de los Secretos, la lujosa mansión donde Reino Unido espiaba a los generales nazis y que cambió el curso de la II Guerra Mundial",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-casa-de-los-secretos-la-lujosa-mansion-donde-reino-unido-espiaba-a-los-generales-nazis-y-que-cambio-el-curso-de-la-ii-guerra-mundial/",
-      "fecha": "Sun, 27 Sep 2026 12:32:41 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Mientras los prisioneros de guerra nazis de alto rango se relajaban y charlaban en las elegantes habitaciones de Trent Park, en el sótano los escuchaban en secreto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala retrocede en el Índice de Desarrollo de Turismo y Viajes por retos en infraestructura",
-      "link": "https://www.prensalibre.com/economia/guatemala-retrocede-en-el-indice-de-desarrollo-de-turismo-y-viajes-por-retos-en-infraestructura/",
-      "fecha": "Sun, 27 Sep 2026 12:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Guatemala  ocupa la casilla 94 de 110 economías evaluadas según las condiciones necesarias para ser calificado como un destino muy atractivo para el turismo internacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cristo de la Calle: el proyecto que busca crear un albergue para personas sin hogar en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/cristo-de-la-calle-el-proyecto-que-busca-crear-un-albergue-para-personas-sin-hogar-en-guatemala/",
-      "fecha": "Sun, 27 Sep 2026 12:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Desde hace nueve años, un grupo de voluntarios sale cada 15 días a las calles de la zona 1 para llevar comida, escuchar historias y construir una nueva forma de ayudar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué Japón tiene tan pocos cestos de basura y aun así mantiene sus calles limpias",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-japon-tiene-tan-pocos-cestos-de-basura-y-aun-asi-mantiene-sus-calles-limpias/",
-      "fecha": "Sun, 27 Sep 2026 11:45:32 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La escasez de papeleras en Japón responde a una combinación de factores que van desde un atentado mortal en 1995 hasta arraigadas normas de convivencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump rechaza la oferta de Irán para reabrir el estrecho de Ormuz en 7 días",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-rechaza-la-oferta-de-iran-para-reabrir-el-estrecho-de-ormuz-en-7-dias/",
-      "fecha": "Sun, 27 Sep 2026 06:06:45 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El fin del conflicto entre Irán y Estados Unidos parece cada vez más lejano, después de que el presidente estadounidense calificara de \"inaceptable\" la última oferta presentada por Teherán."
     },
     {
       "fuente": "Guatemala.com",
