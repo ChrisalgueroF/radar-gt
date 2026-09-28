@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-28T16:18:22.364Z",
+  "actualizado": "2026-09-28T17:15:18.258Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Champ’s Academy: cómo el proyecto de futbolistas guatemaltecos alcanzó su primera victoria en Primera División",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/champs-academy-como-el-proyecto-de-futbolistas-guatemaltecos-alcanzo-su-primera-victoria-en-primera-division/",
+      "fecha": "Mon, 28 Sep 2026 16:39:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Champ’s Academy hace historia: el proyecto de jóvenes guatemaltecos que logró su primer triunfo en Primera División."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuándo es el Día del Niño en Guatemala y por qué se celebra?",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/cuando-es-el-dia-del-nino-en-guatemala-y-por-que-se-celebra/",
+      "fecha": "Mon, 28 Sep 2026 16:27:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Octubre comienza con una celebración dedicada a los niños, una fecha que busca visibilizar sus derechos, promover su bienestar y reforzar su protección."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Narcolaboratorio localizado en Sacatepéquez y capturas están vinculados con colombiano pedido en extradición",
+      "link": "https://www.prensalibre.com/guatemala/justicia/narcolaboratorio-localizado-en-sacatepequez-y-capturas-estan-vinculados-con-colombiano-pedido-en-extradicion-breaking/",
+      "fecha": "Mon, 28 Sep 2026 16:20:56 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC afirmó que el narcolaboratorio localizado durante los cateos en Sacatepéquez está relacionado con un colombiano capturado con fines de extradición."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "“De los mejores que han marcado la historia”: El FC Dallas homenajea a Carlos &#8216;El Pescadito’ Ruiz",
@@ -276,11 +300,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Anuncian cierre en puente Santa Cruz, Zacapa, por trabajos de mantenimiento",
+      "titulo": "Suspenden trabajos de mantenimiento en puente Santa Cruz, Zacapa",
       "link": "https://www.prensalibre.com/guatemala/comunitario/cerraran-ambas-vias-del-puente-santa-cruz-en-zacapa-por-trabajos-breaking/",
       "fecha": "Mon, 28 Sep 2026 00:03:57 +0000",
       "categoria": "Comunitario",
-      "resumen": "El puente Santa Cruz, en Zacapa, permanecerá cerrado durante dos horas debido a trabajos de mantenimiento."
+      "resumen": "El puente Santa Cruz, en Zacapa, permanecería cerrado durante dos horas por trabajos de mantenimiento; sin embargo, la medida fue suspendida."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,30 +801,6 @@
       "fecha": "Sat, 26 Sep 2026 23:06:00 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Los goles de Baena y Oyarzabal le dieron la vuelta al marcador para que España venciera 3-2 a Inglaterra en Wembley y superara el récord histórico de invicto de cualquier selección nacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump dice que Estados Unidos y Cuba “harán un acuerdo” y no ve necesaria una acción militar",
-      "link": "https://www.prensalibre.com/internacional/trump-dice-que-estados-unidos-y-cuba-haran-un-acuerdo-y-no-ve-necesaria-una-accion-militar/",
-      "fecha": "Sat, 26 Sep 2026 22:15:26 +0000",
-      "categoria": "Internacional",
-      "resumen": "Mientras aumenta la presión de Washington sobre Cuba, Trump afirmó que prevé un acuerdo con la isla y que no cree necesaria una intervención militar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan en Mixco a presunto pandillero vinculado a desmembramientos y abandono de cadáveres",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-en-mixco-a-presunto-pandillero-vinculado-a-desmembramientos-y-abandono-de-cadaveres-breaking/",
-      "fecha": "Sat, 26 Sep 2026 21:21:27 +0000",
-      "categoria": "Justicia",
-      "resumen": "Presunto pandillero con ocho ingresos a prisión es capturado en Mixco señalado del abandono de cadáveres, informó la PNC."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Huracán Polo categoría 4: cuál es su trayectoria por México y cómo llegarían sus lluvias a Estados Unidos",
-      "link": "https://www.prensalibre.com/internacional/huracan-polo-categoria-4-cual-es-su-trayectoria-por-mexico-y-como-llegarian-sus-lluvias-a-estados-unidos/",
-      "fecha": "Sat, 26 Sep 2026 21:20:08 +0000",
-      "categoria": "Internacional",
-      "resumen": "Con vientos de 230 kilómetros por hora, Polo se mantiene como huracán categoría 4 y se dirige hacia Baja California. Autoridades mexicanas activaron más de 500 refugios temporales."
     },
     {
       "fuente": "Guatemala.com",
