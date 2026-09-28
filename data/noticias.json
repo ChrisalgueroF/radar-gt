@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-28T14:17:47.408Z",
+  "actualizado": "2026-09-28T15:18:17.543Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "ENZO, una nueva propuesta residencial para vivir en la Zona 11 capitalina",
+      "link": "https://www.guatemala.com/noticias/sociedad/enzo-las-charcas.html",
+      "fecha": "Mon, 28 Sep 2026 15:04:25 +0000",
+      "categoria": "Sociedad",
+      "resumen": "ENZO presenta su nuevo proyecto de apartamentos, amenidades y conectividad en la Zona 11. Conoce más sobre la nueva propuesta residencial de COMOSA.\nThe post ENZO, una nueva propuesta residencial para vivir en la Zona 11 capitalina appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es líder del Apertura 2026? Así quedó la tabla de la Liga Nacional tras la primera vuelta",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/quien-es-lider-del-apertura-2026-asi-quedo-la-tabla-de-la-liga-nacional-tras-la-primera-vuelta/",
+      "fecha": "Mon, 28 Sep 2026 15:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Tras once jornadas disputadas, Municipal se adueñó del liderato del Apertura 2026, mientras Guastatoya y Antigua GFC continúan al acecho en una tabla marcada por la irregularidad de varios candidatos al título."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué pasa si Guatemala no le gana a El Salvador? El panorama de la Bicolor en la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/que-pasa-si-guatemala-no-le-gana-a-el-salvador-el-panorama-de-la-bicolor-en-la-liga-de-naciones/",
+      "fecha": "Mon, 28 Sep 2026 14:23:53 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Tres días después de la derrota en Jamaica, Guatemala recibirá a la selección de El Salvador, que derrotó 3-1 a Martinica en la primera jornada."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Liga de Naciones: ¿Quién ganará el duelo entre Guatemala y El Salvador, según la IA?",
@@ -9,6 +33,14 @@
       "fecha": "Mon, 28 Sep 2026 14:15:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Sin margen de error, Guatemala recibe a El Salvador con la obligación de ganar para seguir aspirando a la clasificación en la Liga de Naciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Identifican a los fallecidos en Huité, Zacapa y revelan más detalles del tiroteo",
+      "link": "https://www.prensalibre.com/guatemala/identifican-a-los-fallecidos-en-huite-zacapa-y-revelan-mas-detalles-del-tiroteo/",
+      "fecha": "Mon, 28 Sep 2026 14:11:02 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Fuentes del Ministerio de la Defensa negaron este lunes 28 de septiembre que el Ejército participara en el ataque en Huité, Zacapa; señalaron que se trató de un enfrentamiento entre estructuras criminales en donde habrían muerto cinco personas."
     },
     {
       "fuente": "Prensa Libre",
@@ -771,30 +803,6 @@
       "resumen": "Los pecho amarillo reciben a los gallos este sábado a las 3:00 PM en el estadio David Cordón Hichos en un duelo de alto voltaje entre dos de los equipos más sólidos del torneo."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala reporta más de 10 toneladas de cocaína incautadas durante el 2026",
-      "link": "https://www.prensalibre.com/guatemala/justicia/guatemala-incauta-mas-de-10-toneladas-de-cocaina-durante-el-2026-segun-la-pnc-breaking/",
-      "fecha": "Sat, 26 Sep 2026 20:18:57 +0000",
-      "categoria": "Justicia",
-      "resumen": "El registro de la Policía Nacional Civil (PNC) señala que este 2026 se ha incautado 37.55% más de cocaína que en el 2025."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué dijo el papa León XIV ante cerca de 700 mil fieles durante su multitudinaria misa en París",
-      "link": "https://www.prensalibre.com/internacional/que-dijo-el-papa-leon-xiv-ante-cerca-de-700-mil-fieles-durante-su-multitudinaria-misa-en-paris/",
-      "fecha": "Sat, 26 Sep 2026 19:58:14 +0000",
-      "categoria": "Internacional",
-      "resumen": "Ante una multitud reunida en la plaza de la Concordia, León XIV habló de fe, unidad y esperanza, y pidió a los fieles transmitir su mensaje a otras personas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Adolescente de 14 años es hallada sin vida en vivienda de Quetzaltenango",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/adolescente-de-14-anos-es-hallada-sin-vida-en-vivienda-de-quetzaltenango-breaking/",
-      "fecha": "Sat, 26 Sep 2026 19:12:17 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Menor con alerta Alba-Keneth es localizada sin vida en la zona 5 de Quetzaltenango."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Estas son las 12 fotografías sobre ciencia que destacaron en Fotocyt 2026",
       "link": "https://www.guatemala.com/noticias/sociedad/fotocyt-2026-12-imagenes-ganadoras-concurso-fotografia-cientifica-guatemala.html",
@@ -865,14 +873,6 @@
       "fecha": "Wed, 23 Sep 2026 15:21:01 +0000",
       "categoria": "Sociedad",
       "resumen": "La Promo Shell 2026 regresa en septiembre con oportunidades para ganar un BMW M3, dos BMW X3 y premios instantáneos.\nThe post La Promo Shell 2026 regresa para sortear 3 vehículos BMW M y premios instantáneos a  los guatemaltecos appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Combustibles en Guatemala estarán exentos temporalmente de impuestos",
-      "link": "https://www.guatemala.com/noticias/comunidad/autorizan-exoneracion-temporal-impuestos-iva-e-idp-gasolina-diesel-guatemala.html",
-      "fecha": "Wed, 23 Sep 2026 14:50:49 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Congreso de la República aprobó exoneración temporal de impuestos a la gasolina y el diésel en Guatemala, aunque la medida aún no entra en vigencia.\nThe post Combustibles en Guatemala estarán exentos temporalmente de impuestos appeared first on Guatemala.com."
     }
   ]
 }
