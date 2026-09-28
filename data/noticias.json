@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-28T12:20:55.277Z",
+  "actualizado": "2026-09-28T13:17:00.955Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan al “Carnicero”, señalado de abandonar cadáveres desmembrados en Villa Nueva",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-al-carnicero-senalado-de-abandonar-cadaveres-desmembrados-en-villa-nueva-breaking/",
+      "fecha": "Mon, 28 Sep 2026 12:58:02 +0000",
+      "categoria": "Justicia",
+      "resumen": "Agentes de la Policía Nacional Civil (PNC) capturaron al presunto responsable de abandonar cadáveres desmembrados en distintos sectores de Villa Nueva."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El &#8220;ejército bueno&#8221; de TikTok que ayuda contra los acosadores",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/el-ejercito-bueno-de-tiktok-que-ayuda-contra-los-acosadores/",
+      "fecha": "Mon, 28 Sep 2026 12:44:09 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las redes sociales suelen verse como un espejo de la crueldad humana. Pero un hombre formó un ejército de 500.000 personas en TikTok para cambiarlo con un arma poderosa: la bondad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué están cerrando miles de empresas en Argentina y qué dice de la economía en la era Milei",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/por-que-estan-cerrando-miles-de-empresas-en-argentina-y-que-dice-de-la-economia-en-la-era-milei/",
+      "fecha": "Mon, 28 Sep 2026 12:24:56 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El fenómeno contrasta con el crecimiento económico de Argentina y plantea dudas sobre la solidez y alcance de esa expansión."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Venezuela libera a decenas de presos políticos mientras aumenta la presión para que el gobierno de Delcy Rodríguez convoque elecciones",
@@ -769,30 +793,6 @@
       "fecha": "Sat, 26 Sep 2026 18:35:56 +0000",
       "categoria": "Estados Unidos",
       "resumen": "Una fuerte tormenta costera golpea el noreste de Estados Unidos con inundaciones, apagones y más de 400 vuelos cancelados, mientras las autoridades mantienen alertas en varios estados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muere presunto delincuente herido en La Reformita; suman dos casos esta semana con el de “El Flaco”",
-      "link": "https://www.prensalibre.com/guatemala/justicia/muere-presunto-delincuente-herido-en-la-reformita-suman-dos-casos-esta-semana-con-el-el-flaco-breaking/",
-      "fecha": "Sat, 26 Sep 2026 18:19:49 +0000",
-      "categoria": "Justicia",
-      "resumen": "Uno de los dos presuntos delincuentes que resultaron heridos durante un enfrentamiento con agentes de la PNC en La Reformita, zona 12, murió en el Hospital Roosevelt."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Entre 10 y 15 días de baja: el Real Madrid confirma la lesión de rodilla de Mbappé",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/entre-10-y-15-dias-de-baja-el-real-madrid-confirma-la-lesion-de-rodilla-de-mbappe-breaking/",
-      "fecha": "Sat, 26 Sep 2026 18:09:59 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Kylian Mbappé sufrió una hiperextensión de la cápsula posterior de la rodilla izquierda al marcar el gol de la victoria de Francia ante Turquía en la Liga de Naciones con un plazo estimado de recuperación de dos semanas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Banguat detecta más de tres mil billetes falsos en Guatemala",
-      "link": "https://www.prensalibre.com/economia/banguat-detecta-mas-de-tres-mil-billetes-falsos-en-guatemala/",
-      "fecha": "Sat, 26 Sep 2026 18:02:07 +0000",
-      "categoria": "Economía",
-      "resumen": "Seis de cada 10 billetes falsos detectados en Guatemala corresponden a la denominación de Q100. De enero a la fecha se han incautado más de tres mil piezas."
     },
     {
       "fuente": "Guatemala.com",
