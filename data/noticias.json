@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-28T11:15:31.986Z",
+  "actualizado": "2026-09-28T12:20:55.277Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Venezuela libera a decenas de presos políticos mientras aumenta la presión para que el gobierno de Delcy Rodríguez convoque elecciones",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/venezuela-libera-a-decenas-de-presos-politicos-mientras-aumenta-la-presion-para-que-el-gobierno-de-delcy-rodriguez-convoque-elecciones/",
+      "fecha": "Mon, 28 Sep 2026 12:06:14 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La decisión ocurre unos días después de la reunión entre Donald Trump y Delcy Rodríguez en Nueva York"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jugar con los hijos también es volver a ser niño: cómo imaginar, crear y soñar fortalece los vínculos",
+      "link": "https://www.prensalibre.com/vida/escenario/jugar-con-los-hijos-tambien-es-volver-a-ser-nino-como-imaginar-crear-y-sonar-fortalece-los-vinculos/",
+      "fecha": "Mon, 28 Sep 2026 12:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Cuando los adultos se involucran en el juego de los niños, ambos se benefician: los pequeños crean recuerdos y seguridad, mientras los mayores se permiten imaginar, soñar y disfrutar."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Presupuesto 2027: deuda para financiar el funcionamiento del Estado",
@@ -777,22 +793,6 @@
       "fecha": "Sat, 26 Sep 2026 18:02:07 +0000",
       "categoria": "Economía",
       "resumen": "Seis de cada 10 billetes falsos detectados en Guatemala corresponden a la denominación de Q100. De enero a la fecha se han incautado más de tres mil piezas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "StarYuuki publica fotos desde Guatemala y busca al joven que se las tomó",
-      "link": "https://www.prensalibre.com/vida/escenario/staryuuki-publica-fotos-desde-guatemala-y-busca-al-joven-que-se-las-tomo/",
-      "fecha": "Sat, 26 Sep 2026 17:57:23 +0000",
-      "categoria": "Escenario",
-      "resumen": "La famosa gamer estadounidense StarYuuki, conocida por sus transmisiones en vivo de videojuegos, bailes y comedias, está de visita en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala tiene inundaciones después de meses de sequía: por qué la lluvia no ha borrado el déficit",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-tiene-inundaciones-despues-de-meses-de-sequia-por-que-la-lluvia-no-ha-borrado-el-deficit/",
-      "fecha": "Sat, 26 Sep 2026 17:55:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "En agosto, cerca del 95% del área analizada mostraba algún grado de condición seca. Septiembre saturó suelos y elevó ríos, pero el déficit acumulado de lluvia persiste."
     },
     {
       "fuente": "Guatemala.com",
