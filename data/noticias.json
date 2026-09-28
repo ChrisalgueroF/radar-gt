@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-28T03:16:44.434Z",
+  "actualizado": "2026-09-28T04:16:54.091Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos personas mueren durante balacera en Huité, Zacapa",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-personas-mueren-durante-balacera-en-huite-zacapa/",
+      "fecha": "Mon, 28 Sep 2026 03:55:01 +0000",
+      "categoria": "Sucesos",
+      "resumen": "La noche se tornó tensa en Huité, Zacapa, tras una balacera que dejó dos personas muertas y una herida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bolillo Gómez anticipa el duelo con Guatemala: “Siempre ha sido un partido muy apretado”",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/bolillo-gomez-anticipa-el-duelo-con-guatemala-siempre-ha-sido-un-partido-muy-apretado-breaking/",
+      "fecha": "Mon, 28 Sep 2026 02:48:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Hernán Darío Gómez, técnico de El Salvador, reconoció que los duelos ante la Bicolor suelen ser muy disputados y advirtió que la victoria frente a Martinica no basta para hablar de jerarquía."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "PNC pide al Sistema de Justicia evitar la libertad de presuntos delincuentes capturados",
@@ -361,6 +377,14 @@
       "fecha": "Sun, 27 Sep 2026 11:45:32 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La escasez de papeleras en Japón responde a una combinación de factores que van desde un atentado mortal en 1995 hasta arraigadas normas de convivencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump rechaza la oferta de Irán para reabrir el estrecho de Ormuz en 7 días",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-rechaza-la-oferta-de-iran-para-reabrir-el-estrecho-de-ormuz-en-7-dias/",
+      "fecha": "Sun, 27 Sep 2026 06:06:45 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El fin del conflicto entre Irán y Estados Unidos parece cada vez más lejano, después de que el presidente estadounidense calificara de \"inaceptable\" la última oferta presentada por Teherán."
     },
     {
       "fuente": "Prensa Libre",
@@ -769,30 +793,6 @@
       "fecha": "Sat, 26 Sep 2026 06:10:00 +0000",
       "categoria": "Economía",
       "resumen": "La PEG 6 busca contratar 600 megavatios de energía para atender el crecimiento de la demanda eléctrica en Guatemala, con inversiones estimadas de hasta US$1 mil 400 millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fortalece su apuesta por el e-commerce en Guatemala",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/fortalece-su-apuesta-por-el-e-commerce-en-guatemala/",
-      "fecha": "Sat, 26 Sep 2026 06:08:17 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Grupo Distelsa realiza su primer Sellers Day en Guatemala para acercarse aún más a los Sellers (vendedores) locales que forman parte de su Marketplace y que, día a día, ayudan a ampliar la oferta disponible para los consumidores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La transformación del MP",
-      "link": "https://www.prensalibre.com/opinion/caricatura/la-transformacion-del-mp/",
-      "fecha": "Sat, 26 Sep 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vertedero de Amsa sigue recibiendo los desechos de más de 30 municipios",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/vertedero-de-amsa-sigue-recibiendo-los-desechos-de-mas-de-30-municipios/",
-      "fecha": "Sat, 26 Sep 2026 06:06:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Marn señala que acató la orden de la CC y que el vertedero puede seguir recibiendo desechos por dos años más."
     },
     {
       "fuente": "Guatemala.com",
