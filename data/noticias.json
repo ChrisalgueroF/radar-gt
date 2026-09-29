@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-29T15:18:21.690Z",
+  "actualizado": "2026-09-29T16:17:48.272Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Un resultado sacatécnicos”: ¿Qué dijo &#8216;El Bolillo’ Gómez sobre la derrota 6-0 frente a Guatemala?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/un-resultado-sacatecnicos-que-dijo-el-bolillo-gomez-sobre-la-derrota-6-0-frente-a-guatemala/",
+      "fecha": "Tue, 29 Sep 2026 15:51:33 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El entrenador colombiano Hernán Darío \"El Bolillo\" Gómez aseguró que un resultado tan humillante como el 6-0 en Guatemala es peligroso para los técnicos."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Admisiones 2027 de Intecap: Así puedes inscribirte a las carreras disponibles en las distintas sedes",
+      "link": "https://www.guatemala.com/noticias/comunidad/admisiones-intecap-2027.html",
+      "fecha": "Tue, 29 Sep 2026 15:43:22 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Conoce más información sobre las admisiones 2027 de Intecap, las carreras, sedes y cómo acceder a su programa de becas para estudiar el próximo año\nThe post Admisiones 2027 de Intecap: Así puedes inscribirte a las carreras disponibles en las distintas sedes appeared first on Guatemala.com."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "Nueva «Incaparina Galleta” para loncheras nutritivas",
@@ -12,11 +28,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "¿De qué murió Dennis Haskins, actor que interpretó al director Belding en “Salvados por la campana”?",
+      "link": "https://www.prensalibre.com/vida/escenario/de-que-murio-dennis-haskins-actor-que-interpreto-al-director-belding-en-salvados-por-la-campana/",
+      "fecha": "Tue, 29 Sep 2026 14:59:36 +0000",
+      "categoria": "Escenario",
+      "resumen": "Recordado por poner orden en el instituto de “Salvados por la campana”, Dennis Haskins, quien interpretó al director Belding, murió a los 75 años."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "&#8220;Temo por mi vida si me devuelven&#8221;: las audiencias masivas en Miami que aceleran las deportaciones sin dar tiempo a los migrantes para defender sus casos",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/temo-por-mi-vida-si-me-devuelven-las-audiencias-masivas-en-miami-que-aceleran-las-deportaciones-sin-dar-tiempo-a-los-migrantes-para-defender-sus-casos/",
       "fecha": "Tue, 29 Sep 2026 14:55:34 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Las “mega audiencias” migratorias ponen bajo presión a los solicitantes de asilo mientras aumentan las órdenes de deportación y las expulsiones en Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Jehú Fajardo? Así fueron los tres goles con los que brilló en la goleada de Guatemala",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/quien-es-jehu-fajardo-asi-fueron-los-tres-goles-con-los-que-brillo-en-la-goleada-de-guatemala/",
+      "fecha": "Tue, 29 Sep 2026 14:51:51 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La noche tuvo un nombre propio: Jehú Fajardo. El atacante de Antigua GFC lideró la goleada 6-0 de Guatemala sobre El Salvador con tres anotaciones que desataron la fiesta de la afición en el estadio  \"El Trébol\"."
     },
     {
       "fuente": "Prensa Libre",
@@ -803,30 +835,6 @@
       "resumen": "Agentes de la Policía Nacional Civil (PNC) capturaron al presunto responsable de abandonar cadáveres desmembrados en distintos sectores de Villa Nueva."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "El &#8220;ejército bueno&#8221; de TikTok que ayuda contra los acosadores",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/el-ejercito-bueno-de-tiktok-que-ayuda-contra-los-acosadores/",
-      "fecha": "Mon, 28 Sep 2026 12:44:09 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las redes sociales suelen verse como un espejo de la crueldad humana. Pero un hombre formó un ejército de 500.000 personas en TikTok para cambiarlo con un arma poderosa: la bondad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué están cerrando miles de empresas en Argentina y qué dice de la economía en la era Milei",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/por-que-estan-cerrando-miles-de-empresas-en-argentina-y-que-dice-de-la-economia-en-la-era-milei/",
-      "fecha": "Mon, 28 Sep 2026 12:24:56 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El fenómeno contrasta con el crecimiento económico de Argentina y plantea dudas sobre la solidez y alcance de esa expansión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Venezuela libera a decenas de presos políticos mientras aumenta la presión para que el gobierno de Delcy Rodríguez convoque elecciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/venezuela-libera-a-decenas-de-presos-politicos-mientras-aumenta-la-presion-para-que-el-gobierno-de-delcy-rodriguez-convoque-elecciones/",
-      "fecha": "Mon, 28 Sep 2026 12:06:14 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La decisión ocurre unos días después de la reunión entre Donald Trump y Delcy Rodríguez en Nueva York"
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Estas son las 12 fotografías sobre ciencia que destacaron en Fotocyt 2026",
       "link": "https://www.guatemala.com/noticias/sociedad/fotocyt-2026-12-imagenes-ganadoras-concurso-fotografia-cientifica-guatemala.html",
@@ -865,14 +873,6 @@
       "fecha": "Thu, 24 Sep 2026 18:03:53 +0000",
       "categoria": "Sociedad",
       "resumen": "La guatemalteca Ximena Carrillo destaca en actividades de Miss Grand International 2026, uno de los certámenes de belleza más importantes del mundo.\nThe post Así ha destacado Ximena Carrillo en los primeros días de Miss Grand International 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "La copa ENERGUATE vuelve con una nueva edición este 2026",
-      "link": "https://www.guatemala.com/noticias/sociedad/copa-energuate-2026-torneo-guatemala.html",
-      "fecha": "Thu, 24 Sep 2026 15:21:59 +0000",
-      "categoria": "Sociedad",
-      "resumen": "La Copa ENERGUATE 2026 regresa el próximo 24 de septiembre con más de 2 mil niños de 24 municipios y tres categorías deportivas.  \nThe post La copa ENERGUATE vuelve con una nueva edición este 2026 appeared first on Guatemala.com."
     }
   ]
 }
