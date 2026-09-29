@@ -1,7 +1,55 @@
 {
-  "actualizado": "2026-09-29T17:14:32.551Z",
+  "actualizado": "2026-09-29T18:18:53.120Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Christa Pike y la pena de muerte: Será la primera mujer ejecutada en Tennessee en casi 200 años",
+      "link": "https://www.prensalibre.com/internacional/christa-pike-y-la-pena-de-muerte-sera-la-primera-mujer-ejecutada-en-tennessee-en-casi-200-anos/",
+      "fecha": "Tue, 29 Sep 2026 18:18:40 +0000",
+      "categoria": "Internacional",
+      "resumen": "Este caso atrajo mucha atención debido a las edades de los implicados y al hecho de que se grabó un símbolo satánico en el cuerpo de la víctima."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La familia de Ranulph Fiennes, &#8220;el explorador vivo más importante del mundo&#8221;, dice desconocer su paradero",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-familia-de-ranulph-fiennes-el-explorador-vivo-mas-importante-del-mundo-dice-desconocer-su-paradero/",
+      "fecha": "Tue, 29 Sep 2026 17:39:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Se ha alegado que Ranulph Fiennes ha ingresado en varias residencias de ancianos con nombres falsos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vehículo destruido y motorista fallecido en múltiple colisión en el km 13 de la ruta al Pacífico",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/vehiculo-destruido-y-motorista-fallecido-en-multiple-colision-en-el-km-13-de-la-ruta-al-pacifico-breaking/",
+      "fecha": "Tue, 29 Sep 2026 17:29:49 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Una persona fallece y  vehículos quedan con severos daños tras múltiple colisión en el km 13 de la ruta al Pacífico, con dirección a Villa Nueva."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién fue convocado por Luis Fernando Tena para los partidos de Guatemala ante Surinam?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/quien-fue-convocado-por-luis-fernando-tena-para-los-partidos-de-guatemala-ante-surinam/",
+      "fecha": "Tue, 29 Sep 2026 17:27:09 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Con la mira puesta en Surinam, la Azul y Blanco incorpora una nueva variante para afrontar una doble jornada determinante en el torneo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quiénes regresan a la Selección de Costa Rica? Bryan Ruiz llama de nuevo a dos históricos del cuadro tico",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/quienes-regresan-a-la-seleccion-de-costa-rica-bryan-ruiz-llama-de-nuevo-a-dos-historicos-del-cuadro-tico/",
+      "fecha": "Tue, 29 Sep 2026 17:04:26 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Bryan Ruiz revoluciona a la selección de Costa Rica al devolver a Keylor Navas y Celso Borges, con la misión de evitar el descenso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así pasó el huracán Polo por Baja California Sur y cómo sigue su trayectoria hacia el noroeste de México",
+      "link": "https://www.prensalibre.com/internacional/asi-paso-el-huracan-polo-por-baja-california-sur-y-como-sigue-su-trayectoria-hacia-el-noroeste-de-mexico/",
+      "fecha": "Tue, 29 Sep 2026 17:00:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "El huracán Polo, ahora de categoría 2, pasó por Baja California sur y ahora se dirige hacia el noroeste de México."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Liberan a un hombre tras pasar 41 años en el corredor de la muerte en EE.UU. gracias a una prueba de ADN",
@@ -28,7 +76,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Congreso licita servicios de cable e internet y la compra de celulares y tablets para diputados",
+      "titulo": "Congreso licita servicio de cable, internet, celulares y tablets para diputados",
       "link": "https://www.prensalibre.com/guatemala/politica/congreso-licita-servicios-de-cable-e-internet-y-la-compra-de-celulares-y-tablets-para-diputados-breaking/",
       "fecha": "Tue, 29 Sep 2026 16:09:27 +0000",
       "categoria": "Política",
@@ -779,60 +827,12 @@
       "resumen": "La PNC afirmó que el narcolaboratorio localizado durante los cateos en Sacatepéquez está relacionado con un colombiano capturado con fines de extradición."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "“De los mejores que han marcado la historia”: El FC Dallas homenajea a Carlos &#8216;El Pescadito’ Ruiz",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/de-los-mejores-que-han-marcado-la-historia-el-fc-dallas-homenajea-a-carlos-el-pescadito-ruiz/",
-      "fecha": "Mon, 28 Sep 2026 15:57:17 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Tras regresar a su casa en Texas, donde fue homenajeado como un histórico goleador durante la Noche de Leyendas del FC Dallas, Carlos Ruiz recordó sus años con los Toros de Frisco."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Corre el balón en la Copa ENERGUATE 2026",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/corre-el-balon-en-la-copa-energuate-2026/",
-      "fecha": "Mon, 28 Sep 2026 15:37:55 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Impulsados por ENERGUATE, la distribuidora de energía eléctrica más grande de Guatemala, regresa la COPA ENERGUATE, uno de los espacios deportivos y de convivencia más importantes donde miles de niños y jóvenes demuestran su talento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuatro cadáveres de hombres, algunos con señales de violencia, han sido localizados en las últimas horas",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/cuatro-cadaveres-de-hombres-algunos-con-senales-de-violencia-han-sido-localizados-en-las-ultimas-horas-breaking/",
-      "fecha": "Mon, 28 Sep 2026 15:16:14 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Cuatro hombres han sido localizados sin vida en distintos puntos de Guatemala este lunes 28 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Barcelona y Florentino Pérez irán a los juzgados: qué está en juego por las declaraciones sobre el caso Negreira",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-y-florentino-perez-iran-a-los-juzgados-que-esta-en-juego-por-las-declaraciones-sobre-el-caso-negreira/",
-      "fecha": "Mon, 28 Sep 2026 15:15:14 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La batalla entre Barcelona y Florentino Pérez da un paso más: ambas partes comparecerán ante la justicia por las declaraciones del presidente madridista sobre el caso Negreira."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "ENZO, una nueva propuesta residencial para vivir en la Zona 11 capitalina",
       "link": "https://www.guatemala.com/noticias/sociedad/enzo-las-charcas.html",
       "fecha": "Mon, 28 Sep 2026 15:04:25 +0000",
       "categoria": "Sociedad",
       "resumen": "ENZO presenta su nuevo proyecto de apartamentos, amenidades y conectividad en la Zona 11. Conoce más sobre la nueva propuesta residencial de COMOSA.\nThe post ENZO, una nueva propuesta residencial para vivir en la Zona 11 capitalina appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es líder del Apertura 2026? Así quedó la tabla de la Liga Nacional tras la primera vuelta",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/quien-es-lider-del-apertura-2026-asi-quedo-la-tabla-de-la-liga-nacional-tras-la-primera-vuelta/",
-      "fecha": "Mon, 28 Sep 2026 15:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Tras once jornadas disputadas, Municipal se adueñó del liderato del Apertura 2026, mientras Guastatoya y Antigua GFC continúan al acecho en una tabla marcada por la irregularidad de varios candidatos al título."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué pasa si Guatemala no le gana a El Salvador? El panorama de la Bicolor en la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/que-pasa-si-guatemala-no-le-gana-a-el-salvador-el-panorama-de-la-bicolor-en-la-liga-de-naciones/",
-      "fecha": "Mon, 28 Sep 2026 14:23:53 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Tres días después de la derrota en Jamaica, Guatemala recibirá a la selección de El Salvador, que derrotó 3-1 a Martinica en la primera jornada."
     },
     {
       "fuente": "Guatemala.com",
