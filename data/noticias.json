@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-29T06:19:54.521Z",
+  "actualizado": "2026-09-29T07:17:24.862Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las tradiciones cafetaleras en una experiencia de arte",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/las-tradiciones-cafetaleras-en-una-experiencia-de-arte/",
+      "fecha": "Tue, 29 Sep 2026 06:41:44 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "El evento que honra la riqueza del café guatemalteco y que combina, diseño y arte, en una propuesta exclusiva para tarjetahabientes Bi Visa, el Ritual del Café, está de nuevo activa en el país hasta el 21 de octubre, donde se puede disfrutar una interpretación única, destacando distintos perfiles de café guatemalteco de especialidad a través de maridajes y propuestas gastronómicas especialmente diseñadas para esta iniciativa."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Quiénes respaldan a los 6 candidatos a contralor y qué intereses rodean la elección",
@@ -809,14 +817,6 @@
       "fecha": "Mon, 28 Sep 2026 06:01:00 +0000",
       "categoria": "Economía",
       "resumen": "El Congreso envió al Ejecutivo la ley que establece una exención temporal del Impuesto a la Distribución de Petróleo (IDP) y del Impuesto al Valor Agregado (IVA) aplicados a los combustibles, mientras la SAT ya definió la ruta que seguirá una vez entre en vigor la medida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Walter Mazariegos en la Usac: las maniobras cuestionadas que lo llevaron a la rectoría y afianzaron su control",
-      "link": "https://www.prensalibre.com/guatemala/politica/walter-mazariegos-en-la-usac-las-maniobras-cuestionadas-que-lo-llevaron-a-la-rectoria-y-afianzaron-su-control/",
-      "fecha": "Mon, 28 Sep 2026 06:01:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La captura de espacios y otras maniobras cuestionadas se suman a resoluciones judiciales que han favorecido la permanencia de Walter Mazariegos en la rectoría de la Usac."
     },
     {
       "fuente": "Guatemala.com",
