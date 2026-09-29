@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-29T09:17:23.736Z",
+  "actualizado": "2026-09-29T10:16:31.831Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La abogada de Maricarmen asegura que la anciana podrá volver a su casa tras el desalojo que puso el foco en la crisis de vivienda en España",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/la-abogada-de-maricarmen-asegura-que-la-anciana-podra-volver-a-su-casa-tras-el-desalojo-que-puso-el-foco-en-la-crisis-de-vivienda-en-espana/",
+      "fecha": "Tue, 29 Sep 2026 09:24:00 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "De acuerdo a lo señalada por la abogada, la empresa dueña del inmueble le dejará pagar un precio de alquiler acorde a la pensión que recibe."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Las tradiciones cafetaleras en una experiencia de arte",
@@ -809,14 +817,6 @@
       "fecha": "Mon, 28 Sep 2026 06:01:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "No les ha interesado pasar a la historia como estadistas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Exención del IDP e IVA en combustibles: así se reflejará en las facturas de los consumidores",
-      "link": "https://www.prensalibre.com/economia/exencion-del-idp-e-iva-en-combustibles-asi-se-reflejara-en-las-facturas-de-los-consumidores/",
-      "fecha": "Mon, 28 Sep 2026 06:01:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El Congreso envió al Ejecutivo la ley que establece una exención temporal del Impuesto a la Distribución de Petróleo (IDP) y del Impuesto al Valor Agregado (IVA) aplicados a los combustibles, mientras la SAT ya definió la ruta que seguirá una vez entre en vigor la medida."
     },
     {
       "fuente": "Guatemala.com",
