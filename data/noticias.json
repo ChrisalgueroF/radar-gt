@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-29T02:14:25.291Z",
+  "actualizado": "2026-09-29T03:16:07.198Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Investigadores identifican cómo las células cancerosas sobreviven al llegar al cerebro y favorecen la progresión de la metástasis",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/investigadores-identifican-como-las-celulas-cancerosas-sobreviven-al-llegar-al-cerebro-y-favorecen-la-progresion-de-la-metastasis/",
+      "fecha": "Tue, 29 Sep 2026 03:01:46 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Un estudio identifica una pausa proliferativa temporal dependiente de MXD4 que permite a las células cancerosas adaptarse al estrés y sobrevivir durante las primeras etapas de la colonización cerebral."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inacif identifica a seis de las siete víctimas de los ataques armados en Huité y revela las causas de muerte",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/inacif-identifica-a-seis-de-las-siete-victimas-de-los-ataques-armados-en-huite-y-revela-las-causas-de-muerte-breaking/",
+      "fecha": "Tue, 29 Sep 2026 02:35:59 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Inacif identificó a seis de las siete víctimas de los hechos armados registrados en Huité, Zacapa, y estableció las causas de muerte. Una menor continúa pendiente de identificar."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Lluvias dejan 18 muertos en Guatemala mientras Conred registra más de mil 700 emergencias",
@@ -17,6 +33,14 @@
       "fecha": "Tue, 29 Sep 2026 01:41:19 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La joven de 11 años ha batido otro récord de ajedrez tras una actuación extraordinaria representando a Inglaterra."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump anuncia en Iowa la mayor planta siderúrgica de EE. UU.: Cuánto costará y cuándo operará",
+      "link": "https://www.prensalibre.com/internacional/trump-anuncia-en-iowa-la-mayor-planta-siderurgica-de-ee-uu-cuanto-costara-y-cuando-operara/",
+      "fecha": "Tue, 29 Sep 2026 01:28:51 +0000",
+      "categoria": "Internacional",
+      "resumen": "EE.UU. construirá planta siderúrgica con una inversión multimillonaria. Conozca los detalles del proyecto."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,30 +817,6 @@
       "fecha": "Sun, 27 Sep 2026 22:15:30 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El técnico de la Selección de Guatemala, Luis Fernando Tena, habló sobre los posibles cambios para enfrentar el próximo lunes a El Salvador y no descartó variantes en la portería y el ataque."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tom Cruise e Iñárritu presentan Digger en México: así es la sátira sobre poder y petróleo",
-      "link": "https://www.prensalibre.com/vida/escenario/tom-cruise-e-inarritu-presentan-digger-en-mexico-asi-es-la-satira-sobre-poder-y-petroleo/",
-      "fecha": "Sun, 27 Sep 2026 21:57:53 +0000",
-      "categoria": "Escenario",
-      "resumen": "Iñárritu celebra la acogida de su “urgente” cinta Digger en México junto a Tom Cruise."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Una piscina? Qué planes tiene Trump para sustituir la sala de prensa de la Casa Blanca",
-      "link": "https://www.prensalibre.com/internacional/trump-tiene-planes-para-sustituir-la-sala-de-prensa-de-la-casa-blanca-breaking/",
-      "fecha": "Sun, 27 Sep 2026 21:23:18 +0000",
-      "categoria": "Internacional",
-      "resumen": "En medio de la ofensiva contra periodistas de CNN y MS Now y el periódico Político, Donald Trump insinúa que hará cambios en la sala de prensa de la Casa Blanca."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Partido Prosperidad Ciudadana completa la integración de su Comité Ejecutivo Nacional",
-      "link": "https://www.prensalibre.com/guatemala/politica/partido-prosperidad-ciudadana-completa-la-integracion-de-su-comite-ejecutivo-nacional-breaking/",
-      "fecha": "Sun, 27 Sep 2026 21:10:55 +0000",
-      "categoria": "Política",
-      "resumen": "En asamblea nacional extraordinaria, el partido Prosperidad Ciudadana completó la integración de su Comité Ejecutivo Nacional y eligió a los miembros del Tribunal de Honor."
     },
     {
       "fuente": "Guatemala.com",
