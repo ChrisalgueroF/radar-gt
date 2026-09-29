@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-29T11:15:19.405Z",
+  "actualizado": "2026-09-29T12:20:42.711Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué se sabe del Corredor Andes-Atlántico, el ambicioso proyecto con el que EE.UU. busca acceder a recursos estratégicos de Argentina (y competir con China)",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/que-se-sabe-del-corredor-andes-atlantico-el-ambicioso-proyecto-con-el-que-ee-uu-busca-acceder-a-recursos-estrategicos-de-argentina-y-competir-con-china/",
+      "fecha": "Tue, 29 Sep 2026 12:04:09 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "De acuerdo con analistas, el proyecto muestra el interés de Washington en tener mayor presencia en países de América Latina y reducir el espacio de China en la región."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Los videojuegos me pagan el doble de lo que ganaba como maestra",
@@ -809,14 +817,6 @@
       "fecha": "Mon, 28 Sep 2026 06:03:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Una de cada tres sentencias registradas por el MP en 2025 fue por aceptación de cargos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El imperativo de invertir",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-imperativo-de-invertir/",
-      "fecha": "Mon, 28 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Invertir más y mejor es indispensable para el bienestar y la gobernabilidad."
     },
     {
       "fuente": "Guatemala.com",
