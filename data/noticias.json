@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-29T18:18:53.120Z",
+  "actualizado": "2026-09-29T19:16:10.379Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Observadores piden elección de Contralor alejada del crimen organizado, narcotráfico y con independencia política",
+      "link": "https://www.prensalibre.com/guatemala/politica/observadores-piden-eleccion-de-contralor-alejada-del-crimen-organizado-narcotrafico-y-con-independencia-politica/",
+      "fecha": "Tue, 29 Sep 2026 18:53:54 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Congreso anunció una elección para el 6 de octubre pero en cualquier momento un diputado puede mocionar para adelantar el nombramiento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así han sido las goleadas históricas de Guatemala: el 6-0 ante El Salvador ya está en la lista",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-firma-una-de-sus-mayores-goleadas-oficiales-con-el-6-0-ante-el-salvador/",
+      "fecha": "Tue, 29 Sep 2026 18:48:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Bicolor volvió a golear por seis tantos en un partido oficial y se suma a una lista histórica en la que aparecen triunfos como el 10-0 sobre Anguila y el 9-3 frente a San Vicente y las Granadinas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Christa Pike y la pena de muerte: Será la primera mujer ejecutada en Tennessee en casi 200 años",
@@ -9,6 +25,22 @@
       "fecha": "Tue, 29 Sep 2026 18:18:40 +0000",
       "categoria": "Internacional",
       "resumen": "Este caso atrajo mucha atención debido a las edades de los implicados y al hecho de que se grabó un símbolo satánico en el cuerpo de la víctima."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Asesinado por sus suegros? Qué se sabe de la causa de muerte del ejecutivo de The New York Times en California",
+      "link": "https://www.prensalibre.com/internacional/asesinado-por-sus-suegros-que-se-sabe-de-la-causa-de-muerte-del-ejecutivo-de-the-new-york-times-en-california/",
+      "fecha": "Tue, 29 Sep 2026 18:18:28 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un ejecutivo de The New York Times fue asesinado en un parque de California y sus suegros, ambos de 76 años, son los principales sospechosos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturas, armas y chaleco antibalas: tiroteo en la zona 6 deja tres heridos y complicaciones en el tránsito hacia ruta al Atlántico",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/capturas-armas-y-chaleco-antibalas-tiroteo-en-la-zona-6-deja-tres-heridos-y-complicaciones-en-el-transito-hacia-ruta-al-atlantico-breaking/",
+      "fecha": "Tue, 29 Sep 2026 18:09:09 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Tiroteo en la zona 6 deja tres heridos y provoca cierres viales que complican la movilidad en la capital."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,38 +825,6 @@
       "fecha": "Mon, 28 Sep 2026 17:27:00 +0000",
       "categoria": "Escenario",
       "resumen": "El cantautor costarricense Kendall Peña está nominado al Latin Grammy como Mejor Nuevo Artista, por lo que desea obtener ese galardón y convertirse en el segundo centroamericano en destacar en esa categoría."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fuertes lluvias y oleajes: Así afectará la tormenta tropical Rachel al Pacífico sur de México",
-      "link": "https://www.prensalibre.com/internacional/fuertes-lluvias-y-oleajes-asi-afectara-la-tormenta-tropical-rachel-al-pacifico-sur-de-mexico/",
-      "fecha": "Mon, 28 Sep 2026 17:02:41 +0000",
-      "categoria": "Internacional",
-      "resumen": "El NHC informó el estado de la tormenta tropical Rachel, que tiene altas probabilidades de convertirse en huracán en el transcurso de la semana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Champ’s Academy: cómo el proyecto de futbolistas guatemaltecos alcanzó su primera victoria en Primera División",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/champs-academy-como-el-proyecto-de-futbolistas-guatemaltecos-alcanzo-su-primera-victoria-en-primera-division/",
-      "fecha": "Mon, 28 Sep 2026 16:39:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Champ’s Academy hace historia: el proyecto de jóvenes guatemaltecos que logró su primer triunfo en Primera División."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuándo es el Día del Niño en Guatemala y por qué se celebra?",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/cuando-es-el-dia-del-nino-en-guatemala-y-por-que-se-celebra/",
-      "fecha": "Mon, 28 Sep 2026 16:27:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Octubre comienza con una celebración dedicada a los niños, una fecha que busca visibilizar sus derechos, promover su bienestar y reforzar su protección."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Narcolaboratorio localizado en Sacatepéquez y capturas están vinculados con colombiano pedido en extradición",
-      "link": "https://www.prensalibre.com/guatemala/justicia/narcolaboratorio-localizado-en-sacatepequez-y-capturas-estan-vinculados-con-colombiano-pedido-en-extradicion-breaking/",
-      "fecha": "Mon, 28 Sep 2026 16:20:56 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC afirmó que el narcolaboratorio localizado durante los cateos en Sacatepéquez está relacionado con un colombiano capturado con fines de extradición."
     },
     {
       "fuente": "Guatemala.com",
