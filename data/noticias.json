@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-29T04:16:05.194Z",
+  "actualizado": "2026-09-29T05:15:16.380Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La BBC en primera línea de fuego de la guerra civil de Yemen, el conflicto que amenaza la seguridad energética mundial",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-bbc-en-primera-linea-de-fuego-de-la-guerra-civil-de-yemen-el-conflicto-que-amenaza-la-seguridad-energetica-mundial/",
+      "fecha": "Tue, 29 Sep 2026 04:35:48 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En un acceso poco frecuente a la zona de conflicto de Yemen, la BBC entra en una ciudad donde resuenan los disparos provenientes de las colinas circundantes."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Guatemala aplasta 6-0 a El Salvador: Fajardo firma un triplete en la goleada de la Bicolor",
@@ -108,11 +116,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "EN VIVO Guatemala vs. El Salvador: siga las incidencias de un duelo clave para la Bicolor en la Liga de Naciones",
+      "titulo": "EN VIVO Guatemala golea a El Salvador y toma impulso en la Liga de Naciones",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guatemala-vs-el-salvador-siga-las-incidencias-de-un-duelo-clave-para-la-bicolor-en-la-liga-de-naciones/",
       "fecha": "Tue, 29 Sep 2026 00:15:00 +0000",
       "categoria": "Fútbol Nacional",
-      "resumen": "La Azul y Blanco busca reaccionar ante El Salvador y conseguir su primera victoria del 2026 en un duelo clave para mantenerse en la pelea por la clasificación en la Liga de Naciones de Concacaf."
+      "resumen": "Guatemala celebra una goleada ante El Salvador y sigue en la lucha en la Liga de Naciones"
     },
     {
       "fuente": "Prensa Libre",
@@ -724,6 +732,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "La policía británica arresta a 5 sospechosos de preparar un atentado terrorista cerca de una base aérea utilizada por el ejército de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-policia-britanica-arresta-a-5-sospechosos-de-preparar-un-atentado-terrorista-cerca-de-una-base-aerea-utilizada-por-el-ejercito-de-ee-uu/",
+      "fecha": "Mon, 28 Sep 2026 05:23:50 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Trump aseguró que los detenidos \"pretendían causar graves daños\" a la instalación militar y reveló que \"los teníamos bajo vigilancia desde hacía mucho tiempo\"."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Cómo China está transformando una zona rural donde se cultivan papas en el centro de su competencia tecnológica con EE.UU.",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-china-esta-transformando-una-zona-rural-donde-se-cultivan-papas-en-el-centro-de-su-competencia-tecnologica-con-ee-uu/",
       "fecha": "Mon, 28 Sep 2026 04:35:07 +0000",
@@ -801,22 +817,6 @@
       "fecha": "Sun, 27 Sep 2026 23:23:56 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Cientos de personas pasaron la noche en la plaza tras una protesta motivada por el desahucio de Maricarmen, una mujer de 87 años a la que desalojaron de la vivienda que alquilaba en Madrid."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mixco aprovechó su condición de local y venció 3-1 a Antigua en la jornada 11 del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/mixco-aprovecho-su-condicion-de-local-y-vencio-3-1-a-antigua-en-la-jornada-11-del-apertura-2026-breaking/",
-      "fecha": "Sun, 27 Sep 2026 23:00:49 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los chicharroneros dominaron de principio a fin en el estadio Santo Domingo de Guzmán con goles de Christian Ojeda, Yonatan Pozuelos y José Bolaños para sumar tres puntos importantes sobre Antigua en el torneo Apertura."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hallan dos narcolaboratorios, armas y presunta marihuana en Sacatepéquez",
-      "link": "https://www.prensalibre.com/guatemala/justicia/hallan-dos-narcolaboratorios-armas-y-presunta-marihuana-en-sacatepequez-breaking/",
-      "fecha": "Sun, 27 Sep 2026 22:40:07 +0000",
-      "categoria": "Justicia",
-      "resumen": "Allanamientos en tres municipios de Sacatepéquez llevaron al hallazgo de dos presuntos narcolaboratorios, pequeñas plantaciones de presunta marihuana, armas y sustancias bajo análisis."
     },
     {
       "fuente": "Guatemala.com",
