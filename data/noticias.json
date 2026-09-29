@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-29T16:17:48.272Z",
+  "actualizado": "2026-09-29T17:14:32.551Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liberan a un hombre tras pasar 41 años en el corredor de la muerte en EE.UU. gracias a una prueba de ADN",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/liberan-a-un-hombre-tras-pasar-41-anos-en-el-corredor-de-la-muerte-en-ee-uu-gracias-a-una-prueba-de-adn/",
+      "fecha": "Tue, 29 Sep 2026 16:49:05 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Douglas Stewart Carter, de 71 años, fue condenado a muerte por el asesinato de una mujer, aunque siempre mantuvo su inocencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué le pasó a Raphinha? La razón por la que salió al finalizar la primera mitad del Brasil y Australia",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/que-le-paso-a-raphinha-la-razon-por-la-que-salio-al-finalizar-la-primera-mitad-del-brasil-y-australia/",
+      "fecha": "Tue, 29 Sep 2026 16:22:06 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Brasil cerró su gira por Australia con una victoria 4-2 sobre los Socceroos, aunque la preocupación se centra en Raphinha, quien salió al descanso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Tenemos que atraer a la gente con actuaciones como esta”: Tena analiza la goleada de Guatemala ante El Salvador",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/tenemos-que-atraer-a-la-gente-con-actuaciones-como-esta-tena-analiza-la-goleada-de-guatemala-ante-el-salvador/",
+      "fecha": "Tue, 29 Sep 2026 16:20:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El equipo de Luis Fernando Tena pasó por encima de El Salvador y sumó un triunfo revitalizador por 6-0 en la Liga de Naciones de Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Congreso licita servicios de cable e internet y la compra de celulares y tablets para diputados",
+      "link": "https://www.prensalibre.com/guatemala/politica/congreso-licita-servicios-de-cable-e-internet-y-la-compra-de-celulares-y-tablets-para-diputados-breaking/",
+      "fecha": "Tue, 29 Sep 2026 16:09:27 +0000",
+      "categoria": "Política",
+      "resumen": "El Organismo Legislativo publica tres licitaciones para adquirir servicios de telefonía celular, internet y cable de televisión."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "“Un resultado sacatécnicos”: ¿Qué dijo &#8216;El Bolillo’ Gómez sobre la derrota 6-0 frente a Guatemala?",
@@ -801,38 +833,6 @@
       "fecha": "Mon, 28 Sep 2026 14:23:53 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Tres días después de la derrota en Jamaica, Guatemala recibirá a la selección de El Salvador, que derrotó 3-1 a Martinica en la primera jornada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga de Naciones: ¿Quién ganará el duelo entre Guatemala y El Salvador, según la IA?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-de-naciones-quien-ganara-el-duelo-entre-guatemala-y-el-salvador-segun-la-ia/",
-      "fecha": "Mon, 28 Sep 2026 14:15:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Sin margen de error, Guatemala recibe a El Salvador con la obligación de ganar para seguir aspirando a la clasificación en la Liga de Naciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Identifican a los fallecidos en Huité, Zacapa y revelan más detalles del tiroteo",
-      "link": "https://www.prensalibre.com/guatemala/identifican-a-los-fallecidos-en-huite-zacapa-y-revelan-mas-detalles-del-tiroteo/",
-      "fecha": "Mon, 28 Sep 2026 14:11:02 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Ejército niega participación en los ataques en Huité, Zacapa, y apunta a un enfrentamiento entre estructuras criminales. Oficialmente se manejan distintas cifras de fallecidos, que van de cinco a siete."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala: altas temperaturas y posibles tormentas locales severas se esperan del 28 de septiembre al 2 de octubre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-altas-temperaturas-y-posibles-tormentas-locales-severas-se-esperan-del-28-de-septiembre-al-2-de-octubre-breaking/",
-      "fecha": "Mon, 28 Sep 2026 13:38:46 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La entrada de humedad, la inestabilidad en el Pacífico y el paso o acercamiento de ondas del este provocarán lluvias en Guatemala esta semana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan al “Carnicero”, señalado de abandonar cadáveres desmembrados en Villa Nueva",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-al-carnicero-senalado-de-abandonar-cadaveres-desmembrados-en-villa-nueva-breaking/",
-      "fecha": "Mon, 28 Sep 2026 12:58:02 +0000",
-      "categoria": "Justicia",
-      "resumen": "Agentes de la Policía Nacional Civil (PNC) capturaron al presunto responsable de abandonar cadáveres desmembrados en distintos sectores de Villa Nueva."
     },
     {
       "fuente": "Guatemala.com",
