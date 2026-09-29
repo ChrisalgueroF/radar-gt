@@ -1,7 +1,111 @@
 {
-  "actualizado": "2026-09-29T05:15:16.380Z",
+  "actualizado": "2026-09-29T06:19:54.521Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quiénes respaldan a los 6 candidatos a contralor y qué intereses rodean la elección",
+      "link": "https://www.prensalibre.com/guatemala/politica/quienes-respaldan-a-los-6-candidatos-a-contralor-y-que-intereses-rodean-la-eleccion/",
+      "fecha": "Tue, 29 Sep 2026 06:19:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Seis candidatos buscan el cargo, mientras observadores identifican distintos grupos que intentan incidir en la decisión que deberá tomar el Congreso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clima en Guatemala: el calor rompe récords hasta en zonas frías y templadas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-el-calor-rompe-records-hasta-en-zonas-frias-y-templadas/",
+      "fecha": "Tue, 29 Sep 2026 06:15:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El monitoreo de varias estaciones meteorológicas muestra un aumento de las temperaturas en zonas frías y templadas del país, con registros que superan récords históricos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Combustibles en Guatemala: precios actuales y perspectivas para el 2027",
+      "link": "https://www.prensalibre.com/economia/combustibles-en-guatemala-precios-actuales-y-perspectivas-para-el-2027/",
+      "fecha": "Tue, 29 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El precio internacional del petróleo y los riesgos geopolíticos condicionan el escenario para Guatemala. Estas son las perspectivas de Cabi para los precios del diésel y de las gasolinas en el país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Incursión en Huité",
+      "link": "https://www.prensalibre.com/opinion/caricatura/incursion-en-huite/",
+      "fecha": "Tue, 29 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elección de contralor se cocina a escondidas",
+      "link": "https://www.prensalibre.com/opinion/editorial/eleccion-de-contralor-se-cocina-a-escondidas/",
+      "fecha": "Tue, 29 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "El destino de la Contraloría General de Cuentas y la forma en la que se elige a su jefe es un asunto que sí interesa sobremanera a la ciudadanía, a la cual sirve la prensa independiente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Papa León XIV asume su papel de estadista ante el regreso de la guerra",
+      "link": "https://www.prensalibre.com/internacional/papa-leon-xiv-asume-su-papel-de-estadista-ante-el-regreso-de-la-guerra/",
+      "fecha": "Tue, 29 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Desde Francia, el papa León XIV llamó a negociar, defendió el derecho internacional y el multilateralismo, y advirtió contra la idea de que el rearme sea la respuesta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El barato negocio de bloquear",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-barato-negocio-de-bloquear/",
+      "fecha": "Tue, 29 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Es la escuela perfecta del chantaje politiquero: pocos ponen el bloqueo, miles sufren las consecuencias y todos terminamos pagando la solución."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El agua que nace en Guatemala también tiene valor",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-agua-que-nace-en-guatemala-tambien-tiene-valor/",
+      "fecha": "Tue, 29 Sep 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Un tema olvidado al hablar del Agua es el de las Cuencas Transfronterizas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aliados, pero vigilados",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/aliados-pero-vigilados/",
+      "fecha": "Tue, 29 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Washington coopera, pero también investiga; equipa, pero vigila; considera a Guatemala un socio, pero aparentemente un socio al que conviene observar de cerca."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El costo de hacer periodismo en Centroamérica",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-costo-de-hacer-periodismo-en-centroamerica/",
+      "fecha": "Tue, 29 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El silencio no es opción."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy martes 29 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-29-de-septiembre-de-2026/",
+      "fecha": "Tue, 29 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Milei se enfrenta al Leviatán",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/milei-se-enfrenta-al-leviatan/",
+      "fecha": "Tue, 29 Sep 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "¿Qué propósito tienen los discursos disruptivos de Milei?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Grupo Pantaleón: “Tenemos que componer el tema logístico, no podemos fallar”",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/grupo-pantaleon-tenemos-que-componer-el-tema-logistico-no-podemos-fallar/",
+      "fecha": "Tue, 29 Sep 2026 06:00:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "Diego Herrera ve en el nearshoring una oportunidad para atraer inversión al país, pero remarca enfocarse en la infraestructura, logística y capacitación para competir."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La BBC en primera línea de fuego de la guerra civil de Yemen, el conflicto que amenaza la seguridad energética mundial",
@@ -713,110 +817,6 @@
       "fecha": "Mon, 28 Sep 2026 06:01:00 +0000",
       "categoria": "Guatemala",
       "resumen": "La captura de espacios y otras maniobras cuestionadas se suman a resoluciones judiciales que han favorecido la permanencia de Walter Mazariegos en la rectoría de la Usac."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy lunes 28 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-28-de-septiembre-de-2026/",
-      "fecha": "Mon, 28 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aeropuerto Los Altos proyecta operar como internacional en 2029",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/aeropuerto-los-altos-proyecta-operar-como-internacional-en-2029/",
-      "fecha": "Mon, 28 Sep 2026 06:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La DGAC proyecta que el Aeropuerto Los Altos complete su proceso de certificación en los primeros meses de ese año. Antes, prevé ejecutar obras de infraestructura en el 2027, entre ellas una nueva torre de control, un edificio para bomberos y la ampliación de la terminal aérea."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La policía británica arresta a 5 sospechosos de preparar un atentado terrorista cerca de una base aérea utilizada por el ejército de EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-policia-britanica-arresta-a-5-sospechosos-de-preparar-un-atentado-terrorista-cerca-de-una-base-aerea-utilizada-por-el-ejercito-de-ee-uu/",
-      "fecha": "Mon, 28 Sep 2026 05:23:50 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Trump aseguró que los detenidos \"pretendían causar graves daños\" a la instalación militar y reveló que \"los teníamos bajo vigilancia desde hacía mucho tiempo\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo China está transformando una zona rural donde se cultivan papas en el centro de su competencia tecnológica con EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-china-esta-transformando-una-zona-rural-donde-se-cultivan-papas-en-el-centro-de-su-competencia-tecnologica-con-ee-uu/",
-      "fecha": "Mon, 28 Sep 2026 04:35:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La BBC visitó Mongolia Interior, uno de los escenarios más inesperados de la carrera entre Pekín y Washington por el liderazgo en inteligencia artificial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos personas mueren durante balacera en Huité, Zacapa",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-personas-mueren-durante-balacera-en-huite-zacapa/",
-      "fecha": "Mon, 28 Sep 2026 03:55:01 +0000",
-      "categoria": "Sucesos",
-      "resumen": "La noche se tornó tensa en Huité, Zacapa, tras una balacera que dejó dos personas muertas y una herida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bolillo Gómez anticipa el duelo con Guatemala: “Siempre ha sido un partido muy apretado”",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/bolillo-gomez-anticipa-el-duelo-con-guatemala-siempre-ha-sido-un-partido-muy-apretado-breaking/",
-      "fecha": "Mon, 28 Sep 2026 02:48:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Hernán Darío Gómez, técnico de El Salvador, reconoció que los duelos ante la Bicolor suelen ser muy disputados y advirtió que la victoria frente a Martinica no basta para hablar de jerarquía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC pide al Sistema de Justicia evitar la libertad de presuntos delincuentes capturados",
-      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-pide-al-sistema-de-justicia-no-dejar-en-libertad-a-los-delincuentes-capturados-breaking/",
-      "fecha": "Mon, 28 Sep 2026 01:48:37 +0000",
-      "categoria": "Justicia",
-      "resumen": "La Policía Nacional Civil (PNC) llama al Sistema de Justicia actuar con apego a la legislación contra el terrorismo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los jugadores de Irlanda e Israel no se dan la mano en un encuentro cargado de tensión y polémica",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-jugadores-de-irlanda-e-israel-no-se-dan-la-mano-en-un-encuentro-cargado-de-tension-y-polemica/",
-      "fecha": "Mon, 28 Sep 2026 00:58:53 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los jugadores de la República de Irlanda e Israel no se dieron la mano ni antes ni después del polémico partido de la Liga de Naciones de la UEFA que se disputó el domingo en Hungría."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién debe poner límites a la IA? Gobiernos y gigantes tecnológicos buscan reglas comunes",
-      "link": "https://www.prensalibre.com/vida/tecnologia/quien-debe-poner-limites-a-la-ia-gobiernos-y-gigantes-tecnologicos-buscan-reglas-comunes/",
-      "fecha": "Mon, 28 Sep 2026 00:13:28 +0000",
-      "categoria": "Tecnología",
-      "resumen": "La regulación de la inteligencia artificial está cada vez más fragmentada en un mundo sin fronteras digitales: Europa, China y Estados Unidos toman rutas diferentes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Suspenden trabajos de mantenimiento en puente Santa Cruz, Zacapa",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/cerraran-ambas-vias-del-puente-santa-cruz-en-zacapa-por-trabajos-breaking/",
-      "fecha": "Mon, 28 Sep 2026 00:03:57 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El puente Santa Cruz, en Zacapa, permanecería cerrado durante dos horas por trabajos de mantenimiento; sin embargo, la medida fue suspendida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Huracán Polo deja dos niños muertos y tres desaparecidos en Jalisco y avanza hacia Baja California Sur",
-      "link": "https://www.prensalibre.com/internacional/huracan-polo-deja-dos-ninos-muertos-y-tres-desaparecidos-en-jalisco-y-avanza-hacia-baja-california-sur/",
-      "fecha": "Mon, 28 Sep 2026 00:03:45 +0000",
-      "categoria": "Internacional",
-      "resumen": "Equipos de emergencia buscan a tres personas desaparecidas en Jalisco, donde el huracán Polo dejó dos niños muertos y causó derrumbes y deslaves."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las palabras que usan niños y adolescentes en internet y qué significan",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/las-palabras-que-usan-ninos-y-adolescentes-en-internet-y-que-significan/",
-      "fecha": "Sun, 27 Sep 2026 23:33:20 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Especialistas explican los términos y expresiones más utilizados por los más jóvenes en el ámbito digital, con el objeto de  reducir la brecha comunicacional en las familias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las imágenes de la acampada en la Puerta del Sol de Madrid para protestar por la crisis de vivienda",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-imagenes-de-la-acampada-en-la-puerta-del-sol-de-madrid-para-protestar-por-la-crisis-de-vivienda/",
-      "fecha": "Sun, 27 Sep 2026 23:23:56 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Cientos de personas pasaron la noche en la plaza tras una protesta motivada por el desahucio de Maricarmen, una mujer de 87 años a la que desalojaron de la vivienda que alquilaba en Madrid."
     },
     {
       "fuente": "Guatemala.com",
