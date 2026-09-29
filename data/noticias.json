@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-29T03:16:07.198Z",
+  "actualizado": "2026-09-29T04:16:05.194Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala aplasta 6-0 a El Salvador: Fajardo firma un triplete en la goleada de la Bicolor",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-aplasta-6-0-a-el-salvador-fajardo-firma-un-triplete-en-la-goleada-de-la-bicolor-breaking/",
+      "fecha": "Tue, 29 Sep 2026 03:55:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Noche perfecta para Guatemala en El Trébol. Con una actuación contundente de principio a fin, el conjunto de Luis Fernando Tena goleó 6-0 a El Salvador."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a guatemalteco requerido por Estados Unidos por explotación sexual de un menor",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-guatemalteco-requerido-por-estados-unidos-por-explotacion-sexual-de-un-menor-breaking/",
+      "fecha": "Tue, 29 Sep 2026 03:46:11 +0000",
+      "categoria": "Justicia",
+      "resumen": "Agentes de la PNC capturaron en Villa Nueva a un hombre de 34 años requerido por Estados Unidos con fines de extradición por cargos relacionados con la explotación sexual de un menor de edad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fuga de depredador sexual en San Diego: así escapó un hombre de 69 años que era vigilado con GPS",
+      "link": "https://www.prensalibre.com/internacional/fuga-de-depredador-sexual-en-san-diego-asi-escapo-un-hombre-de-69-anos-que-era-vigilado-con-gps/",
+      "fecha": "Tue, 29 Sep 2026 03:21:02 +0000",
+      "categoria": "Internacional",
+      "resumen": "¿Cómo se quitó el gps Merle Wakefield, vigilado las 24 horas? La alarmante fuga en Rancho Bernardo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Investigadores identifican cómo las células cancerosas sobreviven al llegar al cerebro y favorecen la progresión de la metástasis",
@@ -793,30 +817,6 @@
       "fecha": "Sun, 27 Sep 2026 22:40:07 +0000",
       "categoria": "Justicia",
       "resumen": "Allanamientos en tres municipios de Sacatepéquez llevaron al hallazgo de dos presuntos narcolaboratorios, pequeñas plantaciones de presunta marihuana, armas y sustancias bajo análisis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué algunos alimentos nos parecen deliciosos y otros repugnantes",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/por-que-algunos-alimentos-nos-parecen-deliciosos-y-otros-repugnantes/",
-      "fecha": "Sun, 27 Sep 2026 22:30:25 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "El asco por la comida no depende solo del sabor: la cultura también influye, por eso en algunos países es común comer  insectos, pero para otros causa rechazo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hombre muere baleado en un autohotel de Petén donde la PNC capturó a una mujer y halló drogas",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/hombre-muere-baleado-en-un-autohotel-de-peten-donde-la-pnc-capturo-a-una-mujer-y-hallo-drogas/",
-      "fecha": "Sun, 27 Sep 2026 22:21:09 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Dos hombres con pasamontañas asesinaron a balazos a un hombre en un autohotel de Las Cruces, Petén."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Nadie es indispensable”: Luis Fernando Tena anticipa posibles cambios ante El Salvador",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/nadie-es-indispensable-luis-fernando-tena-anticipa-posibles-cambios-ante-el-salvador-breaking/",
-      "fecha": "Sun, 27 Sep 2026 22:15:30 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El técnico de la Selección de Guatemala, Luis Fernando Tena, habló sobre los posibles cambios para enfrentar el próximo lunes a El Salvador y no descartó variantes en la portería y el ataque."
     },
     {
       "fuente": "Guatemala.com",
