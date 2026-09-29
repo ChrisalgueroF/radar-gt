@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-29T01:15:48.417Z",
+  "actualizado": "2026-09-29T02:14:25.291Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lluvias dejan 18 muertos en Guatemala mientras Conred registra más de mil 700 emergencias",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-dejan-18-muertos-en-guatemala-mientras-conred-registra-mas-de-mil-700-emergencias-breaking/",
+      "fecha": "Tue, 29 Sep 2026 02:00:07 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La temporada lluviosa del 2026 ha dejado 18 personas fallecidas en Guatemala, ocho de ellas arrastradas por ríos, según el consolidado de la Conred."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una niña prodigio británica de 11 años se convierte en la gran maestra más joven de la historia del ajedrez",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-nina-prodigio-britanica-de-11-anos-se-convierte-en-la-gran-maestra-mas-joven-de-la-historia-del-ajedrez/",
+      "fecha": "Tue, 29 Sep 2026 01:41:19 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La joven de 11 años ha batido otro récord de ajedrez tras una actuación extraordinaria representando a Inglaterra."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un ejecutivo de The New York Times es asesinado a tiros presuntamente por sus suegros",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-ejecutivo-de-the-new-york-times-es-asesinado-a-tiros-presuntamente-por-sus-suegros/",
+      "fecha": "Tue, 29 Sep 2026 01:16:18 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los acusados, ambos de 77 años, se enfrentan a múltiples cargos, entre ellos el de homicidio en primer grado."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Qué ha pasado con la investigación de la masacre en la cevichería de la zona 6 en Guatemala?",
@@ -25,6 +49,14 @@
       "fecha": "Tue, 29 Sep 2026 00:37:13 +0000",
       "categoria": "Internacional",
       "resumen": "Funcionarios de Bolivia, Colombia y Perú, pierden el visado tras nuevas medidas de la administración de Trump."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque armado en Huité: Qué investigan las autoridades y por qué advierten del riesgo para los curiosos",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-huite-que-investigan-las-autoridades-y-por-que-advierten-del-riesgo-para-los-curiosos/",
+      "fecha": "Tue, 29 Sep 2026 00:29:41 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Ataques armados en Huité, Zacapa, dejan fallecidos y son investigados por posible presencia de estructuras criminales. Expertos advierten sobre grabar los hechos."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,38 +817,6 @@
       "fecha": "Sun, 27 Sep 2026 21:10:55 +0000",
       "categoria": "Política",
       "resumen": "En asamblea nacional extraordinaria, el partido Prosperidad Ciudadana completó la integración de su Comité Ejecutivo Nacional y eligió a los miembros del Tribunal de Honor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Janderson Pereira lidera con doblete la victoria de Cobán 3-2 sobre Aurora",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/janderson-pereira-lidera-con-doblete-la-victoria-de-coban-3-2-sobre-aurora-breaking/",
-      "fecha": "Sun, 27 Sep 2026 21:03:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los príncipes azules cortaron una racha de siete partidos sin ganar al vencer 3-2 a Aurora en el estadio José Ángel Rossi, en un partido cerrado en el que el brasileño fue figura para los locales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vecinos de Villa Hermosa rechazan al alcalde de San Miguel Petapa durante visita a zona afectada por colapso de viviendas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/vecinos-de-villa-hermosa-rechazan-visita-del-alcalde-de-san-miguel-petapa-breaking/",
-      "fecha": "Sun, 27 Sep 2026 20:34:23 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El alcalde Mynor Morales llegó a Villa Hermosa, donde varias viviendas han colapsado por la fuerza del río Pinula; sin embargo, los vecinos rechazaron su visita."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump espera negociar con Irán esta semana tras rechazar su propuesta sobre Ormuz",
-      "link": "https://www.prensalibre.com/internacional/trump-espera-negociar-con-iran-esta-semana-tras-rechazar-su-propuesta-sobre-ormuz/",
-      "fecha": "Sun, 27 Sep 2026 20:29:48 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump rechazó las condiciones de Irán sobre Ormuz, pero espera retomar las negociaciones esta semana mientras persisten las diferencias sobre el programa nuclear iraní."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Mixco vs. Antigua GFC: siga el minuto a minuto de la jornada 11 del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-mixco-vs-antigua-gfc-siga-el-minuto-a-minuto-de-la-jornada-11-del-apertura-20267breaking/",
-      "fecha": "Sun, 27 Sep 2026 20:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los chicharroneros reciben a los coloniales este domingo a las 3:00 PM en el estadio Santo Domingo de Guzmán en un duelo donde ambos equipos buscarán redimirse tras sus derrotas en la última fecha."
     },
     {
       "fuente": "Guatemala.com",
