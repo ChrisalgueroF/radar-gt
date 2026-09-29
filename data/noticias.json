@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-09-29T21:15:15.326Z",
+  "actualizado": "2026-09-29T22:15:10.953Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo designa a Jonathan Menkos como presidente del Banco de Guatemala y la Junta Monetaria",
+      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-designa-a-jonathan-menkos-como-presidente-del-banco-de-guatemala-y-la-junta-monetaria-breaking/",
+      "fecha": "Tue, 29 Sep 2026 22:04:35 +0000",
+      "categoria": "Política",
+      "resumen": "El presidente Bernardo Arévalo designó a Jonathan Menkos Zeissig para dirigir el Banco de Guatemala y la Junta Monetaria, en sustitución de Alvaro González Ricci."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video muestra a guatemaltecos huyendo del ICE: El operativo fue en una famosa taquería de Florida",
+      "link": "https://www.prensalibre.com/internacional/video-muestra-a-guatemaltecos-huyendo-del-ice-el-operativo-fue-en-una-famosa-taqueria-de-florida/",
+      "fecha": "Tue, 29 Sep 2026 21:57:56 +0000",
+      "categoria": "Internacional",
+      "resumen": "Según el dueño de la taquería, una de las detenidas es una guatemalteca de 23 años que tiene a su mamá enferma de cáncer, por lo que trabajaba para poder pagarle la quimioterapia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Selección de Guatemala: José Bolaños recibe su primera convocatoria y se suma a las opciones de Tena",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-jose-bolanos-recibe-su-primera-convocatoria-y-se-suma-a-las-opciones-de-tena/",
+      "fecha": "Tue, 29 Sep 2026 21:34:12 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "José Ramón Bolaños recibió su primera convocatoria a la Selección Nacional de Guatemala para los partidos ante Surinam por la Liga de Naciones de la Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jornada crítica en las calles: ataques armados y accidentes dejan cierres viales y fuerte congestionamiento",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/jornada-critica-en-las-calles-ataques-armados-y-accidentes-dejan-cierres-viales-y-fuerte-congestionamiento-breaking/",
+      "fecha": "Tue, 29 Sep 2026 21:32:50 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Ataques armados y accidentes viales sacuden la capital, Mixco y Villa Nueva y desatan fuertes complicaciones de tránsito."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Me tendieron una trampa&#8221;: el periodista estadounidense que fue detenido por hombres enmascarados y pasó 16 meses en una cárcel de Rusia",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/me-tendieron-una-trampa-el-periodista-estadounidense-que-fue-detenido-por-hombres-enmascarados-y-paso-16-meses-en-una-carcel-de-rusia/",
+      "fecha": "Tue, 29 Sep 2026 21:16:06 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Evan Gershkovich dice que se dio cuenta de que era \"un peón en un juego mayor\" cuando no fue interrogado ni torturado por agentes de inteligencia rusos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Conred comprará alimentos por Q500 millones mientras busca a las familias que los recibirán",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/conred-comprara-alimentos-por-q500-millones-mientras-busca-a-las-familias-que-los-recibiran/",
+      "fecha": "Tue, 29 Sep 2026 21:08:57 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Conred comprará 671 mil raciones de alimentos para distribuir a familias de agricultores que perdieron sus cultivos por la sequía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ballet Moderno y Folklórico presenta su temporada familiar con tres funciones que celebran la identidad de Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/ballet-moderno-y-folklorico-presenta-su-temporada-familiar-con-tres-funciones-que-celebran-la-identidad-de-guatemala/",
+      "fecha": "Tue, 29 Sep 2026 21:07:27 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con tres funciones que llevarán al público por un recorrido de la identidad cultural y las tradiciones del país, el Ballet Moderno y Folklórico presenta su temporada familiar."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Festival del Centro Histórico 2026: más de 150 actividades gratuitas en Guatemala",
@@ -44,7 +100,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Avanzan a tercera lectura reformas sobre prisión preventiva ¿Qué cambios están en discusión?",
+      "titulo": "Avanzan a tercera lectura reformas sobre prisión preventiva ¿Qué cambios fueron aprobados?",
       "link": "https://www.prensalibre.com/guatemala/politica/avanzan-a-tercera-lectura-reformas-sobre-prision-preventiva-que-cambios-estan-en-discusion/",
       "fecha": "Tue, 29 Sep 2026 19:31:24 +0000",
       "categoria": "Guatemala",
@@ -68,11 +124,19 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Ataques armados en Huité: sube a ocho la cifra de fallecidos y el MP reúne más de 70 indicios balísticos",
+      "titulo": "MP revela más datos de la matanza en Huité: 4 escenas del crimen, 70 indicios balísticos y 8 muertos",
       "link": "https://www.prensalibre.com/guatemala/justicia/ataques-armados-en-huite-sube-a-ocho-la-cifra-de-fallecidos-y-el-mp-reune-mas-de-70-indicios-balisticos-breaking/",
       "fecha": "Tue, 29 Sep 2026 19:22:44 +0000",
       "categoria": "Justicia",
       "resumen": "El Ministerio Público informó que aumentó a ocho la cifra de fallecidos por los ataques armados en Huité, Zacapa, y dio detalles de los indicios recabados durante las diligencias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Podrán manipular y chantajear?: la alerta de Anthropic sobre la IA y por qué la considera un &#8220;riesgo para la humanidad&#8221;",
+      "link": "https://www.prensalibre.com/internacional/podran-manipular-y-chantajear-la-alerta-de-anthropic-sobre-la-ia-y-por-que-la-considera-un-riesgo-para-la-humanidad/",
+      "fecha": "Tue, 29 Sep 2026 19:05:51 +0000",
+      "categoria": "Internacional",
+      "resumen": "En un folleto donde reportaban pérdidas millonarias en este año, Anthropic alertó que sus modelos de IA podrían tener la capacidad de \"manipular y chantajear\" a los usuarios."
     },
     {
       "fuente": "Prensa Libre",
@@ -753,70 +817,6 @@
       "fecha": "Mon, 28 Sep 2026 20:49:06 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Desde sus primeros goles con Deportivo Xela hasta su paso por Europa, Ventura construyó una trayectoria que ahora alcanza los 400 tantos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tiroteo durante una fiesta de cumpleaños en Georgia: 12 jóvenes heridos tras enfrentamiento",
-      "link": "https://www.prensalibre.com/internacional/tiroteo-durante-una-fiesta-de-cumpleanos-en-georgia-12-jovenes-heridos-tras-enfrentamiento/",
-      "fecha": "Mon, 28 Sep 2026 20:32:45 +0000",
-      "categoria": "Internacional",
-      "resumen": "Dos grupos de personas se dispararon entre sí durante una fiesta de cumpleaños, lo que dejó a doce adolescentes heridos de bala y reavivó el debate sobre el control de armas en EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Recorrido de Leyendas revive la tradición oral que perdura desde el traslado de la ciudad de Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/recorrido-de-leyendas-revive-la-tradicion-oral-que-perdura-desde-el-traslado-de-la-ciudad-de-guatemala/",
-      "fecha": "Mon, 28 Sep 2026 20:30:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La tradición oral que de generación en generación ha asustado a los guatemaltecos revivirá por dos noches más en el Cerrito del Carmen, durante los Recorridos de Leyendas. Conozca los detalles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fernando Batista es destituido de Costa Rica: qué resultados provocaron su salida y quién lo reemplaza",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/fernando-batista-es-destituido-de-costa-rica-que-resultados-provocaron-su-salida-y-quien-lo-reemplaza/",
-      "fecha": "Mon, 28 Sep 2026 20:19:02 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La Federación Costarricense de Futbol puso fin al ciclo de Fernando Batista tras una racha de malos resultados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Día del Niño en el Zoológico La Aurora: descubrimientos, retos y diversión son parte de la agenda para los niños",
-      "link": "https://www.prensalibre.com/vida/escenario/dia-del-nino-en-el-zoologico-la-aurora-descubrimientos-retos-y-diversion-son-parte-de-la-agenda-para-los-ninos/",
-      "fecha": "Mon, 28 Sep 2026 20:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Con una invitación a explorar y aprender, el Zoológico La Aurora celebrará durante tres días el Día del Niño con actividades especiales para los más pequeños del hogar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Huité: el bastión histórico de los Lorenzana y su presencia en Zacapa y oriente de Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/huite-el-bastion-historico-de-los-lorenzana-y-su-presencia-en-zacapa-y-oriente-de-guatemala/",
-      "fecha": "Mon, 28 Sep 2026 19:55:23 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Huité tiene un antecedente histórico como uno de los principales bastiones de los Lorenzana, un clan dedicado al tráfico de drogas que, según autoridades de Guatemala y Estados Unidos, mantiene actividades en el oriente del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jefes de bloques evitan compromisos de transparencia para la elección del jefe de la CGC",
-      "link": "https://www.prensalibre.com/guatemala/politica/jefes-de-bloques-evitan-compromisos-de-transparencia-para-la-eleccion-del-jefe-de-la-cgc/",
-      "fecha": "Mon, 28 Sep 2026 19:45:02 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Uno de los seis candidatos para jefe de la Contraloría General de Cuentas es investigado por el Ministerio Público."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones 2027: TSE anuncia cuando será el primer simulacro del sistema de transmisión de resultados",
-      "link": "https://www.prensalibre.com/guatemala/politica/elecciones-2027-tse-anuncia-cuando-sera-el-primer-simulacro-del-sistema-de-transmision-de-resultados-breaking/",
-      "fecha": "Mon, 28 Sep 2026 19:32:05 +0000",
-      "categoria": "Política",
-      "resumen": "El TSE informó cómo será el proceso de simulacro del sistema de transmisión de resultados y se refirió a la reunión con representantes del Departamento de Estado de Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Tendrán que matarme&#8221;: surge nuevo video del ataque en Times Squares hecho por Pamela Cisneros",
-      "link": "https://www.prensalibre.com/internacional/tendran-que-matarme-surge-nuevo-video-del-ataque-en-times-squares-hecho-por-pamela-cisneros/",
-      "fecha": "Mon, 28 Sep 2026 19:09:22 +0000",
-      "categoria": "Internacional",
-      "resumen": "Se ha publicado un video, tomado por la cámara corporal de un policía, del ataque en Times Square protagonizada por una mujer llamada Pamela Cisneros."
     },
     {
       "fuente": "Guatemala.com",
