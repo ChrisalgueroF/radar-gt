@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-29T19:16:10.379Z",
+  "actualizado": "2026-09-29T20:17:02.025Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Avanzan a tercera lectura reformas sobre prisión preventiva ¿Qué cambios están en discusión?",
+      "link": "https://www.prensalibre.com/guatemala/politica/avanzan-a-tercera-lectura-reformas-sobre-prision-preventiva-que-cambios-estan-en-discusion/",
+      "fecha": "Tue, 29 Sep 2026 19:31:24 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Cambios en los plazos de la prisión preventiva, nuevas medidas sustitutivas y mayores controles judiciales forman parte de las reformas al Código Procesal Penal que el Congreso conocerá este martes 28 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Diputados buscarían apoyo para nombrar a Giovanni Castellanos nuevo contralor general de Cuentas",
+      "link": "https://www.prensalibre.com/guatemala/politica/diputados-buscarian-apoyo-para-nombrar-a-giovanni-castellanos-nuevo-contralor-general-de-cuentas/",
+      "fecha": "Tue, 29 Sep 2026 19:29:54 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Las negociaciones incluirían la reelección de algunos diputados para continuar con puestos en la Junta Directiva del Congreso para el período 2027-2028."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataques armados en Huité: sube a ocho la cifra de fallecidos y el MP reúne más de 70 indicios balísticos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ataques-armados-en-huite-sube-a-ocho-la-cifra-de-fallecidos-y-el-mp-reune-mas-de-70-indicios-balisticos-breaking/",
+      "fecha": "Tue, 29 Sep 2026 19:22:44 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Ministerio Público informó que aumentó a ocho la cifra de fallecidos por los ataques armados en Huité, Zacapa, y dio detalles de los indicios recabados durante las diligencias."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Observadores piden elección de Contralor alejada del crimen organizado, narcotráfico y con independencia política",
@@ -17,6 +41,14 @@
       "fecha": "Tue, 29 Sep 2026 18:48:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "La Bicolor volvió a golear por seis tantos en un partido oficial y se suma a una lista histórica en la que aparecen triunfos como el 10-0 sobre Anguila y el 9-3 frente a San Vicente y las Granadinas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué sanción podría recibir el Manchester City tras el fallo de la Premier League?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/que-sancion-podria-recibir-el-manchester-city-tras-el-fallo-de-la-premier-league/",
+      "fecha": "Tue, 29 Sep 2026 18:24:51 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "“El caso más importante” de la Premier League: Manchester City queda a la espera de su sanción."
     },
     {
       "fuente": "Prensa Libre",
@@ -41,6 +73,14 @@
       "fecha": "Tue, 29 Sep 2026 18:09:09 +0000",
       "categoria": "Sucesos",
       "resumen": "Tiroteo en la zona 6 deja tres heridos y provoca cierres viales que complican la movilidad en la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un supuesto intento por capturar a &#8220;Haroldito&#8221; Lorenzana y ocho muertos: esto revelan informes policiales sobre ataque en Huité, Zacapa",
+      "link": "https://www.prensalibre.com/guatemala/justicia/un-supuesto-intento-por-capturar-a-haroldito-lorenzana-y-ocho-muertos-esto-revelan-informes-policiales-sobre-ataque-en-huite-zacapa/",
+      "fecha": "Tue, 29 Sep 2026 17:41:57 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Un informe policial señala que un grupo armado habría seguido a Haroldito Lorenzana en Huité; otro reporte menciona unos 20 hombres, helicópteros y un convoy supuestamente militar."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,46 +825,6 @@
       "fecha": "Mon, 28 Sep 2026 17:57:15 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Los abogados de Pike, que asesinó a una joven en 1995, afirman que debería recibir clemencia y que si fuera juzgada hoy no sería condenada a muerte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Emetra explica cuáles serán las sanciones por la interrupción premeditada o intencional del tránsito en la capital",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/emetra-explica-cuales-seran-las-sanciones-por-la-interrupcion-premeditada-o-intencional-del-transito-en-la-capital-breaking/",
-      "fecha": "Mon, 28 Sep 2026 17:51:39 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Emetra reporta un aumento de vehículos averiados en la ciudad de Guatemala y señala una posible intención de provocar congestionamiento, por lo que ha presentado denuncias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Selección de Guatemala: dónde ver el partido de la Bicolor frente a El Salvador",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-donde-ver-el-partido-de-la-bicolor-frente-a-el-salvador/",
-      "fecha": "Mon, 28 Sep 2026 17:50:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Selección de Guatemala recibe esta noche a El Salvador en el estadio Manuel Felipe Carrera, El Trébol, obligada a ganar para mantenerse con vida en la lucha por la clasificación a la siguiente fase de la Liga de Naciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inundaciones en Nueva Jersey por tormenta: ¿Hay tiburones en las calles de Atlantic City?",
-      "link": "https://www.prensalibre.com/internacional/inundaciones-en-nueva-jersey-por-tormenta-hay-tiburones-en-las-calles-de-atlantic-city/",
-      "fecha": "Mon, 28 Sep 2026 17:46:02 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un posible tiburón fue visto frente a una vivienda inundada durante el temporal que afectó zonas de Nueva Jersey y la advertencia surgió a partir de un video publicado en X."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Taylor Swift hace historia en los MTV VMA 2026 y se convierte en la artista más premiada",
-      "link": "https://www.prensalibre.com/vida/escenario/taylor-swift-hace-historia-en-los-mtv-vma-2026-y-se-convierte-en-la-artista-mas-premiada/",
-      "fecha": "Mon, 28 Sep 2026 17:41:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante estadounidense rompió un récord durante la ceremonia que reconoce los mejores videos musicales del año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Espero ganar ese premio para Centroamérica&#8221;: Kendall Peña busca el Latin Grammy y representar a la región con su música",
-      "link": "https://www.prensalibre.com/vida/escenario/espero-ganar-ese-premio-para-centroamerica-kendall-pena-busca-el-latin-grammy-y-representar-a-la-region-con-su-musica/",
-      "fecha": "Mon, 28 Sep 2026 17:27:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El cantautor costarricense Kendall Peña está nominado al Latin Grammy como Mejor Nuevo Artista, por lo que desea obtener ese galardón y convertirse en el segundo centroamericano en destacar en esa categoría."
     },
     {
       "fuente": "Guatemala.com",
