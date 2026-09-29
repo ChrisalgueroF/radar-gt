@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-29T13:19:13.622Z",
+  "actualizado": "2026-09-29T14:17:03.331Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Trapearon con nosotros”: ¿Qué dijo la prensa de El Salvador sobre la derrota 6-0 en Guatemala?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/trapearon-con-nosotros-que-dijo-la-prensa-de-el-salvador-sobre-la-derrota-6-0-en-guatemala/",
+      "fecha": "Tue, 29 Sep 2026 14:15:08 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La prensa de El Salvador criticó a los dirigidos por el entrenador colombiano Hernán Darío \"El Bolillo\" Gómez, quienes cayeron 6-0 en el Trébol ante la selección de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "A un mes del fiambre: estos son los precios de verduras, embutidos, quesos y enlatados",
+      "link": "https://www.prensalibre.com/economia/a-un-mes-del-fiambre-estos-son-los-precios-de-verduras-embutidos-quesos-y-enlatados/",
+      "fecha": "Tue, 29 Sep 2026 14:01:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Preparar el fiambre todavía no tiene un precio definitivo para el 2026, pero los primeros precios de sus ingredientes ya permiten conocer cuánto cuesta comenzar a llenar la lista de compras."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Insivumeh registra dos temblores de magnitudes 4.5 y 4.1; uno tuvo epicentro en Huehuetenango",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-29-de-septiembre-de-2026-en-guatemala-breaking/",
+      "fecha": "Tue, 29 Sep 2026 13:46:25 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh compartió los detalles de dos temblores registrados este martes 29 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lluvia y accidentes complican el tránsito en las principales rutas de la metrópoli este 29 de septiembre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvia-y-accidentes-complican-el-transito-en-las-principales-rutas-de-la-metropoli-este-29-de-septiembre-breaking/",
+      "fecha": "Tue, 29 Sep 2026 13:10:29 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Colisiones y asfalto mojado afectan la movilidad vehicular en la capital y municipios aledaños este martes."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Qué se sabe del Corredor Andes-Atlántico, el ambicioso proyecto con el que EE.UU. busca acceder a recursos estratégicos de Argentina (y competir con China)",
@@ -785,38 +817,6 @@
       "fecha": "Mon, 28 Sep 2026 06:06:00 +0000",
       "categoria": "Editorial",
       "resumen": "Un cargo público no es una minimonarquía, y debería entrañar más obligaciones que privilegios, pues todo magistrado, diputado o funcionario se ha postulado voluntariamente para servir, y no para servirse."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Esta guerra provoca adaptación y cambios",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/esta-guerra-provoca-adaptacion-y-cambios/",
-      "fecha": "Mon, 28 Sep 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Todos los países ya están afectados por la guerra USA-Oriente Medio y su población debe adaptarse a los urgentes cambios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Xi Jinping reconoce los riesgos de la IA mientras Donald Trump los minimiza",
-      "link": "https://www.prensalibre.com/internacional/xi-jinping-reconoce-los-riesgos-de-la-ia-mientras-donald-trump-los-minimiza/",
-      "fecha": "Mon, 28 Sep 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente chino, Xi Jinping, plantea mantener la inteligencia artificial bajo control humano y dialogar sobre sus riesgos, mientras Donald Trump se resiste a nuevas restricciones para la industria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Turismo necesita más inversión",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/turismo-necesita-mas-inversion/",
-      "fecha": "Mon, 28 Sep 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Más competitividad para mejorar los ingresos"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aceptar cargos no basta",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/aceptar-cargos-no-basta/",
-      "fecha": "Mon, 28 Sep 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Una de cada tres sentencias registradas por el MP en 2025 fue por aceptación de cargos."
     },
     {
       "fuente": "Guatemala.com",
