@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-09-30T05:16:31.113Z",
+  "actualizado": "2026-09-30T06:20:32.417Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nombramiento de Jonathan Menkos en el Banguat genera dudas por su curul de diputado",
+      "link": "https://www.prensalibre.com/economia/nombramiento-de-jonathan-menkos-en-el-banguat-genera-dudas-por-su-curul-de-diputado/",
+      "fecha": "Wed, 30 Sep 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El presidente Bernardo Arévalo designó a las nuevas autoridades del Banco de Guatemala (Banguat) y de la Superintendencia de Bancos (SIB) para el período 2026-2030, quienes asumirán sus cargos este jueves 1 de octubre. Sin embargo, surgieron cuestionamientos jurídicos, entre diputados y analistas, en el caso de Menkos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "A pesar de las tachas",
+      "link": "https://www.prensalibre.com/opinion/caricatura/a-pesar-de-las-tachas-2/",
+      "fecha": "Wed, 30 Sep 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Autonomía técnica del Banguat debe continuar",
+      "link": "https://www.prensalibre.com/opinion/editorial/autonomia-tecnica-del-banguat-debe-continuar/",
+      "fecha": "Wed, 30 Sep 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "La joya de la corona de la institucionalidad económica del país es la autonomía técnica e independencia política del Banguat."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo reducir el riesgo de contagio de gripe persistente, que puede durar meses",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/como-reducir-el-riesgo-de-contagio-de-gripe-persistente-que-puede-durar-meses/",
+      "fecha": "Wed, 30 Sep 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "La temporada de gripe ya está aquí y millones de personas contraerán el virus. ¿Cómo reducir el riesgo de contagio?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Europa teme una crisis energética si Trump prohíbe las exportaciones de diésel de EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/europa-teme-una-crisis-energetica-si-donald-trump-prohibe-las-exportaciones-de-diesel-de-ee-uu/",
+      "fecha": "Wed, 30 Sep 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "La Unión Europea prepara medidas ante una posible restricción estadounidense, mientras afronta bajas reservas de gas y una fuerte dependencia del diésel importado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El papa y su calidad religiosa y de estadista",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-papa-y-su-calidad-religiosa-y-de-estadista/",
+      "fecha": "Wed, 30 Sep 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Es un estadista, alguien con gran saber y visión de largo plazo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Poner las barbas en remojo",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/poner-las-barbas-en-remojo/",
+      "fecha": "Wed, 30 Sep 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Ahora, nuevamente estamos en la picota como país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Se suspenden operaciones de Bancafé en 2006",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/se-suspenden-operaciones-de-bancafe-en-2006/",
+      "fecha": "Wed, 30 Sep 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Se obtuvo oro y plata por parte de la Compañía Montana Exploradora de Guatemala, S. A."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy miércoles 30 de septiembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-30-de-septiembre-de-2026/",
+      "fecha": "Wed, 30 Sep 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los tres sombreros de la empresa familiar",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/los-tres-sombreros-de-la-empresa-familiar/",
+      "fecha": "Wed, 30 Sep 2026 06:00:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "Cada sombrero trae consigo un tipo distinto de conversación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De realidades que empeoran futuros deseables",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/de-realidades-que-empeoran-futuros-deseables/",
+      "fecha": "Wed, 30 Sep 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "¿Qué pasaría si dejáramos de ver los barrancos como límites y comenzáramos a entenderlos como conectores?"
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EE.UU. se retira completamente de Irak tras 20 años de presencia militar: cómo deja el país y qué ocurrirá ahora",
@@ -721,94 +809,6 @@
       "fecha": "Tue, 29 Sep 2026 04:35:48 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "En un acceso poco frecuente a la zona de conflicto de Yemen, la BBC entra en una ciudad donde resuenan los disparos provenientes de las colinas circundantes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala aplasta 6-0 a El Salvador: Fajardo firma un triplete en la goleada de la Bicolor",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-aplasta-6-0-a-el-salvador-fajardo-firma-un-triplete-en-la-goleada-de-la-bicolor-breaking/",
-      "fecha": "Tue, 29 Sep 2026 03:55:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Noche perfecta para Guatemala en El Trébol. Con una actuación contundente de principio a fin, el conjunto de Luis Fernando Tena goleó 6-0 a El Salvador."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan a guatemalteco requerido por Estados Unidos por explotación sexual de un menor",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-guatemalteco-requerido-por-estados-unidos-por-explotacion-sexual-de-un-menor-breaking/",
-      "fecha": "Tue, 29 Sep 2026 03:46:11 +0000",
-      "categoria": "Justicia",
-      "resumen": "Agentes de la PNC capturaron en Villa Nueva a un hombre de 34 años requerido por Estados Unidos con fines de extradición por cargos relacionados con la explotación sexual de un menor de edad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fuga de depredador sexual en San Diego: así escapó un hombre de 69 años que era vigilado con GPS",
-      "link": "https://www.prensalibre.com/internacional/fuga-de-depredador-sexual-en-san-diego-asi-escapo-un-hombre-de-69-anos-que-era-vigilado-con-gps/",
-      "fecha": "Tue, 29 Sep 2026 03:21:02 +0000",
-      "categoria": "Internacional",
-      "resumen": "¿Cómo se quitó el gps Merle Wakefield, vigilado las 24 horas? La alarmante fuga en Rancho Bernardo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Investigadores identifican cómo las células cancerosas sobreviven al llegar al cerebro y favorecen la progresión de la metástasis",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/investigadores-identifican-como-las-celulas-cancerosas-sobreviven-al-llegar-al-cerebro-y-favorecen-la-progresion-de-la-metastasis/",
-      "fecha": "Tue, 29 Sep 2026 03:01:46 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Un estudio identifica una pausa proliferativa temporal dependiente de MXD4 que permite a las células cancerosas adaptarse al estrés y sobrevivir durante las primeras etapas de la colonización cerebral."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inacif identifica a seis de las siete víctimas de los ataques armados en Huité y revela las causas de muerte",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/inacif-identifica-a-seis-de-las-siete-victimas-de-los-ataques-armados-en-huite-y-revela-las-causas-de-muerte-breaking/",
-      "fecha": "Tue, 29 Sep 2026 02:35:59 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Inacif identificó a seis de las siete víctimas de los hechos armados registrados en Huité, Zacapa, y estableció las causas de muerte. Una menor continúa pendiente de identificar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvias dejan 18 muertos en Guatemala mientras Conred registra más de mil 700 emergencias",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-dejan-18-muertos-en-guatemala-mientras-conred-registra-mas-de-mil-700-emergencias-breaking/",
-      "fecha": "Tue, 29 Sep 2026 02:00:07 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La temporada lluviosa del 2026 ha dejado 18 personas fallecidas en Guatemala, ocho de ellas arrastradas por ríos, según el consolidado de la Conred."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una niña prodigio británica de 11 años se convierte en la gran maestra más joven de la historia del ajedrez",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-nina-prodigio-britanica-de-11-anos-se-convierte-en-la-gran-maestra-mas-joven-de-la-historia-del-ajedrez/",
-      "fecha": "Tue, 29 Sep 2026 01:41:19 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La joven de 11 años ha batido otro récord de ajedrez tras una actuación extraordinaria representando a Inglaterra."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump anuncia en Iowa la mayor planta siderúrgica de EE. UU.: Cuánto costará y cuándo operará",
-      "link": "https://www.prensalibre.com/internacional/trump-anuncia-en-iowa-la-mayor-planta-siderurgica-de-ee-uu-cuanto-costara-y-cuando-operara/",
-      "fecha": "Tue, 29 Sep 2026 01:28:51 +0000",
-      "categoria": "Internacional",
-      "resumen": "EE.UU. construirá planta siderúrgica con una inversión multimillonaria. Conozca los detalles del proyecto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un ejecutivo de The New York Times es asesinado a tiros presuntamente por sus suegros",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-ejecutivo-de-the-new-york-times-es-asesinado-a-tiros-presuntamente-por-sus-suegros/",
-      "fecha": "Tue, 29 Sep 2026 01:16:18 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los acusados, ambos de 77 años, se enfrentan a múltiples cargos, entre ellos el de homicidio en primer grado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué ha pasado con la investigación de la masacre en la cevichería de la zona 6 en Guatemala?",
-      "link": "https://www.prensalibre.com/guatemala/justicia/que-ha-pasado-con-la-investigacion-de-la-masacre-en-la-cevicheria-de-la-zona-6-en-guatemala/",
-      "fecha": "Tue, 29 Sep 2026 01:02:13 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Cinco meses han pasado desde la masacre en una cevichería de la zona 6. ¿Qué ocurrió con el caso y qué se sabe de los responsables?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En imágenes: Cazzu e Ignacio Colombara asisten juntos a un espectáculo teatral y se revelan nuevas fotos del romance",
-      "link": "https://www.prensalibre.com/vida/escenario/en-imagenes-cazzu-e-ignacio-colombara-asisten-juntos-a-un-espectaculo-teatral-y-se-revelan-nuevas-fotos-del-romance/",
-      "fecha": "Tue, 29 Sep 2026 01:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Cazzu fue captada en Argentina junto a Ignacio Colombara, con quien se le relaciona sentimentalmente. Las fotografías reavivan los rumores sobre un posible romance que surgieron en mayo pasado."
     },
     {
       "fuente": "Guatemala.com",
