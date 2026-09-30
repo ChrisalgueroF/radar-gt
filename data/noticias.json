@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-30T21:15:17.223Z",
+  "actualizado": "2026-09-30T22:16:13.467Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué se sabe sobre el apuñalamiento en un vuelo rumbo a Israel que califican como un &#8220;intento de atentado terrorista&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-se-sabe-sobre-el-apunalamiento-en-un-vuelo-rumbo-a-israel-que-califican-como-un-intento-de-atentado-terrorista/",
+      "fecha": "Wed, 30 Sep 2026 22:06:00 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Según las autoridades, el capitán y el primer oficial resultaron heridos, además de que un piloto fue arrestado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Si no logra mantener a la selección en el grupo A, se va”: el futuro del “Bolillo” Gómez tras el 6-0 ante Guatemala",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/si-no-logra-mantener-a-la-seleccion-en-el-grupo-a-se-va-el-futuro-del-bolillo-gomez-tras-el-6-0-ante-guatemala/",
+      "fecha": "Wed, 30 Sep 2026 22:01:11 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La continuidad de Hernán \"Bolillo\" Gómez al frente de El Salvador quedó en duda luego de que el técnico ofreciera dejar su cargo si la selección desciende a la Liga B."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuándo vuelve a jugar Guatemala? Fechas de los partidos de la Bicolor ante Surinam",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/cuando-vuelve-a-jugar-guatemala-fechas-de-los-partidos-de-la-bicolor-ante-surinam/",
+      "fecha": "Wed, 30 Sep 2026 21:30:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La fase de grupos entra en su recta decisiva para Guatemala, que tendrá un exigente desafío frente a Surinam en sus próximos compromisos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pinte a Snoopy mientras toma chocolate caliente en este taller de acrílico para niños y adultos",
+      "link": "https://www.prensalibre.com/vida/escenario/pinte-a-snoopy-mientras-toma-chocolate-caliente-en-este-taller-de-acrilico-para-ninos-y-adultos/",
+      "fecha": "Wed, 30 Sep 2026 21:12:57 +0000",
+      "categoria": "Escenario",
+      "resumen": "Un taller de acrílico inspirado en Snoopy invita a niños, jóvenes y adultos a crear su propia obra, sin necesidad de experiencia previa en pintura."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Carrera Mente en Marcha 2026: fecha, distancias y precio de inscripción",
@@ -17,6 +49,14 @@
       "fecha": "Wed, 30 Sep 2026 21:01:30 +0000",
       "categoria": "Internacional",
       "resumen": "El anuncio se produjo en un contexto en el que el costo de la atención médica forma parte del debate electoral, mientras Trump busca mantener la mayoría republicana en el Congreso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Maga esperó tres meses por Q20 millones para alimentos mientras avanza emergencia por sequía",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/maga-espero-tres-meses-por-q20-millones-para-alimentos-mientras-avanza-emergencia-por-sequia/",
+      "fecha": "Wed, 30 Sep 2026 20:49:24 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Tres meses después de solicitar recursos para la compra de alimento fortificado, el Maga ya tiene Q20 millones y firma un convenio con el PMA."
     },
     {
       "fuente": "Prensa Libre",
@@ -41,6 +81,14 @@
       "fecha": "Wed, 30 Sep 2026 20:03:29 +0000",
       "categoria": "Economía",
       "resumen": "Débora Alvarado asume el Ministerio de Finanzas con retos en recaudación, ejecución presupuestaria y la discusión del presupuesto para el 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gobernación investiga posible coordinación de ataques armados tras identificar un patrón atípico de violencia",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/gobernacion-investiga-posible-coordinacion-de-ataques-armados-tras-identificar-un-patron-atipico-de-violencia-breaking/",
+      "fecha": "Wed, 30 Sep 2026 19:48:44 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Gobernación afirma que tres de los seis ataques armados registrados el martes 29 de septiembre pudieron haber sido coordinados."
     },
     {
       "fuente": "Prensa Libre",
@@ -753,54 +801,6 @@
       "fecha": "Tue, 29 Sep 2026 20:25:48 +0000",
       "categoria": "Economía",
       "resumen": "Esta semana se realizará el nombramiento de las nuevas autoridades del Banco de Guatemala y de la Junta Monetaria (JM), así como de la Superintendencia de Bancos, para un nuevo período de cuatro años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso aprueba reformas a la prisión preventiva ¿Qué cambios fueron aprobados?",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-aprueba-reformas-a-la-prision-preventiva-que-cambios-fueron-aprobados/",
-      "fecha": "Tue, 29 Sep 2026 19:31:24 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Cambios en los plazos de la prisión preventiva, nuevas medidas sustitutivas y mayores controles judiciales forman parte de las reformas al Código Procesal Penal que el Congreso aprobó este martes 29 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gira científica de &#8220;Plasticósfera&#8221;: un llamado en favor del planeta",
-      "link": "https://www.prensalibre.com/vida/ciencia/gira-cientifica-de-plasticosfera-un-llamado-en-favor-del-planeta/",
-      "fecha": "Tue, 29 Sep 2026 19:31:11 +0000",
-      "categoria": "Ciencia",
-      "resumen": "A través de la observación de microplásticos en distintos cuerpos de agua y la proyección de un documental, \"Rescue the Planet\" busca crear conciencia acerca de la contaminación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fracasa intento de diputados de oposición para imponer elección de contralor general de Cuentas",
-      "link": "https://www.prensalibre.com/guatemala/politica/fracasa-intento-de-diputados-de-oposicion-para-imponer-eleccion-de-contralor-general-de-cuentas/",
-      "fecha": "Tue, 29 Sep 2026 19:29:54 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Postura de la embajada de Estados Unidos y la exposición de negociaciones habría roto los acuerdos para nombrar a Giovanni Castellanos como nuevo contralor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MP revela más datos de la matanza en Huité: 4 escenas del crimen, 70 indicios balísticos y 8 muertos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ataques-armados-en-huite-sube-a-ocho-la-cifra-de-fallecidos-y-el-mp-reune-mas-de-70-indicios-balisticos-breaking/",
-      "fecha": "Tue, 29 Sep 2026 19:22:44 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ministerio Público informó que aumentó a ocho la cifra de fallecidos por los ataques armados en Huité, Zacapa, y dio detalles de los indicios recabados durante las diligencias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Podrán manipular y chantajear?: la alerta de Anthropic sobre la IA y por qué la considera un &#8220;riesgo para la humanidad&#8221;",
-      "link": "https://www.prensalibre.com/internacional/podran-manipular-y-chantajear-la-alerta-de-anthropic-sobre-la-ia-y-por-que-la-considera-un-riesgo-para-la-humanidad/",
-      "fecha": "Tue, 29 Sep 2026 19:05:51 +0000",
-      "categoria": "Internacional",
-      "resumen": "En un folleto donde reportaban pérdidas millonarias en este año, Anthropic alertó que sus modelos de IA podrían tener la capacidad de \"manipular y chantajear\" a los usuarios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Observadores piden elección de Contralor alejada del crimen organizado, narcotráfico y con independencia política",
-      "link": "https://www.prensalibre.com/guatemala/politica/observadores-piden-eleccion-de-contralor-alejada-del-crimen-organizado-narcotrafico-y-con-independencia-politica/",
-      "fecha": "Tue, 29 Sep 2026 18:53:54 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Congreso anunció una elección para el 6 de octubre pero en cualquier momento un diputado puede mocionar para adelantar el nombramiento."
     },
     {
       "fuente": "Guatemala.com",
