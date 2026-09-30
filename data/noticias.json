@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-30T02:15:49.790Z",
+  "actualizado": "2026-09-30T03:16:47.076Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataques contra buses dejan dos muertos en la ruta al Pacífico y un motorista con quemaduras en la zona 6",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataques-contra-buses-dejan-dos-muertos-en-la-ruta-al-pacifico-y-un-motorista-con-quemaduras-en-la-zona-6-breaking/",
+      "fecha": "Wed, 30 Sep 2026 02:39:11 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos ataques armados contra buses dejaron dos muertos y varios heridos en la ruta al Pacífico y un motorista con quemaduras en la zona 6 de la capital."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Caso Larkin Morales: Sala acepta recusación y traslada al Tribunal Décimo proceso contra Carlos Acevedo",
@@ -9,6 +17,14 @@
       "fecha": "Wed, 30 Sep 2026 01:49:34 +0000",
       "categoria": "Justicia",
       "resumen": "El proceso contra Carlos Acevedo Navas será conocido por un nuevo tribunal, luego de que una sala de Apelaciones aceptara una recusación contra el Tribunal Noveno de Sentencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Baja vacunación infantil y posible fin de requisitos en Florida elevan el riesgo de una epidemia de sarampión en EE. UU., según estudio",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/baja-vacunacion-infantil-y-posible-fin-de-requisitos-en-florida-elevan-el-riesgo-de-una-epidemia-de-sarampion-en-ee-uu-segun-estudio/",
+      "fecha": "Wed, 30 Sep 2026 01:42:48 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "La disminución de la vacunación infantil en Estados Unidos, junto con la posible eliminación de la obligatoriedad de inmunizar a los niños en edad escolar en Florida, aumenta el riesgo de que se produzca una epidemia."
     },
     {
       "fuente": "Prensa Libre",
@@ -793,22 +809,6 @@
       "fecha": "Tue, 29 Sep 2026 00:05:21 +0000",
       "categoria": "Comunitario",
       "resumen": "Propuesta en Congreso de Seguridad Vial plantea seis prioridades y advierte que, sin acuerdos antes de 2028, varios avances podrían volver a empezar desde cero."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Luna del Cazador 2026: cuándo es, cómo ver la Luna llena de octubre y los fenómenos astronómicos del mes",
-      "link": "https://www.prensalibre.com/vida/ciencia/luna-del-cazador-2026-cuando-es-como-ver-la-luna-llena-de-octubre-y-los-fenomenos-astronomicos-del-mes/",
-      "fecha": "Tue, 29 Sep 2026 00:00:00 +0000",
-      "categoria": "Ciencia",
-      "resumen": "Octubre llegará con la Luna del Cazador, un espectáculo astronómico que ofrecerá a los amantes del cielo un escenario ideal para fotografiar. Estos son los eventos astronómicos del mes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Alimentos de Guatemala buscan ganar terreno en Centroamérica, el Caribe y otros mercados",
-      "link": "https://www.prensalibre.com/economia/alimentos-de-guatemala-buscan-ganar-terreno-en-centroamerica-el-caribe-y-otros-mercados/",
-      "fecha": "Tue, 29 Sep 2026 00:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La industria guatemalteca de alimentos busca consolidarse como uno de los principales actores en Centroamérica y el Caribe, mientras explora otros mercados con potencial para ampliar su presencia."
     },
     {
       "fuente": "Guatemala.com",
