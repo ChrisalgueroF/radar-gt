@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-30T03:16:47.076Z",
+  "actualizado": "2026-09-30T04:17:26.140Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comic-Con Guatemala 2026: horarios del escenario, Meet &#038; Greet, invitados y todo lo que debe saber del evento",
+      "link": "https://www.prensalibre.com/vida/escenario/comic-con-guatemala-2026-horarios-del-escenario-meet-greet-invitados-y-todo-lo-que-debe-saber-del-evento/",
+      "fecha": "Wed, 30 Sep 2026 03:30:01 +0000",
+      "categoria": "Escenario",
+      "resumen": "A pocos días de que los amantes del anime, los cómics, el cine y los videojuegos puedan encontrarse con personalidades de la cultura geek, esto es lo que debe conocer de la Comic-Con Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Balacera en zona 6: disputa entre pandillas genera dudas sobre la prevención y la inteligencia policial",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/balacera-en-zona-6-disputa-entre-pandillas-genera-dudas-sobre-la-prevencion-y-la-inteligencia-policial/",
+      "fecha": "Wed, 30 Sep 2026 03:04:03 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Una balacera atribuida preliminarmente a una disputa entre estructuras del Barrio 18 y la Mara Salvatrucha dejó tres heridos y dos capturados en la zona 6 capitalina, donde la PNC incautó fusiles, pistolas y un chaleco antibalas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Ataques contra buses dejan dos muertos en la ruta al Pacífico y un motorista con quemaduras en la zona 6",
@@ -9,6 +25,14 @@
       "fecha": "Wed, 30 Sep 2026 02:39:11 +0000",
       "categoria": "Sucesos",
       "resumen": "Dos ataques armados contra buses dejaron dos muertos y varios heridos en la ruta al Pacífico y un motorista con quemaduras en la zona 6 de la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caleb Flynn, exconcursante de “American Idol”, es declarado culpable de matar a su esposa: ¿qué ocurrió y qué revelaron las pruebas?",
+      "link": "https://www.prensalibre.com/internacional/caleb-flynn-exconcursante-de-american-idol-es-declarado-culpable-de-matar-a-su-esposa-que-ocurrio-y-que-revelaron-las-pruebas/",
+      "fecha": "Wed, 30 Sep 2026 02:25:56 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un falso intruso, mensajes reveladores y pasos registrados en dispositivos móviles: Los detalles del crimen que hundieron a Caleb Flynn."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,30 +809,6 @@
       "fecha": "Tue, 29 Sep 2026 00:37:13 +0000",
       "categoria": "Internacional",
       "resumen": "Funcionarios de Bolivia, Colombia y Perú, pierden el visado tras nuevas medidas de la administración de Trump."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ataque armado en Huité: Qué investigan las autoridades y por qué advierten del riesgo para los curiosos",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-huite-que-investigan-las-autoridades-y-por-que-advierten-del-riesgo-para-los-curiosos/",
-      "fecha": "Tue, 29 Sep 2026 00:29:41 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Ataques armados en Huité, Zacapa, dejan fallecidos y son investigados por posible presencia de estructuras criminales. Expertos advierten sobre grabar los hechos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO Guatemala golea a El Salvador y toma impulso en la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guatemala-vs-el-salvador-siga-las-incidencias-de-un-duelo-clave-para-la-bicolor-en-la-liga-de-naciones/",
-      "fecha": "Tue, 29 Sep 2026 00:15:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Guatemala celebra una goleada ante El Salvador y sigue en la lucha en la Liga de Naciones"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las dos acciones que pueden activar la ruta para reducir accidentes viales en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/las-dos-acciones-que-pueden-activar-la-ruta-para-reducir-accidentes-viales-en-guatemala/",
-      "fecha": "Tue, 29 Sep 2026 00:05:21 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Propuesta en Congreso de Seguridad Vial plantea seis prioridades y advierte que, sin acuerdos antes de 2028, varios avances podrían volver a empezar desde cero."
     },
     {
       "fuente": "Guatemala.com",
