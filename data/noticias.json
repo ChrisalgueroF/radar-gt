@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-30T18:17:56.946Z",
+  "actualizado": "2026-09-30T19:16:53.516Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Oktoberfest regresa a Guatemala con una fiesta de tradición bávara",
+      "link": "https://www.prensalibre.com/vida/escenario/oktoberfest-regresa-a-guatemala-con-una-fiesta-de-tradicion-bavara/",
+      "fecha": "Wed, 30 Sep 2026 19:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La sexta edición del Oktoberfest se celebrará en Antigua con una jornada que combinará música en vivo, gastronomía, cerveza de temporada y actividades para compartir en familia y con amigos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más agentes y centros de detención móviles: El nuevo plan del ICE para acelerar deportaciones",
+      "link": "https://www.prensalibre.com/internacional/mas-agentes-y-centros-de-detencion-moviles-el-nuevo-plan-del-ice-para-acelerar-deportaciones/",
+      "fecha": "Wed, 30 Sep 2026 18:58:37 +0000",
+      "categoria": "Internacional",
+      "resumen": "El aumento de agentes no estuvo exento de polémicas, ya que la incorporación se hizo en plazos cortos y los nuevos integrantes podrían no haber recibido la capacitación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué se sabe sobre la presunta violación grupal de una estudiante en una fraternidad de la prestigiosa Universidad de Cornell",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-se-sabe-sobre-la-presunta-violacion-grupal-de-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-cornell/",
+      "fecha": "Wed, 30 Sep 2026 18:25:34 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cristiano Ronaldo deja la concentración de Portugal: qué se sabe y qué dijo el futbolista",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-deja-la-concentracion-de-portugal-que-se-sabe-y-que-dijo-el-futbolista/",
+      "fecha": "Wed, 30 Sep 2026 18:11:33 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Cristiano Ronaldo abandona la concentración de Portugal y anuncia que explicará sus razones."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "The One About Matthew Perry: fecha de estreno, de qué trata y quiénes dan testimonios inéditos sobre la estrella de Friends",
@@ -65,6 +97,14 @@
       "fecha": "Wed, 30 Sep 2026 16:49:09 +0000",
       "categoria": "Guatemala",
       "resumen": "Una investigación sobre estructuras criminales llevó al MP y la PNC a efectuar allanamientos en dependencias policiales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hombre se hacía pasar por abogado y juez para cometer delitos y recibe condena de 24 años",
+      "link": "https://www.prensalibre.com/guatemala/justicia/hombre-se-hacia-pasar-por-abogado-y-juez-para-cometer-delitos-y-recibe-condena-de-24-anos-breaking/",
+      "fecha": "Wed, 30 Sep 2026 16:48:39 +0000",
+      "categoria": "Justicia",
+      "resumen": "Tribunal condena a hombre a 24 años de prisión en Sololá por hacerse pasar por abogado y juez."
     },
     {
       "fuente": "Prensa Libre",
@@ -761,46 +801,6 @@
       "fecha": "Tue, 29 Sep 2026 17:29:49 +0000",
       "categoria": "Sucesos",
       "resumen": "Una persona fallece y  vehículos quedan con severos daños tras múltiple colisión en el km 13 de la ruta al Pacífico, con dirección a Villa Nueva."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién fue convocado por Luis Fernando Tena para los partidos de Guatemala ante Surinam?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/quien-fue-convocado-por-luis-fernando-tena-para-los-partidos-de-guatemala-ante-surinam/",
-      "fecha": "Tue, 29 Sep 2026 17:27:09 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Con la mira puesta en Surinam, la Azul y Blanco incorpora una nueva variante para afrontar una doble jornada determinante en el torneo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quiénes regresan a la Selección de Costa Rica? Bryan Ruiz llama de nuevo a dos históricos del cuadro tico",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/quienes-regresan-a-la-seleccion-de-costa-rica-bryan-ruiz-llama-de-nuevo-a-dos-historicos-del-cuadro-tico/",
-      "fecha": "Tue, 29 Sep 2026 17:04:26 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Bryan Ruiz revoluciona a la selección de Costa Rica al devolver a Keylor Navas y Celso Borges, con la misión de evitar el descenso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Así pasó el huracán Polo por Baja California Sur y cómo sigue su trayectoria hacia el noroeste de México",
-      "link": "https://www.prensalibre.com/internacional/asi-paso-el-huracan-polo-por-baja-california-sur-y-como-sigue-su-trayectoria-hacia-el-noroeste-de-mexico/",
-      "fecha": "Tue, 29 Sep 2026 17:00:45 +0000",
-      "categoria": "Internacional",
-      "resumen": "El huracán Polo, ahora de categoría 2, pasó por Baja California sur y ahora se dirige hacia el noroeste de México."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liberan a un hombre tras pasar 41 años en el corredor de la muerte en EE.UU. gracias a una prueba de ADN",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/liberan-a-un-hombre-tras-pasar-41-anos-en-el-corredor-de-la-muerte-en-ee-uu-gracias-a-una-prueba-de-adn/",
-      "fecha": "Tue, 29 Sep 2026 16:49:05 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Douglas Stewart Carter, de 71 años, fue condenado a muerte por el asesinato de una mujer, aunque siempre mantuvo su inocencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué le pasó a Raphinha? La razón por la que salió al finalizar la primera mitad del Brasil y Australia",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/que-le-paso-a-raphinha-la-razon-por-la-que-salio-al-finalizar-la-primera-mitad-del-brasil-y-australia/",
-      "fecha": "Tue, 29 Sep 2026 16:22:06 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Brasil cerró su gira por Australia con una victoria 4-2 sobre los Socceroos, aunque la preocupación se centra en Raphinha, quien salió al descanso."
     },
     {
       "fuente": "Guatemala.com",
