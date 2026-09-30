@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-30T00:23:12.766Z",
+  "actualizado": "2026-09-30T01:16:18.313Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fatima Zahra El Mansouri, la primera mujer elegida primera ministra de Marruecos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/fatima-zahra-el-mansouri-la-primera-mujer-elegida-primera-ministra-de-marruecos/",
+      "fecha": "Wed, 30 Sep 2026 01:04:12 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Fatima Zahra El Mansouri fue designada por el rey en el cargo de primera ministra. Así se convierte en la primera mujer en el alto puesto y la segunda en liderar un gobierno en el mundo árabe."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién era Curtis Wilkie Beasley, el hombre de 77 años ejecutado en Florida por un crimen de 1995",
+      "link": "https://www.prensalibre.com/internacional/quien-era-curtis-wilkie-beasley-el-hombre-de-77-anos-ejecutado-en-florida-por-un-crimen-de-1995/",
+      "fecha": "Wed, 30 Sep 2026 00:23:19 +0000",
+      "categoria": "Internacional",
+      "resumen": "Florida ejecutó a un hombre de 77 años condenado por el asesinato a martillazos de una mujer en 1995, pese a los argumentos de su defensa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Secuestro de odontólogo Julio Martínez: Juez vuelve a beneficiar a Andrés Alcázar y clausura provisionalmente el proceso",
+      "link": "https://www.prensalibre.com/guatemala/justicia/secuestro-de-odontologo-julio-martinez-juez-vuelve-a-beneficiar-a-andres-alcazar-y-clausura-provisionalmente-el-proceso-breaking/",
+      "fecha": "Wed, 30 Sep 2026 00:12:35 +0000",
+      "categoria": "Justicia",
+      "resumen": "Un juzgado de Mayor Riesgo otorgó un nuevo beneficio judicial a Andrés Alcázar Crespo, vinculado al secuestro del odontólogo Julio Amílcar Martínez Murillo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Defensa confirma que vehículos militares que se ven en videos son del Ejército, pero asegura que no ingresaron a Huité",
+      "link": "https://www.prensalibre.com/guatemala/justicia/defensa-confirma-que-vehiculos-militares-que-se-ven-en-videos-son-del-ejercito-pero-asegura-que-no-ingresaron-a-huite/",
+      "fecha": "Wed, 30 Sep 2026 00:06:52 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Ministerio de la Defensa confirmó que tres o cuatro vehículos J8 y dos camiones de soldados aparecen en videos difundidos tras los ataques en Huité. Según la institución, las unidades llegaron cuando ya había un enfrentamiento activo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Fallece a los 79 años el actor de telenovelas Otto Sirgo, conocido por “Lo que la vida me robó” y “Lazos de amor”",
@@ -9,6 +41,22 @@
       "fecha": "Tue, 29 Sep 2026 23:55:12 +0000",
       "categoria": "Escenario",
       "resumen": "El actor de cine, teatro y televisión Otto Sirgo falleció a los 79 años, tras una destacada trayectoria en Latinoamérica, principalmente por su participación en telenovelas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Buscará otra corona? Tras su caída en Miss Universo 2025, Gabrielle Henry habla de su futuro mientras la organización del certamen reacciona a las acusaciones por negligencia",
+      "link": "https://www.prensalibre.com/vida/escenario/buscara-otra-corona-tras-su-caida-en-miss-universo-2025-gabrielle-henry-habla-de-su-futuro-mientras-la-organizacion-del-certamen-reacciona-a-las-acusaciones-por-negligencia/",
+      "fecha": "Tue, 29 Sep 2026 23:43:27 +0000",
+      "categoria": "Escenario",
+      "resumen": "Luego de que Gabrielle Henry, Miss Jamaica 2025, acusara de negligencia a la Organización Miss Universe por el accidente que sufrió durante el certamen, los organizadores aseguran que le brindaron atención y apoyo tras la caída."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Kim Jong-un es amigo mío”: qué dijo Trump sobre el líder norcoreano y su poderío nuclear",
+      "link": "https://www.prensalibre.com/internacional/kim-jong-un-es-amigo-mio-que-dijo-trump-sobre-el-lider-norcoreano-y-su-poderio-nuclear/",
+      "fecha": "Tue, 29 Sep 2026 23:30:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump habló sobre las capacidades nucleares de Corea del Norte y sobre su amistad con el mandatario norcoreano Kim Jong-un."
     },
     {
       "fuente": "Prensa Libre",
@@ -20,11 +68,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Cómo operaba una red acusada de traficar con niños migrantes y sedarlos con gomitas con THC",
+      "link": "https://www.prensalibre.com/internacional/como-operaba-una-red-acusada-de-traficar-con-ninos-migrantes-y-sedarlos-con-gomitas-con-thc/",
+      "fecha": "Tue, 29 Sep 2026 23:05:10 +0000",
+      "categoria": "Internacional",
+      "resumen": "Dos mexicanos fueron acusados de traficar con niños migrantes de 5 a 13 años y darles gomitas con marihuana para sedarlos durante el traslado."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "La Llorona de Guatemala: la tragicomedia ambientada en la Ciudad de Guatemala llegará en octubre con una nueva temporada",
       "link": "https://www.prensalibre.com/vida/escenario/la-llorona-de-guatemala-la-tragicomedia-ambientada-en-la-ciudad-de-guatemala-llegara-en-octubre-con-una-nueva-temporada/",
       "fecha": "Tue, 29 Sep 2026 23:03:08 +0000",
       "categoria": "Escenario",
       "resumen": "Con una historia que invita a reflexionar sobre el trasfondo de la leyenda de La Llorona, la obra de teatro presenta a Juana, una mujer que se ve acechada por la maldición de este espanto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Prohibidos los guantes de electrochoques? las restricciones que California ha impuesto al ICE",
+      "link": "https://www.prensalibre.com/internacional/prohibidos-los-guantes-de-electrochoques-las-restricciones-que-california-ha-impuesto-al-ice/",
+      "fecha": "Tue, 29 Sep 2026 23:02:02 +0000",
+      "categoria": "Internacional",
+      "resumen": "El gobernador de California firmó un paquete de leyes en contra del ICE, donde se prohíbe el uso de guantes eléctricos e impone un impuesto del 25% a los centros de detención."
     },
     {
       "fuente": "Prensa Libre",
@@ -172,11 +236,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Fracasa intento de diputados de oposición para imponer elección de Contralor General de Cuentas",
+      "titulo": "Fracasa intento de diputados de oposición para imponer elección de contralor general de Cuentas",
       "link": "https://www.prensalibre.com/guatemala/politica/fracasa-intento-de-diputados-de-oposicion-para-imponer-eleccion-de-contralor-general-de-cuentas/",
       "fecha": "Tue, 29 Sep 2026 19:29:54 +0000",
       "categoria": "Guatemala",
-      "resumen": "Postura de la embajada de Estados Unidos y exponer negociaciones habría roto los acuerdos para nombrar a Giovanni Castellanos como nuevo Contralor."
+      "resumen": "Postura de la embajada de Estados Unidos y la exposición de negociaciones habría roto los acuerdos para nombrar a Giovanni Castellanos como nuevo contralor."
     },
     {
       "fuente": "Prensa Libre",
@@ -747,76 +811,12 @@
       "resumen": "Falsos trabajadores municipales exigen hasta Q20 mil a vecinos a cambio de supuestos trámites y licencias de construcción en la capital."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Agro prevé caídas de hasta 30% en la producción para 2027 y plantea al Gobierno diez medidas",
-      "link": "https://www.prensalibre.com/economia/agro-preve-caidas-de-hasta-30-en-la-produccion-para-2027-y-plantea-al-gobierno-diez-medidas/",
-      "fecha": "Mon, 28 Sep 2026 22:40:11 +0000",
-      "categoria": "Economía",
-      "resumen": "Clima, combustibles y fertilizantes presionarían los costos y la producción agropecuaria durante el 2027. Camagro plantea medidas sobre carreteras, empleo rural, regulación de insumos, tecnología y contrabando."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El presunto caso de violación múltiple en una fraternidad que sacude a la prestigiosa Universidad de Cornell",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-presunto-caso-de-violacion-multiple-en-una-fraternidad-que-sacude-a-la-prestigiosa-universidad-de-cornell/",
-      "fecha": "Mon, 28 Sep 2026 22:37:12 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Una mujer presentó una demanda por la presunta violación que sufrió en 2024 en una reunión de una fraternidad en la Universidad de Cornell. El caso ha llamado la atención nacional en EE.UU."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Ricardo Arjona y Grupo Firme anuncian Amor Factura, su nueva canción juntos",
       "link": "https://www.guatemala.com/noticias/musica/ricardo-arjona-y-grupo-firme-amor-factura.html",
       "fecha": "Mon, 28 Sep 2026 22:28:50 +0000",
       "categoria": "Música",
       "resumen": "Ricardo Arjona y Grupo Firme estrenarán Amor Factura el 1 de octubre, una colaboración que nació después de un inesperado acercamiento.\nThe post Ricardo Arjona y Grupo Firme anuncian Amor Factura, su nueva canción juntos appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Amor factura”: Ricardo Arjona anuncia colaboración con Grupo Firme y revela la fecha de lanzamiento",
-      "link": "https://www.prensalibre.com/vida/escenario/amor-factura-ricardo-arjona-anuncia-colaboracion-con-grupo-firme-y-revela-la-fecha-de-lanzamiento/",
-      "fecha": "Mon, 28 Sep 2026 22:16:19 +0000",
-      "categoria": "Escenario",
-      "resumen": "Luego de que Eduin Caz, vocalista de Grupo Firme, revelara su admiración por Ricardo Arjona, ambos artistas anunciaron una nueva colaboración titulada Amor factura. Esto se sabe."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Un hito enorme&#8221;, así amerizó la nave Starship, de SpaceX, tras su primer viaje orbital",
-      "link": "https://www.prensalibre.com/vida/ciencia/un-hito-enorme-asi-amerizo-la-nave-starship-de-spacex-tras-su-primer-viaje-orbital/",
-      "fecha": "Mon, 28 Sep 2026 22:13:05 +0000",
-      "categoria": "Ciencia",
-      "resumen": "SpaceX decidió reducir el recorrido de Starship, que estaba previsto que hiciera unas seis vueltas a la Tierra durante unas 10 horas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tormenta tropical Hanna se forma en el Atlántico: ¿cuál sería su trayectoria?",
-      "link": "https://www.prensalibre.com/internacional/tormenta-tropical-hanna-se-forma-en-el-atlantico-cual-seria-su-trayectoria/",
-      "fecha": "Mon, 28 Sep 2026 22:07:57 +0000",
-      "categoria": "Internacional",
-      "resumen": "La tormenta tropical Hanna se desplazará hacia el este, con vientos y ráfagas fuertes. Por ahora, no se reportan amenazas para tierra."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Maga pronostica 3.2 millones de damnificados por la sequía e informa estrategia para atender a damnificados",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/maga-pronostica-3-2-millones-de-damnificados-por-la-sequia-e-informa-estrategia-para-atender-a-damnificados/",
-      "fecha": "Mon, 28 Sep 2026 21:54:59 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La jefa de la cartera de Agricultura se presentó ante los jefes de bloques a exponer el plan para atender a los guatemaltecos afectados por la sequía prolongada. La citación terminó antes de tiempo, porque varios diputados abandonaron el salón."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Acción Ciudadana denuncia al PDH por supuesta inacción ante incumplimientos de la Ley de Acceso a la Información",
-      "link": "https://www.prensalibre.com/guatemala/politica/accion-ciudadana-denuncia-al-pdh-por-supuesta-inaccion-ante-incumplimientos-de-la-ley-de-acceso-a-la-informacion/",
-      "fecha": "Mon, 28 Sep 2026 21:51:34 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La organización denunció al procurador por lo que considera \"falta de acciones\" ante incumplimientos de la Ley de Acceso a la Información Pública que, según sus monitoreos, fueron detectados en 14 municipalidades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sequía y anomalías climáticas podrían afectar a más de 1.2 millones de familias en Guatemala, según el MAGA",
-      "link": "https://www.prensalibre.com/guatemala/sequia-y-anomalias-climaticas-podrian-afectar-a-mas-de-1-2-millones-de-familias-en-guatemala-segun-el-maga-breakig/",
-      "fecha": "Mon, 28 Sep 2026 21:49:45 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El MAGA advierte de daños agrícolas sin precedentes en los últimos 76 años y proyecta que más de 1.2 millones de familias podrían resultar afectadas por las anomalías climáticas"
     },
     {
       "fuente": "Guatemala.com",
