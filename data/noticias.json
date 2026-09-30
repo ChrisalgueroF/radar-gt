@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-30T19:16:53.516Z",
+  "actualizado": "2026-09-30T20:16:54.836Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Débora Alvarado, nueva ministra de Finanzas: presupuesto del 2027 y recaudación, entre sus principales retos",
+      "link": "https://www.prensalibre.com/economia/debora-alvarado-nueva-ministra-de-finanzas-presupuesto-del-2027-y-recaudacion-entre-sus-principales-retos/",
+      "fecha": "Wed, 30 Sep 2026 20:03:29 +0000",
+      "categoria": "Economía",
+      "resumen": "Débora Alvarado asume el Ministerio de Finanzas con retos en recaudación, ejecución presupuestaria y la discusión del presupuesto para el 2027."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Oktoberfest regresa a Guatemala con una fiesta de tradición bávara",
@@ -17,6 +25,22 @@
       "fecha": "Wed, 30 Sep 2026 18:58:37 +0000",
       "categoria": "Internacional",
       "resumen": "El aumento de agentes no estuvo exento de polémicas, ya que la incorporación se hizo en plazos cortos y los nuevos integrantes podrían no haber recibido la capacitación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo confirma participación del Ejército en hechos armados en Huité y ordena integrar comisión para investigar lo ocurrido",
+      "link": "https://www.prensalibre.com/guatemala/justicia/presidente-bernardo-arevalo-anuncia-comision-para-esclarecer-incursion-de-hombres-armados-en-huite-breaking/",
+      "fecha": "Wed, 30 Sep 2026 18:34:22 +0000",
+      "categoria": "Justicia",
+      "resumen": "El presidente Bernardo Arévalo anunció la conformación de una comisión para esclarecer los hechos ocurridos en Huité, Zacapa, y trasladar los resultados al Ministerio Público."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Rechazan las deportaciones? Esto opinan los hispanos en EE. UU. sobre la política migratoria de Trump",
+      "link": "https://www.prensalibre.com/internacional/rechazan-las-deportaciones-esto-opinan-los-hispanos-en-ee-uu-sobre-la-politica-migratoria-de-trump/",
+      "fecha": "Wed, 30 Sep 2026 18:28:09 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una coalición latino publicó los resultados de una encuesta sobre qué opinan los hispanos sobre la política de deportación de Donald Trump."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,30 +801,6 @@
       "fecha": "Tue, 29 Sep 2026 18:09:09 +0000",
       "categoria": "Sucesos",
       "resumen": "Tiroteo en la zona 6 deja tres heridos y provoca cierres viales que complican la movilidad en la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un supuesto intento por capturar a &#8220;Haroldito&#8221; Lorenzana y ocho muertos: esto revelan informes policiales sobre ataque en Huité, Zacapa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/un-supuesto-intento-por-capturar-a-haroldito-lorenzana-y-ocho-muertos-esto-revelan-informes-policiales-sobre-ataque-en-huite-zacapa/",
-      "fecha": "Tue, 29 Sep 2026 17:41:57 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Un informe policial señala que un grupo armado habría seguido a Haroldito Lorenzana en Huité; otro reporte menciona unos 20 hombres, helicópteros y un convoy supuestamente militar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La familia de Ranulph Fiennes, &#8220;el explorador vivo más importante del mundo&#8221;, dice desconocer su paradero",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-familia-de-ranulph-fiennes-el-explorador-vivo-mas-importante-del-mundo-dice-desconocer-su-paradero/",
-      "fecha": "Tue, 29 Sep 2026 17:39:54 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Se ha alegado que Ranulph Fiennes ha ingresado en varias residencias de ancianos con nombres falsos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vehículo destruido y motorista fallecido en múltiple colisión en el km 13 de la ruta al Pacífico",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/vehiculo-destruido-y-motorista-fallecido-en-multiple-colision-en-el-km-13-de-la-ruta-al-pacifico-breaking/",
-      "fecha": "Tue, 29 Sep 2026 17:29:49 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Una persona fallece y  vehículos quedan con severos daños tras múltiple colisión en el km 13 de la ruta al Pacífico, con dirección a Villa Nueva."
     },
     {
       "fuente": "Guatemala.com",
