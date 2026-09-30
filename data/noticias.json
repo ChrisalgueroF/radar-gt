@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-30T04:17:26.140Z",
+  "actualizado": "2026-09-30T05:16:31.113Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE.UU. se retira completamente de Irak tras 20 años de presencia militar: cómo deja el país y qué ocurrirá ahora",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ee-uu-se-retira-completamente-de-irak-tras-20-anos-de-presencia-militar-como-deja-el-pais-y-que-ocurrira-ahora/",
+      "fecha": "Wed, 30 Sep 2026 04:32:32 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "EE.UU. tiene previsto retirar las tropas que aún mantiene en Irak este 30 de septiembre, poniendo fin a una presencia militar que comenzó con la invasión en 2003 que derrocó a Saddam Hussein."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Comic-Con Guatemala 2026: horarios del escenario, Meet &#038; Greet, invitados y todo lo que debe saber del evento",
@@ -801,14 +809,6 @@
       "fecha": "Tue, 29 Sep 2026 01:00:00 +0000",
       "categoria": "Escenario",
       "resumen": "Cazzu fue captada en Argentina junto a Ignacio Colombara, con quien se le relaciona sentimentalmente. Las fotografías reavivan los rumores sobre un posible romance que surgieron en mayo pasado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. restringe visas a funcionarios de Bolivia, Colombia y Perú: quiénes son los sancionados",
-      "link": "https://www.prensalibre.com/internacional/ee-uu-restringe-visas-a-funcionarios-de-bolivia-colombia-y-peru-quienes-son-los-sancionados/",
-      "fecha": "Tue, 29 Sep 2026 00:37:13 +0000",
-      "categoria": "Internacional",
-      "resumen": "Funcionarios de Bolivia, Colombia y Perú, pierden el visado tras nuevas medidas de la administración de Trump."
     },
     {
       "fuente": "Guatemala.com",
