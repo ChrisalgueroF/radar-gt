@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-30T13:19:24.822Z",
+  "actualizado": "2026-09-30T14:18:59.982Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lluvias y agricultura en Guatemala: qué se espera para finales del 2026 y el 2027",
+      "link": "https://www.prensalibre.com/economia/lluvias-y-agricultura-en-guatemala-que-se-espera-para-finales-del-2026-y-el-2027/",
+      "fecha": "Wed, 30 Sep 2026 14:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "¿Qué ocurrirá con las lluvias durante los próximos meses y el 2027? Las condiciones recientes y las proyecciones climáticas plantean un escenario que podría incidir en la disponibilidad de agua y la producción agrícola, advierte el Instituto Privado de Investigación sobre Cambio Climático (ICC)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuánto cuesta el pasaporte guatemalteco? Estos son los pasos del trámite y requisitos para la fotografía",
+      "link": "https://www.prensalibre.com/guatemala/cuanto-cuesta-el-pasaporte-guatemalteco-estos-son-los-pasos-del-tramite-y-requisitos-para-la-fotografia/",
+      "fecha": "Wed, 30 Sep 2026 14:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El pasaporte guatemalteco tiene un costo de US$50 con vigencia de cinco años y US$85 por 10 años para mayores de edad. Antes de acudir a su cita, conozca los requisitos que debe presentar y las recomendaciones para completar el trámite sin contratiempos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Todos los pasajeros gritaban&#8221;: un avión rumbo a Israel es desviado tras una presunta pelea entre pilotos en la que uno fue apuñalado",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/todos-los-pasajeros-gritaban-un-avion-rumbo-a-israel-es-desviado-tras-una-presunta-pelea-entre-pilotos-en-la-que-uno-fue-apunalado/",
+      "fecha": "Wed, 30 Sep 2026 13:51:25 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Pese a una breve alerta de emergencia que indicaba un posible secuestro, la oficina del primer ministro israelí confirmó posteriormente que esa hipótesis había sido descartada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo sanciona decreto que exonera temporalmente de impuestos a los combustibles y veta propuesta de precios máximos",
+      "link": "https://www.prensalibre.com/economia/arevalo-sanciona-decreto-que-exonera-temporalmente-de-impuestos-a-los-combustibles-y-veta-propuesta-de-precios-maximos-breaking/",
+      "fecha": "Wed, 30 Sep 2026 13:19:43 +0000",
+      "categoria": "Economía",
+      "resumen": "El presidente Bernardo Arévalo sanciona el decreto que exonera temporalmente del pago de impuestos a los combustibles en Guatemala."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Por qué sube el diésel en Guatemala? Banguat identifica tres factores que presionan la inflación",
@@ -777,38 +809,6 @@
       "fecha": "Tue, 29 Sep 2026 06:03:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Un tema olvidado al hablar del Agua es el de las Cuencas Transfronterizas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aliados, pero vigilados",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/aliados-pero-vigilados/",
-      "fecha": "Tue, 29 Sep 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Washington coopera, pero también investiga; equipa, pero vigila; considera a Guatemala un socio, pero aparentemente un socio al que conviene observar de cerca."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El costo de hacer periodismo en Centroamérica",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-costo-de-hacer-periodismo-en-centroamerica/",
-      "fecha": "Tue, 29 Sep 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El silencio no es opción."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy martes 29 de septiembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-29-de-septiembre-de-2026/",
-      "fecha": "Tue, 29 Sep 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Milei se enfrenta al Leviatán",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/milei-se-enfrenta-al-leviatan/",
-      "fecha": "Tue, 29 Sep 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "¿Qué propósito tienen los discursos disruptivos de Milei?"
     },
     {
       "fuente": "Guatemala.com",
