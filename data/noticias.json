@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-30T17:16:22.712Z",
+  "actualizado": "2026-09-30T18:17:56.946Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "The One About Matthew Perry: fecha de estreno, de qué trata y quiénes dan testimonios inéditos sobre la estrella de Friends",
+      "link": "https://www.prensalibre.com/vida/escenario/the-one-about-matthew-perry-fecha-de-estreno-de-que-trata-y-quienes-dan-testimonios-ineditos-sobre-la-estrella-de-friends/",
+      "fecha": "Wed, 30 Sep 2026 18:10:01 +0000",
+      "categoria": "Escenario",
+      "resumen": "Reconocido a nivel internacional por su papel de Chandler Bing en la serie Friends, Matthew Perry será el protagonista de un documental centrado en su vida y que contará con testimonios de allegados al actor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“El que sufrió fue el vecino”: Guatemala golea a El Salvador y El Profe ya piensa en vencer a Surinam",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/el-que-sufrio-fue-el-vecino-guatemala-golea-a-el-salvador-y-el-profe-ya-piensa-en-vencer-a-surinam/",
+      "fecha": "Wed, 30 Sep 2026 17:26:15 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El Profe celebró el triunfo de la Bicolor, pero advirtió que esta goleada no convierte al equipo de Luis Fernando Tena en campeón del mundo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién era Jorge Kahwagi, el exboxeador, político y empresario que falleció a los 58 años?",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/quien-era-jorge-kahwagi-el-exboxeador-politico-y-empresario-que-fallecio-a-los-58-anos/",
+      "fecha": "Wed, 30 Sep 2026 17:14:14 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "El exboxeador mexicano Jorge Kahwagi Macari murió a los 58 años, informó el actor Roberto Palazuelos a través de sus redes sociales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Teléfono móvil, reserva de licores y masajes, entre los lujos a los que tendría acceso Sean “Diddy” Combs en prisión",
+      "link": "https://www.prensalibre.com/vida/escenario/telefono-movil-reserva-de-licores-y-masajes-entre-los-lujos-a-los-que-tendria-acceso-sean-diddy-combs-en-prision/",
+      "fecha": "Wed, 30 Sep 2026 17:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Mientras cumple su condena en prisión, Sean “Diddy” Combs ha sido visto con supuestos lujos y comodidades en la cárcel. Imágenes difundidas por medios internacionales generan atención sobre los accesos que tendría."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Compras en línea: Tres datos que debe guardar para reclamar ante la Diaco o SAT",
@@ -12,11 +44,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "¿Incidente o atentado? los videos del hecho violento dentro de un vuelo de Flydubai",
+      "link": "https://www.prensalibre.com/internacional/incidente-o-atentado-los-videos-del-hecho-violento-dentro-de-un-vuelo-de-flydubai/",
+      "fecha": "Wed, 30 Sep 2026 16:58:35 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un avión con casi 180 pasajeros tuvo que aterrizar de emergencia en Arabia Saudí debido a un \"hecho violento\" dentro de la cabina."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "CSJ elige a la magistrada Jenny Alvarado Teni como presidenta para el periodo 2026-027",
       "link": "https://www.prensalibre.com/guatemala/politica/csj-elige-a-la-magistrada-jenny-alvarado-teni-como-presidenta-para-el-periodo-2026-027/",
       "fecha": "Wed, 30 Sep 2026 16:51:03 +0000",
       "categoria": "Guatemala",
       "resumen": "También se nombró a los nuevos presidentes de las cámaras de amparos y antejuicios; penal y civil."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP allana tres sedes de la PNC por investigación de robo y venta de municiones asignadas a la Policía",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mp-allana-tres-sedes-de-la-pnc-por-investigacion-de-robo-y-venta-de-municiones-asignadas-a-la-policia/",
+      "fecha": "Wed, 30 Sep 2026 16:49:09 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Una investigación sobre estructuras criminales llevó al MP y la PNC a efectuar allanamientos en dependencias policiales."
     },
     {
       "fuente": "Prensa Libre",
@@ -57,6 +105,14 @@
       "fecha": "Wed, 30 Sep 2026 16:03:57 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "La Bicolor emprendió su viaje a Surinam con la mirada puesta en una victoria como visitante que le permita consolidarse en los puestos de clasificación del grupo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Administración de Walter Mazariegos acude a la CC y alista acciones legales contra el Ministerio Público tras allanamiento en la Usac",
+      "link": "https://www.prensalibre.com/guatemala/politica/administracion-de-walter-mazariegos-acude-a-la-cc-y-alista-acciones-legales-contra-el-ministerio-publico-tras-allanamiento-en-la-usac/",
+      "fecha": "Wed, 30 Sep 2026 15:49:34 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La Dirección de Asuntos Jurídicos de la USAC informó al secretario general sobre un amparo que presentó ante la CC y que impulsará acciones legales contra el MP tras el allanamiento al campus."
     },
     {
       "fuente": "Prensa Libre",
@@ -140,11 +196,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Localizan cadáver envuelto en sábanas en Lomas del Norte, zona 17",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/localizan-cadaver-envuelto-en-sabanas-en-lomas-del-norte-zona-17-breaking/",
+      "titulo": "Localizan cadáver envuelto en sábanas en el km 4.5 de ruta al Atlántico",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/localizan-cadaver-envuelto-en-sabanas-en-el-km-4-5-de-ruta-al-atlantico/",
       "fecha": "Wed, 30 Sep 2026 14:23:12 +0000",
       "categoria": "Sucesos",
-      "resumen": "En una banqueta de la colonia Lomas del Norte, zona 17, fue localizado el cadáver de una persona."
+      "resumen": "Los Bomberos Voluntarios informan sobre el hallazgo de un cuerpo en el puente que conecta zona 17 con Canalitos, zona 24 de la Ciudad de Guatemala."
     },
     {
       "fuente": "Prensa Libre",
@@ -747,30 +803,6 @@
       "resumen": "Brasil cerró su gira por Australia con una victoria 4-2 sobre los Socceroos, aunque la preocupación se centra en Raphinha, quien salió al descanso."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "“Tenemos que atraer a la gente con actuaciones como esta”: Tena analiza la goleada de Guatemala ante El Salvador",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/tenemos-que-atraer-a-la-gente-con-actuaciones-como-esta-tena-analiza-la-goleada-de-guatemala-ante-el-salvador/",
-      "fecha": "Tue, 29 Sep 2026 16:20:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El equipo de Luis Fernando Tena pasó por encima de El Salvador y sumó un triunfo revitalizador por 6-0 en la Liga de Naciones de Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso licita servicio de cable, internet, celulares y tablets para diputados",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-licita-servicios-de-cable-e-internet-y-la-compra-de-celulares-y-tablets-para-diputados-breaking/",
-      "fecha": "Tue, 29 Sep 2026 16:09:27 +0000",
-      "categoria": "Política",
-      "resumen": "El Organismo Legislativo publica tres licitaciones para adquirir servicios de telefonía celular, internet y cable de televisión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Un resultado sacatécnicos”: ¿Qué dijo &#8216;El Bolillo’ Gómez sobre la derrota 6-0 frente a Guatemala?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/un-resultado-sacatecnicos-que-dijo-el-bolillo-gomez-sobre-la-derrota-6-0-frente-a-guatemala/",
-      "fecha": "Tue, 29 Sep 2026 15:51:33 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El entrenador colombiano Hernán Darío \"El Bolillo\" Gómez aseguró que un resultado tan humillante como el 6-0 en Guatemala es peligroso para los técnicos."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Admisiones 2027 de Intecap: Así puedes inscribirte a las carreras disponibles en las distintas sedes",
       "link": "https://www.guatemala.com/noticias/comunidad/admisiones-intecap-2027.html",
@@ -785,38 +817,6 @@
       "fecha": "Tue, 29 Sep 2026 15:06:04 +0000",
       "categoria": "Sociedad",
       "resumen": "Incaparina anunció el lanzamiento de Incaparina Galleta, una nueva opción para loncheras nutritivas en los hogares guatemaltecos. \nThe post Nueva «Incaparina Galleta” para loncheras nutritivas appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿De qué murió Dennis Haskins, actor que interpretó al director Belding en “Salvados por la campana”?",
-      "link": "https://www.prensalibre.com/vida/escenario/de-que-murio-dennis-haskins-actor-que-interpreto-al-director-belding-en-salvados-por-la-campana/",
-      "fecha": "Tue, 29 Sep 2026 14:59:36 +0000",
-      "categoria": "Escenario",
-      "resumen": "Recordado por poner orden en el instituto de “Salvados por la campana”, Dennis Haskins, quien interpretó al director Belding, murió a los 75 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Temo por mi vida si me devuelven&#8221;: las audiencias masivas en Miami que aceleran las deportaciones sin dar tiempo a los migrantes para defender sus casos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/temo-por-mi-vida-si-me-devuelven-las-audiencias-masivas-en-miami-que-aceleran-las-deportaciones-sin-dar-tiempo-a-los-migrantes-para-defender-sus-casos/",
-      "fecha": "Tue, 29 Sep 2026 14:55:34 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las “mega audiencias” migratorias ponen bajo presión a los solicitantes de asilo mientras aumentan las órdenes de deportación y las expulsiones en Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Jehú Fajardo? Así fueron los tres goles con los que brilló en la goleada de Guatemala",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/quien-es-jehu-fajardo-asi-fueron-los-tres-goles-con-los-que-brillo-en-la-goleada-de-guatemala/",
-      "fecha": "Tue, 29 Sep 2026 14:51:51 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La noche tuvo un nombre propio: Jehú Fajardo. El atacante de Antigua GFC lideró la goleada 6-0 de Guatemala sobre El Salvador con tres anotaciones que desataron la fiesta de la afición en el estadio  \"El Trébol\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala: ¿Cuál es el pronóstico de lluvias y temperaturas máximas para este 29 de septiembre?",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-cual-es-el-pronostico-de-lluvias-y-temperaturas-maximas-para-este-29-de-septiembre-breaking/",
-      "fecha": "Tue, 29 Sep 2026 14:40:11 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh informó cómo estarán las condiciones climáticas por región en Guatemala y no descarta lluvias fuertes."
     },
     {
       "fuente": "Guatemala.com",
