@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-09-29T23:14:18.681Z",
+  "actualizado": "2026-09-30T00:23:12.766Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fallece a los 79 años el actor de telenovelas Otto Sirgo, conocido por “Lo que la vida me robó” y “Lazos de amor”",
+      "link": "https://www.prensalibre.com/vida/escenario/fallece-a-los-79-anos-el-actor-de-telenovelas-otto-sirgo-conocido-por-lo-que-la-vida-me-robo-y-lazos-de-amor/",
+      "fecha": "Tue, 29 Sep 2026 23:55:12 +0000",
+      "categoria": "Escenario",
+      "resumen": "El actor de cine, teatro y televisión Otto Sirgo falleció a los 79 años, tras una destacada trayectoria en Latinoamérica, principalmente por su participación en telenovelas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ace Combat 8: fecha de lanzamiento, plataformas y novedades del videojuego “Wings of Theve”",
+      "link": "https://www.prensalibre.com/vida/tecnologia/ace-combat-8-fecha-de-lanzamiento-plataformas-y-novedades-del-videojuego-wings-of-theve/",
+      "fecha": "Tue, 29 Sep 2026 23:23:39 +0000",
+      "categoria": "Tecnología",
+      "resumen": "El nuevo videojuego de “Ace Combat” llegará con mayor realismo, nuevas misiones y opciones multijugador. Conozca las novedades de la octava entrega de la franquicia."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La Llorona de Guatemala: la tragicomedia ambientada en la Ciudad de Guatemala llegará en octubre con una nueva temporada",
@@ -9,6 +25,22 @@
       "fecha": "Tue, 29 Sep 2026 23:03:08 +0000",
       "categoria": "Escenario",
       "resumen": "Con una historia que invita a reflexionar sobre el trasfondo de la leyenda de La Llorona, la obra de teatro presenta a Juana, una mujer que se ve acechada por la maldición de este espanto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Municipalidad de Huité lamenta muerte de pobladores durante ataque armado",
+      "link": "https://www.prensalibre.com/guatemala/justicia/municipalidad-de-huite-lamenta-muerte-de-pobladores-durante-ataque-armado/",
+      "fecha": "Tue, 29 Sep 2026 22:15:23 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La Municipalidad de Huité lamentó los hechos armados ocurridos en el municipio y expresó sus condolencias a las familias de las víctimas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a presuntos pandilleros vinculados al caso de los primos de Jutiapa engañados con falsas ofertas de trabajo",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-presuntos-pandilleros-vinculados-al-caso-de-los-primos-de-jutiapa-enganados-con-falsas-ofertas-de-trabajo/",
+      "fecha": "Tue, 29 Sep 2026 22:07:17 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC capturó a dos presuntos secuestradores presuntamente vinculados al secuestro y asesinato de menores jutiapanecos que viajaron a la capital por la oferta de trabajo falsa."
     },
     {
       "fuente": "Prensa Libre",
@@ -140,11 +172,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Diputados buscarían apoyo para nombrar a Giovanni Castellanos nuevo contralor general de Cuentas",
-      "link": "https://www.prensalibre.com/guatemala/politica/diputados-buscarian-apoyo-para-nombrar-a-giovanni-castellanos-nuevo-contralor-general-de-cuentas/",
+      "titulo": "Fracasa intento de diputados de oposición para imponer elección de Contralor General de Cuentas",
+      "link": "https://www.prensalibre.com/guatemala/politica/fracasa-intento-de-diputados-de-oposicion-para-imponer-eleccion-de-contralor-general-de-cuentas/",
       "fecha": "Tue, 29 Sep 2026 19:29:54 +0000",
       "categoria": "Guatemala",
-      "resumen": "Las negociaciones incluirían la reelección de algunos diputados para continuar con puestos en la Junta Directiva del Congreso para el período 2027-2028."
+      "resumen": "Postura de la embajada de Estados Unidos y exponer negociaciones habría roto los acuerdos para nombrar a Giovanni Castellanos como nuevo Contralor."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,38 +817,6 @@
       "fecha": "Mon, 28 Sep 2026 21:49:45 +0000",
       "categoria": "Guatemala",
       "resumen": "El MAGA advierte de daños agrícolas sin precedentes en los últimos 76 años y proyecta que más de 1.2 millones de familias podrían resultar afectadas por las anomalías climáticas"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fuerte lluvia causa inundaciones, caída de árboles y daños en la capital: tránsito se complica en varios sectores",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/fuerte-lluvia-causa-inundaciones-caida-de-arboles-y-danos-en-la-capital-transito-se-complica-en-varios-sectores-breaking/",
-      "fecha": "Mon, 28 Sep 2026 21:46:39 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Una tormenta acompañada de fuertes vientos y granizo provocó emergencias en distintos sectores de la ciudad de Guatemala, donde las autoridades reportan árboles caídos, calles inundadas, vehículos con fallas y bloqueos viales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué se sabe de la muerte del famoso luchador de la AEW, Benjamin Satterley, alias &#8220;Pac&#8221;",
-      "link": "https://www.prensalibre.com/internacional/que-se-sabe-de-la-muerte-del-famoso-luchador-de-la-aew-benjamin-satterley-alias-pac/",
-      "fecha": "Mon, 28 Sep 2026 21:30:11 +0000",
-      "categoria": "Internacional",
-      "resumen": "La empresa All Elite Wrestling anunció este 28 de septiembre la muerte del famoso luchador inglés Benjamin Satterley, alias \"Pac\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Granizo sorprende a la capital durante fuerte tormenta e Insivumeh explica qué provocó el fenómeno",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/granizo-sorprende-a-la-capital-durante-fuerte-tormenta-e-insivumeh-explica-que-provoco-el-fenomeno-cuando-dejara-de-llover-breaking/",
-      "fecha": "Mon, 28 Sep 2026 21:27:03 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh explicó por qué cayó granizo este lunes 28 de septiembre en varios sectores de la capital, durante una fuerte tormenta acompañada de lluvia y viento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cámaras de videovigilancia irregulares son retiradas en San Pedro Ayampuc",
-      "link": "https://www.prensalibre.com/guatemala/justicia/camaras-de-videovigilancia-utilizadas-por-estructuras-criminales-son-retiradas-en-san-pedro-ayampuc/",
-      "fecha": "Mon, 28 Sep 2026 21:12:15 +0000",
-      "categoria": "Justicia",
-      "resumen": "Más cámaras clandestinas  que presuntamente eran utilizadas por estructuras criminales fueron retiradas en distintos puntos del país por agentes de la Policía Nacional Civil (PNC)."
     },
     {
       "fuente": "Guatemala.com",
