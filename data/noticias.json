@@ -1,7 +1,71 @@
 {
-  "actualizado": "2026-09-30T15:20:08.456Z",
+  "actualizado": "2026-09-30T16:18:36.283Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miles de migrantes perderán Medicaid desde el jueves 1 de octubre: ¿Quiénes lo conservarán?",
+      "link": "https://www.prensalibre.com/internacional/miles-de-migrantes-perderan-medicaid-desde-el-jueves-1-de-octubre-quienes-lo-conservaran/",
+      "fecha": "Wed, 30 Sep 2026 16:10:53 +0000",
+      "categoria": "Internacional",
+      "resumen": "Cientos de miles de inmigrantes con estatus legal corren el riesgo de perder la cobertura de salud del gobierno a partir del próximo jueves 1 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una corte de apelaciones paraliza en el último momento la ejecución de Christa Pike, la mujer condenada a muerte en Tennessee por un brutal asesinato",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-corte-de-apelaciones-paraliza-en-el-ultimo-momento-la-ejecucion-de-christa-pike-la-mujer-condenada-a-muerte-en-tennessee-por-un-brutal-asesinato/",
+      "fecha": "Wed, 30 Sep 2026 16:08:57 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los abogados de Pike, que asesinó a una joven en 1995, afirman que debería recibir clemencia y que si fuera juzgada hoy no sería condenada a muerte."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "X2: cómo es la montaña rusa cerrada en el parque Six Flags de California y qué se sabe de las denuncias que enfrenta por lesiones cerebrales",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/x2-como-es-la-montana-rusa-cerrada-en-el-parque-six-flags-de-california-y-que-se-sabe-de-las-denuncias-que-enfrenta-por-lesiones-cerebrales/",
+      "fecha": "Wed, 30 Sep 2026 15:38:37 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Son decenas de personas las que han reportado graves consecuencias en su salud luego de subirse a la montaña de más de mil metros, que permanecía cerrada desde el 12 de julio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a alias “Lagrimita”, señalado de amenazar con arma de fuego en redes sociales",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-alias-lagrimita-senalado-de-amenazar-con-arma-de-fuego-en-redes-sociales-breaking/",
+      "fecha": "Wed, 30 Sep 2026 15:35:09 +0000",
+      "categoria": "Justicia",
+      "resumen": "En seguimiento a un video difundido en redes sociales, las autoridades capturaron a “Lagrimita”, señalado de amenazar con un arma de fuego."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala revive en la Liga de Naciones y ahora afronta dos partidos clave para buscar la clasificación",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-revive-en-la-liga-de-naciones-y-ahora-afronta-dos-partidos-clave-para-buscar-la-clasificacion/",
+      "fecha": "Wed, 30 Sep 2026 15:31:44 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Bicolor disipó las dudas con una actuación contundente que la mantiene en la pelea dentro de la Liga de Naciones de Concacaf. Sin tiempo para celebraciones, Guatemala ya pone la mira en los decisivos duelos frente a Surinam."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "San Pedro recibe una noticia favorable: reducen las sanciones de Edwin Vásquez y Germán Águila",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/san-pedro-recibe-una-noticia-favorable-reducen-las-sanciones-de-edwin-vasquez-y-german-aguila/",
+      "fecha": "Wed, 30 Sep 2026 15:18:01 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "San Pedro recibió una noticia positiva antes del inicio de la segunda vuelta del Apertura 2026, luego de que se redujeran las sanciones impuestas al técnico Edwin \"Chino\" Vásquez y al delantero Germán Águila."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Harry y Meghan enfrentan incidente de seguridad en la nueva escuela de Archie y Lilibet, calificado como una “extraordinaria falta de criterio”",
+      "link": "https://www.prensalibre.com/vida/escenario/harry-y-meghan-enfrentan-incidente-de-seguridad-en-la-nueva-escuela-de-archie-y-lilibet-calificado-como-una-extraordinaria-falta-de-criterio/",
+      "fecha": "Wed, 30 Sep 2026 15:15:24 +0000",
+      "categoria": "Escenario",
+      "resumen": "La presencia de dos personas que merodeaban la escuela a la que asisten los hijos del príncipe Harry y Meghan Markle puso en alerta a la familia, que se pronunció sobre el hecho."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Niño lleva un arma en su mochila a una guardería de Michigan: su padre es policía y esto dijeron las autoridades",
+      "link": "https://www.prensalibre.com/internacional/encuentran-un-arma-de-fuego-en-la-mochila-de-un-nino-en-una-guarderia-de-michigan-que-dijeron-las-autoridades/",
+      "fecha": "Wed, 30 Sep 2026 15:00:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Encuentran un arma de fuego en la mochila de un niño en un centro infantil de Michigan. Las autoridades confirmaron que no hubo heridos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Lamine Yamal brilla con España y fortalece su candidatura al Balón de Oro",
@@ -753,70 +817,6 @@
       "fecha": "Tue, 29 Sep 2026 13:30:18 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La industria de los videojuegos ha crecido considerablemente en los últimos años en Reino Unido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvia y accidentes complican el tránsito en las principales rutas de la metrópoli este 29 de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvia-y-accidentes-complican-el-transito-en-las-principales-rutas-de-la-metropoli-este-29-de-septiembre-breaking/",
-      "fecha": "Tue, 29 Sep 2026 13:10:29 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Colisiones y asfalto mojado afectan la movilidad vehicular en la capital y municipios aledaños este martes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué se sabe del Corredor Andes-Atlántico, el ambicioso proyecto con el que EE.UU. busca acceder a recursos estratégicos de Argentina (y competir con China)",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/que-se-sabe-del-corredor-andes-atlantico-el-ambicioso-proyecto-con-el-que-ee-uu-busca-acceder-a-recursos-estrategicos-de-argentina-y-competir-con-china/",
-      "fecha": "Tue, 29 Sep 2026 12:04:09 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "De acuerdo con analistas, el proyecto muestra el interés de Washington en tener mayor presencia en países de América Latina y reducir el espacio de China en la región."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los videojuegos me pagan el doble de lo que ganaba como maestra",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-videojuegos-me-pagan-el-doble-de-lo-que-ganaba-como-maestra/",
-      "fecha": "Tue, 29 Sep 2026 10:59:05 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La indsutria de los videojuegos ha crecido considerablemente en los últimos años en Reino Unido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La abogada de Maricarmen asegura que la anciana podrá volver a su casa tras el desalojo que puso el foco en la crisis de vivienda en España",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/la-abogada-de-maricarmen-asegura-que-la-anciana-podra-volver-a-su-casa-tras-el-desalojo-que-puso-el-foco-en-la-crisis-de-vivienda-en-espana/",
-      "fecha": "Tue, 29 Sep 2026 09:24:00 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "De acuerdo a lo señalada por la abogada, la empresa dueña del inmueble le dejará pagar un precio de alquiler acorde a la pensión que recibe."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las tradiciones cafetaleras en una experiencia de arte",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/las-tradiciones-cafetaleras-en-una-experiencia-de-arte/",
-      "fecha": "Tue, 29 Sep 2026 06:41:44 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "El evento que honra la riqueza del café guatemalteco y que combina, diseño y arte, en una propuesta exclusiva para tarjetahabientes Bi Visa, el Ritual del Café, está de nuevo activa en el país hasta el 21 de octubre, donde se puede disfrutar una interpretación única, destacando distintos perfiles de café guatemalteco de especialidad a través de maridajes y propuestas gastronómicas especialmente diseñadas para esta iniciativa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quiénes respaldan a los 6 candidatos a contralor y qué intereses rodean la elección",
-      "link": "https://www.prensalibre.com/guatemala/politica/quienes-respaldan-a-los-6-candidatos-a-contralor-y-que-intereses-rodean-la-eleccion/",
-      "fecha": "Tue, 29 Sep 2026 06:19:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Seis candidatos buscan el cargo, mientras observadores identifican distintos grupos que intentan incidir en la decisión que deberá tomar el Congreso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala: el calor rompe récords hasta en zonas frías y templadas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-el-calor-rompe-records-hasta-en-zonas-frias-y-templadas/",
-      "fecha": "Tue, 29 Sep 2026 06:15:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El monitoreo de varias estaciones meteorológicas muestra un aumento de las temperaturas en zonas frías y templadas del país, con registros que superan récords históricos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Combustibles en Guatemala: precios actuales y perspectivas para el 2027",
-      "link": "https://www.prensalibre.com/economia/combustibles-en-guatemala-precios-actuales-y-perspectivas-para-el-2027/",
-      "fecha": "Tue, 29 Sep 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El precio internacional del petróleo y los riesgos geopolíticos condicionan el escenario para Guatemala. Estas son las perspectivas de Cabi para los precios del diésel y de las gasolinas en el país."
     },
     {
       "fuente": "Guatemala.com",
