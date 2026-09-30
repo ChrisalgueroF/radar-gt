@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-09-30T06:20:32.417Z",
+  "actualizado": "2026-09-30T07:17:48.539Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quiénes son los nueve fiscales de EE. UU. que trabajarán con Guatemala y qué delitos persiguen",
+      "link": "https://www.prensalibre.com/guatemala/justicia/quienes-son-los-nueve-fiscales-de-ee-uu-que-trabajaran-con-guatemala-y-que-delitos-persiguen/",
+      "fecha": "Wed, 30 Sep 2026 06:24:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Fiscales con experiencia en carteles, narcotráfico, lavado de dinero, tráfico de personas, corrupción y seguridad fronteriza entablan cooperación con el MP y el Mingob."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Nombramiento de Jonathan Menkos en el Banguat genera dudas por su curul de diputado",
@@ -801,14 +809,6 @@
       "fecha": "Tue, 29 Sep 2026 06:00:00 +0000",
       "categoria": "Guatemala No Se Detiene",
       "resumen": "Diego Herrera ve en el nearshoring una oportunidad para atraer inversión al país, pero remarca enfocarse en la infraestructura, logística y capacitación para competir."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La BBC en primera línea de fuego de la guerra civil de Yemen, el conflicto que amenaza la seguridad energética mundial",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-bbc-en-primera-linea-de-fuego-de-la-guerra-civil-de-yemen-el-conflicto-que-amenaza-la-seguridad-energetica-mundial/",
-      "fecha": "Tue, 29 Sep 2026 04:35:48 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En un acceso poco frecuente a la zona de conflicto de Yemen, la BBC entra en una ciudad donde resuenan los disparos provenientes de las colinas circundantes."
     },
     {
       "fuente": "Guatemala.com",
