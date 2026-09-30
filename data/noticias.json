@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-09-30T01:16:18.313Z",
+  "actualizado": "2026-09-30T02:15:49.790Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Larkin Morales: Sala acepta recusación y traslada al Tribunal Décimo proceso contra Carlos Acevedo",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-larkin-morales-sala-acepta-recusacion-y-traslada-al-tribunal-decimo-proceso-contra-carlos-acevedo-breaking/",
+      "fecha": "Wed, 30 Sep 2026 01:49:34 +0000",
+      "categoria": "Justicia",
+      "resumen": "El proceso contra Carlos Acevedo Navas será conocido por un nuevo tribunal, luego de que una sala de Apelaciones aceptara una recusación contra el Tribunal Noveno de Sentencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Balacera en la zona 6 habría ocurrido por enfrentamiento entre pandillas rivales, según la PNC",
+      "link": "https://www.prensalibre.com/guatemala/justicia/balacera-en-la-zona-6-habria-ocurrido-por-enfrentamiento-entre-pandillas-rivales-segun-la-pnc/",
+      "fecha": "Wed, 30 Sep 2026 01:31:51 +0000",
+      "categoria": "Justicia",
+      "resumen": "Un hombre fue herido y capturado tras enfrentarse con la PNC en zona 6, donde se incautaron fusiles, pistolas y un chaleco antibalas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El parque de atracciones Six Flags en California clausura la montaña rusa X2 tras cientos de denuncias de lesiones cerebrales",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-parque-de-atracciones-six-flags-en-california-clausura-la-montana-rusa-x2-tras-cientos-de-denuncias-de-lesiones-cerebrales/",
+      "fecha": "Wed, 30 Sep 2026 01:31:13 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El anuncio se produce después de que varias demandas alegaran que cientos de pasajeros sufrieron lesiones cerebrales en X2, una atracción con asientos que giran 360 grados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El 12% de los cánceres en el mundo está relacionado con infecciones: el VPH y Helicobacter pylori, entre los principales riesgos según un estudio",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/el-12-de-los-canceres-en-el-mundo-esta-relacionado-con-infecciones-el-vph-y-helicobacter-pylori-entre-los-principales-riesgos-segun-un-estudio/",
+      "fecha": "Wed, 30 Sep 2026 01:26:35 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "La prevención y el control de ciertas infecciones pueden contribuir a reducir el riesgo de cáncer. Investigadores señalan que al menos el 12% de los nuevos casos en el mundo están relacionados con infecciones."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Fatima Zahra El Mansouri, la primera mujer elegida primera ministra de Marruecos",
@@ -89,6 +121,14 @@
       "fecha": "Tue, 29 Sep 2026 23:02:02 +0000",
       "categoria": "Internacional",
       "resumen": "El gobernador de California firmó un paquete de leyes en contra del ICE, donde se prohíbe el uso de guantes eléctricos e impone un impuesto del 25% a los centros de detención."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. sanciona a cabecillas del Cartel de Sinaloa y revela quiénes operan cerca de la frontera con México",
+      "link": "https://www.prensalibre.com/internacional/ee-uu-sanciona-a-cabecillas-del-cartel-de-sinaloa-y-revela-quienes-operan-cerca-de-la-frontera-con-mexico/",
+      "fecha": "Tue, 29 Sep 2026 22:26:42 +0000",
+      "categoria": "Internacional",
+      "resumen": "EE. UU. sancionó a 21 personas y 25 entidades vinculadas al Cartel de Sinaloa, incluidos cabecillas, lavadores de dinero y políticos corruptos."
     },
     {
       "fuente": "Prensa Libre",
@@ -769,46 +809,6 @@
       "fecha": "Tue, 29 Sep 2026 00:00:00 +0000",
       "categoria": "Economía",
       "resumen": "La industria guatemalteca de alimentos busca consolidarse como uno de los principales actores en Centroamérica y el Caribe, mientras explora otros mercados con potencial para ampliar su presencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Allan Rodríguez cuestiona demora del Ejecutivo para sancionar el decreto sobre exenciones del IVA y el IDP",
-      "link": "https://www.prensalibre.com/guatemala/politica/allan-rodriguez-cuestiona-demora-del-ejecutivo-para-sancionar-el-decreto-sobre-exenciones-del-iva-y-el-idp/",
-      "fecha": "Mon, 28 Sep 2026 23:36:34 +0000",
-      "categoria": "Política",
-      "resumen": "El diputado Allan Rodríguez afirmó que las exenciones del IVA y del IDP contempladas en el Decreto 22-2026 deben aplicarse desde el día siguiente de su publicación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué la sonda Juice sobrevuela la Tierra como parte de su viaje a Júpiter",
-      "link": "https://www.prensalibre.com/vida/ciencia/por-que-la-sonda-juice-sobrevuela-la-tierra-como-parte-de-su-viaje-a-jupiter/",
-      "fecha": "Mon, 28 Sep 2026 23:18:24 +0000",
-      "categoria": "Ciencia",
-      "resumen": "La sonda Juice continúa su viaje hacia Júpiter, donde llegará en 2031 para estudiar el planeta y tres de sus lunas heladas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Goldy Brar, el cabecilla criminal por el que el FBI ofrece una recompensa de US$1 millón?",
-      "link": "https://www.prensalibre.com/internacional/quien-es-goldy-brar-el-cabecilla-criminal-por-el-que-el-fbi-ofrece-una-recompensa-de-us1-millon/",
-      "fecha": "Mon, 28 Sep 2026 23:17:32 +0000",
-      "categoria": "Internacional",
-      "resumen": "El FBI ofrece US$1 millón por la captura de \"Goldy Bar\", el fugitivo más buscado a escala internacional por varios delitos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“No son fake news”: qué dijo papa León XIV sobre las preocupaciones por la inteligencia artificial",
-      "link": "https://www.prensalibre.com/internacional/no-son-fake-news-que-dijo-papa-leon-xiv-sobre-las-preocupaciones-por-la-inteligencia-artificial/",
-      "fecha": "Mon, 28 Sep 2026 23:06:56 +0000",
-      "categoria": "Internacional",
-      "resumen": "León XIV instó a tomar en serio las advertencias de los expertos sobre los posibles riesgos de la inteligencia artificial y pidió profundizar en el análisis de sus efectos futuros."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Alerta por estafas: Falsos trabajadores municipales cobran hasta Q20 mil por supuestos trámites",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/alerta-por-estafas-falsos-trabajadores-municipales-cobran-hasta-q20-mil-por-supuestos-tramites-breaking/",
-      "fecha": "Mon, 28 Sep 2026 22:45:03 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Falsos trabajadores municipales exigen hasta Q20 mil a vecinos a cambio de supuestos trámites y licencias de construcción en la capital."
     },
     {
       "fuente": "Guatemala.com",
