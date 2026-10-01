@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-10-01T03:17:16.444Z",
+  "actualizado": "2026-10-01T04:17:18.203Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Senado de México aprueba una ley que castiga el uso indebido de símbolos del Gobierno",
+      "link": "https://www.prensalibre.com/internacional/efe/senado-de-mexico-aprueba-una-ley-que-castiga-el-uso-indebido-de-simbolos-del-gobierno/",
+      "fecha": "Thu, 01 Oct 2026 03:51:33 +0000",
+      "categoria": "EFE",
+      "resumen": "Ciudad de México, 30 sep (EFE).- El Senado mexicano aprobó una serie de modificaciones legales que dan pie a la denominada ‘Ley Antimemes’, que contempla hasta 60 meses de cárcel y multas superiores a 55.300 dólares para quienes utilicen de manera indebida símbolos de la identidad oficial del Gobierno federal. La reforma al Código Penal Federal y a la Ley Federal de Protección a la Propiedad Industrial fue aprobada con 72 votos a favor y 34 en contra, en un contexto de tensión entre el partido oficialista Movimiento Regeneración Nacional (Morena) y los grupos opositores que consideran la medid"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La principal casa de empeño de México anuncia reapertura tras un año de huelga",
+      "link": "https://www.prensalibre.com/internacional/efe/la-principal-casa-de-empeno-de-mexico-anuncia-reapertura-tras-un-ano-de-huelga/",
+      "fecha": "Thu, 01 Oct 2026 03:46:42 +0000",
+      "categoria": "EFE",
+      "resumen": "Ciudad de México, 30 sep (EFE).- La principal casa de empeño de México, Nacional Monte de Piedad, anunció este miércoles la reapertura de sus sucursales a partir del próximo miércoles 7 de octubre, tras alcanzar un acuerdo con su sindicato que pone fin a la huelga que estalló el 1 de octubre de 2025. La huelga fue promovida por el sindicato tras acusar a la empresa de incumplir el convenio firmado en marzo de 2024 y de intentar modificar condiciones laborales, lo que derivó en el cierre de cerca de 300 sucursales y afectó a unos 2.300 trabajadores en todo el país. El conflicto se centró en la "
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo rechaza denuncia de Belice por incursión aérea y pone aeronave militar a disposición de la OEA",
+      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-rechaza-denuncia-de-belice-por-incursion-aerea-y-pone-aeronave-militar-a-disposicion-de-la-oea/",
+      "fecha": "Thu, 01 Oct 2026 03:45:18 +0000",
+      "categoria": "Política",
+      "resumen": "Guatemala ofreció a la OEA revisar la aeronave militar que Belice acusa de haber ingresado en su espacio aéreo, hecho que el presidente Bernardo Arévalo niega."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ecuador entrega a Perú la presidencia de Comunidad Andina para &#8220;atender desafíos comunes&#8221;",
+      "link": "https://www.prensalibre.com/internacional/efe/ecuador-entrega-a-peru-la-presidencia-de-comunidad-andina-para-atender-desafios-comunes/",
+      "fecha": "Thu, 01 Oct 2026 03:16:44 +0000",
+      "categoria": "EFE",
+      "resumen": "Guayaquil (Ecuador), 30 sep (EFE).- Ecuador entregó este miércoles a Perú la presidencia pro tempore de la Comunidad Andina (CAN) para el periodo 2026-2027, con la &#8220;convicción&#8221; de que el país vecino &#8220;dará continuidad a una agenda orientada a profundizar la integración, fortalecer la cooperación y atender los desafíos comunes&#8221;.  Así lo manifestó el ministro de Relaciones Exteriores y Movilidad Humana de Ecuador, Roberto Kury, quien le deseó &#8220;éxitos&#8221; a Perú en el desarrollo de la agenda que se ha planteado para este nuevo periodo.  La ceremonia de traspaso se "
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cómo romper el récord de velocidad espacial? Las claves del trayecto histórico que prepara la misión Crew-13 de la NASA",
+      "link": "https://www.prensalibre.com/internacional/como-romper-el-record-de-velocidad-espacial-las-claves-del-trayecto-historico-que-prepara-la-mision-crew-13-de-la-nasa/",
+      "fecha": "Thu, 01 Oct 2026 03:16:32 +0000",
+      "categoria": "Internacional",
+      "resumen": "Cuatro astronautas despegarán este jueves desde Florida rumbo a la Estación Espacial Internacional, en un viaje récord de menos de ocho horas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Erosión del río Pinula amenaza puente que comunica Villa Hermosa con Boca del Monte",
@@ -17,6 +57,22 @@
       "fecha": "Thu, 01 Oct 2026 02:55:24 +0000",
       "categoria": "EFE",
       "resumen": "Ciudad de Guatemala, 30 sep (EFE).- El presidente de Guatemala, Bernardo Arévalo de León, informó este miércoles que ha puesto a disposición de la Organización de Estados Americanos (OEA) la aeronave militar acusada por Belice de violar su espacio aéreo el pasado 23 de septiembre, un extremo que el mandatario niega. “Este vuelo no tuvo lugar y estamos esperando que vengan a comprobarlo”, afirmó el mandatario guatemalteco en una rueda de prensa en la que anunció que su Gobierno ha puesto “a disposición de la OEA el avión que hubiera estado involucrado para que se revisen sus registros”. Arévalo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Altos niveles de ozono, aumento de la temperatura del agua y subida del nivel del mar: qué revela el nuevo informe de Copernicus",
+      "link": "https://www.prensalibre.com/vida/ciencia/altos-niveles-de-ozono-aumento-de-la-temperatura-del-agua-y-subida-del-nivel-del-mar-que-revela-el-nuevo-informe-de-copernicus/",
+      "fecha": "Thu, 01 Oct 2026 02:46:47 +0000",
+      "categoria": "Ciencia",
+      "resumen": "El informe de Copernicus detalla cómo la contaminación por ozono y el calentamiento de los océanos están impactando distintas regiones del planeta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cómo llegaron municiones de la PNC a estructuras criminales? El caso que dejó siete capturados",
+      "link": "https://www.prensalibre.com/guatemala/justicia/como-llegaron-municiones-de-la-pnc-a-estructuras-criminales-el-caso-que-dejo-siete-capturados/",
+      "fecha": "Thu, 01 Oct 2026 02:32:37 +0000",
+      "categoria": "Justicia",
+      "resumen": "Cuatro agentes de la PNC y tres civiles fueron capturados en una investigación por la presunta sustracción de municiones policiales que habrían sido vendidas a estructuras criminales."
     },
     {
       "fuente": "Prensa Libre",
@@ -753,62 +809,6 @@
       "fecha": "Wed, 30 Sep 2026 14:35:30 +0000",
       "categoria": "Comunitario",
       "resumen": "Temblores de magnitud 4.1 y 3.0 en Guatemala tuvieron su epicentros en Santa Rosa, reporta el Insivumeh."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué pasó en el vuelo Dubái-Tel Aviv? Piloto herido, desvío e investigación terrorista en Israel",
-      "link": "https://www.prensalibre.com/internacional/que-paso-en-el-vuelo-dubai-tel-aviv-piloto-herido-desvio-e-investigacion-terrorista-en-israel/",
-      "fecha": "Wed, 30 Sep 2026 14:23:52 +0000",
-      "categoria": "Internacional",
-      "resumen": "El primer ministro de Israel, Benjamín Netanyahu, señaló que uno de los pilotos intentó estrellar la aeronave tras apuñalar a su compañero."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Localizan cadáver envuelto en sábanas en el km 4.5 de ruta al Atlántico",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/localizan-cadaver-envuelto-en-sabanas-en-el-km-4-5-de-ruta-al-atlantico/",
-      "fecha": "Wed, 30 Sep 2026 14:23:12 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Los Bomberos Voluntarios informan sobre el hallazgo de un cuerpo en el puente que conecta zona 17 con Canalitos, zona 24 de la Ciudad de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvias y agricultura en Guatemala: qué se espera para finales del 2026 y el 2027",
-      "link": "https://www.prensalibre.com/economia/lluvias-y-agricultura-en-guatemala-que-se-espera-para-finales-del-2026-y-el-2027/",
-      "fecha": "Wed, 30 Sep 2026 14:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "¿Qué ocurrirá con las lluvias durante los próximos meses y el 2027? Las condiciones recientes y las proyecciones climáticas plantean un escenario que podría incidir en la disponibilidad de agua y la producción agrícola, advierte el Instituto Privado de Investigación sobre Cambio Climático (ICC)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuánto cuesta el pasaporte guatemalteco? Estos son los pasos del trámite y requisitos para la fotografía",
-      "link": "https://www.prensalibre.com/guatemala/cuanto-cuesta-el-pasaporte-guatemalteco-estos-son-los-pasos-del-tramite-y-requisitos-para-la-fotografia/",
-      "fecha": "Wed, 30 Sep 2026 14:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El pasaporte guatemalteco tiene un costo de US$50 con vigencia de cinco años y US$85 por 10 años para mayores de edad. Antes de acudir a su cita, conozca los requisitos que debe presentar y las recomendaciones para completar el trámite sin contratiempos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Todos los pasajeros gritaban&#8221;: un avión rumbo a Israel es desviado tras una presunta pelea entre pilotos en la que uno fue apuñalado",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/todos-los-pasajeros-gritaban-un-avion-rumbo-a-israel-es-desviado-tras-una-presunta-pelea-entre-pilotos-en-la-que-uno-fue-apunalado/",
-      "fecha": "Wed, 30 Sep 2026 13:51:25 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Pese a una breve alerta de emergencia que indicaba un posible secuestro, la oficina del primer ministro israelí confirmó posteriormente que esa hipótesis había sido descartada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo sanciona decreto que exonera temporalmente de impuestos a los combustibles y veta propuesta de precios máximos",
-      "link": "https://www.prensalibre.com/economia/arevalo-sanciona-decreto-que-exonera-temporalmente-de-impuestos-a-los-combustibles-y-veta-propuesta-de-precios-maximos-breaking/",
-      "fecha": "Wed, 30 Sep 2026 13:19:43 +0000",
-      "categoria": "Economía",
-      "resumen": "El presidente Bernardo Arévalo sanciona el decreto que exonera temporalmente del pago de impuestos a los combustibles en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué sube el diésel en Guatemala? Banguat identifica tres factores que presionan la inflación",
-      "link": "https://www.prensalibre.com/economia/por-que-sube-el-diesel-en-guatemala-banguat-identifica-tres-factores-que-presionan-la-inflacion/",
-      "fecha": "Wed, 30 Sep 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Aunque Guatemala aún cuenta con cierto margen frente a las presiones inflacionarias, el aumento de los precios de los combustibles, especialmente del diésel, ya está trasladando inflación importada a la economía nacional."
     },
     {
       "fuente": "Guatemala.com",
