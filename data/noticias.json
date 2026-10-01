@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-10-01T19:16:57.837Z",
+  "actualizado": "2026-10-01T20:16:41.445Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clásicos del rock en español llegan a Rincón del Steak",
+      "link": "https://www.prensalibre.com/vida/escenario/clasicos-del-rock-en-espanol-llegan-a-rincon-del-steak/",
+      "fecha": "Thu, 01 Oct 2026 19:30:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Los amantes del rock en español podrán disfrutar de una noche de música en vivo con tributos a Soda Stereo, Maná y Enanitos Verdes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo juramenta a Jonathan Menkos como presidente del Banguat; Cacif interpone amparo ante nombramiento",
+      "link": "https://www.prensalibre.com/economia/arevalo-juramenta-a-jonathan-menkos-como-presidente-del-banguat-y-cacif-interpone-amparo-ante-nombramiento-breaking/",
+      "fecha": "Thu, 01 Oct 2026 19:16:20 +0000",
+      "categoria": "Economía",
+      "resumen": "Cacif interpone un recurso de amparo por el nombramiento de Jonathan Menkos como presidente del Banco de Guatemala y de la Junta Monetaria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué fenómenos astronómicos se podrán ver en Guatemala en octubre del 2026?",
+      "link": "https://www.prensalibre.com/vida/ciencia/que-fenomenos-astronomicos-se-podran-ver-en-guatemala-en-octubre-del-2026/",
+      "fecha": "Thu, 01 Oct 2026 19:08:51 +0000",
+      "categoria": "Ciencia",
+      "resumen": "Ocho eventos astronómicos serán visibles en Guatemala durante octubre del 2026. Conozca las fechas, los horarios y en qué consiste cada fenómeno."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala ante Surinam: este podría ser el once de Tena tras las ausencias de Lom y Santis",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-ante-surinam-este-podria-ser-el-once-de-tena-tras-las-ausencias-de-lom-y-santis/",
+      "fecha": "Thu, 01 Oct 2026 19:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Las bajas de Darwin Lom, por suspensión, y Óscar Santis, por lesión, obligarán a Luis Fernando Tena a realizar ajustes en el once titular de Guatemala para la visita a Surinam."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Video: Preso aprovecha un descuido, pasa entre los barrotes y escapa de una comisaría en Brasil",
@@ -9,6 +41,14 @@
       "fecha": "Thu, 01 Oct 2026 18:54:43 +0000",
       "categoria": "Internacional",
       "resumen": "Celestino Gomes fue alojado en una celda con una separación entre los barrotes lo suficientemente amplia como para que un adulto delgado pudiera atravesarla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así es el pentobarbital, el fármaco utilizado en el fallido intento de ejecución de Christa Pike",
+      "link": "https://www.prensalibre.com/internacional/asi-es-el-pentobarbital-el-farmaco-utilizado-en-el-fallido-intento-de-ejecucion-de-christa-pike/",
+      "fecha": "Thu, 01 Oct 2026 18:23:31 +0000",
+      "categoria": "Internacional",
+      "resumen": "Christa Pike sobrevivió a dos dosis de pentobarbital en su ejecución llevada a cabo en Tennessee."
     },
     {
       "fuente": "Prensa Libre",
@@ -761,46 +801,6 @@
       "fecha": "Thu, 01 Oct 2026 06:03:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "La función del gobierno debe ser proteger derechos, no dirigir vidas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La Usac, problema estructural",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-usac-problema-estructural/",
-      "fecha": "Thu, 01 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La crisis de la Usac no es sólo de la universidad, es un problema nacional. Su naturaleza es estructural."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Se hará más, pero de lo mismo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/se-hara-mas-pero-de-lo-mismo/",
-      "fecha": "Thu, 01 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El arte del gasto público es concentrar beneficios y disipar los costos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy jueves 1 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-1-de-octubre-de-2026/",
-      "fecha": "Thu, 01 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Uso del CUI como NIT",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/uso-del-cui-como-nit/",
-      "fecha": "Thu, 01 Oct 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Que el CUI sustituya al NIT no convierte automáticamente a la persona en contribuyente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué es la irradiación de frutas y por qué podría agilizar controles para la exportación",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/que-es-la-irradiacion-de-frutas-y-por-que-podria-agilizar-controles-para-la-exportacion/",
-      "fecha": "Thu, 01 Oct 2026 06:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Instalar una planta requeriría hasta US$12 millones y suficiente volumen de producto para hacerla rentable. Tecnología que podría reducir daños y facilitar el acceso a nuevos mercados"
     },
     {
       "fuente": "Guatemala.com",
