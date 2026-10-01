@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-10-01T02:15:59.106Z",
+  "actualizado": "2026-10-01T03:17:16.444Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Erosión del río Pinula amenaza puente que comunica Villa Hermosa con Boca del Monte",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/erosion-del-rio-pinula-amenaza-puente-que-comunica-villa-hermosa-con-boca-del-monte/",
+      "fecha": "Thu, 01 Oct 2026 02:56:09 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La erosión del río Pinula avanza hacia el puente que conecta Villa Hermosa con otros sectores de San Miguel Petapa y la capital, mientras vecinos temen quedar incomunicados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala ofrece a la OEA que revise avión acusado por Belice de violar su espacio aéreo",
+      "link": "https://www.prensalibre.com/internacional/efe/guatemala-ofrece-a-la-oea-que-revise-avion-acusado-por-belice-de-violar-su-espacio-aereo/",
+      "fecha": "Thu, 01 Oct 2026 02:55:24 +0000",
+      "categoria": "EFE",
+      "resumen": "Ciudad de Guatemala, 30 sep (EFE).- El presidente de Guatemala, Bernardo Arévalo de León, informó este miércoles que ha puesto a disposición de la Organización de Estados Americanos (OEA) la aeronave militar acusada por Belice de violar su espacio aéreo el pasado 23 de septiembre, un extremo que el mandatario niega. “Este vuelo no tuvo lugar y estamos esperando que vengan a comprobarlo”, afirmó el mandatario guatemalteco en una rueda de prensa en la que anunció que su Gobierno ha puesto “a disposición de la OEA el avión que hubiera estado involucrado para que se revisen sus registros”. Arévalo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MEM y SAT aseguran estar listos para aplicar desde el 1 de octubre la rebaja en gasolinas y diésel",
+      "link": "https://www.prensalibre.com/economia/mem-y-sat-aseguran-estar-listos-para-aplicar-desde-el-1-de-octubre-la-rebaja-en-gasolinas-y-diesel/",
+      "fecha": "Thu, 01 Oct 2026 02:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El Ministerio de Energía y Minas afirma que la reducción por la exención del IVA y el IDP deberá reflejarse desde las cero horas del jueves 1 de octubre, sin esperar a que se agoten los inventarios."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Dónde juegan los seleccionados de Surinam que enfrentarán a Guatemala en la Liga de Naciones",
@@ -36,19 +60,19 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Ecuador entrega a Perú la presidencia de Comunidad Andina para &#8220;atender desafíos comunes&#8221;",
-      "link": "https://www.prensalibre.com/internacional/efe/ecuador-entrega-a-peru-la-presidencia-de-comunidad-andina-para-atender-desafios-comunes/",
-      "fecha": "Thu, 01 Oct 2026 01:36:33 +0000",
-      "categoria": "EFE",
-      "resumen": "Guayaquil (Ecuador), 30 sep (EFE).- Ecuador entregó este miércoles a Perú la presidencia pro tempore de la Comunidad Andina (CAN) para el periodo 2026-2027, con la &#8220;convicción&#8221; de que el país vecino &#8220;dará continuidad a una agenda orientada a profundizar la integración, fortalecer la cooperación y atender los desafíos comunes&#8221;.  Así lo manifestó el ministro de Relaciones Exteriores y Movilidad Humana de Ecuador, Roberto Kury, quien le deseó &#8220;éxitos&#8221; a Perú en el desarrollo de la agenda que se ha planteado para este nuevo periodo.  La ceremonia de traspaso se "
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Investigan extraño burbujeo en la laguna de Ayarza mientras pobladores creen que se trata de agua caliente",
+      "titulo": "Investigan extraño burbujeo en la laguna de Ayarza y el MARN explica que gases subterráneos podrían provocarlo",
       "link": "https://www.prensalibre.com/guatemala/comunitario/investigan-extrano-burbujeo-en-la-laguna-de-ayarza-mientras-pobladores-creen-que-se-trata-de-agua-caliente-breaking/",
       "fecha": "Thu, 01 Oct 2026 01:19:24 +0000",
       "categoria": "Comunitario",
       "resumen": "Autoridades investigan las causas del burbujeo reportado en la laguna de Ayarza, Santa Rosa, que pobladores atribuyen a un posible brote de agua caliente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cómo cambiará la guerra? El Proyecto Meridian con el que Elon Musk y el Pentágono estudiarán las armas del futuro",
+      "link": "https://www.prensalibre.com/internacional/como-cambiara-la-guerra-en-el-futuro-el-proyecto-meridian-con-el-que-elon-musk-y-el-pentagono-estudiaran-las-armas-del-futuro/",
+      "fecha": "Thu, 01 Oct 2026 01:17:05 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Pentágono incorpora a Elon Musk para liderar el diseño de las armas y los sistemas militares que definirán los conflictos del futuro."
     },
     {
       "fuente": "Prensa Libre",
@@ -785,30 +809,6 @@
       "fecha": "Wed, 30 Sep 2026 11:00:00 +0000",
       "categoria": "Economía",
       "resumen": "Aunque Guatemala aún cuenta con cierto margen frente a las presiones inflacionarias, el aumento de los precios de los combustibles, especialmente del diésel, ya está trasladando inflación importada a la economía nacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quiénes son los nueve fiscales de EE. UU. que trabajarán con Guatemala y qué delitos persiguen",
-      "link": "https://www.prensalibre.com/guatemala/justicia/quienes-son-los-nueve-fiscales-de-ee-uu-que-trabajaran-con-guatemala-y-que-delitos-persiguen/",
-      "fecha": "Wed, 30 Sep 2026 06:24:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Fiscales con experiencia en carteles, narcotráfico, lavado de dinero, tráfico de personas, corrupción y seguridad fronteriza entablan cooperación con el MP y el Mingob."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nombramiento de Jonathan Menkos en el Banguat genera dudas por su curul de diputado",
-      "link": "https://www.prensalibre.com/economia/nombramiento-de-jonathan-menkos-en-el-banguat-genera-dudas-por-su-curul-de-diputado/",
-      "fecha": "Wed, 30 Sep 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El presidente Bernardo Arévalo designó a las nuevas autoridades del Banco de Guatemala (Banguat) y de la Superintendencia de Bancos (SIB) para el período 2026-2030, quienes asumirán sus cargos este jueves 1 de octubre. Sin embargo, surgieron cuestionamientos jurídicos, entre diputados y analistas, en el caso de Menkos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "A pesar de las tachas",
-      "link": "https://www.prensalibre.com/opinion/caricatura/a-pesar-de-las-tachas-2/",
-      "fecha": "Wed, 30 Sep 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
     },
     {
       "fuente": "Guatemala.com",
