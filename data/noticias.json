@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-10-01T17:16:15.038Z",
+  "actualizado": "2026-10-01T18:20:16.738Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué el Hospital de Cobán vuelve a licitación y su construcción se aplaza hasta 2030?",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/por-que-el-hospital-de-coban-vuelve-a-licitacion-y-su-construccion-se-aplaza-hasta-2030/",
+      "fecha": "Thu, 01 Oct 2026 18:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El proyecto fue adjudicado en mayo, pero el contrato no llegó a firmarse. El nuevo atraso se suma a una espera que comenzó al menos en el 2017."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Estas son las características del nuevo DPI para menores de edad en Guatemala",
+      "link": "https://www.guatemala.com/noticias/comunidad/dpime-guatemala-nuevo-documento-personal-de-identificacion-de-menores-de-edad.html",
+      "fecha": "Thu, 01 Oct 2026 17:57:06 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Descubre las características y dónde tramitar el nuevo DPI para menores de edad en Guatemala, disponible para personas de los 0 a los 17 años.\nThe post Estas son las características del nuevo DPI para menores de edad en Guatemala appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Guatemala puede vencer a Surinam? Esto dice la IA sobre las probabilidades de victoria",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-puede-vencer-a-surinam-esto-dice-la-ia-sobre-las-probabilidades-de-victoria/",
+      "fecha": "Thu, 01 Oct 2026 17:50:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Guatemala visitará a Surinam en Paramaribo en un partido que puede marcar el rumbo de ambas selecciones en la Liga de Naciones de Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Masacre en cevichería de zona 6: los casquillos que llevaron a la captura de cuatro policías por la supuesta venta de municiones a pandillas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/masacre-en-cevicheria-de-zona-6-los-casquillos-que-llevaron-a-la-captura-de-cuatro-policias-por-la-supuesta-venta-de-municiones-a-pandillas/",
+      "fecha": "Thu, 01 Oct 2026 17:31:12 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Cuatro policías y cuatro civiles fueron capturados por una investigación sobre el robo de municiones a la PNC y su presunta venta para cometer ataques armados en Guatemala."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Huracán Rachel se intensifica a categoría 2: Trayectoria, estados afectados e inundaciones",
@@ -17,6 +49,38 @@
       "fecha": "Thu, 01 Oct 2026 17:02:45 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La inyección letal es el método de ejecución más común en Estados Unidos. También el que resulta en más ejecuciones fallidas o altamente problemáticas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Reloj del habla”: la herramienta que evalúa el envejecimiento biológico, el deterioro cognitivo y la demencia",
+      "link": "https://www.prensalibre.com/vida/ciencia/reloj-del-habla-la-herramienta-que-evalua-el-envejecimiento-biologico-el-deterioro-cognitivo-y-la-demencia/",
+      "fecha": "Thu, 01 Oct 2026 17:02:22 +0000",
+      "categoria": "Ciencia",
+      "resumen": "Investigadores desarrollaron un “reloj del habla” para medir la edad biológica de una persona y detectar señales de deterioro cognitivo. Así se realizó el estudio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presunto pandillero señalado en siete casos de extorsión es capturado junto a su progenitora en la zona 7",
+      "link": "https://www.prensalibre.com/guatemala/justicia/presunto-pandillero-senalado-en-siete-casos-de-extorsion-es-capturado-junto-a-su-progenitora-en-la-zona-7-breaking/",
+      "fecha": "Thu, 01 Oct 2026 16:52:44 +0000",
+      "categoria": "Justicia",
+      "resumen": "Una mujer y su hijo fueron capturados en la colonia El Incienso, zona 7 de la capital, señalados de cometer el delito de extorsión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Prohibidas las persecuciones? las nuevas restricciones del ICE para detener vehículos",
+      "link": "https://www.prensalibre.com/internacional/prohibidas-las-persecuciones-las-nuevas-restricciones-del-ice-para-detener-vehiculos/",
+      "fecha": "Thu, 01 Oct 2026 16:48:21 +0000",
+      "categoria": "Internacional",
+      "resumen": "Agentes del ICE han recibido nuevas restricciones para llevar a cabo detenciones de vehículos durante sus operativos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mineduc publica currículo de estudios, requisitos y jornadas de las cinco nuevas carreras de magisterio",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/mineduc-publica-curriculo-de-estudios-requisitos-y-jornadas-de-las-cinco-nuevas-carreras-de-magisterio/",
+      "fecha": "Thu, 01 Oct 2026 16:41:22 +0000",
+      "categoria": "Comunitario",
+      "resumen": "A partir del 2027, los estudiantes que ingresen al diversificado podrán estudiar cinco carreras de magisterio."
     },
     {
       "fuente": "Prensa Libre",
@@ -739,62 +803,6 @@
       "resumen": "Bruselas, 30 sep (EFE).- Uno de cada cuatro participantes en un estudio exploratorio con 110 voluntarios residentes en Europa presentó en sangre niveles de cuatro PFAS de cadena larga superiores al valor de referencia sanitario derivado de los criterios de la Autoridad Europea de Seguridad Alimentaria (EFSA).El TFA, otro de estos contaminantes persistentes, apareció por su parte en todas las muestras y alcanzó, según los autores, las concentraciones más altas registradas hasta ahora en estudios de biomonitorización humana, informó el grupo de Los Verdes del Parlamento Europeo, responsable del "
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Macron condecora a Almodóvar y a Cercas en una ceremonia con Sánchez",
-      "link": "https://www.prensalibre.com/internacional/efe/macron-condecora-a-almodovar-y-a-cercas-en-una-ceremonia-con-sanchez-2/",
-      "fecha": "Thu, 01 Oct 2026 05:06:53 +0000",
-      "categoria": "EFE",
-      "resumen": "Madrid, 30 sep (EFE).- El presidente francés, Emmanuel Macron, condecoró al cineasta Pedro Almodóvar y al escritor Javier Cercas con la Legión de Honor en una ceremonia celebrada durante su visita de Estado a Madrid y a la que asistió el presidente del Gobierno español, Pedro Sánchez, informó este miércoles el Elíseo.  Sánchez felicitó a ambos por las condecoraciones y les agradeció por hacer de España &#8220;una potencia cultural&#8221;. &#8220;Y, sobre todo, gracias por habernos ayudado a todos a mirar más allá&#8221;, añadió el presidente del Gobierno en un mensaje en X.  El director de pel"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La colombiana Tatiana Calderón inspira a niñas tras hacer historia en la Nascar Brasil",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/la-colombiana-tatiana-calderon-inspira-a-ninas-tras-hacer-historia-en-la-nascar-brasil/",
-      "fecha": "Thu, 01 Oct 2026 04:52:24 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "México, 30 sep (EFE).- La automovilista colombiana Tatiana Calderón, primera mujer en ganar en la Nascar Brasil, compartió este miércoles su orgullo por inspirar a niñas y a jóvenes que hoy desean pilotar autos deportivos. &#8220;Hoy es muy bonito ver la cantidad de niñas que me escriben porque quieren ser pilotos y me dicen que sus padres las apoyan, yo empecé en una pista de karts y ahora es muy importante estar aquí, luego de este triunfo tan importante&#8221;, afirmó. El fin de semana pasado, Calderón ganó la carrera dos de la séptima fecha de la temporada de Nascar Brasil, lo hizo en la c"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La presa condenada a muerte Christa Pike sobrevive a dos dosis de inyecciones letales y se encuentra hospitalizada en Tennessee, según su abogado",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-presa-condenada-a-muerte-christa-pike-sobrevive-a-dos-dosis-de-inyecciones-letales-y-se-encuentra-hospitalizada-en-tennessee-segun-su-abogado/",
-      "fecha": "Thu, 01 Oct 2026 04:35:26 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Según el abogado de Pike, ella estaba en una \"innecesaria agonía\". La mujer de 50 años llevaba tres décadas en el corredor de la muerte por un brutal asesinato."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Christa Pike sobrevive a dos dosis de pentobarbital durante su ejecución en Tennessee",
-      "link": "https://www.prensalibre.com/internacional/christa-pike-sobrevive-a-dos-dosis-de-pentobarbital-durante-su-ejecucion-en-tennessee-breaking/",
-      "fecha": "Thu, 01 Oct 2026 04:31:36 +0000",
-      "categoria": "Internacional",
-      "resumen": "La ejecución de Christa Pike en Tennessee quedó inconclusa después de que sobreviviera a dos tandas de pentobarbital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cabello tilda de &#8220;show&#8221; denuncias de impedimentos a Machado para volver a Venezuela",
-      "link": "https://www.prensalibre.com/internacional/efe/cabello-tilda-de-show-denuncias-de-impedimentos-a-machado-para-volver-a-venezuela/",
-      "fecha": "Thu, 01 Oct 2026 04:31:28 +0000",
-      "categoria": "EFE",
-      "resumen": "Caracas, 30 sep (EFE).- El ministro de Interior de Venezuela, Diosdado Cabello, tildó este miércoles de &#8220;show&#8221; las denuncias sobre impedimentos para el retorno al país de la líder opositora y premio nobel de la paz 2025, María Corina Machado, y la instó a regresar con un &#8220;que se venga&#8221;.  &#8220;¿Qué es lo que le impide venirse? ¡Que se venga! ¿Cuál es problema, pues? Lo que tienen es un show para ver cómo generan una campaña de intriga&#8221;, dijo durante su programa televisivo &#8216;Con el Mazo Dando’.  Ya el presidente del Parlamento, el chavista Jorge Rodríguez, ha"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Expresidente mexicano López Obrador alista libro para &#8220;ayudar&#8221; a EE.UU en su &#8220;decadencia&#8221;",
-      "link": "https://www.prensalibre.com/internacional/efe/expresidente-mexicano-lopez-obrador-alista-libro-para-ayudar-a-ee-uu-en-su-decadencia/",
-      "fecha": "Thu, 01 Oct 2026 04:11:34 +0000",
-      "categoria": "EFE",
-      "resumen": "Ciudad de México, 30 sep (EFE).- El expresidente mexicano Andrés Manuel López Obrador (2018-2024) anunció este miércoles que prepara un libro con propuestas para &#8220;ayudar&#8221; a Estados Unidos, al considerar que el país vecino enfrenta una &#8220;decadencia&#8221; que no se resolvería ni &#8220;aunque se acabara el fentanilo&#8221;, en medio de las crecientes presiones de Washington para que México frene el narcotráfico. López Obrador reapareció en redes sociales para presentar su nuevo libro, &#8216;Pueblo’, dedicado a su sucesora, Claudia Sheinbaum, a quien elogió como &#8220;la mejor"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Senado de México aprueba una ley que castiga el uso indebido de símbolos del Gobierno",
-      "link": "https://www.prensalibre.com/internacional/efe/senado-de-mexico-aprueba-una-ley-que-castiga-el-uso-indebido-de-simbolos-del-gobierno/",
-      "fecha": "Thu, 01 Oct 2026 03:51:33 +0000",
-      "categoria": "EFE",
-      "resumen": "Ciudad de México, 30 sep (EFE).- El Senado mexicano aprobó una serie de modificaciones legales que dan pie a la denominada ‘Ley Antimemes’, que contempla hasta 60 meses de cárcel y multas superiores a 55.300 dólares para quienes utilicen de manera indebida símbolos de la identidad oficial del Gobierno federal. La reforma al Código Penal Federal y a la Ley Federal de Protección a la Propiedad Industrial fue aprobada con 72 votos a favor y 34 en contra, en un contexto de tensión entre el partido oficialista Movimiento Regeneración Nacional (Morena) y los grupos opositores que consideran la medid"
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Licenciatura en Economía Analítica, la nueva carrera de UVG que redefine el perfil del economista",
       "link": "https://www.guatemala.com/noticias/sociedad/licenciatura-economia-analitica-nueva-carrera-uvg-redefine-perfil-economista.html",
@@ -865,14 +873,6 @@
       "fecha": "Fri, 25 Sep 2026 15:08:23 +0000",
       "categoria": "Comunidad",
       "resumen": "El Insivumeh pronostica lluvias y ambiente cálido para el fin de semana del 26 y 27 de septiembre 2026. ¡Entérate cómo estará el clima en tu región!\nThe post Clima en Guatemala: lluvias continuarán el fin de semana del 26 y 27 de septiembre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Café cultivado en Sacatepéquez será parte de una cata global organizada por James Hoffmann",
-      "link": "https://www.guatemala.com/noticias/sociedad/cafe-guatemalteco-sera-parte-the-fermentation-project-cata-global-liderada-james-hoffmann.html",
-      "fecha": "Thu, 24 Sep 2026 23:34:41 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Un café cultivado en Sacatepéquez será parte de la cata global de The Fermentation Project, liderada por el reconocido barista James Hoffmann.\nThe post Café cultivado en Sacatepéquez será parte de una cata global organizada por James Hoffmann appeared first on Guatemala.com."
     }
   ]
 }
