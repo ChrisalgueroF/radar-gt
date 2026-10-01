@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-10-01T20:16:41.445Z",
+  "actualizado": "2026-10-01T21:15:34.302Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "ADEN Business School actualiza su Maestría en IA aplicada a los negocios con IA Agéntica",
+      "link": "https://www.guatemala.com/noticias/sociedad/ia-agentica-negocios-actualizacion-maestria-aden-business-school.html",
+      "fecha": "Thu, 01 Oct 2026 21:08:27 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Descubre qué es la IA agéntica, cómo se aplica a los negocios y qué incorpora la actualización de la Maestría en IA aplicada a los Negocios de ADEN.\nThe post ADEN Business School actualiza su Maestría en IA aplicada a los negocios con IA Agéntica appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump vincula a Irán con el incidente de FlyDubai y lanza una advertencia: “Podrían dejar de existir”",
+      "link": "https://www.prensalibre.com/internacional/trump-vincula-a-iran-con-el-incidente-de-flydubai-y-lanza-una-advertencia-podrian-dejar-de-existir/",
+      "fecha": "Thu, 01 Oct 2026 20:41:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "Tras el incidente de Flydubai, el presidente estadounidense Donald Trump advirtió de que \"se acerca el momento\" de tomar una decisión sobre Irán."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Clásicos del rock en español llegan a Rincón del Steak",
@@ -795,14 +811,6 @@
       "resumen": "La cooperación canadiense ha favorecido el desarrollo económico inclusivo."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Conservador o liberal? No es lo mismo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/conservador-o-liberal-no-es-lo-mismo/",
-      "fecha": "Thu, 01 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La función del gobierno debe ser proteger derechos, no dirigir vidas."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Licenciatura en Economía Analítica, la nueva carrera de UVG que redefine el perfil del economista",
       "link": "https://www.guatemala.com/noticias/sociedad/licenciatura-economia-analitica-nueva-carrera-uvg-redefine-perfil-economista.html",
@@ -865,14 +873,6 @@
       "fecha": "Fri, 25 Sep 2026 22:19:06 +0000",
       "categoria": "Sociedad",
       "resumen": "Descubre las 12 imágenes ganadoras de Fotocyt 2026, un concurso que promueve el conocimiento de la ciencia a través de la fotografía.\nThe post Estas son las 12 fotografías sobre ciencia que destacaron en Fotocyt 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Clima en Guatemala: lluvias continuarán el fin de semana del 26 y 27 de septiembre 2026",
-      "link": "https://www.guatemala.com/noticias/comunidad/estado-del-tiempo-guatemala-26-y-27-septiembre-2026.html",
-      "fecha": "Fri, 25 Sep 2026 15:08:23 +0000",
-      "categoria": "Comunidad",
-      "resumen": "El Insivumeh pronostica lluvias y ambiente cálido para el fin de semana del 26 y 27 de septiembre 2026. ¡Entérate cómo estará el clima en tu región!\nThe post Clima en Guatemala: lluvias continuarán el fin de semana del 26 y 27 de septiembre 2026 appeared first on Guatemala.com."
     }
   ]
 }
