@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-10-01T16:15:57.383Z",
+  "actualizado": "2026-10-01T17:16:15.038Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Huracán Rachel se intensifica a categoría 2: Trayectoria, estados afectados e inundaciones",
+      "link": "https://www.prensalibre.com/internacional/huracan-rachel-se-intensifica-a-categoria-2-trayectoria-estados-afectados-e-inundaciones/",
+      "fecha": "Thu, 01 Oct 2026 17:08:42 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las precipitaciones de fuertes a intensas podrían generar encharcamientos e inundaciones, por lo que se exhorta a la población a atender las recomendaciones de las autoridades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué sucedió en la ejecución fallida de Christa Pike y cuán común es que la inyección letal no funcione en EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-sucedio-en-la-ejecucion-fallida-de-christa-pike-y-cuan-comun-es-que-la-inyeccion-letal-no-funcione-en-ee-uu/",
+      "fecha": "Thu, 01 Oct 2026 17:02:45 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La inyección letal es el método de ejecución más común en Estados Unidos. También el que resulta en más ejecuciones fallidas o altamente problemáticas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Eurocopa 2032: estas son las 13 ciudades que Italia propone como posibles sedes",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/eurocopa-2032-estas-son-las-13-ciudades-que-italia-propone-como-posibles-sedes/",
+      "fecha": "Thu, 01 Oct 2026 16:26:56 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La Federación Italiana de Futbol presentó ante la Uefa las 14 candidaturas de estadios en 13 ciudades que aspiran a ser sede de la Eurocopa 2032."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Surinam vs. Guatemala: día, hora y dónde ver el partido de la Azul y Blanco por la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/surinam-vs-guatemala-dia-hora-y-donde-ver-el-partido-de-la-azul-y-blanco-por-la-liga-de-naciones/",
+      "fecha": "Thu, 01 Oct 2026 15:59:04 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Azul y Blanco afronta una prueba determinante en Paramaribo, donde buscará un triunfo que la acerque a los primeros puestos de su grupo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Christa Pike se une a la extensa lista de errores: Los 276 intentos fallidos de ejecución en EE. UU.",
@@ -761,38 +793,6 @@
       "fecha": "Thu, 01 Oct 2026 03:51:33 +0000",
       "categoria": "EFE",
       "resumen": "Ciudad de México, 30 sep (EFE).- El Senado mexicano aprobó una serie de modificaciones legales que dan pie a la denominada ‘Ley Antimemes’, que contempla hasta 60 meses de cárcel y multas superiores a 55.300 dólares para quienes utilicen de manera indebida símbolos de la identidad oficial del Gobierno federal. La reforma al Código Penal Federal y a la Ley Federal de Protección a la Propiedad Industrial fue aprobada con 72 votos a favor y 34 en contra, en un contexto de tensión entre el partido oficialista Movimiento Regeneración Nacional (Morena) y los grupos opositores que consideran la medid"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La principal casa de empeño de México anuncia reapertura tras un año de huelga",
-      "link": "https://www.prensalibre.com/internacional/efe/la-principal-casa-de-empeno-de-mexico-anuncia-reapertura-tras-un-ano-de-huelga/",
-      "fecha": "Thu, 01 Oct 2026 03:46:42 +0000",
-      "categoria": "EFE",
-      "resumen": "Ciudad de México, 30 sep (EFE).- La principal casa de empeño de México, Nacional Monte de Piedad, anunció este miércoles la reapertura de sus sucursales a partir del próximo miércoles 7 de octubre, tras alcanzar un acuerdo con su sindicato que pone fin a la huelga que estalló el 1 de octubre de 2025. La huelga fue promovida por el sindicato tras acusar a la empresa de incumplir el convenio firmado en marzo de 2024 y de intentar modificar condiciones laborales, lo que derivó en el cierre de cerca de 300 sucursales y afectó a unos 2.300 trabajadores en todo el país. El conflicto se centró en la "
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo rechaza denuncia de Belice por incursión aérea y pone aeronave militar a disposición de la OEA",
-      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-rechaza-denuncia-de-belice-por-incursion-aerea-y-pone-aeronave-militar-a-disposicion-de-la-oea/",
-      "fecha": "Thu, 01 Oct 2026 03:45:18 +0000",
-      "categoria": "Política",
-      "resumen": "Guatemala ofreció a la OEA revisar la aeronave militar que Belice acusa de haber ingresado en su espacio aéreo, hecho que el presidente Bernardo Arévalo niega."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ecuador entrega a Perú la presidencia de Comunidad Andina para &#8220;atender desafíos comunes&#8221;",
-      "link": "https://www.prensalibre.com/internacional/efe/ecuador-entrega-a-peru-la-presidencia-de-comunidad-andina-para-atender-desafios-comunes/",
-      "fecha": "Thu, 01 Oct 2026 03:16:44 +0000",
-      "categoria": "EFE",
-      "resumen": "Guayaquil (Ecuador), 30 sep (EFE).- Ecuador entregó este miércoles a Perú la presidencia pro tempore de la Comunidad Andina (CAN) para el periodo 2026-2027, con la &#8220;convicción&#8221; de que el país vecino &#8220;dará continuidad a una agenda orientada a profundizar la integración, fortalecer la cooperación y atender los desafíos comunes&#8221;.  Así lo manifestó el ministro de Relaciones Exteriores y Movilidad Humana de Ecuador, Roberto Kury, quien le deseó &#8220;éxitos&#8221; a Perú en el desarrollo de la agenda que se ha planteado para este nuevo periodo.  La ceremonia de traspaso se "
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo romper el récord de velocidad espacial? Las claves del trayecto histórico que prepara la misión Crew-13 de la NASA",
-      "link": "https://www.prensalibre.com/internacional/como-romper-el-record-de-velocidad-espacial-las-claves-del-trayecto-historico-que-prepara-la-mision-crew-13-de-la-nasa/",
-      "fecha": "Thu, 01 Oct 2026 03:16:32 +0000",
-      "categoria": "Internacional",
-      "resumen": "Cuatro astronautas despegarán este jueves desde Florida rumbo a la Estación Espacial Internacional, en un viaje récord de menos de ocho horas."
     },
     {
       "fuente": "Guatemala.com",
