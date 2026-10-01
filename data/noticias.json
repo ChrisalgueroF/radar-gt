@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-10-01T04:17:18.203Z",
+  "actualizado": "2026-10-01T05:16:23.321Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La colombiana Tatiana Calderón inspira a niñas tras hacer historia en la Nascar Brasil",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/la-colombiana-tatiana-calderon-inspira-a-ninas-tras-hacer-historia-en-la-nascar-brasil/",
+      "fecha": "Thu, 01 Oct 2026 04:52:24 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "México, 30 sep (EFE).- La automovilista colombiana Tatiana Calderón, primera mujer en ganar en la Nascar Brasil, compartió este miércoles su orgullo por inspirar a niñas y a jóvenes que hoy desean pilotar autos deportivos. &#8220;Hoy es muy bonito ver la cantidad de niñas que me escriben porque quieren ser pilotos y me dicen que sus padres las apoyan, yo empecé en una pista de karts y ahora es muy importante estar aquí, luego de este triunfo tan importante&#8221;, afirmó. El fin de semana pasado, Calderón ganó la carrera dos de la séptima fecha de la temporada de Nascar Brasil, lo hizo en la c"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La presa condenada a muerte Christa Pike sobrevive a dos dosis de inyecciones letales y se encuentra hospitalizada en Tennessee, según su abogado",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-presa-condenada-a-muerte-christa-pike-sobrevive-a-dos-dosis-de-inyecciones-letales-y-se-encuentra-hospitalizada-en-tennessee-segun-su-abogado/",
+      "fecha": "Thu, 01 Oct 2026 04:35:26 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Según el abogado de Pike, ella estaba en una \"innecesaria agonía\". La mujer de 50 años llevaba tres décadas en el corredor de la muerte por un brutal asesinato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Christa Pike sobrevive a dos dosis de pentobarbital durante su ejecución en Tennessee",
+      "link": "https://www.prensalibre.com/internacional/christa-pike-sobrevive-a-dos-dosis-de-pentobarbital-durante-su-ejecucion-en-tennessee-breaking/",
+      "fecha": "Thu, 01 Oct 2026 04:31:36 +0000",
+      "categoria": "Internacional",
+      "resumen": "La ejecución de Christa Pike en Tennessee quedó inconclusa después de que sobreviviera a dos tandas de pentobarbital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cabello tilda de &#8220;show&#8221; denuncias de impedimentos a Machado para volver a Venezuela",
+      "link": "https://www.prensalibre.com/internacional/efe/cabello-tilda-de-show-denuncias-de-impedimentos-a-machado-para-volver-a-venezuela/",
+      "fecha": "Thu, 01 Oct 2026 04:31:28 +0000",
+      "categoria": "EFE",
+      "resumen": "Caracas, 30 sep (EFE).- El ministro de Interior de Venezuela, Diosdado Cabello, tildó este miércoles de &#8220;show&#8221; las denuncias sobre impedimentos para el retorno al país de la líder opositora y premio nobel de la paz 2025, María Corina Machado, y la instó a regresar con un &#8220;que se venga&#8221;.  &#8220;¿Qué es lo que le impide venirse? ¡Que se venga! ¿Cuál es problema, pues? Lo que tienen es un show para ver cómo generan una campaña de intriga&#8221;, dijo durante su programa televisivo &#8216;Con el Mazo Dando’.  Ya el presidente del Parlamento, el chavista Jorge Rodríguez, ha"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Expresidente mexicano López Obrador alista libro para &#8220;ayudar&#8221; a EE.UU en su &#8220;decadencia&#8221;",
+      "link": "https://www.prensalibre.com/internacional/efe/expresidente-mexicano-lopez-obrador-alista-libro-para-ayudar-a-ee-uu-en-su-decadencia/",
+      "fecha": "Thu, 01 Oct 2026 04:11:34 +0000",
+      "categoria": "EFE",
+      "resumen": "Ciudad de México, 30 sep (EFE).- El expresidente mexicano Andrés Manuel López Obrador (2018-2024) anunció este miércoles que prepara un libro con propuestas para &#8220;ayudar&#8221; a Estados Unidos, al considerar que el país vecino enfrenta una &#8220;decadencia&#8221; que no se resolvería ni &#8220;aunque se acabara el fentanilo&#8221;, en medio de las crecientes presiones de Washington para que México frene el narcotráfico. López Obrador reapareció en redes sociales para presentar su nuevo libro, &#8216;Pueblo’, dedicado a su sucesora, Claudia Sheinbaum, a quien elogió como &#8220;la mejor"
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Senado de México aprueba una ley que castiga el uso indebido de símbolos del Gobierno",
@@ -763,52 +803,12 @@
       "resumen": "La Bicolor disipó las dudas con una actuación contundente que la mantiene en la pelea dentro de la Liga de Naciones de Concacaf. Sin tiempo para celebraciones, Guatemala ya pone la mira en los decisivos duelos frente a Surinam."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "San Pedro recibe una noticia favorable: reducen las sanciones de Edwin Vásquez y Germán Águila",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/san-pedro-recibe-una-noticia-favorable-reducen-las-sanciones-de-edwin-vasquez-y-german-aguila/",
-      "fecha": "Wed, 30 Sep 2026 15:18:01 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "San Pedro recibió una noticia positiva antes del inicio de la segunda vuelta del Apertura 2026, luego de que se redujeran las sanciones impuestas al técnico Edwin \"Chino\" Vásquez y al delantero Germán Águila."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Harry y Meghan enfrentan incidente de seguridad en la nueva escuela de Archie y Lilibet, calificado como una “extraordinaria falta de criterio”",
-      "link": "https://www.prensalibre.com/vida/escenario/harry-y-meghan-enfrentan-incidente-de-seguridad-en-la-nueva-escuela-de-archie-y-lilibet-calificado-como-una-extraordinaria-falta-de-criterio/",
-      "fecha": "Wed, 30 Sep 2026 15:15:24 +0000",
-      "categoria": "Escenario",
-      "resumen": "La presencia de dos personas que merodeaban la escuela a la que asisten los hijos del príncipe Harry y Meghan Markle puso en alerta a la familia, que se pronunció sobre el hecho."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Niño lleva un arma en su mochila a una guardería de Michigan: su padre es policía y esto dijeron las autoridades",
-      "link": "https://www.prensalibre.com/internacional/encuentran-un-arma-de-fuego-en-la-mochila-de-un-nino-en-una-guarderia-de-michigan-que-dijeron-las-autoridades/",
-      "fecha": "Wed, 30 Sep 2026 15:00:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Encuentran un arma de fuego en la mochila de un niño en un centro infantil de Michigan. Las autoridades confirmaron que no hubo heridos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lamine Yamal brilla con España y fortalece su candidatura al Balón de Oro",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lamine-yamal-brilla-con-espana-y-fortalece-su-candidatura-al-balon-de-oro/",
-      "fecha": "Wed, 30 Sep 2026 14:45:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Lamine Yamal no deja de brillar: marcó dos goles ante Croacia y reafirmó su condición de una de las grandes estrellas del futbol mundial."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "¿Cuándo entrará en vigencia la ley que exonera impuestos a los combustibles en Guatemala?",
       "link": "https://www.guatemala.com/noticias/comunidad/autorizan-exoneracion-temporal-impuestos-iva-e-idp-gasolina-diesel-guatemala.html",
       "fecha": "Wed, 30 Sep 2026 14:36:00 +0000",
       "categoria": "Comunidad",
       "resumen": "Exoneración temporal de impuestos a la gasolina y diésel fue sancionada por el Presidente de Guatemala y entrará en vigencia en octubre de 2026.\nThe post ¿Cuándo entrará en vigencia la ley que exonera impuestos a los combustibles en Guatemala? appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Temblores de magnitud 4.1 y 3.0 sorprenden a Guatemala este 30 de septiembre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-30-de-septiembre-de-2026-en-guatemala-breaking/",
-      "fecha": "Wed, 30 Sep 2026 14:35:30 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Temblores de magnitud 4.1 y 3.0 en Guatemala tuvieron su epicentros en Santa Rosa, reporta el Insivumeh."
     },
     {
       "fuente": "Guatemala.com",
