@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-10-01T18:20:16.738Z",
+  "actualizado": "2026-10-01T19:16:57.837Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Preso aprovecha un descuido, pasa entre los barrotes y escapa de una comisaría en Brasil",
+      "link": "https://www.prensalibre.com/internacional/video-preso-aprovecha-un-descuido-pasa-entre-los-barrotes-y-escapa-de-una-comisaria-en-brasil/",
+      "fecha": "Thu, 01 Oct 2026 18:54:43 +0000",
+      "categoria": "Internacional",
+      "resumen": "Celestino Gomes fue alojado en una celda con una separación entre los barrotes lo suficientemente amplia como para que un adulto delgado pudiera atravesarla."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Por qué el Hospital de Cobán vuelve a licitación y su construcción se aplaza hasta 2030?",
@@ -793,14 +801,6 @@
       "fecha": "Thu, 01 Oct 2026 06:00:00 +0000",
       "categoria": "Guatemala No Se Detiene",
       "resumen": "Instalar una planta requeriría hasta US$12 millones y suficiente volumen de producto para hacerla rentable. Tecnología que podría reducir daños y facilitar el acceso a nuevos mercados"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Uno de cada cuatro europeos analizados supera el umbral de PFAS recomendado",
-      "link": "https://www.prensalibre.com/internacional/efe/uno-de-cada-cuatro-europeos-analizados-supera-el-umbral-de-pfas-recomendado/",
-      "fecha": "Thu, 01 Oct 2026 05:56:33 +0000",
-      "categoria": "EFE",
-      "resumen": "Bruselas, 30 sep (EFE).- Uno de cada cuatro participantes en un estudio exploratorio con 110 voluntarios residentes en Europa presentó en sangre niveles de cuatro PFAS de cadena larga superiores al valor de referencia sanitario derivado de los criterios de la Autoridad Europea de Seguridad Alimentaria (EFSA).El TFA, otro de estos contaminantes persistentes, apareció por su parte en todas las muestras y alcanzó, según los autores, las concentraciones más altas registradas hasta ahora en estudios de biomonitorización humana, informó el grupo de Los Verdes del Parlamento Europeo, responsable del "
     },
     {
       "fuente": "Guatemala.com",
