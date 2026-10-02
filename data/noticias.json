@@ -1,7 +1,55 @@
 {
-  "actualizado": "2026-10-02T03:16:26.930Z",
+  "actualizado": "2026-10-02T04:16:56.570Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo la guerra ha provocado un aumento de los casos de violencia sexual y matrimonios forzados de niñas y mujeres en Gaza",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-la-guerra-ha-provocado-un-aumento-de-los-casos-de-violencia-sexual-y-matrimonios-forzados-de-ninas-y-mujeres-en-gaza/",
+      "fecha": "Fri, 02 Oct 2026 04:09:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La ONU denuncia que algunas familias han ofrecido a sus hijas en matrimonio a cambio de alimentos, mientras que los campos de refugiados se han convertido en entornos cada vez más peligrosos para mujeres de todas las edades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los incidentes registrados en Mixco que complican el tránsito en la capital este 1 de octubre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/transito-complicado-en-la-capital-incidentes-en-mixco-y-lluvia-afectan-la-movilidad-en-la-ciudad-breaking/",
+      "fecha": "Fri, 02 Oct 2026 03:45:53 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La PMT de Guatemala alerta sobre complicaciones de tránsito la noche de este jueves en varios sectores de la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién es y qué crimen cometió Christa Pike, la mujer en &#8220;estado crítico&#8221; tras recibir dos dosis de inyección letal durante su ejecución en Tennessee",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-y-que-crimen-cometio-christa-pike-la-mujer-en-estado-critico-tras-recibir-dos-dosis-de-inyeccion-letal-durante-su-ejecucion-en-tennessee/",
+      "fecha": "Fri, 02 Oct 2026 03:27:44 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los abogados de Pike, quien asesinó a una joven hace tres décadas, afirman que si fuera juzgada hoy no sería condenada a muerte."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alcanza grado de inversión con calificación de Fitch Ratings",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/alcanza-grado-de-inversion-con-calificacion-de-fitch-ratings/",
+      "fecha": "Fri, 02 Oct 2026 03:25:34 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Fitch Ratings elevó la calificación internacional de riesgo emisor de largo plazo de BAC a BBB- (perspectiva Estable), otorgándole grado de inversión (Investment Grade), un hito que fortalece el posicionamiento financiero y estratégico de la organización."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pinos Altos vive entre retumbos, grietas y temblores mientras el Insivumeh investiga las causas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/pinos-altos-vive-entre-retumbos-grietas-y-temblores-mientras-el-insivumeh-investiga-las-causas-breaking/",
+      "fecha": "Fri, 02 Oct 2026 03:09:50 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Retumbos bajo tierra, decenas de temblores y grietas en viviendas mantienen en alerta a unas 160 familias de Pinos Altos, Casillas, Santa Rosa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Así encontramos a mi hijita”: padre relata cómo hallaron el cuerpo de niña de 3 años desaparecida en Nebaj",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/asi-encontramos-a-mi-hijita-padre-relata-como-hallaron-el-cuerpo-de-nina-de-3-anos-desaparecida-en-nebaj/",
+      "fecha": "Fri, 02 Oct 2026 02:51:46 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Sulmy Fabiola Villatoro Villatoro, de 3 años, desapareció de su vivienda en Nebaj, Quiché, y fue hallada sin vida cerca de un riachuelo; su padre pide esclarecer las circunstancias de su muerte."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La nueva imagen cobra vida de forma integral dentro de su nueva tienda",
@@ -369,6 +417,14 @@
       "fecha": "Thu, 01 Oct 2026 16:48:21 +0000",
       "categoria": "Internacional",
       "resumen": "Agentes del ICE han recibido nuevas restricciones para llevar a cabo detenciones de vehículos durante sus operativos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La Corte Suprema de EE.UU. autoriza la ejecución de la condenada a muerte por asesinato Christa Pike, pero la mujer sobrevive a las inyecciones letales",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-corte-suprema-de-ee-uu-autoriza-la-ejecucion-de-la-condenada-a-muerte-por-asesinato-christa-pike-pero-la-mujer-sobrevive-a-las-inyecciones-letales/",
+      "fecha": "Thu, 01 Oct 2026 16:46:19 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La mujer fue llevada a la sala de ejecuciones, pero luego de la aplicación de dos dosis de inyección letal, la mujer seguía respirando y fue trasladada a un hospital, según sus abogados."
     },
     {
       "fuente": "Prensa Libre",
@@ -761,62 +817,6 @@
       "fecha": "Thu, 01 Oct 2026 09:51:47 +0000",
       "categoria": "EFE",
       "resumen": "París, 1 oct (EFE).- El presidente de Argentina, Javier Milei, prometió este jueves &#8220;no descansar&#8221; hasta que su país se convierta en la nación &#8220;con más libertad económica del mundo&#8221; y pidió la reelección a finales de año para seguir con el crecimiento económico del país y entrar &#8220;en el periodo más próspero&#8221; de su historia. &#8220;Somos uno de los países que más crecemos y no vamos a descansar hasta que Argentina sea el país con más libertad económica del mundo&#8221;, declaró Milei desde París, donde la OCDE celebra la &#8216;Argentina Week’, un foro económi"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Graham: Cada Barça-Real Madrid &#8220;es otra historia y hay que demostrar si eres mejor&#8221;",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/graham-cada-barca-real-madrid-es-otra-historia-y-hay-que-demostrar-si-eres-mejor/",
-      "fecha": "Thu, 01 Oct 2026 09:21:47 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Barcelona (España), 30 sep (EFE).- La delantera noruega del Barcelona Caroline Graham Hansen (Oslo, 1995) reconoce en una entrevista con EFE que los precedentes ante el Real Madrid, con 24 victorias de las azulgrana por una derrota, ayudan con vistas al encuentro de este domingo, aunque también obligan al equipo catalán a &#8220;demostrar otra vez si realmente eres mejor&#8221;.&#8220;(Los precedentes) te ayudan, creo, pero a la vez es como cada temporada cuando empiezas de nuevo, es otra historia, otro equipo. Sabes que tienes que demostrar otra vez si realmente eres mejor y por eso, para mí "
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Badosa remonta ante Kasatkina un partido con dieciséis roturas de saque y avanza en Pekín",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/badosa-remonta-ante-kasatkina-un-partido-con-dieciseis-roturas-de-saque-y-avanza-en-pekin/",
-      "fecha": "Thu, 01 Oct 2026 09:01:46 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Pekín, 1 oct (EFE).- La española Paula Badosa (n.59) derrotó este jueves a la australiana Daria Kasatkina (n.87) por 4-6, 7-6(7) y 6-4 y avanzó a la segunda ronda del Abierto de China tras remontar un 2-5 en el desempate de la segunda manga y un 1-4 en la tercera.El encuentro duró dos horas y 41 minutos sobre la pista dura Lotus del Centro Nacional de Tenis de Pekín, en una jornada soleada y de altas temperaturas.Badosa salió adelante en un partido de constantes vuelcos, con dieciséis roturas, ocho por jugadora, y dificultades para sostener el servicio que la obligaron a perseguir a su rival h"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Theresa May alcanza hoy la década de los 70",
-      "link": "https://www.prensalibre.com/internacional/efe/theresa-may-alcanza-hoy-la-decada-de-los-70/",
-      "fecha": "Thu, 01 Oct 2026 09:01:40 +0000",
-      "categoria": "EFE",
-      "resumen": "Madrid, 1 oct (EFE).- La política conservadora, segunda mujer en ser primera ministra británica tras Margaret Thatcher, llegó al poder después del referéndum de 2016, cuando los británicos votaron por salir de la UE."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "1-1 (3-5). Panamá cae ante Nueva Zelanda en los penaltis en un amistoso en Japón",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/1-1-3-5-panama-cae-ante-nueva-zelanda-en-los-penaltis-en-un-amistoso-en-japon/",
-      "fecha": "Thu, 01 Oct 2026 08:56:33 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Tokio, 1 oct (EFE).- Panamá cayó este jueves ante Nueva Zelanda en la tanda de penaltis por 3-5, en un reñido amistoso que comenzó cuesta arriba para la selección canalera pero en el que supo igualar (1-1), dando a los &#8216;All Whites’ el pase a la final de la Copa Kirin 2026. Nueva Zelanda arrancó con fuerza en la semifinal de este torneo cuadrangular, un amistoso disputado en Yokohama que marcó el primer enfrentamiento histórico entre ambas selecciones, gracias a un temprano gol de Marko Stamenic en el minuto 13. El centrocampista neozelandés aprovechó un envío filtrado por Elliot, seguido"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Identifican en Grecia la escuela donde Aristóteles educó a Alejandro Magno",
-      "link": "https://www.prensalibre.com/internacional/efe/identifican-en-grecia-la-escuela-donde-aristoteles-educo-a-alejandro-magno/",
-      "fecha": "Thu, 01 Oct 2026 08:51:32 +0000",
-      "categoria": "EFE",
-      "resumen": "Atenas, 1 oct (EFE).- La escuela donde el filósofo Aristóteles formó hace más de 2.300 años al joven Alejandro Magno, futuro conquistador de un imperio que se extendió desde Grecia hasta la India, ha sido identificada en un yacimiento arqueológico del norte de Grecia.&#8220;Estamos totalmente seguros de que se trata de la escuela que fundó Filipo II&#8221;, rey de Macedonia desde el 359 a. C. hasta su asesinato en el 336 a. C., año en el que le sucedió en el trono su hijo, Alejandro Magno, a la edad de veinte años, explica a EFE en Atenas Angelikí Kottaridi, arqueóloga que dirige las excavacio"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los clásicos entre Real Madrid y Barcelona tendrá un balón exclusivo",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/los-clasicos-entre-real-madrid-y-barcelona-tendra-un-balon-exclusivo/",
-      "fecha": "Thu, 01 Oct 2026 08:46:43 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Redacción deportes, 1 oct (EFE).- Los dos clásicos ligueros entre Real Madrid y Barcelona tendrán un balón oficial exclusivo de Puma con diseño propio, combinando &#8220;un rendimiento de vanguardia con una identidad visual única, creada a medida para reflejar la intensidad y el legado de esta competición de referencia&#8221;, según informó este jueves LaLiga. El nuevo diseño debutará en el terreno de juego del Spotify Camp Nou, en la décima jornada de LaLiga EA Sports, el 25 de octubre a las 21.00 horas.  El balón, según los diseñadores, combina &#8220;formas dinámicas y atrevidas en vivos co"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bisbal, &#8220;nada inspirado&#8221; por el pop actual, se refugia en los clásicos de los años 70 y 80",
-      "link": "https://www.prensalibre.com/internacional/efe/bisbal-nada-inspirado-por-el-pop-actual-se-refugia-en-los-clasicos-de-los-anos-70-y-80/",
-      "fecha": "Thu, 01 Oct 2026 08:21:31 +0000",
-      "categoria": "EFE",
-      "resumen": "Madrid, 1 oct (EFE).- Entre arreglos exuberantes y la colaboración de hasta 90 músicos para hacerlos realidad, este viernes reaparece David Bisbal con nuevo disco, &#8216;Eternos’, un &#8220;homenaje a la época dorada del pop romántico en castellano&#8221; y su segundo álbum de versiones seguido tras su famoso disco navideño.&#8220;El pop actual no ha cambiado en siete años&#8221;, se exculpa el artista español durante una charla con EFE, después de reconocerse &#8220;nada inspirado&#8221; en estos momentos para embarcarse en un trabajo más contemporáneo, pese a que siempre había alternado pro"
     },
     {
       "fuente": "Guatemala.com",
