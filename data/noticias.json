@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-10-02T22:14:42.809Z",
+  "actualizado": "2026-10-02T23:12:29.034Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“El silencio del Topo”: el documental que sigue la historia del periodista Elías Barahona y su infiltración en uno de los gobiernos de Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/el-silencio-del-topo-el-documental-que-sigue-la-historia-del-periodista-elias-barahona-y-su-infiltracion-en-uno-de-los-gobiernos-de-guatemala/",
+      "fecha": "Fri, 02 Oct 2026 22:52:37 +0000",
+      "categoria": "Escenario",
+      "resumen": "El documental, El silencio del Topo lleva al público a la Guatemala de los años 70 para contar la historia del periodista Elías Barahona. Esto se conoce de la proyección del documental."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque armado deja dos hombres muertos y genera complicaciones viales en la zona 13",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-deja-dos-hombres-muertos-y-genera-complicaciones-viales-en-la-zona-13-breaking/",
+      "fecha": "Fri, 02 Oct 2026 22:28:16 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Un ataque armado que dejó dos hombres muertos complica el tránsito en la colonia Santa Fe, zona 13."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Diaco verifica gasolineras tras entrar en vigor la exención de IVA e IDP en los combustibles",
+      "link": "https://www.prensalibre.com/economia/diaco-verifica-gasolineras-tras-entrar-en-vigor-la-exencion-de-iva-e-idp-en-los-combustibles/",
+      "fecha": "Fri, 02 Oct 2026 22:07:47 +0000",
+      "categoria": "Economía",
+      "resumen": "¿Ya compró combustible con la exención de IVA e IDP? Revise su factura y confirme que el beneficio fue aplicado. Consumidores han reportado inconvenientes en algunas gasolineras y la Diaco ya investiga. Conozca qué debe verificar y dónde denunciar si detecta irregularidades."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Skydance será el nombre de la nueva compañía surgida de la fusión de Paramount y Warner Bros.",
@@ -41,6 +65,14 @@
       "fecha": "Fri, 02 Oct 2026 21:33:30 +0000",
       "categoria": "Entretenimiento",
       "resumen": "Adria Arjona será galardonada junto a Salma Hayek y otras figuras destacadas de Hollywood durante la gala anual de la organización Women in Film. \nThe post Adria Arjona será reconocida junto a Salma Hayek y otras figuras destacadas en Estados Unidos appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "NWS advierte de una ola de calor en California durante el fin de semana y explica cómo estará el resto de EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/nws-advierte-de-una-ola-de-calor-en-california-durante-el-fin-de-semana-y-explica-como-estara-el-resto-de-ee-uu/",
+      "fecha": "Fri, 02 Oct 2026 21:29:52 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una gran ola de calor afectará el estado de California durante el fin de semana, mientras que en otros sectores habrán lluvias torrenciales debido a una onda tropical."
     },
     {
       "fuente": "Prensa Libre",
@@ -356,7 +388,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Investigación por caso Huité avanza sin que Defensa identifique a unidades o mandos investigados",
+      "titulo": "Investigación por caso Huité avanza sin que Defensa identifique a unidades o mandos presentes en el lugar",
       "link": "https://www.prensalibre.com/guatemala/justicia/investigacion-por-caso-huite-avanza-sin-que-defensa-identifique-a-unidades-o-mandos-investigados/",
       "fecha": "Fri, 02 Oct 2026 06:12:00 +0000",
       "categoria": "Guatemala",
@@ -465,6 +497,38 @@
       "fecha": "Fri, 02 Oct 2026 04:42:44 +0000",
       "categoria": "Comunitario",
       "resumen": "José Ángel Lee Duarte, ingeniero civil y exalcalde de la capital entre 1982 y 1985, falleció a los 89 años, informaron fuentes académicas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo la guerra ha provocado un aumento de los casos de violencia sexual y matrimonios forzados de niñas y mujeres en Gaza",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-la-guerra-ha-provocado-un-aumento-de-los-casos-de-violencia-sexual-y-matrimonios-forzados-de-ninas-y-mujeres-en-gaza-9/",
+      "fecha": "Fri, 02 Oct 2026 04:09:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La ONU denuncia que algunas familias han ofrecido a sus hijas en matrimonio a cambio de alimentos, mientras que los campos de refugiados se han convertido en entornos cada vez más peligrosos para mujeres de todas las edades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo la guerra ha provocado un aumento de los casos de violencia sexual y matrimonios forzados de niñas y mujeres en Gaza",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-la-guerra-ha-provocado-un-aumento-de-los-casos-de-violencia-sexual-y-matrimonios-forzados-de-ninas-y-mujeres-en-gaza-8/",
+      "fecha": "Fri, 02 Oct 2026 04:09:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La ONU denuncia que algunas familias han ofrecido a sus hijas en matrimonio a cambio de alimentos, mientras que los campos de refugiados se han convertido en entornos cada vez más peligrosos para mujeres de todas las edades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo la guerra ha provocado un aumento de los casos de violencia sexual y matrimonios forzados de niñas y mujeres en Gaza",
+      "link": "https://www.prensalibre.com/guatemala/como-la-guerra-ha-provocado-un-aumento-de-los-casos-de-violencia-sexual-y-matrimonios-forzados-de-ninas-y-mujeres-en-gaza-7/",
+      "fecha": "Fri, 02 Oct 2026 04:09:54 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La ONU denuncia que algunas familias han ofrecido a sus hijas en matrimonio a cambio de alimentos, mientras que los campos de refugiados se han convertido en entornos cada vez más peligrosos para mujeres de todas las edades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo la guerra ha provocado un aumento de los casos de violencia sexual y matrimonios forzados de niñas y mujeres en Gaza",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-la-guerra-ha-provocado-un-aumento-de-los-casos-de-violencia-sexual-y-matrimonios-forzados-de-ninas-y-mujeres-en-gaza-6/",
+      "fecha": "Fri, 02 Oct 2026 04:09:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La ONU denuncia que algunas familias han ofrecido a sus hijas en matrimonio a cambio de alimentos, mientras que los campos de refugiados se han convertido en entornos cada vez más peligrosos para mujeres de todas las edades."
     },
     {
       "fuente": "Prensa Libre",
@@ -677,6 +741,38 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-23/",
+      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-22/",
+      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-21/",
+      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-20/",
+      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-19/",
       "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
       "categoria": "BBC News Mundo",
@@ -710,102 +806,6 @@
       "fuente": "Prensa Libre",
       "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-15/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-14/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-13/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-12/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-11/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-10/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-9/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-8/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/guatemala/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-7/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-6/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-5/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-4/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-3/",
       "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
