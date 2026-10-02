@@ -1,7 +1,111 @@
 {
-  "actualizado": "2026-10-02T05:15:39.122Z",
+  "actualizado": "2026-10-02T06:20:17.710Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Investigación por caso Huité avanza sin que Defensa identifique a unidades o mandos investigados",
+      "link": "https://www.prensalibre.com/guatemala/justicia/investigacion-por-caso-huite-avanza-sin-que-defensa-identifique-a-unidades-o-mandos-investigados/",
+      "fecha": "Fri, 02 Oct 2026 06:12:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La Comisión Multidisciplinaria anunciada por el presidente Bernardo Arévalo inició las averiguaciones para esclarecer los hechos ocurridos el 27 de septiembre en Huité, Zacapa, y evaluar la actuación de los efectivos militares que tuvieron presencia en el lugar, informó el Ministerio de la Defensa (Mindef)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jonathan Menkos asume el Banguat entre impugnaciones y advertencias de incertidumbre",
+      "link": "https://www.prensalibre.com/economia/jonathan-menkos-asume-el-banguat-entre-impugnaciones-y-advertencias-de-incertidumbre/",
+      "fecha": "Fri, 02 Oct 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Jonathan Menkos inició su período al frente del Banco de Guatemala (Banguat) y de la Junta Monetaria bajo cuestionamientos jurídicos. El Cacif pidió suspender los efectos de su nombramiento, mientras analistas advierten que la controversia genera incertidumbre entre inversionistas y agentes económicos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El túnel del tiempo",
+      "link": "https://www.prensalibre.com/opinion/caricatura/el-tunel-del-tiempo/",
+      "fecha": "Fri, 02 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién cuida las armas y las municiones?",
+      "link": "https://www.prensalibre.com/opinion/editorial/quien-cuida-las-armas-y-las-municiones/",
+      "fecha": "Fri, 02 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Es evidente que se necesita una revisión integral del manejo estatal de armas y municiones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El conocimiento previo de aspirantes a cargos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-conocimiento-previo-de-aspirantes-a-cargos/",
+      "fecha": "Fri, 02 Oct 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "No se puede seguir permitiendo el voto electoral por personajes desconocidos y fantasmales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ruptura interna en Cabal obliga a buscar nuevos rostros",
+      "link": "https://www.prensalibre.com/guatemala/politica/cabal-se-separa-de-roberto-arzu-en-un-intento-por-proteger-su-imagen-de-cara-a-las-elecciones-del-2027/",
+      "fecha": "Fri, 02 Oct 2026 06:05:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Dos diputados figuran como posibles sustituidos de Arzú para competir por la silla presidencial, después de que la agrupación separó a su potencial candidato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Copiloto que intentó estrellar un avión de FlyDubai se había “radicalizado”, según Israel",
+      "link": "https://www.prensalibre.com/internacional/copiloto-que-intento-estrellar-un-avion-de-flydubai-se-habia-radicalizado-segun-israel/",
+      "fecha": "Fri, 02 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "El copiloto, de nacionalidad omaní, habría apuñalado al capitán y provocado que el avión descendiera en picada antes de que pasajeros lograran reducirlo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Este simple ejercicio de 20 segundos puede ayudarlo durante un momento de tensión",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/este-simple-ejercicio-de-20-segundos-puede-ayudarlo-durante-un-momento-de-tension/",
+      "fecha": "Fri, 02 Oct 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": ".img_fo{\n\t\t\t\t    aspect-ratio: 16/9;\n                    width: 100%;\n                    height: auto;\n                    margin-bottom: 8px;\n                    object-fit: contain;\n\t\t\t\t}\n\t\t\t\n    .canal-whatsapp,\n    .canal-whatsapp:hover,\n    .canal-whatsapp:focus,\n    .canal-whatsapp:visited {\n        text-decoration: none !important;\n    }\n\n    .canal-whatsapp {\n        display: inline-flex;\n        align-items: center;\n        gap: 8px;\n        background: #fff;\n        border-radius: 999px;\n        padding: 6px 14px 6px 6px !important;\n        text-decoration: none;\n    }\n    .canal-wh"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Violencia desatada; y ahora, ¿cuál es la excusa?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/violencia-desatada-y-ahora-cual-es-la-excusa/",
+      "fecha": "Fri, 02 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Cada día, miles de guatemaltecos salen de casa sin saber si volverán. El gobierno, totalmente desconectado de esta situación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "LA IA sin frenos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-ia-sin-frenos/",
+      "fecha": "Fri, 02 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Los científicos advierten que la inteligencia artificial podría extinguir a la humanidad antes del 2030."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué pasó realmente en Huité?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/que-paso-realmente-en-huite/",
+      "fecha": "Fri, 02 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El gobierno tardó casi tres días en admitir lo que los videos ya mostraban. Ahora pretende que el Ejército se investigue a sí mismo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salvar a las nuevas generaciones",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/salvar-a-las-nuevas-generaciones/",
+      "fecha": "Fri, 02 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La expansión de la narcoactividad necesita alianza local e internacional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy viernes 2 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-viernes-2-de-octubre-de-2026/",
+      "fecha": "Fri, 02 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Muere a los 89 años José Ángel Lee Duarte, exalcalde de la capital entre 1982 y 1985",
@@ -713,110 +817,6 @@
       "fecha": "Thu, 01 Oct 2026 11:16:52 +0000",
       "categoria": "Deporte Internacional",
       "resumen": "Lisboa, 1 oct (EFE).- La salida de Cristiano Ronaldo de la concentración de la selección portuguesa en Copenhague ha levantado muchas dudas entre sus compatriotas, que esperan a que tanto el astro como la federación den más explicaciones, aunque coinciden en que la retirada del jugador se aproxima mientras Jorge Jesus sea seleccionador.   Así lo expresaron varios transeúntes lisboetas cuestionados por EFE este jueves en el centro de la capital, que no se pusieron de acuerdo en si el futbolista puede seguir manteniendo el ritmo a sus 41 años y ante el estilo del nuevo técnico.  Entre ellos esta"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cristiano Ronaldo respondió con 28 goles a la confianza del entrenador Roberto Martínez",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/cristiano-ronaldo-respondio-con-28-goles-a-la-confianza-del-entrenador-roberto-martinez/",
-      "fecha": "Thu, 01 Oct 2026 11:16:42 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Lisboa, 1 oct (EFE).- Cristiano Ronaldo, cuya suplencia con el nuevo seleccionador portugués, Jorge Jesus, ha desembocado en uno de los episodios más convulsos de sus 23 años con Portugal, respondió con 28 goles en 37 partidos a la confianza que depositó en él Roberto Martínez durante sus tres años al frente del combinado luso.Los números de la etapa del técnico español ofrecen perspectiva al debate abierto ahora en Portugal sobre el papel que debe desempeñar Cristiano en la selección a los 41 años.Martínez se hizo cargo de Portugal en enero de 2023, apenas unas semanas después de que Fernando"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Grupo Magdalena asume operaciones del ingenio El Pilar en Retalhuleu",
-      "link": "https://www.prensalibre.com/economia/grupo-magdalena-asume-operaciones-del-ingenio-el-pilar-en-retalhuleu/",
-      "fecha": "Thu, 01 Oct 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Grupo Magdalena oficializó que, a partir de este 1 de octubre, asumirá las operaciones agrícolas del ingenio El Pilar, ubicado en Retalhuleu, en una de las adquisiciones más recientes del sector agroexportador."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Milei: No descansaremos hasta que Argentina sea país con más libertad económica del mundo",
-      "link": "https://www.prensalibre.com/internacional/efe/milei-no-descansaremos-hasta-que-argentina-sea-pais-con-mas-libertad-economica-del-mundo-4/",
-      "fecha": "Thu, 01 Oct 2026 10:56:49 +0000",
-      "categoria": "EFE",
-      "resumen": "París, 1 oct (EFE).- El presidente de Argentina, Javier Milei, prometió este jueves &#8220;no descansar&#8221; hasta que su país se convierta en la nación &#8220;con más libertad económica del mundo&#8221; y pidió la reelección a finales 2027 para seguir con el crecimiento económico del país y entrar &#8220;en el periodo más próspero&#8221; de su historia, al tiempo que ofreció energía &#8220;más confiable&#8221; a los europeos. &#8220;Somos uno de los países que más crecemos y no vamos a descansar hasta que Argentina sea el país con más libertad económica del mundo&#8221;, declaró Milei desde"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El secretario general iberoamericano avisa de &#8220;contraola autoritaria&#8221; y del reto de la IA",
-      "link": "https://www.prensalibre.com/internacional/efe/el-secretario-general-iberoamericano-avisa-de-contraola-autoritaria-y-del-reto-de-la-ia/",
-      "fecha": "Thu, 01 Oct 2026 10:46:42 +0000",
-      "categoria": "EFE",
-      "resumen": "Madrid, 1 oct (EFE).- El secretario general iberoamericano, Andrés Allamand, advirtió este jueves del desafío que supone la regulación de la inteligencia artificial para los parlamentos, en unos tiempos en que la democracia &#8220;retrocede&#8221; y una &#8220;contraola autoritaria amenaza&#8221; con borrar lo conquistado por la democratización que comenzó en 1974 con la Revolución de los Claveles de Portugal.&#8220;Sin congresos (parlamentos) fuertes no lograremos remontar la caída democrática, no recuperaremos aquellos hábitos propios de la convivencia civilizada, y no podremos regular en fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Barça, a estrenar su casillero como visitante",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/el-barca-a-estrenar-su-casillero-como-visitante/",
-      "fecha": "Thu, 01 Oct 2026 10:46:36 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Barcelona, 1 oct (EFE).- Ante el debutante Besiktas, el Barça de Aleksander Sekulic tiene una buena oportunidad este viernes (19.00 CET) para estrenar su casillero de victorias como visitante, en un escenario en el que ya el Valencia fue capaz de ganar en el estreno de la competición. El nuevo Barça, todavía en construcción, necesita estabilidad en su juego para no caer como lo hizo en Dubái en el primer partido de esta semana.  Lo hizo por sólo siete puntos ante el todopoderoso equipo de Xavi Pascual (94-87), pero después de naufragar en un segundo cuarto en el que perdió todas sus opciones y"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los pies con barro y sin vuelta atrás: Las migrantes siguen en Ceuta dos meses después",
-      "link": "https://www.prensalibre.com/internacional/efe/los-pies-con-barro-y-sin-vuelta-atras-las-migrantes-siguen-en-ceuta-dos-meses-despues/",
-      "fecha": "Thu, 01 Oct 2026 10:46:30 +0000",
-      "categoria": "EFE",
-      "resumen": "Ceuta (España), 1 oct (EFE).-Estuvo lloviendo casi toda la noche y su tienda de campaña está llena de agua. Se llama Sara, vino a Ceuta, ciudad fronteriza con Marruecos, con la esperanza de encontrar trabajo rápido para ayudar a su madre, enferma de cáncer, pero dos meses después sigue en la calle, en un limbo legal.Para Sara, como para muchas de las mujeres que entraron de forma masiva a esta ciudad española el pasado 30 y 31 de julio, regresar a Marruecos no es una opción.Con los pies llenos de barro, las manos frías y una herida mal curada en la muñeca, cuenta a EFE junto a su tienda, insta"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arranca la Comic-Con de Málaga (España), con miles de fans y con más espacios",
-      "link": "https://www.prensalibre.com/internacional/efe/arranca-la-comic-con-de-malaga-espana-con-miles-de-fans-y-con-mas-espacios/",
-      "fecha": "Thu, 01 Oct 2026 10:41:49 +0000",
-      "categoria": "EFE",
-      "resumen": "Málaga (España), 1 oct (EFE).- La segunda edición de la San Diego Comic-Con Málaga arrancó este jueves en esta ciudad del sur de España con varios miles de fans que recorren ya el recinto, aunque sin aglomeraciones, ya que este año se ampliaron los espacios de actividades.  El recinto tiene unos 25.000 metros cuadrados más y se han reorganizado los flujos de personas, para evitar las aglomeraciones de la edición del año pasado.  El evento tiene programadas unas trescientas horas de contenido desde hoy hasta el próximo domingo, con numerosos artistas invitados del mundo de las series, el cine, "
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Haaland demanda a la aerolínea Norwegian por uso ilícito de su imagen durante el Mundial",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/haaland-demanda-a-la-aerolinea-norwegian-por-uso-ilicito-de-su-imagen-durante-el-mundial/",
-      "fecha": "Thu, 01 Oct 2026 10:41:43 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Copenhague, 1 oct (EFE).- El futbolista noruego Erling Braut Haaland, del Manchester City, ha presentado una demanda contra la aerolínea Norwegian por uso ilícito de su imagen durante el pasado Mundial de fútbol, disputado en Estados Unidos, México y Canadá. &#8220;Podemos confirmar que hemos demandado a Norwegian Air Shuttle en nombre de York Promotions y Erling Braut Haaland. El caso afecta al aprovechamiento ilícito de los rasgos distintivos de Haaland para promover los billetes de avión durante el Mundial&#8221;, señaló al diario noruego VG el abogado Thomas Hagen. La aerolínea noruega con"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "España exige solidaridad y aclara que la crisis de Ceuta no afecta a otros países de la UE",
-      "link": "https://www.prensalibre.com/internacional/efe/espana-exige-solidaridad-y-aclara-que-la-crisis-de-ceuta-no-afecta-a-otros-paises-de-la-ue/",
-      "fecha": "Thu, 01 Oct 2026 10:41:37 +0000",
-      "categoria": "EFE",
-      "resumen": "Luxemburgo, 1 oct (EFE).- El ministro español de Interior, Fernando Grande-Marlaska, exigió este jueves &#8220;solidaridad&#8221; a la Unión Europea (UE) frente a las crisis migratorias y aclaró que lo ocurrido en Ceuta ha tenido un &#8220;impacto cero&#8221; en otros Estados miembros, ya que ninguno de los migrantes que llegaron a esa ciudad autónoma se ha desplazado a otro país. En un Consejo de ministros europeos, Grande-Marlaska informó a sus homólogos de la situación en Ceuta, tras la reunión telemática que mantuvieron a principios de agosto. Los ministros europeos mostraron gran interés "
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Anne Hathaway: &#8220;He trabajado muchos años como actriz para llegar a este punto maravilloso&#8221;",
-      "link": "https://www.prensalibre.com/internacional/efe/anne-hathaway-he-trabajado-muchos-anos-como-actriz-para-llegar-a-este-punto-maravilloso/",
-      "fecha": "Thu, 01 Oct 2026 10:11:43 +0000",
-      "categoria": "EFE",
-      "resumen": "Londres, 1 oct (EFE).- La actriz estadounidense Anne Hathaway (Nueva York, 1982) vive un momento personal y profesional &#8220;maravilloso&#8221; tras un año prolífico de estrenos consecutivos y, aunque asegura en una entrevista con EFE que por ahora no se plantea dar el salto a la dirección, tampoco descarta que sea algo que pueda explorar en un futuro.Después de embarcarse en &#8216;La Odisea’ de Nolan o retomar su papel como Andy Sachs en &#8216;El diablo viste de Prada 2’, entre otros, la intérprete concluye su racha de proyectos cinematográficos con el estreno este viernes del thriller ps"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La despedida de Nairo Quintana marca la 109 edición del Giro de Emilia",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/la-despedida-de-nairo-quintana-marca-la-109-edicion-del-giro-de-emilia/",
-      "fecha": "Thu, 01 Oct 2026 10:06:38 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Redacción deportes, 1 oct (EFE).- El colombiano Nairo Quintana (Movistar), ganador de una Vuelta a España (2016) y un Giro de Italia (2014), pondrá punto final a su trayectoria deportiva el sábado 3 de octubre en el Giro de Emilia, carrera que ya ganó hace catorce años, en 2012.   Quintana, de 36 años, dirá adiós en Italia apenas unos días después de disputar con la selección colombiana el Mundial de ruta de Montreal (Canadá), del que se retiró cuando faltaban 96 kilómetros para la meta.  El Giro de Emilia es una clásica italiana de un día que se disputa en Emilia-Romaña y que tiene más de un "
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El término &#8216;super inteligencia’ de Trump dispara la venta de dominios &#8216;si’ de Eslovenia",
-      "link": "https://www.prensalibre.com/internacional/efe/el-termino-super-inteligencia-de-trump-dispara-la-venta-de-dominios-si-de-eslovenia/",
-      "fecha": "Thu, 01 Oct 2026 10:06:32 +0000",
-      "categoria": "EFE",
-      "resumen": "Skopie, 1 oct (EFE).- La idea del presidente de EE.UU., Donald Trump, de referirse a la inteligencia artificial como &#8216;super inteligencia’ ha disparado las compras de dominios de internet de Eslovenia, un pequeño país de apenas 2 millones de habitantes, que se está beneficiando de que su código internacional sea, justamente, &#8216;si’. &#8220;Hemos visto un marcado aumento en el interés por dominios &#8216;si’ en los últimos días, aunque la tendencia ya había empezado antes. Lo que ha cambiado recientemente es la atención internacional a &#8216;si’ como un término alternativo a inteligen"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bassols remonta un 1-4, pero cede ante Rakhimova en Pekín",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/bassols-remonta-un-1-4-pero-cede-ante-rakhimova-en-pekin/",
-      "fecha": "Thu, 01 Oct 2026 10:01:32 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Pekín, 1 oct (EFE).- La española Marina Bassols (n.131) perdió este jueves ante la uzbeka Kamilla Rakhimova (n.76) por 6-4 y 7-6(2) en la primera ronda del Abierto de China, pese a recuperar dos roturas de desventaja en la segunda manga. El encuentro duró una hora y 53 minutos sobre la pista dura número 5 del Centro Nacional de Tenis de Pekín, en una jornada soleada y calurosa. Rakhimova arrancó con una rotura en blanco y se adelantó 2-0, pero Bassols respondió al resto en un cuarto juego de diez puntos y después tomó ventaja por 3-2. La española tuvo otras dos oportunidades de quiebre en el s"
     },
     {
       "fuente": "Guatemala.com",
