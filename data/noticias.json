@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-10-02T16:16:13.437Z",
+  "actualizado": "2026-10-02T17:15:57.815Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Molotov en Guatemala 2026: La banda mexicana regresa al país con un concierto en el Parque de la Industria",
+      "link": "https://www.prensalibre.com/vida/escenario/molotov-en-guatemala-2026-la-banda-mexicana-regresa-al-pais-con-un-concierto-en-el-parque-de-la-industria/",
+      "fecha": "Fri, 02 Oct 2026 17:11:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La banda mexicana Molotov vuelve a Guatemala y prepara un espectáculo en la capital, especial para sus admiradores locales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué el novio de Christa Pike evitó la pena de muerte? Esto fue lo que pasó con Tadaryl Shipp",
+      "link": "https://www.prensalibre.com/internacional/por-que-el-novio-de-christa-pike-evito-la-pena-de-muerte-esto-fue-lo-que-paso-con-tadaryl-shipp/",
+      "fecha": "Fri, 02 Oct 2026 17:03:48 +0000",
+      "categoria": "Internacional",
+      "resumen": "Christa Pike recibió la pena de muerte dado que ella y su novio de entonces, Tadaryl Shipp, golpearon y torturaron a Colleen Slemmer hasta matarla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "CC da 48 horas al Ejecutivo para informar sobre el nombramiento de Jonathan Menkos en el Banguat",
+      "link": "https://www.prensalibre.com/guatemala/politica/cc-da-48-horas-al-ejecutivo-para-informar-sobre-el-nombramiento-de-jonathan-menkos-en-el-banguat-breaking/",
+      "fecha": "Fri, 02 Oct 2026 16:33:36 +0000",
+      "categoria": "Política",
+      "resumen": "La CC da un plazo de 48 horas al presidente Bernardo Arévalo para que informe sobre la situación de Jonathan Menkos, quien asumió la presidencia del Banco de Guatemala."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Detienen a guatemalteco requerido por EE. UU. por secuestro y delitos sexuales",
@@ -17,6 +49,14 @@
       "fecha": "Fri, 02 Oct 2026 15:44:30 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Desde que estas selecciones se enfrentaron por última vez, ambas compitieron como anfitrionas en el Mundial 2026, en el que quedaron eliminadas en octavos de final."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga Nacional: así se jugará la jornada 12 del Apertura 2026 y qué partido fue reprogramado",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-asi-se-jugara-la-jornada-12-del-apertura-2026-y-que-partido-fue-reprogramado/",
+      "fecha": "Fri, 02 Oct 2026 15:35:49 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La jornada 12 del Torneo Apertura 2026 marcará este fin de semana el inicio de la segunda vuelta de la Liga Nacional de Guatemala, con cinco partidos programados entre el viernes y el domingo."
     },
     {
       "fuente": "Prensa Libre",
@@ -365,6 +405,14 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-2/",
+      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares/",
       "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
       "categoria": "BBC News Mundo",
@@ -597,6 +645,22 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Christa Pike se encuentra &#8220;en estado crítico&#8221; tras sobrevivir a dos dosis de inyección letal durante su ejecución en Tennessee",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/christa-pike-se-encuentra-en-estado-critico-tras-sobrevivir-a-dos-dosis-de-inyeccion-letal-durante-su-ejecucion-en-tennessee-6/",
+      "fecha": "Thu, 01 Oct 2026 20:31:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Según el equipo legal de Pike, pasó por una \"innecesaria agonía\" durante la ejecución. La mujer de 50 años llevaba tres décadas en el corredor de la muerte por un brutal asesinato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Christa Pike se encuentra &#8220;en estado crítico&#8221; tras sobrevivir a dos dosis de inyección letal durante su ejecución en Tennessee",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/christa-pike-se-encuentra-en-estado-critico-tras-sobrevivir-a-dos-dosis-de-inyeccion-letal-durante-su-ejecucion-en-tennessee-5/",
+      "fecha": "Thu, 01 Oct 2026 20:31:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Según el equipo legal de Pike, pasó por una \"innecesaria agonía\" durante la ejecución. La mujer de 50 años llevaba tres décadas en el corredor de la muerte por un brutal asesinato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Christa Pike se encuentra &#8220;en estado crítico&#8221; tras sobrevivir a dos dosis de inyección letal durante su ejecución en Tennessee",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/christa-pike-se-encuentra-en-estado-critico-tras-sobrevivir-a-dos-dosis-de-inyeccion-letal-durante-su-ejecucion-en-tennessee-4/",
       "fecha": "Thu, 01 Oct 2026 20:31:54 +0000",
       "categoria": "BBC News Mundo",
@@ -761,70 +825,6 @@
       "fecha": "Thu, 01 Oct 2026 16:46:19 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La mujer fue llevada a la sala de ejecuciones, pero luego de la aplicación de dos dosis de inyección letal, la mujer seguía respirando y fue trasladada a un hospital, según sus abogados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mineduc publica currículo de estudios, requisitos y jornadas de las cinco nuevas carreras de magisterio",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/mineduc-publica-curriculo-de-estudios-requisitos-y-jornadas-de-las-cinco-nuevas-carreras-de-magisterio/",
-      "fecha": "Thu, 01 Oct 2026 16:41:22 +0000",
-      "categoria": "Comunitario",
-      "resumen": "A partir del 2027, los estudiantes que ingresen al diversificado podrán estudiar cinco carreras de magisterio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Eurocopa 2032: estas son las 13 ciudades que Italia propone como posibles sedes",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/eurocopa-2032-estas-son-las-13-ciudades-que-italia-propone-como-posibles-sedes/",
-      "fecha": "Thu, 01 Oct 2026 16:26:56 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La Federación Italiana de Futbol presentó ante la Uefa las 14 candidaturas de estadios en 13 ciudades que aspiran a ser sede de la Eurocopa 2032."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Surinam vs. Guatemala: día, hora y dónde ver el partido de la Azul y Blanco por la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/surinam-vs-guatemala-dia-hora-y-donde-ver-el-partido-de-la-azul-y-blanco-por-la-liga-de-naciones/",
-      "fecha": "Thu, 01 Oct 2026 15:59:04 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Azul y Blanco afronta una prueba determinante en Paramaribo, donde buscará un triunfo que la acerque a los primeros puestos de su grupo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Christa Pike se une a la extensa lista de errores: Los 276 intentos fallidos de ejecución en EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/christa-pike-se-une-a-la-extensa-lista-de-errores-los-276-intentos-fallidos-de-ejecucion-en-ee-uu/",
-      "fecha": "Thu, 01 Oct 2026 15:54:48 +0000",
-      "categoria": "Internacional",
-      "resumen": "Christa Pike sobrevivió a las dosis administradas durante su ejecución, pero eso no es inusual en EE. UU, donde se han registrado numerosos errores al ejecutar a condenados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ligan a proceso a implicado en balacera de zona 6 que quedó grabada en video",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ligan-a-proceso-a-implicado-en-balacera-de-zona-6-que-quedo-grabada-en-video-breaking/",
-      "fecha": "Thu, 01 Oct 2026 15:44:31 +0000",
-      "categoria": "Justicia",
-      "resumen": "Sospechoso de participar en balacera en la zona 6 será investigado por tres delitos y queda en prisión preventiva."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Engañados con una oferta laboral: PNC reporta ocho vinculados al crimen de dos adolescentes",
-      "link": "https://www.prensalibre.com/guatemala/justicia/enganados-con-una-oferta-laboral-pnc-reporta-ocho-vinculados-al-crimen-de-dos-adolescentes-breaking/",
-      "fecha": "Thu, 01 Oct 2026 14:52:59 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC reporta nuevas capturas por la muerte de dos primos adolescentes engañados con una supuesta oferta laboral en redes sociales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Tiempos inéditos”: la OSN ofrecerá concierto con solo de clarinete y director invitado",
-      "link": "https://www.prensalibre.com/vida/escenario/tiempos-ineditos-la-osn-ofrecera-concierto-con-solo-de-clarinete-y-director-invitado/",
-      "fecha": "Thu, 01 Oct 2026 14:51:20 +0000",
-      "categoria": "Escenario",
-      "resumen": "La Orquesta Sinfónica Nacional presentará “Tiempos inéditos” en el Conservatorio Nacional de Música, con el clarinetista Sergio Reyes como solista invitado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Vadym Oleynik? El influencer acusado de maltrato animal por sentarse sobre una tortuga",
-      "link": "https://www.prensalibre.com/internacional/quien-es-vadym-oleynik-el-influencer-acusado-de-maltrato-animal-por-sentarse-sobre-una-tortuga/",
-      "fecha": "Thu, 01 Oct 2026 14:36:47 +0000",
-      "categoria": "Internacional",
-      "resumen": "El influencer se sentó sobre el caparazón del animal para posar ante la cámara y se reía mientras la cría se agitaba entre sus manos y el ejemplar adulto intentaba escapar."
     },
     {
       "fuente": "Guatemala.com",
