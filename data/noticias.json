@@ -1,7 +1,87 @@
 {
-  "actualizado": "2026-10-03T05:14:16.841Z",
+  "actualizado": "2026-10-03T06:23:12.333Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Baja ejecución de los Codedes contrasta con más recursos previstos para el 2027",
+      "link": "https://www.prensalibre.com/guatemala/politica/baja-ejecucion-de-los-codedes-contrasta-con-mas-recursos-previstos-para-el-2027/",
+      "fecha": "Sat, 03 Oct 2026 06:12:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los Consejos Departamentales de Desarrollo (Codedes) llegan al último trimestre del 2026 con una ejecución presupuestaria de 24.59%, equivalente a Q3 mil 763 millones, mientras que para el 2027 podrían disponer de hasta Q20 mil millones, al sumar las asignaciones ordinarias, extraordinarias y los recursos que queden pendientes de ejecutar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelo no tan libre",
+      "link": "https://www.prensalibre.com/opinion/caricatura/vuelo-no-tan-libre/",
+      "fecha": "Sat, 03 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un retraso del tamaño de un estadio",
+      "link": "https://www.prensalibre.com/opinion/editorial/un-retraso-del-tamano-de-un-estadio/",
+      "fecha": "Sat, 03 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Entre estudios “técnicos” y convocatorias de empresas internacionales interesadas, ya se ha consumido otro año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En la recta final del año, evaluemos las metas",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/en-la-recta-final-del-ano-evaluemos-las-metas/",
+      "fecha": "Sat, 03 Oct 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El avance logrado con un constante evaluar seguramente forma un progreso de beneficio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Donald Trump desafía a los demócratas y desvía US$52 millones de ayuda hacia América Latina",
+      "link": "https://www.prensalibre.com/internacional/donald-trump-desafia-a-los-democratas-y-desvia-us52-millones-de-ayuda-hacia-america-latina/",
+      "fecha": "Sat, 03 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "La administración Trump reasignará US$52 millones aprobados para países de Europa y Oriente Medio a Panamá, Perú, Ecuador y Colombia, pese a la oposición de legisladores demócratas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La justicia engrandece a una nación",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-justicia-engrandece-a-una-nacion/",
+      "fecha": "Sat, 03 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El juez que avanza por su trabajo no tiene amo. El que avanza por una llamada, sí."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ley de aguas: urgencia nacional y consensos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/ley-de-aguas-urgencia-nacional-y-consensos/",
+      "fecha": "Sat, 03 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Esta vez la discusión actual trasciende las bancadas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comiendo ansias ante el 2027",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/comiendo-ansias-ante-el-2027/",
+      "fecha": "Sat, 03 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "En 2027 perderán el poder labrado a partir del 27Jun1954, cuando el presidente Jacobo Árbenz renunció."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El acuerdo y la transición",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/el-acuerdo-y-la-transicion/",
+      "fecha": "Sat, 03 Oct 2026 06:01:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "El proceso de transición es relativamente largo, con obstáculos serios, pero es irreversible."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy sábado 3 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-3-de-octubre-de-2026/",
+      "fecha": "Sat, 03 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Thomas Piketty: &#8220;El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo&#8221;",
@@ -589,6 +669,30 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-19/",
+      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-18/",
+      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-17/",
+      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-16/",
       "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
       "categoria": "BBC News Mundo",
@@ -705,110 +809,6 @@
       "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones/",
-      "fecha": "Fri, 02 Oct 2026 12:04:31 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;No iba a permitir que los demás murieran&#8221;: el capitán del vuelo de Dubái a Israel relata el ataque de su copiloto en la cabina",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/no-iba-a-permitir-que-los-demas-murieran-el-capitan-del-vuelo-de-dubai-a-israel-relata-el-ataque-de-su-copiloto-en-la-cabina/",
-      "fecha": "Fri, 02 Oct 2026 11:44:04 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Tuvo una conversación con Narendra Modi, primer ministro Indio, sobre cómo abrió la cabina para recibir ayuda por parte de los pasajeros y la tripulación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "SAT explica cómo cambia el crédito fiscal por la exención del IVA e IDP a combustibles",
-      "link": "https://www.prensalibre.com/economia/sat-explica-como-cambia-el-credito-fiscal-por-la-exencion-del-iva-e-idp-a-combustibles/",
-      "fecha": "Fri, 02 Oct 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Con la vigencia de la exención temporal del IVA y el IDP a los combustibles, quedan suspendidas las compensaciones entre el crédito y el débito para los contribuyentes. La exención no genera derecho a crédito fiscal, según las autoridades tributarias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Investigación por caso Huité avanza sin que Defensa identifique a unidades o mandos presentes en el lugar",
-      "link": "https://www.prensalibre.com/guatemala/justicia/investigacion-por-caso-huite-avanza-sin-que-defensa-identifique-a-unidades-o-mandos-investigados/",
-      "fecha": "Fri, 02 Oct 2026 06:12:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Comisión Multidisciplinaria anunciada por el presidente Bernardo Arévalo inició las averiguaciones para esclarecer los hechos ocurridos el 27 de septiembre en Huité, Zacapa, y evaluar la actuación de los efectivos militares que tuvieron presencia en el lugar, informó el Ministerio de la Defensa (Mindef)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jonathan Menkos asume el Banguat entre impugnaciones y advertencias de incertidumbre",
-      "link": "https://www.prensalibre.com/economia/jonathan-menkos-asume-el-banguat-entre-impugnaciones-y-advertencias-de-incertidumbre/",
-      "fecha": "Fri, 02 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Jonathan Menkos inició su período al frente del Banco de Guatemala (Banguat) y de la Junta Monetaria bajo cuestionamientos jurídicos. El Cacif pidió suspender los efectos de su nombramiento, mientras analistas advierten que la controversia genera incertidumbre entre inversionistas y agentes económicos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El túnel del tiempo",
-      "link": "https://www.prensalibre.com/opinion/caricatura/el-tunel-del-tiempo/",
-      "fecha": "Fri, 02 Oct 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién cuida las armas y las municiones?",
-      "link": "https://www.prensalibre.com/opinion/editorial/quien-cuida-las-armas-y-las-municiones/",
-      "fecha": "Fri, 02 Oct 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Es evidente que se necesita una revisión integral del manejo estatal de armas y municiones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El conocimiento previo de aspirantes a cargos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-conocimiento-previo-de-aspirantes-a-cargos/",
-      "fecha": "Fri, 02 Oct 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "No se puede seguir permitiendo el voto electoral por personajes desconocidos y fantasmales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ruptura interna en Cabal obliga a buscar nuevos rostros",
-      "link": "https://www.prensalibre.com/guatemala/politica/cabal-se-separa-de-roberto-arzu-en-un-intento-por-proteger-su-imagen-de-cara-a-las-elecciones-del-2027/",
-      "fecha": "Fri, 02 Oct 2026 06:05:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Dos diputados figuran como posibles sustituidos de Arzú para competir por la silla presidencial, después de que la agrupación separó a su potencial candidato."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Copiloto que intentó estrellar un avión de FlyDubai se había “radicalizado”, según Israel",
-      "link": "https://www.prensalibre.com/internacional/copiloto-que-intento-estrellar-un-avion-de-flydubai-se-habia-radicalizado-segun-israel/",
-      "fecha": "Fri, 02 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "El copiloto, de nacionalidad omaní, habría apuñalado al capitán y provocado que el avión descendiera en picada antes de que pasajeros lograran reducirlo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Este simple ejercicio de 20 segundos puede ayudarlo durante un momento de tensión",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/este-simple-ejercicio-de-20-segundos-puede-ayudarlo-durante-un-momento-de-tension/",
-      "fecha": "Fri, 02 Oct 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": ".img_fo{\n\t\t\t\t    aspect-ratio: 16/9;\n                    width: 100%;\n                    height: auto;\n                    margin-bottom: 8px;\n                    object-fit: contain;\n\t\t\t\t}\n\t\t\t\n    .canal-whatsapp,\n    .canal-whatsapp:hover,\n    .canal-whatsapp:focus,\n    .canal-whatsapp:visited {\n        text-decoration: none !important;\n    }\n\n    .canal-whatsapp {\n        display: inline-flex;\n        align-items: center;\n        gap: 8px;\n        background: #fff;\n        border-radius: 999px;\n        padding: 6px 14px 6px 6px !important;\n        text-decoration: none;\n    }\n    .canal-wh"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Violencia desatada; y ahora, ¿cuál es la excusa?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/violencia-desatada-y-ahora-cual-es-la-excusa/",
-      "fecha": "Fri, 02 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Cada día, miles de guatemaltecos salen de casa sin saber si volverán. El gobierno, totalmente desconectado de esta situación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "LA IA sin frenos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-ia-sin-frenos/",
-      "fecha": "Fri, 02 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Los científicos advierten que la inteligencia artificial podría extinguir a la humanidad antes del 2030."
     },
     {
       "fuente": "Guatemala.com",
