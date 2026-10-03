@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-10-02T23:12:29.034Z",
+  "actualizado": "2026-10-03T00:21:11.857Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Colapsa en Hawái el emblemático arco marino Hōlei de 550 años de antigüedad",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/colapsa-en-hawai-el-emblematico-arco-marino-holei-de-550-anos-de-antiguedad/",
+      "fecha": "Sat, 03 Oct 2026 00:19:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La formación rocosa de lava que sobresalía de los acantilados del Parque Nacional de los Volcanes se derrumbó hace unos días, 550 años después de su formación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Concejos de Zunil y El Palmar acuerdan no publicar salarios y otras remuneraciones",
+      "link": "https://www.prensalibre.com/guatemala/politica/concejos-de-zunil-y-el-palmar-acuerdan-no-publicar-salarios-y-otras-remuneraciones/",
+      "fecha": "Sat, 03 Oct 2026 00:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Zunil y El Palmar dejaron de publicar salarios y otras remuneraciones municipales. Acción Ciudadana sostiene que los concejos no pueden omitir esa información mediante acuerdos y denunció el caso ante el MP."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cine guatemalteco: Cada producción debe encontrar su propia ruta",
+      "link": "https://www.prensalibre.com/vida/escenario/cine-guatemalteco-cada-produccion-debe-encontrar-su-propia-ruta/",
+      "fecha": "Sat, 03 Oct 2026 00:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Hacer cine guatemalteco también trata de su proceso de exhibición, lo que abarca distintas variables para la construcción de públicos dentro del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las guerreras K-pop 2: Netflix llevará la secuela primero a los cines; qué se sabe de su avance y fecha de estreno",
+      "link": "https://www.prensalibre.com/vida/escenario/las-guerreras-k-pop-2-netflix-llevara-la-secuela-primero-a-los-cines-que-se-sabe-de-su-avance-y-fecha-de-estreno/",
+      "fecha": "Fri, 02 Oct 2026 23:59:56 +0000",
+      "categoria": "Escenario",
+      "resumen": "Una de las películas más exitosas de Netflix continuará su historia con una secuela que llegaría a los cines antes que a la plataforma. Esto se sabe de su estreno y de otras películas que llegarán a las salas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos candidatos a la CGC son los favoritos en un Congreso sin acuerdos para la elección",
+      "link": "https://www.prensalibre.com/guatemala/politica/dos-candidatos-a-la-cgc-son-los-favoritos-en-un-congreso-sin-acuerdos-para-la-eleccion/",
+      "fecha": "Fri, 02 Oct 2026 23:59:51 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Las negociaciones políticas de este fin de semana serán clave para definir al jefe de la CGC, la entidad que tendrá un rol protagónico en las elecciones del 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;El Lunático&#8221;: Panchorizo presenta un espectáculo de circo, teatro y comedia",
+      "link": "https://www.prensalibre.com/vida/escenario/el-lunatico-panchorizo-presenta-un-espectaculo-de-circo-teatro-y-comedia/",
+      "fecha": "Fri, 02 Oct 2026 23:30:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El artista guatemalteco Francisco Toralla, conocido como Panchorizo, regresa al Teatro Nacional con una propuesta dirigida a pequeños y grandes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nombramiento de Jonathan Menkos en el Banguat suma tercer amparo que cuestiona su preparación técnica",
+      "link": "https://www.prensalibre.com/guatemala/justicia/nombramiento-de-jonathan-menkos-en-el-banguat-suma-tercer-amparo-que-cuestiona-su-preparacion-tecnica-breaking/",
+      "fecha": "Fri, 02 Oct 2026 23:16:39 +0000",
+      "categoria": "Justicia",
+      "resumen": "El nombramiento de Jonathan Menkos como presidente del Banguat suma un tercer amparo ante la CC. La nueva acción señala que no reúne la preparación técnica para dirigir el banco central."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "“El silencio del Topo”: el documental que sigue la historia del periodista Elías Barahona y su infiltración en uno de los gobiernos de Guatemala",
@@ -9,6 +65,22 @@
       "fecha": "Fri, 02 Oct 2026 22:52:37 +0000",
       "categoria": "Escenario",
       "resumen": "El documental, El silencio del Topo lleva al público a la Guatemala de los años 70 para contar la historia del periodista Elías Barahona. Esto se conoce de la proyección del documental."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más desempleo y menos trabajos creados en EE. UU.: estas fueron las cifras de septiembre",
+      "link": "https://www.prensalibre.com/internacional/mas-desempleo-y-menos-trabajos-creados-en-ee-uu-estas-fueron-las-cifras-de-septiembre/",
+      "fecha": "Fri, 02 Oct 2026 22:45:35 +0000",
+      "categoria": "Internacional",
+      "resumen": "El BLS ha detallado que en el mes de septiembre se incrementó la tasa de desempleo y se redujo la creación de puestos laborales en EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Reportera y camarógrafo son arrollados en plena transmisión: qué pasó en Monterrey",
+      "link": "https://www.prensalibre.com/internacional/reportera-y-camarografo-son-arrollados-en-plena-transmision-que-paso-en-monterrey/",
+      "fecha": "Fri, 02 Oct 2026 22:39:13 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una camioneta fuera de control arrolló a una reportera y un camarógrafo durante una cobertura en vivo en Monterrey, México."
     },
     {
       "fuente": "Prensa Libre",
@@ -92,11 +164,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "En vivo, Surinam vs. Guatemala: siga las incidencias del partido de la Bicolor desde Paramaribo",
+      "titulo": "Guatemala empata con Surinam y definirá su clasificación en el Manuel Felipe Carrera",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-surinam-vs-guatemala-siga-las-incidencias-del-partido-de-la-bicolor-desde-paramaribo/",
       "fecha": "Fri, 02 Oct 2026 21:00:00 +0000",
       "categoria": "Fútbol Nacional",
-      "resumen": "Sigue en vivo las principales incidencias del duelo entre Surinam y Guatemala, un partido clave en la lucha por el liderato del Grupo B de la Liga de Naciones de Concacaf."
+      "resumen": "La Selección de Guatemala empató 0-0 frente a Surinam en un exigente encuentro disputado en Paramaribo."
     },
     {
       "fuente": "Prensa Libre",
@@ -244,6 +316,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "&#8220;No iba a permitir que los demás murieran&#8221;: el capitán del vuelo de Dubái a Israel relata el ataque de su copiloto",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/no-iba-a-permitir-que-los-demas-murieran-el-capitan-del-vuelo-de-dubai-a-israel-relata-el-ataque-de-su-copiloto/",
+      "fecha": "Fri, 02 Oct 2026 15:21:23 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Tuvo una conversación con Narendra Modi, primer ministro Indio, sobre cómo abrió la cabina para recibir ayuda por parte de los pasajeros y la tripulación."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "“Serás siempre nuestro capitán”: pancartas apoyan a Cristiano Ronaldo y cuestionan a Jorge Jesús",
       "link": "https://www.prensalibre.com/deportes/futbol-internacional/seras-siempre-nuestro-capitan-pancartas-apoyan-a-cristiano-ronaldo-y-cuestionan-a-jorge-jesus/",
       "fecha": "Fri, 02 Oct 2026 15:13:40 +0000",
@@ -361,6 +441,14 @@
       "fecha": "Fri, 02 Oct 2026 13:00:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Guatemala domina los enfrentamientos ante Surinam, pero afrontará en Paramaribo un nuevo desafío sin Darwin Lom ni Óscar Santis, ambos fuera por suspensión y lesión, respectivamente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-2/",
+      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
     },
     {
       "fuente": "Prensa Libre",
@@ -497,6 +585,30 @@
       "fecha": "Fri, 02 Oct 2026 04:42:44 +0000",
       "categoria": "Comunitario",
       "resumen": "José Ángel Lee Duarte, ingeniero civil y exalcalde de la capital entre 1982 y 1985, falleció a los 89 años, informaron fuentes académicas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo la guerra ha provocado un aumento de los casos de violencia sexual y matrimonios forzados de niñas y mujeres en Gaza",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-la-guerra-ha-provocado-un-aumento-de-los-casos-de-violencia-sexual-y-matrimonios-forzados-de-ninas-y-mujeres-en-gaza-12/",
+      "fecha": "Fri, 02 Oct 2026 04:09:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La ONU denuncia que algunas familias han ofrecido a sus hijas en matrimonio a cambio de alimentos, mientras que los campos de refugiados se han convertido en entornos cada vez más peligrosos para mujeres de todas las edades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo la guerra ha provocado un aumento de los casos de violencia sexual y matrimonios forzados de niñas y mujeres en Gaza",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-la-guerra-ha-provocado-un-aumento-de-los-casos-de-violencia-sexual-y-matrimonios-forzados-de-ninas-y-mujeres-en-gaza-11/",
+      "fecha": "Fri, 02 Oct 2026 04:09:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La ONU denuncia que algunas familias han ofrecido a sus hijas en matrimonio a cambio de alimentos, mientras que los campos de refugiados se han convertido en entornos cada vez más peligrosos para mujeres de todas las edades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo la guerra ha provocado un aumento de los casos de violencia sexual y matrimonios forzados de niñas y mujeres en Gaza",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-la-guerra-ha-provocado-un-aumento-de-los-casos-de-violencia-sexual-y-matrimonios-forzados-de-ninas-y-mujeres-en-gaza-10/",
+      "fecha": "Fri, 02 Oct 2026 04:09:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La ONU denuncia que algunas familias han ofrecido a sus hijas en matrimonio a cambio de alimentos, mientras que los campos de refugiados se han convertido en entornos cada vez más peligrosos para mujeres de todas las edades."
     },
     {
       "fuente": "Prensa Libre",
@@ -697,118 +809,6 @@
       "fecha": "Fri, 02 Oct 2026 03:09:50 +0000",
       "categoria": "Comunitario",
       "resumen": "Retumbos bajo tierra, decenas de temblores y grietas en viviendas mantienen en alerta a unas 160 familias de Pinos Altos, Casillas, Santa Rosa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Así encontramos a mi hijita”: padre relata cómo hallaron el cuerpo de niña de 3 años desaparecida en Nebaj",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/asi-encontramos-a-mi-hijita-padre-relata-como-hallaron-el-cuerpo-de-nina-de-3-anos-desaparecida-en-nebaj/",
-      "fecha": "Fri, 02 Oct 2026 02:51:46 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Sulmy Fabiola Villatoro Villatoro, de 3 años, desapareció de su vivienda en Nebaj, Quiché, y fue hallada sin vida cerca de un riachuelo; su padre pide esclarecer las circunstancias de su muerte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La nueva imagen cobra vida de forma integral dentro de su nueva tienda",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-nueva-imagen-cobra-vida-de-forma-integral-dentro-de-su-nueva-tienda/",
-      "fecha": "Fri, 02 Oct 2026 02:39:11 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "En el marco de sus 55 años de trayectoria, Patsy marca un nuevo paso en su crecimiento. Abra una nueva tienda en Blvd. Los Próceres, 8ª Avenida 17-72, Zona 10, Ciudad de Guatemala e incorpora de forma integral la identidad que la marca presentó este año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Analizan la consolidación de la Superintendencia de Competencia",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/analizan-la-consolidacion-de-la-superintendencia-de-competencia/",
-      "fecha": "Fri, 02 Oct 2026 02:07:58 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "El Instituto para la Competitividad Económica (ICE), en alianza con Guatemala Visible, realizaron “Del papel a la práctica: Construyendo institucionalidad en la Superintendencia de Competencia”; el encuentro que tuvo como objetivo analizar los retos de consolidación de la Superintendencia de Competencia (SICOM) a partir de su plena entrada en vigor en diciembre de 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nuevo DPI para menores (DPIME): requisitos, costos y por qué no reemplaza al certificado de nacimiento",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/nuevo-dpi-para-menores-dpime-requisitos-costos-y-por-que-no-reemplaza-al-certificado-de-nacimiento/",
-      "fecha": "Fri, 02 Oct 2026 02:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "A partir de este 1 de octubre, los padres de familia pueden tramitar el primer DPI gratis para sus hijos en el Renap. Conozca los pasos para solicitarlo y las dos versiones que se emitirán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Autoridades inspeccionan la Laguna de Ayarza tras videos de burbujeo y descartan que el agua esté hirviendo",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/autoridades-inspeccionan-la-laguna-de-ayarza-tras-videos-de-burbujeo-y-descartan-que-el-agua-este-hirviendo-breaking/",
-      "fecha": "Fri, 02 Oct 2026 01:50:21 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Autoridades descartan que la Laguna de Ayarza esté hirviendo, tras una inspección motivada por videos que mostraban cambios en el agua."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-23/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-22/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-21/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-20/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-19/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-18/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-17/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-16/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Putin advierte que Rusia está dispuesta a usar todas sus armas para proteger Kaliningrado, incluidas las nucleares",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/putin-advierte-que-rusia-esta-dispuesta-a-usar-todas-sus-armas-para-proteger-kaliningrado-incluidas-las-nucleares-15/",
-      "fecha": "Fri, 02 Oct 2026 01:20:07 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder ruso insiste en que Moscú \"no está amenazando a nadie\" y que solo está respondiendo a las declaraciones de los líderes occidentales."
     },
     {
       "fuente": "Guatemala.com",
