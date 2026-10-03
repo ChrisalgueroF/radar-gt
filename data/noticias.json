@@ -1,7 +1,71 @@
 {
-  "actualizado": "2026-10-03T13:19:00.230Z",
+  "actualizado": "2026-10-03T18:30:35.999Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "San Francisco de Asís: a 800 años de su tránsito, su mensaje sigue vigente",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/san-francisco-de-asis-a-800-anos-de-su-transito-su-mensaje-sigue-vigente/",
+      "fecha": "Sat, 03 Oct 2026 18:00:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "La Iglesia Católica enfoca la conmemoración de la muerte de uno de sus santos más ejemplares en orientar su carisma hacia los desafíos actuales del mundo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El polémico like de Cristiano que reavivó el conflicto con la selección de Portugal",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-polemico-like-de-cristiano-que-reavivo-el-conflicto-con-la-seleccion-de-portugal-breaking/",
+      "fecha": "Sat, 03 Oct 2026 16:06:09 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Cristiano Ronaldo reaccionó en redes sociales a una publicación que criticaba el trato de sus compañeros y del técnico Jorge Jesús hacia él y volvió a encender la polémica con la selección de Portugal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asesinato de periodista desata disturbios en San Pedro Necta, Huehuetenango",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/asesinato-de-periodista-desata-disturbios-en-san-pedro-necta-huehuetenango/",
+      "fecha": "Sat, 03 Oct 2026 15:20:50 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El asesinato del periodista Evelio Lizandro López Sánchez provocó disturbios en San Pedro Necta, Huehuetenango. Pobladores incendiaron una subestación de la PNC, una vivienda y un picop, según videos difundidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Puede Guatemala clasificar? Así marcha la tabla del grupo B tras la tercera fecha de la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/puede-guatemala-clasificar-asi-marcha-la-tabla-del-grupo-b-de-la-liga-de-naciones-breaking/",
+      "fecha": "Sat, 03 Oct 2026 15:05:21 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Bicolor sumó un punto en Paramaribo  y llega a cuatro unidades con el partido ante Surinam en El Trébol como única salida para clasificar a los cuartos de final de la Liga de Naciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Remontada agónica: Marquense derrotó a Antigua con dos goles en el tiempo añadido",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/remontada-agonica-marquense-derroto-a-antigua-con-dos-goles-en-el-tiempo-anadido-breaking/",
+      "fecha": "Sat, 03 Oct 2026 14:42:12 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Marquense encontró la remontada en el último suspiro con goles de David Chuc al 93 y Carlos Santos al 98 para vencer 2-1 a Antigua en  la jornada 12 del torneo Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Choque de dos tráileres complica el tránsito en la ruta al Atlántico",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/choque-de-dos-traileres-complica-el-transito-en-la-ruta-al-atlantico/",
+      "fecha": "Sat, 03 Oct 2026 14:20:55 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La colisión ocurrió en el km 16.5, en el sector de Llano Largo, donde uno de los vehículos quedó varado con daños en el contenedor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/lo-que-la-fallida-ejecucion-de-christa-pike-revela-sobre-la-pena-de-muerte-en-ee-uu/",
+      "fecha": "Sat, 03 Oct 2026 13:22:49 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Christa Pike, una mujer condenada a muerte en Tennessee, sobrevivió a la aplicación de dos inyecciones letales. Su caso ha vuelto a centrar la atención en la pena de muerte y en cómo se aplica en Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La fiscalía de Emiratos Árabes Unidos afirma que el copiloto del vuelo de Dubái a Israel atacó al capitán con un hacha",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-fiscalia-de-emiratos-arabes-unidos-afirma-que-el-copiloto-del-vuelo-de-dubai-a-israel-ataco-al-capitan-con-un-hacha/",
+      "fecha": "Sat, 03 Oct 2026 13:20:24 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El hombre acusado de intentar secuestrar el vuelvo de Flydubai ha sido identificado por varios medios de comunicación como Hamam al-Hammami."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Su esposa fue arrastrada por un tsunami y él lleva años buceando para sentirse cerca de ella",
@@ -533,6 +597,126 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-18/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-17/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-16/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-15/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-14/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-13/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-12/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-11/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-10/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-9/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-8/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-7/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-6/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-5/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-4/",
+      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-3/",
       "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
       "categoria": "BBC News Mundo",
@@ -619,196 +803,12 @@
       "resumen": "El espacio cultural abre sus puertas a una exposición en la que  se incluyen una representación del estudio del artista,  bocetos , grabados y fotografías, y se destaca su relación con Miguel Ángel Asturias."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "El Congreso de los Diputados de España vota en contra de los dos decretos sobre vivienda propuestos por el gobierno de Pedro Sánchez",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-congreso-de-los-diputados-de-espana-vota-en-contra-de-los-dos-decretos-sobre-vivienda-propuestos-por-el-gobierno-de-pedro-sanchez-2/",
-      "fecha": "Fri, 02 Oct 2026 15:04:42 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La votación se dio en medio de protestas por la situación de la vivienda en España."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Congreso de los Diputados de España vota en contra de los dos decretos sobre vivienda propuestos por el gobierno de Pedro Sánchez",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-congreso-de-los-diputados-de-espana-vota-en-contra-de-los-dos-decretos-sobre-vivienda-propuestos-por-el-gobierno-de-pedro-sanchez/",
-      "fecha": "Fri, 02 Oct 2026 15:04:42 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La votación se dio en medio de protestas por la situación de la vivienda en España."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Tenemos miedo a perder la vida aquí&#8221;: los migrantes de América Latina que EE.UU. deporta a República Centroafricana",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/tenemos-miedo-a-perder-la-vida-aqui-los-migrantes-de-america-latina-que-ee-uu-deporta-a-republica-centroafricana-2/",
-      "fecha": "Fri, 02 Oct 2026 15:03:23 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Tenían protecciones ante la deportación ordenadas por un tribunal de inmigración y acabaron en otro continente, en un país del que no tenían referencias. Allí esperan un \"milagro\" para poder regresar a EE.UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Tenemos miedo a perder la vida aquí&#8221;: los migrantes de América Latina que EE.UU. deporta a República Centroafricana",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/tenemos-miedo-a-perder-la-vida-aqui-los-migrantes-de-america-latina-que-ee-uu-deporta-a-republica-centroafricana/",
-      "fecha": "Fri, 02 Oct 2026 15:03:23 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Tenían protecciones ante la deportación ordenadas por un tribunal de inmigración y acabaron en otro continente, en un país del que no tenían referencias. Allí esperan un \"milagro\" para poder regresar a EE.UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿DPIME o DPI? Renap explica qué pueden tramitar los jóvenes que están por cumplir 17 años o ya los cumplieron",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/dpime-o-dpi-renap-explica-que-pueden-tramitar-los-jovenes-que-estan-por-cumplir-17-anos-o-ya-los-cumplieron/",
-      "fecha": "Fri, 02 Oct 2026 15:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los adolescentes que están por cumplir 17 años tienen una alternativa ante la entrada en vigencia del DPIME: esperar y solicitar anticipadamente su DPI de adulto. Estos son los requisitos y costos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Temblores en Guatemala: el Insivumeh reporta dos sismos de magnitudes 4.2 y 3.4 en las últimas horas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-2-de-octubre-de-2026-en-guatemala-breaking/",
-      "fecha": "Fri, 02 Oct 2026 14:57:54 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Según el reporte del Insivumeh, dos temblores han sido sensibles en las últimas horas en Guatemala."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Así estará el clima en Guatemala el primer fin de semana de octubre 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-3-y-4-de-octubre-2026-insivumeh-pronostica-fin-de-semana-lluvioso.html",
       "fecha": "Fri, 02 Oct 2026 14:54:22 +0000",
       "categoria": "Comunidad",
       "resumen": "Insivumeh pronostica fin de semana lluvioso con ambiente cálido y posibles tormentas locales en Guatemala. Descubre cómo estará el clima en tu región.\nThe post Así estará el clima en Guatemala el primer fin de semana de octubre 2026  appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Surinam está mejor que hace un año”: la advertencia de Tena antes del partido de Guatemala",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/surinam-esta-mejor-que-hace-un-ano-la-advertencia-de-tena-antes-del-partido-de-guatemala/",
-      "fecha": "Fri, 02 Oct 2026 14:31:12 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Selección Nacional de Guatemala visita este viernes a Surinam con la oportunidad de igualarlo en puntos y mantenerse en la pelea por el liderato del Grupo B de la Liga de Naciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Messi vuelve a Argentina para su despedida: fecha, rival y escenario de su último partido",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/messi-vuelve-a-argentina-para-su-despedida-fecha-rival-y-escenario-de-su-ultimo-partido/",
-      "fecha": "Fri, 02 Oct 2026 14:15:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Lionel Messi ya está en Argentina para afrontar los últimos días previos a su partido de despedida con la Albiceleste."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala: posibles tormentas locales severas y temperaturas de hasta 37°C este fin de semana",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-tormentas-locales-severas-y-temperaturas-de-hasta-37c-este-fin-de-semana-breaking/",
-      "fecha": "Fri, 02 Oct 2026 13:50:34 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El pronóstico del Insivumeh detalla las probabilidades de lluvia y las temperaturas máximas previstas en Guatemala para el 3 y 4 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga de Naciones: ¿Qué necesita la Selección de Guatemala para clasificar a los cuartos de final?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-de-naciones-que-necesita-la-seleccion-de-guatemala-para-clasificar-a-los-cuartos-de-final/",
-      "fecha": "Fri, 02 Oct 2026 13:44:41 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Casi un año después de aquel amargo empate en Surinam, Guatemala llega a Paramaribo con el objetivo de avanzar a los cuartos de final de la Liga de Naciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tránsito complicado en Villa Nueva, Mixco y la capital por accidentes de motoristas",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/transito-complicado-en-villa-nueva-mixco-y-la-capital-por-accidentes-de-motoristas-breaking/",
-      "fecha": "Fri, 02 Oct 2026 13:06:30 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Dos motoristas mueren en accidentes este viernes 2 de octubre en la calzada Raúl Aguilar Batres y Mixco."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Surinam vs. Guatemala: Este es el historial de enfrentamientos y las probables alineaciones en la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/surinam-vs-guatemala-este-es-el-historial-de-enfrentamientos-y-las-probables-alineaciones-en-la-liga-de-naciones-breaking/",
-      "fecha": "Fri, 02 Oct 2026 13:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Guatemala domina los enfrentamientos ante Surinam, pero afrontará en Paramaribo un nuevo desafío sin Darwin Lom ni Óscar Santis, ambos fuera por suspensión y lesión, respectivamente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-39/",
-      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-38/",
-      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-37/",
-      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-36/",
-      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-35/",
-      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-34/",
-      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-33/",
-      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-32/",
-      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-31/",
-      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
-      "link": "https://www.prensalibre.com/guatemala/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-30/",
-      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-29/",
-      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
     },
     {
       "fuente": "Guatemala.com",
