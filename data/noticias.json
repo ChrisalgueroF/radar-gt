@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-10-03T04:17:03.514Z",
+  "actualizado": "2026-10-03T05:14:16.841Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Thomas Piketty: &#8220;El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo&#8221;",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/thomas-piketty-el-nerviosismo-que-vemos-hoy-en-washington-tiene-que-ver-con-el-hecho-de-que-ee-uu-esta-perdiendo-el-control-sobre-el-mundo/",
+      "fecha": "Sat, 03 Oct 2026 04:40:27 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El economista francés confía en que el mundo avanzará hacia un orden multipolar, con mayor peso de las fuerzas democráticas e impulsado, en buena medida, por la presión del sur global."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Buscan repatriar a migrante guatemalteco que murió tras intento de detención de ICE en Michigan",
@@ -581,6 +589,14 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-16/",
+      "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El caso de Christa Pike en EE.UU. reabre el debate sobre la pena de muerte no solo en ese país, sino en el mundo. En la región, Venezuela fue el primer país en prohibirla. ¿Y los demás? Te contamos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los países de América Latina que mantienen la pena de muerte en sus legislaciones",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-paises-de-america-latina-que-mantienen-la-pena-de-muerte-en-sus-legislaciones-15/",
       "fecha": "Fri, 02 Oct 2026 12:21:17 +0000",
       "categoria": "BBC News Mundo",
@@ -793,22 +809,6 @@
       "fecha": "Fri, 02 Oct 2026 06:03:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Los científicos advierten que la inteligencia artificial podría extinguir a la humanidad antes del 2030."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué pasó realmente en Huité?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/que-paso-realmente-en-huite/",
-      "fecha": "Fri, 02 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El gobierno tardó casi tres días en admitir lo que los videos ya mostraban. Ahora pretende que el Ejército se investigue a sí mismo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Salvar a las nuevas generaciones",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/salvar-a-las-nuevas-generaciones/",
-      "fecha": "Fri, 02 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La expansión de la narcoactividad necesita alianza local e internacional."
     },
     {
       "fuente": "Guatemala.com",
