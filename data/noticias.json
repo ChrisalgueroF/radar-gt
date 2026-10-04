@@ -1,7 +1,79 @@
 {
-  "actualizado": "2026-10-04T05:10:16.688Z",
+  "actualizado": "2026-10-04T11:24:55.015Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ley contra el cáncer en Guatemala: qué ha avanzado y qué sigue pendiente a dos años de su vigencia",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/ley-contra-el-cancer-en-guatemala-que-ha-avanzado-y-que-sigue-pendiente-a-dos-anos-de-su-vigencia/",
+      "fecha": "Sun, 04 Oct 2026 11:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Ministerio de Salud prevé iniciar este año un hospital especializado de US$35 millones, cuya construcción tomaría alrededor de tres años."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Así se vive la primera edición del Festival de las Flores en Isla de Flores 2026",
+      "link": "https://www.guatemala.com/noticias/cultura/asi-fue-festival-de-las-flores-en-isla-de-flores-2026.html",
+      "fecha": "Sun, 04 Oct 2026 07:13:44 +0000",
+      "categoria": "Cultura",
+      "resumen": "Lanchas, bicicletas y fachadas decoradas han llenado de mucho más color la Isla de Flores en Petén, como parte de su primer Festival de las Flores. \nThe post Así se vive la primera edición del Festival de las Flores en Isla de Flores 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inyecciones inútiles",
+      "link": "https://www.prensalibre.com/opinion/caricatura/inyecciones-inutiles/",
+      "fecha": "Sun, 04 Oct 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lucha por vivir",
+      "link": "https://www.prensalibre.com/opinion/editorial/lucha-por-vivir/",
+      "fecha": "Sun, 04 Oct 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Cada paciente sufre, pero también su familia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo: ausente e irrelevante",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/arevalo-ausente-e-irrelevante/",
+      "fecha": "Sun, 04 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Guatemala se está perfilando como un país en la región nuevamente vulnerable."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La elección que muchos no están viendo",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-eleccion-que-muchos-no-estan-viendo/",
+      "fecha": "Sun, 04 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La discusión no debería reducirse a cuál de los seis nombres consigue los votos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Y si la frontera no está cerrada?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/y-si-la-frontera-no-esta-cerrada/",
+      "fecha": "Sun, 04 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La migración ha sido el resultado histórico de una ecuación que se puede presentar matemáticamente: Causas de expulsión + causas de atracción = presión migratoria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "92 años de amistad",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/92-anos-de-amistad/",
+      "fecha": "Sun, 04 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Se celebran 92 años de relaciones diplomáticas con Taiwán y por qué estas son tan importantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy domingo 4 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-domingo-4-de-octubre-de-2026/",
+      "fecha": "Sun, 04 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Sean “Diddy” Combs vuelve a aislamiento tras denuncias por uso de celular y privilegios",
@@ -739,70 +811,6 @@
       "resumen": "Una nueva exposición dedicada a la historia evolutiva de los tiburones y a su importancia para los ecosistemas marinos ofrece una experiencia educativa e interactiva en el Museo Miraflores."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan a oficial de fiscalía que habría sustraído más de Q50 mil que eran parte de evidencia de una investigación",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-oficial-de-fiscalia-que-habria-sustraido-mas-de-q50-mil-que-eran-parte-de-evidencia-de-una-investigacion-breaking/",
-      "fecha": "Fri, 02 Oct 2026 19:25:58 +0000",
-      "categoria": "Justicia",
-      "resumen": "Encargada del almacén de evidencias de una fiscalía del Ministerio Público es capturada en Escuintla por dos delitos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;He presenciado casi 500 ejecuciones, pero ninguna como la de Christa Pike&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/he-presenciado-casi-500-ejecuciones-pero-ninguna-como-la-de-christa-pike/",
-      "fecha": "Fri, 02 Oct 2026 18:39:24 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El periodista de Texas, Michael Graczyk ha sido testigo de varias ejecuciones fallidas a lo largo de su carrera, pero ninguna en la que un condenado haya sobrevivido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué reacción causa el pentobarbital? El fármaco que le inyectaron a Christa Pike en Tennessee",
-      "link": "https://www.prensalibre.com/internacional/que-reaccion-causa-el-pentobarbital-el-farmaco-que-le-inyectaron-a-christa-pike-en-tennessee/",
-      "fecha": "Fri, 02 Oct 2026 18:31:49 +0000",
-      "categoria": "Internacional",
-      "resumen": "Aunque se le administraron dos dosis completas del potente fármaco, el pentobarbital no logró detener el ritmo cardíaco de Christa Pike en Tennessee."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Exdiputados condenados por tráfico de influencias buscan revertir sentencia en caso Asalto al Ministerio de Salud",
-      "link": "https://www.prensalibre.com/guatemala/justicia/exdiputados-condenados-por-trafico-de-influencias-buscan-revertir-sentencia-en-caso-asalto-al-ministerio-de-salud/",
-      "fecha": "Fri, 02 Oct 2026 18:30:51 +0000",
-      "categoria": "Justicia",
-      "resumen": "Defensa de exdiputados sentenciados en el caso Asalto al Ministerio de Salud busca anular la condena."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
-      "link": "https://www.prensalibre.com/guatemala/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-22/",
-      "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-21/",
-      "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-20/",
-      "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-19/",
-      "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Así estará el clima en Guatemala el primer fin de semana de octubre 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-3-y-4-de-octubre-2026-insivumeh-pronostica-fin-de-semana-lluvioso.html",
@@ -865,14 +873,6 @@
       "fecha": "Tue, 29 Sep 2026 15:06:04 +0000",
       "categoria": "Sociedad",
       "resumen": "Incaparina anunció el lanzamiento de Incaparina Galleta, una nueva opción para loncheras nutritivas en los hogares guatemaltecos. \nThe post Nueva «Incaparina Galleta” para loncheras nutritivas appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Ricardo Arjona y Grupo Firme anuncian Amor Factura, su nueva canción juntos",
-      "link": "https://www.guatemala.com/noticias/musica/ricardo-arjona-y-grupo-firme-amor-factura.html",
-      "fecha": "Mon, 28 Sep 2026 22:28:50 +0000",
-      "categoria": "Música",
-      "resumen": "Ricardo Arjona y Grupo Firme estrenarán Amor Factura el 1 de octubre, una colaboración que nació después de un inesperado acercamiento.\nThe post Ricardo Arjona y Grupo Firme anuncian Amor Factura, su nueva canción juntos appeared first on Guatemala.com."
     }
   ]
 }
