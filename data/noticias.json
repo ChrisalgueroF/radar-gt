@@ -1,7 +1,79 @@
 {
-  "actualizado": "2026-10-04T16:42:03.110Z",
+  "actualizado": "2026-10-04T19:59:55.325Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué Canadá contempla una (improbable) invasión de EE.UU. (y qué papel juega el caso de Venezuela)",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-canada-contempla-una-improbable-invasion-de-ee-uu-y-que-papel-juega-el-caso-de-venezuela/",
+      "fecha": "Sun, 04 Oct 2026 19:34:35 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El primer ministro Mark Carney indicó que las fuerzas armadas están elaborando escenarios para hacer frente a un eventual conflicto bélico con su vecino del sur, aunque reconoció que el riesgo es bajo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Crecida del río Pinula continúa amenazando viviendas y pone en riesgo puente en Villa Hermosa I",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/crecida-del-rio-pinula-continua-amenazando-viviendas-y-pone-en-riesgo-puente-en-villa-hermosa-i/",
+      "fecha": "Sun, 04 Oct 2026 19:28:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El aumento del cauce del río Pinula mantiene en riesgo viviendas de Villa Hermosa I, San Miguel Petapa, y amenaza el puente que comunica el sector con Los Álamos, mientras autoridades municipales trabajan para contener la erosión y prevenir más daños."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ganadores de los Premios Ariel 2026: “En el camino” lidera la lista con seis reconocimientos",
+      "link": "https://www.prensalibre.com/vida/escenario/ganadores-de-los-premios-ariel-2026-en-el-camino-lidera-la-lista-con-seis-reconocimientos/",
+      "fecha": "Sun, 04 Oct 2026 18:21:54 +0000",
+      "categoria": "Escenario",
+      "resumen": "El cine mexicano fue reconocido en la edición 68 de los Premios Ariel, en la que “En el camino” obtuvo seis galardones y fue seleccionada para representar a México en los Óscar 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más lluvia eleva el embalse de Chixoy, pero no basta para aumentar su generación",
+      "link": "https://www.prensalibre.com/economia/mas-lluvia-eleva-el-embalse-de-chixoy-pero-no-basta-para-aumentar-su-generacion/",
+      "fecha": "Sun, 04 Oct 2026 18:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Aunque las lluvias recientes mejoraron las condiciones del embalse de Chixoy, las autoridades mantienen una operación limitada para preservar agua para continuar aportando al sistema eléctrico en la actualidad y durante la época seca."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC y Ejército realizan operativo de seguridad en la zona 3 capitalina",
+      "link": "https://www.prensalibre.com/guatemala/pnc-y-ejercito-realizan-operativo-de-seguridad-en-la-zona-3-capitalina/",
+      "fecha": "Sun, 04 Oct 2026 17:51:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Agentes de la Policía Nacional Civil (PNC) y elementos del Ejército de Guatemala realizan este domingo 4 de octubre un operativo de seguridad en la zona 3 capitalina, donde efectúan registros e identifican a personas y vehículos para prevenir hechos delictivos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Fuerza de la Superinteligencia&#8221;: El comité dentro de la Casa Blanca que liderará el desarrollo de la IA en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/fuerza-de-la-superinteligencia-el-comite-dentro-de-la-casa-blanca-que-liderara-el-desarrollo-de-la-ia-en-ee-uu/",
+      "fecha": "Sun, 04 Oct 2026 17:42:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente de EE. UU., Donald Trump, anunció este 4 de octubre la creación de la \"Fuerza de la Superinteligencia\", un comité de coordinación dentro de la Casa Blanca y el Gobierno federal que liderará el desarrollo de la inteligencia artificial (IA) en el país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El largo camino para tratar el cáncer en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/el-largo-camino-para-tratar-el-cancer-en-guatemala/",
+      "fecha": "Sun, 04 Oct 2026 17:18:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Muchos pacientes con cáncer en Guatemala deben sumar viajes, gastos y trámites al tratamiento, mientras servicios especializados, como la radioterapia, siguen concentrados en la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sistema de baja presión mantendrá lluvias este domingo y eleva riesgo de inundaciones y deslizamientos",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/sistema-de-baja-presion-mantendra-lluvias-este-domingo-y-eleva-riesgo-de-inundaciones-y-deslizamientos/",
+      "fecha": "Sun, 04 Oct 2026 17:16:27 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Lluvias continuarán en Guatemala. Un sistema de baja presión favorece el ingreso de humedad y aumenta el riesgo de crecidas de ríos, inundaciones y deslizamientos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: doblete de Ana Lucía Martínez le dio la victoria a Cruz Azul ante Necaxa",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/video-doblete-de-ana-lucia-martinez-le-dio-la-victoria-a-cruz-azul-ante-necaxa-breaking/",
+      "fecha": "Sun, 04 Oct 2026 16:48:25 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La delantera guatemalteca abrió el marcador de penal y selló el triunfo en un contragolpe para darle a Cruz Azul la victoria 2-0 sobre Necaxa en la jornada 10 del Apertura 2026 de la Liga BBVA Femenil."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Una vez que la ves, no puedes dejar de pensar en ella&#8221;: Ana Mendieta, la artista que desafió límites con su cuerpo y cuya misteriosa muerte sigue dividiendo al mundo del arte",
@@ -729,78 +801,6 @@
       "fecha": "Fri, 02 Oct 2026 22:52:43 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La votación se dio en medio de protestas por la situación de la vivienda en en país europeo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“El silencio del Topo”: el documental que sigue la historia del periodista Elías Barahona y su infiltración en uno de los gobiernos de Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/el-silencio-del-topo-el-documental-que-sigue-la-historia-del-periodista-elias-barahona-y-su-infiltracion-en-uno-de-los-gobiernos-de-guatemala/",
-      "fecha": "Fri, 02 Oct 2026 22:52:37 +0000",
-      "categoria": "Escenario",
-      "resumen": "El documental, El silencio del Topo lleva al público a la Guatemala de los años 70 para contar la historia del periodista Elías Barahona. Esto se conoce de la proyección del documental."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Más desempleo y menos trabajos creados en EE. UU.: estas fueron las cifras de septiembre",
-      "link": "https://www.prensalibre.com/internacional/mas-desempleo-y-menos-trabajos-creados-en-ee-uu-estas-fueron-las-cifras-de-septiembre/",
-      "fecha": "Fri, 02 Oct 2026 22:45:35 +0000",
-      "categoria": "Internacional",
-      "resumen": "El BLS ha detallado que en el mes de septiembre se incrementó la tasa de desempleo y se redujo la creación de puestos laborales en EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Reportera y camarógrafo son arrollados en plena transmisión: qué pasó en Monterrey",
-      "link": "https://www.prensalibre.com/internacional/reportera-y-camarografo-son-arrollados-en-plena-transmision-que-paso-en-monterrey/",
-      "fecha": "Fri, 02 Oct 2026 22:39:13 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una camioneta fuera de control arrolló a una reportera y un camarógrafo durante una cobertura en vivo en Monterrey, México."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ataque armado deja dos hombres muertos y genera complicaciones viales en la zona 13",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-deja-dos-hombres-muertos-y-genera-complicaciones-viales-en-la-zona-13-breaking/",
-      "fecha": "Fri, 02 Oct 2026 22:28:16 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un ataque armado que dejó dos hombres muertos complica el tránsito en la colonia Santa Fe, zona 13."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Diaco verifica gasolineras tras entrar en vigor la exención de IVA e IDP en los combustibles",
-      "link": "https://www.prensalibre.com/economia/diaco-verifica-gasolineras-tras-entrar-en-vigor-la-exencion-de-iva-e-idp-en-los-combustibles/",
-      "fecha": "Fri, 02 Oct 2026 22:07:47 +0000",
-      "categoria": "Economía",
-      "resumen": "¿Ya compró combustible con la exención de IVA e IDP? Revise su factura y confirme que el beneficio fue aplicado. Consumidores han reportado inconvenientes en algunas gasolineras y la Diaco ya investiga. Conozca qué debe verificar y dónde denunciar si detecta irregularidades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Skydance será el nombre de la nueva compañía surgida de la fusión de Paramount y Warner Bros.",
-      "link": "https://www.prensalibre.com/vida/escenario/skydance-sera-el-nombre-de-la-nueva-compania-surgida-de-la-fusion-de-paramount-y-warner-bros/",
-      "fecha": "Fri, 02 Oct 2026 21:51:15 +0000",
-      "categoria": "Escenario",
-      "resumen": "A poco de llegar a un acuerdo por la demanda antimonopolio que enfrentaba la fusión de Paramount y Warner Bros., se anunció el nombre de la entidad resultante y cuál será su objetivo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Christa Pike está inconsciente y conectada a un respirador tras su fallida ejecución, según sus abogados",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/christa-pike-esta-inconsciente-y-conectada-a-un-respirador-tras-su-fallida-ejecucion-segun-sus-abogados/",
-      "fecha": "Fri, 02 Oct 2026 21:49:02 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La mujer cuya ejecución por inyección letal falló sigue en estado crítico y está siendo tratada en un hospital de Nashville."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Taiwán amplía su cooperación con Guatemala con proyectos para el aeropuerto La Aurora, salud y carreteras",
-      "link": "https://www.prensalibre.com/guatemala/politica/taiwan-amplia-su-cooperacion-con-guatemala-con-proyectos-para-el-aeropuerto-la-aurora-salud-y-carreteras-breaking/",
-      "fecha": "Fri, 02 Oct 2026 21:45:41 +0000",
-      "categoria": "Política",
-      "resumen": "Taiwán amplía su cooperación con Guatemala mediante proyectos de conectividad, salud e infraestructura vial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "F-16V: cómo son los aviones de combate que EE. UU. envió a Taiwán ante la presión militar de China",
-      "link": "https://www.prensalibre.com/internacional/f-16v-como-son-los-aviones-de-combate-que-ee-uu-envio-a-taiwan-ante-la-presion-militar-de-china/",
-      "fecha": "Fri, 02 Oct 2026 21:37:51 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las primeras dos aeronaves F-16V aterrizaron en la base de Chihhang, exactamente una semana después de que Trump se reunió con el presidente de China, Xi Jinping."
     },
     {
       "fuente": "Guatemala.com",
