@@ -1,7 +1,151 @@
 {
-  "actualizado": "2026-10-03T18:30:35.999Z",
+  "actualizado": "2026-10-04T02:30:49.333Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Xelajú MC vs. San Pedro: siga el minuto a minuto de la jornada 12 del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-xelaju-mc-vs-san-pedro-siga-el-minuto-a-minuto-de-la-jornada-12-del-apertura-2026-breaking/",
+      "fecha": "Sun, 04 Oct 2026 01:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Xelajú busca recuperarse tras su derrota ante Comunicaciones y recibe a un San Pedro que llega en la parte alta de la tabla y con hambre de sumar de visita."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Temporada fría en Guatemala: cuándo comienza, los departamentos afectados y las fechas clave",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/temporada-fria-en-guatemala-cuando-comienza-los-departamentos-afectados-y-las-fechas-clave/",
+      "fecha": "Sun, 04 Oct 2026 01:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Guatemala comienza a dejar atrás gradualmente la época lluviosa y se encamina hacia los meses más fríos. Algunas regiones sentirán con mayor intensidad el descenso de las temperaturas durante octubre, según el Insivumeh."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Nuevo hundimiento alarma a vecinos de la colonia Pablo VI en Mixco",
+      "link": "https://www.prensalibre.com/guatemala/video-nuevo-hundimiento-alarma-a-vecinos-de-la-colonia-pablo-vi-en-mixco/",
+      "fecha": "Sun, 04 Oct 2026 00:51:22 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Un nuevo hundimiento se registró la tarde de este sábado 3 de octubre en la colonia Pablo VI, zona 7 de Mixco, y obligó al cierre del sector para peatones y vehículos. Es el tercer socavamiento reportado en el lugar durante las últimas semanas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Surinam vuelve a El Trébol, donde Guatemala le arruinó el sueño mundialista",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/surinam-vuelve-a-el-trebol-donde-guatemala-le-arruino-el-sueno-mundialista-breaking/",
+      "fecha": "Sun, 04 Oct 2026 00:21:46 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El líder del Grupo B regresa al escenario de su último tropiezo ante la Bicolor, ahora con el boleto a cuartos de final en juego."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Demanda y abastecimiento de combustibles arranca irregular tras exención del IVA y el IDP: estas son las razones",
+      "link": "https://www.prensalibre.com/economia/demanda-y-abastecimiento-de-combustibles-arranca-irregular-tras-exencion-del-iva-y-el-idp-estas-son-las-razones/",
+      "fecha": "Sun, 04 Oct 2026 00:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El aumento de la demanda de los consumidores y la reducción previa de inventarios en las gasolineras ha provocado faltantes temporales de combustible en algunos expendios. Autoridades e importadores aseguran que hay suficientes existencias en el país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Río Pinula arrastra trabajos de protección y obliga a cerrar puente entre Villa Hermosa y Boca del Monte",
+      "link": "https://www.prensalibre.com/guatemala/rio-pinula-arrastra-trabajos-de-proteccion-y-obliga-a-cerrar-puente-entre-villa-hermosa-y-boca-del-monte/",
+      "fecha": "Sat, 03 Oct 2026 23:28:38 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Las fuertes lluvias de este sábado agravaron la erosión provocada por el río Pinula en la zona 7 de San Miguel Petapa, donde el socavamiento avanzó hasta quedar a menos de dos metros del puente que comunica Villa Hermosa con Boca del Monte."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cobán encadena su segunda victoria seguida al superar 2-0 a Malacateco",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/coban-encadena-su-segunda-victoria-seguida-al-superar-2-0-a-malacateco-breaking/",
+      "fecha": "Sat, 03 Oct 2026 23:02:52 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los príncipes azules anotaron por medio de Juan Winter y Kenneth Valdez para llevarse los tres puntos en lo que es su segunda victoria consecutiva después de varios partidos sin conocer el triunfo en el Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más tecnología y menos demoras: los cambios que FIFA e IFAB preparan para el arbitraje",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mas-tecnologia-y-menos-demoras-los-cambios-que-fifa-e-ifab-preparan-para-el-arbitraje-breaking/",
+      "fecha": "Sat, 03 Oct 2026 22:29:21 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La FIFA y la IFAB trabajan en nuevas modificaciones al VAR, el fuera de juego y el control del tiempo que buscan hacer el arbitraje más rápido preciso y transparente sin sustituir el criterio humano dentro del campo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comic-Con Guatemala 2026: miles de fanáticos se reúnen para vivir la experiencia del anime y cosplay",
+      "link": "https://www.prensalibre.com/vida/escenario/comic-con-guatemala-2026-miles-de-fanaticos-se-reunen-para-vivir-la-experiencia-del-anime-y-cosplay/",
+      "fecha": "Sat, 03 Oct 2026 22:17:08 +0000",
+      "categoria": "Escenario",
+      "resumen": "Artistas, disfraces, espacios para fotografías, artículos coleccionables, concursos y otras actividades marcan el primer día de la Comic-Con Guatemala 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presuntos sicarios son vapuleados luego de un ataque armado en Ciudad Quetzal",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/presuntos-sicarios-son-vapuleados-luego-de-un-ataque-armado-en-ciudad-quetzal/",
+      "fecha": "Sat, 03 Oct 2026 21:31:34 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los hombres de 20 años se desplazaban en una motocicleta y le dispararon al piloto de un camión, quien luego los embistió para evitar que huyeran."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video muestra el momento en que un árbol cayó sobre personas que bailaban en una plaza de la zona 3",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/video-muestra-el-momento-en-que-un-arbol-cayo-sobre-personas-que-bailaban-en-una-plaza-de-la-zona-3/",
+      "fecha": "Sat, 03 Oct 2026 21:31:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "En cuestión de segundos, lo que parecía una actividad de baile se convirtió en una emergencia cuando un árbol se desplomó sobre un área donde personas bailaban en la Plaza El Güipil, zona 3 capitalina."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hombres armados atacan a una familia en Chaquijyá, Sololá y se reportan dos muertos y vehículos quemados",
+      "link": "https://www.prensalibre.com/guatemala/justicia/hombres-armados-atacan-a-una-familia-en-chaquijya-solola-y-se-reportan-dos-muertos-y-vehiculos-quemados/",
+      "fecha": "Sat, 03 Oct 2026 20:14:54 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La Policía Nacional Civil (PNC) investiga un ataque armado que dejó a una pareja muerta y a su hija herida durante la madrugada de este sábado 3 de septiembre en la aldea Chaquijyá, Sololá."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Cobán Imperial vs. Malacateco: siga el minuto a minuto de la jornada 12 del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-coban-imperial-vs-malacateco-siga-el-minuto-a-minuto-de-la-jornada-12-del-apertura-2026-breaking/",
+      "fecha": "Sat, 03 Oct 2026 20:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los príncipes azules reciben a los toros este sábado a las 3:00 PM en el estadio José Ángel Rossi en el segundo partido de la jornada 12 donde Cobán buscará sumar de local para salir de la penúltima posición de la tabla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Renuncia el jefe de las prisiones de Tennessee tras el fallido intento de ejecutar a Christa Pike",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/renuncia-el-jefe-de-las-prisiones-de-tennessee-tras-el-fallido-intento-de-ejecutar-a-christa-pike/",
+      "fecha": "Sat, 03 Oct 2026 19:44:05 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Pike permanece en estado crítico en un hospital tras sobrevivir a dos intentos de ejecución mediante inyección letal el miércoles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pochettino sin filtros antes del Clásico de Concacaf: &#8220;La rivalidad con México me da lo mismo&#8221;",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/pochettino-sin-filtros-antes-del-clasico-de-concacaf-la-rivalidad-con-mexico-me-da-lo-mismo-breaking/",
+      "fecha": "Sat, 03 Oct 2026 19:12:44 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El técnico de Estados Unidos, Mauricio Pochettino, restó importancia a la rivalidad con México y dejó claro que su única motivación es encontrar la mejor versión de su equipo sin importar el oponente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En fotos: las multitudinarias protestas en España contra la crisis de la vivienda",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/en-fotos-las-multitudinarias-protestas-en-espana-contra-la-crisis-de-la-vivienda/",
+      "fecha": "Sat, 03 Oct 2026 18:45:58 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En decenas de ciudades se registraron manifestaciones después de que el Gobierno fracasara en su intento de lograr la aprobación parlamentaria de las medidas destinadas a frenar la subida de los alquileres y el precio de la vivienda."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lionel Messi tendrá una serie animada en Disney+: así son las primeras imágenes de “Messi and the Giants”",
+      "link": "https://www.prensalibre.com/vida/escenario/lionel-messi-tendra-una-serie-animada-en-disney-asi-son-las-primeras-imagenes-de-messi-and-the-giants/",
+      "fecha": "Sat, 03 Oct 2026 18:36:52 +0000",
+      "categoria": "Escenario",
+      "resumen": "El futbolista argentino llegará a Disney+ con “Messi and the Giants”, una serie animada de deporte y fantasía protagonizada por un Leo de 12 años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Adiós a una leyenda: Nairo Quintana se retira del ciclismo con un emotivo homenaje",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/adios-a-una-leyenda-nairo-quintana-se-retira-del-ciclismo-con-un-emotivo-homenaje-en-su-ultima-carrera-breaking/",
+      "fecha": "Sat, 03 Oct 2026 18:21:00 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "El colombiano cerró 17 años en el ciclismo profesional con un pasillo de honor del pelotón en el Giro de Emilia donde todos los participantes formaron una valla con sus bicicletas para despedirlo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "San Francisco de Asís: a 800 años de su tránsito, su mensaje sigue vigente",
@@ -9,6 +153,14 @@
       "fecha": "Sat, 03 Oct 2026 18:00:00 +0000",
       "categoria": "Salud y Familia",
       "resumen": "La Iglesia Católica enfoca la conmemoración de la muerte de uno de sus santos más ejemplares en orientar su carisma hacia los desafíos actuales del mundo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tensión continúa en San Pedro Necta, Huehuetenango, tras crimen en contra de periodista",
+      "link": "https://www.prensalibre.com/guatemala/justicia/tension-continua-en-san-pedro-necta-huehuetenango-tras-crimen-en-contra-de-periodista/",
+      "fecha": "Sat, 03 Oct 2026 17:54:09 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Agentes de la Policía Nacional Civil (PNC) de Huehuetenango y Quetzaltenango fueron movilizados a San Pedro Necta, donde continúa la tensión entre pobladores tras la muerte violenta del periodista Evelio Lisandro López Sánchez."
     },
     {
       "fuente": "Prensa Libre",
@@ -565,242 +717,90 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu/",
+      "link": "https://www.prensalibre.com/guatemala/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-22/",
+      "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-21/",
       "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "&#8220;Tenemos miedo a perder la vida aquí&#8221;: los migrantes de América Latina que EE.UU. deporta a República Centroafricana",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/tenemos-miedo-a-perder-la-vida-aqui-los-migrantes-de-america-latina-que-ee-uu-deporta-a-republica-centroafricana-3/",
-      "fecha": "Fri, 02 Oct 2026 17:46:16 +0000",
+      "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-20/",
+      "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
       "categoria": "BBC News Mundo",
-      "resumen": "Tenían protecciones ante la deportación ordenadas por un tribunal de inmigración y acabaron en otro continente, en un país del que no tenían referencias. Allí esperan un \"milagro\" para poder regresar a EE.UU."
+      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "“Mi amor fue un cheque en blanco”: la canción de Ricardo Arjona y Grupo Firme sobre un hombre que se sintió utilizado en una relación",
-      "link": "https://www.prensalibre.com/vida/escenario/mi-amor-fue-un-cheque-en-blanco-la-cancion-de-ricardo-arjona-y-grupo-firme-sobre-un-hombre-que-se-sintio-utilizado-en-una-relacion/",
-      "fecha": "Fri, 02 Oct 2026 17:44:50 +0000",
-      "categoria": "Escenario",
-      "resumen": "Ricardo Arjona estrenó el primer sencillo de su nuevo viaje musical, una colaboración con Grupo Firme en la que expone la historia de un hombre que se sintió utilizado en una relación. Esta es la letra."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Molotov en Guatemala 2026: La banda mexicana regresa al país con un concierto en el Parque de la Industria",
-      "link": "https://www.prensalibre.com/vida/escenario/molotov-en-guatemala-2026-la-banda-mexicana-regresa-al-pais-con-un-concierto-en-el-parque-de-la-industria/",
-      "fecha": "Fri, 02 Oct 2026 17:11:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La banda mexicana Molotov vuelve a Guatemala y prepara un espectáculo en la capital, especial para sus admiradores locales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-18/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-19/",
+      "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
       "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-17/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-18/",
+      "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
       "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-16/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-17/",
+      "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
       "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-15/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-16/",
+      "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
       "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-14/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-15/",
+      "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
       "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-13/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-14/",
+      "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
       "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-12/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-13/",
+      "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
       "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
+      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-11/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
+      "titulo": "&#8220;Los 7 de Cornell&#8221;: qué se sabe sobre la presunta violación grupal a una estudiante en una fraternidad de la prestigiosa universidad de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-7-de-cornell-que-se-sabe-sobre-la-presunta-violacion-grupal-a-una-estudiante-en-una-fraternidad-de-la-prestigiosa-universidad-de-ee-uu-12/",
+      "fecha": "Fri, 02 Oct 2026 18:04:57 +0000",
       "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-10/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-9/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-8/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-7/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-6/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-5/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-4/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-3/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos-2/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/semana-de-furia-y-fuego-las-violentas-protestas-estudiantiles-en-francia-que-han-dejado-mas-de-1-000-escuelas-afectadas-y-cientos-de-detenidos/",
-      "fecha": "Fri, 02 Oct 2026 17:05:16 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los estudiantes están protestando desde la semana pasada por las condiciones y la falta de recursos en las escuelas secundarias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué el novio de Christa Pike evitó la pena de muerte? Esto fue lo que pasó con Tadaryl Shipp",
-      "link": "https://www.prensalibre.com/internacional/por-que-el-novio-de-christa-pike-evito-la-pena-de-muerte-esto-fue-lo-que-paso-con-tadaryl-shipp/",
-      "fecha": "Fri, 02 Oct 2026 17:03:48 +0000",
-      "categoria": "Internacional",
-      "resumen": "Christa Pike recibió la pena de muerte dado que ella y su novio de entonces, Tadaryl Shipp, golpearon y torturaron a Colleen Slemmer hasta matarla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "CC da 48 horas al Ejecutivo para informar sobre el nombramiento de Jonathan Menkos en el Banguat",
-      "link": "https://www.prensalibre.com/guatemala/politica/cc-da-48-horas-al-ejecutivo-para-informar-sobre-el-nombramiento-de-jonathan-menkos-en-el-banguat-breaking/",
-      "fecha": "Fri, 02 Oct 2026 16:33:36 +0000",
-      "categoria": "Política",
-      "resumen": "La CC da un plazo de 48 horas al presidente Bernardo Arévalo para que informe sobre la situación de Jonathan Menkos, quien asumió la presidencia del Banco de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Detienen a piloto aviador requerido por EE. UU. por secuestro y delitos sexuales",
-      "link": "https://www.prensalibre.com/guatemala/justicia/detienen-a-guatemalteco-requerido-por-ee-uu-por-secuestro-y-delitos-sexuales-breaking/",
-      "fecha": "Fri, 02 Oct 2026 15:49:08 +0000",
-      "categoria": "Justicia",
-      "resumen": "En la zona 13 de la capital fue capturado un hombre con fines de extradición a Estados Unidos, señalado de supuestos delitos sexuales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. vs. México: ¿Cuándo es y por dónde ver la próxima edición del superclásico de la Concacaf?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/ee-uu-vs-mexico-cuando-es-y-por-donde-ver-la-proxima-edicion-del-superclasico-de-la-concacaf/",
-      "fecha": "Fri, 02 Oct 2026 15:44:30 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Desde que estas selecciones se enfrentaron por última vez, ambas compitieron como anfitrionas en el Mundial 2026, en el que quedaron eliminadas en octavos de final."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga Nacional: así se jugará la jornada 12 del Apertura 2026 y qué partido fue reprogramado",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-asi-se-jugara-la-jornada-12-del-apertura-2026-y-que-partido-fue-reprogramado/",
-      "fecha": "Fri, 02 Oct 2026 15:35:49 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La jornada 12 del Torneo Apertura 2026 marcará este fin de semana el inicio de la segunda vuelta de la Liga Nacional de Guatemala, con cinco partidos programados entre el viernes y el domingo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;No iba a permitir que los demás murieran&#8221;: el capitán del vuelo de Dubái a Israel relata el ataque de su copiloto",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/no-iba-a-permitir-que-los-demas-murieran-el-capitan-del-vuelo-de-dubai-a-israel-relata-el-ataque-de-su-copiloto/",
-      "fecha": "Fri, 02 Oct 2026 15:21:23 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Tuvo una conversación con Narendra Modi, primer ministro Indio, sobre cómo abrió la cabina para recibir ayuda por parte de los pasajeros y la tripulación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Serás siempre nuestro capitán”: pancartas apoyan a Cristiano Ronaldo y cuestionan a Jorge Jesús",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/seras-siempre-nuestro-capitan-pancartas-apoyan-a-cristiano-ronaldo-y-cuestionan-a-jorge-jesus/",
-      "fecha": "Fri, 02 Oct 2026 15:13:40 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La polémica salida de Cristiano Ronaldo de la selección de Portugal provocó la aparición de pancartas en Lisboa con mensajes de apoyo al histórico capitán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Casa Guardabarranco rinde tributo al legado de Roberto González Goyri",
-      "link": "https://www.prensalibre.com/vida/escenario/casa-guardabarranco-rinde-tributo-al-legado-de-roberto-gonzalez-goyri/",
-      "fecha": "Fri, 02 Oct 2026 15:08:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El espacio cultural abre sus puertas a una exposición en la que  se incluyen una representación del estudio del artista,  bocetos , grabados y fotografías, y se destaca su relación con Miguel Ángel Asturias."
+      "resumen": "La mujer alega que fue drogada y violada en una casa de fraternidad de la universidad en 2024."
     },
     {
       "fuente": "Guatemala.com",
