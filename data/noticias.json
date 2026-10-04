@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-10-04T19:59:55.325Z",
+  "actualizado": "2026-10-04T23:01:06.540Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El propano vuelve a encarecerse en Guatemala y suma tres aumentos durante el 2026, estos son los precios",
+      "link": "https://www.prensalibre.com/economia/el-propano-vuelve-a-encarecerse-en-guatemala-y-suma-tres-aumentos-durante-el-2026-estos-son-los-precios/",
+      "fecha": "Sun, 04 Oct 2026 23:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Los consumidores pagan desde este domingo 4 de octubre, entre Q7 y Q28 más por cilindro de gas propano, según la presentación, derivado de la nueva alza."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ricardo Arjona recuerda sus colaboraciones mientras “Amor Factura” supera los 4 millones de vistas en YouTube",
+      "link": "https://www.prensalibre.com/vida/escenario/ricardo-arjona-recuerda-sus-colaboraciones-mientras-amor-factura-supera-los-4-millones-de-vistas-en-youtube/",
+      "fecha": "Sun, 04 Oct 2026 22:37:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El cantautor guatemalteco habla de la conexión que ha marcado sus colaboraciones con Gaby Moreno, Paquita la del Barrio y, ahora, con Grupo Firme."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Guastatoya vs. Aurora FC: siga el minuto a minuto de la jornada 12 del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guastatoya-vs-aurora-fc-siga-el-minuto-a-minuto-de-la-jornada-12-del-apertura-2026-breaking/",
+      "fecha": "Sun, 04 Oct 2026 22:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los pecho amarillo reciben a los aurinegros este domingo a las 5:00 PM en el estadio David Cordón Hichos con Guastatoya buscando mantenerse en la pelea por el liderato del torneo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jesús confirma que Cristiano Ronaldo “volverá cuando quiera” a la selección de Portugal",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/jesus-confirma-que-cristiano-ronaldo-volvera-cuando-quiera-a-la-seleccion-de-portugal-breaking/",
+      "fecha": "Sun, 04 Oct 2026 21:57:12 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Jorge Jesús destaca la importancia del delantero portugués y asegura que su regreso a la selección dependerá únicamente de la decisión de Cristiano Ronaldo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Virgen del Rosario recorre el Centro Histórico: cómo es el anda, qué imágenes la acompañan, recorrido y cómo seguirla en directo",
+      "link": "https://www.prensalibre.com/vida/escenario/virgen-del-rosario-recorre-el-centro-historico-como-es-el-anda-que-imagenes-la-acompanan-recorrido-y-como-seguirla-en-directo/",
+      "fecha": "Sun, 04 Oct 2026 21:33:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Luego de la eucaristía, Nuestra Señora del Rosario emprendió su recorrido por las calles y avenidas del Centro Histórico, acompañada de imágenes de otros santos de la Iglesia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Georgina Rodríguez se une a la polémica con Portugal y lanza un dardo a Jorge Jesús",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/georgina-rodriguez-se-une-a-la-polemica-con-portugal-y-lanza-un-dardo-a-jorge-jesus-breaking/",
+      "fecha": "Sun, 04 Oct 2026 21:30:08 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La esposa de Cristiano Ronaldo se pronunció en redes sociales y apuntó directamente contra Jorge Jesús en medio de la polémica con la selección portuguesa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Partido político XGuate celebra su primera asamblea y elige a Edmond Mulet como secretario general",
+      "link": "https://www.prensalibre.com/guatemala/politica/partido-politico-xguate-celebra-su-primera-asamblea-y-elige-a-edmond-mulet-como-secretario-general/",
+      "fecha": "Sun, 04 Oct 2026 21:30:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El partido XGuate – Por Guate – celebró este domingo 4 de octubre su primera Asamblea General Ordinaria, en la que Edmond Mulet fue elegido secretario general y se integraron el Comité Ejecutivo Nacional y los órganos permanentes de la organización política."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "CC ordena al Gobierno intervenir ante emergencia por el río Pinula en Villa Hermosa I",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/cc-ordena-al-gobierno-intervenir-ante-emergencia-por-el-rio-pinula-en-villa-hermosa-i/",
+      "fecha": "Sun, 04 Oct 2026 21:29:30 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Corte de Constitucionalidad ordena al Ejecutivo adoptar medidas urgentes para proteger a las familias afectadas por la crecida del río Pínula en Villa Hermosa I, San Miguel Petapa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027: alertan por 2 mil nuevas plazas y mayor deuda en año electoral",
+      "link": "https://www.prensalibre.com/economia/presupuesto-2027-alertan-por-2-mil-nuevas-plazas-y-mayor-deuda-en-ano-electoral/",
+      "fecha": "Sun, 04 Oct 2026 20:33:41 +0000",
+      "categoria": "Economía",
+      "resumen": "La Red de Centros de Pensamiento advierte que el gasto aumentaría 14%, la emisión de bonos alcanzaría Q42 mil 750 millones y más de la mitad de ese endeudamiento financiaría el funcionamiento. También cuestiona el aumento de recursos para dependencias del Ejecutivo y los Codedes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lluvias en Guatemala: suelos alcanzan 90% de saturación en tres departamentos y elevan los riesgos",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-en-guatemala-suelos-alcanzan-90-de-saturacion-en-tres-departamentos-y-elevan-los-riesgos/",
+      "fecha": "Sun, 04 Oct 2026 20:25:01 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Las lluvias continuarán durante el fin de semana y encuentran terrenos con altos niveles de humedad en varios municipios. El Insivumeh advierte sobre posibles crecidas de ríos e inestabilidad del suelo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Fueron errores groseros&#8221;: Rafa Márquez tras la derrota 3-0 de México ante Estados Unidos",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/fueron-errores-groseros-rafa-marquez-tras-la-derrota-3-0-de-mexico-ante-estados-unidos-breaking/",
+      "fecha": "Sun, 04 Oct 2026 20:22:23 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Rafael Márquez acumula el peor inicio de un director técnico mexicano en los últimos 47 años tras no poder ganar en sus primeros tres partidos al frente del 'Tri' con dos empates y una derrota ante Estados Unidos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Por qué Canadá contempla una (improbable) invasión de EE.UU. (y qué papel juega el caso de Venezuela)",
@@ -12,11 +100,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "ECA Electricidad domina el Tour de Panamá y se corona campeón por equipos",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/eca-electricidad-domina-el-tour-de-panama-y-se-corona-campeon-por-equipos-breaking/",
+      "fecha": "Sun, 04 Oct 2026 19:29:03 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El conjunto guatemalteco cerró una brillante participación con una victoria de etapa, el título de montaña que terminó en manos de Fredy Toc."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Crecida del río Pinula continúa amenazando viviendas y pone en riesgo puente en Villa Hermosa I",
       "link": "https://www.prensalibre.com/guatemala/comunitario/crecida-del-rio-pinula-continua-amenazando-viviendas-y-pone-en-riesgo-puente-en-villa-hermosa-i/",
       "fecha": "Sun, 04 Oct 2026 19:28:00 +0000",
       "categoria": "Comunitario",
       "resumen": "El aumento del cauce del río Pinula mantiene en riesgo viviendas de Villa Hermosa I, San Miguel Petapa, y amenaza el puente que comunica el sector con Los Álamos, mientras autoridades municipales trabajan para contener la erosión y prevenir más daños."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La seleccionada guatemalteca Marisol Stosich anuncia una pausa en su carrera futbolística",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/la-seleccionada-guatemalteca-marisol-stosich-anuncio-una-pausa-en-su-carrera-futbolistica-breaking/",
+      "fecha": "Sun, 04 Oct 2026 19:04:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La legionaria Marisol Stosich anunció a través de sus redes sociales que realizará una pausa de 18 meses en el fútbol y sus estudios para servir como misionera."
     },
     {
       "fuente": "Prensa Libre",
@@ -32,7 +136,7 @@
       "link": "https://www.prensalibre.com/economia/mas-lluvia-eleva-el-embalse-de-chixoy-pero-no-basta-para-aumentar-su-generacion/",
       "fecha": "Sun, 04 Oct 2026 18:00:00 +0000",
       "categoria": "Economía",
-      "resumen": "Aunque las lluvias recientes mejoraron las condiciones del embalse de Chixoy, las autoridades mantienen una operación limitada para preservar agua para continuar aportando al sistema eléctrico en la actualidad y durante la época seca."
+      "resumen": "Aunque las lluvias recientes mejoraron las condiciones del embalse de Chixoy, las autoridades mantienen una operación limitada para preservar agua con el fin de continuar aportando al sistema eléctrico en la actualidad y durante la época seca."
     },
     {
       "fuente": "Prensa Libre",
@@ -64,7 +168,7 @@
       "link": "https://www.prensalibre.com/guatemala/comunitario/sistema-de-baja-presion-mantendra-lluvias-este-domingo-y-eleva-riesgo-de-inundaciones-y-deslizamientos/",
       "fecha": "Sun, 04 Oct 2026 17:16:27 +0000",
       "categoria": "Comunitario",
-      "resumen": "Lluvias continuarán en Guatemala. Un sistema de baja presión favorece el ingreso de humedad y aumenta el riesgo de crecidas de ríos, inundaciones y deslizamientos."
+      "resumen": "El fenómeno, ubicado al sureste del país, favorecerá el ingreso de abundante humedad y mantendrá condiciones inestables durante la jornada, según el boletín del Insivumeh."
     },
     {
       "fuente": "Prensa Libre",
@@ -697,110 +801,6 @@
       "fecha": "Sat, 03 Oct 2026 01:01:00 +0000",
       "categoria": "Escenario",
       "resumen": "Una de las películas más exitosas de Netflix continuará su historia con una secuela que llegaría a los cines antes que a la plataforma. Esto se sabe de su estreno y de otras películas que llegarán a las salas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan en el Aeropuerto La Aurora a hombre con siete iPhone 18 Pro Max valorados en más de Q90 mil",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-en-el-aeropuerto-la-aurora-a-hombre-con-siete-iphone-18-pro-max-valorados-en-mas-de-q90-mil-breaking/",
-      "fecha": "Sat, 03 Oct 2026 01:00:34 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC capturó a un hombre en el Aeropuerto La Aurora, luego de que durante una inspección de equipaje fueran localizados siete iPhone 18 Pro Max, que pretendía ingresar al país sin pagar impuestos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Carrera Neón 3K: nueva jornada deportiva llena de luces y música en Quetzaltenango",
-      "link": "https://www.prensalibre.com/vida/escenario/carrera-neon-3k-nueva-jornada-deportiva-llena-de-luces-y-musica-en-quetzaltenango/",
-      "fecha": "Sat, 03 Oct 2026 01:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Una recorrido de tres kilómetros que combina el ejercicio, luces y música  para disfrutar en familia este 17 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Colapsa en Hawái el emblemático arco marino Hōlei de 550 años de antigüedad",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/colapsa-en-hawai-el-emblematico-arco-marino-holei-de-550-anos-de-antiguedad/",
-      "fecha": "Sat, 03 Oct 2026 00:19:54 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La formación rocosa de lava que sobresalía de los acantilados del Parque Nacional de los Volcanes se derrumbó hace unos días, 550 años después de su formación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Transportistas de combustible piden Q6 de subsidio adicionales como apoyo por el aumento en el precio del diésel",
-      "link": "https://www.prensalibre.com/guatemala/transportistas-de-combustible-piden-q6-de-subsidio-adicionales-para-apoyar-el-aumento-en-el-precio-del-diesel/",
-      "fecha": "Sat, 03 Oct 2026 00:07:34 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Gretec sostiene que la exención vigente de IVA e IDP no representa un alivio efectivo para sus actividades y pide un apoyo neto de Q6 por galón."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video: así fue el rescate en helicóptero de un conductor atrapado por una inundación en Arizona",
-      "link": "https://www.prensalibre.com/internacional/video-asi-fue-el-rescate-en-helicoptero-de-un-conductor-atrapado-por-una-inundacion-en-arizona/",
-      "fecha": "Sat, 03 Oct 2026 00:01:41 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un conductor fue rescatado en helicóptero luego de que una corriente arrastrara y volcara su camioneta durante inundaciones en Arizona."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Concejos de Zunil y El Palmar acuerdan no publicar salarios y otras remuneraciones",
-      "link": "https://www.prensalibre.com/guatemala/politica/concejos-de-zunil-y-el-palmar-acuerdan-no-publicar-salarios-y-otras-remuneraciones/",
-      "fecha": "Sat, 03 Oct 2026 00:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Zunil y El Palmar, en Quetzaltenango, dejaron de publicar salarios y otras remuneraciones municipales. Acción Ciudadana sostiene que los concejos no pueden omitir esa información mediante acuerdos y denunció el caso ante el MP."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cine guatemalteco: Cada producción debe encontrar su propia ruta",
-      "link": "https://www.prensalibre.com/vida/escenario/cine-guatemalteco-cada-produccion-debe-encontrar-su-propia-ruta/",
-      "fecha": "Sat, 03 Oct 2026 00:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Hacer cine guatemalteco también trata de su proceso de exhibición, lo que abarca distintas variables para la construcción de públicos dentro del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos candidatos a la CGC son los favoritos en un Congreso sin acuerdos para la elección",
-      "link": "https://www.prensalibre.com/guatemala/politica/dos-candidatos-a-la-cgc-son-los-favoritos-en-un-congreso-sin-acuerdos-para-la-eleccion/",
-      "fecha": "Fri, 02 Oct 2026 23:59:51 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Las negociaciones políticas de este fin de semana serán clave para definir al jefe de la CGC, la entidad que tendrá un rol protagónico en las elecciones del 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Que podría pasarle a Christa Pike tras sobrevivir a dos inyecciones letales en Tennessee",
-      "link": "https://www.prensalibre.com/internacional/que-podria-pasarle-a-christa-pike-tras-sobrevivir-a-dos-inyecciones-letales-en-tennessee/",
-      "fecha": "Fri, 02 Oct 2026 23:57:38 +0000",
-      "categoria": "Internacional",
-      "resumen": "Mientras Christina Pike se encuentra en estado crítico tras sobrevivir a la inyección letal en Tennessee, su equipo legal ha pedido a las autoridades la conmutación de la pena."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;El Lunático&#8221;: Panchorizo presenta un espectáculo de circo, teatro y comedia",
-      "link": "https://www.prensalibre.com/vida/escenario/el-lunatico-panchorizo-presenta-un-espectaculo-de-circo-teatro-y-comedia/",
-      "fecha": "Fri, 02 Oct 2026 23:30:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El artista guatemalteco Francisco Toralla, conocido como Panchorizo, regresa al Teatro Nacional con una propuesta dirigida a pequeños y grandes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nombramiento de Jonathan Menkos en el Banguat suma tercer amparo que cuestiona su preparación técnica",
-      "link": "https://www.prensalibre.com/guatemala/justicia/nombramiento-de-jonathan-menkos-en-el-banguat-suma-tercer-amparo-que-cuestiona-su-preparacion-tecnica-breaking/",
-      "fecha": "Fri, 02 Oct 2026 23:16:39 +0000",
-      "categoria": "Justicia",
-      "resumen": "El nombramiento de Jonathan Menkos como presidente del Banguat suma un tercer amparo ante la CC. La nueva acción señala que no reúne la preparación técnica para dirigir el banco central."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muere estudiante de 17 años tras caer de un cuarto piso en una escuela de Los Ángeles: qué se sabe del caso",
-      "link": "https://www.prensalibre.com/internacional/muere-estudiante-de-17-anos-tras-caer-de-un-cuarto-piso-en-una-escuela-de-los-angeles-que-se-sabe-del-caso/",
-      "fecha": "Fri, 02 Oct 2026 23:00:05 +0000",
-      "categoria": "Internacional",
-      "resumen": "Xavier, de 17 años, murió en una escuela secundaria de Los Ángeles en circunstancias que son investigadas por las autoridades tras un incidente en el campus."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Parlamento de España vota en contra de dos decretos sobre vivienda del gobierno de Pedro Sánchez tras la crisis por el desahucio de la anciana Maricarmen",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-parlamento-de-espana-vota-en-contra-de-dos-decretos-sobre-vivienda-del-gobierno-de-pedro-sanchez-tras-la-crisis-por-el-desahucio-de-la-anciana-maricarmen/",
-      "fecha": "Fri, 02 Oct 2026 22:52:43 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La votación se dio en medio de protestas por la situación de la vivienda en en país europeo."
     },
     {
       "fuente": "Guatemala.com",
