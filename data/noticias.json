@@ -1,7 +1,79 @@
 {
-  "actualizado": "2026-10-04T11:24:55.015Z",
+  "actualizado": "2026-10-04T16:42:03.110Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Una vez que la ves, no puedes dejar de pensar en ella&#8221;: Ana Mendieta, la artista que desafió límites con su cuerpo y cuya misteriosa muerte sigue dividiendo al mundo del arte",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-vez-que-la-ves-no-puedes-dejar-de-pensar-en-ella-ana-mendieta-la-artista-que-desafio-limites-con-su-cuerpo-y-cuya-misteriosa-muerte-sigue-dividiendo-al-mundo-del-arte/",
+      "fecha": "Sun, 04 Oct 2026 16:21:19 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Exiliada cuando niña exiliada de Cuba, se convirtió en una de las artistas más singulares, memorables y cada vez más celebradas del arte contemporáneo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lula dice estar “muy confiado” de ganar las elecciones presidenciales de Brasil",
+      "link": "https://www.prensalibre.com/internacional/lula-dice-estar-muy-confiado-de-ganar-las-elecciones-presidenciales-de-brasil/",
+      "fecha": "Sun, 04 Oct 2026 15:59:44 +0000",
+      "categoria": "Internacional",
+      "resumen": "Con una elección marcada por el empate técnico, Luiz Inácio Lula da Silva acudió a votar en São Paulo y aseguró estar “muy confiado” de ganar la Presidencia de Brasil frente a Flávio Bolsonaro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala vs. Surinam: fecha, hora y detalles del partido decisivo por la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-surinam-fecha-hora-y-detalles-del-partido-decisivo-por-la-liga-de-naciones-breaking/",
+      "fecha": "Sun, 04 Oct 2026 15:37:16 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Bicolor que llega en la tercera posición del grupo  necesita ganar ante Surinam este lunes en El Trébol para mantener sus opciones de clasificar a los cuartos de final de la Liga de Naciones de Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entrevisté a Christa Pike hace 20 años y no puedo dejar de pensar en ella",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/entreviste-a-christa-pike-hace-20-anos-y-no-puedo-dejar-de-pensar-en-ella/",
+      "fecha": "Sun, 04 Oct 2026 14:19:36 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La periodista británica Helen Roberts dijo a la BBC que en Christa Pike conviven dos facetas distintas: una personal y una criminal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Secuencia sísmica en Casillas, Santa Rosa, suma 180 eventos en septiembre indica el Insivumeh",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/secuencia-sismica-en-casillas-santa-rosa-suma-180-eventos-en-septiembre-indica-el-insivumeh/",
+      "fecha": "Sun, 04 Oct 2026 14:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh registró 180 sismos durante septiembre en Casillas, Santa Rosa, de los cuales tres fueron percibidos por la población. El evento de mayor magnitud, de 4.1, ocurrió el 30 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala vs. Surinam: las cuentas que necesita la Bicolor para avanzar a cuartos de final",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-surinam-las-cuentas-que-necesita-la-bicolor-para-avanzar-a-cuartos-de-final-breaking/",
+      "fecha": "Sun, 04 Oct 2026 13:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El triunfo ante El Salvador dejó una diferencia de goles favorable que puede ser determinante en la definición del Grupo B."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ana Murga transformó la muerte de su padre en un proyecto que acompaña a unos 500 niños cada semana",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/ana-murga-transformo-la-muerte-de-su-padre-en-un-proyecto-que-acompana-a-unos-500-ninos-cada-semana/",
+      "fecha": "Sun, 04 Oct 2026 13:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El asesinato de Jorge Murga en el 2005 llevó a su hija a preguntarse por el origen de la violencia. De esa búsqueda nació Ambi, una organización que trabaja con niños y familias en Guatemala y que comenzó con una entrega de juguetes en Navidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Está Guatemala preparada para enfrentar el cáncer? Las cifras y fallas que ponen a prueba al sistema de salud",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/esta-guatemala-preparada-para-enfrentar-el-cancer-las-cifras-y-fallas-que-ponen-a-prueba-al-sistema-de-salud/",
+      "fecha": "Sun, 04 Oct 2026 12:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El cáncer es la segunda causa de muerte en Guatemala, pero el país aún enfrenta falta de datos, tratamientos costosos y barreras que dificultan atenderlo a tiempo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuáles son las brechas que persisten en la atención del cáncer en Guatemala y por qué el país no ha avanzado pese a la ley, según experta",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/cuales-son-las-brechas-que-persisten-en-la-atencion-del-cancer-en-guatemala-y-por-que-el-pais-no-ha-avanzado-pese-a-la-ley-segun-experta/",
+      "fecha": "Sun, 04 Oct 2026 12:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "En entrevista, la psicooncóloga Lea Echeverría analiza los avances y las deudas de Guatemala frente al cáncer, dos años después de la entrada en vigencia de la ley."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Ley contra el cáncer en Guatemala: qué ha avanzado y qué sigue pendiente a dos años de su vigencia",
@@ -737,78 +809,6 @@
       "fecha": "Fri, 02 Oct 2026 21:33:30 +0000",
       "categoria": "Entretenimiento",
       "resumen": "Adria Arjona será galardonada junto a Salma Hayek y otras figuras destacadas de Hollywood durante la gala anual de la organización Women in Film. \nThe post Adria Arjona será reconocida junto a Salma Hayek y otras figuras destacadas en Estados Unidos appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "NWS advierte de una ola de calor en California durante el fin de semana y explica cómo estará el resto de EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/nws-advierte-de-una-ola-de-calor-en-california-durante-el-fin-de-semana-y-explica-como-estara-el-resto-de-ee-uu/",
-      "fecha": "Fri, 02 Oct 2026 21:29:52 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una gran ola de calor afectará el estado de California durante el fin de semana, mientras que en otros sectores habrán lluvias torrenciales debido a una onda tropical."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Salgan a votar”: Trump celebra el mes de la Herencia Hispana y busca movilizar el voto latino",
-      "link": "https://www.prensalibre.com/internacional/salgan-a-votar-trump-celebra-el-mes-de-la-herencia-hispana-y-busca-movilizar-el-voto-latino/",
-      "fecha": "Fri, 02 Oct 2026 21:15:45 +0000",
-      "categoria": "Internacional",
-      "resumen": "Entre los hispanos que votaron por Trump en el 2024, su aprobación cayó, en parte, por la política antiinmigratoria de su Administración y el elevado precio de la gasolina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hospital contra el cáncer comenzará a construirse 32 meses después de aprobado el decreto que ordena la obra",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/hospital-contra-el-cancer-comenzara-a-construirse-32-meses-despues-de-aprobado-el-decreto-que-ordena-la-obra/",
-      "fecha": "Fri, 02 Oct 2026 21:07:23 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Hospital Especializado contra el Cáncer se construirá en la zona 13 con apoyo del Gobierno de China (Taiwán)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala empata con Surinam y definirá su clasificación en el Manuel Felipe Carrera",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-surinam-vs-guatemala-siga-las-incidencias-del-partido-de-la-bicolor-desde-paramaribo/",
-      "fecha": "Fri, 02 Oct 2026 21:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Selección de Guatemala empató 0-0 frente a Surinam en un exigente encuentro disputado en Paramaribo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Juan Miguel Moreno, doble medallista olímpico, comparte en Guatemala las claves para llegar a la élite",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/juan-miguel-moreno-doble-medallista-olimpico-comparte-en-guatemala-las-claves-para-llegar-a-la-elite-breaking/",
-      "fecha": "Fri, 02 Oct 2026 20:59:14 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El entrenador del equipo olímpico de Brasil compartió su experiencia y conocimientos durante un seminario con atletas y entrenadores guatemaltecos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Frentes fríos en Guatemala: ¿cuándo comenzarían y cómo cambiarán las temperaturas y lluvias?",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/frentes-frios-en-guatemala-cuando-comenzarian-y-como-cambiaran-las-temperaturas-y-lluvias/",
-      "fecha": "Fri, 02 Oct 2026 20:54:45 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El clima en Guatemala entrará en una etapa de transición, con descenso de temperaturas y lluvias que aún podrían generar riesgos en varias regiones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arte y relajación: taller invita a desconectarse, respirar y crear con la técnica del puntillismo",
-      "link": "https://www.prensalibre.com/vida/escenario/arte-y-relajacion-taller-invita-a-desconectarse-respirar-y-crear-con-la-tecnica-del-puntillismo/",
-      "fecha": "Fri, 02 Oct 2026 20:24:55 +0000",
-      "categoria": "Escenario",
-      "resumen": "Un taller dedicado a la relajación, el aprendizaje y el arte invita a crear mediante la técnica del puntillismo. Esto se conoce de la actividad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Calendario lunar de octubre del 2026: ¿Cuándo habrá Luna Llena y cuáles son las fechas clave?",
-      "link": "https://www.prensalibre.com/internacional/calendario-lunar-de-octubre-del-2026-cuando-habra-luna-llena-y-cuales-son-las-fechas-clave/",
-      "fecha": "Fri, 02 Oct 2026 19:57:31 +0000",
-      "categoria": "Internacional",
-      "resumen": "El calendario lunar de octubre permite organizar una observación a simple vista, una salida para fotografiar el cielo o una jornada de seguimiento astronómico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Sharks”: Museo Miraflores presenta una exposición sobre la fascinante historia evolutiva de los tiburones",
-      "link": "https://www.prensalibre.com/vida/escenario/sharks-museo-miraflores-presenta-una-exposicion-sobre-la-fascinante-historia-evolutiva-de-los-tiburones/",
-      "fecha": "Fri, 02 Oct 2026 19:33:44 +0000",
-      "categoria": "Escenario",
-      "resumen": "Una nueva exposición dedicada a la historia evolutiva de los tiburones y a su importancia para los ecosistemas marinos ofrece una experiencia educativa e interactiva en el Museo Miraflores."
     },
     {
       "fuente": "Guatemala.com",
