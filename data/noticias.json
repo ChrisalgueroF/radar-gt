@@ -1,7 +1,151 @@
 {
-  "actualizado": "2026-10-05T05:01:11.139Z",
+  "actualizado": "2026-10-05T14:10:20.843Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Estamos listos para ir de inmediato&#8221;: los millonarios cubanoestadounidenses que esperan en Miami que caiga el gobierno de Cuba",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/estamos-listos-para-ir-de-inmediato-los-millonarios-cubanoestadounidenses-que-esperan-en-miami-que-caiga-el-gobierno-de-cuba/",
+      "fecha": "Mon, 05 Oct 2026 13:42:56 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los exiliados cubanos en Florida tienen cada vez más esperanzas de que un cambio de régimen en Cuba esté ahora a la vista."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cierre entre Villa Hermosa y Boca del Monte complica el tránsito: PMT reporta alta carga en vías alternas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/cierre-entre-villa-hermosa-y-boca-del-monte-complica-el-transito-pmt-reporta-alta-carga-en-vias-alternas-breaking/",
+      "fecha": "Mon, 05 Oct 2026 13:17:15 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Inhabilitación de puente por crecida del río Pinula complica la movilidad en rutas alternas entre San Miguel Petapa y la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué salió mal en Nike, el gigante que perdió el liderazgo mundial de la ropa deportiva",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/que-salio-mal-en-nike-el-gigante-que-perdio-el-liderazgo-mundial-de-la-ropa-deportiva/",
+      "fecha": "Mon, 05 Oct 2026 12:59:03 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En los últimos años, la mayor marca de ropa deportiva del planeta perdió ventas y clientes frente a su competencia. ¿Qué está pasando?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hacer “nada” está bien: un descanso reparador requiere una verdadera desconexión, incluso del celular",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/hacer-nada-esta-bien-un-descanso-reparador-requiere-una-verdadera-desconexion-incluso-del-celular/",
+      "fecha": "Mon, 05 Oct 2026 12:00:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Usar el celular durante las pausas puede aumentar la sensación de cansancio e impedir una recuperación adecuada. Esto recomiendan los expertos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala ratifica convenio con el CAF: cuánto pagará y cómo se financiará",
+      "link": "https://www.prensalibre.com/economia/presidente-ratifica-incorporacion-de-guatemala-al-banco-caf-con-la-suscripcion-de-acciones-por-us40-millones/",
+      "fecha": "Mon, 05 Oct 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El presidente de la República, Bernardo Arévalo, ratificó el convenio de suscripción de acciones de capital ordinario entre Guatemala y la Corporación Andina de Fomento (CAF), como parte del proceso para incorporar al país al Banco de Desarrollo de América Latina y el Caribe."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pedro Sánchez convoca elecciones anticipadas tras el fracaso en el Congreso de sus decretos para enfrentar la crisis de la vivienda en España",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/pedro-sanchez-convoca-elecciones-anticipadas-tras-el-fracaso-en-el-congreso-de-sus-decretos-para-enfrentar-la-crisis-de-la-vivienda-en-espana/",
+      "fecha": "Mon, 05 Oct 2026 09:05:10 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El anuncio de Sánchez se produce tras varios días de protestas en el país europeo, surgidas a raíz del desalojo de la anciana Maricarmen. Las elecciones se celebrarán el próximo 29 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027: los bolsones que concentran más de Q15 mil millones y estarán bajo la lupa",
+      "link": "https://www.prensalibre.com/economia/presupuesto-2027-codedes-y-otros-fondos-que-concentraran-miles-de-millones-de-quetzales/",
+      "fecha": "Mon, 05 Oct 2026 07:05:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El presupuesto 2027 concentra más de Q15 mil millones en bolsones destinados a vivienda, Puerto Quetzal, Banguat y Codedes, cuyo destino, ejecución y control estarán bajo la lupa, según el análisis compartido por la Asociación de Investigación y Estudios Sociales (Asies)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inteligencia contra el narcotráfico en Guatemala: analistas advierten debilidades y explican qué pudo fallar en Huité, Zacapa",
+      "link": "https://www.prensalibre.com/guatemala/justicia/inteligencia-contra-el-narcotrafico-en-guatemala-analistas-advierten-debilidades-y-explican-que-pudo-fallar-en-huite-zacapa/",
+      "fecha": "Mon, 05 Oct 2026 06:10:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Filtraciones, poca coordinación y control territorial dificultan la lucha contra el narcotráfico, según analistas que examinan el caso Huité."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Informe oficial",
+      "link": "https://www.prensalibre.com/opinion/caricatura/informe-oficial/",
+      "fecha": "Mon, 05 Oct 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dinero sin rumbo en el laberinto de los Codedes",
+      "link": "https://www.prensalibre.com/opinion/editorial/dinero-sin-rumbo-en-el-laberinto-de-los-codedes/",
+      "fecha": "Mon, 05 Oct 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "El año de elecciones amenaza con convertirse en una lotería de proyectos destinados a generar propaganda política."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. creó 29 mil empleos en septiembre: por qué el dato complica el mensaje económico de Trump",
+      "link": "https://www.prensalibre.com/internacional/ee-uu-creo-29-mil-empleos-en-septiembre-por-que-el-dato-complica-el-mensaje-economico-de-trump/",
+      "fecha": "Mon, 05 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "El desempleo subió al 4.2% y los salarios perdieron terreno frente a la inflación, en momentos en que la economía centra el debate previo a las elecciones de medio término."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Palabras antiguas para insultar con elegancia",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/palabras-antiguas-para-insultar-con-elegancia/",
+      "fecha": "Mon, 05 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Las palabras en sí no son malas. Se vuelven a causa del uso otorgado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Enade 2026, a paso seguro",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/enade-2026-a-paso-seguro/",
+      "fecha": "Mon, 05 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La seguridad integral es el camino a la prosperidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más gasto, menos resultados",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/mas-gasto-menos-resultados/",
+      "fecha": "Mon, 05 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Un gasto enorme para 2027 exige resultados que justifiquen los impuestos de los guatemaltecos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Designación del diputado Menkos al banco central",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/designacion-del-diputado-menkos-al-banco-central/",
+      "fecha": "Mon, 05 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Ha generado polémica porque es un diputado electo al Congreso de la República."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy lunes 5 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-5-de-octubre-de-2026/",
+      "fecha": "Mon, 05 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El papel del juzgador en una sociedad democrática",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-papel-del-juzgador-en-una-sociedad-democratica/",
+      "fecha": "Mon, 05 Oct 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Los que dan vida a la ley son los juzgadores a través de sus fallos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelta El Chilero: vehículos circulan hasta 70% encima de la velocidad segura estimada",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/vuelta-el-chilero-vehiculos-circulan-hasta-70-encima-de-la-velocidad-segura-estimada/",
+      "fecha": "Mon, 05 Oct 2026 06:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Una auditoría vial en la Vuelta El Chilero reveló que los vehículos circulan por la curva a velocidades superiores a los 50 km/h considerados técnicamente seguros para maniobrar."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Cómo se compara Flávio Bolsonaro con su padre Jair y cuánto cambia el duelo con Lula por la presidencia de Brasil 4 años después",
@@ -657,150 +801,6 @@
       "fecha": "Sat, 03 Oct 2026 13:22:49 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Christa Pike, una mujer condenada a muerte en Tennessee, sobrevivió a la aplicación de dos inyecciones letales. Su caso ha vuelto a centrar la atención en la pena de muerte y en cómo se aplica en Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La fiscalía de Emiratos Árabes Unidos afirma que el copiloto del vuelo de Dubái a Israel atacó al capitán con un hacha",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-fiscalia-de-emiratos-arabes-unidos-afirma-que-el-copiloto-del-vuelo-de-dubai-a-israel-ataco-al-capitan-con-un-hacha/",
-      "fecha": "Sat, 03 Oct 2026 13:20:24 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El hombre acusado de intentar secuestrar el vuelvo de Flydubai ha sido identificado por varios medios de comunicación como Hamam al-Hammami."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Su esposa fue arrastrada por un tsunami y él lleva años buceando para sentirse cerca de ella",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/su-esposa-fue-arrastrada-por-un-tsunami-y-el-lleva-anos-buceando-para-sentirse-cerca-de-ella/",
-      "fecha": "Sat, 03 Oct 2026 10:42:57 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La esposa de Yasuo Takamatsu, Yuko, desepareció en el tsunami de 2011 y su cuerpo nunca fue encontrado. Dos años después, él aprendió a bucear y desde entonces se sumerge dos veces al mes como un acto de recuerdo, amor y conexión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué hay más de un Polo Norte (y lo difícil que es definir cuántos son en total)",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-hay-mas-de-un-polo-norte-y-lo-dificil-que-es-definir-cuantos-son-en-total-2/",
-      "fecha": "Sat, 03 Oct 2026 10:10:03 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Hay más de una definición de Polo Norte y, por si fuera poco, algunos de estos lugares en el planeta ni siquiera se quedan quietos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué hay más de un Polo Norte (y lo difícil que es definir cuántos son en total)",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-hay-mas-de-un-polo-norte-y-lo-dificil-que-es-definir-cuantos-son-en-total/",
-      "fecha": "Sat, 03 Oct 2026 10:10:03 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Hay más de una definición de Polo Norte y, por si fuera poco, algunos de estos lugares en el planeta ni siquiera se quedan quietos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Baja ejecución de los Codedes contrasta con más recursos previstos para el 2027",
-      "link": "https://www.prensalibre.com/guatemala/politica/baja-ejecucion-de-los-codedes-contrasta-con-mas-recursos-previstos-para-el-2027/",
-      "fecha": "Sat, 03 Oct 2026 06:12:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Los Consejos Departamentales de Desarrollo (Codedes) llegan al último trimestre del 2026 con una ejecución presupuestaria de 24.59%, equivalente a Q3 mil 763 millones, mientras que para el 2027 podrían disponer de hasta Q20 mil millones, al sumar las asignaciones ordinarias, extraordinarias y los recursos que queden pendientes de ejecutar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelo no tan libre",
-      "link": "https://www.prensalibre.com/opinion/caricatura/vuelo-no-tan-libre/",
-      "fecha": "Sat, 03 Oct 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un retraso del tamaño de un estadio",
-      "link": "https://www.prensalibre.com/opinion/editorial/un-retraso-del-tamano-de-un-estadio/",
-      "fecha": "Sat, 03 Oct 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Entre estudios “técnicos” y convocatorias de empresas internacionales interesadas, ya se ha consumido otro año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En la recta final del año, evaluemos las metas",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/en-la-recta-final-del-ano-evaluemos-las-metas/",
-      "fecha": "Sat, 03 Oct 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El avance logrado con un constante evaluar seguramente forma un progreso de beneficio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Donald Trump desafía a los demócratas y desvía US$52 millones de ayuda hacia América Latina",
-      "link": "https://www.prensalibre.com/internacional/donald-trump-desafia-a-los-democratas-y-desvia-us52-millones-de-ayuda-hacia-america-latina/",
-      "fecha": "Sat, 03 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "La administración Trump reasignará US$52 millones aprobados para países de Europa y Oriente Medio a Panamá, Perú, Ecuador y Colombia, pese a la oposición de legisladores demócratas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La justicia engrandece a una nación",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-justicia-engrandece-a-una-nacion/",
-      "fecha": "Sat, 03 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El juez que avanza por su trabajo no tiene amo. El que avanza por una llamada, sí."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ley de aguas: urgencia nacional y consensos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/ley-de-aguas-urgencia-nacional-y-consensos/",
-      "fecha": "Sat, 03 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Esta vez la discusión actual trasciende las bancadas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comiendo ansias ante el 2027",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/comiendo-ansias-ante-el-2027/",
-      "fecha": "Sat, 03 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "En 2027 perderán el poder labrado a partir del 27Jun1954, cuando el presidente Jacobo Árbenz renunció."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El acuerdo y la transición",
-      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/el-acuerdo-y-la-transicion/",
-      "fecha": "Sat, 03 Oct 2026 06:01:00 +0000",
-      "categoria": "Plumas invitadas",
-      "resumen": "El proceso de transición es relativamente largo, con obstáculos serios, pero es irreversible."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy sábado 3 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-3-de-octubre-de-2026/",
-      "fecha": "Sat, 03 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Thomas Piketty: &#8220;El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo&#8221;",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/thomas-piketty-el-nerviosismo-que-vemos-hoy-en-washington-tiene-que-ver-con-el-hecho-de-que-ee-uu-esta-perdiendo-el-control-sobre-el-mundo/",
-      "fecha": "Sat, 03 Oct 2026 04:40:27 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El economista francés confía en que el mundo avanzará hacia un orden multipolar, con mayor peso de las fuerzas democráticas e impulsado, en buena medida, por la presión del sur global."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Buscan repatriar a migrante guatemalteco que murió tras intento de detención de ICE en Michigan",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/buscan-repatriar-a-migrante-guatemalteco-que-murio-tras-intento-de-detencion-de-ice-en-michigan-breaking/",
-      "fecha": "Sat, 03 Oct 2026 03:08:40 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Una colecta busca reunir fondos para repatriar a Guatemala a Mario David Coronado Juárez, quien murió en un accidente vial en Michigan después de que agentes de ICE intentaran detener el vehículo que conducía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "20 de octubre del 2026 en Guatemala: cuándo se gozará el asueto y qué otros descansos quedan en el año",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/20-de-octubre-del-2026-en-guatemala-cuando-se-gozara-el-asueto-y-que-otros-descansos-quedan-en-el-ano/",
-      "fecha": "Sat, 03 Oct 2026 03:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "En conmemoración de la Revolución de Octubre, los trabajadores gozarán de un asueto, oportunidad para participar en actividades culturales, descansar o viajar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Es un golpe más a la confianza de la población”: supuesta sustracción de Q56 mil pone en foco custodia de evidencias del MP",
-      "link": "https://www.prensalibre.com/guatemala/justicia/es-un-golpe-mas-a-la-confianza-de-la-poblacion-supuesta-sustraccion-de-q56-mil-pone-en-foco-custodia-de-evidencias-del-mp/",
-      "fecha": "Sat, 03 Oct 2026 02:56:59 +0000",
-      "categoria": "Justicia",
-      "resumen": "La supuesta sustracción de Q56 mil 450 que estaban bajo custodia como evidencia llevó a la captura de una oficial de la Fiscalía en Escuintla y puso bajo cuestionamiento los controles para el resguardo de pruebas."
     },
     {
       "fuente": "Guatemala.com",
