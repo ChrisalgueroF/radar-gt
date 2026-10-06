@@ -1,7 +1,167 @@
 {
-  "actualizado": "2026-10-05T21:55:06.390Z",
+  "actualizado": "2026-10-06T02:08:26.707Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala inicia temporada de cruceros 2026-2027 y espera 44 buques durante este período",
+      "link": "https://www.prensalibre.com/economia/guatemala-inicia-temporada-de-cruceros-2026-2027-y-espera-44-buques-durante-este-periodo/",
+      "fecha": "Tue, 06 Oct 2026 02:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La temporada de cruceros 2026-2027 empezó este lunes 5 de octubre con el arribo del Queen Elizabeth a Puerto Quetzal, informó el Instituto Guatemalteco de Turismo (Inguat)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "20 reos escaparon de Fraijanes 2 y casi un año después el rastro lleva hasta México: ¿cuántos siguen prófugos?",
+      "link": "https://www.prensalibre.com/guatemala/20-reos-escaparon-de-fraijanes-2-y-casi-un-ano-despues-el-rastro-lleva-hasta-mexico-cuantos-siguen-profugos/",
+      "fecha": "Tue, 06 Oct 2026 02:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Uno de los fugados fue encontrado muerto y 10 han sido localizados y devueltos a prisión, incluidos dos señalados como cabecillas del Barrio 18 detenidos este lunes en Quintana Roo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Pentágono deja de utilizar las herramientas de IA de Anthropic tras incluir a la empresa en una lista negra, según pudo saber la BBC",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-pentagono-deja-de-utilizar-las-herramientas-de-ia-de-anthropic-tras-incluir-a-la-empresa-en-una-lista-negra-segun-pudo-saber-la-bbc/",
+      "fecha": "Tue, 06 Oct 2026 00:39:37 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El Departamento de Defensa usaba Claude para sus análisis de datos de inteligencia a través de un sistema llamado Maven, pero ahora ha tenido que migrar hacia otros modelos de IA."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Películas de terror para Halloween: qué ver en Netflix, Disney Plus, Prime Video y HBO Max",
+      "link": "https://www.prensalibre.com/vida/escenario/peliculas-de-terror-para-halloween-que-ver-en-netflix-disney-plus-prime-video-y-hbo-max/",
+      "fecha": "Tue, 06 Oct 2026 00:21:21 +0000",
+      "categoria": "Escenario",
+      "resumen": "Desde clásicos del cine de terror hasta producciones más recientes, estas son algunas películas disponibles en las plataformas de streaming."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lluvias elevan la humedad por encima del 75% y aumentan el riesgo de daños en cultivos",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-elevan-la-humedad-por-encima-del-75-y-aumentan-el-riesgo-de-danos-en-cultivos/",
+      "fecha": "Tue, 06 Oct 2026 00:17:15 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La humedad supera el 75% en sectores del centro y sur de Guatemala, después de una sequía prolongada que causó pérdidas de cultivos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MetroRiel avanza en la fase cero: qué se sabe de la ruta, estaciones, financiamiento y construcción",
+      "link": "https://www.prensalibre.com/economia/metroriel-avanza-en-la-fase-cero-que-se-sabe-de-la-ruta-estaciones-financiamiento-y-construccion/",
+      "fecha": "Tue, 06 Oct 2026 00:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El MetroRiel avanza en las etapas de la fase 0, mientras continúan los análisis para definir aspectos clave que permitan concluir esta etapa y determinar los siguientes pasos del proyecto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Apartamentos para narcos de hasta US$225 mil: los lujos que una abogada relata en prisión de Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/justicia/apartamentos-para-narcos-de-hasta-us225-mil-los-lujos-que-una-abogada-relata-en-prision-de-guatemala/",
+      "fecha": "Tue, 06 Oct 2026 00:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Rebecca Castañeda pasó de perseguir casos de narcotráfico como fiscal federal en EE. UU. a defender a acusados de trasiego de drogas y enfrentar procesos de extradición."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fortalecen sus soluciones para los connacionales que viven en Estados Unidos",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/fortalecen-sus-soluciones-para-los-connacionales-que-viven-en-estados-unidos/",
+      "fecha": "Mon, 05 Oct 2026 23:31:43 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Con una vasta que ha construido durante casi 30 años acompañando a las familias que reciben remesas, el Banco de Desarrollo Rural, S.A (BANRURAL) evoluciona y fortalece su equipo con Don Reme, el experto en remesas, quien orienta y aconseja de manera sencilla a los guatemaltecos que viven en Estados Unidos y a sus familias en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El modelo integral que transforma comunidades llega a 33 centros",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/el-modelo-integral-que-transforma-comunidades-llega-a-33-centros/",
+      "fecha": "Mon, 05 Oct 2026 23:23:34 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "La organización Puente da un paso histórico para la niñez guatemalteca al inaugurar uno de los últimos ocho Centros Nútreme en el municipio de San José Poaquil, alcanzando así el 100% de cobertura territorial con su modelo integral de prevención de la desnutrición crónica infantil."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala vence a Surinam con gol de Matts Evans y hace historia en la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guatemala-vs-surinam-siga-el-partido-por-el-pase-a-los-cuartos-de-final-de-la-liga-de-naciones/",
+      "fecha": "Mon, 05 Oct 2026 23:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Guatemala venció 1-0 a Surinam en el estadio El Trébol, gracias a un gol agónico de Matts Evans en el tiempo de reposición y aseguró su clasificación a la siguiente ronda de la Liga de Naciones de Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué pasará con Nicolás Maduro luego de que EE. UU. rechazara su inmunidad",
+      "link": "https://www.prensalibre.com/internacional/que-pasara-con-nicolas-maduro-luego-de-que-ee-uu-rechazara-su-inmunidad/",
+      "fecha": "Mon, 05 Oct 2026 22:54:12 +0000",
+      "categoria": "Internacional",
+      "resumen": "La fiscalía de EE. UU. sostiene que Venezuela no ha reclamado inmunidad para Nicolás Maduro, pero sí para la presidenta interina, Delcy Rodríguez."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Accidente en el Anillo Periférico deja un motorista muerto y se reportan complicaciones de tránsito",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-en-el-anillo-periferico-deja-un-motorista-muerto-y-se-reportan-complicaciones-de-transito-breaking/",
+      "fecha": "Mon, 05 Oct 2026 22:44:49 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Un motorista murió en un accidente en el Anillo Periférico la tarde de este lunes 5 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué Pedro Sánchez decidió convocar elecciones anticipadas en España ahora",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-pedro-sanchez-decidio-convocar-elecciones-anticipadas-en-espana-ahora/",
+      "fecha": "Mon, 05 Oct 2026 22:40:58 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El llamado a elecciones anticipadas no fue una reacción impulsiva, sino una maniobra cuidadosamente meditada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU.  y organizaciones de prensa condenan asesinato del periodista Evelio López Sánchez",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ee-uu-y-organizaciones-de-prensa-condenan-asesinato-del-periodista-evelio-lopez-sanchez-breaking/",
+      "fecha": "Mon, 05 Oct 2026 22:35:06 +0000",
+      "categoria": "Justicia",
+      "resumen": "Estados Unidos y organizaciones de prensa condenaron el asesinato del periodista Evelio Lisandro López Sánchez, ocurrido en Huehuetenango."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Salvador invertirá US$200 millones en 100 escuelas: Así es el programa &#8220;Mi Nueva Escuela&#8221;",
+      "link": "https://www.prensalibre.com/internacional/el-salvador-invertira-us200-millones-en-100-escuelas-asi-es-el-programa-mi-nueva-escuela/",
+      "fecha": "Mon, 05 Oct 2026 22:33:33 +0000",
+      "categoria": "Internacional",
+      "resumen": "Según Bukele, el programa \"Mi Nueva Escuela\" es una reforma educativa integral en El Salvador, creada para transformar el sistema nacional de enseñanza."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE.UU. &#8220;sigue de cerca&#8221; el caso de una científica rusa que falleció en un centro de investigación de la peste en Siberia",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ee-uu-sigue-de-cerca-el-caso-de-una-cientifica-rusa-que-fallecio-en-un-centro-de-investigacion-de-la-peste-en-siberia/",
+      "fecha": "Mon, 05 Oct 2026 22:28:09 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El secretario de Estado, Marco Rubio, expresó su preocupación de que el incidente pudiera haber provocado la propagación de la peste neumónica, aunque señaló que no había motivos para alarmarse."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“IXIM: El corazón del lago”, la obra de teatro que une el misterio, la fantasía y la belleza de Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/ixim-el-corazon-del-lago-la-obra-de-teatro-que-une-el-misterio-la-fantasia-y-la-belleza-de-guatemala/",
+      "fecha": "Mon, 05 Oct 2026 22:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Una obra de teatro inspirada en el lago de Atitlán tendrá dos presentaciones en octubre. Conozca las fechas, los horarios y el precio de las entradas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así una mujer de China espió a familiares de un funcionario taiwanés en EE. UU., según el FBI",
+      "link": "https://www.prensalibre.com/internacional/asi-una-mujer-de-china-espio-a-familiares-de-un-funcionario-taiwanes-en-ee-uu-segun-el-fbi/",
+      "fecha": "Mon, 05 Oct 2026 21:45:22 +0000",
+      "categoria": "Internacional",
+      "resumen": "El FBI informó que una mujer, que trabajaba para el Gobierno de China, espió a familiares de un funcionario de Taiwán dentro de EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Luis Fernando Tena prepara cambios y este sería el once titular de Guatemala ante Surinam",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/luis-fernando-tena-prepara-cambios-y-este-seria-el-once-titular-de-guatemala-ante-surinam-breaking/",
+      "fecha": "Mon, 05 Oct 2026 21:43:22 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El técnico de Guatemala prepara variantes para el duelo decisivo ante Surinam, donde la Bicolor necesita ganar para avanzar a cuartos de final."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Congreso programa esta semana la elección del contralor general de Cuentas",
+      "link": "https://www.prensalibre.com/guatemala/politica/congreso-programa-esta-semana-la-eleccion-del-contralor-general-de-cuentas/",
+      "fecha": "Mon, 05 Oct 2026 21:39:18 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Observadores dudan de la manera en que diputados harán el nombramiento, por negociaciones políticas y reuniones secretas de candidatos con las bancadas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Eleva la espontaneidad, la emoción y el glamur sin complejos",
@@ -105,6 +265,14 @@
       "fecha": "Mon, 05 Oct 2026 19:00:35 +0000",
       "categoria": "Salud y Familia",
       "resumen": "Durante un accidente cerebrovascular isquémico, el cerebro puede perder cerca de dos millones de neuronas por minuto, por lo que el tiempo en que se recibe un tratamiento es clave para disminuir el riesgo de muerte y secuelas; por esto, la empresa XCath realizó este año en Panamá, con su sistema Iris, la primera trombectomía mecánica telerrobótica a distancia en un paciente con ictus."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El origen de Halloween: más allá de la diversión y el terror",
+      "link": "https://www.prensalibre.com/vida/escenario/el-origen-de-halloween-mas-alla-de-la-diversion-y-el-terror/",
+      "fecha": "Mon, 05 Oct 2026 18:59:34 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con una historia de más de dos mil años, la fiesta de los dulces y los disfraces tiene tanto orígenes paganos como cristianos."
     },
     {
       "fuente": "Prensa Libre",
@@ -649,174 +817,6 @@
       "fecha": "Sun, 04 Oct 2026 20:22:23 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Rafael Márquez acumula el peor inicio de un director técnico mexicano en los últimos 47 años tras no poder ganar en sus primeros tres partidos al frente del 'Tri' con dos empates y una derrota ante Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué Canadá contempla una (improbable) invasión de EE.UU. (y qué papel juega el caso de Venezuela)",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-canada-contempla-una-improbable-invasion-de-ee-uu-y-que-papel-juega-el-caso-de-venezuela/",
-      "fecha": "Sun, 04 Oct 2026 19:34:35 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El primer ministro Mark Carney indicó que las fuerzas armadas están elaborando escenarios para hacer frente a un eventual conflicto bélico con su vecino del sur, aunque reconoció que el riesgo es bajo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "ECA Electricidad domina el Tour de Panamá y se corona campeón por equipos",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/eca-electricidad-domina-el-tour-de-panama-y-se-corona-campeon-por-equipos-breaking/",
-      "fecha": "Sun, 04 Oct 2026 19:29:03 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El conjunto guatemalteco cerró una brillante participación con una victoria de etapa, el título de montaña que terminó en manos de Fredy Toc."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Crecida del río Pinula continúa amenazando viviendas y pone en riesgo puente en Villa Hermosa I",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/crecida-del-rio-pinula-continua-amenazando-viviendas-y-pone-en-riesgo-puente-en-villa-hermosa-i/",
-      "fecha": "Sun, 04 Oct 2026 19:28:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El aumento del cauce del río Pinula mantiene en riesgo viviendas de Villa Hermosa I, San Miguel Petapa, y amenaza el puente que comunica el sector con Los Álamos, mientras autoridades municipales trabajan para contener la erosión y prevenir más daños."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La seleccionada guatemalteca Marisol Stosich anuncia una pausa en su carrera futbolística",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/la-seleccionada-guatemalteca-marisol-stosich-anuncio-una-pausa-en-su-carrera-futbolistica-breaking/",
-      "fecha": "Sun, 04 Oct 2026 19:04:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La legionaria Marisol Stosich anunció a través de sus redes sociales que realizará una pausa de 18 meses en el fútbol y sus estudios para servir como misionera."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ganadores de los Premios Ariel 2026: “En el camino” lidera la lista con seis reconocimientos",
-      "link": "https://www.prensalibre.com/vida/escenario/ganadores-de-los-premios-ariel-2026-en-el-camino-lidera-la-lista-con-seis-reconocimientos/",
-      "fecha": "Sun, 04 Oct 2026 18:21:54 +0000",
-      "categoria": "Escenario",
-      "resumen": "El cine mexicano fue reconocido en la edición 68 de los Premios Ariel, en la que “En el camino” obtuvo seis galardones y fue seleccionada para representar a México en los Óscar 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Más lluvia eleva el embalse de Chixoy, pero no basta para aumentar su generación",
-      "link": "https://www.prensalibre.com/economia/mas-lluvia-eleva-el-embalse-de-chixoy-pero-no-basta-para-aumentar-su-generacion/",
-      "fecha": "Sun, 04 Oct 2026 18:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Aunque las lluvias recientes mejoraron las condiciones del embalse de Chixoy, las autoridades mantienen una operación limitada para preservar agua con el fin de continuar aportando al sistema eléctrico en la actualidad y durante la época seca."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC y Ejército realizan operativo de seguridad en la zona 3 capitalina",
-      "link": "https://www.prensalibre.com/guatemala/pnc-y-ejercito-realizan-operativo-de-seguridad-en-la-zona-3-capitalina/",
-      "fecha": "Sun, 04 Oct 2026 17:51:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Agentes de la Policía Nacional Civil (PNC) y elementos del Ejército de Guatemala realizan este domingo 4 de octubre un operativo de seguridad en la zona 3 capitalina, donde efectúan registros e identifican a personas y vehículos para prevenir hechos delictivos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Fuerza de la Superinteligencia&#8221;: El comité dentro de la Casa Blanca que liderará el desarrollo de la IA en EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/fuerza-de-la-superinteligencia-el-comite-dentro-de-la-casa-blanca-que-liderara-el-desarrollo-de-la-ia-en-ee-uu/",
-      "fecha": "Sun, 04 Oct 2026 17:42:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente de EE. UU., Donald Trump, anunció este 4 de octubre la creación de la \"Fuerza de la Superinteligencia\", un comité de coordinación dentro de la Casa Blanca y el Gobierno federal que liderará el desarrollo de la inteligencia artificial (IA) en el país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El largo camino para tratar el cáncer en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/el-largo-camino-para-tratar-el-cancer-en-guatemala/",
-      "fecha": "Sun, 04 Oct 2026 17:18:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Muchos pacientes con cáncer en Guatemala deben sumar viajes, gastos y trámites al tratamiento, mientras servicios especializados, como la radioterapia, siguen concentrados en la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sistema de baja presión mantendrá lluvias este domingo y eleva riesgo de inundaciones y deslizamientos",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/sistema-de-baja-presion-mantendra-lluvias-este-domingo-y-eleva-riesgo-de-inundaciones-y-deslizamientos/",
-      "fecha": "Sun, 04 Oct 2026 17:16:27 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El fenómeno, ubicado al sureste del país, favorecerá el ingreso de abundante humedad y mantendrá condiciones inestables durante la jornada, según el boletín del Insivumeh."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video: doblete de Ana Lucía Martínez le dio la victoria a Cruz Azul ante Necaxa",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/video-doblete-de-ana-lucia-martinez-le-dio-la-victoria-a-cruz-azul-ante-necaxa-breaking/",
-      "fecha": "Sun, 04 Oct 2026 16:48:25 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La delantera guatemalteca abrió el marcador de penal y selló el triunfo en un contragolpe para darle a Cruz Azul la victoria 2-0 sobre Necaxa en la jornada 10 del Apertura 2026 de la Liga BBVA Femenil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Una vez que la ves, no puedes dejar de pensar en ella&#8221;: Ana Mendieta, la artista que desafió límites con su cuerpo y cuya misteriosa muerte sigue dividiendo al mundo del arte",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-vez-que-la-ves-no-puedes-dejar-de-pensar-en-ella-ana-mendieta-la-artista-que-desafio-limites-con-su-cuerpo-y-cuya-misteriosa-muerte-sigue-dividiendo-al-mundo-del-arte/",
-      "fecha": "Sun, 04 Oct 2026 16:21:19 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Exiliada cuando niña exiliada de Cuba, se convirtió en una de las artistas más singulares, memorables y cada vez más celebradas del arte contemporáneo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lula dice estar “muy confiado” de ganar las elecciones presidenciales de Brasil",
-      "link": "https://www.prensalibre.com/internacional/lula-dice-estar-muy-confiado-de-ganar-las-elecciones-presidenciales-de-brasil/",
-      "fecha": "Sun, 04 Oct 2026 15:59:44 +0000",
-      "categoria": "Internacional",
-      "resumen": "Con una elección marcada por el empate técnico, Luiz Inácio Lula da Silva acudió a votar en São Paulo y aseguró estar “muy confiado” de ganar la Presidencia de Brasil frente a Flávio Bolsonaro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala vs. Surinam: fecha, hora y detalles del partido decisivo por la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-surinam-fecha-hora-y-detalles-del-partido-decisivo-por-la-liga-de-naciones-breaking/",
-      "fecha": "Sun, 04 Oct 2026 15:37:16 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Bicolor que llega en la tercera posición del grupo  necesita ganar ante Surinam este lunes en El Trébol para mantener sus opciones de clasificar a los cuartos de final de la Liga de Naciones de Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Entrevisté a Christa Pike hace 20 años y no puedo dejar de pensar en ella",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/entreviste-a-christa-pike-hace-20-anos-y-no-puedo-dejar-de-pensar-en-ella/",
-      "fecha": "Sun, 04 Oct 2026 14:19:36 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La periodista británica Helen Roberts dijo a la BBC que en Christa Pike conviven dos facetas distintas: una personal y una criminal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Secuencia sísmica en Casillas, Santa Rosa, suma 180 eventos en septiembre indica el Insivumeh",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/secuencia-sismica-en-casillas-santa-rosa-suma-180-eventos-en-septiembre-indica-el-insivumeh/",
-      "fecha": "Sun, 04 Oct 2026 14:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh registró 180 sismos durante septiembre en Casillas, Santa Rosa, de los cuales tres fueron percibidos por la población. El evento de mayor magnitud, de 4.1, ocurrió el 30 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala vs. Surinam: las cuentas que necesita la Bicolor para avanzar a cuartos de final",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-surinam-las-cuentas-que-necesita-la-bicolor-para-avanzar-a-cuartos-de-final-breaking/",
-      "fecha": "Sun, 04 Oct 2026 13:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El triunfo ante El Salvador dejó una diferencia de goles favorable que puede ser determinante en la definición del Grupo B."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ana Murga transformó la muerte de su padre en un proyecto que acompaña a unos 500 niños cada semana",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/ana-murga-transformo-la-muerte-de-su-padre-en-un-proyecto-que-acompana-a-unos-500-ninos-cada-semana/",
-      "fecha": "Sun, 04 Oct 2026 13:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El asesinato de Jorge Murga en el 2005 llevó a su hija a preguntarse por el origen de la violencia. De esa búsqueda nació Ambi, una organización que trabaja con niños y familias en Guatemala y que comenzó con una entrega de juguetes en Navidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Está Guatemala preparada para enfrentar el cáncer? Las cifras y fallas que ponen a prueba al sistema de salud",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/esta-guatemala-preparada-para-enfrentar-el-cancer-las-cifras-y-fallas-que-ponen-a-prueba-al-sistema-de-salud/",
-      "fecha": "Sun, 04 Oct 2026 12:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El cáncer es la segunda causa de muerte en Guatemala, pero el país aún enfrenta falta de datos, tratamientos costosos y barreras que dificultan atenderlo a tiempo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuáles son las brechas que persisten en la atención del cáncer en Guatemala y por qué el país no ha avanzado pese a la ley, según experta",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/cuales-son-las-brechas-que-persisten-en-la-atencion-del-cancer-en-guatemala-y-por-que-el-pais-no-ha-avanzado-pese-a-la-ley-segun-experta/",
-      "fecha": "Sun, 04 Oct 2026 12:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "En entrevista, la psicooncóloga Lea Echeverría analiza los avances y las deudas de Guatemala frente al cáncer, dos años después de la entrada en vigencia de la ley."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ley contra el cáncer en Guatemala: qué ha avanzado y qué sigue pendiente a dos años de su vigencia",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/ley-contra-el-cancer-en-guatemala-que-ha-avanzado-y-que-sigue-pendiente-a-dos-anos-de-su-vigencia/",
-      "fecha": "Sun, 04 Oct 2026 11:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Ministerio de Salud prevé iniciar este año un hospital especializado de US$35 millones, cuya construcción tomaría alrededor de tres años."
     },
     {
       "fuente": "Guatemala.com",
