@@ -1,7 +1,191 @@
 {
-  "actualizado": "2026-10-06T02:08:26.707Z",
+  "actualizado": "2026-10-06T09:58:09.869Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ley de Ciberseguridad en Guatemala: qué proponen las iniciativas que analiza el Congreso",
+      "link": "https://www.prensalibre.com/guatemala/politica/ley-de-ciberseguridad-en-guatemala-que-proponen-las-iniciativas-que-analiza-el-congreso/",
+      "fecha": "Tue, 06 Oct 2026 06:12:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Dos propuestas de ley son analizadas en el Congreso con diferencias sobre el papel del Estado, sanciones y aspectos relacionados, mientras expertos cuestionan el modelo que se busca implementar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Reformas a la ley del Inguat reciben dictamen favorable y estas son las modificaciones",
+      "link": "https://www.prensalibre.com/economia/reformas-a-la-ley-del-inguat-reciben-dictamen-favorable-y-estas-son-las-modificaciones/",
+      "fecha": "Tue, 06 Oct 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La propuesta para modernizar el Inguat avanzó en el Congreso con el dictamen de la Comisión de Turismo. Mantiene propuestas base pero incorpora modificaciones en aspectos de gobernanza de la entidad, financiamiento del Foditur, destino de los impuestos y el alcance de beneficios fiscales para atraer inversión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El país del nunca jamás",
+      "link": "https://www.prensalibre.com/opinion/caricatura/el-pais-del-nunca-jamas/",
+      "fecha": "Tue, 06 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quieren acallar voces, pero las multiplican",
+      "link": "https://www.prensalibre.com/opinion/editorial/quieren-acallar-voces-pero-las-multiplican/",
+      "fecha": "Tue, 06 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Culpan a la prensa, en lugar de responder por sus acciones, omisiones y tratos bajo la mesa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué importa hoy en día en la IA? Cuatro perspectivas",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/que-importa-hoy-en-dia-en-la-ia-cuatro-perspectivas/",
+      "fecha": "Tue, 06 Oct 2026 06:05:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "Cerca de tres cuartas partes han rediseñado profundamente sus flujos de trabajo alrededor de la IA."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué es la peste neumónica y cómo sabremos si se está propagando?",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/que-es-la-peste-neumonica-y-como-sabremos-si-se-esta-propagando/",
+      "fecha": "Tue, 06 Oct 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Las autoridades estadounidenses declararon que están siguiendo de cerca el caso de una mujer que murió en Rusia por supuesta peste neumónica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Funcionarios de EE. UU. buscan detalles sobre supuesta muerte por peste en Rusia y cuarentenas",
+      "link": "https://www.prensalibre.com/internacional/funcionarios-de-ee-uu-buscan-detalles-sobre-supuesta-muerte-por-peste-en-rusia-y-cuarentenas/",
+      "fecha": "Tue, 06 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Autoridades estadounidenses siguen el caso de una técnica de laboratorio fallecida en Siberia y las cuarentenas adoptadas, mientras Rusia investiga si estuvo relacionado con la peste neumónica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cincuenta años en un parpadeo",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/cincuenta-anos-en-un-parpadeo/",
+      "fecha": "Tue, 06 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Me detengo a reconocer lo recibido y lo que todavía queda por dar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Huité: las redes antes que el gobierno",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/huite-las-redes-antes-que-el-gobierno/",
+      "fecha": "Tue, 06 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "En comunicación, la incertidumbre reconocida puede conservar la credibilidad, pero una afirmación falsa o precipitada la cuestiona y destruye."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liberen a Stuardo Campo",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/liberen-a-stuardo-campo/",
+      "fecha": "Tue, 06 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El encarcelamiento del exfiscal anticorrupción es una represalia directa por el ejercicio de sus funciones públicas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Hacen el bien las empresas privadas?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/hacen-el-bien-las-empresas-privadas/",
+      "fecha": "Tue, 06 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La empresarialidad cumple una función social relevante"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy martes 6 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-6-de-octubre-de-2026/",
+      "fecha": "Tue, 06 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La investigación de la BBC que reveló cómo Putin está ampliando su residencia en el mar Negro que apenas visita",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-investigacion-de-la-bbc-que-revelo-como-putin-esta-ampliando-su-residencia-en-el-mar-negro-que-apenas-visita/",
+      "fecha": "Tue, 06 Oct 2026 04:11:22 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Imágenes satelitales revelan una importante transformación llevada a cabo en la residencia durante la guerra, mientras que los registros judiciales y los anuncios de empleo con pago en efectivo exponen el rastro documental oculto de este vasto proyecto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala ya conoce a su rival: ¿contra quién jugará la Bicolor en los cuartos de final de la Liga de Naciones?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-ya-conoce-a-su-rival-contra-quien-jugara-la-bicolor-en-los-cuartos-de-final-de-la-liga-de-naciones/",
+      "fecha": "Tue, 06 Oct 2026 04:10:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "¿Cómo clasificó Guatemala a los cuartos de final de la Liga de Naciones de Concacaf y quién será su próximo rival?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Zafarrancho en El Trébol: Guatemala y Surinam terminan el partido con golpes y empujones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/zafarrancho-en-el-trebol-guatemala-y-surinam-terminan-el-partido-con-golpes-y-empujones-breaking/",
+      "fecha": "Tue, 06 Oct 2026 04:01:44 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El triunfo de Guatemala sobre Surinam terminó con tensión, empujones y golpes entre jugadores, lo que obligó a las fuerzas de seguridad a intervenir en la cancha."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Esta es la nómina de seis finalistas para dirigir la Superintendencia de Competencia",
+      "link": "https://www.prensalibre.com/economia/esta-es-la-nomina-de-seis-finalistas-para-dirigir-la-superintendencia-de-competencia/",
+      "fecha": "Tue, 06 Oct 2026 03:34:32 +0000",
+      "categoria": "Economía",
+      "resumen": "El directorio de la Sicom definió la nómina de seis candidatos que competirán por el cargo de superintendente, previo a la entrada en vigor de nuevas facultades de investigación y sanción."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Todos los seres humanos merecemos una segunda oportunidad”: tres historias de recuperación de adicciones en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/todos-los-seres-humanos-merecemos-una-segunda-oportunidad-tres-historias-de-recuperacion-de-adicciones-en-guatemala/",
+      "fecha": "Tue, 06 Oct 2026 03:07:59 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Danilo Pérez, Sergio Chavarría y Danilo Gómez enfrentan procesos de rehabilitación después de años marcados por el alcohol y las drogas. Sus historias fueron presentadas junto con el trabajo que desarrolla una asociación para atender a personas con adicciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. denuncia presiones de China a diputados del Parlacen por visita de canciller taiwanés a Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/politica/ee-uu-denuncia-presiones-de-china-a-diputados-del-parlacen-por-visita-de-canciller-taiwanes-a-guatemala-breaking/",
+      "fecha": "Tue, 06 Oct 2026 03:07:10 +0000",
+      "categoria": "Política",
+      "resumen": "Estados Unidos denunció presiones de China contra diputados del Parlacen durante la reciente visita a Guatemala del canciller de Taiwán, Lin Chia-lung."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué pasó con Vaessen? Los gestos del portero de Surinam hacia los aficionados tras la clasificación de Guatemala",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/que-paso-con-vaessen-los-gestos-del-portero-de-surinam-hacia-los-aficionados-tras-la-clasificacion-de-guatemala/",
+      "fecha": "Tue, 06 Oct 2026 03:03:10 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Tras la clasificación de Guatemala, Etienne Vaessen tuvo un intercambio verbal y de gestos con parte de la afición."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tom Cruise defiende “Digger” tras las críticas negativas y su baja recaudación en taquilla",
+      "link": "https://www.prensalibre.com/vida/escenario/tom-cruise-defiende-digger-tras-las-criticas-negativas-y-su-baja-recaudacion-en-taquilla/",
+      "fecha": "Tue, 06 Oct 2026 03:01:03 +0000",
+      "categoria": "Escenario",
+      "resumen": "La nueva película de Tom Cruise tuvo uno de los estrenos más bajos de su carrera en taquilla, pero el actor acudió a las redes sociales para defender su trabajo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Codeca convoca a manifestaciones y plantea una serie de demandas al Gobierno y al Congreso",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/codeca-convoca-a-manifestaciones-y-plantea-una-serie-de-demandas-al-gobierno-y-al-congreso-breaking/",
+      "fecha": "Tue, 06 Oct 2026 02:26:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Codeca anunció manifestaciones para el 12 de octubre en las cabeceras departamentales del país y planteó una serie de demandas al Gobierno y al Congreso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Matthew Evans: así fue el golazo que valió la clasificación de Guatemala a los cuartos de final",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/matts-evans-asi-fue-el-golazo-que-valio-la-clasificacion-de-guatemala-a-los-cuartos-de-final/",
+      "fecha": "Tue, 06 Oct 2026 02:17:05 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Cuando la eliminación parecía inevitable, Matthew Evans apareció en los descuentos para darle a Guatemala un triunfo histórico y el boleto a la siguiente ronda."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿No más persecuciones?: estas son las nuevas reglas de ICE para sus operativos contra conductores",
+      "link": "https://www.prensalibre.com/internacional/no-mas-persecuciones-estas-son-las-nuevas-reglas-de-ice-para-sus-operativos-contra-conductores/",
+      "fecha": "Tue, 06 Oct 2026 02:04:57 +0000",
+      "categoria": "Internacional",
+      "resumen": "ICE busca reducir los incidentes en carreteras durante operativos contra conductores."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Guatemala inicia temporada de cruceros 2026-2027 y espera 44 buques durante este período",
@@ -17,6 +201,30 @@
       "fecha": "Tue, 06 Oct 2026 02:00:00 +0000",
       "categoria": "Guatemala",
       "resumen": "Uno de los fugados fue encontrado muerto y 10 han sido localizados y devueltos a prisión, incluidos dos señalados como cabecillas del Barrio 18 detenidos este lunes en Quintana Roo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El “Profesor Sandunga” llevará “La Universidad del Perreo” al Coliseo de Puerto Rico: así anuncia Wisin su concierto",
+      "link": "https://www.prensalibre.com/vida/escenario/el-profesor-sandunga-llevara-la-universidad-del-perreo-al-coliseo-de-puerto-rico-asi-anuncia-wisin-su-concierto/",
+      "fecha": "Tue, 06 Oct 2026 01:09:45 +0000",
+      "categoria": "Escenario",
+      "resumen": "El reguetonero puertorriqueño Wisin anunció un concierto en su tierra natal para continuar con la promoción de su nuevo material, “La Universidad del Perreo”."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Pañales”: el código del presunto narco capturado en Guatemala para enviar fentanilo y metanfetamina a EE. UU.",
+      "link": "https://www.prensalibre.com/guatemala/justicia/panales-el-codigo-del-presunto-narco-capturado-en-guatemala-para-enviar-fentanilo-y-metanfetamina-a-ee-uu/",
+      "fecha": "Tue, 06 Oct 2026 01:07:06 +0000",
+      "categoria": "Justicia",
+      "resumen": "Agencias de seguridad de EE. UU. detectaron un código utilizado por una red internacional de narcotráfico para hablar sobre la seguridad de sus cargamentos de drogas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Accidente en Jalapa: MP confirma detención de conductora y analiza video del atropello",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/accidente-en-jalapa-mp-confirma-detencion-de-conductora-y-analiza-video-del-atropello/",
+      "fecha": "Tue, 06 Oct 2026 00:44:47 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Fiscalía dio nuevos detalles del atropello que causó la muerte de Olga Lidia Ramírez en Jalapa, confirmó la hora del hecho, quién conducía el vehículo y cuál es la situación de la sindicada."
     },
     {
       "fuente": "Prensa Libre",
@@ -76,7 +284,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Guatemala vence a Surinam con gol de Matts Evans y hace historia en la Liga de Naciones",
+      "titulo": "Guatemala vence a Surinam con gol de Evans y hace historia en la Liga de Naciones",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guatemala-vs-surinam-siga-el-partido-por-el-pase-a-los-cuartos-de-final-de-la-liga-de-naciones/",
       "fecha": "Mon, 05 Oct 2026 23:00:00 +0000",
       "categoria": "Fútbol Nacional",
@@ -609,214 +817,6 @@
       "fecha": "Mon, 05 Oct 2026 06:04:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Las palabras en sí no son malas. Se vuelven a causa del uso otorgado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Enade 2026, a paso seguro",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/enade-2026-a-paso-seguro/",
-      "fecha": "Mon, 05 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La seguridad integral es el camino a la prosperidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Más gasto, menos resultados",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/mas-gasto-menos-resultados/",
-      "fecha": "Mon, 05 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Un gasto enorme para 2027 exige resultados que justifiquen los impuestos de los guatemaltecos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Designación del diputado Menkos al banco central",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/designacion-del-diputado-menkos-al-banco-central/",
-      "fecha": "Mon, 05 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Ha generado polémica porque es un diputado electo al Congreso de la República."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy lunes 5 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-5-de-octubre-de-2026/",
-      "fecha": "Mon, 05 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El papel del juzgador en una sociedad democrática",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-papel-del-juzgador-en-una-sociedad-democratica/",
-      "fecha": "Mon, 05 Oct 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Los que dan vida a la ley son los juzgadores a través de sus fallos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta El Chilero: vehículos circulan hasta 70% encima de la velocidad segura estimada",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/vuelta-el-chilero-vehiculos-circulan-hasta-70-encima-de-la-velocidad-segura-estimada/",
-      "fecha": "Mon, 05 Oct 2026 06:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Una auditoría vial en la Vuelta El Chilero reveló que los vehículos circulan por la curva a velocidades superiores a los 50 km/h considerados técnicamente seguros para maniobrar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo se compara Flávio Bolsonaro con su padre Jair y cuánto cambia el duelo con Lula por la presidencia de Brasil 4 años después",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-se-compara-flavio-bolsonaro-con-su-padre-jair-y-cuanto-cambia-el-duelo-con-lula-por-la-presidencia-de-brasil-4-anos-despues/",
-      "fecha": "Mon, 05 Oct 2026 03:39:11 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El senador derechista pasa fortalecido al balotaje contra el presidente de izquierda tras obtener más votos en la primera vuelta contra varios pronósticos, pero la elección sigue abierta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comunicaciones golea 3-0 a Suchitepéquez y respira en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-golea-3-0-a-suchitepequez-y-respira-en-el-apertura-2026-breaking/",
-      "fecha": "Mon, 05 Oct 2026 02:55:48 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los cremas dominaron de principio a fin en el estadio Cementos Progreso con goles de Anderson Ortiz, Elsar Cruz  y William Duarte para sumar tres puntos importantes que les permiten alejarse de la zona comprometida de la tabla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Bella Ciao”: cuál es el origen del himno italiano que ganó popularidad con “La Casa de Papel”",
-      "link": "https://www.prensalibre.com/vida/escenario/bella-ciao-cual-es-el-origen-del-himno-italiano-que-gano-popularidad-con-la-casa-de-papel/",
-      "fecha": "Mon, 05 Oct 2026 02:11:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El origen del himno de resistencia “Bella Ciao” sigue siendo motivo de debate entre historiadores. Esto es lo que se sabe sobre su surgimiento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guastatoya vence 2-1 a Aurora y se instala como líder del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guastatoya-vence-2-1-a-aurora-y-se-instala-como-lider-del-apertura-2026-breaking/",
-      "fecha": "Mon, 05 Oct 2026 01:06:30 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Con goles de Ariel Lon y Cristopher Ramírez, Guastatoya superó 2-1 a Aurora y tomó el liderato provisional del Apertura 2026 en el estadio David Cordón Hichos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Nicola Coughlan deja &#8220;Bridgerton&#8221;? La actriz revela la breve participación que tendrá en la nueva temporada",
-      "link": "https://www.prensalibre.com/vida/escenario/nicola-coughlan-deja-bridgerton-la-actriz-revela-la-breve-participacion-que-tendra-en-la-nueva-temporada/",
-      "fecha": "Mon, 05 Oct 2026 00:33:37 +0000",
-      "categoria": "Escenario",
-      "resumen": "Nicola Coughlan, una de las caras más famosas de la serie de Netflix “Bridgerton”, confirmó que sus escenas se redujeron significativamente en la nueva temporada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Luis Fernando Tena confirma dudas y bajas para el partido ante Surinam por la clasificación",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/luis-fernando-tena-confirma-dudas-y-bajas-antes-del-partido-decisivo-ante-surinam-por-la-clasificacion-breaking/",
-      "fecha": "Mon, 05 Oct 2026 00:28:18 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El técnico lamentó la baja de Óscar Santis por lesión y confirmó dudas en el plantel antes del partido decisivo ante Surinam por la clasificación a cuartos de final."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones en Brasil: Tarcísio de Freitas es reelegido gobernador de São Paulo y Flávio Bolsonaro lidera la presidencial",
-      "link": "https://www.prensalibre.com/internacional/elecciones-en-brasil-tarcisio-de-freitas-es-reelegido-gobernador-de-sao-paulo-y-flavio-bolsonaro-lidera-la-presidencial/",
-      "fecha": "Mon, 05 Oct 2026 00:18:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Brasil celebró este domingo elecciones presidenciales y regionales, con la gobernación del estado más poblado ya definida y el conteo de votos por la Presidencia aún en marcha."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Comunicaciones vs. Suchitepéquez: siga el minuto a minuto de la jornada 12",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-comunicaciones-vs-suchitepequez-siga-el-minuto-a-minuto-de-la-jornada-12-breaking/",
-      "fecha": "Mon, 05 Oct 2026 00:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los cremas reciben a los venados este domingo a las 7:00 PM en el estadio Cementos Progreso en un partido donde Comunicaciones buscará sumar de local para salir de la zona del descenso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asociaciones de prensa piden esclarecer crimen en contra del periodista Evelio López en Huehuetenango",
-      "link": "https://www.prensalibre.com/guatemala/justicia/asociaciones-de-prensa-piden-esclarecer-crimen-en-contra-del-periodista-evelio-lopez-en-huehuetenango/",
-      "fecha": "Sun, 04 Oct 2026 23:34:22 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Asociación de Prensa de Huehuetenango presentó una denuncia ante el Ministerio Público para exigir que se esclarezca el crimen del periodista Evelio Lisandro López Sánchez, ocurrido la noche del viernes 2 de octubre en San Pedro Necta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El propano vuelve a encarecerse en Guatemala y suma tres aumentos durante el 2026, estos son los precios",
-      "link": "https://www.prensalibre.com/economia/el-propano-vuelve-a-encarecerse-en-guatemala-y-suma-tres-aumentos-durante-el-2026-estos-son-los-precios/",
-      "fecha": "Sun, 04 Oct 2026 23:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Los consumidores pagan desde este domingo 4 de octubre, entre Q7 y Q28 más por cilindro de gas propano, según la presentación, derivado de la nueva alza."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ricardo Arjona recuerda sus colaboraciones mientras “Amor Factura” supera los 4 millones de vistas en YouTube",
-      "link": "https://www.prensalibre.com/vida/escenario/ricardo-arjona-recuerda-sus-colaboraciones-mientras-amor-factura-supera-los-4-millones-de-vistas-en-youtube/",
-      "fecha": "Sun, 04 Oct 2026 22:37:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El cantautor guatemalteco habla de la conexión que ha marcado sus colaboraciones con Gaby Moreno, Paquita la del Barrio y, ahora, con Grupo Firme."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Guastatoya vs. Aurora FC: siga el minuto a minuto de la jornada 12 del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guastatoya-vs-aurora-fc-siga-el-minuto-a-minuto-de-la-jornada-12-del-apertura-2026-breaking/",
-      "fecha": "Sun, 04 Oct 2026 22:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los pecho amarillo reciben a los aurinegros este domingo a las 5:00 PM en el estadio David Cordón Hichos con Guastatoya buscando mantenerse en la pelea por el liderato del torneo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jesús confirma que Cristiano Ronaldo “volverá cuando quiera” a la selección de Portugal",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/jesus-confirma-que-cristiano-ronaldo-volvera-cuando-quiera-a-la-seleccion-de-portugal-breaking/",
-      "fecha": "Sun, 04 Oct 2026 21:57:12 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Jorge Jesús destaca la importancia del delantero portugués y asegura que su regreso a la selección dependerá únicamente de la decisión de Cristiano Ronaldo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Virgen del Rosario recorre el Centro Histórico: cómo es el anda, qué imágenes la acompañan, recorrido y cómo seguirla en directo",
-      "link": "https://www.prensalibre.com/vida/escenario/virgen-del-rosario-recorre-el-centro-historico-como-es-el-anda-que-imagenes-la-acompanan-recorrido-y-como-seguirla-en-directo/",
-      "fecha": "Sun, 04 Oct 2026 21:33:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Luego de la eucaristía, Nuestra Señora del Rosario emprendió su recorrido por las calles y avenidas del Centro Histórico, acompañada de imágenes de otros santos de la Iglesia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Georgina Rodríguez se une a la polémica con Portugal y lanza un dardo a Jorge Jesús",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/georgina-rodriguez-se-une-a-la-polemica-con-portugal-y-lanza-un-dardo-a-jorge-jesus-breaking/",
-      "fecha": "Sun, 04 Oct 2026 21:30:08 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La esposa de Cristiano Ronaldo se pronunció en redes sociales y apuntó directamente contra Jorge Jesús en medio de la polémica con la selección portuguesa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Partido político XGuate celebra su primera asamblea y elige a Edmond Mulet como secretario general",
-      "link": "https://www.prensalibre.com/guatemala/politica/partido-politico-xguate-celebra-su-primera-asamblea-y-elige-a-edmond-mulet-como-secretario-general/",
-      "fecha": "Sun, 04 Oct 2026 21:30:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El partido XGuate – Por Guate – celebró este domingo 4 de octubre su primera Asamblea General Ordinaria, en la que Edmond Mulet fue elegido secretario general y se integraron el Comité Ejecutivo Nacional y los órganos permanentes de la organización política."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "CC ordena al Gobierno intervenir ante emergencia por el río Pinula en Villa Hermosa I",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/cc-ordena-al-gobierno-intervenir-ante-emergencia-por-el-rio-pinula-en-villa-hermosa-i/",
-      "fecha": "Sun, 04 Oct 2026 21:29:30 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Corte de Constitucionalidad ordena al Ejecutivo adoptar medidas urgentes para proteger a las familias afectadas por la crecida del río Pínula en Villa Hermosa I, San Miguel Petapa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto 2027: alertan por 2 mil nuevas plazas y mayor deuda en año electoral",
-      "link": "https://www.prensalibre.com/economia/presupuesto-2027-alertan-por-2-mil-nuevas-plazas-y-mayor-deuda-en-ano-electoral/",
-      "fecha": "Sun, 04 Oct 2026 20:33:41 +0000",
-      "categoria": "Economía",
-      "resumen": "La Red de Centros de Pensamiento advierte que el gasto aumentaría 14%, la emisión de bonos alcanzaría Q42 mil 750 millones y más de la mitad de ese endeudamiento financiaría el funcionamiento. También cuestiona el aumento de recursos para dependencias del Ejecutivo y los Codedes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvias en Guatemala: suelos alcanzan 90% de saturación en tres departamentos y elevan los riesgos",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-en-guatemala-suelos-alcanzan-90-de-saturacion-en-tres-departamentos-y-elevan-los-riesgos/",
-      "fecha": "Sun, 04 Oct 2026 20:25:01 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Las lluvias continuarán durante el fin de semana y encuentran terrenos con altos niveles de humedad en varios municipios. El Insivumeh advierte sobre posibles crecidas de ríos e inestabilidad del suelo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Fueron errores groseros&#8221;: Rafa Márquez tras la derrota 3-0 de México ante Estados Unidos",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/fueron-errores-groseros-rafa-marquez-tras-la-derrota-3-0-de-mexico-ante-estados-unidos-breaking/",
-      "fecha": "Sun, 04 Oct 2026 20:22:23 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Rafael Márquez acumula el peor inicio de un director técnico mexicano en los últimos 47 años tras no poder ganar en sus primeros tres partidos al frente del 'Tri' con dos empates y una derrota ante Estados Unidos."
     },
     {
       "fuente": "Guatemala.com",
