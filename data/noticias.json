@@ -1,7 +1,223 @@
 {
-  "actualizado": "2026-10-07T16:14:32.435Z",
+  "actualizado": "2026-10-07T21:51:47.330Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Ya extraño vestir la celeste y blanca”: el emotivo mensaje de Messi tras despedirse de Argentina",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/ya-extrano-vestir-la-celeste-y-blanca-el-emotivo-mensaje-de-messi-tras-despedirse-de-argentina/",
+      "fecha": "Wed, 07 Oct 2026 21:20:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Horas después de despedirse de la selección argentina, Lionel Messi compartió un emotivo mensaje en sus redes sociales en el que reconoció que ya extraña vestir la camiseta albiceleste."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Adiós al intérprete de &#8220;Mi viejo&#8221;: Piero De Benedictis fallece a los 81 años",
+      "link": "https://www.prensalibre.com/vida/escenario/adios-al-interprete-de-mi-viejo-piero-de-benedictis-fallece-a-los-81-anos/",
+      "fecha": "Wed, 07 Oct 2026 21:10:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La familia del artista  argentino italiano que se encontraba hospitalizado, dio a conocer la noticia de su muerte a través de las redes sociales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿De qué murió Eva Marie Saint, la ganadora del Óscar que tenía 102 años?",
+      "link": "https://www.prensalibre.com/vida/escenario/de-que-murio-eva-marie-saint-la-ganadora-del-oscar-que-tenia-102-anos/",
+      "fecha": "Wed, 07 Oct 2026 20:40:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Ganadora de un Óscar y un premio Emmy, Eva Marie Saint fue una de las grandes actrices de la época dorada de Hollywood."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Freddie Jackson: qué se sabe de su muerte y de la enfermedad que padecía",
+      "link": "https://www.prensalibre.com/vida/escenario/freddie-jackson-que-se-sabe-de-su-muerte-y-de-la-enfermedad-que-padecia/",
+      "fecha": "Wed, 07 Oct 2026 20:12:24 +0000",
+      "categoria": "Escenario",
+      "resumen": "El cantante estadounidense de baladas Freddie Jackson murió a los 69 años y enfrentaba una enfermedad que él mismo había dado a conocer en sus redes sociales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estado de Guatemala ofrece disculpas a líderes indígenas criminalizados por encabezar protestas en el 2023",
+      "link": "https://www.prensalibre.com/guatemala/politica/estado-de-guatemala-ofrece-disculpas-a-lideres-indigenas-criminalizados-por-encabezar-protestas-en-el-2023/",
+      "fecha": "Wed, 07 Oct 2026 20:06:34 +0000",
+      "categoria": "Política",
+      "resumen": "El Estado de Guatemala ofreció una disculpa pública a autoridades ancestrales y líderes indígenas criminalizados por encabezar las protestas en defensa de los resultados electorales del 2023."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Muere Maricarmen Abascal, la anciana de 87 años cuyo desahucio provocó una ola de protestas en toda España por la crisis de la vivienda",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/muere-maricarmen-abascal-la-anciana-de-87-anos-cuyo-desahucio-provoco-una-ola-de-protestas-en-toda-espana-por-la-crisis-de-la-vivienda/",
+      "fecha": "Wed, 07 Oct 2026 19:57:09 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Abascal falleció en el hospital Gregorio Marañón de la capital española, en el que había sido ingresada tras ser desalojada de su vivienda el pasado 23 de septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bernardo Arévalo en informe defiende nombramiento de Jonathan Menkos en el Banguat ante amparo del Cacif",
+      "link": "https://www.prensalibre.com/guatemala/politica/bernardo-arevalo-en-informe-defiende-nombramiento-de-jonathan-menkos-en-el-banguat-ante-amparo-del-cacif-breaking/",
+      "fecha": "Wed, 07 Oct 2026 19:10:05 +0000",
+      "categoria": "Política",
+      "resumen": "En informe circunstanciado a la CC, Bernardo Arévalo defiende el nombramiento de Jonathan Menkos en el Banguat ante amparo del Cacif."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Peste neumónica en Siberia: ¿Es posible que la plaga haya escapado de un laboratorio en Rusia?",
+      "link": "https://www.prensalibre.com/internacional/peste-neumonica-en-siberia-es-posible-que-la-plaga-haya-escapado-de-un-laboratorio-en-rusia/",
+      "fecha": "Wed, 07 Oct 2026 19:07:32 +0000",
+      "categoria": "Internacional",
+      "resumen": "EE. UU. sigue de cerca la información procedente de Rusia sobre la muerte de una investigadora de un laboratorio especializado y las medidas de cuarentena."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Acampa en el Zoológico La Aurora: una experiencia nocturna de aprendizaje, aventura y diversión familiar",
+      "link": "https://www.prensalibre.com/vida/escenario/acampa-en-el-zoologico-la-aurora-una-experiencia-nocturna-de-aprendizaje-aventura-y-diversion-familiar/",
+      "fecha": "Wed, 07 Oct 2026 19:02:42 +0000",
+      "categoria": "Escenario",
+      "resumen": "Una noche de diversión y exploración espera a niños y adultos en la “Noche de campamento en el Zoo”, una experiencia diferente para disfrutar en familia. Estos son los detalles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El señor del espejo humeante: ¿qué representa la instalación creada por Selvin García?",
+      "link": "https://www.prensalibre.com/vida/el-senor-del-espejo-humeante-que-representa-la-instalacion-creada-por-selvin-garcia/",
+      "fecha": "Wed, 07 Oct 2026 18:49:04 +0000",
+      "categoria": "Vida",
+      "resumen": "La obra, que  está  expuesta en el Proyecto Cultural Poporopo,  representa a un ser que cuestiona a quien lo ve."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inflación en Guatemala se acelera y alcanza 4.69% en septiembre del 2026",
+      "link": "https://www.prensalibre.com/economia/inflacion-en-guatemala-se-acelera-y-alcanza-4-69-en-septiembre-del-2026/",
+      "fecha": "Wed, 07 Oct 2026 18:48:41 +0000",
+      "categoria": "Economía",
+      "resumen": "La inflación en Guatemala cerró septiembre en 4.69%, lo que refleja una aceleración en el nivel general de precios de la economía, informó este miércoles una fuente oficial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué dicen los guatemaltecos sobre los supuestos actos de racismo en el partido contra Surinam",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/que-dicen-los-guatemaltecos-sobre-los-supuestos-actos-de-racismo-en-el-partido-contra-surinam/",
+      "fecha": "Wed, 07 Oct 2026 18:10:10 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Aficionados de Guatemala reaccionaron en redes a la polémica que rodeó el partido de la selección contra Surinam en la Liga de Naciones de Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Copa Oro 2027: las dos vías que tiene la Selección de Guatemala para conseguir la clasificación",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/copa-oro-2027-las-dos-vias-que-tiene-la-seleccion-de-guatemala-para-conseguir-la-clasificacion/",
+      "fecha": "Wed, 07 Oct 2026 18:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Bicolor ya conoce lo que está en juego ante Canadá. Superar la serie de cuartos de final le permitirá avanzar a las semifinales de la Liga de Naciones  y asegurar su clasificación al torneo más importante de selecciones de la región."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Avión agrícola se accidenta en finca de Tiquisate, Escuintla: piloto resulta ileso",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/avion-agricola-se-accidenta-en-finca-de-tiquisate-escuintla-piloto-resulta-ileso-breaking/",
+      "fecha": "Wed, 07 Oct 2026 17:57:48 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Aeronáutica reporta accidente de avión agrícola en Tiquisate, Escuintla, y afirma que investigará lo sucedido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La fortuna de Lionel Messi: ¿Cuánto asciende su patrimonio y cómo logró construir este imperio?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/la-fortuna-de-lionel-messi-cuanto-asciende-su-patrimonio-y-como-logro-construir-este-imperio/",
+      "fecha": "Wed, 07 Oct 2026 17:51:18 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La estrategia de Messi está cambiando y el argentino está formando una cartera de activos con hoteles, propiedades, producciones, restaurantes y clubes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La &#8220;casa del horror&#8221;: la pareja acusada en California de abusar en su mansión de al menos 14 niños nacidos mediante gestación subrogada",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-casa-del-horror-la-pareja-acusada-en-california-de-abusar-en-su-mansion-de-al-menos-14-ninos-nacidos-mediante-gestacion-subrogada/",
+      "fecha": "Wed, 07 Oct 2026 17:38:12 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Guojun Xuan y Silvia Zhang fueron arrestados después de que 21 niños fueran retirados de su custodia el año pasado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Las mujeres ayudan”: Shakira busca capacitar a un millón de mujeres latinas en tecnología e inteligencia artificial",
+      "link": "https://www.prensalibre.com/vida/escenario/las-mujeres-ayudan-shakira-busca-capacitar-a-un-millon-de-mujeres-latinas-en-tecnologia-e-inteligencia-artificial/",
+      "fecha": "Wed, 07 Oct 2026 17:24:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Shakira y Amazon Music lanzan un programa gratuito de capacitación para impulsar a mujeres emprendedoras y brindarles mejores oportunidades profesionales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tormenta tropical Isaías se convertirá en huracán el viernes y estos son los riesgos para EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/tormenta-tropical-isaias-se-convertira-en-huracan-el-viernes-y-estos-son-los-riesgos-para-ee-uu-breaking/",
+      "fecha": "Wed, 07 Oct 2026 17:02:30 +0000",
+      "categoria": "Internacional",
+      "resumen": "El NHC ha informado que la tormenta tropical Isaías se fortalecerá esta semana hasta ser un huracán el próximo viernes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De vuelta a San Cristóbal con amplio portafolio y accesorios",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/de-vuelta-a-san-cristobal-con-amplio-portafolio-y-accesorios/",
+      "fecha": "Wed, 07 Oct 2026 16:52:33 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Pinturas Volcán continúa ampliando su presencia en Guatemala con la apertura de una nueva tienda en Plaza Doce 32, San Cristóbal, un punto estratégico para atender a hogares, profesionales y empresas de este sector de la ciudad y también con la oportunidad de formar parte del Club del Pintor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Daniel Dueñas llega a Guatemala con su gira &#8220;Despierta tu fuego World Tour&#8221;",
+      "link": "https://www.prensalibre.com/vida/escenario/daniel-duenas-llega-a-guatemala-con-su-gira-despierta-tu-fuego-world-tour/",
+      "fecha": "Wed, 07 Oct 2026 16:46:29 +0000",
+      "categoria": "Escenario",
+      "resumen": "El conferencista y creador de contenido Daniel Dueñas llegará por primera vez a Guatemala con “Despierta tu fuego World Tour”, una experiencia presencial que busca trasladar al escenario el mensaje de liderazgo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué Christa Pike sobrevivió a su ejecución, según su defensa (y qué ocurrirá ahora)",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-christa-pike-sobrevivio-a-su-ejecucion-segun-su-defensa-y-que-ocurrira-ahora/",
+      "fecha": "Wed, 07 Oct 2026 16:44:48 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Pike está despierta y hablando en un hospital de Tennessee tras un intento de ejecución."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos presuntos pandilleros son capturados con arma y motocicleta con reporte de robo",
+      "link": "https://www.prensalibre.com/guatemala/justicia/dos-presuntos-pandilleros-son-capturados-con-arma-y-motocicleta-con-reporte-de-robo-breaking/",
+      "fecha": "Wed, 07 Oct 2026 16:37:10 +0000",
+      "categoria": "Justicia",
+      "resumen": "En un allanamiento en Escuintla, la Policía Nacional Civil (PNC) capturó a dos presuntos pandilleros señalados de robo e investigados por asaltos y extorsiones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién es “Hielero”: el extraditado señalado de operar para los Pochos y el entorno político que aparece alrededor de la estructura",
+      "link": "https://www.prensalibre.com/guatemala/justicia/quien-es-hielero-el-extraditado-senalado-de-operar-para-los-pochos-y-el-entorno-politico-que-aparece-alrededor-de-la-estructura/",
+      "fecha": "Wed, 07 Oct 2026 16:35:53 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Juan Carlos Cruz Ovalle, “Hielero”, es señalado como operador de Los Pochos, estructura ligada por EE. UU. con alcaldes y otros actores políticos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El show de drones en la despedida de Messi: el insólito blooper que desató memes y abucheos",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-show-de-drones-en-la-despedida-de-messi-el-insolito-blooper-que-desato-memes-y-abucheos/",
+      "fecha": "Wed, 07 Oct 2026 16:30:22 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El espectáculo de drones organizado por la AFA provocó el enojo de la afición albiceleste, ya que lo que se dibujó en el cielo fue el patrocinio de una aseguradora."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso CHN: Sala rechaza recusación del MP y juez que otorgó medidas sustitutivas a Pedro Duque seguirá en el proceso",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-chn-sala-rechaza-recusacion-del-mp-y-juez-que-otorgo-medidas-sustitutivas-a-pedro-duque-seguira-en-el-proceso/",
+      "fecha": "Wed, 07 Oct 2026 16:24:51 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La Sala determinó que la inconformidad del MP con las decisiones del juez Mario Hichos no constituye una causa para apartarlo del caso CHN."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala vs. Canadá: fechas de los cuartos de final de la Liga de Naciones Concacaf",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-fechas-de-los-cuartos-de-final-de-la-liga-de-naciones-concacaf-breaking/",
+      "fecha": "Wed, 07 Oct 2026 16:15:12 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Bicolor enfrentará a Canadá en una serie de ida y vuelta que definirá su boleto a las semifinales y a la Copa Oro 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jonathan Moncada deja Comunicaciones: el club confirma la salida del volante nicaragüense",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/jonathan-moncada-deja-comunicaciones-el-club-confirma-la-salida-del-volante-nicaraguense/",
+      "fecha": "Wed, 07 Oct 2026 16:14:55 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Comunicaciones FC dio de baja a un mediocampista nicaragüense este miércoles 7 de octubre, luego de disputar ocho partidos con el conjunto albo durante el Torneo Apertura 2026."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Zelaya promociona su primera gira de teatros: fechas, entradas y otros detalles del “Camino a Júpiter”",
@@ -611,14 +827,6 @@
       "resumen": "Un padre descubrió que tenía cáncer tras recibir una patada accidental en los testículos. A partir de esa experiencia, se dio cuenta de la necesidad que tienen los hombres de hablar de sus problemas."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Hugo Girón: CSJ conoce informe de magistrado Edwin Zaldaña, pero no toma medidas por la camioneta del OJ involucrada en accidente",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-hugo-giron-csj-conoce-informe-de-magistrado-edwin-zaldana-pero-no-toma-medidas-por-la-camioneta-del-oj-involucrada-en-accidente/",
-      "fecha": "Tue, 06 Oct 2026 18:26:13 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La CSJ conoció el informe del magistrado, pero no continuó con el caso porque el MP ya investiga el accidente en el que murió el músico Hugo Girón."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Bancos cerrarán a nivel nacional por el Día de la Raza 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/bancos-guatemala-cerraran-octubre-2026-dia-de-la-raza.html",
@@ -627,220 +835,12 @@
       "resumen": "Bancos y otras instituciones financieras cerrarán por el Día de la Raza 2026 en Guatemala. ¡Conoce dónde consultar las agencias que estarán abiertas!\nThe post Bancos cerrarán a nivel nacional por el Día de la Raza 2026 appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "“El mejor de todos nos hizo mejores a todos”: el emotivo homenaje de la AFA que despide a Messi",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-mejor-de-todos-nos-hizo-mejores-a-todos-el-emotivo-homenaje-de-la-afa-que-despide-a-messi/",
-      "fecha": "Tue, 06 Oct 2026 18:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El estadio Monumental será el escenario de una noche histórica para el futbol argentino. Lionel Messi pondrá fin a su recorrido con la selección nacional tras una carrera repleta de récords, títulos y momentos inolvidables."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Verificamos por usted: ¿Una segunda persona falleció en Rusia por la &#8220;peste neumónica&#8221;?",
-      "link": "https://www.prensalibre.com/internacional/verificamos-por-usted-una-segunda-persona-fallecio-en-rusia-por-la-peste-neumonica/",
-      "fecha": "Tue, 06 Oct 2026 17:57:43 +0000",
-      "categoria": "Internacional",
-      "resumen": "The Daily Mail ha dicho que medios de Rusia podrían haber confirmado la segunda muerte a causa de la \"peste neumónica\", que ha generado incertidumbre a nivel internacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“No merecía morir así”: Evelio López, entre el periodismo, el fútbol y la ayuda comunitaria",
-      "link": "https://www.prensalibre.com/guatemala/justicia/no-merecia-morir-asi-evelio-lopez-entre-el-periodismo-el-futbol-y-la-ayuda-comunitaria/",
-      "fecha": "Tue, 06 Oct 2026 17:42:39 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Evelio López era árbitro, periodista y muy querido en su comunidad. Su muerte dolió mucho en San Pedro Necta, donde vecinos protestaron e incendiaron una subestación. Esta es su historia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ejército mexicano se despliega en la frontera tras supuesto ataque a Estados Unidos: Esto se sabe",
-      "link": "https://www.prensalibre.com/internacional/ejercito-mexicano-se-despliega-en-la-frontera-tras-supuesto-ataque-a-estados-unidos-esto-se-sabe/",
-      "fecha": "Tue, 06 Oct 2026 17:39:08 +0000",
-      "categoria": "Internacional",
-      "resumen": "Sheinbaum ordenó el despliegue de 500 militares, helicópteros y equipo antidrones en Tamaulipas tras activar el Operativo Espejo en la frontera con EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guillermo y Harry podrían reencontrarse para recordar a la princesa Diana tras años distanciados: esto se sabe",
-      "link": "https://www.prensalibre.com/vida/escenario/guillermo-y-harry-podrian-reencontrarse-para-recordar-a-la-princesa-diana-tras-anos-distanciados-esto-se-sabe/",
-      "fecha": "Tue, 06 Oct 2026 17:35:47 +0000",
-      "categoria": "Escenario",
-      "resumen": "Una ceremonia para conmemorar el 30 aniversario de la muerte de Diana de Gales podría propiciar el reencuentro entre los príncipes Guillermo y Harry."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC reporta 260 homicidios en septiembre en Guatemala y revela los días con mayor incidencia criminal",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/pnc-reporta-260-homicidios-en-septiembre-en-guatemala-y-revela-los-dias-con-mayor-incidencia-criminal-breaking/",
-      "fecha": "Tue, 06 Oct 2026 17:27:59 +0000",
-      "categoria": "Sucesos",
-      "resumen": "La PNC detalla qué departamentos registraron más homicidios en Guatemala durante septiembre de 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pantallas, alimentos ultraprocesados y TDAH infantil: qué relación encontró un nuevo estudio",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/pantallas-alimentos-ultraprocesados-y-tdah-infantil-que-relacion-encontro-un-nuevo-estudio/",
-      "fecha": "Tue, 06 Oct 2026 17:10:48 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Un estudio relaciona el uso prolongado de pantallas y el consumo de alimentos ultraprocesados con más síntomas de TDAH infantil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Detienen al exjefe de inteligencia de Alemania por espionaje y traición",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/detienen-al-exjefe-de-inteligencia-de-alemania-por-espionaje-y-traicion/",
-      "fecha": "Tue, 06 Oct 2026 17:05:24 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "August Hanning está acusado de substraer información clasificada de la inteligencia alemana y entregarla a una potencia extranjera."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Gracias Argentina”: el mensaje de Messi antes de su último partido con la Albiceleste",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/gracias-argentina-el-mensaje-de-messi-antes-de-su-ultimo-partido-con-la-albiceleste/",
-      "fecha": "Tue, 06 Oct 2026 16:42:13 +0000",
-      "categoria": "Deportes",
-      "resumen": "Lionel Messi se despedirá este martes de la selección argentina en un partido cargado de emoción. El capitán albiceleste pondrá fin a una histórica trayectoria de más de dos décadas defendiendo los colores de su país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué zonas de EE. UU. registrarán fuertes lluvias si se forma la tormenta tropical Isaías en el Atlántico",
-      "link": "https://www.prensalibre.com/internacional/que-zonas-de-ee-uu-registraran-fuertes-lluvias-si-se-forma-la-tormenta-tropical-isaias-en-el-atlantico/",
-      "fecha": "Tue, 06 Oct 2026 16:40:03 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una tormenta tropical podría formarse en el transcurso de esta semana en el Golfo, lo que podría generar lluvias y riesgo de inundaciones en EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Merecíamos ganar”: Tena habla después del dramático triunfo de Guatemala ante Surinam",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/mereciamos-ganar-tena-habla-despues-del-dramatico-triunfo-de-guatemala-ante-surinam/",
-      "fecha": "Tue, 06 Oct 2026 16:30:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "\"El premio es justo\", aseguró Luis Fernando Tena tras la dramática victoria de Guatemala sobre Surinam. La Bicolor encontró el gol de la clasificación en el tiempo de reposición y selló su pase como líder de grupo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Retiran bloqueos en las rutas Interamericana y al suroccidente; continúa interrupción del paso en la ruta al Atlántico",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-impiden-el-paso-de-vehiculos-en-las-rutas-al-atlantico-interamericana-y-al-suroccidente-breaking/",
-      "fecha": "Tue, 06 Oct 2026 16:20:36 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Bloqueos en Zacapa, San Lucas Sacatepéquez y San Marcos han afectado la movilidad en Guatemala este martes 6 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una nueva forma de disfrutar de la compañía de Ricky y Luna",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-nueva-forma-de-disfrutar-de-la-compania-de-ricky-y-luna/",
-      "fecha": "Tue, 06 Oct 2026 16:05:48 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Los personajes más queridos del Instituto de Recreación de los Trabajadores de la Empresa Privada de Guatemala (IRTRA), que ya forman parte del corazón de tantas familias guatemaltecas, ahora también llegan en forma de paleta de helado."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Así puedes ver a Ximena Carrillo en la preliminar de Miss Grand International 2026",
       "link": "https://www.guatemala.com/noticias/sociedad/cuando-donde-ver-ximena-carrillo-miss-grand-international-2026.html",
       "fecha": "Tue, 06 Oct 2026 16:02:06 +0000",
       "categoria": "Sociedad",
       "resumen": "Se acerca la competencia de trajes nacionales, preliminar y final de Miss Grand International. Conoce dónde ver la participación de Ximena Carrillo.\nThe post Así puedes ver a Ximena Carrillo en la preliminar de Miss Grand International 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PEG-6 en Guatemala: licitan 600 MW de energía firme y proyectos de gas podrían superar US$1 mil millones",
-      "link": "https://www.prensalibre.com/economia/peg-6-en-guatemala-licitan-600-mw-de-energia-firme-y-proyectos-de-gas-podrian-superar-us1-mil-millones/",
-      "fecha": "Tue, 06 Oct 2026 15:50:50 +0000",
-      "categoria": "Economía",
-      "resumen": "El aumento del consumo eléctrico obliga al país a anticipar nuevas fuentes de generación para garantizar el abastecimiento a partir del 2032, uno de los objetivos que busca el lanzamiento de la nueva licitación PEG-6."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Argentina vs. Benín hoy: hora, canal y dónde ver en vivo el partido de despedida de Lionel Messi",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/argentina-vs-benin-hoy-hora-canal-y-donde-ver-en-vivo-el-partido-de-despedida-de-lionel-messi/",
-      "fecha": "Tue, 06 Oct 2026 15:49:16 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Messi jugará por última vez con la Albiceleste en un partido cargado de emoción para un plantel que inició una nueva etapa tras la final de la Copa Mundial del 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Nadie pudo arrebatarnos nuestra dignidad”: capitán de Surinam denuncia racismo tras jugar ante Guatemala",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/nadie-pudo-arrebatarnos-nuestra-dignidad-capitan-de-surinam-denuncia-racismo-tras-jugar-ante-guatemala/",
-      "fecha": "Tue, 06 Oct 2026 15:15:16 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Tras la derrota que dejó fuera a Surinam de la Liga de Naciones, Leo Abena alzó la voz y pidió a la Fifay a Concacaf investigar los presuntos actos de racismo denunciados durante el partido frente a Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un país ante el cáncer: la atención mientras se construye el nuevo hospital",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/un-pais-ante-el-cancer-la-atencion-mientras-se-construye-el-nuevo-hospital/",
-      "fecha": "Tue, 06 Oct 2026 14:50:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Mientras se construye el nuevo hospital, Salud deberá sostener la atención con compras de medicamentos, referencias al Incan, radioterapia externa y personal especializado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Magistrados de la CC piden a Anabella Morfín resolver amparos por nombramiento de Jonathan Menkos en el Banguat",
-      "link": "https://www.prensalibre.com/guatemala/politica/magistrados-de-la-cc-piden-a-anabella-morfin-resolver-amparos-por-nombramiento-de-jonathan-menkos-en-el-banguat-breaking/",
-      "fecha": "Tue, 06 Oct 2026 14:42:41 +0000",
-      "categoria": "Política",
-      "resumen": "Magistrados de la Corte de Constitucionalidad solicitan a la presidenta de ese tribunal, Anabella Morfín, resolver los amparos relacionados con el nombramiento de Jonathan Menkos como presidente del Banco de Guatemala (Banguat)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Nos frustra el trato racista”: ¿Qué dice la prensa de Surinam sobre la derrota contra Guatemala?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/nos-frustra-el-trato-racista-que-dice-la-prensa-de-surinam-sobre-la-derrota-contra-guatemala/",
-      "fecha": "Tue, 06 Oct 2026 14:13:20 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los medios de Surinam criticaron a la afición de Guatemala, aunque reconocieron que los jugadores conocen las consecuencias de responder a las provocaciones del público."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Ellos escribieron sus partes completamente”: Ben Affleck destaca el trabajo de los mexicanos Luis Gerardo Méndez y Adriana Paz en “Animales”",
-      "link": "https://www.prensalibre.com/vida/escenario/ellos-escribieron-sus-partes-completamente-ben-affleck-destaca-el-trabajo-de-los-mexicanos-luis-gerardo-mendez-y-adriana-paz-en-animales/",
-      "fecha": "Tue, 06 Oct 2026 14:06:46 +0000",
-      "categoria": "Escenario",
-      "resumen": "Además de formar parte del elenco, los actores mexicanos colaboraron con Ben Affleck para darle voz a la comunidad migrante en “Animales”, su nueva película."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“La Renegada” y Laura Flores: la confusión que hizo creer que la actriz había muerto",
-      "link": "https://www.prensalibre.com/internacional/la-renegada-y-laura-flores-la-confusion-que-hizo-creer-que-la-actriz-habia-muerto/",
-      "fecha": "Tue, 06 Oct 2026 14:00:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "La actriz Laura Flores desmintió rumores sobre su muerte, surgidos por una confusión con una transportista del mismo nombre fallecida en un accidente vial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rescatan a piloto y capturan a dos hombres por robo de cisterna con 6 mil galones de combustible",
-      "link": "https://www.prensalibre.com/guatemala/justicia/rescatan-a-piloto-y-capturan-a-dos-hombres-por-robo-de-cisterna-con-6-mil-galones-de-combustible-breaking/",
-      "fecha": "Tue, 06 Oct 2026 13:33:24 +0000",
-      "categoria": "Justicia",
-      "resumen": "En Escuintla, la PNC capturó a dos hombres señalados de robar combustible valorado en Q230 mil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Colisión en la zona 1 deja dos hondureños capturados y provoca cierre vial",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/colision-en-la-zona-1-deja-dos-personas-capturadas-y-provoca-cierre-vial-breaking/",
-      "fecha": "Tue, 06 Oct 2026 13:02:45 +0000",
-      "categoria": "Sucesos",
-      "resumen": "La PMT alerta sobre un cierre vial en la 15 avenida y 1a calle de la zona 1 de la capital, tras un percance vial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Todavía se tiene que pagar el IUSI? Esto cambia con las nuevas tasas del Decreto 18-2026 y a partir de cuándo",
-      "link": "https://www.prensalibre.com/economia/todavia-se-tiene-que-pagar-el-iusi-esto-cambia-con-las-nuevas-tasas-del-decreto-18-2026-y-a-partir-de-cuando/",
-      "fecha": "Tue, 06 Oct 2026 13:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Las reformas al IUSI establecen nuevas tasas para los bienes inmuebles en Guatemala, pero su aplicación no es inmediata. Conozca hasta cuándo debe pagarse el impuesto, qué propiedades tendrán tasa cero y desde cuándo regirán los cambios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cambios en la presidencia de la Comisión de Finanzas marcan etapas claves en esa sala legislativa",
-      "link": "https://www.prensalibre.com/economia/cambios-en-la-presidencia-de-la-comision-de-finanzas-marcan-etapas-claves-en-esa-sala-legislativa/",
-      "fecha": "Tue, 06 Oct 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El diputado Guillermo Antonio Ralda Conde, del bloque Cabal, asumirá la presidencia de la Comisión de Finanzas Públicas y Moneda del Congreso, tras la salida temporal del legislador Julio Héctor Estrada Domínguez."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ley de Ciberseguridad en Guatemala: qué proponen las iniciativas que analiza el Congreso",
-      "link": "https://www.prensalibre.com/guatemala/politica/ley-de-ciberseguridad-en-guatemala-que-proponen-las-iniciativas-que-analiza-el-congreso/",
-      "fecha": "Tue, 06 Oct 2026 06:12:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Dos propuestas de ley son analizadas en el Congreso con diferencias sobre el papel del Estado, sanciones y aspectos relacionados, mientras expertos cuestionan el modelo que se busca implementar."
     },
     {
       "fuente": "Guatemala.com",
