@@ -1,7 +1,183 @@
 {
-  "actualizado": "2026-10-07T01:19:35.823Z",
+  "actualizado": "2026-10-07T08:24:21.694Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Exención a los combustibles termina en diciembre: la medida que diputados buscan para evitar un impacto en enero",
+      "link": "https://www.prensalibre.com/guatemala/politica/exencion-a-los-combustibles-termina-en-diciembre-la-medida-que-diputados-buscan-para-evitar-un-impacto-en-enero/",
+      "fecha": "Wed, 07 Oct 2026 06:12:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El fin de la exención de impuestos a los combustibles podría representar un problema para los consumidores en enero del 2027, por lo que diputados de distintas bancadas analizan la creación de un fondo de compensación para contener posibles incrementos de precios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cacif cuestiona nombramiento de Jonathan Menkos y advierte riesgos en decisiones de la Junta Monetaria",
+      "link": "https://www.prensalibre.com/economia/cacif-cuestiona-nombramiento-de-jonathan-menkos-y-advierte-riesgos-en-decisiones-de-la-junta-monetaria/",
+      "fecha": "Wed, 07 Oct 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La tensión por el nombramiento de Jonathan Menkos como presidente del Banco de Guatemala (Banguat) y de la Junta Monetaria (JM) escaló a la Corte de Constitucionalidad (CC), que deberá conocer tres amparos interpuestos contra su designación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "A la búsqueda de protección",
+      "link": "https://www.prensalibre.com/opinion/caricatura/a-la-busqueda-de-proteccion/",
+      "fecha": "Wed, 07 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Extraña mayoría en elección de contralor",
+      "link": "https://www.prensalibre.com/opinion/editorial/extrana-mayoria-en-eleccion-de-contralor/",
+      "fecha": "Wed, 07 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "El contralor general de Cuentas no debe tener ninguna otra fidelidad que el mejor interés de la ciudadanía que con esfuerzo paga sus impuestos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lecciones derivadas de comicios en Brasil",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/lecciones-derivadas-de-comicios-en-brasil/",
+      "fecha": "Wed, 07 Oct 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Las elecciones dominicales de Brasil demostraron los problemas provocados por el pluri-pseudo-partidismo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tres maneras respaldadas por la ciencia para ayudar a su cerebro a eliminar desechos",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/tres-maneras-respaldadas-por-la-ciencia-para-ayudar-a-su-cerebro-a-eliminar-desechos/",
+      "fecha": "Wed, 07 Oct 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Las investigaciones demuestran que si el sistema nervioso del cerebro no funciona correctamente, se acumulan desechos celulares. ¿Cómo deshacerse de ellos?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump guardó silencio en las elecciones de Brasil y eso pudo beneficiar a su aliado",
+      "link": "https://www.prensalibre.com/internacional/trump-guardo-silencio-en-las-elecciones-de-brasil-y-eso-pudo-beneficiar-a-su-aliado/",
+      "fecha": "Wed, 07 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Flávio Bolsonaro llegó a la segunda vuelta como favorito, mientras la Casa Blanca busca evitar acciones que puedan favorecer políticamente a  Luiz Inácio Lula da Silva."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Y ahora, ¿quién podrá defendernos?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/y-ahora-quien-podra-defendernos/",
+      "fecha": "Wed, 07 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El poder político viene dado por los votos, y son los votos los que quitan o confieren legitimidad a los personajes públicos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En medio de la incertidumbre",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/en-medio-de-la-incertidumbre/",
+      "fecha": "Wed, 07 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Guatemala estará inmersa en un convulso ambiente electoral de lucha por el poder político."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cierre del Banco de Comercio en 2007",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/cierre-del-banco-de-comercio-en-2007/",
+      "fecha": "Wed, 07 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Se autorizó la impresión de billetes después de un faltante de los mismos durante la Navidad 2006."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Que valga la pena nacer aquí",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/que-valga-la-pena-nacer-aqui/",
+      "fecha": "Wed, 07 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Una forma de medir el amor que sentimos por nuestro país es preguntarnos qué estamos dispuestos a hacer por quienes todavía no han llegado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy miércoles 7 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-7-de-octubre-de-2026/",
+      "fecha": "Wed, 07 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "CIV tenía previsto reemplazar el puente Huijó antes del colapso, pero aún no ha licitado obra",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/civ-tenia-previsto-reemplazar-el-puente-huijo-antes-del-colapso-pero-aun-no-ha-licitado-obra/",
+      "fecha": "Wed, 07 Oct 2026 06:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Sustitución de puente está prevista dentro de ampliación de la carretera El Rancho–Teculután . Experto sugiere inspección en los demás puentes de la CA9-Norte."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El creciente acercamiento de España a China y las tensiones que provoca en la Unión Europea",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-creciente-acercamiento-de-espana-a-china-y-las-tensiones-que-provoca-en-la-union-europea/",
+      "fecha": "Wed, 07 Oct 2026 05:01:15 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En medio de la agitación mundial, las estrechas relaciones entre ambos países despiertan recelos dentro de la Unión Europea."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Dejemos que destruyan Los Ángeles”: la polémica frase de Trump sobre la guerra con Irán",
+      "link": "https://www.prensalibre.com/internacional/dejemos-que-destruyan-los-angeles-la-polemica-frase-de-trump-sobre-la-guerra-con-iran/",
+      "fecha": "Wed, 07 Oct 2026 03:23:02 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump genera polémica tras decir que Los Ángeles y San Diego podrían ser destruidas en el conflicto con Irán, declaraciones rechazadas por líderes de California."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Ninguna puede pasar desapercibida”: 258 alertas Alba-Keneth podrían estar ligadas a violencia sexual en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ninguna-puede-pasar-desapercibida-258-alertas-alba-keneth-podrian-estar-ligadas-a-violencia-sexual-en-guatemala/",
+      "fecha": "Wed, 07 Oct 2026 03:01:04 +0000",
+      "categoria": "Sucesos",
+      "resumen": "La PGN reporta 258 alertas Alba-Keneth que podrían estar relacionadas con delitos de violencia sexual contra niñas, niños y adolescentes en lo que va del año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Timbiriche: Integrantes originales afirman que no autorizaron serie de ViX",
+      "link": "https://www.prensalibre.com/vida/escenario/timbiriche-integrantes-originales-afirman-que-no-autorizaron-serie-de-vix/",
+      "fecha": "Wed, 07 Oct 2026 02:33:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Benny Ibarra, Alix Bauer, Diego Schoening, Mariana Garza, Erik Rubín y Sasha Sokol dejaron claro que no fueron consultados ni invitados a ver la serie."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Por las buenas o por las malas&#8221;: el ultimátum de Donald Trump sobre el fin de la guerra en Irán",
+      "link": "https://www.prensalibre.com/internacional/por-las-buenas-o-por-las-malas-el-ultimatum-de-donald-trump-sobre-el-fin-de-la-guerra-en-iran/",
+      "fecha": "Wed, 07 Oct 2026 02:12:39 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente Trump asegura que el fin de la guerra con Irán se dará \"muy pronto\", mientras se acercan las elecciones intermedias en los Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quiénes pueden ser beneficiarios del IGSS y qué atención pueden recibir?",
+      "link": "https://www.prensalibre.com/economia/quienes-pueden-ser-beneficiarios-del-igss-y-que-atencion-pueden-recibir/",
+      "fecha": "Wed, 07 Oct 2026 02:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La cobertura del IGSS para los beneficiarios no es igual para todos. La atención depende del parentesco con el trabajador afiliado, el programa del Seguro Social y, en algunos casos, del departamento donde reside y trabaja."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Exministro Javier Maldonado muere luego de ser localizado con herida de bala en la zona 15",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/exministro-javier-maldonado-resulta-herido-de-bala-en-inmueble-de-la-zona-15-breaking/",
+      "fecha": "Wed, 07 Oct 2026 01:42:26 +0000",
+      "categoria": "Sucesos",
+      "resumen": "El exministro de Comunicaciones Javier Maldonado murió luego de ser localizado con una herida de bala en la cabeza en un inmueble de la zona 15."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Christa Pike está consciente tras su fallida ejecución: esto dicen sus abogados sobre su recuperación",
+      "link": "https://www.prensalibre.com/internacional/christa-pike-esta-consciente-tras-su-fallida-ejecucion-esto-dicen-sus-abogados-sobre-su-recuperacion/",
+      "fecha": "Wed, 07 Oct 2026 01:26:59 +0000",
+      "categoria": "Internacional",
+      "resumen": "Christa Pike está consciente y puede hablar tras su fallida ejecución. Sus abogados explican cómo evoluciona su salud y qué esperan de su recuperación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amplía la cobertura en un sector de alta circulación y actividad comercial.",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/amplia-la-cobertura-en-un-sector-de-alta-circulacion-y-actividad-comercial/",
+      "fecha": "Wed, 07 Oct 2026 01:22:20 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Grupo de Tiendas Asociadas (GTA), empresa 100% guatemalteca fundada en 1995, inaugura la sucursal 46 de Supermercado Suma Gran Vía Roosevelt, ubicada en Calzada Roosevelt 21-09, zona 7 de la ciudad capital."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Gerente del Año 2026: 12 ejecutivos y emprendedores compiten por los reconocimientos de la AGG",
@@ -12,11 +188,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Messi, al borde de las lágrimas en su despedida con Argentina",
+      "titulo": "Messi, entre lágrimas, fuegos artificiales y goles en su despedida con Argentina",
       "link": "https://www.prensalibre.com/deportes/futbol-internacional/messi-al-borde-de-las-lagrimas-en-su-despedida-con-argentina-breaking/",
       "fecha": "Wed, 07 Oct 2026 00:52:37 +0000",
       "categoria": "Fútbol Internacional",
-      "resumen": "El capitán argentino vivió un momento de profunda emoción antes de su último partido con la Albiceleste en el Monumental."
+      "resumen": "El capitán argentino marcó, lloró y vivió un momento de profunda emoción en su último partido con la Albiceleste en el Monumental."
     },
     {
       "fuente": "Prensa Libre",
@@ -649,182 +825,6 @@
       "fecha": "Tue, 06 Oct 2026 03:07:10 +0000",
       "categoria": "Política",
       "resumen": "Estados Unidos denunció presiones de China contra diputados del Parlacen durante la reciente visita a Guatemala del canciller de Taiwán, Lin Chia-lung."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué pasó con Vaessen? Los gestos del portero de Surinam hacia los aficionados tras la clasificación de Guatemala",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/que-paso-con-vaessen-los-gestos-del-portero-de-surinam-hacia-los-aficionados-tras-la-clasificacion-de-guatemala/",
-      "fecha": "Tue, 06 Oct 2026 03:03:10 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Tras la clasificación de Guatemala, Etienne Vaessen tuvo un intercambio verbal y de gestos con parte de la afición."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tom Cruise defiende “Digger” tras las críticas negativas y su baja recaudación en taquilla",
-      "link": "https://www.prensalibre.com/vida/escenario/tom-cruise-defiende-digger-tras-las-criticas-negativas-y-su-baja-recaudacion-en-taquilla/",
-      "fecha": "Tue, 06 Oct 2026 03:01:03 +0000",
-      "categoria": "Escenario",
-      "resumen": "La nueva película de Tom Cruise tuvo uno de los estrenos más bajos de su carrera en taquilla, pero el actor acudió a las redes sociales para defender su trabajo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Codeca convoca a manifestaciones y plantea una serie de demandas al Gobierno y al Congreso",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/codeca-convoca-a-manifestaciones-y-plantea-una-serie-de-demandas-al-gobierno-y-al-congreso-breaking/",
-      "fecha": "Tue, 06 Oct 2026 02:26:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Codeca anunció manifestaciones para el 12 de octubre en las cabeceras departamentales del país y planteó una serie de demandas al Gobierno y al Congreso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Matthew Evans: así fue el golazo que valió la clasificación de Guatemala a los cuartos de final",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/matts-evans-asi-fue-el-golazo-que-valio-la-clasificacion-de-guatemala-a-los-cuartos-de-final/",
-      "fecha": "Tue, 06 Oct 2026 02:17:05 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Cuando la eliminación parecía inevitable, Matthew Evans apareció en los descuentos para darle a Guatemala un triunfo histórico y el boleto a la siguiente ronda."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿No más persecuciones?: estas son las nuevas reglas de ICE para sus operativos contra conductores",
-      "link": "https://www.prensalibre.com/internacional/no-mas-persecuciones-estas-son-las-nuevas-reglas-de-ice-para-sus-operativos-contra-conductores/",
-      "fecha": "Tue, 06 Oct 2026 02:04:57 +0000",
-      "categoria": "Internacional",
-      "resumen": "ICE busca reducir los incidentes en carreteras durante operativos contra conductores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala inicia temporada de cruceros 2026-2027 y espera 44 buques durante este período",
-      "link": "https://www.prensalibre.com/economia/guatemala-inicia-temporada-de-cruceros-2026-2027-y-espera-44-buques-durante-este-periodo/",
-      "fecha": "Tue, 06 Oct 2026 02:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La temporada de cruceros 2026-2027 empezó este lunes 5 de octubre con el arribo del Queen Elizabeth a Puerto Quetzal, informó el Instituto Guatemalteco de Turismo (Inguat)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "20 reos escaparon de Fraijanes 2 y casi un año después el rastro lleva hasta México: ¿cuántos siguen prófugos?",
-      "link": "https://www.prensalibre.com/guatemala/20-reos-escaparon-de-fraijanes-2-y-casi-un-ano-despues-el-rastro-lleva-hasta-mexico-cuantos-siguen-profugos/",
-      "fecha": "Tue, 06 Oct 2026 02:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Uno de los fugados fue encontrado muerto y 10 han sido localizados y devueltos a prisión, incluidos dos señalados como cabecillas del Barrio 18 detenidos este lunes en Quintana Roo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El “Profesor Sandunga” llevará “La Universidad del Perreo” al Coliseo de Puerto Rico: así anuncia Wisin su concierto",
-      "link": "https://www.prensalibre.com/vida/escenario/el-profesor-sandunga-llevara-la-universidad-del-perreo-al-coliseo-de-puerto-rico-asi-anuncia-wisin-su-concierto/",
-      "fecha": "Tue, 06 Oct 2026 01:09:45 +0000",
-      "categoria": "Escenario",
-      "resumen": "El reguetonero puertorriqueño Wisin anunció un concierto en su tierra natal para continuar con la promoción de su nuevo material, “La Universidad del Perreo”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Pañales”: el código del presunto narco capturado en Guatemala para enviar fentanilo y metanfetamina a EE. UU.",
-      "link": "https://www.prensalibre.com/guatemala/justicia/panales-el-codigo-del-presunto-narco-capturado-en-guatemala-para-enviar-fentanilo-y-metanfetamina-a-ee-uu/",
-      "fecha": "Tue, 06 Oct 2026 01:07:06 +0000",
-      "categoria": "Justicia",
-      "resumen": "Agencias de seguridad de EE. UU. detectaron un código utilizado por una red internacional de narcotráfico para hablar sobre la seguridad de sus cargamentos de drogas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente en Jalapa: MP confirma detención de conductora y analiza video del atropello",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/accidente-en-jalapa-mp-confirma-detencion-de-conductora-y-analiza-video-del-atropello/",
-      "fecha": "Tue, 06 Oct 2026 00:44:47 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Fiscalía dio nuevos detalles del atropello que causó la muerte de Olga Lidia Ramírez en Jalapa, confirmó la hora del hecho, quién conducía el vehículo y cuál es la situación de la sindicada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Pentágono deja de utilizar las herramientas de IA de Anthropic tras incluir a la empresa en una lista negra, según pudo saber la BBC",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-pentagono-deja-de-utilizar-las-herramientas-de-ia-de-anthropic-tras-incluir-a-la-empresa-en-una-lista-negra-segun-pudo-saber-la-bbc/",
-      "fecha": "Tue, 06 Oct 2026 00:39:37 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El Departamento de Defensa usaba Claude para sus análisis de datos de inteligencia a través de un sistema llamado Maven, pero ahora ha tenido que migrar hacia otros modelos de IA."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Películas de terror para Halloween: qué ver en Netflix, Disney Plus, Prime Video y HBO Max",
-      "link": "https://www.prensalibre.com/vida/escenario/peliculas-de-terror-para-halloween-que-ver-en-netflix-disney-plus-prime-video-y-hbo-max/",
-      "fecha": "Tue, 06 Oct 2026 00:21:21 +0000",
-      "categoria": "Escenario",
-      "resumen": "Desde clásicos del cine de terror hasta producciones más recientes, estas son algunas películas disponibles en las plataformas de streaming."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvias elevan la humedad por encima del 75% y aumentan el riesgo de daños en cultivos",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-elevan-la-humedad-por-encima-del-75-y-aumentan-el-riesgo-de-danos-en-cultivos/",
-      "fecha": "Tue, 06 Oct 2026 00:17:15 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La humedad supera el 75% en sectores del centro y sur de Guatemala, después de una sequía prolongada que causó pérdidas de cultivos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MetroRiel avanza en la fase cero: qué se sabe de la ruta, estaciones, financiamiento y construcción",
-      "link": "https://www.prensalibre.com/economia/metroriel-avanza-en-la-fase-cero-que-se-sabe-de-la-ruta-estaciones-financiamiento-y-construccion/",
-      "fecha": "Tue, 06 Oct 2026 00:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El MetroRiel avanza en las etapas de la fase 0, mientras continúan los análisis para definir aspectos clave que permitan concluir esta etapa y determinar los siguientes pasos del proyecto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Apartamentos para narcos de hasta US$225 mil: los lujos que una abogada dice que hay en prisión de Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/justicia/apartamentos-para-narcos-de-hasta-us225-mil-los-lujos-que-una-abogada-relata-en-prision-de-guatemala/",
-      "fecha": "Tue, 06 Oct 2026 00:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Rebecca Castañeda pasó de perseguir casos de narcotráfico como fiscal federal en EE. UU. a defender a acusados de trasiego de drogas y enfrentar procesos de extradición."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fortalecen sus soluciones para los connacionales que viven en Estados Unidos",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/fortalecen-sus-soluciones-para-los-connacionales-que-viven-en-estados-unidos/",
-      "fecha": "Mon, 05 Oct 2026 23:31:43 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Con una vasta que ha construido durante casi 30 años acompañando a las familias que reciben remesas, el Banco de Desarrollo Rural, S.A (BANRURAL) evoluciona y fortalece su equipo con Don Reme, el experto en remesas, quien orienta y aconseja de manera sencilla a los guatemaltecos que viven en Estados Unidos y a sus familias en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El modelo integral que transforma comunidades llega a 33 centros",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/el-modelo-integral-que-transforma-comunidades-llega-a-33-centros/",
-      "fecha": "Mon, 05 Oct 2026 23:23:34 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "La organización Puente da un paso histórico para la niñez guatemalteca al inaugurar uno de los últimos ocho Centros Nútreme en el municipio de San José Poaquil, alcanzando así el 100% de cobertura territorial con su modelo integral de prevención de la desnutrición crónica infantil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala vence a Surinam con gol de Evans y hace historia en la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guatemala-vs-surinam-siga-el-partido-por-el-pase-a-los-cuartos-de-final-de-la-liga-de-naciones/",
-      "fecha": "Mon, 05 Oct 2026 23:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Guatemala venció 1-0 a Surinam en el estadio El Trébol, gracias a un gol agónico de Matthew Evans en el tiempo de reposición y aseguró su clasificación a la siguiente ronda de la Liga de Naciones de Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué pasará con Nicolás Maduro luego de que EE. UU. rechazara su inmunidad",
-      "link": "https://www.prensalibre.com/internacional/que-pasara-con-nicolas-maduro-luego-de-que-ee-uu-rechazara-su-inmunidad/",
-      "fecha": "Mon, 05 Oct 2026 22:54:12 +0000",
-      "categoria": "Internacional",
-      "resumen": "La fiscalía de EE. UU. sostiene que Venezuela no ha reclamado inmunidad para Nicolás Maduro, pero sí para la presidenta interina, Delcy Rodríguez."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente en el Anillo Periférico deja un motorista muerto y se reportan complicaciones de tránsito",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-en-el-anillo-periferico-deja-un-motorista-muerto-y-se-reportan-complicaciones-de-transito-breaking/",
-      "fecha": "Mon, 05 Oct 2026 22:44:49 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un motorista murió en un accidente en el Anillo Periférico la tarde de este lunes 5 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué Pedro Sánchez decidió convocar elecciones anticipadas en España ahora",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-pedro-sanchez-decidio-convocar-elecciones-anticipadas-en-espana-ahora/",
-      "fecha": "Mon, 05 Oct 2026 22:40:58 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El llamado a elecciones anticipadas no fue una reacción impulsiva, sino una maniobra cuidadosamente meditada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU.  y organizaciones de prensa condenan asesinato del periodista Evelio López Sánchez",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ee-uu-y-organizaciones-de-prensa-condenan-asesinato-del-periodista-evelio-lopez-sanchez-breaking/",
-      "fecha": "Mon, 05 Oct 2026 22:35:06 +0000",
-      "categoria": "Justicia",
-      "resumen": "Estados Unidos y organizaciones de prensa condenaron el asesinato del periodista Evelio Lisandro López Sánchez, ocurrido en Huehuetenango."
     },
     {
       "fuente": "Guatemala.com",
