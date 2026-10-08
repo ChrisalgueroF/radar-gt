@@ -1,7 +1,175 @@
 {
-  "actualizado": "2026-10-07T21:51:47.330Z",
+  "actualizado": "2026-10-08T01:40:07.557Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Remesas en Guatemala superan US$20 mil millones a septiembre y por qué persiste la desaceleración",
+      "link": "https://www.prensalibre.com/economia/remesas-en-guatemala-superan-us20-mil-millones-a-septiembre-y-por-que-persiste-la-desaceleracion/",
+      "fecha": "Thu, 08 Oct 2026 01:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Guatemala alcanzó los US$20 mil millones en remesas familiares acumuladas a septiembre, mientras un organismo internacional advierte que, aunque estos flujos continúan creciendo en la región durante el 2026, muestran señales de desaceleración."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así fue el discurso completo de Lionel Messi en su despedida de la Selección Argentina",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/asi-fue-el-discurso-completo-de-lionel-messi-en-su-despedida-de-la-seleccion-argentina/",
+      "fecha": "Thu, 08 Oct 2026 00:18:31 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El capitán de la Albiceleste habló ante más de 85 mil aficionados en el Monumental después de disputar su último partido con Argentina"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Toneladas de tierra bloquean la ruta Interamericana tras derrumbe en Tecpán Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/toneladas-de-tierra-bloquean-la-ruta-interamericana-tras-derrumbe-en-tecpan-guatemala-breaking/",
+      "fecha": "Thu, 08 Oct 2026 00:11:49 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Toneladas de tierra se desprendieron de una ladera en el km 82.5 y cubrieron los cuatro carriles de la carretera, en Tecpán Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Defensa ampliará información sobre Huité mientras denuncia señala a altos mandos militares",
+      "link": "https://www.prensalibre.com/guatemala/politica/defensa-ampliara-informacion-sobre-huite-mientras-denuncia-senala-a-altos-mandos-militares/",
+      "fecha": "Thu, 08 Oct 2026 00:09:15 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Una denuncia plantea posibles ejecuciones extrajudiciales y señala a altos mandos de Defensa, mientras el Ministerio asegura que ampliará información sobre los hechos de Huité, Zacapa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estado de emergencia en El Salvador por El Súper Niño: ¿qué medidas se aplicarán durante los próximos seis meses?",
+      "link": "https://www.prensalibre.com/internacional/estado-de-emergencia-en-el-salvador-por-el-super-nino-que-medidas-se-aplicaran-durante-los-proximos-seis-meses/",
+      "fecha": "Thu, 08 Oct 2026 00:05:05 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Salvador declaró estado de emergencia por seis meses ante los efectos de El Súper Niño, que amenaza cultivos y la seguridad alimentaria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Videos muestran cómo Trump es interrumpido en un mitin en Texas y su reacción",
+      "link": "https://www.prensalibre.com/internacional/videos-muestran-como-trump-es-interrumpido-en-un-mitin-en-texas-y-su-reaccion/",
+      "fecha": "Wed, 07 Oct 2026 23:34:29 +0000",
+      "categoria": "Internacional",
+      "resumen": "Donald Trump fue interrumpido este miércoles en dos ocasiones durante un mitin en San Antonio, Texas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guantes de descarga eléctrica de ICE: qué reveló un estudio del Ejército sobre su funcionamiento y efectividad",
+      "link": "https://www.prensalibre.com/internacional/guantes-de-descarga-electrica-de-ice-que-revelo-un-estudio-del-ejercito-sobre-su-funcionamiento-y-efectividad/",
+      "fecha": "Wed, 07 Oct 2026 23:30:55 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un estudio del Ejército reveló que los guantes de descarga eléctrica adquiridos por ICE provocan dolor, sometimiento y temor durante su uso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué H. Kagan y Kenso Soai ganaron el Nobel de Química? El misterio de las moléculas espejo",
+      "link": "https://www.prensalibre.com/internacional/por-que-h-kagan-y-kenso-soai-ganaron-el-nobel-de-quimica-el-misterio-de-las-moleculas-espejo/",
+      "fecha": "Wed, 07 Oct 2026 23:22:34 +0000",
+      "categoria": "Internacional",
+      "resumen": "Según el presidente del Comité Nobel de Química, el francés Henri Kagan y el japonés Kenso Soai han aportado una solución a un misterio químico de un siglo de antigüedad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ministerio Público confirma amenazas contra fiscales y mantiene alerta ante posibles ataques del Barrio 18",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ministerio-publico-confirma-amenazas-contra-fiscales-y-mantiene-alerta-ante-posibles-ataques-del-barrio-18-breaking/",
+      "fecha": "Wed, 07 Oct 2026 23:07:34 +0000",
+      "categoria": "Justicia",
+      "resumen": "El MP confirmó amenazas del Barrio 18 contra fiscales del área metropolitana y de Petén, por lo que mantiene una alerta ante posibles ataques."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Torturas a estadounidenses: por qué Nicolás Maduro y Cilia Flores podrían enfrentar nuevas acusaciones en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/torturas-a-estadounidenses-por-que-nicolas-maduro-y-cilia-flores-podrian-enfrentar-nuevas-acusaciones-en-ee-uu/",
+      "fecha": "Wed, 07 Oct 2026 22:55:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "Nicolás Maduro y Cilia Flores podrían enfrentar nuevos cargos en EE. UU. por presuntas torturas contra ciudadanos estadounidenses detenidos en Venezuela."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Premio Nobel de Literatura 2026: los candidatos latinoamericanos que podrían sorprender con el galardón",
+      "link": "https://www.prensalibre.com/vida/escenario/premio-nobel-de-literatura-2026-los-candidatos-latinoamericanos-que-podrian-sorprender-con-el-galardon/",
+      "fecha": "Wed, 07 Oct 2026 22:42:27 +0000",
+      "categoria": "Escenario",
+      "resumen": "Está a punto de desvelarse quién obtendrá el máximo galardón literario y hay algunos escritores hispanohablantes que tienen posibilidades según las casas de apuestas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Abogado revela las primeras palabras que dijo Christa Pike tras sobrevivir a dos inyecciones letales",
+      "link": "https://www.prensalibre.com/internacional/abogado-revela-las-primeras-palabras-que-dijo-christa-pike-tras-sobrevivir-a-dos-inyecciones-letales-breaking/",
+      "fecha": "Wed, 07 Oct 2026 22:21:19 +0000",
+      "categoria": "Internacional",
+      "resumen": "El abogado de Christa Pike reveló las primeras palabras que dijo la mujer al despertar en el hospital, tras sobrevivir a dos inyecciones letales en Tennessee."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién era Javier Maldonado Quiñónez, exministro de Comunicaciones que murió a los 46 años?",
+      "link": "https://www.prensalibre.com/guatemala/quien-era-javier-maldonado-quinonez-exministro-de-comunicaciones-que-murio-a-los-46-anos/",
+      "fecha": "Wed, 07 Oct 2026 22:19:53 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El exfuncionario dirigió el CIV durante la administración de Alejandro Giammattei. Fue localizado con una herida de arma de fuego en zona 15 y trasladado a un centro asistencial, donde falleció."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataques armados complican el tránsito en zonas 1 y 3 de la capital: cierres de carriles afectan la circulación",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataques-armados-complican-el-transito-en-zonas-1-y-3-de-la-capital-cierres-de-carriles-afectan-la-circulacion-breaking/",
+      "fecha": "Wed, 07 Oct 2026 22:17:25 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos ataques armados dejaron un fallecido y personas heridas en la capital, mientras cierres de carriles por las diligencias complican la movilidad este miércoles 7 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Selección de Guatemala: ¿qué jugadores de la Bicolor fueron elegidos en el once ideal de la Concacaf?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-que-jugadores-de-la-bicolor-fueron-elegidos-en-el-once-ideal-de-la-concacaf/",
+      "fecha": "Wed, 07 Oct 2026 22:15:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El desempeño de la Bicolor en la fase de grupos de la Liga de Naciones de Concacaf fue reconocido con la inclusión de dos representantes en el equipo ideal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué mató a Paul Walker? El debate acerca de las causas de la muerte del actor continúa",
+      "link": "https://www.prensalibre.com/vida/escenario/que-mato-a-paul-walker-el-debate-acerca-de-las-causas-de-la-muerte-del-actor-continua/",
+      "fecha": "Wed, 07 Oct 2026 22:01:04 +0000",
+      "categoria": "Escenario",
+      "resumen": "Mientras los peritos señalan la velocidad como el factor clave en el accidente que terminó con la vida del intérprete de Rápidos y furiosos, su hija plantea dudas acerca del diseño del vehículo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inacif revela información sobre muerte del exministro de Comunicaciones Javier Maldonado",
+      "link": "https://www.prensalibre.com/guatemala/inacif-revela-informacion-sobre-muerte-del-exministro-de-comunicaciones-javier-maldonado-breaking/",
+      "fecha": "Wed, 07 Oct 2026 22:01:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Inacif dio a conocer detalles sobre la muerte del exministro de Comunicaciones Javier Maldonado Quiñónez, ocurrida el 6 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Steven Spielberg se prepara para la octava película de &#8220;Transformers&#8221;",
+      "link": "https://www.prensalibre.com/vida/escenario/steven-spielberg-se-prepara-para-la-octava-pelicula-de-transformers/",
+      "fecha": "Wed, 07 Oct 2026 22:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El legendario productor será el responsable de supervisar los detalles creativos de la cinta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Insultos, gestos y &#8220;brujería&#8221;: ¿Qué provocó la reacción de los guatemaltecos contra Surinam?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/insultos-gestos-y-brujeria-que-provoco-la-reaccion-de-los-guatemaltecos-contra-surinam/",
+      "fecha": "Wed, 07 Oct 2026 21:55:10 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Aunque los jugadores de Surinam denunciaron actos de racismo, los aficionados guatemaltecos aseguran que todo comenzó por la provocación de los surinameses."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Huité, Zacapa: Ejecutivo no revela informe sobre el actuar de los militares tras ocho muertes",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-huite-zacapa-ejecutivo-no-revela-informe-sobre-el-actuar-de-los-militares-tras-ocho-muertes/",
+      "fecha": "Wed, 07 Oct 2026 21:37:57 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El MP envió al Inacif los indicios balísticos recolectados en Huité para determinar qué armas fueron utilizadas y si el Ejército disparó durante los hechos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "25 condados en alerta: Las áreas de Florida en riesgo por la tormenta tropical Isaías",
+      "link": "https://www.prensalibre.com/internacional/25-condados-en-alerta-las-areas-de-florida-en-riesgo-por-la-tormenta-tropical-isaias/",
+      "fecha": "Wed, 07 Oct 2026 21:29:46 +0000",
+      "categoria": "Internacional",
+      "resumen": "El gobernador de Florida, Ron DeSantis, dijo que la tormenta tropical Isaías tocará la región entre Mobile y Pensacola como un huracán de categoría 3."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "“Ya extraño vestir la celeste y blanca”: el emotivo mensaje de Messi tras despedirse de Argentina",
@@ -12,11 +180,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Quién es Élfego Castañón, el nuevo Contralor General de Cuentas electo por el Congreso",
+      "link": "https://www.prensalibre.com/guatemala/politica/quien-es-elfego-castanon-el-nuevo-contralor-general-de-cuentas-electo-por-el-congreso/",
+      "fecha": "Wed, 07 Oct 2026 21:14:42 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Con 154 votos en el Congreso, Élfego Castañón es el nuevo Contralor General de Cuentas, el ente que validará los finiquitos para las elecciones de 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Adiós al intérprete de &#8220;Mi viejo&#8221;: Piero De Benedictis fallece a los 81 años",
       "link": "https://www.prensalibre.com/vida/escenario/adios-al-interprete-de-mi-viejo-piero-de-benedictis-fallece-a-los-81-anos/",
       "fecha": "Wed, 07 Oct 2026 21:10:00 +0000",
       "categoria": "Escenario",
       "resumen": "La familia del artista  argentino italiano que se encontraba hospitalizado, dio a conocer la noticia de su muerte a través de las redes sociales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Construcciones cerca del AeroMetro: qué distancias deberán respetar y qué requisitos deberán cumplir",
+      "link": "https://www.prensalibre.com/economia/construcciones-cerca-del-aerometro-que-distancias-deberan-respetar-y-que-requisitos-deberan-cumplir/",
+      "fecha": "Wed, 07 Oct 2026 20:51:22 +0000",
+      "categoria": "Economía",
+      "resumen": "El nuevo reglamento establece restricciones para construcciones actuales y futuras cercanas al AeroMetro y fija un trámite antes de obtener una licencia de obra."
     },
     {
       "fuente": "Prensa Libre",
@@ -635,196 +819,12 @@
       "resumen": "Los abogados de Christa Pike dicen que la mujer recobró la consicencia después de haber recibido dos inyecciones letales la semana pasada."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Gracias a la vida&#8221;: los emotivos videos a Lionel Messi por su partido de despedida con Argentina",
-      "link": "https://www.prensalibre.com/internacional/gracias-a-la-vida-los-emotivos-videos-de-lionel-messi-por-su-partido-de-despedida-con-argentina-breaking/",
-      "fecha": "Tue, 06 Oct 2026 22:55:49 +0000",
-      "categoria": "Internacional",
-      "resumen": "Varios han sido los mensajes que futbolistas y organizaciones han hecho a Lionel Messi este día al ser su último partido con la selección de Argentina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "ZDEEP en Synergy Industrial Park inicia operaciones en Escuintla tras inversión de más de US$13 millones",
-      "link": "https://www.prensalibre.com/economia/zdeep-en-synergy-industrial-park-inicia-operaciones-en-escuintla-tras-inversion-de-mas-de-us13-millones/",
-      "fecha": "Tue, 06 Oct 2026 22:48:56 +0000",
-      "categoria": "Economía",
-      "resumen": "El complejo busca aprovechar la ubicación estratégica de Escuintla y su cercanía con Puerto Quetzal para atraer empresas, facilitar operaciones aduaneras y fortalecer las cadenas logísticas y de exportación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Edificio MP: Juez Mario Hichos cierra proceso contra tres exfuncionarias y envía a juicio a dos más",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-edificio-mp-juez-mario-hichos-cierra-proceso-contra-tres-exfuncionarias-y-envia-a-juicio-a-dos-mas/",
-      "fecha": "Tue, 06 Oct 2026 22:35:14 +0000",
-      "categoria": "Justicia",
-      "resumen": "El juez Mario Hichos cerró el proceso contra tres exfuncionarias del MP y envió a juicio a otras dos personas por el Caso Edificio MP, relacionado con la adquisición de un inmueble por Q35 millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un viaje doble todo incluido a Barcelona",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/un-viaje-doble-todo-incluido-a-barcelona/",
-      "fecha": "Tue, 06 Oct 2026 22:23:33 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Banco Industrial y Visa premiaron a los tarjetahabientes que resultaron ganadores de un viaje doble todo incluido a Barcelona, España, para vivir una experiencia inspirada en el estreno de la película Toy Story 5 de Disney y Pixar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cronología de los conflictos entre los príncipes William y Harry",
-      "link": "https://www.prensalibre.com/vida/escenario/cronologia-de-los-conflictos-entre-los-principes-william-y-harry/",
-      "fecha": "Tue, 06 Oct 2026 22:15:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Los hijos del rey Carlos y de la difunda Lady Diana Spencer pasaron de ser hermanos inseparables a enemigos públicos, debido a distintos eventos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nobel de Física: Qué son los neutrinos, dónde se encuentran y cuáles son sus características",
-      "link": "https://www.prensalibre.com/vida/ciencia/nobel-de-fisica-que-son-los-neutrinos-donde-se-encuentran-y-cuales-son-sus-caracteristicas/",
-      "fecha": "Tue, 06 Oct 2026 22:07:01 +0000",
-      "categoria": "Ciencia",
-      "resumen": "Una definición de las \"partículas fantasma\", por las que el belga-estadounidense Francis Halzen ganó el Nobel de Física."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Goles y récords: los momentos más recordados de Lionel Messi contra la selección de Guatemala",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/goles-y-records-los-momentos-mas-recordados-de-lionel-messi-contra-la-seleccion-de-guatemala-breaking/",
-      "fecha": "Tue, 06 Oct 2026 22:06:03 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Aunque Lionel Messi y la selección de Guatemala no se han enfrentado con frecuencia, los encuentros disputados guardan interesantes datos y momentos para el recuerdo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Peste neumónica: Qué tan peligrosa es y cómo se contagia la enfermedad que está bajo vigilancia",
-      "link": "https://www.prensalibre.com/internacional/peste-neumonica-que-tan-peligrosa-es-y-como-se-contagia-la-enfermedad-que-esta-bajo-vigilancia/",
-      "fecha": "Tue, 06 Oct 2026 21:40:10 +0000",
-      "categoria": "Internacional",
-      "resumen": "EE. UU. cree que Rusia tiene la obligación de compartir más información con el mundo, debido a que quizás sea más grave de lo que se piensa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "España remonta a Croacia, clasifica a los cuartos de final y llega a 42 partidos sin perder",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/espana-remonta-a-croacia-clasifica-a-los-cuartos-de-final-y-llega-a-42-partidos-sin-perder/",
-      "fecha": "Tue, 06 Oct 2026 21:19:05 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Con un doblete de Mikel Merino en la segunda mitad, España vino de atrás para derrotar 2-1 a Croacia  y asegurar su clasificación a los cuartos de final de la Liga de Naciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué es y cómo se propaga la peste neumónica que se estudia en el laboratorio de Siberia en el que falleció una trabajadora",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-es-y-como-se-propaga-la-peste-neumonica-que-se-estudia-en-el-laboratorio-de-siberia-en-el-que-fallecio-una-trabajadora/",
-      "fecha": "Tue, 06 Oct 2026 20:59:39 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La muerte de una trabajadora de un laboratorio ruso que investiga la peste ha suscitado interrogantes sobre la enfermedad."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "San Martín suma una nueva ubicación en Estados Unidos",
       "link": "https://www.guatemala.com/noticias/sociedad/san-martin-aperturo-tercera-tienda-texas-estados-unidos.html",
       "fecha": "Tue, 06 Oct 2026 20:52:20 +0000",
       "categoria": "Sociedad",
       "resumen": "La marca guatemalteca de panadería y restaurante San Martín aperturó una tienda en Plano, Texas, sumando así una nueva ubicación en Estados Unidos. \nThe post San Martín suma una nueva ubicación en Estados Unidos appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“El abuso racista a Surinam es inaceptable”: El mensaje de Infantino tras el partido en Guatemala",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/el-abuso-racista-a-surinam-es-inaceptable-el-mensaje-de-infantino-tras-el-partido-en-guatemala/",
-      "fecha": "Tue, 06 Oct 2026 20:31:07 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "En el 2025, la FIFA sancionó a El Salvador con una penalización de US$63 mil (Q481 mil) y ordenó la reducción del 15% del aforo del estadio para su siguiente partido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Embajada de EE. UU. responde a petición de Carlos Pineda de verificar listado de integrantes del partido Servir",
-      "link": "https://www.prensalibre.com/guatemala/politica/embajada-de-ee-uu-responde-a-peticion-de-carlos-pineda-de-verificar-listado-de-integrantes-de-partido-servir-breaking/",
-      "fecha": "Tue, 06 Oct 2026 20:15:51 +0000",
-      "categoria": "Política",
-      "resumen": "La Embajada de EE. UU. publica una respuesta a Carlos Pineda, luego de que el político entregara un listado de personas que podrían optar a cargos de elección popular para que sean investigadas y verificar que no tengan vínculos con el narco."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“1582 te escucha” seguirá brindando atención psicológica gratuita y confidencial, ahora con WhatsApp las 24 horas",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/1582-te-escucha-seguira-brindando-atencion-psicologica-gratuita-y-confidencial-ahora-con-whatsapp-las-24-horas/",
-      "fecha": "Tue, 06 Oct 2026 20:09:36 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "En busca de atender crisis emocionales y prevenir el suicidio, la línea de atención psicológica gratuita seguirá activa para la población guatemalteca mediante llamadas y chat."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "TSE capacita a partidos políticos sobre uso de redes sociales para elecciones del 2027",
-      "link": "https://www.prensalibre.com/guatemala/politica/tse-capacita-a-partidos-politicos-sobre-uso-de-redes-sociales-para-elecciones-del-2027/",
-      "fecha": "Tue, 06 Oct 2026 19:49:02 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Tribunal Supremo Electoral (TSE) capacitó a representantes de partidos políticos sobre el uso responsable de las redes sociales durante el proceso electoral 2027, con énfasis en la prevención de la desinformación y la identificación de perfiles falsos, entre otros."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muerte de conductor causa cierre parcial en ruta de Villa Canales hacia la avenida Hincapié",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/muerte-de-conductor-causa-cierre-parcial-en-ruta-de-villa-canales-hacia-la-avenida-hincapie-breaking/",
-      "fecha": "Tue, 06 Oct 2026 19:43:06 +0000",
-      "categoria": "Sucesos",
-      "resumen": "La muerte de un conductor dentro de un vehículo causa cierre parcial y complicaciones de tránsito en la ruta de Villa Canales hacia la avenida Hincapié."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump firma un decreto sobre el “diésel rojo”: ¿Qué es y cómo busca reducir costos en EE. UU?",
-      "link": "https://www.prensalibre.com/internacional/trump-firma-un-decreto-sobre-el-diesel-rojo-que-es-y-como-busca-reducir-costos-en-ee-uu/",
-      "fecha": "Tue, 06 Oct 2026 19:39:51 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente estadounidense Donald Trump afirmó que el nuevo decreto permitirá a cualquier persona comprar diésel rojo para cualquier fin."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Incumplió su palabra”: Cristiano Ronaldo explica por qué abandonó Portugal y acusa al seleccionador Jorge Jesus",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/incumplio-su-palabra-cristiano-ronaldo-explica-por-que-abandono-portugal-y-acusa-al-seleccionador-jorge-jesus/",
-      "fecha": "Tue, 06 Oct 2026 19:39:43 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El astro portugués reveló que le prometieron disputar 30 minutos frente a Noruega, pero nunca fue llamado al campo pese a permanecer calentando durante media hora."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso elige a Elfego Castañón como contralor general de Cuentas",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-elige-a-elfego-castanon-como-contralor-general-de-cuentas/",
-      "fecha": "Tue, 06 Oct 2026 19:35:57 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El oficialismo se impuso en la elección con 154 votos tras desplazar a la oposición que buscaba tener control  sobre la ´Contraloría General de Cuentas en año electoral."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala vs. Canadá: cuándo se jugarían los partidos de cuartos de final de la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-cuando-se-jugarian-los-partidos-de-cuartos-de-final-de-la-liga-de-naciones/",
-      "fecha": "Tue, 06 Oct 2026 19:30:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Después de firmar la mejor actuación de su historia en la Liga de Naciones de Concacaf, Guatemala afrontará un nuevo desafío ante Canadá."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Fotos a su casa&#8221;: así habría operado la mujer detenida en EE. UU. por espiar al hijo del presidente de Taiwán",
-      "link": "https://www.prensalibre.com/internacional/fotos-a-su-casa-asi-habria-operado-la-mujer-detenida-en-ee-uu-por-espiar-al-hijo-del-presidente-de-taiwan/",
-      "fecha": "Tue, 06 Oct 2026 19:16:45 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las autoridades de EE. UU. detallaron cómo una mujer, bajo supuestas órdenes del gobierno de China, habría espiado a un familiar del presidente de Taiwán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Transportistas explican por qué el precio del pasaje no bajará pese a reducción de impuestos a combustibles",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/transportistas-explican-por-que-el-precio-del-pasaje-no-bajara-pese-a-reduccion-de-impuestos-a-combustibles-breaking/",
-      "fecha": "Tue, 06 Oct 2026 19:01:01 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Gremiales de transportistas extraurbanos explican por qué el costo del pasaje no bajará pese a la exención de impuestos a los combustibles en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Festival Cultural de La Avenida: fecha, actividades y dedicatoria",
-      "link": "https://www.prensalibre.com/vida/escenario/festival-cultural-de-la-avenida-fecha-actividades-y-dedicatoria/",
-      "fecha": "Tue, 06 Oct 2026 18:56:24 +0000",
-      "categoria": "Escenario",
-      "resumen": "La XVI edición de este encuentro cultural incluirá espectáculos musicales, poéticos y conversatorios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Me enteré de que tenía cáncer porque mi hijo de 4 años me dio una patada en los testículos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/me-entere-de-que-tenia-cancer-porque-mi-hijo-de-4-anos-me-dio-una-patada-en-los-testiculos/",
-      "fecha": "Tue, 06 Oct 2026 18:53:59 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Un padre descubrió que tenía cáncer tras recibir una patada accidental en los testículos. A partir de esa experiencia, se dio cuenta de la necesidad que tienen los hombres de hablar de sus problemas."
     },
     {
       "fuente": "Guatemala.com",
