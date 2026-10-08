@@ -1,7 +1,223 @@
 {
-  "actualizado": "2026-10-08T01:40:07.557Z",
+  "actualizado": "2026-10-08T08:40:14.790Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dragados, remuneraciones y seguridad: para qué pide Defensa Q6 mil 374 millones en 2027",
+      "link": "https://www.prensalibre.com/guatemala/politica/dragados-remuneraciones-y-seguridad-para-que-pide-defensa-q6-mil-374-millones-en-2027/",
+      "fecha": "Thu, 08 Oct 2026 06:18:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El proyecto de presupuesto de Defensa para 2027 plantea un aumento de 37.3% frente a lo aprobado para 2026 y contempla recursos para operaciones, inversión y transferencias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mides creará bono de Q1 mil por la sequía, pero no lo incluye en su presupuesto del 2027",
+      "link": "https://www.prensalibre.com/guatemala/mides-creara-bono-de-q1-mil-por-la-sequia-pero-no-lo-incluye-en-su-presupuesto-del-2027/",
+      "fecha": "Thu, 08 Oct 2026 06:10:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La ayuda será de Q1 mil mensuales de enero a marzo para beneficiarios de 85 municipios. Aunque no está incluida entre los programas del proyecto de presupuesto del Mides, se financiará con el Fondo de Emergencia previsto para atender catástrofes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inflación en Guatemala llega a 4.69%: Banguat explica qué impulsó los precios y qué espera para los próximos meses",
+      "link": "https://www.prensalibre.com/economia/inflacion-en-guatemala-llega-a-4-69-banguat-explica-que-impulso-los-precios-y-que-espera-para-los-proximos-meses/",
+      "fecha": "Thu, 08 Oct 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Luego de conocerse que la inflación en septiembre alcanzó 4.69%, las autoridades monetarias explicaron los factores que impulsaron el indicador y las perspectivas para los próximos meses, ante las medidas tributarias que cobraron vigencia el pasado 1 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comenzó el circo",
+      "link": "https://www.prensalibre.com/opinion/caricatura/comenzo-el-circo/",
+      "fecha": "Thu, 08 Oct 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hermetismo oficial en caso Huité se ve oficioso",
+      "link": "https://www.prensalibre.com/opinion/editorial/hermetismo-oficial-en-caso-huite-se-ve-oficioso/",
+      "fecha": "Thu, 08 Oct 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Huité constituye una grave vulneración a las políticas de seguridad del Ministerio de Gobernación, debido a todas las incógnitas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cómo el sarampión hace que el sistema inmunitario olvide?",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/como-el-sarampion-hace-que-el-sistema-inmunitario-olvide/",
+      "fecha": "Thu, 08 Oct 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Afección elimina entre el 11 y el 73 por ciento de los anticuerpos que los niños han adquirido a lo largo de su vida, revela investigación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Exministro de Defensa de Ucrania afirma que los robots con IA son la próxima generación de la guerra",
+      "link": "https://www.prensalibre.com/internacional/exministro-de-defensa-de-ucrania-afirma-que-los-robots-con-ia-son-la-proxima-generacion-de-la-guerra/",
+      "fecha": "Thu, 08 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Mykhailo Fedorov sostiene que Ucrania debe adelantarse en el desarrollo de armas autónomas antes de regularlas y busca crear un “ejército de robots” para el campo de batalla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mapa: El arco que podría conectar hasta seis destinos desde Tecpán en occidente",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/mapa-el-arco-que-podria-conectar-hasta-seis-destinos-desde-tecpan-en-occidente/",
+      "fecha": "Thu, 08 Oct 2026 06:05:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "Tecpán Guatemala podría convertirse en un nodo que une varios puntos de una red para que turistas internos y externos visiten otros municipios y atractivos como Mixco Viejo, Panajache y Antigua Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027: La fiesta del déficit",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/presupuesto-2027-la-fiesta-del-deficit/",
+      "fecha": "Thu, 08 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Siempre que analicemos el presupuesto del gobierno debemos recordar a Adam Smith y la prudencia fiscal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Seguridad ciudadana: el costo de seguir esperando",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/seguridad-ciudadana-el-costo-de-seguir-esperando/",
+      "fecha": "Thu, 08 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Las circunstancias de criminalidad no son nuevas ni diferentes. Pero el paso del tiempo las agrava."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Se llegará a conocer la verdad?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/se-llegara-a-conocer-la-verdad/",
+      "fecha": "Thu, 08 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Las versiones se fueron multiplicando."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Futuro contralor tiene como principal desafío mostrar independencia para las elecciones del 2027",
+      "link": "https://www.prensalibre.com/guatemala/politica/futuro-contralor-tiene-como-principal-desafio-mostrar-independencia-para-las-elecciones-del-2027/",
+      "fecha": "Thu, 08 Oct 2026 06:01:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Elfego Castañón es hermano de un diputado oficialista, pero tuvo apoyo de la oposición, lo que hace que observadores tengan dudas sobre cómo será su gestión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy jueves 8 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-8-de-octubre-de-2026/",
+      "fecha": "Thu, 08 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: ¿Un plan turístico municipal para Tecpán? El Inguat ofrece acompañar proceso",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/video-un-plan-turistico-municipal-para-tecpan-el-inguat-ofrece-acompanar-proceso/",
+      "fecha": "Thu, 08 Oct 2026 06:01:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "Sector privado vislumbra que Tecpán necesita una hoja de ruta turística que coordine a autoridades, empresarios y comunidades y garantice continuidad a los proyectos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La virtud de la escucha",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/la-virtud-de-la-escucha/",
+      "fecha": "Thu, 08 Oct 2026 06:00:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "Escuchar no consiste únicamente en oír las palabras."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Informe sobre el Comercio Mundial 2026",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-informe-sobre-el-comercio-mundial-2026/",
+      "fecha": "Thu, 08 Oct 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La OMC demuestra, según el documento, que los miembros cuentan con antecedentes para afrontar este desafío."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lo que puede aprender Guatemala de un pequeño pueblo lituano sobre turismo sostenible",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/lo-que-puede-aprender-guatemala-de-un-pequeno-pueblo-lituano-sobre-turismo-sostenible/",
+      "fecha": "Thu, 08 Oct 2026 06:00:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "Druskininkai encontró en su patrimonio natural y cultural una vía de desarrollo para cambiar la desesperanza por un futuro turístico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los israelíes exigen que se rindan cuentas por los errores del 7 de octubre, tres años después de los ataques de Hamás",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-israelies-exigen-que-se-rindan-cuentas-por-los-errores-del-7-de-octubre-tres-anos-despues-de-los-ataques-de-hamas/",
+      "fecha": "Thu, 08 Oct 2026 04:20:02 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El primer ministro israelí, Benjamin Netanyahu, se niega a asumir cualquier responsabilidad personal por lo sucedido o a ordenar una investigación estatal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De Elon Musk a Satya Nadella: Trump concederá las máximas distinciones científicas y tecnológicas a figuras destacadas de la industria",
+      "link": "https://www.prensalibre.com/internacional/de-elon-musk-a-satya-nadella-trump-concedera-las-maximas-distinciones-cientificas-y-tecnologicas-a-figuras-destacadas-de-la-industria/",
+      "fecha": "Thu, 08 Oct 2026 03:42:23 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente estadounidense entregará el máximo galardón científico a magnates tecnológicas tras superar diferencias políticas con ellos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Junta Monetaria nombra nuevas autoridades del Banguat tras renuncia de cuerpo gerencial",
+      "link": "https://www.prensalibre.com/economia/junta-monetaria-nombra-nuevas-autoridades-del-banguat-tras-renuncia-de-cuerpo-gerencial-breaking/",
+      "fecha": "Thu, 08 Oct 2026 03:02:28 +0000",
+      "categoria": "Economía",
+      "resumen": "La Junta Monetaria nombró nuevas autoridades del Banco de Guatemala, luego de aceptar la renuncia de cuatro gerentes; algunos optaron por jubilarse."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Ximena Carrillo, la representante de Guatemala en Miss Grand Internacional?",
+      "link": "https://www.prensalibre.com/vida/escenario/quien-es-ximena-carrillo-la-representante-de-guatemala-en-miss-grand-internacional/",
+      "fecha": "Thu, 08 Oct 2026 03:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La candidata guatemalteca, que acapara miradas en Tailandia, ha tenido una sólida preparación como modelo y estudia Marketing."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“La evidencia que puede grabar un testigo no es igual”: PNC reporta 10 presuntos delincuentes abatidos en enfrentamientos",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/la-evidencia-que-puede-grabar-un-testigo-no-es-igual-pnc-reporta-10-presuntos-delincuentes-abatidos-en-enfrentamientos/",
+      "fecha": "Thu, 08 Oct 2026 02:44:34 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La PNC reporta que 10 presuntos delincuentes murieron y 35 fueron detenidos durante procedimientos que derivaron en enfrentamientos armados en lo que va del 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estudios confirman daños severos en puente del Periférico y Covial anuncia reparación temporal",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/estudios-confirman-danos-severos-en-puente-del-periferico-y-covial-anuncia-reparacion-temporal/",
+      "fecha": "Thu, 08 Oct 2026 02:28:38 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Covial reparará durante tres semanas una viga con daños severos en el puente del Periférico, pero advierte que la intervención será temporal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salario mínimo en Nueva York: ¿cuánto podrían cobrar los trabajadores desde marzo de 2027?",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/salario-minimo-en-nueva-york-cuanto-podrian-cobrar-los-trabajadores-desde-marzo-de-2027/",
+      "fecha": "Thu, 08 Oct 2026 02:27:56 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Nueva York propone aumentar el salario mínimo a partir de marzo del 2027, pero el ajuste depende de la aprobación de los legisladores estatales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Prensa Libre advierte sobre publicación falsa que utiliza su logotipo y ofrece supuestas ganancias",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/prensa-libre-advierte-sobre-publicacion-falsa-que-utiliza-su-logotipo-y-ofrece-supuestas-ganancias/",
+      "fecha": "Thu, 08 Oct 2026 02:11:24 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Una publicación utiliza sin autorización logotipos e imágenes de Prensa Libre y atribuye a Ricardo Castillo Sinibaldi una supuesta iniciativa de inversión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miss Grand Guatemala: Ximena Carrillo deslumbra con singular traje inspirado en el Popol Vuh",
+      "link": "https://www.prensalibre.com/vida/escenario/miss-grand-guatemala-ximena-carrillo-deslumbra-con-singular-traje-inspirado-en-el-popol-vuh/",
+      "fecha": "Thu, 08 Oct 2026 02:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La representante de Guatemala sigue destacándose entre las candidatas internacionales y esta vez lo hizo con un diseño de Maximiliano Reyes, Peter Sutuc y Régis Gómez."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Peste pulmonar en Rusia: por qué Trump descarta un vínculo con un arma biológica",
+      "link": "https://www.prensalibre.com/internacional/peste-pulmonar-en-rusia-por-que-trump-descarta-un-vinculo-con-un-arma-biologica/",
+      "fecha": "Thu, 08 Oct 2026 01:06:24 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente estadounidense analiza la alerta por peste pulmonar y descarta su uso como arma biológica."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Remesas en Guatemala superan US$20 mil millones a septiembre y por qué persiste la desaceleración",
@@ -595,228 +811,12 @@
       "resumen": "Las investigaciones demuestran que si el sistema nervioso del cerebro no funciona correctamente, se acumulan desechos celulares. ¿Cómo deshacerse de ellos?"
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump guardó silencio en las elecciones de Brasil y eso pudo beneficiar a su aliado",
-      "link": "https://www.prensalibre.com/internacional/trump-guardo-silencio-en-las-elecciones-de-brasil-y-eso-pudo-beneficiar-a-su-aliado/",
-      "fecha": "Wed, 07 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Flávio Bolsonaro llegó a la segunda vuelta como favorito, mientras la Casa Blanca busca evitar acciones que puedan favorecer políticamente a  Luiz Inácio Lula da Silva."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Y ahora, ¿quién podrá defendernos?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/y-ahora-quien-podra-defendernos/",
-      "fecha": "Wed, 07 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El poder político viene dado por los votos, y son los votos los que quitan o confieren legitimidad a los personajes públicos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En medio de la incertidumbre",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/en-medio-de-la-incertidumbre/",
-      "fecha": "Wed, 07 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Guatemala estará inmersa en un convulso ambiente electoral de lucha por el poder político."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cierre del Banco de Comercio en 2007",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/cierre-del-banco-de-comercio-en-2007/",
-      "fecha": "Wed, 07 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Se autorizó la impresión de billetes después de un faltante de los mismos durante la Navidad 2006."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Que valga la pena nacer aquí",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/que-valga-la-pena-nacer-aqui/",
-      "fecha": "Wed, 07 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Una forma de medir el amor que sentimos por nuestro país es preguntarnos qué estamos dispuestos a hacer por quienes todavía no han llegado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy miércoles 7 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-7-de-octubre-de-2026/",
-      "fecha": "Wed, 07 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "CIV tenía previsto reemplazar el puente Huijó antes del colapso, pero aún no ha licitado obra",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/civ-tenia-previsto-reemplazar-el-puente-huijo-antes-del-colapso-pero-aun-no-ha-licitado-obra/",
-      "fecha": "Wed, 07 Oct 2026 06:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Sustitución de puente está prevista dentro de ampliación de la carretera El Rancho–Teculután . Experto sugiere inspección en los demás puentes de la CA9-Norte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El creciente acercamiento de España a China y las tensiones que provoca en la Unión Europea",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-creciente-acercamiento-de-espana-a-china-y-las-tensiones-que-provoca-en-la-union-europea/",
-      "fecha": "Wed, 07 Oct 2026 05:01:15 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En medio de la agitación mundial, las estrechas relaciones entre ambos países despiertan recelos dentro de la Unión Europea."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Dejemos que destruyan Los Ángeles”: la polémica frase de Trump sobre la guerra con Irán",
-      "link": "https://www.prensalibre.com/internacional/dejemos-que-destruyan-los-angeles-la-polemica-frase-de-trump-sobre-la-guerra-con-iran/",
-      "fecha": "Wed, 07 Oct 2026 03:23:02 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump genera polémica tras decir que Los Ángeles y San Diego podrían ser destruidas en el conflicto con Irán, declaraciones rechazadas por líderes de California."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Ninguna puede pasar desapercibida”: 258 alertas Alba-Keneth podrían estar ligadas a violencia sexual en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ninguna-puede-pasar-desapercibida-258-alertas-alba-keneth-podrian-estar-ligadas-a-violencia-sexual-en-guatemala/",
-      "fecha": "Wed, 07 Oct 2026 03:01:04 +0000",
-      "categoria": "Sucesos",
-      "resumen": "La PGN reporta 258 alertas Alba-Keneth que podrían estar relacionadas con delitos de violencia sexual contra niñas, niños y adolescentes en lo que va del año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Timbiriche: Integrantes originales afirman que no autorizaron serie de ViX",
-      "link": "https://www.prensalibre.com/vida/escenario/timbiriche-integrantes-originales-afirman-que-no-autorizaron-serie-de-vix/",
-      "fecha": "Wed, 07 Oct 2026 02:33:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Benny Ibarra, Alix Bauer, Diego Schoening, Mariana Garza, Erik Rubín y Sasha Sokol dejaron claro que no fueron consultados ni invitados a ver la serie."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Por las buenas o por las malas&#8221;: el ultimátum de Donald Trump sobre el fin de la guerra en Irán",
-      "link": "https://www.prensalibre.com/internacional/por-las-buenas-o-por-las-malas-el-ultimatum-de-donald-trump-sobre-el-fin-de-la-guerra-en-iran/",
-      "fecha": "Wed, 07 Oct 2026 02:12:39 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente Trump asegura que el fin de la guerra con Irán se dará \"muy pronto\", mientras se acercan las elecciones intermedias en los Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quiénes pueden ser beneficiarios del IGSS y qué atención pueden recibir?",
-      "link": "https://www.prensalibre.com/economia/quienes-pueden-ser-beneficiarios-del-igss-y-que-atencion-pueden-recibir/",
-      "fecha": "Wed, 07 Oct 2026 02:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La cobertura del IGSS para los beneficiarios no es igual para todos. La atención depende del parentesco con el trabajador afiliado, el programa del Seguro Social y, en algunos casos, del departamento donde reside y trabaja."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Exministro Javier Maldonado muere luego de ser localizado con herida de bala en la zona 15",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/exministro-javier-maldonado-resulta-herido-de-bala-en-inmueble-de-la-zona-15-breaking/",
-      "fecha": "Wed, 07 Oct 2026 01:42:26 +0000",
-      "categoria": "Sucesos",
-      "resumen": "El exministro de Comunicaciones Javier Maldonado murió luego de ser localizado con una herida de bala en la cabeza en un inmueble de la zona 15."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Christa Pike está consciente tras su fallida ejecución: esto dicen sus abogados sobre su recuperación",
-      "link": "https://www.prensalibre.com/internacional/christa-pike-esta-consciente-tras-su-fallida-ejecucion-esto-dicen-sus-abogados-sobre-su-recuperacion/",
-      "fecha": "Wed, 07 Oct 2026 01:26:59 +0000",
-      "categoria": "Internacional",
-      "resumen": "Christa Pike está consciente y puede hablar tras su fallida ejecución. Sus abogados explican cómo evoluciona su salud y qué esperan de su recuperación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Amplía la cobertura en un sector de alta circulación y actividad comercial.",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/amplia-la-cobertura-en-un-sector-de-alta-circulacion-y-actividad-comercial/",
-      "fecha": "Wed, 07 Oct 2026 01:22:20 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Grupo de Tiendas Asociadas (GTA), empresa 100% guatemalteca fundada en 1995, inaugura la sucursal 46 de Supermercado Suma Gran Vía Roosevelt, ubicada en Calzada Roosevelt 21-09, zona 7 de la ciudad capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gerente del Año 2026: 12 ejecutivos y emprendedores compiten por los reconocimientos de la AGG",
-      "link": "https://www.prensalibre.com/economia/gerente-del-ano-2026-12-ejecutivos-y-emprendedores-compiten-por-los-reconocimientos-de-la-agg/",
-      "fecha": "Wed, 07 Oct 2026 01:17:45 +0000",
-      "categoria": "Economía",
-      "resumen": "Doce ejecutivos y emprendedores compiten por los reconocimientos de la AGG. Quiénes son los nominados, sus logros, las categorías en las que participan, quiénes pueden votar y hasta cuándo estará abierta la votación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Messi, entre lágrimas, fuegos artificiales y goles en su despedida con Argentina",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/messi-al-borde-de-las-lagrimas-en-su-despedida-con-argentina-breaking/",
-      "fecha": "Wed, 07 Oct 2026 00:52:37 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El capitán argentino marcó, lloró y vivió un momento de profunda emoción en su último partido con la Albiceleste en el Monumental."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mató a su madre y a su sobrino: hombre recibe 54 años de prisión por estrangularlos en San José Pinula",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mato-a-su-madre-y-a-su-sobrino-hombre-recibe-54-anos-de-prision-por-estrangularlos-en-san-jose-pinula-breaking/",
-      "fecha": "Wed, 07 Oct 2026 00:38:35 +0000",
-      "categoria": "Justicia",
-      "resumen": "Un tribunal condenó a 54 años de prisión inconmutables a Williams Paredes Chávez por el parricidio de su madre y el asesinato de su sobrino."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡Adiós, capitán! Messi recibe un homenaje multitudinario en su despedida de Argentina",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/adios-capitan-messi-recibe-un-homenaje-multitudinario-en-su-despedida-de-argentina-breaking/",
-      "fecha": "Wed, 07 Oct 2026 00:09:42 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Lionel Messi vivió una noche cargada de emoción en el Monumental, donde más de 85 mil aficionados lo ovacionaron durante su último partido con la selección argentina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rostro de fe: Artista peruano realiza la primera estatua hiperrealista del papa León XIV",
-      "link": "https://www.prensalibre.com/vida/escenario/rostro-de-fe-artista-peruano-realiza-la-primera-estatua-hiperrealista-del-papa-leon-xiv/",
-      "fecha": "Wed, 07 Oct 2026 00:00:33 +0000",
-      "categoria": "Escenario",
-      "resumen": "Walt Wizard dedica la obra de arte al líder religioso que tiene fuertes vínculos con Perú."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos muertos y un menor herido tras ataque y enfrentamiento armado con la PNC en zona 6",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/enfrentamiento-entre-pnc-y-presuntos-sicarios-deja-un-muerto-y-un-herido-en-la-zona-6/",
-      "fecha": "Wed, 07 Oct 2026 00:00:18 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Dos personas murieron tras un ataque y un enfrentamiento armado en zona 6; un menor resultó herido y quedó bajo custodia de la PNC."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "CC confirma arresto domiciliario de Jose Rubén Zamora tras segundo desistimiento del MP",
-      "link": "https://www.prensalibre.com/guatemala/justicia/cc-confirma-arresto-domiciliario-de-jose-ruben-zamora-tras-segundo-desistimiento-del-mp/",
-      "fecha": "Tue, 06 Oct 2026 23:43:54 +0000",
-      "categoria": "Justicia",
-      "resumen": "La CC confirmó el arresto domiciliario de Jose Rubén Zamora al aceptar un segundo desistimiento del MP."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los Premios Emmy se mudan a Prime Video a partir del 2027",
-      "link": "https://www.prensalibre.com/vida/escenario/los-premios-emmy-se-mudan-a-prime-video-a-partir-del-2027/",
-      "fecha": "Tue, 06 Oct 2026 23:26:13 +0000",
-      "categoria": "Escenario",
-      "resumen": "La gala en la que se reconoce lo mejor de la televisión se traslada de plataforma y le apuesta al streaming."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Adelina Castillo, Miss Universe Guatemala, fue destacada en programas de Telemundo",
       "link": "https://www.guatemala.com/noticias/sociedad/miss-universe-guatemala-2026-adelina-castillo-fue-destacada-telemundo.html",
       "fecha": "Tue, 06 Oct 2026 23:12:51 +0000",
       "categoria": "Sociedad",
       "resumen": "Miss Universe Guatemala 2026, Adelina Castillo, fue entrevistada en Hoy Día y otros programas de Telemundo en Estados Unidos.\nThe post Adelina Castillo, Miss Universe Guatemala, fue destacada en programas de Telemundo appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué se sabe del caso de la trabajadora de un laboratorio ruso que falleció en un centro de investigación de la peste en Siberia y que preocupa a EE.UU. y otros países",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-se-sabe-del-caso-de-la-trabajadora-de-un-laboratorio-ruso-que-fallecio-en-un-centro-de-investigacion-de-la-peste-en-siberia-y-que-preocupa-a-ee-uu-y-otros-paises/",
-      "fecha": "Tue, 06 Oct 2026 23:07:57 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Se trata de la joven de 28 años, Darya Shipilova, quien murió la noche del pasado 2 de octubre en Shelekhov, Rusia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Encuentran con vida a cinco pescadores nicaragüenses en aguas guatemaltecas tras 22 días desaparecidos",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/encuentran-con-vida-a-cinco-pescadores-nicaraguenses-en-aguas-guatemaltecas-tras-22-dias-desaparecidos/",
-      "fecha": "Tue, 06 Oct 2026 23:01:19 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Cinco pescadores nicaragüenses fueron localizados con vida en el Pacífico de Guatemala tras permanecer 22 días a la deriva por una falla en el motor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Christa Pike se encuentra &#8220;consciente y hablando&#8221; tras la fallida ejecución a la que la sometieron en Tennessee",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/christa-pike-se-encuentra-consciente-y-hablando-tras-la-fallida-ejecucion-a-la-que-la-sometieron-en-tennessee/",
-      "fecha": "Tue, 06 Oct 2026 22:59:01 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los abogados de Christa Pike dicen que la mujer recobró la consicencia después de haber recibido dos inyecciones letales la semana pasada."
     },
     {
       "fuente": "Guatemala.com",
