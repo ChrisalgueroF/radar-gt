@@ -1,7 +1,143 @@
 {
-  "actualizado": "2026-10-08T08:40:14.790Z",
+  "actualizado": "2026-10-08T16:15:54.977Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Me deben una disculpa”: La madre de la víctima de Christa Pike reacciona tras su ejecución fallida",
+      "link": "https://www.prensalibre.com/internacional/me-deben-una-disculpa-la-madre-de-la-victima-de-christa-pike-reacciona-tras-su-ejecucion-fallida/",
+      "fecha": "Thu, 08 Oct 2026 15:49:17 +0000",
+      "categoria": "Internacional",
+      "resumen": "May Martínez criticó que la atención mediática y judicial se centre en Christa Pike y sus traumas infantiles, mientras se deja de lado el sufrimiento y la memoria de Colleen Slemmer."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Anne Carson: ¿cuántos libros ha publicado la ganadora del Premio Nobel de Literatura 2026 y cuáles se han traducido al español?",
+      "link": "https://www.prensalibre.com/vida/escenario/anne-carson-cuantos-libros-ha-publicado-la-ganadora-del-premio-nobel-de-literatura-2026-y-cuales-se-han-traducido-al-espanol/",
+      "fecha": "Thu, 08 Oct 2026 15:35:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La trayectoria literaria de la poeta y ensayista, considerada por muchos como la voz más relevante de las letras anglosajonas contemporáneas, contempla desde ensayos hasta libros objeto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué le propuso el presidente de la Conmebol a Lionel Messi sobre la Copa Libertadores?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/que-le-propuso-el-presidente-de-la-conmebol-a-lionel-messi-sobre-la-copa-libertadores/",
+      "fecha": "Thu, 08 Oct 2026 15:25:19 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "A pesar de haber conquistado prácticamente todos los títulos posibles a nivel de clubes y selecciones,  Messi todavía tiene una asignatura pendiente: disputar la Copa Libertadores, el máximo torneo de clubes de Sudamérica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Temblores en Guatemala: Insivumeh reporta tres sismos, uno con epicentro en Escuintla",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-8-de-octubre-de-2026-en-guatemala-breaking/",
+      "fecha": "Thu, 08 Oct 2026 15:13:03 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh ha registrado tres sismos en Guatemala durante las primeras horas de este jueves 8 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Romário respalda a Cristiano Ronaldo por dejar la selección portuguesa: “Yo también habría hecho lo mismo”",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/romario-respalda-a-cristiano-ronaldo-por-dejar-la-seleccion-portuguesa-yo-tambien-habria-hecho-lo-mismo/",
+      "fecha": "Thu, 08 Oct 2026 15:10:19 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El exfutbolista brasileño Romário salió en defensa de Cristiano Ronaldo y aseguró que habría actuado de la misma manera tras sentirse irrespetado por el técnico Jorge Jesus."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Manifestantes interrumpen a Trump: Tensión y enfrentamientos durante el mitin en San Antonio",
+      "link": "https://www.prensalibre.com/internacional/manifestantes-interrumpen-a-trump-tension-y-enfrentamientos-durante-el-mitin-en-san-antonio/",
+      "fecha": "Thu, 08 Oct 2026 14:28:38 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump se vio obligado a interrumpir su discurso durante su mitin en San Antonio por las protestas de hispanos y latinos, que representan el 64% de la población de Texas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lluvias provocan emergencias en Guatemala: reportan derrumbes, inundaciones y un vehículo arrastrado",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-provocan-emergencias-en-guatemala-reportan-derrumbes-inundaciones-y-un-vehiculo-arrastrado-breaking/",
+      "fecha": "Thu, 08 Oct 2026 14:10:34 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Conred informó que en las últimas horas se registraron 18 emergencias relacionadas con las lluvias en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Canasta básica e inflación: cuánto cuesta alimentarse en Guatemala y por qué están subiendo los precios",
+      "link": "https://www.prensalibre.com/economia/canasta-basica-e-inflacion-cuanto-cuesta-alimentarse-en-guatemala-y-por-que-estan-subiendo-los-precios/",
+      "fecha": "Thu, 08 Oct 2026 14:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La inflación alcanzó 4.69% en septiembre, mientras las canastas básicas urbana y rural registraron nuevos aumentos. ¿Qué significa este indicador y cómo puede reflejarse en el bolsillo de los hogares?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Paolo Dantaz, el nuevo refuerzo de Comunicaciones para el Torneo Apertura?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/paolo-dantaz-se-suma-a-comunicaciones-para-el-cierre-del-apertura-breaking/",
+      "fecha": "Thu, 08 Oct 2026 13:55:03 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El mediocampista uruguayo fue presentado oficialmente como nuevo refuerzo de Comunicaciones y este jueves se pondrá a las órdenes de Roberto Montoya."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Isaías alcanza categoría de huracán: Insivumeh explica los posibles efectos sobre Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/isaias-alcanza-categoria-de-huracan-insivumeh-explica-los-posibles-efectos-sobre-guatemala-breaking/",
+      "fecha": "Thu, 08 Oct 2026 13:12:43 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El huracán Isaías se encuentra en el golfo de México y el Insivumeh detalla si tendrá efectos en el clima de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Klissman Lemus: de dejar el futbol a los 22 años a construir su historia como entrenador en Guatemala",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/klissman-lemus-de-dejar-el-futbol-a-los-22-anos-a-construir-su-historia-como-entrenador-en-guatemala-breaking/",
+      "fecha": "Thu, 08 Oct 2026 13:10:36 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Tras retirarse como futbolista a los 22 años, Klissman Lemus encontró en el banquillo una nueva oportunidad y hoy lidera la transformación de Nueva Santa Rosa en la Primera División."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comunicaciones mueve su plantilla: estos son los dos jugadores que llegan al equipo albo",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-mueve-su-plantilla-estos-son-los-dos-jugadores-que-llegan-al-equipo-albo/",
+      "fecha": "Thu, 08 Oct 2026 12:39:46 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los cremas no bajan los brazos en el Apertura 2026. Comunicaciones suma un defensor y un atacante para fortalecer su plantilla en la lucha por la fase final."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo llegó Colombia a tener una deuda tan alta (y por qué De la Espriella tendrá que aumentarla)",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/como-llego-colombia-a-tener-una-deuda-tan-alta-y-por-que-de-la-espriella-tendra-que-aumentarla/",
+      "fecha": "Thu, 08 Oct 2026 12:18:52 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El presupuesto presentado por el gobierno de De la Espriella prevee que la deuda llegará a 66,2% del PIB en 2027, la más alta de la historia del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un país ante el cáncer: formar especialistas tomará más tiempo que construir el nuevo hospital",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/un-pais-ante-el-cancer-formar-especialistas-tomara-mas-tiempo-que-construir-el-nuevo-hospital/",
+      "fecha": "Thu, 08 Oct 2026 12:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El futuro hospital especializado contra el cáncer podría construirse en unos tres años, pero formar a un oncólogo requiere hasta 16, según el ginecólogo oncólogo Julio Lau."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La escritora canadiense Anne Carson gana el Premio Nobel de Literatura 2026",
+      "link": "https://www.prensalibre.com/vida/escenario/la-escritora-canadiense-anne-carson-gana-el-premio-nobel-de-literatura-2026/",
+      "fecha": "Thu, 08 Oct 2026 11:56:06 +0000",
+      "categoria": "Escenario",
+      "resumen": "La autora ganadora es  una poeta, ensayista, traductora y profesora apasionada por la literatura clásica de Grecia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Si heredamos los mismos genes y crecimos en el mismo ambiente, ¿por qué mi hermana tiene esquizofrenia y yo no?&#8221;: la científica mexicana que lleva más de 20 años buscando una respuesta",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/si-heredamos-los-mismos-genes-y-crecimos-en-el-mismo-ambiente-por-que-mi-hermana-tiene-esquizofrenia-y-yo-no-la-cientifica-mexicana-que-lleva-mas-de-20-anos-buscando-una-respuesta/",
+      "fecha": "Thu, 08 Oct 2026 11:26:20 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La doctora Consuelo Walss-Bass lleva décadas estudiando las causas biológicas de la esquizofrenia, la enfermedad que ha marcado profundamente su vida desde que era una niña. Su madre y su hermana la padecen."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué China considera una amenaza la IA que imita las relaciones humanas",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/por-que-china-considera-una-amenaza-la-ia-que-imita-las-relaciones-humanas/",
+      "fecha": "Thu, 08 Oct 2026 10:38:00 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Pekín ha intensificado la represión contra los chatbots de IA capaces de replicar las relaciones humanas. Los expertos se preguntan si esta medida es la correcta."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Dragados, remuneraciones y seguridad: para qué pide Defensa Q6 mil 374 millones en 2027",
@@ -172,10 +308,10 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "“La evidencia que puede grabar un testigo no es igual”: PNC reporta 10 presuntos delincuentes abatidos en enfrentamientos",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/la-evidencia-que-puede-grabar-un-testigo-no-es-igual-pnc-reporta-10-presuntos-delincuentes-abatidos-en-enfrentamientos/",
+      "titulo": "PNC reporta 10 presuntos delincuentes abatidos en 2026: qué dicen los registros de los enfrentamientos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/la-evidencia-que-puede-grabar-un-testigo-no-es-igual-pnc-reporta-10-presuntos-delincuentes-abatidos-en-enfrentamientos/",
       "fecha": "Thu, 08 Oct 2026 02:44:34 +0000",
-      "categoria": "Comunitario",
+      "categoria": "Justicia",
       "resumen": "La PNC reporta que 10 presuntos delincuentes murieron y 35 fueron detenidos durante procedimientos que derivaron en enfrentamientos armados en lo que va del 2026."
     },
     {
@@ -220,7 +356,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Remesas en Guatemala superan US$20 mil millones a septiembre y por qué persiste la desaceleración",
+      "titulo": "Remesas en Guatemala: por qué se desacelera el envío de dinero pese a superar los US$20 mil millones",
       "link": "https://www.prensalibre.com/economia/remesas-en-guatemala-superan-us20-mil-millones-a-septiembre-y-por-que-persiste-la-desaceleracion/",
       "fecha": "Thu, 08 Oct 2026 01:00:00 +0000",
       "categoria": "Economía",
@@ -673,142 +809,6 @@
       "fecha": "Wed, 07 Oct 2026 14:36:03 +0000",
       "categoria": "Entretenimiento",
       "resumen": "Ximena Carrillo presentó el traje nacional de Guatemala en Miss Grand International 2026, inspirado en Camazotz, el Guardián de Xibalbá.\nThe post El traje de Ximena Carrillo que representa a Guatemala en Miss Grand International 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De Pelé y Maradona a Messi: así fueron las despedidas de las grandes leyendas del futbol",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/de-pele-y-maradona-a-messi-asi-fueron-las-despedidas-de-las-grandes-leyendas-del-futbol/",
-      "fecha": "Wed, 07 Oct 2026 14:30:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La despedida de Lionel Messi con Argentina lo coloca en una lista reservada para las mayores leyendas del futbol mundial. Pelé, Maradona, Beckenbauer, Platini y Zico también tuvieron homenajes que quedaron grabados para siempre en la memoria de sus aficionados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tormenta tropical Isaías: a qué distancia está de Guatemala y qué efectos podría provocar",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/tormenta-tropical-isaias-a-que-distancia-esta-de-guatemala-y-que-efectos-podria-provocar-breaking/",
-      "fecha": "Wed, 07 Oct 2026 14:24:16 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La tormenta tropical Isaías se desplaza por el golfo de México y el Insivumeh explica cuáles podrían ser sus efectos en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Selección de Guatemala: la Bicolor sube en el Ranking Fifa y esta es su nueva posición",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-la-bicolor-sube-en-el-ranking-fifa-y-esta-es-su-nueva-posicion/",
-      "fecha": "Wed, 07 Oct 2026 14:12:29 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los recientes resultados de la Azul y Blanco continúan generando buenas noticias. Su histórica clasificación a los cuartos de final de la Liga de Naciones también tuvo impacto en el Ranking Fifa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Temblor de magnitud 5.6 y otro de 4.1 se registran frente a las costas del Pacífico este 7 de octubre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-7-de-octubre-de-2026-en-guatemala-breaking/",
-      "fecha": "Wed, 07 Oct 2026 13:50:56 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh reporta que este 7 de octubre han ocurrido dos temblores con epicentro en el océano Pacífico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala: Insivumeh prevé lluvias con actividad eléctrica este 7 de octubre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-insivumeh-preve-lluvias-con-actividad-electrica-este-7-de-octubre-breaking/",
-      "fecha": "Wed, 07 Oct 2026 13:14:30 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Según el pronóstico, el ingreso de humedad traerá lluvias a Guatemala este miércoles 7 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo está cambiando el clima en Guatemala y qué tendremos que hacer para adaptarnos? Regístrese en el webinar de PLExplica",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/como-esta-cambiando-el-clima-y-que-tendremos-que-hacer-para-adaptarnos/",
-      "fecha": "Wed, 07 Oct 2026 13:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El cambio climático ya modifica las temperaturas, las lluvias, altera la producción de los alimentos y la salud. Conozca qué está pasando en Guatemala en el webinar de PLExplica, este jueves 8 de octubre a las 15 horas; regístrese con su correo para participar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo se ha degradado la &#8220;relación estratégica&#8221; que mantienen Venezuela y Cuba desde hace años tras la captura de Maduro",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-se-ha-degradado-la-relacion-estrategica-que-mantienen-venezuela-y-cuba-desde-hace-anos-tras-la-captura-de-maduro/",
-      "fecha": "Wed, 07 Oct 2026 12:40:19 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Nueves meses después de la captura de Maduro, la alianza estratégica forjada durante más de un cuarto de siglo entre ambos gobiernos da señales de debilitamiento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Premian con el Nobel de Química a dos investigadores que revolucionaron la fabricación de medicamentos, fragancias y nuevos materiales",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/premian-con-el-nobel-de-quimica-a-dos-investigadores-que-revolucionaron-la-fabricacion-de-medicamentos-fragancias-y-nuevos-materiales/",
-      "fecha": "Wed, 07 Oct 2026 12:25:45 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El jurado señaló que sus descubrimientos contribuyeron a resolver \"uno de los mayores misterios de la química\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Uno de cada cuatro de nosotros fue secuestrado o asesinado&#8221;: cómo intentan reconstruir sus vidas los residentes de un kibutz israelí devastado por los ataques de Hamás del 7 de octubre",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/uno-de-cada-cuatro-de-nosotros-fue-secuestrado-o-asesinado-como-intentan-reconstruir-sus-vidas-los-residentes-de-un-kibutz-israeli-devastado-por-los-ataques-de-hamas-del-7-de-octubre/",
-      "fecha": "Wed, 07 Oct 2026 12:05:43 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Tres años después del ataque a Nir Oz, en el que murieron 47 personas y 76 fueron tomadas como rehenes, algunos sobrevivientes han regresado a vivir allí. Los recuerdos son difíciles e imborrables."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un país ante el cáncer: lo que también necesita un paciente durante el tratamiento",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/un-pais-ante-el-cancer-lo-que-tambien-necesita-un-paciente-durante-el-tratamiento/",
-      "fecha": "Wed, 07 Oct 2026 12:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La atención no termina en cirugía, quimioterapia o radioterapia: salud mental, nutrición, rehabilitación y cuidados paliativos también forman parte de las necesidades del paciente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MEM analiza apoyo temporal ante tercera alza del gas propano en 2026",
-      "link": "https://www.prensalibre.com/economia/mem-analiza-apoyo-temporal-ante-tercera-alza-del-gas-propano-en-2026/",
-      "fecha": "Wed, 07 Oct 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El precio del gas propano acumula un incremento de 24% durante el 2026, mientras el MEM prepara un escenario de apoyo para los consumidores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Exención a los combustibles termina en diciembre: la medida que diputados buscan para evitar un impacto en enero",
-      "link": "https://www.prensalibre.com/guatemala/politica/exencion-a-los-combustibles-termina-en-diciembre-la-medida-que-diputados-buscan-para-evitar-un-impacto-en-enero/",
-      "fecha": "Wed, 07 Oct 2026 06:12:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El fin de la exención de impuestos a los combustibles podría representar un problema para los consumidores en enero del 2027, por lo que diputados de distintas bancadas analizan la creación de un fondo de compensación para contener posibles incrementos de precios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cacif cuestiona nombramiento de Jonathan Menkos y advierte riesgos en decisiones de la Junta Monetaria",
-      "link": "https://www.prensalibre.com/economia/cacif-cuestiona-nombramiento-de-jonathan-menkos-y-advierte-riesgos-en-decisiones-de-la-junta-monetaria/",
-      "fecha": "Wed, 07 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La tensión por el nombramiento de Jonathan Menkos como presidente del Banco de Guatemala (Banguat) y de la Junta Monetaria (JM) escaló a la Corte de Constitucionalidad (CC), que deberá conocer tres amparos interpuestos contra su designación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "A la búsqueda de protección",
-      "link": "https://www.prensalibre.com/opinion/caricatura/a-la-busqueda-de-proteccion/",
-      "fecha": "Wed, 07 Oct 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Extraña mayoría en elección de contralor",
-      "link": "https://www.prensalibre.com/opinion/editorial/extrana-mayoria-en-eleccion-de-contralor/",
-      "fecha": "Wed, 07 Oct 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "El contralor general de Cuentas no debe tener ninguna otra fidelidad que el mejor interés de la ciudadanía que con esfuerzo paga sus impuestos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lecciones derivadas de comicios en Brasil",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/lecciones-derivadas-de-comicios-en-brasil/",
-      "fecha": "Wed, 07 Oct 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Las elecciones dominicales de Brasil demostraron los problemas provocados por el pluri-pseudo-partidismo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tres maneras respaldadas por la ciencia para ayudar a su cerebro a eliminar desechos",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/tres-maneras-respaldadas-por-la-ciencia-para-ayudar-a-su-cerebro-a-eliminar-desechos/",
-      "fecha": "Wed, 07 Oct 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Las investigaciones demuestran que si el sistema nervioso del cerebro no funciona correctamente, se acumulan desechos celulares. ¿Cómo deshacerse de ellos?"
     },
     {
       "fuente": "Guatemala.com",
