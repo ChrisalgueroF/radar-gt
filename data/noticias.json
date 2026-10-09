@@ -1,7 +1,223 @@
 {
-  "actualizado": "2026-10-09T16:00:11.753Z",
+  "actualizado": "2026-10-09T20:48:42.498Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Licenciatura en Global Business Management + Master in Management: una ruta para formarse en negocios globales",
+      "link": "https://www.guatemala.com/noticias/sociedad/licenciatura-global-business-management-master-management-uvg.html",
+      "fecha": "Fri, 09 Oct 2026 20:47:43 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Conoce la Licenciatura en Global Business Management + Master in Management de UVG, su ruta 4+1, especializaciones y opciones de ayuda financiera.\nThe post Licenciatura en Global Business Management + Master in Management: una ruta para formarse en negocios globales appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tras fallo de la CC sobre Jonathan Menkos, Junta Monetaria ratifica cambios en el Banguat y llama a la calma",
+      "link": "https://www.prensalibre.com/economia/tras-fallo-de-la-cc-sobre-jonathan-menkos-junta-monetaria-ratifica-cambios-en-el-banguat-y-llama-a-la-calma/",
+      "fecha": "Fri, 09 Oct 2026 20:34:55 +0000",
+      "categoria": "Economía",
+      "resumen": "La Junta Monetaria dio validez a las renuncias presentadas por el cuerpo gerencial del Banguat el miércoles 7 de octubre, durante una sesión extraordinaria en la que conoció la resolución de la CC que dejó sin efecto el nombramiento de Jonathan Menkos. Las autoridades hicieron un llamado a la calma a los agentes económicos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala vs. Canadá: Concacaf confirma los horarios de los partidos de cuartos de final de la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-concacaf-confirma-los-horarios-de-los-partidos-de-cuartos-de-final-de-la-liga-de-naciones/",
+      "fecha": "Fri, 09 Oct 2026 20:20:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Selección Nacional de Guatemala ya conoce las fechas y horarios de su serie de cuartos de final de la Liga de Naciones de Concacaf ante Canadá."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los videos de los daños que causó el terremoto de 7.7 grados en Panamá este 9 de octubre",
+      "link": "https://www.prensalibre.com/internacional/los-videos-de-los-danos-que-causo-el-terremoto-de-77-grados-en-panama-este-9-de-octubre-breaking/",
+      "fecha": "Fri, 09 Oct 2026 20:13:14 +0000",
+      "categoria": "Internacional",
+      "resumen": "En redes sociales se han publicado varios videos que muestran los daños que dejó el terremoto de 7,7 grados que se registró en Panamá este 9 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Jacob Hicks? El acusado de amenazar con un atentado con bomba contra la Casa Blanca",
+      "link": "https://www.prensalibre.com/internacional/quien-es-jacob-hicks-el-acusado-de-amenazar-con-un-atentado-con-bomba-contra-la-casa-blanca/",
+      "fecha": "Fri, 09 Oct 2026 19:43:16 +0000",
+      "categoria": "Internacional",
+      "resumen": "Jacob Aaron Hicks presuntamente envió un correo a una emisora de noticias local, en el que afirmaba que habría un ataque con bomba inminente contra la Casa Blanca."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pepo Toledo presenta su libro &#8220;Manual de vida&#8221;",
+      "link": "https://www.prensalibre.com/vida/escenario/pepo-toledo-presenta-su-libro-manual-de-vida/",
+      "fecha": "Fri, 09 Oct 2026 19:12:10 +0000",
+      "categoria": "Escenario",
+      "resumen": "El artista multidisciplinario ofrece en este ejemplar una guía de sanación a través la espiritualidad."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "La totalmente nueva MAZDA CX-5 ya está disponible en Guatemala",
+      "link": "https://www.guatemala.com/noticias/sociedad/totalmente-nueva-mazda-cx-5-2027-disponible-guatemala.html",
+      "fecha": "Fri, 09 Oct 2026 19:11:29 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Descubre las características de la totalmente nueva MAZDA CX-5 , modelo de SUV ya disponibles en el mercado guatemalteco.\nThe post La totalmente nueva MAZDA CX-5 ya está disponible en Guatemala appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Guatemala ingresa al top 15 de trajes nacionales de Miss Grand International 2026",
+      "link": "https://www.guatemala.com/noticias/sociedad/ximena-carrillo-logro-top-15-trajes-nacionales-miss-grand-international-2026.html",
+      "fecha": "Fri, 09 Oct 2026 19:10:47 +0000",
+      "categoria": "Sociedad",
+      "resumen": "El traje nacional de Ximena Carrillo se encuentra en el top 15 de Miss Grand International. Te contamos cómo y dónde votar por la guatemalteca.\nThe post Guatemala ingresa al top 15 de trajes nacionales de Miss Grand International 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Finaliza alerta de tsunami en el Pacífico luego de fuerte temblor en Panamá",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/insivumeh-activa-alerta-por-posible-tsunami-en-costas-del-pacifico-guatemalteco-tras-fuerte-temblor-en-panama-breaking/",
+      "fecha": "Fri, 09 Oct 2026 19:07:39 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh informa que finalizó la alerta de tsunami en costas del Pacífico luego del temblor de magnitud 7.6 registrado en Panam´á este 9 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Star Wars Galactic Racer: el videojuego que revive las carreras de la saga con mayor velocidad y peligro",
+      "link": "https://www.prensalibre.com/vida/tecnologia/star-wars-galactic-racer-el-videojuego-que-revive-las-carreras-de-la-saga-con-mayor-velocidad-y-peligro/",
+      "fecha": "Fri, 09 Oct 2026 19:01:35 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Un nuevo videojuego del universo de Star Wars revive las carreras de la saga con distintos vehículos, escenarios y desafíos que incluyen condiciones extremas en varios planetas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Mbappé va a jugar”: Mourinho sale en defensa del francés y lanza un mensaje al Bernabéu",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mbappe-va-a-jugar-mourinho-sale-en-defensa-del-frances-y-lanza-un-mensaje-al-bernabeu/",
+      "fecha": "Fri, 09 Oct 2026 18:45:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "José Mourinho salió en defensa de Kylian Mbappé y calificó como \"ridícula\" la polémica que se ha generado alrededor del delantero francés."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Usan dron acuático para ubicar helicóptero que se accidentó en el lago de Atitlán",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/usan-dron-acuatico-para-ubicar-helicoptero-que-se-accidento-en-el-lago-de-atitlan/",
+      "fecha": "Fri, 09 Oct 2026 18:31:05 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Bomberos Voluntarios hacen inmersiones en el área donde el equipo tecnológico muestra posibles restos de la aeronave. Todavía hay dos personas desaparecidas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Localizan armas y municiones en allanamientos por muerte de esposos en Sololá e investigan posible extorsión",
+      "link": "https://www.prensalibre.com/guatemala/justicia/localizan-armas-y-municiones-en-allanamientos-por-muerte-de-esposos-en-solola-e-investigan-posible-extorsion/",
+      "fecha": "Fri, 09 Oct 2026 18:29:17 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Tres hombres armados atacaron a una pareja de esposos y a su hija en Chaquijyá, Sololá. Antes del crimen, los desconocidos incendiaron dos microbuses."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Safe California”: El operativo del ICE que durará unos 45 días y genera temor por arrestos masivos",
+      "link": "https://www.prensalibre.com/internacional/safe-california-el-operativo-del-ice-que-durara-unos-45-dias-y-genera-temor-por-arrestos-masivos/",
+      "fecha": "Fri, 09 Oct 2026 18:11:24 +0000",
+      "categoria": "Internacional",
+      "resumen": "El operativo “Safe California” podría durar 45 días en el Estado Dorado y, aunque no ha sido anunciado públicamente, comenzó el 8 de octubre en San Diego."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP pide 76 años y seis meses de prisión contra acusado de matar a dos agentes de la PNC",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mp-pide-76-anos-y-seis-meses-de-prision-contra-acusado-de-matar-a-dos-agentes-de-la-pnc-breaking/",
+      "fecha": "Fri, 09 Oct 2026 18:03:55 +0000",
+      "categoria": "Justicia",
+      "resumen": "Presunto pandillero podría ser condenado a más de 76 años de prisión por el asesinato de dos agentes de la PNC."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Videos: los enfrentamientos en Nueva York tras incidente armado que involucra un agente del ICE",
+      "link": "https://www.prensalibre.com/internacional/videos-los-enfrentamientos-en-nueva-york-tras-incidente-armado-que-involucra-un-agente-del-ice/",
+      "fecha": "Fri, 09 Oct 2026 18:02:14 +0000",
+      "categoria": "Internacional",
+      "resumen": "Manifestantes y agentes de la policía protagonizaron confrontaciones en Nueva York tras un tiroteo de un agente del ICE en el Bronx."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Rafael Álvarez Ovalle: actividades gratuitas por el 168 aniversario de su natalicio y el Día del Himno Nacional de Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/rafael-alvarez-ovalle-actividades-gratuitas-por-el-168-aniversario-de-su-natalicio-y-el-dia-del-himno-nacional-de-guatemala/",
+      "fecha": "Fri, 09 Oct 2026 17:53:13 +0000",
+      "categoria": "Escenario",
+      "resumen": "La Casa de la Cultura Rafael Álvarez Ovalle conmemora el natalicio del compositor de la música del Himno Nacional de Guatemala con actividades culturales gratuitas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El sobreviviente del ataque de Fort Hood que defiende la ejecución de Nidal Hasan pero critica la transmisión en vivo del fusilamiento",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-sobreviviente-del-ataque-de-fort-hood-que-defiende-la-ejecucion-de-nidal-hasan-pero-critica-la-transmision-en-vivo-del-fusilamiento/",
+      "fecha": "Fri, 09 Oct 2026 17:42:13 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Alonzo Lunsford dice que el castigo se ajusta al delito, pero tiene dudas sobre si el fusilamiento debería ser transmitido en vivo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nathaniel Méndez-Laing se queda sin club: MK Dons confirma la salida del futbolista guatemalteco",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/nathaniel-mendez-laing-se-queda-sin-club-mk-dons-confirma-la-salida-del-futbolista-guatemalteco/",
+      "fecha": "Fri, 09 Oct 2026 17:33:14 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Nathaniel Méndez-Laing cerró su ciclo con el MK Dons. El jugador guatemalteco buscará nuevo equipo para mantenerse en competencia durante la temporada."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "«Palacio», la nueva serie de Netflix dirigida por Jayro Bustamante",
+      "link": "https://www.guatemala.com/noticias/entretenimiento/jayro-bustamante-dirige-una-serie-para-netflix.html",
+      "fecha": "Fri, 09 Oct 2026 17:15:21 +0000",
+      "categoria": "Entretenimiento",
+      "resumen": "Jayro Bustamante dirige «Palacio», serie de Netflix que presenta los hechos de la Toma del Palacio de Justicia de Bogotá. Esta es su fecha de estreno.\nThe post «Palacio», la nueva serie de Netflix dirigida por Jayro Bustamante appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La indignación en Nueva York por el caso del dominicano que recibió un disparo de ICE en su auto con su hijo de 5 años en el asiento trasero",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-indignacion-en-nueva-york-por-el-caso-del-dominicano-que-recibio-un-disparo-de-ice-en-su-auto-con-su-hijo-de-5-anos-en-el-asiento-trasero/",
+      "fecha": "Fri, 09 Oct 2026 17:13:32 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El hombre, identificado como Óscar Belgal, de 28 años, fue trasladado al hospital y está consciente, informó el DHS."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Desprendimiento de tierra sobre vivienda deja dos niñas fallecidas y una mujer herida en Joyabaj, Quiché",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/desprendimiento-de-tierra-sobre-vivienda-deja-dos-ninas-fallecidas-y-una-mujer-herida-en-joyabaj-quiche-breaking/",
+      "fecha": "Fri, 09 Oct 2026 17:03:26 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos menores perdieron la vida y una mujer resultó herida tras un desprendimiento de tierra en un inmueble en Joyabaj, Quiché."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga de Naciones: estrella de Canadá sufre una lesión ¿Estará disponible ante Guatemala?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-de-naciones-estrella-de-canada-sufre-una-lesion-estara-disponible-ante-guatemala/",
+      "fecha": "Fri, 09 Oct 2026 17:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "A semanas de la serie contra Guatemala, una lesión muscular encendió las alarmas en Canadá y genera incertidumbre sobre la disponibilidad de una de sus piezas más importantes para los cuartos de final."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala distribuye suplemento nutricional utilizado en contextos de emergencia como Siria y Sri Lanka",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-distribuye-suplemento-nutricional-utilizado-en-contextos-de-emergencia-como-siria-y-sri-lanka/",
+      "fecha": "Fri, 09 Oct 2026 17:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "En una fase inicial, el suplemento nutricional lipídico (SNL) se distribuye en siete municipios de Totonicapán y Alta Verapaz."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Marejadas y vientos &#8220;devastadores&#8221;: Así golpeará el huracán Isaías a EE. UU. este fin de semana",
+      "link": "https://www.prensalibre.com/internacional/marejadas-y-vientos-devastadores-asi-golpeara-el-huracan-isaias-a-ee-uu-este-fin-de-semana/",
+      "fecha": "Fri, 09 Oct 2026 16:54:05 +0000",
+      "categoria": "Internacional",
+      "resumen": "El NHC informó que el huracán Isaías alcanzó la categoría 3 y podría provocar marejadas \"mortales\" y vientos \"devastadores\" en EE. UU."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Papa León XIV recibió un lienzo pintado por niños guatemaltecos",
+      "link": "https://www.guatemala.com/noticias/entretenimiento/papa-leon-xiv-recibio-un-lienzo-pintado-por-ninos-guatemaltecos.html",
+      "fecha": "Fri, 09 Oct 2026 16:18:36 +0000",
+      "categoria": "Entretenimiento",
+      "resumen": "El Papa León XIV recibió un lienzo pintado por 30 niños guatemaltecos que compartieron, mediante el arte, su deseo de construir un futuro de paz.\nThe post Papa León XIV recibió un lienzo pintado por niños guatemaltecos appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nobel de la Paz: Pillay bromea sobre compartirlo con Donald Trump y recibe críticas de Netanyahu",
+      "link": "https://www.prensalibre.com/internacional/nobel-de-la-paz-pillay-bromea-sobre-compartirlo-con-donald-trump-y-recibe-criticas-de-netanyahu/",
+      "fecha": "Fri, 09 Oct 2026 16:14:50 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump anunció sanciones contra la Corte Penal Internacional apenas horas después de que se conociera que el Premio Nobel de la Paz había recaído en una de sus exjuezas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Fentanilo, metanfetamina y una red de narcotráfico: Jorge Michel Monroy, el extraditable capturado en Guatemala con vínculos en México y EE. UU.",
@@ -49,6 +265,14 @@
       "fecha": "Fri, 09 Oct 2026 15:00:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El empate 1-1 entre Antigua GFC y Municipal en el estadio Pensativo dejó sin cambios la parte alta de la clasificación del Torneo Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Tengo resaca de Rosalía”: Anne Carson, Nobel de Literatura 2026, escribe sobre la cantante tras asistir a su concierto",
+      "link": "https://www.prensalibre.com/vida/escenario/tengo-resaca-de-rosalia-anne-carson-nobel-de-literatura-2026-escribe-sobre-la-cantante-tras-asistir-a-su-concierto/",
+      "fecha": "Fri, 09 Oct 2026 14:32:37 +0000",
+      "categoria": "Escenario",
+      "resumen": "Tras recibir el Premio Nobel de Literatura 2026, cobró relevancia un artículo en el que la escritora canadiense Anne Carson relata su experiencia en un concierto de Rosalía."
     },
     {
       "fuente": "Prensa Libre",
@@ -635,190 +859,6 @@
       "resumen": "La trayectoria literaria de la poeta y ensayista, considerada por muchos como la voz más relevante de las letras anglosajonas contemporáneas, contempla desde ensayos hasta libros objeto."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué le propuso el presidente de la Conmebol a Lionel Messi sobre la Copa Libertadores?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/que-le-propuso-el-presidente-de-la-conmebol-a-lionel-messi-sobre-la-copa-libertadores/",
-      "fecha": "Thu, 08 Oct 2026 15:25:19 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "A pesar de haber conquistado prácticamente todos los títulos posibles a nivel de clubes y selecciones,  Messi todavía tiene una asignatura pendiente: disputar la Copa Libertadores, el máximo torneo de clubes de Sudamérica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Temblores en Guatemala: Insivumeh reporta tres sismos, uno con epicentro en Escuintla",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-8-de-octubre-de-2026-en-guatemala-breaking/",
-      "fecha": "Thu, 08 Oct 2026 15:13:03 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh ha registrado tres sismos en Guatemala durante las primeras horas de este jueves 8 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Romário respalda a Cristiano Ronaldo por dejar la selección portuguesa: “Yo también habría hecho lo mismo”",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/romario-respalda-a-cristiano-ronaldo-por-dejar-la-seleccion-portuguesa-yo-tambien-habria-hecho-lo-mismo/",
-      "fecha": "Thu, 08 Oct 2026 15:10:19 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El exfutbolista brasileño Romário salió en defensa de Cristiano Ronaldo y aseguró que habría actuado de la misma manera tras sentirse irrespetado por el técnico Jorge Jesus."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Manifestantes interrumpen a Trump: Tensión y enfrentamientos durante el mitin en San Antonio",
-      "link": "https://www.prensalibre.com/internacional/manifestantes-interrumpen-a-trump-tension-y-enfrentamientos-durante-el-mitin-en-san-antonio/",
-      "fecha": "Thu, 08 Oct 2026 14:28:38 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump se vio obligado a interrumpir su discurso durante su mitin en San Antonio por las protestas de hispanos y latinos, que representan el 64% de la población de Texas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvias provocan emergencias en Guatemala: reportan derrumbes, inundaciones y un vehículo arrastrado",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-provocan-emergencias-en-guatemala-reportan-derrumbes-inundaciones-y-un-vehiculo-arrastrado-breaking/",
-      "fecha": "Thu, 08 Oct 2026 14:10:34 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Conred informó que en las últimas horas se registraron 18 emergencias relacionadas con las lluvias en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Canasta básica e inflación: cuánto cuesta alimentarse en Guatemala y por qué están subiendo los precios",
-      "link": "https://www.prensalibre.com/economia/canasta-basica-e-inflacion-cuanto-cuesta-alimentarse-en-guatemala-y-por-que-estan-subiendo-los-precios/",
-      "fecha": "Thu, 08 Oct 2026 14:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La inflación alcanzó 4.69% en septiembre, mientras las canastas básicas urbana y rural registraron nuevos aumentos. ¿Qué significa este indicador y cómo puede reflejarse en el bolsillo de los hogares?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Paolo Dantaz, el nuevo refuerzo de Comunicaciones para el Torneo Apertura?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/paolo-dantaz-se-suma-a-comunicaciones-para-el-cierre-del-apertura-breaking/",
-      "fecha": "Thu, 08 Oct 2026 13:55:03 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El mediocampista uruguayo fue presentado oficialmente como nuevo refuerzo de Comunicaciones y este jueves se pondrá a las órdenes de Roberto Montoya."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Isaías alcanza categoría de huracán: Insivumeh explica los posibles efectos sobre Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/isaias-alcanza-categoria-de-huracan-insivumeh-explica-los-posibles-efectos-sobre-guatemala-breaking/",
-      "fecha": "Thu, 08 Oct 2026 13:12:43 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El huracán Isaías se encuentra en el golfo de México y el Insivumeh detalla si tendrá efectos en el clima de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Klissman Lemus: de dejar el futbol a los 22 años a construir su historia como entrenador en Guatemala",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/klissman-lemus-de-dejar-el-futbol-a-los-22-anos-a-construir-su-historia-como-entrenador-en-guatemala-breaking/",
-      "fecha": "Thu, 08 Oct 2026 13:10:36 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Tras retirarse como futbolista a los 22 años, Klissman Lemus encontró en el banquillo una nueva oportunidad y hoy lidera la transformación de Nueva Santa Rosa en la Primera División."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comunicaciones mueve su plantilla: estos son los dos jugadores que llegan al equipo albo",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-mueve-su-plantilla-estos-son-los-dos-jugadores-que-llegan-al-equipo-albo/",
-      "fecha": "Thu, 08 Oct 2026 12:39:46 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los cremas no bajan los brazos en el Apertura 2026. Comunicaciones suma un defensor y un atacante para fortalecer su plantilla en la lucha por la fase final."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo llegó Colombia a tener una deuda tan alta (y por qué De la Espriella tendrá que aumentarla)",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/como-llego-colombia-a-tener-una-deuda-tan-alta-y-por-que-de-la-espriella-tendra-que-aumentarla/",
-      "fecha": "Thu, 08 Oct 2026 12:18:52 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El presupuesto presentado por el gobierno de De la Espriella prevee que la deuda llegará a 66,2% del PIB en 2027, la más alta de la historia del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un país ante el cáncer: formar especialistas tomará más tiempo que construir el nuevo hospital",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/un-pais-ante-el-cancer-formar-especialistas-tomara-mas-tiempo-que-construir-el-nuevo-hospital/",
-      "fecha": "Thu, 08 Oct 2026 12:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El futuro hospital especializado contra el cáncer podría construirse en unos tres años, pero formar a un oncólogo requiere hasta 16, según el ginecólogo oncólogo Julio Lau."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La escritora canadiense Anne Carson gana el Premio Nobel de Literatura 2026",
-      "link": "https://www.prensalibre.com/vida/escenario/la-escritora-canadiense-anne-carson-gana-el-premio-nobel-de-literatura-2026/",
-      "fecha": "Thu, 08 Oct 2026 11:56:06 +0000",
-      "categoria": "Escenario",
-      "resumen": "La autora ganadora es  una poeta, ensayista, traductora y profesora apasionada por la literatura clásica de Grecia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Si heredamos los mismos genes y crecimos en el mismo ambiente, ¿por qué mi hermana tiene esquizofrenia y yo no?&#8221;: la científica mexicana que lleva más de 20 años buscando una respuesta",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/si-heredamos-los-mismos-genes-y-crecimos-en-el-mismo-ambiente-por-que-mi-hermana-tiene-esquizofrenia-y-yo-no-la-cientifica-mexicana-que-lleva-mas-de-20-anos-buscando-una-respuesta/",
-      "fecha": "Thu, 08 Oct 2026 11:26:20 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La doctora Consuelo Walss-Bass lleva décadas estudiando las causas biológicas de la esquizofrenia, la enfermedad que ha marcado profundamente su vida desde que era una niña. Su madre y su hermana la padecen."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué China considera una amenaza la IA que imita las relaciones humanas",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/por-que-china-considera-una-amenaza-la-ia-que-imita-las-relaciones-humanas/",
-      "fecha": "Thu, 08 Oct 2026 10:38:00 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Pekín ha intensificado la represión contra los chatbots de IA capaces de replicar las relaciones humanas. Los expertos se preguntan si esta medida es la correcta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muere Maricarmen Abascal, la anciana de 87 años cuyo desalojo provocó una ola de protestas en España por la crisis de la vivienda",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/muere-maricarmen-abascal-la-anciana-de-87-anos-cuyo-desalojo-provoco-una-ola-de-protestas-en-espana-por-la-crisis-de-la-vivienda/",
-      "fecha": "Thu, 08 Oct 2026 08:11:20 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Abascal falleció en el hospital Gregorio Marañón de la capital española, en el que había sido ingresada tras ser desalojada de su vivienda el pasado 23 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dragados, remuneraciones y seguridad: para qué pide Defensa Q6 mil 374 millones en 2027",
-      "link": "https://www.prensalibre.com/guatemala/politica/dragados-remuneraciones-y-seguridad-para-que-pide-defensa-q6-mil-374-millones-en-2027/",
-      "fecha": "Thu, 08 Oct 2026 06:18:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El proyecto de presupuesto de Defensa para 2027 plantea un aumento de 37.3% frente a lo aprobado para 2026 y contempla recursos para operaciones, inversión y transferencias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mides creará bono de Q1 mil por la sequía, pero no lo incluye en su presupuesto del 2027",
-      "link": "https://www.prensalibre.com/guatemala/mides-creara-bono-de-q1-mil-por-la-sequia-pero-no-lo-incluye-en-su-presupuesto-del-2027/",
-      "fecha": "Thu, 08 Oct 2026 06:10:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La ayuda será de Q1 mil mensuales de enero a marzo para beneficiarios de 85 municipios. Aunque no está incluida entre los programas del proyecto de presupuesto del Mides, se financiará con el Fondo de Emergencia previsto para atender catástrofes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inflación en Guatemala llega a 4.69%: Banguat explica qué impulsó los precios y qué espera para los próximos meses",
-      "link": "https://www.prensalibre.com/economia/inflacion-en-guatemala-llega-a-4-69-banguat-explica-que-impulso-los-precios-y-que-espera-para-los-proximos-meses/",
-      "fecha": "Thu, 08 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Luego de conocerse que la inflación en septiembre alcanzó 4.69%, las autoridades monetarias explicaron los factores que impulsaron el indicador y las perspectivas para los próximos meses, ante las medidas tributarias que cobraron vigencia el pasado 1 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comenzó el circo",
-      "link": "https://www.prensalibre.com/opinion/caricatura/comenzo-el-circo/",
-      "fecha": "Thu, 08 Oct 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hermetismo oficial en caso Huité se ve oficioso",
-      "link": "https://www.prensalibre.com/opinion/editorial/hermetismo-oficial-en-caso-huite-se-ve-oficioso/",
-      "fecha": "Thu, 08 Oct 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Huité constituye una grave vulneración a las políticas de seguridad del Ministerio de Gobernación, debido a todas las incógnitas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo el sarampión hace que el sistema inmunitario olvide?",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/como-el-sarampion-hace-que-el-sistema-inmunitario-olvide/",
-      "fecha": "Thu, 08 Oct 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Afección elimina entre el 11 y el 73 por ciento de los anticuerpos que los niños han adquirido a lo largo de su vida, revela investigación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Exministro de Defensa de Ucrania afirma que los robots con IA son la próxima generación de la guerra",
-      "link": "https://www.prensalibre.com/internacional/exministro-de-defensa-de-ucrania-afirma-que-los-robots-con-ia-son-la-proxima-generacion-de-la-guerra/",
-      "fecha": "Thu, 08 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Mykhailo Fedorov sostiene que Ucrania debe adelantarse en el desarrollo de armas autónomas antes de regularlas y busca crear un “ejército de robots” para el campo de batalla."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Ximena Carrillo brilló en la preliminar de Miss Grand International 2026",
       "link": "https://www.guatemala.com/noticias/vida/ximena-carrillo-preliminar-miss-grand-international-2026.html",
@@ -833,46 +873,6 @@
       "fecha": "Wed, 07 Oct 2026 14:36:03 +0000",
       "categoria": "Entretenimiento",
       "resumen": "Ximena Carrillo presentó el traje nacional de Guatemala en Miss Grand International 2026, inspirado en Camazotz, el Guardián de Xibalbá.\nThe post El traje de Ximena Carrillo que representa a Guatemala en Miss Grand International 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Adelina Castillo, Miss Universe Guatemala, fue destacada en programas de Telemundo",
-      "link": "https://www.guatemala.com/noticias/sociedad/miss-universe-guatemala-2026-adelina-castillo-fue-destacada-telemundo.html",
-      "fecha": "Tue, 06 Oct 2026 23:12:51 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Miss Universe Guatemala 2026, Adelina Castillo, fue entrevistada en Hoy Día y otros programas de Telemundo en Estados Unidos.\nThe post Adelina Castillo, Miss Universe Guatemala, fue destacada en programas de Telemundo appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "San Martín suma una nueva ubicación en Estados Unidos",
-      "link": "https://www.guatemala.com/noticias/sociedad/san-martin-aperturo-tercera-tienda-texas-estados-unidos.html",
-      "fecha": "Tue, 06 Oct 2026 20:52:20 +0000",
-      "categoria": "Sociedad",
-      "resumen": "La marca guatemalteca de panadería y restaurante San Martín aperturó una tienda en Plano, Texas, sumando así una nueva ubicación en Estados Unidos. \nThe post San Martín suma una nueva ubicación en Estados Unidos appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Bancos cerrarán a nivel nacional por el Día de la Raza 2026",
-      "link": "https://www.guatemala.com/noticias/comunidad/bancos-guatemala-cerraran-octubre-2026-dia-de-la-raza.html",
-      "fecha": "Tue, 06 Oct 2026 18:14:41 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Bancos y otras instituciones financieras cerrarán por el Día de la Raza 2026 en Guatemala. ¡Conoce dónde consultar las agencias que estarán abiertas!\nThe post Bancos cerrarán a nivel nacional por el Día de la Raza 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Así puedes ver a Ximena Carrillo en la preliminar de Miss Grand International 2026",
-      "link": "https://www.guatemala.com/noticias/sociedad/cuando-donde-ver-ximena-carrillo-miss-grand-international-2026.html",
-      "fecha": "Tue, 06 Oct 2026 16:02:06 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Se acerca la competencia de trajes nacionales, preliminar y final de Miss Grand International. Conoce dónde ver la participación de Ximena Carrillo.\nThe post Así puedes ver a Ximena Carrillo en la preliminar de Miss Grand International 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Confirman establecimiento de la fase de El Niño en Guatemala",
-      "link": "https://www.guatemala.com/noticias/comunidad/fenomeno-el-nino-guatemala-insivumeh-confirma-su-establecimiento.html",
-      "fecha": "Mon, 05 Oct 2026 20:54:25 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Insivumeh ha confirmado el establecimiento de la fase cálida del fenómeno de El Niño en Guatemala. Conoce cómo afectará al país y cuándo finalizará.\nThe post Confirman establecimiento de la fase de El Niño en Guatemala appeared first on Guatemala.com."
     }
   ]
 }
