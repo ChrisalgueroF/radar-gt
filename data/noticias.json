@@ -1,7 +1,143 @@
 {
-  "actualizado": "2026-10-09T01:53:34.327Z",
+  "actualizado": "2026-10-09T08:45:26.630Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cacif respalda fallo de la CC sobre Menkos, pero expresa preocupación por cambios en el Banguat",
+      "link": "https://www.prensalibre.com/economia/cacif-respalda-fallo-de-la-cc-sobre-menkos-pero-expresa-preocupacion-por-cambios-en-el-banguat/",
+      "fecha": "Fri, 09 Oct 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El Cacif y la Asociación Bancaria de Guatemala consideran que debe respetarse la resolución de la CC que dejó en suspenso el nombramiento de Jonathan Menkos. Los dirigentes expresan preocupación por los cambios gerenciales y piden preservar la estabilidad y autonomía del banco central."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Desvestido y alborotado",
+      "link": "https://www.prensalibre.com/opinion/caricatura/desvestido-y-alborotado/",
+      "fecha": "Fri, 09 Oct 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Seguridad de calidad es cimiento del desarrollo",
+      "link": "https://www.prensalibre.com/opinion/editorial/seguridad-de-calidad-es-cimiento-del-desarrollo/",
+      "fecha": "Fri, 09 Oct 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "La actividad política debería dejar de dar el espectáculo circense de campaña anticipada y reyertas anodinas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Exfuncionarios de Trump encuentran oportunidades de negocio en la industria petrolera de Venezuela",
+      "link": "https://www.prensalibre.com/internacional/exfuncionarios-de-trump-encuentran-oportunidades-de-negocio-en-la-industria-petrolera-de-venezuela/",
+      "fecha": "Fri, 09 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Empresas e inversionistas buscan personas con experiencia y contactos en Washington para operar en el sector energético venezolano, mientras surgen interrogantes sobre posibles conflictos de interés."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La democracia necesita aspirantes analizados",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-democracia-necesita-aspirantes-analizados/",
+      "fecha": "Fri, 09 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Se debe ayudar a los votantes a tomar una decisión racional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El mundo gira hacia la derecha",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-mundo-gira-hacia-la-derecha/",
+      "fecha": "Fri, 09 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "De Europa a América Latina, las urnas están redibujando el mapa político mundial. La derecha avanza mientras la izquierda pierde terreno."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Huité, el Estado ausente",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/huite-el-estado-ausente/",
+      "fecha": "Fri, 09 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La falta de transparencia sobre lo ocurrido en Huité debilita la credibilidad del gobierno."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuánto costó el contralor oficialista?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/cuanto-costo-el-contralor-oficialista/",
+      "fecha": "Fri, 09 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "¿De verdad alguien cree que va a auditar con rigor al gobierno que lo impuso?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Guillermo Ralda, el diputado sin experiencia en Finanzas que dirigirá la discusión del presupuesto 2027?",
+      "link": "https://www.prensalibre.com/guatemala/politica/quien-es-guillermo-ralda-el-diputado-sin-experiencia-en-finanzas-que-dirigira-la-discusion-del-presupuesto-2027/",
+      "fecha": "Fri, 09 Oct 2026 06:01:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Sin experiencia previa al frente de la Comisión de Finanzas, el diputado Guillermo Ralda asumió la presidencia de esa sala legislativa en una etapa clave: la discusión del proyecto de presupuesto del Estado para el 2027, que supera los Q192 mil millones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy viernes 9 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-viernes-9-de-octubre-de-2026/",
+      "fecha": "Fri, 09 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De chairos a perroflautas",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/de-chairos-a-perroflautas/",
+      "fecha": "Fri, 09 Oct 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Nuevos calificativos de grupos con análisis y demandas irreales"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los niños que desafían a francotiradores y morteros para ir a la escuela cerca del frente de guerra en Yemen",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-ninos-que-desafian-a-francotiradores-y-morteros-para-ir-a-la-escuela-cerca-del-frente-de-guerra-en-yemen/",
+      "fecha": "Fri, 09 Oct 2026 04:54:18 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En un acceso excepcional a Taiz, el Servicio Mundial de la BBC entrevista a niños, profesores y familias afectadas por los combates."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "CC incluye al Concejo de San Miguel Petapa en las órdenes para atender la emergencia en Villa Hermosa",
+      "link": "https://www.prensalibre.com/guatemala/justicia/cc-incluye-al-concejo-de-san-miguel-petapa-en-las-ordenes-para-atender-la-emergencia-en-villa-hermosa-breaking/",
+      "fecha": "Fri, 09 Oct 2026 03:06:53 +0000",
+      "categoria": "Justicia",
+      "resumen": "La Corte de Constitucionalidad otorgó un amparo provisional que obliga al Concejo de San Miguel Petapa a tomar medidas urgentes ante el riesgo de desbordamiento del río Pinula en Villa Hermosa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Municipal se adelantó, pero Antigua rescató un empate en el duelo pendiente de la jornada 10 del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/municipal-se-adelanto-pero-antigua-rescato-un-empate-en-el-duelo-pendiente-de-la-jornada-10-del-apertura-2026-breaking/",
+      "fecha": "Fri, 09 Oct 2026 02:54:35 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los Rojos igualaron 1-1 en su visita al estadio Pensativo y se ubican segundos con 24 puntos, mientras Antigua GFC ocupa el tercer lugar con 22 unidades. Guastatoya sigue como líder con 25."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“No hay emoción para describir”: padres relatan cómo su hija escuchó sus voces por primera vez",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/no-hay-emocion-para-describir-padres-relatan-como-su-hija-escucho-sus-voces-por-primera-vez/",
+      "fecha": "Fri, 09 Oct 2026 02:42:39 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Una niña de cinco años, originaria de Petén, escuchó por primera vez las voces de sus padres tras la activación de un implante coclear en la capital y comenzó a pronunciar palabras, en un momento que emocionó a su familia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Pentágono trasmitirá en directo la ejecución de Nidal Hasan, el primer militar que será fusilado en EE.UU. desde la Segunda Guerra Mundial",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-pentagono-trasmitira-en-directo-la-ejecucion-de-nidal-hasan-el-primer-militar-que-sera-fusilado-en-ee-uu-desde-la-segunda-guerra-mundial/",
+      "fecha": "Fri, 09 Oct 2026 02:18:56 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "\"Nos aseguraremos de que la gente pueda verlo\", dijo el secretario de Defensa de Estados Unidos, Pete Hegseth."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La Casa Blanca acusa a Microsoft de hacer fraude con las visas H1B para contratar profesionales extranjeros",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/la-casa-blanca-acusa-a-microsoft-de-hacer-fraude-con-las-visas-h1b-para-contratar-profesionales-extranjeros/",
+      "fecha": "Fri, 09 Oct 2026 01:57:51 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El programa de visados H1B ha permitido durante años a las empresas tecnológicas estadounidenses contratar a trabajadores altamente cualificados del extranjero."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Familia del exministro Javier Maldonado exige investigar su muerte y rechaza la hipótesis de suicidio: &#8220;Fue silenciado&#8221;",
@@ -36,6 +172,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Céline Dion sufre caída en el escenario en París",
+      "link": "https://www.prensalibre.com/vida/escenario/celine-dion-sufre-caida-en-el-escenario-en-paris/",
+      "fecha": "Fri, 09 Oct 2026 00:52:47 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante canadiense se llevó un susto durante una de las actuaciones de su residencia en Francia."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "“Coraline” llega con una experiencia que combina cine y gastronomía",
       "link": "https://www.prensalibre.com/vida/escenario/coraline-llega-con-una-experiencia-que-combina-cine-y-gastronomia/",
       "fecha": "Fri, 09 Oct 2026 00:50:56 +0000",
@@ -52,7 +196,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "El último vuelo del helicóptero TG-GUH: su recorrido antes de caer al lago de Atitlán con siete personas a bordo",
+      "titulo": "El último vuelo del helicóptero que cayó en Atitlán: su recorrido antes de caer al lago con siete personas a bordo",
       "link": "https://www.prensalibre.com/guatemala/comunitario/el-ultimo-vuelo-del-helicoptero-tg-guh-su-recorrido-antes-de-caer-al-lago-de-atitlan-con-siete-personas-a-bordo-breaking/",
       "fecha": "Fri, 09 Oct 2026 00:21:28 +0000",
       "categoria": "Comunitario",
@@ -65,6 +209,14 @@
       "fecha": "Fri, 09 Oct 2026 00:12:54 +0000",
       "categoria": "Comunitario",
       "resumen": "La PNC reveló más datos del accidente ocurrido en Sololá, como la identidad de las víctimas, la hora en que ocurrió y el accionar de los cuerpos de socorro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Si he de morir mañana&#8221;: ¿De qué habla el nuevo libro de Enán Moreno?",
+      "link": "https://www.prensalibre.com/vida/escenario/si-he-de-morir-manana-de-que-habla-el-nuevo-libro-de-enan-moreno/",
+      "fecha": "Fri, 09 Oct 2026 00:12:29 +0000",
+      "categoria": "Escenario",
+      "resumen": "El autor hace un llamado a una reflexión profunda que todos deberían hacerse y se adentra en los procesos que conlleva el final de la existencia."
     },
     {
       "fuente": "Prensa Libre",
@@ -657,158 +809,6 @@
       "fecha": "Thu, 08 Oct 2026 03:02:28 +0000",
       "categoria": "Economía",
       "resumen": "La Junta Monetaria nombró nuevas autoridades del Banco de Guatemala, luego de aceptar la renuncia de cuatro gerentes; algunos optaron por jubilarse."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Ximena Carrillo, la representante de Guatemala en Miss Grand Internacional?",
-      "link": "https://www.prensalibre.com/vida/escenario/quien-es-ximena-carrillo-la-representante-de-guatemala-en-miss-grand-internacional/",
-      "fecha": "Thu, 08 Oct 2026 03:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La candidata guatemalteca, que acapara miradas en Tailandia, ha tenido una sólida preparación como modelo y estudia Marketing."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC reporta 10 presuntos delincuentes abatidos en 2026: qué dicen los registros de los enfrentamientos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/la-evidencia-que-puede-grabar-un-testigo-no-es-igual-pnc-reporta-10-presuntos-delincuentes-abatidos-en-enfrentamientos/",
-      "fecha": "Thu, 08 Oct 2026 02:44:34 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC reporta que 10 presuntos delincuentes murieron y 35 fueron detenidos durante procedimientos que derivaron en enfrentamientos armados en lo que va del 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estudios confirman daños severos en puente del Periférico y Covial anuncia reparación temporal",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/estudios-confirman-danos-severos-en-puente-del-periferico-y-covial-anuncia-reparacion-temporal/",
-      "fecha": "Thu, 08 Oct 2026 02:28:38 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Covial reparará durante tres semanas una viga con daños severos en el puente del Periférico, pero advierte que la intervención será temporal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Salario mínimo en Nueva York: ¿cuánto podrían cobrar los trabajadores desde marzo de 2027?",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/salario-minimo-en-nueva-york-cuanto-podrian-cobrar-los-trabajadores-desde-marzo-de-2027/",
-      "fecha": "Thu, 08 Oct 2026 02:27:56 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Nueva York propone aumentar el salario mínimo a partir de marzo del 2027, pero el ajuste depende de la aprobación de los legisladores estatales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Prensa Libre advierte sobre publicación falsa que utiliza su logotipo y ofrece supuestas ganancias",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/prensa-libre-advierte-sobre-publicacion-falsa-que-utiliza-su-logotipo-y-ofrece-supuestas-ganancias/",
-      "fecha": "Thu, 08 Oct 2026 02:11:24 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Una publicación utiliza sin autorización logotipos e imágenes de Prensa Libre y atribuye a Ricardo Castillo Sinibaldi una supuesta iniciativa de inversión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miss Grand Guatemala: Ximena Carrillo deslumbra con singular traje inspirado en el Popol Vuh",
-      "link": "https://www.prensalibre.com/vida/escenario/miss-grand-guatemala-ximena-carrillo-deslumbra-con-singular-traje-inspirado-en-el-popol-vuh/",
-      "fecha": "Thu, 08 Oct 2026 02:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La representante de Guatemala sigue destacándose entre las candidatas internacionales y esta vez lo hizo con un diseño de Maximiliano Reyes, Peter Sutuc y Régis Gómez."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Peste pulmonar en Rusia: por qué Trump descarta un vínculo con un arma biológica",
-      "link": "https://www.prensalibre.com/internacional/peste-pulmonar-en-rusia-por-que-trump-descarta-un-vinculo-con-un-arma-biologica/",
-      "fecha": "Thu, 08 Oct 2026 01:06:24 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente estadounidense analiza la alerta por peste pulmonar y descarta su uso como arma biológica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Remesas en Guatemala: por qué se desacelera el envío de dinero pese a superar los US$20 mil millones",
-      "link": "https://www.prensalibre.com/economia/remesas-en-guatemala-superan-us20-mil-millones-a-septiembre-y-por-que-persiste-la-desaceleracion/",
-      "fecha": "Thu, 08 Oct 2026 01:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Guatemala alcanzó los US$20 mil millones en remesas familiares acumuladas a septiembre, mientras un organismo internacional advierte que, aunque estos flujos continúan creciendo en la región durante el 2026, muestran señales de desaceleración."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Así fue el discurso completo de Lionel Messi en su despedida de la Selección Argentina",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/asi-fue-el-discurso-completo-de-lionel-messi-en-su-despedida-de-la-seleccion-argentina/",
-      "fecha": "Thu, 08 Oct 2026 00:18:31 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El capitán de la Albiceleste habló ante más de 85 mil aficionados en el Monumental después de disputar su último partido con Argentina"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Toneladas de tierra bloquean la ruta Interamericana tras derrumbe en Tecpán Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/toneladas-de-tierra-bloquean-la-ruta-interamericana-tras-derrumbe-en-tecpan-guatemala-breaking/",
-      "fecha": "Thu, 08 Oct 2026 00:11:49 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Toneladas de tierra se desprendieron de una ladera en el km 82.5 y cubrieron los cuatro carriles de la carretera, en Tecpán Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Defensa ampliará información sobre Huité mientras denuncia señala a altos mandos militares",
-      "link": "https://www.prensalibre.com/guatemala/politica/defensa-ampliara-informacion-sobre-huite-mientras-denuncia-senala-a-altos-mandos-militares/",
-      "fecha": "Thu, 08 Oct 2026 00:09:15 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Una denuncia plantea posibles ejecuciones extrajudiciales y señala a altos mandos de Defensa, mientras el Ministerio asegura que ampliará información sobre los hechos de Huité, Zacapa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estado de emergencia en El Salvador por El Súper Niño: ¿qué medidas se aplicarán durante los próximos seis meses?",
-      "link": "https://www.prensalibre.com/internacional/estado-de-emergencia-en-el-salvador-por-el-super-nino-que-medidas-se-aplicaran-durante-los-proximos-seis-meses/",
-      "fecha": "Thu, 08 Oct 2026 00:05:05 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Salvador declaró estado de emergencia por seis meses ante los efectos de El Súper Niño, que amenaza cultivos y la seguridad alimentaria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Videos muestran cómo Trump es interrumpido en un mitin en Texas y su reacción",
-      "link": "https://www.prensalibre.com/internacional/videos-muestran-como-trump-es-interrumpido-en-un-mitin-en-texas-y-su-reaccion/",
-      "fecha": "Wed, 07 Oct 2026 23:34:29 +0000",
-      "categoria": "Internacional",
-      "resumen": "Donald Trump fue interrumpido este miércoles en dos ocasiones durante un mitin en San Antonio, Texas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guantes de descarga eléctrica de ICE: qué reveló un estudio del Ejército sobre su funcionamiento y efectividad",
-      "link": "https://www.prensalibre.com/internacional/guantes-de-descarga-electrica-de-ice-que-revelo-un-estudio-del-ejercito-sobre-su-funcionamiento-y-efectividad/",
-      "fecha": "Wed, 07 Oct 2026 23:30:55 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un estudio del Ejército reveló que los guantes de descarga eléctrica adquiridos por ICE provocan dolor, sometimiento y temor durante su uso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué H. Kagan y Kenso Soai ganaron el Nobel de Química? El misterio de las moléculas espejo",
-      "link": "https://www.prensalibre.com/internacional/por-que-h-kagan-y-kenso-soai-ganaron-el-nobel-de-quimica-el-misterio-de-las-moleculas-espejo/",
-      "fecha": "Wed, 07 Oct 2026 23:22:34 +0000",
-      "categoria": "Internacional",
-      "resumen": "Según el presidente del Comité Nobel de Química, el francés Henri Kagan y el japonés Kenso Soai han aportado una solución a un misterio químico de un siglo de antigüedad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ministerio Público confirma amenazas contra fiscales y mantiene alerta ante posibles ataques del Barrio 18",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ministerio-publico-confirma-amenazas-contra-fiscales-y-mantiene-alerta-ante-posibles-ataques-del-barrio-18-breaking/",
-      "fecha": "Wed, 07 Oct 2026 23:07:34 +0000",
-      "categoria": "Justicia",
-      "resumen": "El MP confirmó amenazas del Barrio 18 contra fiscales del área metropolitana y de Petén, por lo que mantiene una alerta ante posibles ataques."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Torturas a estadounidenses: por qué Nicolás Maduro y Cilia Flores podrían enfrentar nuevas acusaciones en EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/torturas-a-estadounidenses-por-que-nicolas-maduro-y-cilia-flores-podrian-enfrentar-nuevas-acusaciones-en-ee-uu/",
-      "fecha": "Wed, 07 Oct 2026 22:55:08 +0000",
-      "categoria": "Internacional",
-      "resumen": "Nicolás Maduro y Cilia Flores podrían enfrentar nuevos cargos en EE. UU. por presuntas torturas contra ciudadanos estadounidenses detenidos en Venezuela."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Premio Nobel de Literatura 2026: los candidatos latinoamericanos que podrían sorprender con el galardón",
-      "link": "https://www.prensalibre.com/vida/escenario/premio-nobel-de-literatura-2026-los-candidatos-latinoamericanos-que-podrian-sorprender-con-el-galardon/",
-      "fecha": "Wed, 07 Oct 2026 22:42:27 +0000",
-      "categoria": "Escenario",
-      "resumen": "Está a punto de desvelarse quién obtendrá el máximo galardón literario y hay algunos escritores hispanohablantes que tienen posibilidades según las casas de apuestas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Abogado revela las primeras palabras que dijo Christa Pike tras sobrevivir a dos inyecciones letales",
-      "link": "https://www.prensalibre.com/internacional/abogado-revela-las-primeras-palabras-que-dijo-christa-pike-tras-sobrevivir-a-dos-inyecciones-letales-breaking/",
-      "fecha": "Wed, 07 Oct 2026 22:21:19 +0000",
-      "categoria": "Internacional",
-      "resumen": "El abogado de Christa Pike reveló las primeras palabras que dijo la mujer al despertar en el hospital, tras sobrevivir a dos inyecciones letales en Tennessee."
     },
     {
       "fuente": "Guatemala.com",
