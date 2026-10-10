@@ -1,7 +1,127 @@
 {
-  "actualizado": "2026-10-10T13:28:15.936Z",
+  "actualizado": "2026-10-10T18:22:17.315Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Conred advierte que 2 mil 763 personas corren riesgo en Villa Hermosa de San Miguel Petapa",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/conred-advierte-que-2-mil-763-personas-corren-riesgo-en-villa-hermosa-de-san-miguel-petapa/",
+      "fecha": "Sat, 10 Oct 2026 17:32:47 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Algunos sectores del municipio están en condiciones de vulnerabilidad tras la crecida del río Pinula que obliga a familias abandonar sus hogares."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Christa Pike sale del hospital y regresa a la cárcel diez días después de su ejecución fallida en Tennessee",
+      "link": "https://www.prensalibre.com/internacional/christa-pike-sale-del-hospital-y-regresa-a-la-carcel-diez-dias-despues-de-su-ejecucion-fallida-en-tennessee/",
+      "fecha": "Sat, 10 Oct 2026 17:22:40 +0000",
+      "categoria": "Internacional",
+      "resumen": "Christa Pike regresa a prisión tras sobrevivir a un intento de ejecución por inyección letal en Tennessee, mientras las autoridades revisan qué ocurrió y su defensa cuestiona el protocolo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Con un 75% de avance: Así será el nuevo Estadio Nacional de El Salvador que nos presume Bukele",
+      "link": "https://www.prensalibre.com/internacional/con-un-75-de-avance-asi-sera-el-nuevo-estadio-nacional-de-el-salvador-que-nos-presume-bukele/",
+      "fecha": "Sat, 10 Oct 2026 17:11:32 +0000",
+      "categoria": "Internacional",
+      "resumen": "Con una capacidad proyectada de 50 mil espectadores, el nuevo estadio de El Salvador superará en aforo a varios de los principales escenarios deportivos de Centroamérica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hiroo Kanamori, el científico japonés que creó la escala que reemplazó a la de Richter (y por qué es mejor para medir terremotos de gran magnitud)",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/hiroo-kanamori-el-cientifico-japones-que-creo-la-escala-que-reemplazo-a-la-de-richter-y-por-que-es-mejor-para-medir-terremotos-de-gran-magnitud/",
+      "fecha": "Sat, 10 Oct 2026 16:59:40 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El sismólogo japonés, de 90 años, es considerado \"una leyenda viviente\" en sismología. BBC Mundo habló con él y con uno de sus colaboradores más cercanos, el científico colombiano Luis Rivera."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Ximena Carrillo es tercera finalista del Miss Grand International 2026",
+      "link": "https://www.guatemala.com/noticias/entretenimiento/ximena-carrillo-tercera-finalista-miss-grand-international-2026.html",
+      "fecha": "Sat, 10 Oct 2026 16:09:03 +0000",
+      "categoria": "Entretenimiento",
+      "resumen": "Ximena Carrillo se convirtió en tercera finalista de Miss Grand International 2026 tras representar a Guatemala en la gran final del certamen.\nThe post Ximena Carrillo es tercera finalista del Miss Grand International 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miss Grand International: la guatemalteca Ximena Carrillo es la tercera finalista",
+      "link": "https://www.prensalibre.com/vida/escenario/miss-grand-international-la-guatemalteca-ximena-carrillo-es-la-tercera-finalista/",
+      "fecha": "Sat, 10 Oct 2026 16:02:53 +0000",
+      "categoria": "Escenario",
+      "resumen": "Latinoamericanas de Ecuador y Guatemala destacan en Miss Grand International, cuya corona se llevó la representante de Tanzania, en una noche llega de glamour en Tailandia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Canelo vs. Mbilli: la gran pelea del 31 de octubre que podría abrir el camino a Lester Martínez",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/canelo-vs-mbilli-la-gran-pelea-del-31-de-octubre-que-podria-abrir-el-camino-a-lester-martinez-breaking/",
+      "fecha": "Sat, 10 Oct 2026 16:00:00 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "Saúl Álvarez y Oumar  Mbilli se enfrentarán el 31 de octubre en Riad, Arabia Saudita en una pelea que pondrá en juego el título mundial supermediano y que podría definir el próximo rival del guatemalteco Lester Martínez."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lo hieren en el cuello y choca contra un árbol: piloto de bus sufre percance en zona 7",
+      "link": "https://www.prensalibre.com/guatemala/justicia/lo-hieren-en-el-cuello-y-choca-contra-un-arbol-piloto-de-bus-sufre-percance-en-zona-7/",
+      "fecha": "Sat, 10 Oct 2026 15:42:36 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Un piloto de bus extraurbano resulta herido con arma blanca en el cuello y, al intentar defenderse, choca contra un árbol y derriba un poste en la zona 7."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vehículo avanza en contra de la vía e impacta contra cabezal en el puente El Incienso",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/vehiculo-avanza-en-contra-de-la-via-e-impacta-contra-cabezal-en-el-puente-el-incienso/",
+      "fecha": "Sat, 10 Oct 2026 15:35:39 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El conductor iba en estado de ebriedad y agredió a un agente de la Policía Nacional Civil (PNC), según los datos con los que cuentan las autoridades de tránsito."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Barcelona vs. Getafe: el líder busca afianzarse en la cima de LaLiga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-barcelona-vs-getafe-el-lider-busca-afianzarse-en-la-cima-de-laliga-breaking/",
+      "fecha": "Sat, 10 Oct 2026 15:34:11 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Barcelona recibe al Getafe con Joan Garcia de regreso y la misión de mantener su ventaja en el liderato de LaLiga."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Videos del huracán Isaías: Así tocó tierra en Florida y dejó a 853 mil clientes sin electricidad",
+      "link": "https://www.prensalibre.com/internacional/videos-del-huracan-isaias-asi-toco-tierra-en-florida-y-dejo-a-853-mil-clientes-sin-electricidad/",
+      "fecha": "Sat, 10 Oct 2026 15:27:03 +0000",
+      "categoria": "Internacional",
+      "resumen": "El paso del huracán Isaías provocó la caída de árboles, daños en postes de luz y calles bloqueadas por escombros en EE. UU, donde se registraron ráfagas de viento de hasta 165 km/h."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cristiano Ronaldo enfrenta una sanción de Portugal tras su salida de la selección: la Federación abre expediente disciplinario",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-expediente-disciplinario-portugal-breaking/",
+      "fecha": "Sat, 10 Oct 2026 15:26:12 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El delantero quedó bajo suspensión preventiva después de abandonar la concentración por sus diferencias con Jorge Jesus."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Concacaf eligió el gol de Matt Evans como el mejor de la fase de grupos de la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/concacaf-eligio-el-gol-de-matts-evans-como-el-mejor-de-la-fase-de-grupos-de-la-liga-de-naciones-breaking/",
+      "fecha": "Sat, 10 Oct 2026 14:35:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El mediocampista guatemalteco anotó de zurda desde fuera del área en el tiempo de reposición para clasificar a la Bicolor a los cuartos de final y Concacaf reconoció su tanto como el mejor gol de la fase."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bomberos Voluntarios recuperan cuerpos de dos desaparecidos por accidente de helicóptero en el lago de Atitlán",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/bomberos-voluntarios-recuperan-cuerpos-de-dos-desaparecidos-por-accidente-de-helicoptero-en-el-lago-de-atitlan/",
+      "fecha": "Sat, 10 Oct 2026 14:11:32 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El helicóptero se accidentó en el lago de Atitlán el pasado 8 de octubre, dejando desaparecidos al piloto y a un pasajero. Tras varias horas de trabajo, sus restos fueron rescatados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC investiga posible vínculo entre extorsiones y asesinato de abogada Zoila Maricruz Chinchilla en Santa Rosa",
+      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-investiga-posible-vinculo-entre-extorsiones-y-asesinato-de-abogada-zoila-maricruz-chinchilla-en-santa-rosa/",
+      "fecha": "Sat, 10 Oct 2026 14:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Una posible extorsión, un pandillero con siete ingresos a prisión y presuntos vínculos con alias el Diabólico, recluido en Renovación 1, forman parte de las investigaciones de la PNC."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Quién es Carlos Ortiz Ortiz y cuáles son los desafíos que enfrentará al asumir la Superintendencia de Competencia",
@@ -17,6 +137,30 @@
       "fecha": "Sat, 10 Oct 2026 13:00:00 +0000",
       "categoria": "Economía",
       "resumen": "El Mintrab explica cuándo corresponde el 100% o el 50% de la indemnización, en qué casos el patrono debe pagar una diferencia y qué sucede si el trabajador renuncia después de pensionarse."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién es James Chambers, el millonario &#8220;comunista&#8221; detenido en España a petición de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-james-chambers-el-millonario-comunista-detenido-en-espana-a-peticion-de-ee-uu/",
+      "fecha": "Sat, 10 Oct 2026 12:53:14 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "James \"Fergie\" Chambers decidió dedicar su vida y su fortuna al activismo de izquierda. Ahora, su país lo acusa de desórdenes y blanqueo de capitales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Isaías toca tierra en las costas de Florida como huracán de categoría 2 y se debilita en su avance por el sureste de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/isaias-toca-tierra-en-las-costas-de-florida-como-huracan-de-categoria-2-y-se-debilita-en-su-avance-por-el-sureste-de-ee-uu/",
+      "fecha": "Sat, 10 Oct 2026 12:25:04 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Es el primer huracán de la temporada en el Atlántico. Florida y Alabama habían decretado el estado de emergencia y establecido evacuaciones obligatorias. También estaba en alerta Georgia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jonas I, el autoproclamado rey de Suiza que ha creado un polémico &#8220;imperio&#8221; al apropiarse de terrenos sin dueño",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jonas-i-el-autoproclamado-rey-de-suiza-que-ha-creado-un-polemico-imperio-al-apropiarse-de-terrenos-sin-dueno/",
+      "fecha": "Sat, 10 Oct 2026 12:07:51 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Jonas Lauwiner se autoproclamó rey de Suiza en 2019, aunque reconoce que su título es puramente simbólico. Desde entonces, ha acumulado 149 parcelas de terreno y aspira ahora a llevar su peculiar proyecto también a la política nacional."
     },
     {
       "fuente": "Prensa Libre",
@@ -500,6 +644,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "&#8220;Equivaldría a tortura&#8221;: el Pentágono transmitirá en vivo la ejecución de Nidal Hasan, el primer militar que será fusilado en EE.UU. desde la II Guerra Mundial",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/equivaldria-a-tortura-el-pentagono-transmitira-en-vivo-la-ejecucion-de-nidal-hasan-el-primer-militar-que-sera-fusilado-en-ee-uu-desde-la-ii-guerra-mundial/",
+      "fecha": "Fri, 09 Oct 2026 18:44:02 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "\"Nos aseguraremos de que la gente pueda verlo\", dijo el secretario de Defensa de Estados Unidos, Pete Hegseth."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Usan dron acuático para ubicar helicóptero que se accidentó en el lago de Atitlán",
       "link": "https://www.prensalibre.com/guatemala/sucesos/usan-dron-acuatico-para-ubicar-helicoptero-que-se-accidento-en-el-lago-de-atitlan/",
       "fecha": "Fri, 09 Oct 2026 18:31:05 +0000",
@@ -699,150 +851,6 @@
       "resumen": "Guatemala y Francia avanzan en un acuerdo que permitiría establecer una nueva ruta aérea, con hasta siete vuelos semanales en 2029. Conozca qué falta para concretar la conexión y cuándo podrían comenzar las operaciones."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvias en Guatemala: qué se espera para el sábado 10 y domingo 11 de octubre por el acercamiento de onda del este",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-en-guatemala-que-se-espera-para-el-sabado-10-y-domingo-11-de-octubre-por-el-acercamiento-de-onda-del-este-breaking/",
-      "fecha": "Fri, 09 Oct 2026 13:50:53 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El pronóstico del Insivumeh detalla las condiciones de lluvia previstas en Guatemala durante el fin de semana, así como las temperaturas máximas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente mortal en Zacapa: tres personas, incluidos dos menores, pierden la vida en la ruta al Atlántico",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-mortal-en-zacapa-tres-personas-incluido-un-menor-pierden-la-vida-en-la-ruta-al-atlantico-breaking/",
-      "fecha": "Fri, 09 Oct 2026 13:09:34 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Tres personas fallecieron y tres resultaron heridas en un accidente de picop ocurrido en el kilómetro 146 de la ruta al Atlántico, en Río Hondo, Zacapa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué supone el fin de la nieve eterna de Papúa, el último hielo tropical entre los Andes y el Himalaya",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-supone-el-fin-de-la-nieve-eterna-de-papua-el-ultimo-hielo-tropical-entre-los-andes-y-el-himalaya/",
-      "fecha": "Fri, 09 Oct 2026 11:33:49 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El cambio climático está transformando los picos nevados de Papúa, los cuales tienen tanto un valor científico como un significado espiritual."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La jurista sudafricana Navi Pillay gana el premio Nobel de la Paz 2026",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-jurista-sudafricana-navi-pillay-gana-el-premio-nobel-de-la-paz-2026/",
-      "fecha": "Fri, 09 Oct 2026 10:30:03 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El Comité Noruego del Nobel ha otorgado el premio Nobel de la Paz 2026 a la ex alta comisionada de derechos humanos de la ONU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presentan nuevos cargos en Nueva York contra Maduro y su esposa por presuntas torturas a ciudadanos de EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/presentan-nuevos-cargos-en-nueva-york-contra-maduro-y-su-esposa-por-presuntas-torturas-a-ciudadanos-de-ee-uu/",
-      "fecha": "Fri, 09 Oct 2026 09:37:08 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El expresidente de Venezuela y su esposa fueron acusados por el Departamento de Justicia de EE.UU. de haber participado en la tortura de estadounidenses detenidos en Caracas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cacif respalda fallo de la CC sobre Menkos, pero expresa preocupación por cambios en el Banguat",
-      "link": "https://www.prensalibre.com/economia/cacif-respalda-fallo-de-la-cc-sobre-menkos-pero-expresa-preocupacion-por-cambios-en-el-banguat/",
-      "fecha": "Fri, 09 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El Cacif y la Asociación Bancaria de Guatemala consideran que debe respetarse la resolución de la CC que dejó en suspenso el nombramiento de Jonathan Menkos. Los dirigentes expresan preocupación por los cambios gerenciales y piden preservar la estabilidad y autonomía del banco central."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Desvestido y alborotado",
-      "link": "https://www.prensalibre.com/opinion/caricatura/desvestido-y-alborotado/",
-      "fecha": "Fri, 09 Oct 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Seguridad de calidad es cimiento del desarrollo",
-      "link": "https://www.prensalibre.com/opinion/editorial/seguridad-de-calidad-es-cimiento-del-desarrollo/",
-      "fecha": "Fri, 09 Oct 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "La actividad política debería dejar de dar el espectáculo circense de campaña anticipada y reyertas anodinas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Exfuncionarios de Trump encuentran oportunidades de negocio en la industria petrolera de Venezuela",
-      "link": "https://www.prensalibre.com/internacional/exfuncionarios-de-trump-encuentran-oportunidades-de-negocio-en-la-industria-petrolera-de-venezuela/",
-      "fecha": "Fri, 09 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Empresas e inversionistas buscan personas con experiencia y contactos en Washington para operar en el sector energético venezolano, mientras surgen interrogantes sobre posibles conflictos de interés."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La democracia necesita aspirantes analizados",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-democracia-necesita-aspirantes-analizados/",
-      "fecha": "Fri, 09 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Se debe ayudar a los votantes a tomar una decisión racional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El mundo gira hacia la derecha",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-mundo-gira-hacia-la-derecha/",
-      "fecha": "Fri, 09 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "De Europa a América Latina, las urnas están redibujando el mapa político mundial. La derecha avanza mientras la izquierda pierde terreno."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Huité, el Estado ausente",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/huite-el-estado-ausente/",
-      "fecha": "Fri, 09 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La falta de transparencia sobre lo ocurrido en Huité debilita la credibilidad del gobierno."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuánto costó el contralor oficialista?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/cuanto-costo-el-contralor-oficialista/",
-      "fecha": "Fri, 09 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "¿De verdad alguien cree que va a auditar con rigor al gobierno que lo impuso?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Guillermo Ralda, el diputado sin experiencia en Finanzas que dirigirá la discusión del presupuesto 2027?",
-      "link": "https://www.prensalibre.com/guatemala/politica/quien-es-guillermo-ralda-el-diputado-sin-experiencia-en-finanzas-que-dirigira-la-discusion-del-presupuesto-2027/",
-      "fecha": "Fri, 09 Oct 2026 06:01:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Sin experiencia previa al frente de la Comisión de Finanzas, el diputado Guillermo Ralda asumió la presidencia de esa sala legislativa en una etapa clave: la discusión del proyecto de presupuesto del Estado para el 2027, que supera los Q192 mil millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy viernes 9 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-viernes-9-de-octubre-de-2026/",
-      "fecha": "Fri, 09 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De chairos a perroflautas",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/de-chairos-a-perroflautas/",
-      "fecha": "Fri, 09 Oct 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Nuevos calificativos de grupos con análisis y demandas irreales"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los niños que desafían a francotiradores y morteros para ir a la escuela cerca del frente de guerra en Yemen",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-ninos-que-desafian-a-francotiradores-y-morteros-para-ir-a-la-escuela-cerca-del-frente-de-guerra-en-yemen/",
-      "fecha": "Fri, 09 Oct 2026 04:54:18 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En un acceso excepcional a Taiz, el Servicio Mundial de la BBC entrevista a niños, profesores y familias afectadas por los combates."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "CC incluye al Concejo de San Miguel Petapa en las órdenes para atender la emergencia en Villa Hermosa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/cc-incluye-al-concejo-de-san-miguel-petapa-en-las-ordenes-para-atender-la-emergencia-en-villa-hermosa-breaking/",
-      "fecha": "Fri, 09 Oct 2026 03:06:53 +0000",
-      "categoria": "Justicia",
-      "resumen": "La Corte de Constitucionalidad otorgó un amparo provisional que obliga al Concejo de San Miguel Petapa a tomar medidas urgentes ante el riesgo de desbordamiento del río Pinula en Villa Hermosa."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Películas que representan a Guatemala en los Óscar, Goya y otras premiaciones internacionales 2026",
       "link": "https://www.guatemala.com/noticias/entretenimiento/peliculas-representan-guatemala-premiaciones-internacionales-2026-2027.html",
@@ -865,14 +873,6 @@
       "fecha": "Wed, 07 Oct 2026 15:25:08 +0000",
       "categoria": "Vida",
       "resumen": "Te dejamos fotos y detalles de la participación de Ximena Carrillo en la preliminar de Miss Grand International 2026 este miércoles 7 de octubre.\nThe post Ximena Carrillo brilló en la preliminar de Miss Grand International 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "El traje de Ximena Carrillo que representa a Guatemala en Miss Grand International 2026",
-      "link": "https://www.guatemala.com/noticias/entretenimiento/traje-nacional-ximena-carrillo-miss-grand-international-2026.html",
-      "fecha": "Wed, 07 Oct 2026 14:36:03 +0000",
-      "categoria": "Entretenimiento",
-      "resumen": "Ximena Carrillo presentó el traje nacional de Guatemala en Miss Grand International 2026, inspirado en Camazotz, el Guardián de Xibalbá.\nThe post El traje de Ximena Carrillo que representa a Guatemala en Miss Grand International 2026 appeared first on Guatemala.com."
     }
   ]
 }
