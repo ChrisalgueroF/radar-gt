@@ -1,7 +1,247 @@
 {
-  "actualizado": "2026-10-10T00:38:40.419Z",
+  "actualizado": "2026-10-10T06:52:20.031Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto se discutirá en medio de acomodo de bloques con intereses electorales",
+      "link": "https://www.prensalibre.com/guatemala/politica/presupuesto-se-discutira-en-medio-de-acomodo-de-bloques-con-intereses-electorales/",
+      "fecha": "Sat, 10 Oct 2026 06:12:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Congreso tiene al menos 22 bloques por la división de bancadas que impulsan nuevos partidos o migrar a otros evadiendo el transfuguismo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entrevista con José Miguel Torrebiarte: existe un desafío de mantener los acuerdos de seguridad después del 2027",
+      "link": "https://www.prensalibre.com/economia/enade-2026-entrevista-con-jose-miguel-torrebiarte-existe-un-desafio-de-mantener-los-acuerdos-de-seguridad-despues-del-2027/",
+      "fecha": "Sat, 10 Oct 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Tras concluir el Encuentro Nacional de Empresarios por el Desarrollo (Enade) 2026, José Miguel Torrebiarte, presidente de Fundesa, destacó la importancia de fortalecer la seguridad y la justicia como condiciones fundamentales para atraer inversiones, generar empleo e impulsar el crecimiento económico del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Primer Foro Internacional de Inversión e Innovación Turística en Guatemala",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/primer-foro-internacional-de-inversion-e-innovacion-turistica-en-guatemala/",
+      "fecha": "Sat, 10 Oct 2026 06:08:54 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "El próximo 28 de octubre a partir de las 8:30 de la mañana en el Salón Azaria de Ciudad Cayalá, se congregará a líderes del sector público y privado, organismos multilaterales, inversionistas y referentes globales en sostenibilidad e innovación, en el I Foro Internacional de Inversión e Innovación Turística, INVERTUR 2026, organizado por BAC junto a aliados estratégicos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sarcasmo",
+      "link": "https://www.prensalibre.com/opinion/caricatura/sarcasmo/",
+      "fecha": "Sat, 10 Oct 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Potencia sudamericana, ante una decisión crítica",
+      "link": "https://www.prensalibre.com/opinion/editorial/potencia-sudamericana-ante-una-decision-critica/",
+      "fecha": "Sat, 10 Oct 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "El pulso entre dos fuerzas políticas, sin duda alguna, acicatea una polarización que dificulta los acuerdos de nación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump se prepara para una larga guerra económica con Irán tras prometer resultados rápidos",
+      "link": "https://www.prensalibre.com/internacional/trump-se-prepara-para-una-larga-guerra-economica-con-iran-tras-prometer-resultados-rapidos/",
+      "fecha": "Sat, 10 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las sanciones estadounidenses afectan al petróleo, la aviación y los bancos iraníes, pero Teherán mantiene operaciones mientras Washington intenta aumentar la presión económica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Errar es de humanos; el no repetirlo, de sabios",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/errar-es-de-humanos-el-no-repetirlo-de-sabios/",
+      "fecha": "Sat, 10 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Los que tratan de justificar lo que hacen tienen pocas esperanzas de corregir errores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jesús, el novio",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/jesus-el-novio/",
+      "fecha": "Sat, 10 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Imágenes verbales para designar cualidades intuidas en el trato con la divinidad"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Taiwán trae buenas nuevas: bambú, buses eléctricos y esperanza ambiental",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/taiwan-trae-buenas-nuevas-bambu-buses-electricos-y-esperanza-ambiental/",
+      "fecha": "Sat, 10 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El bambú es un recurso productivo y aliado frente al cambio climático."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La estupidez, más peligrosa que la maldad",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-estupidez-mas-peligrosa-que-la-maldad/",
+      "fecha": "Sat, 10 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El malvado actúa solo, necesita esconderse, mentir."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo debe nombrar pronto al presidente del Banguat tras fallo de la CC, afirman analistas",
+      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-debe-nombrar-pronto-al-presidente-del-banguat-tras-fallo-de-la-cc-afirman-analistas/",
+      "fecha": "Sat, 10 Oct 2026 06:01:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Analistas abogan por la certeza jurídica y señalan un \"desgaste innecesario\" luego de controversia sobre la designación de Jonathan Menkos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy sábado 10 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-10-de-octubre-de-2026/",
+      "fecha": "Sat, 10 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El problema de aprender a pensar",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/el-problema-de-aprender-a-pensar/",
+      "fecha": "Sat, 10 Oct 2026 06:00:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "Más tecnología no siempre significa más aprendizaje."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El día que Navi Pillay, Premio Nobel de la Paz del 2026, escuchó las denuncias de los pueblos indígenas en Totonicapán",
+      "link": "https://www.prensalibre.com/guatemala/politica/el-dia-que-navi-pillay-premio-nobel-de-la-paz-del-2026-escucho-las-denuncias-de-los-pueblos-indigenas-en-totonicapan-breaking/",
+      "fecha": "Sat, 10 Oct 2026 04:00:37 +0000",
+      "categoria": "Política",
+      "resumen": "Antes de recibir el Premio Nobel de la Paz del 2026, Navi Pillay visitó Guatemala. En Totonicapán escuchó las denuncias de las autoridades indígenas sobre racismo, exclusión y militarización."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Expandir y consolidar la presencia de sus icónicas marcas en la región",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/expandir-y-consolidar-la-presencia-de-sus-iconicas-marcas-en-la-region/",
+      "fecha": "Sat, 10 Oct 2026 03:27:36 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Con un agresivo plan de crecimiento comercial para los próximos cinco años, Cotton Candy International (CCI) (tenedora de la franquicia maestra regional de Toys \"R\" Us y Babies \"R\" Us), busca llevar la experiencia de ambas marcas a nuevos mercados, se apoyará en innovadores modelos de inversión que prometen, a su vez, dinamizar el comercio minorista y el sector inmobiliario."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Villa Hermosa: 53 viviendas presentan daños severos, pero sigue pendiente definir la ayuda para las familias",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/villa-hermosa-53-viviendas-presentan-danos-severos-pero-sigue-pendiente-definir-la-ayuda-para-las-familias/",
+      "fecha": "Sat, 10 Oct 2026 03:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Mientras las autoridades determinan qué familias podrían optar a un subsidio, 73 hogares arrastran solicitudes de apoyo desde el 2023, sin que se haya definido cuándo recibirían una respuesta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Violé el protocolo de seguridad”: Raúl Pérez perdió los brazos por una descarga eléctrica y convirtió su historia en un mensaje de prevención",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/viole-el-protocolo-de-seguridad-raul-perez-perdio-los-brazos-por-una-descarga-electrica-y-convirtio-su-historia-en-un-mensaje-de-prevencion/",
+      "fecha": "Sat, 10 Oct 2026 02:45:43 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Una descarga eléctrica le arrebató los brazos cuando tenía 29 años. Más de dos décadas después, Raúl Pérez comparte su historia para evitar que otros trabajadores sufran un accidente como el que cambió su vida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque armado en la zona 7 de Mixco deja tres hombres sin vida",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-la-zona-7-de-mixco-deja-tres-hombres-sin-vida/",
+      "fecha": "Sat, 10 Oct 2026 02:41:50 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Tres hombres murieron este 9 de octubre en  un ataque armado en San Ignacio, zona 7 de Mixco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ubican helicóptero sumergido en Atitlán y hombres rana trabajan para recuperar cuerpos de dos víctimas",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ubican-helicoptero-sumergido-en-atitlan-y-hombres-rana-trabajan-para-recuperar-cuerpos-de-dos-victimas-breaking/",
+      "fecha": "Sat, 10 Oct 2026 02:30:12 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Elementos de los Bomberos Voluntarios localizaron el helicóptero accidentado en el lago de Atitlán y continúan las labores nocturnas para recuperar a dos víctimas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Britney Spears lanza canción inédita para celebrar los 25 años de su tercer álbum: así suena “She’ll Never Be Me”",
+      "link": "https://www.prensalibre.com/vida/escenario/britney-spears-lanza-cancion-inedita-para-celebrar-los-25-anos-de-su-tercer-album-asi-suena-shell-never-be-me/",
+      "fecha": "Sat, 10 Oct 2026 02:15:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La nueva canción formará parte de la reedición de lujo de Britney, el tercer álbum de la cantante, que en el 2026 celebra su 25 aniversario."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién era Alexander Aslani, el &#8220;cirujano de las famosas&#8221; que murió tras un ataque en España?",
+      "link": "https://www.prensalibre.com/internacional/quien-era-alexander-aslani-el-cirujano-de-las-famosas-que-murio-tras-un-ataque-en-espana/",
+      "fecha": "Sat, 10 Oct 2026 02:04:30 +0000",
+      "categoria": "Internacional",
+      "resumen": "Alexander Aslani, de 57 años, conocido como \"el cirujano de las famosas\", fue asesinado al interior de su clínica, ubicada en Marbella, España."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "AeroMetro instala su tercera torre inclinada: ¿cuántas estructuras tendrá la Línea 1 y cuáles tendrán este diseño?",
+      "link": "https://www.prensalibre.com/economia/aerometro-instala-su-tercera-torre-inclinada-cuantas-estructuras-tendra-la-linea-1-y-cuales-tendran-este-diseno/",
+      "fecha": "Sat, 10 Oct 2026 02:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La Torre 11 fue instalada el 8 de octubre y tiene una inclinación de 10 grados. CableVía explica por qué algunas estructuras tienen diseños diferentes y cómo se contempla su seguridad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC confirma denuncias por extorsión en el Cenma y despliega agentes encubiertos para investigar los cobros",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/pnc-confirma-denuncias-por-extorsion-en-el-cenma-y-despliega-agentes-encubiertos-para-investigar-los-cobros/",
+      "fecha": "Sat, 10 Oct 2026 01:51:07 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La PNC confirmó que ha recibido denuncias por extorsión en el Cenma, donde agentes encubiertos investigan las modalidades de cobro e intentan identificar a los responsables."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Celebran 25 años de innovación agrícola en Centroamérica",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/celebran-25-anos-de-innovacion-agricola-en-centroamerica/",
+      "fecha": "Sat, 10 Oct 2026 01:39:31 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Durante 25 años, Sakata Seed Centroamérica ha acompañado la evolución del sector agrícola con semillas, innovación y transferencia de conocimiento adaptadas a las necesidades de la región."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Shakira tiene nuevo novio? Revelan detalles de su supuesto romance con Serge Ibaka y quién habría sido su “cupido”",
+      "link": "https://www.prensalibre.com/vida/escenario/shakira-tiene-nuevo-novio-revelan-detalles-de-su-supuesto-romance-con-serge-ibaka-y-quien-habria-sido-su-cupido/",
+      "fecha": "Sat, 10 Oct 2026 01:29:33 +0000",
+      "categoria": "Escenario",
+      "resumen": "Un reconocido artista habría presentado a Shakira y al exjugador de la NBA Serge Ibaka, con quien la cantante colombiana estaría saliendo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué acordaron Trump y Putin sobre el petróleo ruso y cómo podría influir en el precio de la gasolina en EE. UU.?",
+      "link": "https://www.prensalibre.com/internacional/que-acordaron-trump-y-putin-sobre-el-petroleo-ruso-y-como-podria-influir-en-el-precio-de-la-gasolina-en-ee-uu/",
+      "fecha": "Sat, 10 Oct 2026 01:13:37 +0000",
+      "categoria": "Internacional",
+      "resumen": "Putin confirma un acuerdo con Trump para suministrar diésel ruso a EE. UU. y al mercado mundial, mientras persisten las tensiones por la guerra en Ucrania."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fiebre después de vacunarse: ¿qué relación tiene con la alimentación y la salud intestinal?",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/fiebre-despues-de-vacunarse-que-relacion-tiene-con-la-alimentacion-y-la-salud-intestinal/",
+      "fecha": "Sat, 10 Oct 2026 01:00:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Un estudio revela cómo las bacterias del intestino y la alimentación podrían influir en la fiebre y la inflamación que algunas personas presentan después de vacunarse."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC incauta nueve armas de fuego y 196 municiones durante allanamiento en Zacapa",
+      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-incauta-nueve-armas-de-fuego-y-196-municiones-durante-allanamiento-en-zacapa/",
+      "fecha": "Sat, 10 Oct 2026 00:59:06 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC incauta nueve armas de fuego y 196 municiones durante un allanamiento en Zacapa. Aunque las armas tienen documentos legales, serán sometidas a peritajes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué Mike Tyson entregó una carta de Diddy a Trump y qué busca el rapero",
+      "link": "https://www.prensalibre.com/internacional/por-que-mike-tyson-entrego-una-carta-de-diddy-a-trump-y-que-busca-el-rapero/",
+      "fecha": "Sat, 10 Oct 2026 00:50:15 +0000",
+      "categoria": "Internacional",
+      "resumen": "Mike Tyson visitó la Casa Blanca un día después de revelar que entregó a Donald Trump una carta de Diddy, quien busca un indulto presidencial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liderazgo de la mujer y el fomento del tejido social en Guatemala",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/liderazgo-de-la-mujer-y-el-fomento-del-tejido-social-en-guatemala/",
+      "fecha": "Sat, 10 Oct 2026 00:40:42 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "El consorcio conformado por Cáritas Arquidiocesana de Guatemala, Pastoral Social Cáritas Arquidiócesis de los Altos, Pastoral Social Cáritas Diócesis de Quiché y Pastoral de la Tierra Diócesis de San Marcos, con el financiamiento del Ministerio Federal de Cooperación Económica y Desarrollo de Alemania BMZ y Cáritas Alemania, implementó, durante nueve años, el proyecto Reconstrucción y Fomento del Tejido Social Comunitario."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Un país ante el cáncer: por qué el Papanicolaou no basta para frenar el cáncer de cérvix",
@@ -603,252 +843,12 @@
       "resumen": "Una niña de cinco años, originaria de Petén, escuchó por primera vez las voces de sus padres tras la activación de un implante coclear en la capital y comenzó a pronunciar palabras, en un momento que emocionó a su familia."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "El Pentágono trasmitirá en directo la ejecución de Nidal Hasan, el primer militar que será fusilado en EE.UU. desde la Segunda Guerra Mundial",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-pentagono-trasmitira-en-directo-la-ejecucion-de-nidal-hasan-el-primer-militar-que-sera-fusilado-en-ee-uu-desde-la-segunda-guerra-mundial/",
-      "fecha": "Fri, 09 Oct 2026 02:18:56 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "\"Nos aseguraremos de que la gente pueda verlo\", dijo el secretario de Defensa de Estados Unidos, Pete Hegseth."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La Casa Blanca acusa a Microsoft de hacer fraude con las visas H1B para contratar profesionales extranjeros",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/la-casa-blanca-acusa-a-microsoft-de-hacer-fraude-con-las-visas-h1b-para-contratar-profesionales-extranjeros/",
-      "fecha": "Fri, 09 Oct 2026 01:57:51 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El programa de visados H1B ha permitido durante años a las empresas tecnológicas estadounidenses contratar a trabajadores altamente cualificados del extranjero."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Familia del exministro Javier Maldonado exige investigar su muerte y rechaza la hipótesis de suicidio: &#8220;Fue silenciado&#8221;",
-      "link": "https://www.prensalibre.com/guatemala/justicia/familia-del-exministro-javier-maldonado-exige-investigar-su-muerte-y-rechaza-la-hipotesis-de-suicidio-fue-silenciado-breaking/",
-      "fecha": "Fri, 09 Oct 2026 01:37:13 +0000",
-      "categoria": "Justicia",
-      "resumen": "La familia del exministro de Comunicaciones Javier Maldonado Quiñónez exige una investigación exhaustiva de su muerte y cuestiona la hipótesis preliminar de suicidio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Enade 2026: Presidente Bernardo Arévalo anuncia inversiones en armamento y nuevas cárceles",
-      "link": "https://www.prensalibre.com/guatemala/politica/enade-2026-presidente-bernardo-arevalo-anuncia-inversiones-en-armamento-y-nuevas-carceles/",
-      "fecha": "Fri, 09 Oct 2026 01:33:33 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El presidente Bernardo Arévalo anunció nuevas inversiones en armamento para el Ejército, equipamiento para la Policía Nacional Civil (PNC) e infraestructura penitenciaria durante su participación en el Enade 2026, donde también respaldó la propuesta empresarial de reducir la tasa de homicidios a 8 por cada 100 mil habitantes para el 2036."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Salvador confirma la continuidad del Bolillo Gómez pese al fracaso y el descenso",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-salvador-confirma-la-continuidad-del-bolillo-gomez-pese-al-fracaso-y-el-descenso-breaking/",
-      "fecha": "Fri, 09 Oct 2026 01:33:15 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La FESFUT, presidida por Yamil Bukele, ratificó al técnico colombiano pese a perder la categoría en la Liga de Naciones, caer 6-0 ante Guatemala y generar el descontento de la afición salvadoreña."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Videos muestran cómo ocurrió el accidente de un helicóptero en el lago de Atitlán",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/videos-muestran-como-ocurrio-el-accidente-de-un-helicoptero-en-el-lago-de-atitlan-breaking/",
-      "fecha": "Fri, 09 Oct 2026 01:19:08 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Cinco personas fueron rescatadas y dos siguen desaparecidas tras el accidente de un helicóptero en el lago de Atitlán. Videos muestran cómo ocurrió la caída."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Céline Dion sufre caída en el escenario en París",
-      "link": "https://www.prensalibre.com/vida/escenario/celine-dion-sufre-caida-en-el-escenario-en-paris/",
-      "fecha": "Fri, 09 Oct 2026 00:52:47 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante canadiense se llevó un susto durante una de las actuaciones de su residencia en Francia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Coraline” llega con una experiencia que combina cine y gastronomía",
-      "link": "https://www.prensalibre.com/vida/escenario/coraline-llega-con-una-experiencia-que-combina-cine-y-gastronomia/",
-      "fecha": "Fri, 09 Oct 2026 00:50:56 +0000",
-      "categoria": "Escenario",
-      "resumen": "La película Coraline llegará con una proyección que combina cine y gastronomía para transportar al público al mundo de The Other World a través de una experiencia inmersiva."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué el Pentágono permitirá al público presenciar el fusilamiento de Nidal Hasan",
-      "link": "https://www.prensalibre.com/internacional/por-que-el-pentagono-permitira-al-publico-presenciar-el-fusilamiento-de-nidal-hasan/",
-      "fecha": "Fri, 09 Oct 2026 00:41:52 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Pentágono permitirá al público presenciar la ejecución por fusilamiento de Nidal Hasan, condenado por matar a 13 personas en la base de Fort Hood en 2009."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El último vuelo del helicóptero que cayó en Atitlán: su recorrido antes de caer al lago con siete personas a bordo",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/el-ultimo-vuelo-del-helicoptero-tg-guh-su-recorrido-antes-de-caer-al-lago-de-atitlan-con-siete-personas-a-bordo-breaking/",
-      "fecha": "Fri, 09 Oct 2026 00:21:28 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los registros de Flightradar24 muestran que la aeronave efectuó tres vuelos durante la mañana del jueves 8 de octubre. El último terminó en el lago de Atitlán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los nuevos detalles revelados por la PNC sobre el helicóptero que cayó en el lago de Atitlán",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/los-nuevos-detalles-revelados-por-la-pnc-sobre-el-helicoptero-que-cayo-en-el-lago-de-atitlan-breaking/",
-      "fecha": "Fri, 09 Oct 2026 00:12:54 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La PNC reveló más datos del accidente ocurrido en Sololá, como la identidad de las víctimas, la hora en que ocurrió y el accionar de los cuerpos de socorro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Si he de morir mañana&#8221;: ¿De qué habla el nuevo libro de Enán Moreno?",
-      "link": "https://www.prensalibre.com/vida/escenario/si-he-de-morir-manana-de-que-habla-el-nuevo-libro-de-enan-moreno/",
-      "fecha": "Fri, 09 Oct 2026 00:12:29 +0000",
-      "categoria": "Escenario",
-      "resumen": "El autor hace un llamado a una reflexión profunda que todos deberían hacerse y se adentra en los procesos que conlleva el final de la existencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Antigua vs. Municipal: sigue el minuto a minuto del encuentro reprogramado de la fecha 10",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-antigua-vs-municipal-sigue-el-minuto-a-minuto-del-encuentro-reprogramado-de-la-fecha-10/",
-      "fecha": "Fri, 09 Oct 2026 00:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Antigua GFC y Municipal se enfrentan esta noche en el estadio Pensativo en un duelo clave por los primeros puestos del Torneo Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "José Alfredo Blanco Valdés deberá asumir temporalmente la presidencia del Banguat y de la Junta Monetaria",
-      "link": "https://www.prensalibre.com/economia/jose-alfredo-blanco-valdes-asumira-interinamente-la-presidencia-del-banguat-y-de-la-junta-monetaria/",
-      "fecha": "Thu, 08 Oct 2026 23:31:18 +0000",
-      "categoria": "Economía",
-      "resumen": "La CC suspendió de forma provisional el nombramiento de Jonathan Menkos y dejó sin efecto las actuaciones efectuadas desde el 1 de octubre. El vicepresidente del banco central, José Alfredo Blanco Valdés, asumirá las funciones mientras se resuelven los amparos de forma definitiva."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ivan Duque: &#8220;Las extradiciones son un buen disuasivo contra el narcotráfico&#8221;",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ivan-duque-la-seguridad-como-responsabilidad-compartida/",
-      "fecha": "Thu, 08 Oct 2026 23:18:06 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El expresidente colombiano Iván Duque advirtió durante el Enade 2026 sobre el peligro de que las organizaciones del narcotráfico financien campañas políticas y se infiltren en las instituciones del Estado, lo que podría debilitar la democracia y comprometer la seguridad de los ciudadanos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué es la autodeportación y la salida voluntaria en EE. UU. y cómo diferenciarlas",
-      "link": "https://www.prensalibre.com/internacional/que-es-la-autodeportacion-y-la-salida-voluntaria-en-ee-uu-y-como-diferenciarlas/",
-      "fecha": "Thu, 08 Oct 2026 22:47:10 +0000",
-      "categoria": "Internacional",
-      "resumen": "La autodeportación y la salida voluntaria en EE. UU. pueden parecer lo mismo, pero tienen diferencias que la comunidad migrante debe conocer."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cacif exige combatir el crimen organizado y evitar su infiltración en las elecciones del 2027",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/cacif-exige-combatir-el-crimen-organizado-y-evitar-su-infiltracion-en-las-elecciones-del-2027/",
-      "fecha": "Thu, 08 Oct 2026 22:37:29 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Cacif pidió fortalecer la seguridad y la justicia, recuperar el control de las cárceles y combatir las finanzas del crimen organizado. También advirtió sobre el riesgo de infiltración criminal en las elecciones del 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Isaías: el primer huracán de la temporada en el Atlántico se fortalece y pone en alerta al golfo de México",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/isaias-el-primer-huracan-de-la-temporada-en-el-atlantico-se-fortalece-y-pone-en-alerta-al-golfo-de-mexico/",
-      "fecha": "Thu, 08 Oct 2026 22:29:58 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Isaías llegará como huracán categoría 2 a las costas del Golfo de México en el sur de EE.UU. Su formación rompe la tranquila temporada que ha tenido el Atlántico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Good Run 2026: una carrera entre senderos naturales para apoyar a niñas y mujeres",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/good-run-2026-una-carrera-entre-senderos-naturales-para-apoyar-a-ninas-y-mujeres/",
-      "fecha": "Thu, 08 Oct 2026 22:19:18 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "La carrera solidaria Good Run 2026 se celebrará ahora en medio de la naturaleza. Conozca cómo participar y a qué programa se destinarán los fondos recaudados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuáles son las mejores y peores ciudades para manejar en Estados Unidos, según un nuevo ranking",
-      "link": "https://www.prensalibre.com/internacional/cuales-son-las-mejores-y-peores-ciudades-para-manejar-en-estados-unidos-segun-un-nuevo-ranking/",
-      "fecha": "Thu, 08 Oct 2026 21:03:26 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un ranking hecho por la plataforma WalletHub calificó las mejores y peores ciudades de Estados Unidos para manejar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Primera División de Guatemala: así quedaron las tablas de posiciones tras la jornada 15 del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/primera-division-de-guatemala-asi-quedaron-las-tablas-de-posiciones-tras-la-jornada-15-del-apertura-2026/",
-      "fecha": "Thu, 08 Oct 2026 21:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La fase regular del Torneo Apertura 2026 entra en su tramo decisivo. Luego de completarse la jornada 15, Aguacatán y Huehuetecos lideran el Grupo A, mientras que Nueva Santa Rosa y Sacachispas,  comparten la cima del Grupo B."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Mexicanos combaten en Ucrania? Sheinbaum investiga la posible presencia de narcotraficantes",
-      "link": "https://www.prensalibre.com/internacional/mexicanos-combaten-en-ucrania-sheinbaum-investiga-la-posible-presencia-de-narcotraficantes/",
-      "fecha": "Thu, 08 Oct 2026 20:45:10 +0000",
-      "categoria": "Internacional",
-      "resumen": "El video muestra a soldados en un bosque mientras descansan y lanzan consignas a favor de una facción del Cartel de Sinaloa y del Cartel Jalisco Nueva Generación (CJNG)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mindef pone a disposición del MP a 107 militares tras masacre en Huité, Zacapa, y releva a altos mandos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mindef-pone-a-disposicion-del-mp-a-107-militares-tras-masacre-en-huite-zacapa-y-releva-a-altos-mandos/",
-      "fecha": "Thu, 08 Oct 2026 20:11:25 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Soldados asignados a Zacapa, disparos y el relevo de dos altos mandos militares: esto dijo el Ejecutivo 11 días después de la masacre en Huité."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Es fake news&#8221; la respuesta de Trump tras la polémica al decir que Irán podía &#8220;destruir&#8221; Los Ángeles",
-      "link": "https://www.prensalibre.com/internacional/es-fake-news-la-respuesta-de-trump-tras-la-polemica-al-decir-que-iran-podia-destruir-los-angeles/",
-      "fecha": "Thu, 08 Oct 2026 20:04:09 +0000",
-      "categoria": "Internacional",
-      "resumen": "Donald Trump atribuyó a las noticias falsas la polémica de sus declaraciones cuando dijo que Irán \"podía destruir Los Ángeles\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miss Grand International 2026: ¿cuándo es la final? y ¿cómo votar por la guatemalteca Ximena Carrillo?",
-      "link": "https://www.prensalibre.com/vida/escenario/miss-grand-international-2026-cuando-es-la-final-y-como-votar-por-la-guatemalteca-ximena-carrillo/",
-      "fecha": "Thu, 08 Oct 2026 20:01:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La competencia internacional que se realiza en Tailandia está en su fase final y la representante del país se encuentra entre las favoritas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Soldado muere por impacto de bala en la cabeza y Ejército dice que fue atacado por un francotirador",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/francotirador-mata-a-soldado-en-san-marcos-y-defensa-lanza-advertencia-sobre-armas-de-alto-poder-breaking/",
-      "fecha": "Thu, 08 Oct 2026 19:59:41 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un francotirador mató de un disparo en la cabeza a un soldado que brindaba seguridad en una zona de conflicto territorial de San Marcos. El ministro de la Defensa advirtió de la presencia del crimen organizado transnacional."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Películas que representan a Guatemala en los Óscar, Goya y otras premiaciones internacionales 2026",
       "link": "https://www.guatemala.com/noticias/entretenimiento/peliculas-representan-guatemala-premiaciones-internacionales-2026-2027.html",
       "fecha": "Thu, 08 Oct 2026 19:51:17 +0000",
       "categoria": "Entretenimiento",
       "resumen": "Cordillera de Fuego de Jayro Bustamante y Los Imaginarios de Javier Borrayo representan a Guatemala en premiaciones internacionales de cine.\nThe post Películas que representan a Guatemala en los Óscar, Goya y otras premiaciones internacionales 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Impulsa el liderazgo empresarial femenino con Empresarias por Guate",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/impulsa-el-liderazgo-empresarial-femenino-con-empresarias-por-guate/",
-      "fecha": "Thu, 08 Oct 2026 19:41:15 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Banco Industrial reunió a mujeres líderes y empresarias en los salones de la Torre 3, nivel 3, del Centro Financiero de Banco Industrial, zona 4; un espacio creado para el conocimiento, análisis económico y conexiones estratégicas para fortalecer sus negocios, en la cuarta edición de Empresarias por Guate."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Robbie Williams invita a Omar Chaparro a cantar junto a él en su concierto en la Ciudad de México",
-      "link": "https://www.prensalibre.com/vida/escenario/robbie-williams-invita-a-omar-chaparro-a-cantar-junto-a-el-en-su-concierto-en-la-ciudad-de-mexico/",
-      "fecha": "Thu, 08 Oct 2026 19:36:02 +0000",
-      "categoria": "Escenario",
-      "resumen": "El cantante británico, que conoció al conductor en 2005, le brindó un espacio en la primera de las presentaciones de su gira \"Britpop World Tour\" en el territorio mexicano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Socorristas buscan sobrevivientes tras alerta por accidente de helicóptero en el lago de Atitlán",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/socorristas-buscan-sobrevivientes-tras-alerta-por-accidente-de-helicoptero-en-el-lago-de-atitlan-breaking/",
-      "fecha": "Thu, 08 Oct 2026 19:30:16 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Un helicóptero cayó en el lago de Atitlán, en Sololá. Bomberos Voluntarios y embarcaciones locales buscan posibles víctimas, mientras se desconoce cuántas personas viajaban a bordo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuándo se estrena en Guatemala &#8220;Aquel&#8221;, la serie de Raphael en Netflix?",
-      "link": "https://www.prensalibre.com/vida/escenario/cuando-se-estrena-en-guatemala-aquel-la-serie-de-raphael-en-netflix/",
-      "fecha": "Thu, 08 Oct 2026 19:25:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El biopic de ocho episodios sobre la leyenda de la música española ya tiene fecha."
     },
     {
       "fuente": "Guatemala.com",
