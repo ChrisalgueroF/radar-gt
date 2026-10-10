@@ -1,7 +1,159 @@
 {
-  "actualizado": "2026-10-10T18:22:17.315Z",
+  "actualizado": "2026-10-10T22:21:48.941Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Suchitepéquez vs. Mixco: siga el minuto a minuto de la jornada 13",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-suchitepequez-vs-mixco-siga-el-minuto-a-minuto-de-la-jornada-13-breaking/",
+      "fecha": "Sat, 10 Oct 2026 22:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los venados reciben a los chicharroneros este sábado a las 5:00 PM en el estadio Carlos Salazar Hijo en un duelo donde Suchitepéquez necesita urgentemente ganar seguir con vida en el Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a un gigantesco caimán de 5 metros y 450 kilos tras 4 años de búsqueda: así se resistió",
+      "link": "https://www.prensalibre.com/internacional/capturan-a-un-gigantesco-caiman-de-5-metros-y-450-kilos-tras-4-anos-de-busqueda-asi-se-resistio/",
+      "fecha": "Sat, 10 Oct 2026 21:40:44 +0000",
+      "categoria": "Internacional",
+      "resumen": "El caimán, apodado \"Snaggletooth\" por sus dientes irregulares y rotos, que sobresalen de forma prominente, tuvo que ser arrastrado con un tractor tras su captura."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Timbiriche, la serie, estrena sus primeros capítulos sin autorización de la banda y en medio de polémicas",
+      "link": "https://www.prensalibre.com/vida/escenario/timbiriche-la-serie-estrena-sus-primeros-capitulos-sin-autorizacion-de-la-banda-y-en-medio-de-polemicas/",
+      "fecha": "Sat, 10 Oct 2026 21:35:43 +0000",
+      "categoria": "Escenario",
+      "resumen": "La serie Timbiriche cuenta sobre los primeros años de la banda y relata la historia del caso de abuso de Sasha Sokol por parte del productor musical y fundador del grupo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un hombre muere tras ser atacado por un tigre en un parque de vida silvestre",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-hombre-muere-tras-ser-atacado-por-un-tigre-en-un-parque-de-vida-silvestre/",
+      "fecha": "Sat, 10 Oct 2026 21:33:50 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Según la policía, el hombre entró en el recinto de los tigres de la atracción turística."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Real Madrid sufre pero vence 1-0 al Villarreal pese a la expulsión de Vinicius en el Bernabéu",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-sufre-pero-vence-1-0-al-villarreal-pese-a-la-expulsion-de-vinicius-en-el-bernabeu-breaking/",
+      "fecha": "Sat, 10 Oct 2026 20:53:10 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Diomandé anotó su primer gol con el Real Madrid pero la expulsión de Vinicius complicó los planes de Mourinho que tuvo que defender el 1-0 con diez jugadores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hombre mata a ocho personas en Pensilvania; crímenes ocurren en circunstancias “profundamente perturbadoras”",
+      "link": "https://www.prensalibre.com/internacional/hombre-mata-a-ocho-personas-en-pensilvania-crimenes-ocurren-en-circunstancias-profundamente-perturbadoras-breaking/",
+      "fecha": "Sat, 10 Oct 2026 20:43:34 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un hombre atacó a balazos a ocho personas en un sector de Pensilvania, Estados Unidos, y luego se quitó la vida de un disparo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bartolito y su “escuadra”: el plan de perros robot que El Salvador suma a su aeropuerto",
+      "link": "https://www.prensalibre.com/internacional/bartolito-y-su-escuadra-el-plan-de-perros-robot-que-el-salvador-suma-a-su-aeropuerto/",
+      "fecha": "Sat, 10 Oct 2026 20:25:42 +0000",
+      "categoria": "Internacional",
+      "resumen": "Bartolito opera en la nueva terminal aérea de El Salvador y Aduanas prevé una \"escuadra\" de perros robot para sus fronteras. Su director, José Benjamín Mayorga, afirma que ya adquirió más de cinco unidades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Rusia levanta parcialmente su prohibición de exportación de diésel según acuerdo con Trump",
+      "link": "https://www.prensalibre.com/internacional/rusia-levanta-parcialmente-su-prohibicion-de-exportacion-de-diesel-segun-acuerdo-con-trump/",
+      "fecha": "Sat, 10 Oct 2026 20:22:20 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump anunció el viernes que mantuvo una conversación telefónica con Putin, durante la cual acordaron que Rusia suministraría diésel a Estados Unidos y al mercado internacional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Feria de las Flores: ¿En que consiste Las Flores Trail Run 2026 que une deporte, naturaleza, aventura y mascotas?",
+      "link": "https://www.prensalibre.com/vida/escenario/feria-de-las-flores-en-que-consiste-las-flores-trail-run-2026-que-une-deporte-naturaleza-aventura-y-mascotas/",
+      "fecha": "Sat, 10 Oct 2026 20:14:39 +0000",
+      "categoria": "Escenario",
+      "resumen": "Conozca todos los detalles de esta carrera por senderos naturales donde puede participar con su mascota y disfrutar los bellos paisajes de Antigua Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Terremoto de 7.7 sacude Panamá: Las imágenes de los daños en el país y la carretera que colapsó",
+      "link": "https://www.prensalibre.com/internacional/terremoto-de-7-7-sacude-panama-las-imagenes-de-los-danos-en-el-pais-y-la-carretera-que-colapso/",
+      "fecha": "Sat, 10 Oct 2026 20:09:26 +0000",
+      "categoria": "Internacional",
+      "resumen": "El fuerte terremoto registrado en Panamá dejó tras de sí un panorama de devastación estructural en múltiples regiones del país centroamericano."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Aurora FC vs. Xelajú MC: siga el minuto a minuto de la jornada 13",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-aurora-fc-vs-xelaju-mc-siga-el-minuto-a-minuto-de-la-jornada-13-breaking/",
+      "fecha": "Sat, 10 Oct 2026 20:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los aurinegros reciben a los superchivos este sábado a las 3:00 PM en el estadio Cementos Progreso en un duelo donde Xelajú buscará sumar de visita para mantenerse en la pelea por los primeros lugares."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump dice que &#8220;ha llegado el momento de que Ucrania tenga un nuevo presidente&#8221;",
+      "link": "https://www.prensalibre.com/internacional/trump-dice-que-ha-llegado-el-momento-de-que-ucrania-tenga-un-nuevo-presidente-breaking/",
+      "fecha": "Sat, 10 Oct 2026 19:54:49 +0000",
+      "categoria": "Internacional",
+      "resumen": "Donald Trump sugirió que Ucrania cambie de presidente un día después de pactar con Putin la entrada de diésel ruso al mercado global; Zelenski había calificado ese acuerdo de injusto y deshonesto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Christa Pike sale del hospital y regresa a prisión 10 días después de sobrevivir a su fallida ejecución",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/christa-pike-sale-del-hospital-y-regresa-a-prision-10-dias-despues-de-sobrevivir-a-su-fallida-ejecucion/",
+      "fecha": "Sat, 10 Oct 2026 19:54:21 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los abogados de Pike afirman que está \"agradecida\" con el equipo médico que la atendió después de que sobreviviera a dos inyecciones letales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Quiero ayudar a mis hijos con sus tareas&#8221;: Douglas Miranda perdió ambas manos y, seis años después, recibió prótesis gratuitas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/quiero-ayudar-a-mis-hijos-con-sus-tareas-douglas-miranda-perdio-ambas-manos-y-seis-anos-despues-recibio-protesis-gratuitas/",
+      "fecha": "Sat, 10 Oct 2026 19:18:12 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Tras sobrevivir a una descarga eléctrica que le cambió la vida, Douglas Miranda encontró en las prótesis una oportunidad para acompañar a sus hijos en su aprendizaje."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Adria Arjona será Wonder Woman? Su brutal entrenamiento para la película de Superman 2",
+      "link": "https://www.prensalibre.com/vida/escenario/adria-arjona-sera-wonder-woman-su-brutal-entrenamiento-para-la-pelicula-de-superman-2/",
+      "fecha": "Sat, 10 Oct 2026 18:45:29 +0000",
+      "categoria": "Escenario",
+      "resumen": "Desde que se confirmó que Arjona formará parte de Superman en un papel que aún no ha sido revelado, los fanáticos han especulado sobre la posibilidad de que interprete a la Mujer Maravilla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Real Madrid busca recuperarse ante Villarreal en el Bernabéu: siga el partido de LaLiga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-real-madrid-busca-recuperarse-ante-villarreal-en-el-bernabeu-siga-el-partido-de-laliga-breaking/",
+      "fecha": "Sat, 10 Oct 2026 18:44:54 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Los merengues reciben a Villarreal este sábado a la 1:00 PM en el Bernabéu con el objetivo de acercarse al liderato que encabeza el  Barcelona."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Barcelona golea 3-0 al Getafe y firma un inicio histórico en LaLiga con ocho victorias consecutivas",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-golea-3-0-al-getafe-y-firma-un-inicio-historico-en-laliga-con-ocho-victorias-consecutivas-breaking/",
+      "fecha": "Sat, 10 Oct 2026 18:41:32 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Anthony Gordon, Gabriel Jesus y Jules Kounde marcaron en el Spotify Camp Nou, donde el equipo de Hansi Flick igualó el mejor arranque liguero de su historia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Agente de ICE recibe un disparo tras presuntamente agredir a un hombre de 72 años en Fresno",
+      "link": "https://www.prensalibre.com/guatemala/agente-de-ice-recibe-un-disparo-tras-presuntamente-agredir-a-un-hombre-de-72-anos-en-fresno/",
+      "fecha": "Sat, 10 Oct 2026 18:30:30 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Un agente de ICE fue baleado en Fresno, California, tras presuntamente agredir a un hombre de 72 años y a su hija."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lago de Atitlán: desapariciones, ahogamientos y accidentes registrados en los últimos tres años",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/lago-de-atitlan-desapariciones-ahogamientos-y-accidentes-registrados-en-los-ultimos-tres-anos/",
+      "fecha": "Sat, 10 Oct 2026 18:17:16 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El reciente accidente del helicóptero que se precipitó en las aguas del Lago de Atitlán, vuelve a poner la alerta sobre los riesgos y emergencias que han ocurrido en el área."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Conred advierte que 2 mil 763 personas corren riesgo en Villa Hermosa de San Miguel Petapa",
@@ -9,6 +161,14 @@
       "fecha": "Sat, 10 Oct 2026 17:32:47 +0000",
       "categoria": "Comunitario",
       "resumen": "Algunos sectores del municipio están en condiciones de vulnerabilidad tras la crecida del río Pinula que obliga a familias abandonar sus hogares."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Mi querido viejo&#8221;, la emotiva despedida que familiares y amigos le dieron a Piero",
+      "link": "https://www.prensalibre.com/vida/escenario/mi-querido-viejo-la-emotiva-despedida-que-familiares-y-amigos-le-dieron-a-piero/",
+      "fecha": "Sat, 10 Oct 2026 17:28:15 +0000",
+      "categoria": "Escenario",
+      "resumen": "Familiares y amigos del cantautor argentino Piero le dieron el último adiós en una ceremonia íntima y emotiva en el cementerio de Recoleta, en Buenos Aires, Argentina."
     },
     {
       "fuente": "Prensa Libre",
@@ -60,11 +220,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Lo hieren en el cuello y choca contra un árbol: piloto de bus sufre percance en zona 7",
+      "titulo": "PNC captura a piloto de bus tras choque en la calzada San Juan: prueba de alcoholemia da positivo",
       "link": "https://www.prensalibre.com/guatemala/justicia/lo-hieren-en-el-cuello-y-choca-contra-un-arbol-piloto-de-bus-sufre-percance-en-zona-7/",
       "fecha": "Sat, 10 Oct 2026 15:42:36 +0000",
       "categoria": "Guatemala",
-      "resumen": "Un piloto de bus extraurbano resulta herido con arma blanca en el cuello y, al intentar defenderse, choca contra un árbol y derriba un poste en la zona 7."
+      "resumen": "El bus extraurbano chocó contra un poste de alumbrado público en la calzada San Juan, zona 7. La PNC informó que el piloto dio positivo en la prueba de alcoholemia."
     },
     {
       "fuente": "Prensa Libre",
@@ -404,6 +564,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Quién es Navi Pillay, la jurista sudafricana ganadora del Nobel de la Paz: &#8220;Lo dedico a los sobrevivientes del crimen internacional&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-navi-pillay-la-jurista-sudafricana-ganadora-del-nobel-de-la-paz-lo-dedico-a-los-sobrevivientes-del-crimen-internacional/",
+      "fecha": "Sat, 10 Oct 2026 00:04:24 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El Comité Noruego del Nobel ha otorgado el premio Nobel de la Paz 2026 a la ex alta comisionada de derechos humanos de la ONU."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Un país ante el cáncer: por qué el Papanicolaou no basta para frenar el cáncer de cérvix",
       "link": "https://www.prensalibre.com/guatemala/comunitario/un-pais-ante-el-cancer-por-que-el-papanicolaou-no-basta-para-frenar-el-cancer-de-cervix/",
       "fecha": "Sat, 10 Oct 2026 00:00:00 +0000",
@@ -572,6 +740,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "La indignación en Nueva York por el caso del dominicano que recibió un disparo de ICE en su auto con su hijo de 5 años en el asiento trasero",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-indignacion-en-nueva-york-por-el-caso-del-dominicano-que-recibio-un-disparo-de-ice-en-su-auto-con-su-hijo-de-5-anos-en-el-asiento-trasero-2/",
+      "fecha": "Fri, 09 Oct 2026 20:11:23 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El hombre, identificado como Óscar Belgal, de 28 años, fue trasladado al hospital y está consciente, informó el DHS."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Jonathan Menkos enfrenta tres denuncias en el MP tras ocupar la presidencia del Banguat sin dejar su cargo de diputado",
       "link": "https://www.prensalibre.com/guatemala/justicia/jonathan-menkos-enfrenta-tres-denuncias-en-el-mp-tras-ocupar-la-presidencia-del-banguat-sin-dejar-su-cargo-de-diputado-breaking/",
       "fecha": "Fri, 09 Oct 2026 19:57:12 +0000",
@@ -651,116 +827,12 @@
       "resumen": "\"Nos aseguraremos de que la gente pueda verlo\", dijo el secretario de Defensa de Estados Unidos, Pete Hegseth."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Usan dron acuático para ubicar helicóptero que se accidentó en el lago de Atitlán",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/usan-dron-acuatico-para-ubicar-helicoptero-que-se-accidento-en-el-lago-de-atitlan/",
-      "fecha": "Fri, 09 Oct 2026 18:31:05 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Bomberos Voluntarios hacen inmersiones en el área donde el equipo tecnológico muestra posibles restos de la aeronave. Todavía hay dos personas desaparecidas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Localizan armas y municiones en allanamientos por muerte de esposos en Sololá e investigan posible extorsión",
-      "link": "https://www.prensalibre.com/guatemala/justicia/localizan-armas-y-municiones-en-allanamientos-por-muerte-de-esposos-en-solola-e-investigan-posible-extorsion/",
-      "fecha": "Fri, 09 Oct 2026 18:29:17 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Tres hombres armados atacaron a una pareja de esposos y a su hija en Chaquijyá, Sololá. Antes del crimen, los desconocidos incendiaron dos microbuses."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Safe California”: El operativo del ICE que durará unos 45 días y genera temor por arrestos masivos",
-      "link": "https://www.prensalibre.com/internacional/safe-california-el-operativo-del-ice-que-durara-unos-45-dias-y-genera-temor-por-arrestos-masivos/",
-      "fecha": "Fri, 09 Oct 2026 18:11:24 +0000",
-      "categoria": "Internacional",
-      "resumen": "El operativo “Safe California” podría durar 45 días en el Estado Dorado y, aunque no ha sido anunciado públicamente, comenzó el 8 de octubre en San Diego."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MP pide 76 años y seis meses de prisión contra acusado de matar a dos agentes de la PNC",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mp-pide-76-anos-y-seis-meses-de-prision-contra-acusado-de-matar-a-dos-agentes-de-la-pnc-breaking/",
-      "fecha": "Fri, 09 Oct 2026 18:03:55 +0000",
-      "categoria": "Justicia",
-      "resumen": "Presunto pandillero podría ser condenado a más de 76 años de prisión por el asesinato de dos agentes de la PNC."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Videos: los enfrentamientos en Nueva York tras incidente armado que involucra un agente del ICE",
-      "link": "https://www.prensalibre.com/internacional/videos-los-enfrentamientos-en-nueva-york-tras-incidente-armado-que-involucra-un-agente-del-ice/",
-      "fecha": "Fri, 09 Oct 2026 18:02:14 +0000",
-      "categoria": "Internacional",
-      "resumen": "Manifestantes y agentes de la policía protagonizaron confrontaciones en Nueva York tras un tiroteo de un agente del ICE en el Bronx."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rafael Álvarez Ovalle: actividades gratuitas por el 168 aniversario de su natalicio y el Día del Himno Nacional de Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/rafael-alvarez-ovalle-actividades-gratuitas-por-el-168-aniversario-de-su-natalicio-y-el-dia-del-himno-nacional-de-guatemala/",
-      "fecha": "Fri, 09 Oct 2026 17:53:13 +0000",
-      "categoria": "Escenario",
-      "resumen": "La Casa de la Cultura Rafael Álvarez Ovalle conmemora el natalicio del compositor de la música del Himno Nacional de Guatemala con actividades culturales gratuitas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El sobreviviente del ataque de Fort Hood que defiende la ejecución de Nidal Hasan pero critica la transmisión en vivo del fusilamiento",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-sobreviviente-del-ataque-de-fort-hood-que-defiende-la-ejecucion-de-nidal-hasan-pero-critica-la-transmision-en-vivo-del-fusilamiento/",
-      "fecha": "Fri, 09 Oct 2026 17:42:13 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Alonzo Lunsford dice que el castigo se ajusta al delito, pero tiene dudas sobre si el fusilamiento debería ser transmitido en vivo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nathaniel Méndez-Laing se queda sin club: MK Dons confirma la salida del futbolista guatemalteco",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/nathaniel-mendez-laing-se-queda-sin-club-mk-dons-confirma-la-salida-del-futbolista-guatemalteco/",
-      "fecha": "Fri, 09 Oct 2026 17:33:14 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Nathaniel Méndez-Laing cerró su ciclo con el MK Dons. El jugador guatemalteco buscará nuevo equipo para mantenerse en competencia durante la temporada."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "«Palacio», la nueva serie de Netflix dirigida por Jayro Bustamante",
       "link": "https://www.guatemala.com/noticias/entretenimiento/jayro-bustamante-dirige-una-serie-para-netflix.html",
       "fecha": "Fri, 09 Oct 2026 17:15:21 +0000",
       "categoria": "Entretenimiento",
       "resumen": "Jayro Bustamante dirige «Palacio», serie de Netflix que presenta los hechos de la Toma del Palacio de Justicia de Bogotá. Esta es su fecha de estreno.\nThe post «Palacio», la nueva serie de Netflix dirigida por Jayro Bustamante appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La indignación en Nueva York por el caso del dominicano que recibió un disparo de ICE en su auto con su hijo de 5 años en el asiento trasero",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-indignacion-en-nueva-york-por-el-caso-del-dominicano-que-recibio-un-disparo-de-ice-en-su-auto-con-su-hijo-de-5-anos-en-el-asiento-trasero/",
-      "fecha": "Fri, 09 Oct 2026 17:13:32 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El hombre, identificado como Óscar Belgal, de 28 años, fue trasladado al hospital y está consciente, informó el DHS."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Desprendimiento de tierra sobre vivienda deja dos niñas fallecidas y una mujer herida en Joyabaj, Quiché",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/desprendimiento-de-tierra-sobre-vivienda-deja-dos-ninas-fallecidas-y-una-mujer-herida-en-joyabaj-quiche-breaking/",
-      "fecha": "Fri, 09 Oct 2026 17:03:26 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Dos menores perdieron la vida y una mujer resultó herida tras un desprendimiento de tierra en un inmueble en Joyabaj, Quiché."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga de Naciones: estrella de Canadá sufre una lesión ¿Estará disponible ante Guatemala?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-de-naciones-estrella-de-canada-sufre-una-lesion-estara-disponible-ante-guatemala/",
-      "fecha": "Fri, 09 Oct 2026 17:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "A semanas de la serie contra Guatemala, una lesión muscular encendió las alarmas en Canadá y genera incertidumbre sobre la disponibilidad de una de sus piezas más importantes para los cuartos de final."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala distribuye suplemento nutricional utilizado en contextos de emergencia como Siria y Sri Lanka",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-distribuye-suplemento-nutricional-utilizado-en-contextos-de-emergencia-como-siria-y-sri-lanka/",
-      "fecha": "Fri, 09 Oct 2026 17:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "En una fase inicial, el suplemento nutricional lipídico (SNL) se distribuye en siete municipios de Totonicapán y Alta Verapaz."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Marejadas y vientos &#8220;devastadores&#8221;: Así golpeará el huracán Isaías a EE. UU. este fin de semana",
-      "link": "https://www.prensalibre.com/internacional/marejadas-y-vientos-devastadores-asi-golpeara-el-huracan-isaias-a-ee-uu-este-fin-de-semana/",
-      "fecha": "Fri, 09 Oct 2026 16:54:05 +0000",
-      "categoria": "Internacional",
-      "resumen": "El NHC informó que el huracán Isaías alcanzó la categoría 3 y podría provocar marejadas \"mortales\" y vientos \"devastadores\" en EE. UU."
     },
     {
       "fuente": "Guatemala.com",
@@ -771,84 +843,12 @@
       "resumen": "El Papa León XIV recibió un lienzo pintado por 30 niños guatemaltecos que compartieron, mediante el arte, su deseo de construir un futuro de paz.\nThe post Papa León XIV recibió un lienzo pintado por niños guatemaltecos appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Nobel de la Paz: Pillay bromea sobre compartirlo con Donald Trump y recibe críticas de Netanyahu",
-      "link": "https://www.prensalibre.com/internacional/nobel-de-la-paz-pillay-bromea-sobre-compartirlo-con-donald-trump-y-recibe-criticas-de-netanyahu/",
-      "fecha": "Fri, 09 Oct 2026 16:14:50 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump anunció sanciones contra la Corte Penal Internacional apenas horas después de que se conociera que el Premio Nobel de la Paz había recaído en una de sus exjuezas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fentanilo, metanfetamina y una red de narcotráfico: Jorge Michel Monroy, el extraditable capturado en Guatemala con vínculos en México y EE. UU.",
-      "link": "https://www.prensalibre.com/guatemala/justicia/fentanilo-metanfetamina-y-una-red-de-narcotrafico-jorge-michel-monroy-el-extraditable-capturado-en-guatemala-con-vinculos-en-mexico-y-ee-uu/",
-      "fecha": "Fri, 09 Oct 2026 16:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Jorge Michel Monroy, capturado en Guatemala por cargos de narcotráfico en EE. UU., figura en una investigación del 2014 sobre una red que operaba desde México."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Barcelona no podrá contar con su máxima figura: ¿cuántos partidos se perderá Raphinha?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-no-podra-contar-con-su-maxima-figura-cuantos-partidos-se-perdera-raphinha/",
-      "fecha": "Fri, 09 Oct 2026 15:41:18 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Barcelona confirmó que Raphinha no estará disponible en sus próximos compromisos luego de regresar de la concentración de Brasil con molestias musculares."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "¿Cómo estará el clima en Guatemala el fin de semana del 10 y 11 de octubre 2026?",
       "link": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-pronostico-fin-de-semana-10-y-11-octubre-2026.html",
       "fecha": "Fri, 09 Oct 2026 15:26:04 +0000",
       "categoria": "Comunidad",
       "resumen": "El clima en Guatemala este 10 y 11 de octubre 2026 estará marcado por calor, lluvias y actividad eléctrica. ¡Conoce más del pronóstico del Insivumeh!\nThe post ¿Cómo estará el clima en Guatemala el fin de semana del 10 y 11 de octubre 2026? appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Navanethem Pillay? La sudafricana que ganó el Premio Nobel de la Paz del 2026",
-      "link": "https://www.prensalibre.com/internacional/quien-es-navanethem-pillay-la-sudafricana-que-gano-el-premio-nobel-de-la-paz-del-2026/",
-      "fecha": "Fri, 09 Oct 2026 15:21:20 +0000",
-      "categoria": "Internacional",
-      "resumen": "Como abogada, la sudafricana Navanethem \"Navi\" Pillay defendió a muchos activistas contra el sistema de segregación racial, entre ellos Nelson Mandela."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jaguares en Guatemala: cámaras trampa revelan presencia inédita en la Sierra de las Minas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/jaguares-en-guatemala-camaras-trampa-revelan-presencia-inedita-en-la-sierra-de-las-minas-breaking/",
-      "fecha": "Fri, 09 Oct 2026 15:14:54 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El avistamiento de jaguares en la Sierra de las Minas plantea la necesidad de ampliar gradualmente el monitoreo para determinar cuántos ejemplares habitan en la región."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga Nacional: así quedó la tabla de posiciones tras el empate entre Antigua y Municipal",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-asi-quedo-la-tabla-de-posiciones-tras-el-empate-entre-antigua-y-municipal/",
-      "fecha": "Fri, 09 Oct 2026 15:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El empate 1-1 entre Antigua GFC y Municipal en el estadio Pensativo dejó sin cambios la parte alta de la clasificación del Torneo Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Tengo resaca de Rosalía”: Anne Carson, Nobel de Literatura 2026, escribe sobre la cantante tras asistir a su concierto",
-      "link": "https://www.prensalibre.com/vida/escenario/tengo-resaca-de-rosalia-anne-carson-nobel-de-literatura-2026-escribe-sobre-la-cantante-tras-asistir-a-su-concierto/",
-      "fecha": "Fri, 09 Oct 2026 14:32:37 +0000",
-      "categoria": "Escenario",
-      "resumen": "Tras recibir el Premio Nobel de Literatura 2026, cobró relevancia un artículo en el que la escritora canadiense Anne Carson relata su experiencia en un concierto de Rosalía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tristeza en Japón porque el Premio Nobel de Literatura no fue para Haruki Murakami",
-      "link": "https://www.prensalibre.com/vida/escenario/tristeza-en-japon-porque-el-premio-nobel-de-literatura-no-fue-para-haruki-murakami/",
-      "fecha": "Fri, 09 Oct 2026 14:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Los admiradores del autor de Tokyo Blues lamentaron que la Academia Sueca ignorara nuevamente al escritor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala y Francia avanzan hacia una nueva ruta aérea: cuántos vuelos se contemplan y cuándo podrían comenzar",
-      "link": "https://www.prensalibre.com/economia/guatemala-y-francia-avanzan-hacia-una-nueva-ruta-aerea-cuantos-vuelos-se-contemplan-y-cuando-podrian-comenzar/",
-      "fecha": "Fri, 09 Oct 2026 14:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Guatemala y Francia avanzan en un acuerdo que permitiría establecer una nueva ruta aérea, con hasta siete vuelos semanales en 2029. Conozca qué falta para concretar la conexión y cuándo podrían comenzar las operaciones."
     },
     {
       "fuente": "Guatemala.com",
