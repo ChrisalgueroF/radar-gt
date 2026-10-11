@@ -1,14 +1,102 @@
 {
-  "actualizado": "2026-10-10T22:21:48.941Z",
+  "actualizado": "2026-10-11T01:44:15.598Z",
   "total": 109,
   "noticias": [
     {
       "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Suchitepéquez vs. Mixco: siga el minuto a minuto de la jornada 13",
+      "titulo": "Al menos 12 muertos y más de 300 heridos en un ataque contra el aeropuerto internacional de Riad, la capital de Arabia Saudita",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/al-menos-12-muertos-y-mas-de-300-heridos-en-un-ataque-contra-el-aeropuerto-internacional-de-riad-la-capital-de-arabia-saudita/",
+      "fecha": "Sun, 11 Oct 2026 00:45:24 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Al menos 12 personas han muerto y 309 han resultado heridas en un ataque contra el aeropuerto internacional en Riad, la capital de Arabia Saudita, según informaron las autoridades locales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hallan entre la maleza el cadáver de una niña que tenía alerta por desaparición en Chimaltenango",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/hallan-entre-la-maleza-el-cadaver-de-una-nina-que-tenia-alerta-por-desaparicion-en-chimaltenango-breaking/",
+      "fecha": "Sun, 11 Oct 2026 00:45:14 +0000",
+      "categoria": "Sucesos",
+      "resumen": "El cadáver de una niña que fue reportada como desaparecida el pasado 7 de octubre fue localizado entre matorrales, en un sector de Acatenango, Chimaltenango."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De la horca a la inyección letal: cómo Estados Unidos ha cambiado sus métodos de ejecución y qué polémicas han surgido",
+      "link": "https://www.prensalibre.com/internacional/de-la-horca-a-la-inyeccion-letal-como-estados-unidos-ha-cambiado-sus-metodos-de-ejecucion-y-que-polemicas-han-surgido/",
+      "fecha": "Sun, 11 Oct 2026 00:42:50 +0000",
+      "categoria": "Internacional",
+      "resumen": "La supervivencia de Christa Pike tras recibir una inyección letal, el regreso del pelotón de fusilamiento y una ejecución militar anunciada reabren el debate sobre los métodos de pena de muerte en Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Vinicius fue expulsado por jalarle el pelo a un rival y podría perderse el Clásico ante Barcelona",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-vinicius-fue-expulsado-por-jalarle-el-pelo-a-un-rival-y-podria-perderse-el-clasico-ante-barcelona-breaking/",
+      "fecha": "Sun, 11 Oct 2026 00:33:20 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Vinicius le jaló el pelo a un rival, el VAR lo detectó y el árbitro anuló su gol y lo expulsó en lo que pone en duda su presencia en el Clásico del 25 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Malacateco vs. Guastatoya: siga el minuto a minuto de la jornada 13",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-malacateco-vs-guastatoya-siga-el-minuto-a-minuto-de-la-jornada-13-breaking/",
+      "fecha": "Sun, 11 Oct 2026 00:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los toros reciben al líder del torneo este sábado a las 7:00 PM en el estadio Santa Lucía de Malacatán en un duelo donde Guastatoya buscará mantener su ventaja en lo más alto de la tabla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué hay detrás de las señales de radio detectadas en un planeta fuera del Sistema Solar?",
+      "link": "https://www.prensalibre.com/vida/ciencia/que-hay-detras-de-las-senales-de-radio-detectadas-en-un-planeta-fuera-del-sistema-solar/",
+      "fecha": "Sat, 10 Oct 2026 23:44:51 +0000",
+      "categoria": "Ciencia",
+      "resumen": "Tres investigadores publicaron un artículo científico sobre el hallazgo de una señal de radio proveniente del exoplaneta Beta Pictoris b, situado a 63 años luz de la Tierra."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Doblete de Héctor Morales le da la remontada 2-1 a Aurora sobre Xelajú",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/doblete-de-hector-morales-le-da-la-remontada-2-1-a-aurora-sobre-xelaju-breaking/",
+      "fecha": "Sat, 10 Oct 2026 23:01:22 +0000",
+      "categoria": "Deportes",
+      "resumen": "Los aurinegros fueron por detrás en el marcador pero Morales empató de cabeza al y anotó el penal para darle a Aurora la remontada ante un Xelajú que terminó con diez jugadores por quinta jornada consecutiva."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Hay mucha posibilidad de que pase algo&#8221;: Vecinos de Villa Hermosa I siguen en alerta por crecida del río Pinula",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/hay-mucha-posibilidad-de-que-pase-algo-vecinos-de-villa-hermosa-i-siguen-en-alerta-por-crecida-del-rio-pinula/",
+      "fecha": "Sat, 10 Oct 2026 22:45:03 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Tras los daños en viviendas de los sectores 2 y 4 de Villa Hermosa I, vecinos de los sectores 1 y 3 temen que la crecida del río Pinula también afecte sus casas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“No la va a poder entregar en el altar”: hija del piloto del helicóptero que cayó al lago de Atitlán había planificado su boda",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/no-la-va-a-poder-entregar-en-el-altar-hija-del-piloto-del-helicoptero-que-cayo-al-lago-de-atitlan-habia-planificado-su-boda-breaking/",
+      "fecha": "Sat, 10 Oct 2026 22:35:47 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Esposa del piloto del helicóptero que cayó en el lago de Atitlán relata que una de sus hijas estaba próxima a contraer matrimonio, pero ahora su padre ya “no la va a poder entregar en el altar\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿La UFC entrenará al FBI? Documento revela intención de dar contrato exclusivo a empresa promotora de artes marciales",
+      "link": "https://www.prensalibre.com/internacional/la-ufc-entrenara-al-fbi-documento-revela-intencion-de-dar-contrato-exclusivo-a-empresa-promotora-de-artes-marciales/",
+      "fecha": "Sat, 10 Oct 2026 22:04:29 +0000",
+      "categoria": "Internacional",
+      "resumen": "El FBI busca contratar por un año a la UFC, sin competencia abierta, para entrenar a sus agentes en combate cuerpo a cuerpo; el documento oficial argumenta que es el único proveedor calificado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Suchitepéquez vs. Mixco: se suspende el partido por fuertes lluvias",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-suchitepequez-vs-mixco-siga-el-minuto-a-minuto-de-la-jornada-13-breaking/",
       "fecha": "Sat, 10 Oct 2026 22:00:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Los venados reciben a los chicharroneros este sábado a las 5:00 PM en el estadio Carlos Salazar Hijo en un duelo donde Suchitepéquez necesita urgentemente ganar seguir con vida en el Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "DGAC investiga accidente de helicóptero que dejó dos fallecidos en el lago de Atitlán",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/dgac-investiga-accidente-de-helicoptero-que-dejo-dos-fallecidos-en-el-lago-de-atitlan-breaking/",
+      "fecha": "Sat, 10 Oct 2026 21:51:12 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La investigación busca esclarecer las causas del accidente de helicóptero en el lago de Atitlán, donde murieron dos personas y otras cinco sobrevivieron."
     },
     {
       "fuente": "Prensa Libre",
@@ -33,6 +121,14 @@
       "fecha": "Sat, 10 Oct 2026 21:33:50 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Según la policía, el hombre entró en el recinto de los tigres de la atracción turística."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Álvaro Pava, voz de la Sonora Dinamita en los años 90, muere tras varios días hospitalizado",
+      "link": "https://www.prensalibre.com/vida/escenario/sonora-dinamita-muere-alvaro-pava-a-los-65-anos/",
+      "fecha": "Sat, 10 Oct 2026 20:59:55 +0000",
+      "categoria": "Escenario",
+      "resumen": "Álvaro Pava, una de las voces más queridas de la Sonora Dinamita, falleció luego de estar varios días hospitalizado en Monterrey, México."
     },
     {
       "fuente": "Prensa Libre",
@@ -715,70 +811,6 @@
       "resumen": "La Junta Monetaria dio validez a las renuncias presentadas por el cuerpo gerencial del Banguat el miércoles 7 de octubre, durante una sesión extraordinaria en la que conoció la resolución de la CC que dejó sin efecto el nombramiento de Jonathan Menkos. Las autoridades hicieron un llamado a la calma a los agentes económicos."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué los perros grandes viven menos que los pequeños? Esto revela un estudio",
-      "link": "https://www.prensalibre.com/vida/ciencia/por-que-los-perros-grandes-viven-menos-que-los-pequenos-esto-revela-un-estudio/",
-      "fecha": "Fri, 09 Oct 2026 20:29:29 +0000",
-      "categoria": "Ciencia",
-      "resumen": "Científicos analizaron el ADN de 864 perros y encontraron cambios genéticos que podrían explicar las diferencias en su envejecimiento según el tamaño."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala vs. Canadá: Concacaf confirma los horarios de los partidos de cuartos de final de la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-concacaf-confirma-los-horarios-de-los-partidos-de-cuartos-de-final-de-la-liga-de-naciones/",
-      "fecha": "Fri, 09 Oct 2026 20:20:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Selección Nacional de Guatemala ya conoce las fechas y horarios de su serie de cuartos de final de la Liga de Naciones de Concacaf ante Canadá."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los videos de los daños que causó el terremoto de 7.7 grados en Panamá este 9 de octubre",
-      "link": "https://www.prensalibre.com/internacional/los-videos-de-los-danos-que-causo-el-terremoto-de-77-grados-en-panama-este-9-de-octubre-breaking/",
-      "fecha": "Fri, 09 Oct 2026 20:13:14 +0000",
-      "categoria": "Internacional",
-      "resumen": "En redes sociales se han publicado varios videos que muestran los daños que dejó el terremoto de 7,7 grados que se registró en Panamá este 9 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La indignación en Nueva York por el caso del dominicano que recibió un disparo de ICE en su auto con su hijo de 5 años en el asiento trasero",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-indignacion-en-nueva-york-por-el-caso-del-dominicano-que-recibio-un-disparo-de-ice-en-su-auto-con-su-hijo-de-5-anos-en-el-asiento-trasero-2/",
-      "fecha": "Fri, 09 Oct 2026 20:11:23 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El hombre, identificado como Óscar Belgal, de 28 años, fue trasladado al hospital y está consciente, informó el DHS."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jonathan Menkos enfrenta tres denuncias en el MP tras ocupar la presidencia del Banguat sin dejar su cargo de diputado",
-      "link": "https://www.prensalibre.com/guatemala/justicia/jonathan-menkos-enfrenta-tres-denuncias-en-el-mp-tras-ocupar-la-presidencia-del-banguat-sin-dejar-su-cargo-de-diputado-breaking/",
-      "fecha": "Fri, 09 Oct 2026 19:57:12 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ministerio Público informó que Jonathan Menkos acumula tres denuncias por los delitos de abuso de autoridad e incumplimiento de deberes, tras haber asumido la presidencia del Banguat."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Jacob Hicks? El acusado de amenazar con un atentado con bomba contra la Casa Blanca",
-      "link": "https://www.prensalibre.com/internacional/quien-es-jacob-hicks-el-acusado-de-amenazar-con-un-atentado-con-bomba-contra-la-casa-blanca/",
-      "fecha": "Fri, 09 Oct 2026 19:43:16 +0000",
-      "categoria": "Internacional",
-      "resumen": "Jacob Aaron Hicks presuntamente envió un correo a una emisora de noticias local, en el que afirmaba que habría un ataque con bomba inminente contra la Casa Blanca."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Se lo merece&#8221; la reacción de Trump a la decisión de retransmitir el fusilamiento de un hombre en Texas",
-      "link": "https://www.prensalibre.com/internacional/se-lo-merece-la-reaccion-de-trump-a-la-decision-de-retransmitir-el-fusilamiento-de-un-hombre-en-texas/",
-      "fecha": "Fri, 09 Oct 2026 19:34:50 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump aprobó la ejecución de Nidal Malik Hasan por el asesinato de 13 personas en 2009, la cual será por fusilamiento y retransmitida en vivo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pepo Toledo presenta su libro &#8220;Manual de vida&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/pepo-toledo-presenta-su-libro-manual-de-vida/",
-      "fecha": "Fri, 09 Oct 2026 19:12:10 +0000",
-      "categoria": "Escenario",
-      "resumen": "El artista multidisciplinario ofrece en este ejemplar una guía de sanación a través la espiritualidad."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "La totalmente nueva MAZDA CX-5 ya está disponible en Guatemala",
       "link": "https://www.guatemala.com/noticias/sociedad/totalmente-nueva-mazda-cx-5-2027-disponible-guatemala.html",
@@ -793,38 +825,6 @@
       "fecha": "Fri, 09 Oct 2026 19:10:47 +0000",
       "categoria": "Sociedad",
       "resumen": "El traje nacional de Ximena Carrillo se encuentra en el top 15 de Miss Grand International. Te contamos cómo y dónde votar por la guatemalteca.\nThe post Guatemala ingresa al top 15 de trajes nacionales de Miss Grand International 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Finaliza alerta de tsunami en el Pacífico luego de fuerte temblor en Panamá",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/insivumeh-activa-alerta-por-posible-tsunami-en-costas-del-pacifico-guatemalteco-tras-fuerte-temblor-en-panama-breaking/",
-      "fecha": "Fri, 09 Oct 2026 19:07:39 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh informa que finalizó la alerta de tsunami en costas del Pacífico luego del temblor de magnitud 7.6 registrado en Panam´á este 9 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Star Wars Galactic Racer: el videojuego que revive las carreras de la saga con mayor velocidad y peligro",
-      "link": "https://www.prensalibre.com/vida/tecnologia/star-wars-galactic-racer-el-videojuego-que-revive-las-carreras-de-la-saga-con-mayor-velocidad-y-peligro/",
-      "fecha": "Fri, 09 Oct 2026 19:01:35 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Un nuevo videojuego del universo de Star Wars revive las carreras de la saga con distintos vehículos, escenarios y desafíos que incluyen condiciones extremas en varios planetas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Mbappé va a jugar”: Mourinho sale en defensa del francés y lanza un mensaje al Bernabéu",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mbappe-va-a-jugar-mourinho-sale-en-defensa-del-frances-y-lanza-un-mensaje-al-bernabeu/",
-      "fecha": "Fri, 09 Oct 2026 18:45:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "José Mourinho salió en defensa de Kylian Mbappé y calificó como \"ridícula\" la polémica que se ha generado alrededor del delantero francés."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Equivaldría a tortura&#8221;: el Pentágono transmitirá en vivo la ejecución de Nidal Hasan, el primer militar que será fusilado en EE.UU. desde la II Guerra Mundial",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/equivaldria-a-tortura-el-pentagono-transmitira-en-vivo-la-ejecucion-de-nidal-hasan-el-primer-militar-que-sera-fusilado-en-ee-uu-desde-la-ii-guerra-mundial/",
-      "fecha": "Fri, 09 Oct 2026 18:44:02 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "\"Nos aseguraremos de que la gente pueda verlo\", dijo el secretario de Defensa de Estados Unidos, Pete Hegseth."
     },
     {
       "fuente": "Guatemala.com",
