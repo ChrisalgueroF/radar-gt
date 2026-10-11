@@ -1,7 +1,151 @@
 {
-  "actualizado": "2026-10-11T15:30:08.701Z",
+  "actualizado": "2026-10-11T20:05:50.646Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; San Pedro vs. Comunicaciones: siga el minuto a minuto de la jornada 13",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-san-pedro-vs-comunicaciones-siga-el-minuto-a-minuto-de-la-jornada-13-breaking/",
+      "fecha": "Sun, 11 Oct 2026 20:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los gallos reciben a los cremas este domingo a las 3:00 PM en el estadio Municipal de San Pedro en un duelo entre dos equipos que buscan escalar posiciones en la segunda vuelta del Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La operación a la que se someterá el papa León XIV: cómo se extirpa un nódulo pulmonar",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/la-operacion-a-la-que-se-sometera-el-papa-leon-xiv-como-se-extirpa-un-nodulo-pulmonar/",
+      "fecha": "Sun, 11 Oct 2026 19:15:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "El papa León XIV anunció este domingo, por sorpresa, que en \"los próximos días\" deberá someterse a una operación por un nódulo en un pulmón en fase \"muy inicial\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Huracán Simón alcanza la categoría 4 y cambia de trayectoria: ¿Cuándo y dónde podría tocar tierra?",
+      "link": "https://www.prensalibre.com/internacional/huracan-simon-alcanza-la-categoria-4-y-cambia-de-trayectoria-cuando-y-donde-podria-tocar-tierra/",
+      "fecha": "Sun, 11 Oct 2026 19:03:42 +0000",
+      "categoria": "Internacional",
+      "resumen": "El cambio de trayectoria del huracán modifica el pronóstico previo, que contemplaba que Simón tocaría tierra en las primeras horas de este 11 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump anuncia un alto el fuego energético inmediato entre Rusia y Ucrania",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-anuncia-un-alto-el-fuego-energetico-inmediato-entre-rusia-y-ucrania/",
+      "fecha": "Sun, 11 Oct 2026 18:58:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Zelensky aseguró que Ucrania está dispuesta a respetar el acuerdo si Rusia también se compromete a detener sus ataques contra la infraestructura energética."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Suchitepéquez y Mixco se repartieron los puntos en un intenso 3-3 en el Carlos Salazar Hijo",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/suchitepequez-y-mixco-se-repartieron-los-puntos-en-un-intenso-3-3-en-el-carlos-salazar-hijo-breaking/",
+      "fecha": "Sun, 11 Oct 2026 18:11:08 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los venados se pusieron arriba en el primer tiempo pero Mixco igualó en el segundo en un partido que fue suspendido el sábado por las fuertes lluvias en Mazatenango y se reanudó este domingo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Si no lo puedo vivir, pues lo puedo escribir”: Ricardo Sumalavia en Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/si-no-lo-puedo-vivir-pues-lo-puedo-escribir-ricardo-sumalavia-en-guatemala/",
+      "fecha": "Sun, 11 Oct 2026 18:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Experto en microrrelato y escritura creativa, el escritor peruano Ricardo Sumalavia visitó Guatemala y reveló a Prensa Libre qué lo llevó a cambiar la ingeniería por las letras."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Manchester City golea al Liverpool en Anfield y mantiene su paso perfecto en la Premier League",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/manchester-city-golea-al-liverpool-en-anfield-y-mantiene-su-paso-perfecto-en-la-premier-league-breaking/",
+      "fecha": "Sun, 11 Oct 2026 17:39:21 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El City aprovechó la expulsión de Gravenberch para golear 3-0 al Liverpool en Anfield con goles de Haaland, Doku y Cherki para mantener su racha perfecta como líder invicto de la Premier League."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entre leyendas y vientos: qué se sabe de los riesgos en el cielo y las aguas de Atitlán",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/entre-leyendas-y-vientos-que-se-sabe-de-los-riesgos-en-el-cielo-y-las-aguas-de-atitlan/",
+      "fecha": "Sun, 11 Oct 2026 17:35:52 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El accidente del pasado 8 de octubre en el que un helicóptero cayó al lago de Atitlán reabrió una pregunta: ¿qué hay detrás del viento, la lluvia, los volcanes y la profundidad de uno de los destinos más bellos de Guatemala?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump vs. la televisión: ¿Por qué el Departamento de Justicia investiga a CNN, ABC, CBS, NBC y Fox?",
+      "link": "https://www.prensalibre.com/internacional/trump-vs-la-television-por-que-el-departamento-de-justicia-investiga-a-cnn-abc-cbs-nbc-y-fox/",
+      "fecha": "Sun, 11 Oct 2026 17:32:56 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las cadenas han calificado la investigación del Departamento de Justicia como un intento de intimidación por parte del presidente Donald Trump."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cárcel de Masagua: cuatro años de retrasos y nuevas fechas para la licitación",
+      "link": "https://www.prensalibre.com/guatemala/justicia/carcel-de-masagua-cuatro-anos-de-retrasos-y-nuevas-fechas-para-la-licitacion/",
+      "fecha": "Sun, 11 Oct 2026 17:31:15 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Desde su adjudicación en el 2022, la cárcel de Masagua acumula retrasos y cambios de fecha. Ahora, Gobernación prevé licitar su construcción en noviembre del 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala celebró 37 años de la Carrera de la Luz y el Sonido con más de 2 mil participantes",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/guatemala-celebro-37-anos-de-la-carrera-de-la-luz-y-el-sonido-con-mas-de-2-mil-participantes-breaking/",
+      "fecha": "Sun, 11 Oct 2026 17:22:09 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La competencia inclusiva de 5K y 10K reunió a miles de personas en la Avenida La Reforma en una fiesta deportiva que se ha celebrado durante décadas en el país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Conred documenta 21 personas fallecidas por emergencias en la temporada de lluvias 2026",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/conred-documenta-21-personas-fallecidas-por-emergencias-en-la-temporada-de-lluvias-2026/",
+      "fecha": "Sun, 11 Oct 2026 16:59:50 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Los datos señalan 2 mil 140 emergencias a nivel nacional, que incluyen daños a viviendas, infraestructura, carreteras y puentes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Thelma Gabriela Girón, la guatemalteca que conquistó Miss América Latina del Mundo?",
+      "link": "https://www.prensalibre.com/vida/escenario/quien-es-thelma-gabriela-giron-la-guatemalteca-que-conquisto-miss-america-latina-del-mundo/",
+      "fecha": "Sun, 11 Oct 2026 16:31:52 +0000",
+      "categoria": "Escenario",
+      "resumen": "Guatemala destaca en República Dominicana y celebra una nueva corona: Thelma Gabriela Girón Recinos gana el título de Miss América Latina del Mundo entre 17 candidatas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué significa que el papa León XIV tenga un nódulo en el pulmón? El pronóstico en el Vaticano",
+      "link": "https://www.prensalibre.com/internacional/que-significa-que-el-papa-leon-xiv-tenga-un-nodulo-en-el-pulmon-el-pronostico-en-el-vaticano/",
+      "fecha": "Sun, 11 Oct 2026 16:05:02 +0000",
+      "categoria": "Internacional",
+      "resumen": "El papa León XIV anunció que los médicos le detectaron un nódulo en el pulmón a menos de un mes de su viaje apostólico a Uruguay, Argentina y Perú."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso contra funcionarios por cobros de &#8220;talacha&#8221; en Quiché suma retrasos y recusación contra jueza",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-contra-funcionarios-por-cobros-de-talacha-en-quiche-suma-retrasos-y-recusacion-contra-jueza/",
+      "fecha": "Sun, 11 Oct 2026 15:59:32 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La investigación por presuntos cobros de \"talacha\" a reclusos involucra a policías, guardias penitenciarios y un delegado de la PGN. La primera declaración sigue pendiente."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Guatemalteca Gabriela Girón ganó Miss América Latina del Mundo 2026",
+      "link": "https://www.guatemala.com/noticias/sociedad/guatemalteca-gabriela-giron-gano-miss-america-latina-del-mundo-2026.html",
+      "fecha": "Sun, 11 Oct 2026 15:36:34 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Thelma Gabriela Girón conquistó la corona de Miss América Latina 2026, un certamen internacional celebrado en Punta Cana, República Dominicana.\nThe post Guatemalteca Gabriela Girón ganó Miss América Latina del Mundo 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Suchitepéquez vs. Mixco: siga el minuto a minuto de la jornada 13",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-suchitepequez-vs-mixco-siga-el-minuto-a-minuto-de-la-jornada-13-breaking-2/",
+      "fecha": "Sun, 11 Oct 2026 15:30:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El partido que fue reprogramado se disputará este domingo a las 10:30 AM en el estadio Carlos Salazar Hijo de Mazatenango con Suchitepéquez buscando urgentemente los tres puntos para salir del último lugar de la tabla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué era la bola negra, el sistema que los clubes privados usaban para vetar a candidatos y que da nombre a la exitosa película española inspirada en García Lorca",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-era-la-bola-negra-el-sistema-que-los-clubes-privados-usaban-para-vetar-a-candidatos-y-que-da-nombre-a-la-exitosa-pelicula-espanola-inspirada-en-garcia-lorca/",
+      "fecha": "Sun, 11 Oct 2026 15:05:06 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Antes de ser el título de una obra inacabada de García Lorca, \"La bola negra\" fue un mecanismo real de segregación social. Su historia atraviesa la masonería, los clubes británicos y los casinos de la élite española."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Zonas Libres en Guatemala: Yazaki avanza en los planes de su segunda fábrica en San Marcos",
@@ -667,142 +811,6 @@
       "resumen": "Mientras las autoridades determinan qué familias podrían optar a un subsidio, 73 hogares arrastran solicitudes de apoyo desde el 2023, sin que se haya definido cuándo recibirían una respuesta."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "“Violé el protocolo de seguridad”: Raúl Pérez perdió los brazos por una descarga eléctrica y convirtió su historia en un mensaje de prevención",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/viole-el-protocolo-de-seguridad-raul-perez-perdio-los-brazos-por-una-descarga-electrica-y-convirtio-su-historia-en-un-mensaje-de-prevencion/",
-      "fecha": "Sat, 10 Oct 2026 02:45:43 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Una descarga eléctrica le arrebató los brazos cuando tenía 29 años. Más de dos décadas después, Raúl Pérez comparte su historia para evitar que otros trabajadores sufran un accidente como el que cambió su vida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ataque armado en la zona 7 de Mixco deja tres hombres sin vida",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-la-zona-7-de-mixco-deja-tres-hombres-sin-vida/",
-      "fecha": "Sat, 10 Oct 2026 02:41:50 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Tres hombres murieron este 9 de octubre en  un ataque armado en San Ignacio, zona 7 de Mixco."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ubican helicóptero sumergido en Atitlán y hombres rana trabajan para recuperar cuerpos de dos víctimas",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ubican-helicoptero-sumergido-en-atitlan-y-hombres-rana-trabajan-para-recuperar-cuerpos-de-dos-victimas-breaking/",
-      "fecha": "Sat, 10 Oct 2026 02:30:12 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Elementos de los Bomberos Voluntarios localizaron el helicóptero accidentado en el lago de Atitlán y continúan las labores nocturnas para recuperar a dos víctimas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Britney Spears lanza canción inédita para celebrar los 25 años de su tercer álbum: así suena “She’ll Never Be Me”",
-      "link": "https://www.prensalibre.com/vida/escenario/britney-spears-lanza-cancion-inedita-para-celebrar-los-25-anos-de-su-tercer-album-asi-suena-shell-never-be-me/",
-      "fecha": "Sat, 10 Oct 2026 02:15:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La nueva canción formará parte de la reedición de lujo de Britney, el tercer álbum de la cantante, que en el 2026 celebra su 25 aniversario."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién era Alexander Aslani, el &#8220;cirujano de las famosas&#8221; que murió tras un ataque en España?",
-      "link": "https://www.prensalibre.com/internacional/quien-era-alexander-aslani-el-cirujano-de-las-famosas-que-murio-tras-un-ataque-en-espana/",
-      "fecha": "Sat, 10 Oct 2026 02:04:30 +0000",
-      "categoria": "Internacional",
-      "resumen": "Alexander Aslani, de 57 años, conocido como \"el cirujano de las famosas\", fue asesinado al interior de su clínica, ubicada en Marbella, España."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "AeroMetro instala su tercera torre inclinada: ¿cuántas estructuras tendrá la Línea 1 y cuáles tendrán este diseño?",
-      "link": "https://www.prensalibre.com/economia/aerometro-instala-su-tercera-torre-inclinada-cuantas-estructuras-tendra-la-linea-1-y-cuales-tendran-este-diseno/",
-      "fecha": "Sat, 10 Oct 2026 02:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La Torre 11 fue instalada el 8 de octubre y tiene una inclinación de 10 grados. CableVía explica por qué algunas estructuras tienen diseños diferentes y cómo se contempla su seguridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC confirma denuncias por extorsión en el Cenma y despliega agentes encubiertos para investigar los cobros",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/pnc-confirma-denuncias-por-extorsion-en-el-cenma-y-despliega-agentes-encubiertos-para-investigar-los-cobros/",
-      "fecha": "Sat, 10 Oct 2026 01:51:07 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La PNC confirmó que ha recibido denuncias por extorsión en el Cenma, donde agentes encubiertos investigan las modalidades de cobro e intentan identificar a los responsables."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Celebran 25 años de innovación agrícola en Centroamérica",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/celebran-25-anos-de-innovacion-agricola-en-centroamerica/",
-      "fecha": "Sat, 10 Oct 2026 01:39:31 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Durante 25 años, Sakata Seed Centroamérica ha acompañado la evolución del sector agrícola con semillas, innovación y transferencia de conocimiento adaptadas a las necesidades de la región."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Shakira tiene nuevo novio? Revelan detalles de su supuesto romance con Serge Ibaka y quién habría sido su “cupido”",
-      "link": "https://www.prensalibre.com/vida/escenario/shakira-tiene-nuevo-novio-revelan-detalles-de-su-supuesto-romance-con-serge-ibaka-y-quien-habria-sido-su-cupido/",
-      "fecha": "Sat, 10 Oct 2026 01:29:33 +0000",
-      "categoria": "Escenario",
-      "resumen": "Un reconocido artista habría presentado a Shakira y al exjugador de la NBA Serge Ibaka, con quien la cantante colombiana estaría saliendo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué acordaron Trump y Putin sobre el petróleo ruso y cómo podría influir en el precio de la gasolina en EE. UU.?",
-      "link": "https://www.prensalibre.com/internacional/que-acordaron-trump-y-putin-sobre-el-petroleo-ruso-y-como-podria-influir-en-el-precio-de-la-gasolina-en-ee-uu/",
-      "fecha": "Sat, 10 Oct 2026 01:13:37 +0000",
-      "categoria": "Internacional",
-      "resumen": "Putin confirma un acuerdo con Trump para suministrar diésel ruso a EE. UU. y al mercado mundial, mientras persisten las tensiones por la guerra en Ucrania."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fiebre después de vacunarse: ¿qué relación tiene con la alimentación y la salud intestinal?",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/fiebre-despues-de-vacunarse-que-relacion-tiene-con-la-alimentacion-y-la-salud-intestinal/",
-      "fecha": "Sat, 10 Oct 2026 01:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Un estudio revela cómo las bacterias del intestino y la alimentación podrían influir en la fiebre y la inflamación que algunas personas presentan después de vacunarse."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC incauta nueve armas de fuego y 196 municiones durante allanamiento en Zacapa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-incauta-nueve-armas-de-fuego-y-196-municiones-durante-allanamiento-en-zacapa/",
-      "fecha": "Sat, 10 Oct 2026 00:59:06 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC incauta nueve armas de fuego y 196 municiones durante un allanamiento en Zacapa. Aunque las armas tienen documentos legales, serán sometidas a peritajes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué Mike Tyson entregó una carta de Diddy a Trump y qué busca el rapero",
-      "link": "https://www.prensalibre.com/internacional/por-que-mike-tyson-entrego-una-carta-de-diddy-a-trump-y-que-busca-el-rapero/",
-      "fecha": "Sat, 10 Oct 2026 00:50:15 +0000",
-      "categoria": "Internacional",
-      "resumen": "Mike Tyson visitó la Casa Blanca un día después de revelar que entregó a Donald Trump una carta de Diddy, quien busca un indulto presidencial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liderazgo de la mujer y el fomento del tejido social en Guatemala",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/liderazgo-de-la-mujer-y-el-fomento-del-tejido-social-en-guatemala/",
-      "fecha": "Sat, 10 Oct 2026 00:40:42 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "El consorcio conformado por Cáritas Arquidiocesana de Guatemala, Pastoral Social Cáritas Arquidiócesis de los Altos, Pastoral Social Cáritas Diócesis de Quiché y Pastoral de la Tierra Diócesis de San Marcos, con el financiamiento del Ministerio Federal de Cooperación Económica y Desarrollo de Alemania BMZ y Cáritas Alemania, implementó, durante nueve años, el proyecto Reconstrucción y Fomento del Tejido Social Comunitario."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién es Navi Pillay, la jurista sudafricana ganadora del Nobel de la Paz: &#8220;Lo dedico a los sobrevivientes del crimen internacional&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-navi-pillay-la-jurista-sudafricana-ganadora-del-nobel-de-la-paz-lo-dedico-a-los-sobrevivientes-del-crimen-internacional/",
-      "fecha": "Sat, 10 Oct 2026 00:04:24 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El Comité Noruego del Nobel ha otorgado el premio Nobel de la Paz 2026 a la ex alta comisionada de derechos humanos de la ONU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un país ante el cáncer: por qué el Papanicolaou no basta para frenar el cáncer de cérvix",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/un-pais-ante-el-cancer-por-que-el-papanicolaou-no-basta-para-frenar-el-cancer-de-cervix/",
-      "fecha": "Sat, 10 Oct 2026 00:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Guatemala no alcanza la cobertura recomendada de Papanicolaou y otras pruebas para detectar a tiempo lesiones que pueden evolucionar a cáncer de cérvix."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Anuncian cierres en el bulevar Vista Hermosa el 10 y 11 de octubre por instalación de pasarela peatonal",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/anuncian-cierres-en-el-bulevar-vista-hermosa-el-10-y-11-de-octubre-por-instalacion-de-pasarela-peatonal/",
-      "fecha": "Fri, 09 Oct 2026 23:52:48 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los cierres temporales de carriles en la zona 15 comenzarán el sábado 10 de octubre por la instalación de una nueva pasarela en el bulevar Vista Hermosa."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Licenciatura en Global Business Management + Master in Management: una ruta para formarse en negocios globales",
       "link": "https://www.guatemala.com/noticias/sociedad/licenciatura-global-business-management-master-management-uvg.html",
@@ -865,14 +873,6 @@
       "fecha": "Thu, 08 Oct 2026 18:48:35 +0000",
       "categoria": "Sociedad",
       "resumen": "El McDía Feliz 2026 reunió a miles de guatemaltecos que se sumaron a la causa. Conoce cuántos Big Mac se vendieron y las instituciones beneficiadas.\nThe post McDía Feliz 2026 en Guatemala vendió 394,093 Big Mac para ayudar a la niñez del país appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Ximena Carrillo brilló en la preliminar de Miss Grand International 2026",
-      "link": "https://www.guatemala.com/noticias/vida/ximena-carrillo-preliminar-miss-grand-international-2026.html",
-      "fecha": "Wed, 07 Oct 2026 15:25:08 +0000",
-      "categoria": "Vida",
-      "resumen": "Te dejamos fotos y detalles de la participación de Ximena Carrillo en la preliminar de Miss Grand International 2026 este miércoles 7 de octubre.\nThe post Ximena Carrillo brilló en la preliminar de Miss Grand International 2026 appeared first on Guatemala.com."
     }
   ]
 }
