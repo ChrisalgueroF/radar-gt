@@ -1,7 +1,135 @@
 {
-  "actualizado": "2026-10-11T20:05:50.646Z",
+  "actualizado": "2026-10-12T00:21:56.488Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Antigua GFC vs. Cobán Imperial: siga el minuto a minuto de la jornada 13",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-antigua-gfc-vs-coban-imperial-siga-el-minuto-a-minuto-de-la-jornada-13-breaking/",
+      "fecha": "Mon, 12 Oct 2026 00:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los coloniales reciben a los príncipes azules este domingo a las 7:10 PM en el estadio Pensativo en el partido que cierra la jornada 13 con Antigua buscando mantenerse en la pelea por el liderato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un país ante el cáncer: qué son los cuidados paliativos y cuándo deberían comenzar",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/un-pais-ante-el-cancer-que-son-los-cuidados-paliativos-y-cuando-deberian-comenzar/",
+      "fecha": "Mon, 12 Oct 2026 00:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Ministerio de Salud reporta 15 mil 856 tratamientos paliativos en la actual administración; especialistas explican que esta atención puede acompañar al tratamiento contra el cáncer."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Padre relata cómo creyeron que su hija había fallecido y despertó cuando preparaban su velatorio en Quiché",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/padre-relata-como-creyeron-que-su-hija-habia-fallecido-y-desperto-cuando-preparaban-su-velatorio-en-quiche/",
+      "fecha": "Sun, 11 Oct 2026 23:42:25 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Una familia creyó que su hija había muerto y preparó su velatorio en  Quiché. La adolescente despertó dentro del ataúd y habló de lo ocurrido en una entrevista."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump anuncia que Ucrania y Rusia acordaron un alto el fuego energético ¿cómo impacta en los precios de los combustibles?",
+      "link": "https://www.prensalibre.com/internacional/trump-anuncia-que-ucrania-y-rusia-acordaron-un-alto-el-fuego-energetico-como-impacta-en-los-precios-de-los-combustibles/",
+      "fecha": "Sun, 11 Oct 2026 23:36:07 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente de Estados Unidos, Donald Trump, informó que Rusia y Ucrania han acordado suspender los ataques contra sus respectivas infraestructuras energéticas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "San Pedro remonta 2-1 a Comunicaciones y se mantiene invicto en su estadio",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/san-pedro-remonta-2-1-a-comunicaciones-y-se-mantiene-invicto-en-su-estadio-breaking/",
+      "fecha": "Sun, 11 Oct 2026 22:55:56 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los cremas se pusieron arriba con gol de Olivera  pero Benedicto Aldana igualó  con un golazo de larga distancia y Steveth Chacón selló la remontada  para darle a los gallos los tres puntos en el estadio Municipal Sampedrano."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a dos mujeres que intentaban ingresar droga para sus hijos menores en Las Gaviotas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-dos-mujeres-que-intentaban-ingresar-droga-para-sus-hijos-menores-en-las-gaviotas-breaking/",
+      "fecha": "Sun, 11 Oct 2026 22:49:29 +0000",
+      "categoria": "Justicia",
+      "resumen": "Monitoras del centro de reinserción juvenil Las Gaviotas localizaron droga oculta en una almohada para el cuello y una cola para el cabello que llevaban dos mujeres que visitarían a sus hijos adolescentes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ben Affleck recrea escenas icónicas de las telenovelas Rebelde y María la del barrio y desata reacciones",
+      "link": "https://www.prensalibre.com/vida/escenario/ben-affleck-recrea-escenas-iconicas-de-las-telenovelas-rebelde-y-maria-la-del-barrio-y-desata-reacciones/",
+      "fecha": "Sun, 11 Oct 2026 22:40:04 +0000",
+      "categoria": "Escenario",
+      "resumen": "Ben Affleck se vuelve viral tras recrear escenas de Mía Colucci, de Rebelde, y Soraya Montenegro, de María, la del barrio, durante una dinámica que despertó comentarios en redes sociales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Puerto Quetzal reduce de 51 a ocho los buques en fondeo, en medio de temporada alta",
+      "link": "https://www.prensalibre.com/economia/puerto-quetzal-reduce-de-51-a-ocho-los-buques-en-fondeo-en-medio-de-temporada-alta/",
+      "fecha": "Sun, 11 Oct 2026 22:31:43 +0000",
+      "categoria": "Economía",
+      "resumen": "A diferencia de hace un año, cuando se reportaban hasta 51 embarcaciones en la zona de fondeo de la Empresa Portuaria Quetzal (EPQ), en Escuintla, actualmente el número de buques en espera se mantiene en un solo dígito, mientras el volumen de carga movilizada ha aumentado en más de un millón de toneladas, según las autoridades portuarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "COLA 2027 del Seguro Social: ¿Cuánto aumentará el beneficio y cuándo se anunciará?",
+      "link": "https://www.prensalibre.com/internacional/cola-2027-del-seguro-social-cuanto-aumentara-el-beneficio-y-cuando-se-anunciara/",
+      "fecha": "Sun, 11 Oct 2026 22:09:22 +0000",
+      "categoria": "Internacional",
+      "resumen": "El ajuste por costo de vida (COLA) del Seguro Social busca evitar que los beneficios pierdan valor debido a la inflación mundial y al aumento de los precios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Se me heló la sangre&#8221;: testigos relatan cómo fue la explosión en aeropuerto de Arabia Saudita que deja muertos, heridos y escenas de pánico",
+      "link": "https://www.prensalibre.com/guatemala/se-me-helo-la-sangre-testigos-relatan-como-fue-la-explosion-en-aeropuerto-de-arabia-saudita-que-deja-muertos-heridos-y-escenas-de-panico/",
+      "fecha": "Sun, 11 Oct 2026 22:07:25 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Un ataque hutí en el aeropuerto de Riad, capital de Arabia Saudita, dejó 12 muertos y más de 300 heridos. Sobrevivientes relatan escenas de pánico y desesperación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Renovación en CSJ y CGC concluye cambios institucionales previo a las elecciones 2027",
+      "link": "https://www.prensalibre.com/guatemala/politica/renovacion-en-csj-y-cgc-concluyen-cambios-institucionales-previo-a-las-elecciones-2027/",
+      "fecha": "Sun, 11 Oct 2026 22:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La nueva presidenta de CSJ y el Contralor General de Cuentas toman posesión el martes 13 de octubre a tan solo tres meses de la nueva convocatoria a elecciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Municipal vs. Marquense: siga el minuto a minuto de la jornada 13",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-municipal-vs-marquense-siga-el-minuto-a-minuto-de-la-jornada-13-breaking/",
+      "fecha": "Sun, 11 Oct 2026 22:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El sublíder del torneo recibe a los leones este domingo a las 5:00 PM en el estadio Manuel Felipe Carrera en un duelo donde Municipal buscará recuperar el liderato ante un Marquense que llega en la parte alta de la tabla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pablo Daniel Díaz: el músico guatemalteco que interpretó el órgano que suelen tocar maestros de la Capilla Sixtina",
+      "link": "https://www.prensalibre.com/vida/escenario/pablo-daniel-diaz-el-musico-guatemalteco-que-interpreto-el-organo-que-suelen-tocar-maestros-de-la-capilla-sixtina/",
+      "fecha": "Sun, 11 Oct 2026 21:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El músico guatemalteco Pablo Daniel Díaz se especializa en música sacra en el Vaticano y proyecta al país en los ámbitos cultural y eclesial internacionales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Atlántico, Pacífico u océano Trump? La propuesta de EE. UU. para cambiarles el nombre",
+      "link": "https://www.prensalibre.com/internacional/atlantico-pacifico-u-oceano-trump-la-propuesta-de-ee-uu-para-cambiarles-el-nombre/",
+      "fecha": "Sun, 11 Oct 2026 20:30:29 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente de Estados Unidos, Donald Trump, sugirió rebautizar el océano Atlántico o el Pacífico con su nombre, o llamarlo océano de las Américas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una nueva inundación repentina de un río en Nepal arrasa un pueblo y deja 5 desaparecidos",
+      "link": "https://www.prensalibre.com/internacional/una-nueva-inundacion-repentina-de-un-rio-en-nepal-arrasa-un-pueblo-y-deja-5-desaparecidos/",
+      "fecha": "Sun, 11 Oct 2026 20:29:59 +0000",
+      "categoria": "Internacional",
+      "resumen": "La riada en Nepal arrastró casas en Jagat Bagar, Salleri y Ghattekhola, reportaron las autoridades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El núcleo del peligroso huracán Simón avanza hacia costas mexicanas con lluvias que podrían ser catastróficas",
+      "link": "https://www.prensalibre.com/internacional/el-nucleo-del-peligroso-huracan-simon-avanza-hacia-costas-mexicanas-con-lluvias-que-podrian-ser-catastroficas/",
+      "fecha": "Sun, 11 Oct 2026 20:01:57 +0000",
+      "categoria": "Internacional",
+      "resumen": "Se espera que el huracán Simón impacte en las próximas horas en zonas costeras de México, donde las autoridades se han declarado en alerta al considerarlo un ciclón de fuerza mayor."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; San Pedro vs. Comunicaciones: siga el minuto a minuto de la jornada 13",
@@ -12,11 +140,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Cómo la antigua diosa griega Afrodita se convirtió en un símbolo controvertido del amor y el sexo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-la-antigua-diosa-griega-afrodita-se-convirtio-en-un-simbolo-controvertido-del-amor-y-el-sexo/",
+      "fecha": "Sun, 11 Oct 2026 19:25:43 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Una escultura de Afrodita fue la primera representación desnuda de una mujer en la antigua Grecia, marcando el inicio de una tradición que sigue hasta nuestros días."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "La operación a la que se someterá el papa León XIV: cómo se extirpa un nódulo pulmonar",
       "link": "https://www.prensalibre.com/vida/salud-y-familia/la-operacion-a-la-que-se-sometera-el-papa-leon-xiv-como-se-extirpa-un-nodulo-pulmonar/",
       "fecha": "Sun, 11 Oct 2026 19:15:00 +0000",
       "categoria": "Salud y Familia",
       "resumen": "El papa León XIV anunció este domingo, por sorpresa, que en \"los próximos días\" deberá someterse a una operación por un nódulo en un pulmón en fase \"muy inicial\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vehículo de ICE atropella a un mexicano durante operativo migratorio cerca de Houston y este es su estado de salud",
+      "link": "https://www.prensalibre.com/internacional/vehiculo-de-ice-atropella-a-un-mexicano-durante-operativo-migratorio-cerca-de-houston-y-este-es-su-estado-de-salud/",
+      "fecha": "Sun, 11 Oct 2026 19:12:47 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un mexicano fue arrollado por un  vehículo del ICE en Texas, durante un operativo migratorio dirigido hacia otra persona que posee  una orden definitiva de expulsión de Estados Unidos."
     },
     {
       "fuente": "Prensa Libre",
@@ -33,6 +177,14 @@
       "fecha": "Sun, 11 Oct 2026 18:58:16 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Zelensky aseguró que Ucrania está dispuesta a respetar el acuerdo si Rusia también se compromete a detener sus ataques contra la infraestructura energética."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC detecta que pandilleros se trasladan a Jalapa y alquilan viviendas para cometer delitos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-detecta-que-pandilleros-se-trasladan-a-jalapa-y-alquilan-viviendas-para-cometer-delitos/",
+      "fecha": "Sun, 11 Oct 2026 18:33:49 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La PNC alerta sobre pandilleros que alquilan viviendas para cometer delitos en Jalapa y otros puntos del país, y advierte de posibles cierres de los inmuebles."
     },
     {
       "fuente": "Prensa Libre",
@@ -657,158 +809,6 @@
       "fecha": "Sat, 10 Oct 2026 13:00:00 +0000",
       "categoria": "Economía",
       "resumen": "El Mintrab explica cuándo corresponde el 100% o el 50% de la indemnización, en qué casos el patrono debe pagar una diferencia y qué sucede si el trabajador renuncia después de pensionarse."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién es James Chambers, el millonario &#8220;comunista&#8221; detenido en España a petición de EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-james-chambers-el-millonario-comunista-detenido-en-espana-a-peticion-de-ee-uu/",
-      "fecha": "Sat, 10 Oct 2026 12:53:14 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "James \"Fergie\" Chambers decidió dedicar su vida y su fortuna al activismo de izquierda. Ahora, su país lo acusa de desórdenes y blanqueo de capitales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Isaías toca tierra en las costas de Florida como huracán de categoría 2 y se debilita en su avance por el sureste de EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/isaias-toca-tierra-en-las-costas-de-florida-como-huracan-de-categoria-2-y-se-debilita-en-su-avance-por-el-sureste-de-ee-uu/",
-      "fecha": "Sat, 10 Oct 2026 12:25:04 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Es el primer huracán de la temporada en el Atlántico. Florida y Alabama habían decretado el estado de emergencia y establecido evacuaciones obligatorias. También estaba en alerta Georgia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jonas I, el autoproclamado rey de Suiza que ha creado un polémico &#8220;imperio&#8221; al apropiarse de terrenos sin dueño",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jonas-i-el-autoproclamado-rey-de-suiza-que-ha-creado-un-polemico-imperio-al-apropiarse-de-terrenos-sin-dueno/",
-      "fecha": "Sat, 10 Oct 2026 12:07:51 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Jonas Lauwiner se autoproclamó rey de Suiza en 2019, aunque reconoce que su título es puramente simbólico. Desde entonces, ha acumulado 149 parcelas de terreno y aspira ahora a llevar su peculiar proyecto también a la política nacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto se discutirá en medio de acomodo de bloques con intereses electorales",
-      "link": "https://www.prensalibre.com/guatemala/politica/presupuesto-se-discutira-en-medio-de-acomodo-de-bloques-con-intereses-electorales/",
-      "fecha": "Sat, 10 Oct 2026 06:12:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Congreso tiene al menos 22 bloques por la división de bancadas que impulsan nuevos partidos o migrar a otros evadiendo el transfuguismo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Entrevista con José Miguel Torrebiarte: existe un desafío de mantener los acuerdos de seguridad después del 2027",
-      "link": "https://www.prensalibre.com/economia/enade-2026-entrevista-con-jose-miguel-torrebiarte-existe-un-desafio-de-mantener-los-acuerdos-de-seguridad-despues-del-2027/",
-      "fecha": "Sat, 10 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Tras concluir el Encuentro Nacional de Empresarios por el Desarrollo (Enade) 2026, José Miguel Torrebiarte, presidente de Fundesa, destacó la importancia de fortalecer la seguridad y la justicia como condiciones fundamentales para atraer inversiones, generar empleo e impulsar el crecimiento económico del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Primer Foro Internacional de Inversión e Innovación Turística en Guatemala",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/primer-foro-internacional-de-inversion-e-innovacion-turistica-en-guatemala/",
-      "fecha": "Sat, 10 Oct 2026 06:08:54 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "El próximo 28 de octubre a partir de las 8:30 de la mañana en el Salón Azaria de Ciudad Cayalá, se congregará a líderes del sector público y privado, organismos multilaterales, inversionistas y referentes globales en sostenibilidad e innovación, en el I Foro Internacional de Inversión e Innovación Turística, INVERTUR 2026, organizado por BAC junto a aliados estratégicos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sarcasmo",
-      "link": "https://www.prensalibre.com/opinion/caricatura/sarcasmo/",
-      "fecha": "Sat, 10 Oct 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Potencia sudamericana, ante una decisión crítica",
-      "link": "https://www.prensalibre.com/opinion/editorial/potencia-sudamericana-ante-una-decision-critica/",
-      "fecha": "Sat, 10 Oct 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "El pulso entre dos fuerzas políticas, sin duda alguna, acicatea una polarización que dificulta los acuerdos de nación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump se prepara para una larga guerra económica con Irán tras prometer resultados rápidos",
-      "link": "https://www.prensalibre.com/internacional/trump-se-prepara-para-una-larga-guerra-economica-con-iran-tras-prometer-resultados-rapidos/",
-      "fecha": "Sat, 10 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las sanciones estadounidenses afectan al petróleo, la aviación y los bancos iraníes, pero Teherán mantiene operaciones mientras Washington intenta aumentar la presión económica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Errar es de humanos; el no repetirlo, de sabios",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/errar-es-de-humanos-el-no-repetirlo-de-sabios/",
-      "fecha": "Sat, 10 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Los que tratan de justificar lo que hacen tienen pocas esperanzas de corregir errores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jesús, el novio",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/jesus-el-novio/",
-      "fecha": "Sat, 10 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Imágenes verbales para designar cualidades intuidas en el trato con la divinidad"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Taiwán trae buenas nuevas: bambú, buses eléctricos y esperanza ambiental",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/taiwan-trae-buenas-nuevas-bambu-buses-electricos-y-esperanza-ambiental/",
-      "fecha": "Sat, 10 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El bambú es un recurso productivo y aliado frente al cambio climático."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La estupidez, más peligrosa que la maldad",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-estupidez-mas-peligrosa-que-la-maldad/",
-      "fecha": "Sat, 10 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El malvado actúa solo, necesita esconderse, mentir."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo debe nombrar pronto al presidente del Banguat tras fallo de la CC, afirman analistas",
-      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-debe-nombrar-pronto-al-presidente-del-banguat-tras-fallo-de-la-cc-afirman-analistas/",
-      "fecha": "Sat, 10 Oct 2026 06:01:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Analistas abogan por la certeza jurídica y señalan un \"desgaste innecesario\" luego de controversia sobre la designación de Jonathan Menkos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy sábado 10 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-10-de-octubre-de-2026/",
-      "fecha": "Sat, 10 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El problema de aprender a pensar",
-      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/el-problema-de-aprender-a-pensar/",
-      "fecha": "Sat, 10 Oct 2026 06:00:00 +0000",
-      "categoria": "Plumas invitadas",
-      "resumen": "Más tecnología no siempre significa más aprendizaje."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El día que Navi Pillay, Premio Nobel de la Paz del 2026, escuchó las denuncias de los pueblos indígenas en Totonicapán",
-      "link": "https://www.prensalibre.com/guatemala/politica/el-dia-que-navi-pillay-premio-nobel-de-la-paz-del-2026-escucho-las-denuncias-de-los-pueblos-indigenas-en-totonicapan-breaking/",
-      "fecha": "Sat, 10 Oct 2026 04:00:37 +0000",
-      "categoria": "Política",
-      "resumen": "Antes de recibir el Premio Nobel de la Paz del 2026, Navi Pillay visitó Guatemala. En Totonicapán escuchó las denuncias de las autoridades indígenas sobre racismo, exclusión y militarización."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Expandir y consolidar la presencia de sus icónicas marcas en la región",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/expandir-y-consolidar-la-presencia-de-sus-iconicas-marcas-en-la-region/",
-      "fecha": "Sat, 10 Oct 2026 03:27:36 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Con un agresivo plan de crecimiento comercial para los próximos cinco años, Cotton Candy International (CCI) (tenedora de la franquicia maestra regional de Toys \"R\" Us y Babies \"R\" Us), busca llevar la experiencia de ambas marcas a nuevos mercados, se apoyará en innovadores modelos de inversión que prometen, a su vez, dinamizar el comercio minorista y el sector inmobiliario."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Villa Hermosa: 53 viviendas presentan daños severos, pero sigue pendiente definir la ayuda para las familias",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/villa-hermosa-53-viviendas-presentan-danos-severos-pero-sigue-pendiente-definir-la-ayuda-para-las-familias/",
-      "fecha": "Sat, 10 Oct 2026 03:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Mientras las autoridades determinan qué familias podrían optar a un subsidio, 73 hogares arrastran solicitudes de apoyo desde el 2023, sin que se haya definido cuándo recibirían una respuesta."
     },
     {
       "fuente": "Guatemala.com",
