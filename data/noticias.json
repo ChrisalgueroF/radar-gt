@@ -1,7 +1,167 @@
 {
-  "actualizado": "2026-10-13T15:47:05.631Z",
+  "actualizado": "2026-10-13T21:06:38.209Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo es Fitbit Edge, la pulsera que monitorea salud y fitness con IA y batería para siete días",
+      "link": "https://www.prensalibre.com/vida/tecnologia/como-es-fitbit-edge-la-pulsera-que-monitorea-salud-y-fitness-con-ia-y-bateria-para-siete-dias/",
+      "fecha": "Tue, 13 Oct 2026 21:01:00 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Google pone a disposición de sus usuarios un sistema que además de calcular la actividad física, ofrece mediciones preventivas de salud."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Condenan a 40 años de prisión al líder pandillero que orquestó el asesinato del rapero Tupac Shakur hace 30 años",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/condenan-a-40-anos-de-prision-al-lider-pandillero-que-orquesto-el-asesinato-del-rapero-tupac-shakur-hace-30-anos/",
+      "fecha": "Tue, 13 Oct 2026 20:40:25 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Duane \"Keffe D\" Davis deberá pasar cuatro décadas tras las rejas por el crimen que terminó con la vida del rapero en 1996."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Joaquín Orellana presenta La tumba del Gran Lengua por el retorno de Miguel Ángel Asturias a Guatemala: fechas, entradas y de qué trata",
+      "link": "https://www.prensalibre.com/vida/escenario/joaquin-orellana-presenta-la-tumba-del-gran-lengua-por-el-retorno-de-miguel-angel-asturias-a-guatemala-fechas-entradas-y-de-que-trata/",
+      "fecha": "Tue, 13 Oct 2026 19:55:52 +0000",
+      "categoria": "Escenario",
+      "resumen": "En conmemoración del retorno de los restos del premio nobel de literatura Miguel Ángel Asturias, el maestro Joaquín Orellana presenta una cantata escénica. Esto se conoce del evento."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Ron Zacapa celebra su 50 aniversario con libro de colección",
+      "link": "https://www.guatemala.com/noticias/cultura/libro-ron-zacapa-celebra-50-anos-de-historia-calidad-maestria-guatemalteca.html",
+      "fecha": "Tue, 13 Oct 2026 19:52:03 +0000",
+      "categoria": "Cultura",
+      "resumen": "Ron Zacapa celebra 50 años de trayectoria con un libro de colección que invita a descubrir su historia e identidad guatemalteca. \nThe post Ron Zacapa celebra su 50 aniversario con libro de colección appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De un crucero a quedar a la deriva: cómo rescataron a una mujer salvadoreña en aguas de Grecia",
+      "link": "https://www.prensalibre.com/internacional/de-un-crucero-a-quedar-a-la-deriva-como-rescataron-a-una-mujer-salvadorena-en-aguas-de-grecia/",
+      "fecha": "Tue, 13 Oct 2026 19:40:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una salvadoreña sobrevivió 24 horas a la deriva tras lanzarse de un crucero en Grecia. Conozca cómo fue localizada y rescatada en alta mar por un buque."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Juez ordena reactivar investigación sobre presunta estructura de adopciones ilegales vinculada con María Consuelo Porras",
+      "link": "https://www.prensalibre.com/guatemala/justicia/juez-ordena-reactivar-investigacion-sobre-presunta-estructura-de-adopciones-ilegales-vinculada-con-maria-consuelo-porras/",
+      "fecha": "Tue, 13 Oct 2026 19:22:07 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La PGN denunció que el MP dejó de investigar a intermediarios, notarios y funcionarios vinculados con una presunta estructura de adopciones ilegales, en un caso que involucra a la exfiscal general."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Costa Rica inaugura megacárcel al estilo Bukele: así es el CACCO, que recibirá a 5 mil 100 reclusos",
+      "link": "https://www.prensalibre.com/internacional/costa-rica-inaugura-megacarcel-al-estilo-bukele-asi-es-el-cacco-que-recibira-a-5-mil-100-reclusos/",
+      "fecha": "Tue, 13 Oct 2026 18:53:05 +0000",
+      "categoria": "Internacional",
+      "resumen": "Costa Rica inaugurará el Centro de Alta Contención contra el Crimen Organizado (CACCO) el 14 de octubre, tomando como referencia el Cecot de El Salvador."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Shakira envía mensaje a Antonio de la Rúa en el cierre de su residencia en Madrid: “Quiero darle las gracias a quien un día fue mi compañero”",
+      "link": "https://www.prensalibre.com/vida/escenario/shakira-dedica-emotivo-mensaje-a-antonio-de-la-rua-en-el-cierre-de-su-residencia-en-madrid-quiero-darle-las-gracias-a-quien-un-dia-fue-mi-companero/",
+      "fecha": "Tue, 13 Oct 2026 18:48:13 +0000",
+      "categoria": "Escenario",
+      "resumen": "En su última noche de residencia en Madrid, la cantante colombiana se sinceró sobre sus emociones ante el cierre de sus conciertos y sus problemas personales. Además, hizo una serie de agradecimientos, entre ellos, a Antonio de la Rúa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tiroteo en Bronx deja dos heridos, entre ellos una niña de 12 años: esto reveló la policía",
+      "link": "https://www.prensalibre.com/internacional/tiroteo-en-bronx-deja-dos-heridos-entre-ellos-una-nina-de-12-anos-esto-revelo-la-policia/",
+      "fecha": "Tue, 13 Oct 2026 18:35:06 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las autoridades de Nueva York informaron sobre un tiroteo en un parque del Bronx ocurrido el pasado 12 de octubre y que dejó dos personas heridas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Depresión tropical 21-E: Insivumeh explica a qué distancia se encuentra de Guatemala y si podría tener efectos en el país",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/depresion-tropical-21-e-insivumeh-explica-a-que-distancia-se-encuentra-de-guatemala-y-si-podria-tener-efectos-en-el-pais-breaking/",
+      "fecha": "Tue, 13 Oct 2026 18:31:03 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El sistema de baja presión se fortaleció hasta convertirse en la depresión tropical 21-E y podría intensificarse a tormenta tropical Trudy en las próximas horas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Para transformar recuerdos en fragancias",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/para-transformar-recuerdos-en-fragancias/",
+      "fecha": "Tue, 13 Oct 2026 18:06:12 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Maison Margiela, la casa de alta costura fundada en París en 1988, llega a Guatemala de la mano de Fetiche, con su emblemática colección de fragancias REPLICA, una propuesta que invita a revivir lugares, momentos y emociones a través del aroma."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Identifican a víctima del accidente en una montaña rusa de Six Flags en Georgia y testigos hablan de lo ocurrido",
+      "link": "https://www.prensalibre.com/internacional/identifican-a-victima-del-accidente-en-una-montana-rusa-de-six-flags-en-georgia-y-testigos-hablan-de-lo-ocurrido/",
+      "fecha": "Tue, 13 Oct 2026 17:55:17 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las autoridades de EE. UU. revelaron la identidad el hombre que falleció en una montaña rusa en el parque Six Flags, en Georgia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En vivo &#124; Galatasaray vs. Barcelona: sigue el minuto a minuto de la jornada 2 de la Champions League",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-galatasaray-vs-barcelona-sigue-el-minuto-a-minuto-de-la-jornada-2-de-la-champions-league/",
+      "fecha": "Tue, 13 Oct 2026 17:42:03 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Barcelona visita esta tarde al Galatasaray en Estambul con el objetivo de mantener su paso perfecto de la temporada y sumar su segunda victoria en la Champions League."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala sub- 16 vs. Costa Rica: hora y dónde ver en vivo el partido por el tercer lugar del Torneo Uncaf",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-sub-16-vs-costa-rica-hora-y-donde-ver-en-vivo-el-partido-por-el-tercer-lugar-del-torneo-uncaf/",
+      "fecha": "Tue, 13 Oct 2026 17:30:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Tras quedarse a las puertas de la final, Guatemala intentará subir al podio este martes cuando enfrente a Costa Rica en el duelo por el tercer lugar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Selma Blair comparece ante la justicia tras incidente en un avión; su defensa alega falta de medicación y agotamiento extremo",
+      "link": "https://www.prensalibre.com/vida/escenario/selma-blair-comparece-ante-la-justicia-tras-incidente-en-un-avion-su-defensa-alega-falta-de-medicacion-y-agotamiento-extremo/",
+      "fecha": "Tue, 13 Oct 2026 16:52:30 +0000",
+      "categoria": "Escenario",
+      "resumen": "Tras protagonizar un altercado durante un vuelo, la actriz Selma Blair compareció ante un tribunal para esclarecer el incidente y las denuncias de agresión contra miembros de la tripulación y personal médico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala vs. Canadá: Fedefut confirma la fecha de venta de boletos y anuncia un cambio en los precios",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-fedefut-confirma-la-fecha-de-venta-de-boletos-y-anuncia-un-cambio-en-los-precios/",
+      "fecha": "Tue, 13 Oct 2026 16:45:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Fedefut confirmó la fecha de venta de entradas para el encuentro entre Guatemala y Canadá, además de anticipar una reducción en los precios de varias localidades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jonathan Menkos solicitará nuevo permiso al Congreso para regresar al Ministerio de Finanzas",
+      "link": "https://www.prensalibre.com/guatemala/politica/jonathan-menkos-solicitara-nuevo-permiso-al-congreso-para-regresar-al-ministerio-de-finanzas-breaking/",
+      "fecha": "Tue, 13 Oct 2026 16:37:48 +0000",
+      "categoria": "Política",
+      "resumen": "Jonathan Menkos llegó al Congreso de la República este 13 de octubre e indicó que solicitará licencia como diputado para regresar al Ministerio de Finanzas Públicas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Ley de nietos&#8221;: por qué el Tribunal Supremo de España suspendió el derecho a votar de miles de ciudadanos naturalizados",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ley-de-nietos-por-que-el-tribunal-supremo-de-espana-suspendio-el-derecho-a-votar-de-miles-de-ciudadanos-naturalizados-2/",
+      "fecha": "Tue, 13 Oct 2026 16:20:11 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La decisión paraliza la inscripción en el padrón electoral y obliga a los afectados a demostrar que son descendientes de españoles exiliados para poder ejercer su derecho al sufragio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "AeroMetro: cuáles son los cuatro tipos de torres que tendrá la Línea 1 y por qué sus diseños son diferentes",
+      "link": "https://www.prensalibre.com/economia/aerometro-cuales-son-los-cuatro-tipos-de-torres-que-tendra-la-linea-1-y-por-que-sus-disenos-son-diferentes/",
+      "fecha": "Tue, 13 Oct 2026 16:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Simétricas, excéntricas e inclinadas son algunas de las categorías de las torres del AeroMetro. Sus diseños responden a las condiciones del recorrido y al espacio disponible para instalar las estructuras."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO Bloqueos en Guatemala: 4 puntos continúan afectados por manifestaciones de salubristas este 13 de octubre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-vivo-en-guatemala-salubristas-bloquean-rutas-y-tramos-en-la-capital-este-13-de-octubre-breaking/",
+      "fecha": "Tue, 13 Oct 2026 15:46:43 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Salubristas se manifiestan en distintas carreteras del país y en la capital para exigir mejoras laborales. Al menos cinco puntos permanecen bloqueados."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Qué es la parálisis cerebral, la discapacidad con la que vivía el actor RJ Mitte, hijo de Walter White en &#8220;Breaking Bad&#8221;",
@@ -68,7 +228,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "EN VIVO: Papa León XIV ingresa al hospital Gemelli de Roma, donde será operado para extirparle un nódulo en un pulmón",
+      "titulo": "EN VIVO &#124; El Vaticano confirma que operación de nódulo en el pulmón del papa León XIV concluyó con éxito",
       "link": "https://www.prensalibre.com/internacional/en-vivo-papa-leon-xiv-ingresa-al-hospital-gemelli-de-roma-donde-sera-operado-para-extirparle-un-nodulo-en-un-pulmon-breaking/",
       "fecha": "Tue, 13 Oct 2026 14:09:51 +0000",
       "categoria": "Internacional",
@@ -460,7 +620,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "De taxista a escenógrafo: Ricardo Arjona sorprende a “Pocho” con un homenaje a su trabajo, “otra historia de taxi”",
+      "titulo": "De taxista a escenógrafo: Ricardo Arjona sorprende a “Pocho” con un homenaje a su trabajo y apoyo durante 12 giras",
       "link": "https://www.prensalibre.com/vida/escenario/de-taxista-a-escenografo-ricardo-arjona-sorprende-a-pocho-con-un-homenaje-a-su-trabajo-otra-historia-de-taxi/",
       "fecha": "Mon, 12 Oct 2026 22:10:48 +0000",
       "categoria": "Escenario",
@@ -651,164 +811,12 @@
       "resumen": "Vinícius Júnior vuelve a estar bajo los reflectores. Tras una expulsión en LaLiga y su primera suplencia en varios meses, el brasileño tendrá ante la Roma una nueva oportunidad para recuperar protagonismo."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Cuando nadie me ve&#8221;: Dónde ver la docuserie sobre Alejandro Sanz",
-      "link": "https://www.prensalibre.com/vida/escenario/cuando-nadie-me-ve-donde-ver-la-docuserie-sobre-alejandro-sanz/",
-      "fecha": "Mon, 12 Oct 2026 16:01:25 +0000",
-      "categoria": "Escenario",
-      "resumen": "El lado más íntimo y personal del cantautor español se retrata a través de entrevistas tanto a él como a algunos de quienes lo han acompañado en su camino."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Temblores en Guatemala: Insivumeh reporta dos sismos de magnitudes 4.6 y 3.6 este 12 de octubre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-12-de-octubre-de-2026-en-guatemala-breaking/",
-      "fecha": "Mon, 12 Oct 2026 16:00:13 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Según el reporte del Insivumeh, este 12 de octubre se han registrado dos sismos en Guatemala, ambos con epicentro en Santa Rosa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "FDA aprueba Pritelivir, un medicamento contra el herpes: Cómo funciona y quiénes pueden usarlo",
-      "link": "https://www.prensalibre.com/internacional/fda-aprueba-pritelivir-un-medicamento-contra-el-herpes-como-funciona-y-quienes-pueden-usarlo/",
-      "fecha": "Mon, 12 Oct 2026 15:45:57 +0000",
-      "categoria": "Internacional",
-      "resumen": "A diferencia de pritelivir, los demás antivirales requieren ser activados por una enzima antes de bloquear la replicación, lo que puede favorecer la resistencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo es Yandex, el &#8220;Google de Rusia&#8221; que se ha convertido en blanco de ataques de Ucrania",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/como-es-yandex-el-google-de-rusia-que-se-ha-convertido-en-blanco-de-ataques-de-ucrania/",
-      "fecha": "Mon, 12 Oct 2026 15:38:06 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El gigante tecnologico es una pieza clave para Rusia en el desarrollo de su propia IA y en su ambición por construir una internet \"soberana\"."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Insivumeh pronostica lluvias y tormentas locales severas del 12 al 16 de octubre 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-pronostico-12-al-16-de-octubre-2026.html",
       "fecha": "Mon, 12 Oct 2026 15:34:16 +0000",
       "categoria": "Comunidad",
       "resumen": "Insivumeh prevé tardes y noches lluviosas para Guatemala del 12 al 16 de octubre 2026. Lee el pronóstico y descubre cómo estará el clima en tu región.\nThe post Insivumeh pronostica lluvias y tormentas locales severas del 12 al 16 de octubre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Día de la Hispanidad: ¿cómo se ha transformado la conmemoración?",
-      "link": "https://www.prensalibre.com/vida/escenario/dia-de-la-hispanidad-como-se-ha-transformado-la-conmemoracion/",
-      "fecha": "Mon, 12 Oct 2026 15:33:32 +0000",
-      "categoria": "Escenario",
-      "resumen": "El recuerdo del 12 de octubre de 1492 ha tenido diversas manifestaciones a través de los años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO terminan manifestaciones de Codeca este 12 de octubre y Provial confirma paso habilitado en todas las rutas afectadas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/en-vivo-manifestaciones-de-codeca-caminatas-se-desplazan-este-12-de-octubre-en-distintos-puntos-de-guatemala-breaking/",
-      "fecha": "Mon, 12 Oct 2026 15:15:23 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Las manifestaciones de Codeca se desarrollaron este 12 de octubre en distintos puntos de Guatemala. Provial confirma que los cinco tramos carreteros reportados ya están habilitados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Torneo Apertura 2026: así marcha la tabla de goleadores de la Liga Nacional después de la fecha 13",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-2026-asi-marcha-la-tabla-de-goleadores-de-la-liga-nacional-despues-de-la-fecha-13/",
-      "fecha": "Mon, 12 Oct 2026 15:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La pelea por el título de máximo goleador está al rojo vivo: tres futbolistas comparten el primer lugar tras 13 jornadas del Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala: lluvias y posibles tormentas marcarán la semana del 12 al 16 de octubre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-lluvias-y-posibles-tormentas-marcaran-la-semana-del-12-al-16-de-octubre-breaking/",
-      "fecha": "Mon, 12 Oct 2026 14:40:13 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Guatemala tendrá un ambiente cálido y húmedo durante el día esta semana. No se descartan lluvias en distintas regiones del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga Nacional : así quedó la tabla de posiciones después de la jornada 13 del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-asi-quedo-la-tabla-de-posiciones-despues-de-la-jornada-13-del-apertura-2026/",
-      "fecha": "Mon, 12 Oct 2026 14:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La jornada 13 provocó nuevos movimientos en la clasificación y dejó una intensa disputa por el liderato entre tres equipos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muerte de abogada en Santa Rosa: capturan a “El Wason” e incautan un celular que podría contener información sobre el ataque armado",
-      "link": "https://www.prensalibre.com/guatemala/justicia/muerte-de-abogada-en-santa-rosa-capturan-a-el-wason-e-incautan-un-celular-que-podria-contener-informacion-sobre-el-ataque-armado-breaking/",
-      "fecha": "Mon, 12 Oct 2026 13:51:44 +0000",
-      "categoria": "Justicia",
-      "resumen": "En la aldea El Cerinal, Barberena, Santa Rosa, fue capturado un presunto pandillero señalado de estar vinculado con el asesinato de una abogada y profesora."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos personas mueren en accidente de motocicleta en la calzada Atanasio Tzul; cierran carriles",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-personas-mueren-en-accidente-de-motocicleta-en-la-calzada-atanasio-tzul-cierran-carriles-breaking/",
-      "fecha": "Mon, 12 Oct 2026 13:20:20 +0000",
-      "categoria": "Sucesos",
-      "resumen": "La PMT informa del cierre de dos carriles en la calzada Atanasio Tzul, entre las calles 48 y 49, debido a un accidente en el que murieron dos personas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Si tienen tanta tecnología, por qué nos atacaron&#8221;: los pescadores ecuatorianos que fueron bombardeados en una operación por la que se señala a la CIA",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/si-tienen-tanta-tecnologia-por-que-nos-atacaron-los-pescadores-ecuatorianos-que-fueron-bombardeados-en-una-operacion-por-la-que-se-senala-a-la-cia/",
-      "fecha": "Mon, 12 Oct 2026 13:05:27 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Al menos tres embarcaciones de pescadores de Ecuador han sido objeto de ataques en alta mar este año sin que nadie se haya hecho responsable de lo ocurrido. La prensa estadounidense sugiere que fueron objeto de una operación encubierta de la CIA."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;EE.UU. no debería darle a Rusia un salvavidas financiero mientras mata civiles en Ucrania&#8221;: las críticas contra Trump por su plan de importar diésel ruso",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ee-uu-no-deberia-darle-a-rusia-un-salvavidas-financiero-mientras-mata-civiles-en-ucrania-las-criticas-contra-trump-por-su-plan-de-importar-diesel-ruso/",
-      "fecha": "Mon, 12 Oct 2026 12:49:27 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Tanto los legisladores republicanos como los demócratas han criticado el acuerdo, que se anunció a pocas semanas de las elecciones de mitad de período en Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump anuncia un alto el fuego energético inmediato entre Rusia y Ucrania pero los ataques continúan",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-anuncia-un-alto-el-fuego-energetico-inmediato-entre-rusia-y-ucrania-pero-los-ataques-continuan/",
-      "fecha": "Mon, 12 Oct 2026 12:40:26 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Ucrania apoya la tregua, pero Zelensky denuncia ataques rusos contra instalaciones energéticas posteriores al anuncio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La empresa con mejor reputación del sector energía",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-empresa-con-mejor-reputacion-del-sector-energia/",
-      "fecha": "Mon, 12 Oct 2026 12:32:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "ENERGUATE, la empresa de distribución de energía eléctrica que ilumina a 21 de los 22 departamentos de Guatemala, lidera su sector en los rankings en la cuarta edición de Merco Empresas y Merco Responsabilidad 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es usted más allá del trabajo? Cómo recuperar otras áreas de su vida y mejorar su bienestar personal",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/quien-eres-mas-alla-del-trabajo-como-recuperar-otras-areas-de-tu-vida-y-mejorar-tu-bienestar-personal/",
-      "fecha": "Mon, 12 Oct 2026 12:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Cuando el trabajo ocupa gran parte de la vida y se convierte en un elemento central de la identidad, mantener el equilibrio puede ser un desafío. ¿Cómo recuperar espacio para las demás facetas personales?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos estadounidenses ganan el Nobel de Economía por su innovador trabajo sobre cómo estabilizar las fluctuaciones económicas",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/dos-estadounidenses-ganan-el-nobel-de-economia-por-su-innovador-trabajo-sobre-como-estabilizar-las-fluctuaciones-economicas/",
-      "fecha": "Mon, 12 Oct 2026 11:58:48 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La Academia Sueca destacó los aportes de ambos investigadores a los fundamentos microeconómicos de la estabilización macroeconómica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Alimentación, útiles y tabletas: así administran los padres los programas de apoyo del Mineduc",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/alimentacion-utiles-y-tabletas-asi-administran-los-padres-los-programas-de-apoyo-del-mineduc/",
-      "fecha": "Mon, 12 Oct 2026 11:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El trabajo de las Organizaciones de Padres de Familia (OPF) permite que los programas de apoyo del Mineduc lleguen a los estudiantes. Hasta agosto ejecutaron Q4 mil 595 millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Observatorio del Presupuesto señala tres grandes debilidades en la propuesta para el 2027",
-      "link": "https://www.prensalibre.com/economia/observatorio-del-presupuesto-senala-tres-grandes-debilidades-en-la-propuesta-para-el-2027/",
-      "fecha": "Mon, 12 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El Observatorio del Presupuesto, plataforma creada por el Cacif, advierte sobre el crecimiento del gasto público, el aumento del endeudamiento y las dificultades de ejecución. También cuestiona si los recursos asignados se traducen en mejoras y ampliación de los servicios públicos."
     },
     {
       "fuente": "Guatemala.com",
@@ -865,14 +873,6 @@
       "fecha": "Fri, 09 Oct 2026 16:18:36 +0000",
       "categoria": "Entretenimiento",
       "resumen": "El Papa León XIV recibió un lienzo pintado por 30 niños guatemaltecos que compartieron, mediante el arte, su deseo de construir un futuro de paz.\nThe post Papa León XIV recibió un lienzo pintado por niños guatemaltecos appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "¿Cómo estará el clima en Guatemala el fin de semana del 10 y 11 de octubre 2026?",
-      "link": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-pronostico-fin-de-semana-10-y-11-octubre-2026.html",
-      "fecha": "Fri, 09 Oct 2026 15:26:04 +0000",
-      "categoria": "Comunidad",
-      "resumen": "El clima en Guatemala este 10 y 11 de octubre 2026 estará marcado por calor, lluvias y actividad eléctrica. ¡Conoce más del pronóstico del Insivumeh!\nThe post ¿Cómo estará el clima en Guatemala el fin de semana del 10 y 11 de octubre 2026? appeared first on Guatemala.com."
     }
   ]
 }
