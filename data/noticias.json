@@ -1,7 +1,223 @@
 {
-  "actualizado": "2026-10-12T17:38:11.981Z",
+  "actualizado": "2026-10-13T00:25:44.256Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un ciberataque contra neveras y congeladores de cientos de supermercados de Francia provoca pérdidas millonarias",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-ciberataque-contra-neveras-y-congeladores-de-cientos-de-supermercados-de-francia-provoca-perdidas-millonarias/",
+      "fecha": "Tue, 13 Oct 2026 00:01:45 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El ataque contra el software de Danfoss afectó a unas 400 tiendas y los equipos llegaron a 50°C, con pérdidas estimadas en millones de euros."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El incidente que protagonizó la actriz Selma Blair en un avión y por el que fue arrestada en EE. UU.",
+      "link": "https://www.prensalibre.com/vida/escenario/el-incidente-que-protagonizo-la-actriz-selma-blair-en-un-avion-y-por-el-que-fue-arrestada-en-ee-uu/",
+      "fecha": "Mon, 12 Oct 2026 23:57:06 +0000",
+      "categoria": "Escenario",
+      "resumen": "La actriz estadounidense Selma Blair recibió una citación judicial tras ser arrestada por protagonizar un incidente dentro de un avión y herir a miembros de la tripulación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asuetos y feriados 2027 en Guatemala: ¿Cuántos fines de semana largos tendrá el año?",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/asuetos-y-feriados-2027-en-guatemala-cuantos-fines-de-semana-largos-tendra-el-ano/",
+      "fecha": "Mon, 12 Oct 2026 23:49:38 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "El Código de Trabajo establece los asuetos y feriados que corresponden a los trabajadores del sector formal. Ante la llegada del último trimestre del 2026, surgen dudas sobre cómo quedará el calendario de descansos para el 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La actriz estadounidense Selma Blair es acusada de agresión tras un incidente con las azafatas durante un vuelo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-actriz-estadounidense-selma-blair-es-acusada-de-agresion-tras-un-incidente-con-las-azafatas-durante-un-vuelo/",
+      "fecha": "Mon, 12 Oct 2026 23:26:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Funcionarios del Aeropuerto Internacional John F. Kennedy de Nueva York informaron que habían respondido a una llamada sobre \"un pasajero físicamente agresivo\" en avión. Dos auxiliares de vuelo resultaron heridos y uno fue llevado al hospital, según la Autoridad Portuaria de Nueva York."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hombre requerido por asesinato en Nueva Jersey es capturado en Retalhuleu",
+      "link": "https://www.prensalibre.com/guatemala/justicia/hombre-requerido-por-asesinato-en-nueva-jersey-es-capturado-en-retalhuleu/",
+      "fecha": "Mon, 12 Oct 2026 23:22:29 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC capturó en Retalhuleu a un hombre de 64 años requerido por Estados Unidos por un caso de asesinato en Nueva Jersey."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El papa León XIV será operado: qué actividades canceló y hasta cuándo",
+      "link": "https://www.prensalibre.com/internacional/el-papa-leon-xiv-sera-operado-que-actividades-cancelo-y-hasta-cuando/",
+      "fecha": "Mon, 12 Oct 2026 22:52:54 +0000",
+      "categoria": "Internacional",
+      "resumen": "El papa León XIV fue diagnosticado con un nódulo en el pulmón y será operado el martes 13 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP investiga caso de adolescente que fue dada por muerta y despertó durante su velorio tras pasar 8 horas en un ataúd",
+      "link": "https://www.prensalibre.com/ciudades/quiche/mp-investiga-caso-de-adolescente-que-fue-dada-por-muerta-y-desperto-durante-su-velorio-tras-pasar-8-horas-en-un-ataud-breaking/",
+      "fecha": "Mon, 12 Oct 2026 22:37:09 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Una adolescente de 15 años pasó unas ocho horas en un ataúd durante su velorio en Sacapulas, Quiché, porque su familia creyó que había fallecido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Desde el Polo Norte hasta tu casa para decorar y celebrar la Navidad",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/desde-el-polo-norte-hasta-tu-casa-para-decorar-y-celebrar-la-navidad/",
+      "fecha": "Mon, 12 Oct 2026 22:10:58 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "CEMACO da la bienvenida a la temporada navideña 2026 con propuestas que combinan tradición, nuevas tendencias y diferentes estilos de decoración, en cuatro colecciones exclusivas: Holly Jolly, Encanto Natural, Polaris y Tierno Esplendor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De taxista a escenógrafo: Ricardo Arjona sorprende a “Pocho” con un homenaje a su trabajo, “otra historia de taxi”",
+      "link": "https://www.prensalibre.com/vida/escenario/de-taxista-a-escenografo-ricardo-arjona-sorprende-a-pocho-con-un-homenaje-a-su-trabajo-otra-historia-de-taxi/",
+      "fecha": "Mon, 12 Oct 2026 22:10:48 +0000",
+      "categoria": "Escenario",
+      "resumen": "A menos de un mes de llegar a México con su gira Lo que el Seco no dijo, Ricardo Arjona recordó cómo conoció a “Pocho”, quien pasó de ser taxista a convertirse en su escenógrafo y amigo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ciclo escolar 2026: cinco maneras de aprovechar las vacaciones escolares en Guatemala",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/ciclo-escolar-2026-cinco-maneras-de-aprovechar-las-vacaciones-escolares-en-guatemala/",
+      "fecha": "Mon, 12 Oct 2026 21:53:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Alternar el descanso y la diversión con la adquisición de nuevos saberes  y habilidades puede ser la fórmula perfecta para aprovechar bien este período."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cristiano Ronaldo marca su gol 981 en un partido del Al Nassr retrasado por una alerta de seguridad",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-marca-su-gol-981-en-un-partido-del-al-nassr-retrasado-por-una-alerta-de-seguridad/",
+      "fecha": "Mon, 12 Oct 2026 21:50:46 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Al Nassr dejó atrás las dudas de su debut y, con un nuevo tanto de Cristiano Ronaldo, sumó tres puntos importantes frente al Neftchi."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fallece RJ Mitte, actor que fue hijo de Walter White en la serie &#8220;Breaking Bad&#8221;: esto es lo que se sabe",
+      "link": "https://www.prensalibre.com/vida/escenario/fallece-rj-mitte-actor-que-fue-el-hijo-de-walter-white-en-breaking-bad-esto-es-lo-que-se-sabe-breaking/",
+      "fecha": "Mon, 12 Oct 2026 21:42:11 +0000",
+      "categoria": "Escenario",
+      "resumen": "Los representantes de RJ Mitte, quien fue popular por su participación en \"Breaking Bad\", confirmaron su fallecimiento a los 34 años de edad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Se acercan las vacaciones: ¿cuándo concluye el ciclo escolar 2026?",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/se-acercan-las-vacaciones-cuando-concluye-el-ciclo-escolar-2026/",
+      "fecha": "Mon, 12 Oct 2026 21:00:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "La mayor parte de los estudiantes  de preprimaria, primaria y secundaria comenzarán a disfrutar del descanso que dura cerca de tres meses  en el transcurso de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "XVII Festival Nacional de Teatro: una cita con las artes escénicas que incluye obras y un taller",
+      "link": "https://www.prensalibre.com/vida/escenario/xvii-festival-nacional-de-teatro-una-cita-con-las-artes-escenicas-que-incluye-obras-y-un-taller/",
+      "fecha": "Mon, 12 Oct 2026 20:32:59 +0000",
+      "categoria": "Escenario",
+      "resumen": "El XVII Festival Nacional de Teatro llega a Guatemala con una agenda de obras y un taller para celebrar las artes escénicas. Entre las presentaciones destacan La última palabra, Árbol adentro y El búnker."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jonathan Menkos regresará al Congreso tras quedar fuera del Banguat por orden de la CC",
+      "link": "https://www.prensalibre.com/guatemala/politica/jonathan-menkos-regresara-al-congreso-tras-quedar-fuera-del-banguat-por-orden-de-la-cc-breaking/",
+      "fecha": "Mon, 12 Oct 2026 20:22:48 +0000",
+      "categoria": "Política",
+      "resumen": "El exministro de Finanzas Jonathan Menkos regresará a ocupar su curul en el Congreso, luego de que su nombramiento como presidente del Banguat fuera anulado por la CC."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Legisladores de EE. UU. califican de &#8220;ilegal&#8221; acuerdo de combustible entre Trump y Putin y esto argumentaron",
+      "link": "https://www.prensalibre.com/internacional/legisladores-de-ee-uu-califican-de-ilegal-acuerdo-de-combustible-entre-trump-y-putin-y-esto-argumentaron/",
+      "fecha": "Mon, 12 Oct 2026 20:10:29 +0000",
+      "categoria": "Internacional",
+      "resumen": "Siete legisladores de EE. UU. calificaron de \"ilegal\" la decisión de Trump de permitir a Rusia suministrar petróleo tanto al mercado estadounidense como a nivel mundial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Kevin Castellanos recibe condena de 79 años de prisión por asesinato de dos agentes de la PNC",
+      "link": "https://www.prensalibre.com/guatemala/justicia/kevin-castellanos-recibe-condena-de-79-anos-de-prision-por-asesinato-de-dos-agentes-de-la-pnc-breaking/",
+      "fecha": "Mon, 12 Oct 2026 19:54:12 +0000",
+      "categoria": "Justicia",
+      "resumen": "Kevin Castellanos fue hallado culpable de la muerte de dos agentes de la Policía Nacional Civil (PNC) que prestaban servicio en la zona 18 de la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Champions League: días, horarios y partidos de la segunda jornada de la fase de liga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/champions-league-dias-horarios-y-partidos-de-la-segunda-jornada-de-la-fase-de-liga/",
+      "fecha": "Mon, 12 Oct 2026 19:10:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Barcelona, Real Madrid, PSG y Manchester City encabezan una segunda jornada de Champions League cargada de partidos imperdibles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Noche Astral en Museo Miraflores: una experiencia para descubrir el cielo nocturno con una conferencia y observación astronómica",
+      "link": "https://www.prensalibre.com/vida/escenario/noche-astral-en-museo-miraflores-una-experiencia-para-descubrir-el-cielo-nocturno-con-una-conferencia-y-observacion-astronomica/",
+      "fecha": "Mon, 12 Oct 2026 19:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "En una noche de aprendizaje sobre el universo y observación astronómica, adultos y niños podrán disfrutar de una nueva edición de la Noche Astral. Estos son los detalles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Tennessee intentará volver a ejecutar a Christa Pike? los motivos por los que sería posible",
+      "link": "https://www.prensalibre.com/internacional/tennessee-intentara-volver-a-ejecutar-a-christa-pike-los-motivos-por-los-que-seria-posible/",
+      "fecha": "Mon, 12 Oct 2026 18:52:29 +0000",
+      "categoria": "Internacional",
+      "resumen": "Tras sobrevivir a dos inyecciones letales, la situación de Christa Pike es incierta, principalmente por si el estado de Tennessee ordenará un segundo intento de ejecución."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Huité: &#8220;Tenían una operación militar&#8221;, dice la PNC sobre grupo armado que causó ocho muertes",
+      "link": "https://www.prensalibre.com/guatemala/caso-huite-tenian-una-operacion-militar-dice-la-pnc-sobre-grupo-armado-que-causo-ocho-muertes/",
+      "fecha": "Mon, 12 Oct 2026 18:48:44 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La PNC revela nuevos detalles sobre los hechos que dejaron ocho muertos en Huité, Zacapa y menciona un grupo armado, dos policías y una supuesta operación militar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Maga estima una afectación del 27 % en los cultivos de maíz por el déficit de lluvias y activa protocolo de respuesta",
+      "link": "https://www.prensalibre.com/economia/maga-estima-una-afectacion-del-27-en-los-cultivos-de-maiz-por-el-deficit-de-lluvias-y-activa-protocolo-de-respuesta-breaking/",
+      "fecha": "Mon, 12 Oct 2026 18:48:04 +0000",
+      "categoria": "Economía",
+      "resumen": "Guatemala comienza un nuevo ciclo climático con daños en la producción agrícola, particularmente en los cultivos de maíz, según estimaciones del Ministerio de Agricultura, Ganadería y Alimentación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Escondida en una funda de guitarra: el caso del menor que hirió con una escopeta a dos docentes en Francia",
+      "link": "https://www.prensalibre.com/internacional/escondida-en-una-funda-de-guitarra-el-caso-del-menor-que-hirio-con-una-escopeta-a-dos-docentes-en-francia/",
+      "fecha": "Mon, 12 Oct 2026 18:06:41 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un menor de 14 años entró a una escuela de Francia con una escopeta e hirió a dos docentes, uno de ellos director del centro educativo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ejecuciones públicas en Estados Unidos: cuándo se dejaron de practicar y por qué",
+      "link": "https://www.prensalibre.com/internacional/ejecuciones-publicas-en-estados-unidos-cuando-se-dejaron-de-practicar-y-por-que/",
+      "fecha": "Mon, 12 Oct 2026 18:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "El anuncio de transmitir una ejecución militar reabre el debate sobre la pena de muerte, sus antecedentes históricos y los límites de su difusión pública."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Huité: dos mandos militares fueron relevados de sus puestos, pero continúan en el Mindef",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-huite-dos-mandos-militares-fueron-relevados-de-sus-puestos-pero-continuan-en-el-mindef/",
+      "fecha": "Mon, 12 Oct 2026 18:02:31 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Dos mandos militares relevados tras la muerte de ocho personas en Huité siguen en el Mindef, uno con funciones de asesoría. Diputados cuestionan si podrían interferir en las investigaciones del MP."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La &#8220;historia olvidada&#8221; de los vikingos que llegaron a América 500 años antes que Colón",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-historia-olvidada-de-los-vikingos-que-llegaron-a-america-500-anos-antes-que-colon/",
+      "fecha": "Mon, 12 Oct 2026 17:43:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Al momento de la llegada de Colón a América, los vikingos ya llevaban casi 500 años explorando el continente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Es una de las derrotas que más me han dolido”: Carlos Alcaraz se sincera tras caer en Shanghái",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/es-una-de-las-derrotas-que-mas-me-han-dolido-carlos-alcaraz-se-sincera-tras-caer-en-shanghai/",
+      "fecha": "Mon, 12 Oct 2026 17:32:33 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "Carlos Alcaraz sufrió una inesperada eliminación en Shanghái y no ocultó su frustración tras firmar una de las derrotas que más le han dolido recientemente."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Hallan los cadáveres de dos mujeres con heridas de bala en San Antonio La Paz, El Progreso",
@@ -9,6 +225,14 @@
       "fecha": "Mon, 12 Oct 2026 17:10:36 +0000",
       "categoria": "Sucesos",
       "resumen": "Los cadáveres de dos mujeres con heridas de bala fueron localizados en un camino de terracería en San Antonio La Paz, El Progreso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fuertes lluvias y olas &#8220;destructivas&#8221;: así será el paso del huracán Simón en México durante la semana",
+      "link": "https://www.prensalibre.com/internacional/fuertes-lluvias-y-olas-destructivas-asi-sera-el-paso-del-huracan-simon-en-mexico-durante-la-semana/",
+      "fecha": "Mon, 12 Oct 2026 16:58:43 +0000",
+      "categoria": "Internacional",
+      "resumen": "El NHC ha informado la trayectoria del huracán Simón en México durante esta semana, el cual vendrá acompañado de fuertes lluvias y oleajes."
     },
     {
       "fuente": "Prensa Libre",
@@ -33,6 +257,14 @@
       "fecha": "Mon, 12 Oct 2026 16:04:33 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Vinícius Júnior vuelve a estar bajo los reflectores. Tras una expulsión en LaLiga y su primera suplencia en varios meses, el brasileño tendrá ante la Roma una nueva oportunidad para recuperar protagonismo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Cuando nadie me ve&#8221;: Dónde ver la docuserie sobre Alejandro Sanz",
+      "link": "https://www.prensalibre.com/vida/escenario/cuando-nadie-me-ve-donde-ver-la-docuserie-sobre-alejandro-sanz/",
+      "fecha": "Mon, 12 Oct 2026 16:01:25 +0000",
+      "categoria": "Escenario",
+      "resumen": "El lado más íntimo y personal del cantautor español se retrata a través de entrevistas tanto a él como a algunos de quienes lo han acompañado en su camino."
     },
     {
       "fuente": "Prensa Libre",
@@ -76,11 +308,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "EN VIVO manifestaciones de Codeca: caminatas se desplazan este 12 de octubre en distintos puntos de Guatemala",
+      "titulo": "EN VIVO terminan manifestaciones de Codeca este 12 de octubre y Provial confirma paso habilitado en todas las rutas afectadas",
       "link": "https://www.prensalibre.com/guatemala/comunitario/en-vivo-manifestaciones-de-codeca-caminatas-se-desplazan-este-12-de-octubre-en-distintos-puntos-de-guatemala-breaking/",
       "fecha": "Mon, 12 Oct 2026 15:15:23 +0000",
       "categoria": "Comunitario",
-      "resumen": "Codeca se manifiesta este 12 de octubre en distintas ciudades de Guatemala para expresar diversas demandas, entre ellas, el rechazo al alto precio de los combustibles."
+      "resumen": "Las manifestaciones de Codeca se desarrollaron este 12 de octubre en distintos puntos de Guatemala. Provial confirma que los cinco tramos carreteros reportados ya están habilitados."
     },
     {
       "fuente": "Prensa Libre",
@@ -571,244 +803,12 @@
       "resumen": "El papa León XIV anunció que los médicos le detectaron un nódulo en el pulmón a menos de un mes de su viaje apostólico a Uruguay, Argentina y Perú."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso contra funcionarios por cobros de &#8220;talacha&#8221; en Quiché suma retrasos y recusación contra jueza",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-contra-funcionarios-por-cobros-de-talacha-en-quiche-suma-retrasos-y-recusacion-contra-jueza/",
-      "fecha": "Sun, 11 Oct 2026 15:59:32 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La investigación por presuntos cobros de \"talacha\" a reclusos involucra a policías, guardias penitenciarios y un delegado de la PGN. La primera declaración sigue pendiente."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Guatemalteca Gabriela Girón ganó Miss América Latina del Mundo 2026",
       "link": "https://www.guatemala.com/noticias/sociedad/guatemalteca-gabriela-giron-gano-miss-america-latina-del-mundo-2026.html",
       "fecha": "Sun, 11 Oct 2026 15:36:34 +0000",
       "categoria": "Sociedad",
       "resumen": "Thelma Gabriela Girón conquistó la corona de Miss América Latina 2026, un certamen internacional celebrado en Punta Cana, República Dominicana.\nThe post Guatemalteca Gabriela Girón ganó Miss América Latina del Mundo 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Suchitepéquez vs. Mixco: siga el minuto a minuto de la jornada 13",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-suchitepequez-vs-mixco-siga-el-minuto-a-minuto-de-la-jornada-13-breaking-2/",
-      "fecha": "Sun, 11 Oct 2026 15:30:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El partido que fue reprogramado se disputará este domingo a las 10:30 AM en el estadio Carlos Salazar Hijo de Mazatenango con Suchitepéquez buscando urgentemente los tres puntos para salir del último lugar de la tabla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué era la bola negra, el sistema que los clubes privados usaban para vetar a candidatos y que da nombre a la exitosa película española inspirada en García Lorca",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-era-la-bola-negra-el-sistema-que-los-clubes-privados-usaban-para-vetar-a-candidatos-y-que-da-nombre-a-la-exitosa-pelicula-espanola-inspirada-en-garcia-lorca/",
-      "fecha": "Sun, 11 Oct 2026 15:05:06 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Antes de ser el título de una obra inacabada de García Lorca, \"La bola negra\" fue un mecanismo real de segregación social. Su historia atraviesa la masonería, los clubes británicos y los casinos de la élite española."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Zonas Libres en Guatemala: Yazaki avanza en los planes de su segunda fábrica en San Marcos",
-      "link": "https://www.prensalibre.com/economia/zonas-libres-en-guatemala-yazaki-avanza-en-los-planes-de-su-segunda-fabrica-en-san-marcos/",
-      "fecha": "Sun, 11 Oct 2026 14:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La multinacional japonesa busca ampliar sus operaciones en el país y generar alrededor de cuatro mil puestos de trabajo en el occidente guatemalteco, según directivo de la Zona Libre de Industria y Comercio Santo Tomás de Castilla (Zolic)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El papa León XIV será operado &#8220;en los próximos días&#8221; de un nódulo en el pulmón",
-      "link": "https://www.prensalibre.com/internacional/el-papa-leon-xiv-sera-operado-en-los-proximos-dias-de-un-nodulo-en-el-pulmon/",
-      "fecha": "Sun, 11 Oct 2026 13:38:31 +0000",
-      "categoria": "Internacional",
-      "resumen": "El tiempo previsto de hospitalización postoperatoria es de aproximadamente una semana\", indicó en una breve comunicación el portavoz vaticano, Matteo Bruni."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El papa León XIV anuncia que será operado de un nódulo en un pulmón",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-papa-leon-xiv-anuncia-que-sera-operado-de-un-nodulo-en-un-pulmon/",
-      "fecha": "Sun, 11 Oct 2026 12:29:42 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El anuncio lo hizo esta mañana. Señaló que se trata de algo preventivo después de que se le descubriera un bulto en uno de sus pulmones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presidenta de la CC estuvo a favor de suspender nombramiento de Menkos en el Banguat, pero no de advertir al presidente Arévalo",
-      "link": "https://www.prensalibre.com/guatemala/politica/presidenta-de-la-cc-estuvo-a-favor-de-suspender-nombramiento-de-menkos-en-el-banguat-pero-no-de-advertir-al-presidente-arevalo/",
-      "fecha": "Sun, 11 Oct 2026 12:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "En un primer proyecto de resolución la presidenta Morfín estaba a favor de suspender la designación de Menkos, pero no incluía el resto de advertencias al Ejecutivo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuando los antibióticos dejan de funcionar: la amenaza de las superbacterias en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/cuando-los-antibioticos-dejan-de-funcionar-la-amenaza-de-las-superbacterias-en-guatemala/",
-      "fecha": "Sun, 11 Oct 2026 12:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Con más frecuencia se observa cómo las infecciones en los seres humanos son más difíciles de atender, debido a la resistencia a los antibióticos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asociación Sinaí, el proyecto que busca abrir oportunidades educativas y laborales para personas con discapacidad",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/asociacion-sinai-el-proyecto-que-busca-abrir-oportunidades-educativas-y-laborales-para-personas-con-discapacidad/",
-      "fecha": "Sun, 11 Oct 2026 12:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Asociación Sinaí nació del deseo de ayudar y hoy impulsa la educación, la rehabilitación, el emprendimiento y la inclusión social de personas con discapacidad en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nombramientos cuestionados",
-      "link": "https://www.prensalibre.com/opinion/caricatura/nombramientos-cuestionados/",
-      "fecha": "Sun, 11 Oct 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sueños de niñez",
-      "link": "https://www.prensalibre.com/opinion/editorial/suenos-de-ninez/",
-      "fecha": "Sun, 11 Oct 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Hoy es un día para que los padres digan a sus hijos e hijas cuánto los aman, que lograrán todo lo que se propongan y que sueñen en grande."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Otra vuelta al reloj",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/otra-vuelta-al-reloj/",
-      "fecha": "Sun, 11 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El gobierno que prometía el futuro terminó ejecutando los planos del pasado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala: un país, dos realidades",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/guatemala-un-pais-dos-realidades/",
-      "fecha": "Sun, 11 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El avance de la agenda digital de Guatemala ocurre en dos rutas paralelas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Superar los retos del voto en el extranjero",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/superar-los-retos-del-voto-en-el-extranjero/",
-      "fecha": "Sun, 11 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Las distancias y el miedo no parecen explicar, por sí solos, los raquíticos resultados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La visita de vuelta",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-visita-de-vuelta/",
-      "fecha": "Sun, 11 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Xi Jinping visita Estados Unidos después de la visita de Donald Trump en mayo de este año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy domingo 11 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-domingo-11-de-octubre-de-2026/",
-      "fecha": "Sun, 11 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Lucharon por tratar de salir”: Extraen helicóptero que cayó en el lago de Atitlán y vidrio roto revela angustia de víctimas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lucharon-por-tratar-de-salir-extraen-helicoptero-que-cayo-en-el-lago-de-atitlan-y-vidrio-roto-revela-angustia-de-victimas-breaking/",
-      "fecha": "Sun, 11 Oct 2026 03:10:23 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Luego de haber recuperado los cuerpos de dos personas que quedaron atrapadas en un helicóptero que cayó en el lago de Atitlán, la aeronave fue extraída y su estado revela la angustia de las víctimas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Malacateco frenó al líder Guastatoya con un contundente 2-0 en el estadio Santa Lucía",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/malacateco-freno-al-lider-guastatoya-con-un-contundente-2-0-en-el-estadio-santa-lucia-breaking/",
-      "fecha": "Sun, 11 Oct 2026 03:06:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Una actuación sólida y colectiva le permitió a Malacateco superar al líder del Apertura 2026 y sumar tres puntos de oro en el estadio en posición de local."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Al menos 12 muertos y más de 300 heridos en un ataque contra el aeropuerto internacional de Riad, la capital de Arabia Saudita",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/al-menos-12-muertos-y-mas-de-300-heridos-en-un-ataque-contra-el-aeropuerto-internacional-de-riad-la-capital-de-arabia-saudita/",
-      "fecha": "Sun, 11 Oct 2026 00:45:24 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Al menos 12 personas han muerto y 309 han resultado heridas en un ataque contra el aeropuerto internacional en Riad, la capital de Arabia Saudita, según informaron las autoridades locales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hallan entre la maleza el cadáver de una niña que tenía alerta por desaparición en Chimaltenango",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/hallan-entre-la-maleza-el-cadaver-de-una-nina-que-tenia-alerta-por-desaparicion-en-chimaltenango-breaking/",
-      "fecha": "Sun, 11 Oct 2026 00:45:14 +0000",
-      "categoria": "Sucesos",
-      "resumen": "El cadáver de una niña que fue reportada como desaparecida el pasado 7 de octubre fue localizado entre matorrales, en un sector de Acatenango, Chimaltenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De la horca a la inyección letal: cómo Estados Unidos ha cambiado sus métodos de ejecución y qué polémicas han surgido",
-      "link": "https://www.prensalibre.com/internacional/de-la-horca-a-la-inyeccion-letal-como-estados-unidos-ha-cambiado-sus-metodos-de-ejecucion-y-que-polemicas-han-surgido/",
-      "fecha": "Sun, 11 Oct 2026 00:42:50 +0000",
-      "categoria": "Internacional",
-      "resumen": "La supervivencia de Christa Pike tras recibir una inyección letal, el regreso del pelotón de fusilamiento y una ejecución militar anunciada reabren el debate sobre los métodos de pena de muerte en Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Isaías toca tierra en las costas de Florida como huracán de categoría 2 y se debilita en su avance por el sureste de EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/isaias-toca-tierra-en-las-costas-de-florida-como-huracan-de-categoria-2-y-se-debilita-en-su-avance-por-el-sureste-de-ee-uu-2/",
-      "fecha": "Sun, 11 Oct 2026 00:35:10 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Es el primer huracán de la temporada en el Atlántico. Florida y Alabama habían decretado el estado de emergencia y establecido evacuaciones obligatorias. También estaba en alerta Georgia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video: Vinicius fue expulsado por jalarle el pelo a un rival y podría perderse el Clásico ante Barcelona",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-vinicius-fue-expulsado-por-jalarle-el-pelo-a-un-rival-y-podria-perderse-el-clasico-ante-barcelona-breaking/",
-      "fecha": "Sun, 11 Oct 2026 00:33:20 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Vinicius le jaló el pelo a un rival, el VAR lo detectó y el árbitro anuló su gol y lo expulsó en lo que pone en duda su presencia en el Clásico del 25 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Malacateco vs. Guastatoya: siga el minuto a minuto de la jornada 13",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-malacateco-vs-guastatoya-siga-el-minuto-a-minuto-de-la-jornada-13-breaking/",
-      "fecha": "Sun, 11 Oct 2026 00:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los toros reciben al líder del torneo este sábado a las 7:00 PM en el estadio Santa Lucía de Malacatán en un duelo donde Guastatoya buscará mantener su ventaja en lo más alto de la tabla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué hay detrás de las señales de radio detectadas en un planeta fuera del Sistema Solar?",
-      "link": "https://www.prensalibre.com/vida/ciencia/que-hay-detras-de-las-senales-de-radio-detectadas-en-un-planeta-fuera-del-sistema-solar/",
-      "fecha": "Sat, 10 Oct 2026 23:44:51 +0000",
-      "categoria": "Ciencia",
-      "resumen": "Tres investigadores publicaron un artículo científico sobre el hallazgo de una señal de radio proveniente del exoplaneta Beta Pictoris b, situado a 63 años luz de la Tierra."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Doblete de Héctor Morales le da la remontada 2-1 a Aurora sobre Xelajú",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/doblete-de-hector-morales-le-da-la-remontada-2-1-a-aurora-sobre-xelaju-breaking/",
-      "fecha": "Sat, 10 Oct 2026 23:01:22 +0000",
-      "categoria": "Deportes",
-      "resumen": "Los aurinegros fueron por detrás en el marcador pero Morales empató de cabeza al y anotó el penal para darle a Aurora la remontada ante un Xelajú que terminó con diez jugadores por quinta jornada consecutiva."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Hay mucha posibilidad de que pase algo&#8221;: Vecinos de Villa Hermosa I siguen en alerta por crecida del río Pinula",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/hay-mucha-posibilidad-de-que-pase-algo-vecinos-de-villa-hermosa-i-siguen-en-alerta-por-crecida-del-rio-pinula/",
-      "fecha": "Sat, 10 Oct 2026 22:45:03 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Tras los daños en viviendas de los sectores 2 y 4 de Villa Hermosa I, vecinos de los sectores 1 y 3 temen que la crecida del río Pinula también afecte sus casas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“No la va a poder entregar en el altar”: hija del piloto del helicóptero que cayó al lago de Atitlán había planificado su boda",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/no-la-va-a-poder-entregar-en-el-altar-hija-del-piloto-del-helicoptero-que-cayo-al-lago-de-atitlan-habia-planificado-su-boda-breaking/",
-      "fecha": "Sat, 10 Oct 2026 22:35:47 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Esposa del piloto del helicóptero que cayó en el lago de Atitlán relata que una de sus hijas estaba próxima a contraer matrimonio, pero ahora su padre ya “no la va a poder entregar en el altar\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿La UFC entrenará al FBI? Documento revela intención de dar contrato exclusivo a empresa promotora de artes marciales",
-      "link": "https://www.prensalibre.com/internacional/la-ufc-entrenara-al-fbi-documento-revela-intencion-de-dar-contrato-exclusivo-a-empresa-promotora-de-artes-marciales/",
-      "fecha": "Sat, 10 Oct 2026 22:04:29 +0000",
-      "categoria": "Internacional",
-      "resumen": "El FBI busca contratar por un año a la UFC, sin competencia abierta, para entrenar a sus agentes en combate cuerpo a cuerpo; el documento oficial argumenta que es el único proveedor calificado."
     },
     {
       "fuente": "Guatemala.com",
