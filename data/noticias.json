@@ -1,7 +1,215 @@
 {
-  "actualizado": "2026-10-14T01:01:17.834Z",
+  "actualizado": "2026-10-14T07:20:53.631Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Afectaron los relevos del Banguat a la economía de Guatemala? Esto revelan los principales indicadores económicos",
+      "link": "https://www.prensalibre.com/economia/afectaron-los-relevos-del-banguat-a-la-economia-de-guatemala-esto-revelan-los-principales-indicadores-economicos/",
+      "fecha": "Wed, 14 Oct 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Las autoridades monetarias en funciones hicieron un llamado a la calma y la tranquilidad a los agentes económicos y a quienes toman decisiones de inversión. Asimismo, aseguraron que los indicadores económicos internos y externos no muestran señales de alerta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cifras negativas",
+      "link": "https://www.prensalibre.com/opinion/caricatura/cifras-negativas/",
+      "fecha": "Wed, 14 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dipp: dependencia de proyectos postergados",
+      "link": "https://www.prensalibre.com/opinion/editorial/dipp-dependencia-de-proyectos-postergados/",
+      "fecha": "Wed, 14 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Más que organigramas y plazas, lo que la ciudadanía reclama son carreteras que permitan vislumbrar un mejor futuro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Papa debe ayudar, dando debida atención a su salud",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-papa-debe-ayudar-dando-debida-atencion-a-su-salud/",
+      "fecha": "Wed, 14 Oct 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La súbita enfermedad del papa León XIV demuestra lo inesperado de la vida de cualquier ser humano."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo Ucrania ataca con drones los puntos más vulnerables de las refinerías rusas",
+      "link": "https://www.prensalibre.com/internacional/como-ucrania-ataca-con-drones-los-puntos-mas-vulnerables-de-las-refinerias-rusas/",
+      "fecha": "Wed, 14 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Los ataques ucranianos se concentran en instalaciones difíciles de reparar y han reducido la capacidad de refinación de Rusia, según un análisis de The Washington Post."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuatro trucos mentales para recordar cosas que no debe olvidar",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/cuatro-trucos-mentales-para-ayudarlo-a-recordar-cosas-que-no-debe-olvidar/",
+      "fecha": "Wed, 14 Oct 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Los cambios normales en el cerebro, junto con la falta de sueño, problemas médicos y ciertos medicamentos, pueden provocar problemas de memoria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "España, al borde de la guerra",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/espana-al-borde-de-la-guerra/",
+      "fecha": "Wed, 14 Oct 2026 06:04:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "En Marruecos, el poder del monarca sobre el Estado es extraordinario."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nombramiento innecesariamente tormentoso",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/nombramiento-innecesariamente-tormentoso/",
+      "fecha": "Wed, 14 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Habrá que meditar bien si se quisiera insistir con el nombramiento objetado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Surge el bitcóin en 2008",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/surge-el-bitcoin-en-2008/",
+      "fecha": "Wed, 14 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Por la crisis financiera de 2008, surgió el bitcóin, como moneda digital descentralizada de los bancos centrales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mi hija va a recibir…",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/mi-hija-va-a-recibir/",
+      "fecha": "Wed, 14 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "No sé cómo será Guatemala cuando mi hija sea adulta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy miércoles 14 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-14-de-octubre-de-2026/",
+      "fecha": "Wed, 14 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Del hospital a la cárcel: salvadoreño buscado por homicidio y extorsión permaneció un mes en Petén",
+      "link": "https://www.prensalibre.com/guatemala/justicia/del-hospital-a-la-carcel-salvadoreno-buscado-por-homicidio-y-extorsion-permanecio-un-mes-en-peten-breaking/",
+      "fecha": "Wed, 14 Oct 2026 05:20:38 +0000",
+      "categoria": "Justicia",
+      "resumen": "Un salvadoreño requerido por homicidio, extorsión, privación de libertad y venta de drogas permaneció hospitalizado durante un mes en Petén."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Convierte 394,093 Big Mac en sonrisas gracias al McDía Feliz 2026",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/convierte-394093-big-mac-en-sonrisas-gracias-al-mcdia-feliz-2026/",
+      "fecha": "Wed, 14 Oct 2026 04:46:52 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "A lo largo de sus 26 años de historia en Guatemala, el McDía Feliz por los niños, se ha consolidado como un movimiento solidario que ha logrado beneficiar a más de 180 mil niños y sus familias, apoyando distintos programas que marcan una diferencia positiva en la vida de muchas personas; este año cuatro fundaciones fueron beneficiadas con Q13,399,162."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP pide 60 años de cárcel para expolicías acusados de ejecutar a dos hombres en San Andrés Itzapa",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mp-pide-60-anos-de-carcel-para-expolicias-acusados-de-ejecutar-a-dos-hombres-en-san-andres-itzapa-breaking/",
+      "fecha": "Wed, 14 Oct 2026 04:20:31 +0000",
+      "categoria": "Justicia",
+      "resumen": "El MP solicitó penas de entre 12 y 60 años de prisión contra siete expolicías acusados por la muerte de Nelson Santamaría y Eldin Choc Xi, en San Andrés Itzapa, Chimaltenango."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Dos víctimas inocentes”: piden esclarecer la muerte de dos hermanos guatemaltecos, presuntamente asesinados por su padre en Los Ángeles",
+      "link": "https://www.prensalibre.com/guatemala/migrantes/dos-victimas-inocentes-piden-esclarecer-la-muerte-de-dos-hermanos-guatemaltecos-presuntamente-asesinados-por-su-padre-en-los-angeles/",
+      "fecha": "Wed, 14 Oct 2026 03:32:38 +0000",
+      "categoria": "Migrantes",
+      "resumen": "La muerte de dos hermanos guatemaltecos de 4 y 11 años en Los Ángeles, California, mantiene abierta una investigación contra su padre, mientras analistas señalan la importancia de esclarecer qué provocó el ataque."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC abate a presunto secuestrador de piloto de aplicación de viajes en zona 11 y captura a otro sospechoso",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/pnc-abate-a-presunto-secuestrador-de-piloto-de-aplicacion-de-viajes-en-zona-11-y-captura-a-otro-sospechoso-breaking/",
+      "fecha": "Wed, 14 Oct 2026 03:30:14 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Una persecución policial en la zona 11 terminó con un presunto secuestrador muerto y otro capturado. Ambos habían retenido y amenazado de muerte a un piloto de aplicación de viajes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-los-conflictos-globales-se-han-convertido-en-un-dolor-de-cabeza-para-trump-a-pocas-semanas-de-las-elecciones-de-medio-termino-en-ee-uu/",
+      "fecha": "Wed, 14 Oct 2026 03:28:57 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Trump responsabiliza a la guerra entre Ucrania y Rusia del alza del petróleo en EE.UU. para contener el descontento de los votantes. Pero los problemas en la escena internacional se le multiplican."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las claves del caso Damon Foy: qué reveló la investigación y cuál será su condena por el asesinato de su expareja",
+      "link": "https://www.prensalibre.com/internacional/las-claves-del-caso-damon-foy-que-revelo-la-investigacion-y-cual-sera-su-condena-por-el-asesinato-de-su-expareja/",
+      "fecha": "Wed, 14 Oct 2026 02:59:54 +0000",
+      "categoria": "Internacional",
+      "resumen": "Damon Foy se declaró culpable del asesinato de su expareja en Nueva York. Conoce cómo avanzó la investigación y qué condena podría recibir por el crimen."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nervios, críticas y una destitución: ¿cómo fue el debut de Katie Zacharia como portavoz de Trump?",
+      "link": "https://www.prensalibre.com/internacional/nervios-criticas-y-una-destitucion-como-fue-el-debut-de-katie-zacharia-como-portavoz-de-trump/",
+      "fecha": "Wed, 14 Oct 2026 02:34:24 +0000",
+      "categoria": "Internacional",
+      "resumen": "Katie Zacharia debutó como portavoz de Trump con una breve rueda de prensa marcada por los nervios, críticas y el anuncio del cese de una embajadora."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala conquista el bronce en el Torneo UNCAF Sub-16 tras vencer a Costa Rica",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-conquista-el-bronce-en-el-torneo-uncaf-sub-16-tras-vencer-a-costa-rica-breaking/",
+      "fecha": "Wed, 14 Oct 2026 02:30:13 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "René Aguilar apareció en el momento clave y lideró a la Bicolor en el partido que definió su lugar en el podio regional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Autogestión y asesoría especializada",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/autogestion-y-asesoria-especializada/",
+      "fecha": "Wed, 14 Oct 2026 02:20:11 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Banco G&#38;T Continental impulsa su modelo de Agencias Híbridas, una propuesta que integra autogestión digital y acompañamiento especializado en un mismo espacio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nayib Bukele sorprende con un plan para liberar a colaboradores de pandillas en El Salvador",
+      "link": "https://www.prensalibre.com/internacional/nayib-bukele-sorprende-con-un-plan-para-liberar-a-colaboradores-de-pandillas-en-el-salvador-breaking/",
+      "fecha": "Wed, 14 Oct 2026 02:10:55 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente de El Salvador, Nayib Bukele, anunció que su Gobierno evalúa liberar de forma anticipada y condicional a miles de detenidos durante el régimen de excepción que colaboraron con las pandillas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué Donald Trump destituyó a Kimberly Guilfoyle como embajadora de EE. UU. en Grecia",
+      "link": "https://www.prensalibre.com/internacional/por-que-donald-trump-destituyo-a-kimberly-guilfoyle-como-embajadora-de-ee-uu-en-grecia/",
+      "fecha": "Wed, 14 Oct 2026 02:01:44 +0000",
+      "categoria": "Internacional",
+      "resumen": "Después de leer informes de supuesta conducta inapropiada por parte de Kimberly Guilfoyle, Trump la destituyó de su cargo como embajadora de EE. UU. en Grecia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué es un adenocarcinoma, el diagnóstico del papa León XIV tras ser intervenido?",
+      "link": "https://www.prensalibre.com/vida/que-es-un-adenocarcinoma-el-diagnostico-del-papa-leon-xiv-tras-ser-intervenido/",
+      "fecha": "Wed, 14 Oct 2026 02:00:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Luego de la cirugía a la que el Sumo Pontífice se sometió en el Policlínico Gemelli de Roma, los médicos confirmaron la presencia de cáncer."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Condenan a 53 años de prisión a exagente de la PNC por el femicidio de su pareja embarazada",
+      "link": "https://www.prensalibre.com/guatemala/justicia/condenan-a-53-anos-de-prision-a-exagente-de-la-pnc-por-el-femicidio-de-su-pareja-embarazada-breaking/",
+      "fecha": "Wed, 14 Oct 2026 01:18:01 +0000",
+      "categoria": "Justicia",
+      "resumen": "Un exagente de la PNC fue condenado a 53 años de prisión por el femicidio de su pareja, quien tenía 10 semanas de embarazo. El crimen ocurrió en Retalhuleu."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué Trump analiza cancelar la transmisión en vivo del fusilamiento de Nidal Hasan",
+      "link": "https://www.prensalibre.com/internacional/por-que-trump-analiza-cancelar-la-transmision-en-vivo-del-fusilamiento-de-nidal-hasan/",
+      "fecha": "Wed, 14 Oct 2026 01:05:01 +0000",
+      "categoria": "Internacional",
+      "resumen": "Donald Trump evalúa cancelar la transmisión en vivo del fusilamiento de Nidal Hasan, mientras el Pentágono reconsidera los planes para televisar la ejecución."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Bono de Q4 mil y asueto: qué propone la iniciativa que motivó los bloqueos de salubristas",
@@ -12,11 +220,35 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "¿Qué hacer cuando una persona fallece en casa en Guatemala y por qué debe verificarse la causa de muerte?",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/que-hacer-cuando-una-persona-fallece-en-casa-en-guatemala-y-por-que-debe-verificarse-la-causa-de-muerte/",
+      "fecha": "Wed, 14 Oct 2026 00:26:11 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Aunque una persona fallezca en su domicilio, antes del sepelio debe establecerse la causa de muerte y cumplir los procedimientos correspondientes. Si existen dudas o indicios de violencia, las autoridades intervienen para investigar las circunstancias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿El etanol acumula agua, daña el motor o exige mantener el tanque lleno? Cinco dudas sobre la gasolina E10",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/el-etanol-acumula-agua-dana-el-motor-o-exige-mantener-el-tanque-lleno-cinco-dudas-sobre-la-gasolina-e10/",
+      "fecha": "Wed, 14 Oct 2026 00:21:59 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Conozca qué hay de cierto en las dudas que han surgido en Guatemala sobre la gasolina regular con mezcla 10% de etanol y qué debe tomar en cuenta para cuidar su vehículo o motocicleta."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Trump destituye a Kimberly Guilfoyle como embajadora de EE.UU. en Grecia tras acusaciones de corrupción",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-destituye-a-kimberly-guilfoyle-como-embajadora-de-ee-uu-en-grecia-tras-acusaciones-de-corrupcion/",
       "fecha": "Wed, 14 Oct 2026 00:18:38 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Guilfoyle afirma que las acusaciones de conducta inapropiada son \"falsas\" y que ser embajadora fue el \"honor de su vida\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;El Takia&#8221;, empresas y lavado de dinero: ¿qué revelan las sanciones de EE. UU. al Cartel del Noreste?",
+      "link": "https://www.prensalibre.com/internacional/el-takia-empresas-y-lavado-de-dinero-que-revelan-las-sanciones-de-ee-uu-al-cartel-del-noreste/",
+      "fecha": "Wed, 14 Oct 2026 00:10:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Departamento del tesoro de EE. UU. sancionó a cuatro personas y 11 entidades vinculadas al Cartel del Norte por presunta participación en lavado de dinero."
     },
     {
       "fuente": "Prensa Libre",
@@ -577,238 +809,6 @@
       "fecha": "Tue, 13 Oct 2026 06:04:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Seguridad, justicia y desarrollo nacional"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Baja legalidad; menos legitimidad",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/baja-legalidad-menos-legitimidad/",
-      "fecha": "Tue, 13 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La primera permite gobernar; la segunda exige conservar la confianza de los ciudadanos mediante resultados, transparencia y ejercicio de la responsabilidad política."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Negociación y transición",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/negociacion-y-transicion/",
-      "fecha": "Tue, 13 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Al régimen le interesa dejar de último las elecciones presidenciales para retrasar la entrega del poder."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nuestra herencia grecorromana",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/nuestra-herencia-grecorromana/",
-      "fecha": "Tue, 13 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Inusual discurso de Marco Rubio frente al Acrópolis"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jenny Alvarado Tení asume presidencia de la CSJ y promete que no responderá a grupos políticos",
-      "link": "https://www.prensalibre.com/guatemala/politica/jenny-alvarado-teni-asume-presidencia-de-la-csj-y-promete-que-no-respondera-a-grupos-politicos/",
-      "fecha": "Tue, 13 Oct 2026 06:01:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Alvarado Tení es la quinta mujer en presidir el Poder Judicial y anunció que ya tienen un plan aprobado para atender la demanda judicial del año electoral."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy martes 13 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-13-de-octubre-de-2026/",
-      "fecha": "Tue, 13 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fogel: “Usamos un puerto salvadoreño y nos ahorramos 30 días en altamar”",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/fogel-usamos-un-puerto-salvadoreno-y-nos-ahorramos-30-dias-en-altamar/",
-      "fecha": "Tue, 13 Oct 2026 06:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Jacobo Tefel reflexiona sobre la modernización de los puertos, las conexiones viales y la infraestructura eléctrica para acelerar la industrialización en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Especial BBC: el desértico campo de batalla donde se libra una guerra con consecuencias globales",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/especial-bbc-el-desertico-campo-de-batalla-donde-se-libra-una-guerra-con-consecuencias-globales/",
-      "fecha": "Tue, 13 Oct 2026 03:47:58 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La guerra civil en Yemen es ahora imposible de ignorar. Pero en los quirófanos de Adén, su ciudad portuaria, la geopolítica parece algo lejano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Llega una de las tradiciones gastronómicas más importantes del país",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/llega-una-de-las-tradiciones-gastronomicas-mas-importantes-del-pais/",
-      "fecha": "Tue, 13 Oct 2026 03:09:46 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Con el propósito de acompañar a las familias guatemaltecas, a partir de este mes, los clientes de Walmart encontrarán en todos los formatos y plataformas digitales una propuesta integral de productos frescos, de alta calidad y a precios accesibles para la temporada de fiambre 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Shakira cierra su residencia en Madrid junto a Maluma, Ghetto Kids y Bizarrap: “Esta residencia para mí ha sido histórica”",
-      "link": "https://www.prensalibre.com/vida/escenario/shakira-cierra-su-residencia-en-madrid-junto-a-maluma-ghetto-kids-y-bizarrap-esta-residencia-para-mi-ha-sido-historica/",
-      "fecha": "Tue, 13 Oct 2026 03:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Shakira construyó un estadio temporal en Madrid para su residencia, en la que ofreció 13 conciertos en Macondo Park. La imagen corresponde a la última noche de presentaciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nueva fase de la Ley de Competencia genera dudas sobre capacidad operativa de la Sicom",
-      "link": "https://www.prensalibre.com/economia/nueva-fase-de-la-ley-de-competencia-genera-dudas-sobre-capacidad-operativa-de-la-sicom/",
-      "fecha": "Tue, 13 Oct 2026 03:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La Superintendencia de Competencia (Sicom) registra una baja ejecución presupuestaria, aún no completa sus intendencias y enfrenta cuestionamientos por la elección del nuevo superintendente Carlos Ortiz Ortiz."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC busca destituir a dos agentes señalados de conducir ebrios y atropellar a motorista en Chimaltenango",
-      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-busca-destituir-a-dos-agentes-senalados-de-conducir-ebrios-y-atropellar-a-motorista-en-chimaltenango/",
-      "fecha": "Tue, 13 Oct 2026 02:35:40 +0000",
-      "categoria": "Justicia",
-      "resumen": "Dos agentes de la PNC fueron detenidos tras atropellar a una motorista en Chimaltenango. El caso generó cuestionamientos sobre la supervisión y el comportamiento de los policías en servicio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Dios me dio la revelación&#8221;: padre de adolescente que despertó durante su velorio explica por qué no la llevó al hospital",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/dios-me-dio-la-revelacion-padre-de-adolescente-que-desperto-durante-su-velorio-explica-por-que-no-la-llevo-al-hospital-breaking/",
-      "fecha": "Tue, 13 Oct 2026 02:34:06 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Abraham Ixcotoyac afirma que siguió una revelación divina cuando creyó que su hija había fallecido en su vehículo. El MP investiga las circunstancias del caso, ocurrido en Sacapulas, Quiché."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente en Six Flags: qué ocurrió en la montaña rusa Goliath y qué falta por esclarecer",
-      "link": "https://www.prensalibre.com/internacional/accidente-en-six-flags-que-ocurrio-en-la-montana-rusa-goliath-y-que-falta-por-esclarecer/",
-      "fecha": "Tue, 13 Oct 2026 02:10:34 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un aparente fallo en los protocolos de seguridad en la montaña rusa Goliath del parque de atracciones Six Flags Over Georgia dejó un muerto y varios heridos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala expresa sus deseos de recuperación al papa León XIV antes de su operación",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-expresa-sus-deseos-de-recuperacion-al-papa-leon-xiv-antes-de-su-operacion-breaking/",
-      "fecha": "Tue, 13 Oct 2026 01:51:58 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El papa León XIV será operado de un nódulo pulmonar en fase inicial y permanecerá hospitalizado alrededor de una semana en Roma."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "José Pinto: “Lo humano lo pusieron por delante”, la historia detrás de su regreso a Comunicaciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/jose-pinto-lo-humano-lo-pusieron-por-delante-la-historia-detras-de-su-regreso-a-comunicaciones-breaking/",
-      "fecha": "Tue, 13 Oct 2026 01:50:18 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Después de cuatro meses junto a su familia, Pinto vuelve a los entrenamientos con esperanza, agradecido por el respaldo recibido y la mejoría de su pequeño hijo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sean “Diddy” Combs fue trasladado temporalmente de una prisión federal a un hospital por una lesión en la cabeza",
-      "link": "https://www.prensalibre.com/vida/escenario/sean-diddy-combs-fue-trasladado-temporalmente-de-una-prision-federal-a-un-hospital-por-una-lesion-en-la-cabeza/",
-      "fecha": "Tue, 13 Oct 2026 01:37:48 +0000",
-      "categoria": "Escenario",
-      "resumen": "El rapero fue trasladado desde una prisión federal de Nueva Jersey a un hospital para recibir atención médica por una lesión en la cabeza. Esto se sabe del hecho."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala podrá exportar crisantemos a Estados Unidos tras 50 años de restricciones",
-      "link": "https://www.prensalibre.com/economia/guatemala-podra-exportar-crisantemos-a-estados-unidos-tras-50-anos-de-restricciones/",
-      "fecha": "Tue, 13 Oct 2026 01:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Estados Unidos permitirá importar crisantemos guatemaltecos desde el 9 de noviembre. Agexport estima que los envíos podrían alcanzar US$20 millones anuales en exportaciones de crisantemos al tercer año y US$40 millones anuales hacia el sexto año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Puente Huijó: ¿cuánto ha tardado la reparación de ese paso en la CA-9 Norte y cuándo podría estar habilitado?",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/puente-guijo-cuanto-ha-tardado-la-reparacion-de-ese-paso-en-la-ca-9-norte-cuando-podria-ser-habilitado/",
-      "fecha": "Tue, 13 Oct 2026 00:46:02 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El accidente ocurrió el 23 de agosto y obligó a habilitar un paso provisional en Usumatlán, Zacapa. Al 12 de octubre, la cartera de Comunicaciones informa cómo avanzan los trabajos en el sector."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién es &#8220;El Cabra&#8221;, el presunto cabecilla de la Mara 18 capturado en México y buscado por 15 homicidios",
-      "link": "https://www.prensalibre.com/internacional/quien-es-el-cabra-el-presunto-cabecilla-de-la-mara-18-capturado-en-mexico-y-buscado-por-15-homicidios/",
-      "fecha": "Tue, 13 Oct 2026 00:03:20 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una operación de fuerzas federales en México logró la captura  de \"El Cabra\", presunto cabecilla de la Mara 18 y vinculado con múltiples crímenes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un ciberataque contra neveras y congeladores de cientos de supermercados de Francia provoca pérdidas millonarias",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/un-ciberataque-contra-neveras-y-congeladores-de-cientos-de-supermercados-de-francia-provoca-perdidas-millonarias-2/",
-      "fecha": "Tue, 13 Oct 2026 00:01:45 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El ataque contra el software de Danfoss afectó a unas 400 tiendas y los equipos llegaron a 50°C, con pérdidas estimadas en millones de euros."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un ciberataque contra neveras y congeladores de cientos de supermercados de Francia provoca pérdidas millonarias",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-ciberataque-contra-neveras-y-congeladores-de-cientos-de-supermercados-de-francia-provoca-perdidas-millonarias/",
-      "fecha": "Tue, 13 Oct 2026 00:01:45 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El ataque contra el software de Danfoss afectó a unas 400 tiendas y los equipos llegaron a 50°C, con pérdidas estimadas en millones de euros."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El incidente que protagonizó la actriz Selma Blair en un avión y por el que fue arrestada en EE. UU.",
-      "link": "https://www.prensalibre.com/vida/escenario/el-incidente-que-protagonizo-la-actriz-selma-blair-en-un-avion-y-por-el-que-fue-arrestada-en-ee-uu/",
-      "fecha": "Mon, 12 Oct 2026 23:57:06 +0000",
-      "categoria": "Escenario",
-      "resumen": "La actriz estadounidense Selma Blair recibió una citación judicial tras ser arrestada por protagonizar un incidente dentro de un avión y herir a miembros de la tripulación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asuetos y feriados 2027 en Guatemala: ¿Cuántos fines de semana largos tendrá el año?",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/asuetos-y-feriados-2027-en-guatemala-cuantos-fines-de-semana-largos-tendra-el-ano/",
-      "fecha": "Mon, 12 Oct 2026 23:49:38 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "El Código de Trabajo establece los asuetos y feriados que corresponden a los trabajadores del sector formal. Ante la llegada del último trimestre del 2026, surgen dudas sobre cómo quedará el calendario de descansos para el 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La actriz estadounidense Selma Blair es acusada de agresión tras un incidente con las azafatas durante un vuelo",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-actriz-estadounidense-selma-blair-es-acusada-de-agresion-tras-un-incidente-con-las-azafatas-durante-un-vuelo/",
-      "fecha": "Mon, 12 Oct 2026 23:26:54 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Funcionarios del Aeropuerto Internacional John F. Kennedy de Nueva York informaron que habían respondido a una llamada sobre \"un pasajero físicamente agresivo\" en avión. Dos auxiliares de vuelo resultaron heridos y uno fue llevado al hospital, según la Autoridad Portuaria de Nueva York."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hombre requerido por asesinato en Nueva Jersey es capturado en Retalhuleu",
-      "link": "https://www.prensalibre.com/guatemala/justicia/hombre-requerido-por-asesinato-en-nueva-jersey-es-capturado-en-retalhuleu/",
-      "fecha": "Mon, 12 Oct 2026 23:22:29 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC capturó en Retalhuleu a un hombre de 64 años requerido por Estados Unidos por un caso de asesinato en Nueva Jersey."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El papa León XIV será operado: qué actividades canceló y hasta cuándo",
-      "link": "https://www.prensalibre.com/internacional/el-papa-leon-xiv-sera-operado-que-actividades-cancelo-y-hasta-cuando/",
-      "fecha": "Mon, 12 Oct 2026 22:52:54 +0000",
-      "categoria": "Internacional",
-      "resumen": "El papa León XIV fue diagnosticado con un nódulo en el pulmón y será operado el martes 13 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MP investiga caso de adolescente que fue dada por muerta y despertó durante su velorio tras pasar 8 horas en un ataúd",
-      "link": "https://www.prensalibre.com/ciudades/quiche/mp-investiga-caso-de-adolescente-que-fue-dada-por-muerta-y-desperto-durante-su-velorio-tras-pasar-8-horas-en-un-ataud-breaking/",
-      "fecha": "Mon, 12 Oct 2026 22:37:09 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Una adolescente de 15 años pasó unas ocho horas en un ataúd durante su velorio en Sacapulas, Quiché, porque su familia creyó que había fallecido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso juramentará a nueva presidenta del OJ y discutirá iniciativas de teletrabajo y ciberseguridad",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-juramentara-a-nueva-presidenta-del-oj-y-discutira-iniciativas-de-teletrabajo-y-ciberseguridad/",
-      "fecha": "Mon, 12 Oct 2026 22:31:07 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La agenda del Congreso para este martes 13 de octubre incluye la discusión de varias iniciativas de ley en distintas etapas, así como la juramentación de Jenny Noemí Alvarado Tení como nueva presidente del Organismo Judicial y de la Corte Suprema de Justicia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Madelin Chacach, la niña de 5 años que habría sido secuestrada y murió estrangulada en Chimaltenango",
-      "link": "https://www.prensalibre.com/guatemala/justicia/madelin-chacach-la-nina-de-5-anos-que-habria-sido-secuestrada-y-murio-estrangulada-en-chimaltenango/",
-      "fecha": "Mon, 12 Oct 2026 22:17:26 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Una cinta métrica, un posible secuestro y un vehículo: las pistas que siguen los investigadores tras la muerte por estrangulación de una niña de 5 años en Chimaltenango."
     },
     {
       "fuente": "Guatemala.com",
