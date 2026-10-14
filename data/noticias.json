@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-10-14T07:20:53.631Z",
+  "actualizado": "2026-10-14T13:29:54.406Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comuna de Mixco informa sobre los trabajos en hundimiento del km 16 de la ruta Interamericana",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/comuna-de-mixco-informa-sobre-los-trabajos-en-hundimiento-del-km-16-de-la-ruta-interamericana-breaking/",
+      "fecha": "Wed, 14 Oct 2026 13:08:36 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Personal de la Municipalidad de Mixco efectuó trabajos en el área del hundimiento ubicado en el kilómetro 16 de la ruta Interamericana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelta a Guatemala 2026: Guastatoya se suma a la historia de las salidas fuera de la capital",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-guastatoya-se-suma-a-la-historia-de-los-comienzos-departamentales-breaking/",
+      "fecha": "Wed, 14 Oct 2026 13:00:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "Guastatoya se convertirá en la nueva sede de salida de la Vuelta a Guatemala, que ha comenzado fuera de la capital en distintas ocasiones a lo largo de su historia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un récord mientras Trump ejerce máxima presión sobre la isla",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/por-que-las-exportaciones-de-ee-uu-a-cuba-alcanzaron-un-record-mientras-trump-ejerce-maxima-presion-sobre-la-isla/",
+      "fecha": "Wed, 14 Oct 2026 12:44:48 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los productos estadounidenses más vendidos al sector privado de la isla son los combustibles, un fenómeno sin precedentes en la relación comercial entre ambos países. Entre enero y agosto, los envíos de combustible aumentaron un 210%."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Municipalidad de Chisec adeuda Q13.1 millones a Energuate y enfrenta un nuevo corte de energía",
+      "link": "https://www.prensalibre.com/economia/municipalidad-de-chisec-adeuda-q13-1-millones-a-energuate-y-enfrenta-un-nuevo-corte-de-energia/",
+      "fecha": "Wed, 14 Oct 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La Municipalidad de Chisec acumula una deuda de Q13.1 millones por suministro eléctrico, incluidos Q10.8 millones por servicio a instalaciones municipales y Q2.3 millones por alumbrado público. La empresa informó que este último servicio no ha sido suspendido."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Afectaron los relevos del Banguat a la economía de Guatemala? Esto revelan los principales indicadores económicos",
@@ -217,6 +249,14 @@
       "fecha": "Wed, 14 Oct 2026 01:00:00 +0000",
       "categoria": "Comunitario",
       "resumen": "La iniciativa 6813, presentada con el aval de más de 50 diputados, contempla un bono de Q4 mil y un asueto con goce de salario para los salubristas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Roma vs. Real Madrid: fecha, hora y dónde ver el partido de la segunda jornada de la Champions League",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/roma-vs-real-madrid-fecha-hora-y-donde-ver-el-partido-de-la-segunda-jornada-de-la-champions-league/",
+      "fecha": "Wed, 14 Oct 2026 00:45:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Real Madrid visita este miércoles a la Roma en un partido especial para José Mourinho, quien volverá al Olímpico entre elogios a su exequipo."
     },
     {
       "fuente": "Prensa Libre",
@@ -769,46 +809,6 @@
       "fecha": "Tue, 13 Oct 2026 06:07:00 +0000",
       "categoria": "Caricatura",
       "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso debe depurar presupuesto 2027, pero…",
-      "link": "https://www.prensalibre.com/opinion/editorial/congreso-debe-depurar-presupuesto-2027-pero/",
-      "fecha": "Tue, 13 Oct 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "No se cuestiona en sí el incremento, pero sí la capacidad para financiarlo y la posibilidad de ejecución efectiva y transparente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El país del “ya mero”",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-pais-del-ya-mero/",
-      "fecha": "Tue, 13 Oct 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Tranquilos. Los molinos del Señor muelen lentamente, pero muy fino."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bisagras de nuestro futuro: las rodillas requieren un cuidado especial",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/bisagras-del-futuro-las-rodillas-requieren-un-cuidado-especial/",
-      "fecha": "Tue, 13 Oct 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "¿Quiere salir a caminar, subir escaleras, practicar deportes o efectuar un sinfín de actividades? Necesitará rodillas sanas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Zelenski se arriesga a una ruptura con Trump por la presión de las elecciones de mitad de mandato en EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/zelenski-se-arriesga-a-una-ruptura-con-trump-por-la-presion-de-las-elecciones-de-mitad-de-mandato-en-ee-uu/",
-      "fecha": "Tue, 13 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "El acuerdo de Trump con Putin sobre las exportaciones de diésel aumenta las tensiones con Kiev, que depende del armamento y la inteligencia estadounidenses."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala necesita pasar de los discursos a los resultados",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/guatemala-necesita-pasar-de-los-discursos-a-los-resultados/",
-      "fecha": "Tue, 13 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Seguridad, justicia y desarrollo nacional"
     },
     {
       "fuente": "Guatemala.com",
