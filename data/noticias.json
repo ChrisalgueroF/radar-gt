@@ -1,7 +1,103 @@
 {
-  "actualizado": "2026-10-14T18:25:18.414Z",
+  "actualizado": "2026-10-14T22:08:45.126Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Comunicaciones vs. Aurora: siga el minuto a minuto de la jornada 14 del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-comunicaciones-vs-aurora-siga-el-minuto-a-minuto-de-la-jornada-14-del-apertura-2026/",
+      "fecha": "Wed, 14 Oct 2026 22:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Con la obligación de sumar, Comunicaciones y Aurora FC se enfrentan este miércoles en el estadio Cementos Progreso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué pasa si Guatemala pierde contra Canadá en la Liga de Naciones? El camino hacia la Copa Oro",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/que-pasa-si-guatemala-pierde-contra-canada-en-la-liga-de-naciones-el-camino-hacia-la-copa-oro/",
+      "fecha": "Wed, 14 Oct 2026 21:59:50 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Si Guatemala es superada por Canadá en los cuartos de final, todavía tendrá otra oportunidad para clasificarse a la Copa Oro, el torneo más importante de Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Expertos internacionales analizan los nuevos riesgos de la banca",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/expertos-internacionales-analizan-los-nuevos-riesgos-de-la-banca/",
+      "fecha": "Wed, 14 Oct 2026 21:40:15 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Inteligencia artificial, ciberseguridad, fraude digital, regulación, resiliencia y nuevas tecnologías formaron parte de la agenda del XI Congreso Latinoamericano de Riesgos - CLAR 2026; organizado por la Asociación Bancaria de Guatemala (ABG), la Escuela Bancaria de Guatemala (EBG) y la Federación Latinoamericana de Bancos (FELABAN); para analizar los principales desafíos que están transformando la banca y el sistema financiero latinoamericano, bajo el enfoque de convertir los riesgos en resiliencia, rentabilidad y nuevas oportunidades de negocio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Colores en movimiento&#8221;: de la danza al libro y luego&#8230; a la pintura",
+      "link": "https://www.prensalibre.com/vida/escenario/colores-en-movimiento-de-la-danza-al-libro-y-luego-a-la-pintura/",
+      "fecha": "Wed, 14 Oct 2026 20:56:36 +0000",
+      "categoria": "Escenario",
+      "resumen": "La muestra pictórica del Departamento de Arte de la Usac explora danzas y bailes tradicionales de Guatemala con la inspiración del Atlas danzario de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Noche mágica en Roma; Real Madrid remonta y gana 4-3 en la Champions",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/noche-magica-en-roma-real-madrid-remonta-y-gana-4-3-en-la-champions-breaking/",
+      "fecha": "Wed, 14 Oct 2026 20:51:50 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Real Madrid logra una remontada épica en el estadio Olímpico de Roma, y con goles de Mbappé, Espí, Endrick y Rüdiger derrota a la Roma."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La impactante foto de un migrante cubano sobre una pequeña balsa improvisada frente a la costa de Florida",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-impactante-foto-de-un-migrante-cubano-sobre-una-pequena-balsa-improvisada-frente-a-la-costa-de-florida/",
+      "fecha": "Wed, 14 Oct 2026 19:47:24 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las autoridades confirmaron que el hombre se encontraba sano y salvo y que fue trasladado a un buque guardacostas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lanquetin queda a un triunfo del tricampeonato del softbol femenino de Guatemala",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/lanquetin-queda-a-un-triunfo-del-tricampeonato-del-softbol-femenino-de-guatemala-breaking/",
+      "fecha": "Wed, 14 Oct 2026 19:30:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "Lanquetin tomó ventaja de 2-0 sobre las Bombarderas en la final de la Liga Mayor y buscará sellar el título este jueves, mientras sus rivales están obligadas a ganar para mantener viva la serie."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Narnia: El sobrino del mago: fecha de estreno en cines y Netflix, sinopsis, reparto y tráiler de la película de Greta Gerwig",
+      "link": "https://www.prensalibre.com/vida/escenario/narnia-el-sobrino-del-mago-fecha-de-estreno-en-cines-y-netflix-sinopsis-reparto-y-trailer-de-la-pelicula-de-greta-gerwig/",
+      "fecha": "Wed, 14 Oct 2026 19:23:01 +0000",
+      "categoria": "Escenario",
+      "resumen": "Una de las nuevas producciones más esperadas de Netflix ya tiene fecha de estreno. La película llegará primero a los cines y luego a la plataforma. Esto se conoce de Narnia: El sobrino del mago."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mbappé supera una marca de Messi en la Champions League al alcanzar los 100 partidos",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mbappe-supera-una-marca-de-messi-en-la-champions-league-al-alcanzar-los-100-partidos/",
+      "fecha": "Wed, 14 Oct 2026 19:14:41 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Con apenas 27 años, Kylian Mbappé continúa ampliando su legado en la Champions League y suma un nuevo hito en su carrera, consolidándose como una de las grandes figuras del futbol europeo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asesinato de policías en zona 18: Tribunal ordena reforzar protocolos de seguridad de agentes tras condena contra Kevin Castellanos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/asesinato-de-policias-en-zona-18-tribunal-ordena-reforzar-protocolos-de-seguridad-de-agentes-tras-condena-contra-kevin-castellanos-breaking/",
+      "fecha": "Wed, 14 Oct 2026 18:54:00 +0000",
+      "categoria": "Justicia",
+      "resumen": "Como parte de la reparación digna por la muerte violenta de dos agentes de la PNC en la zona 18, un tribunal ordena reforzar las estrategias de seguridad para los policías."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cartel de Sinaloa, fusiles y disputa territorial: los posibles vínculos con el narco en Tajumulco e Ixchiguán",
+      "link": "https://www.prensalibre.com/guatemala/justicia/cartel-de-sinaloa-fusiles-y-disputa-territorial-los-posibles-vinculos-con-el-narco-en-tajumulco-e-ixchiguan/",
+      "fecha": "Wed, 14 Oct 2026 18:45:16 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El conflicto en San Marcos se reactivó con disparos. Un informe advierte sobre posibles vínculos con el narcotráfico y plantea un Estado de Sitio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Real Madrid: Mourinho critica el momento en que se anunció la sanción a Vinícius Júnior",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-mourinho-critica-el-momento-en-que-se-anuncio-la-sancion-a-vinicius-junior/",
+      "fecha": "Wed, 14 Oct 2026 18:33:59 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "José Mourinho cuestionó la decisión de la RFEF de anunciar la sanción a Vinícius Júnior apenas dos horas antes del partido de Champions."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "Asueto del 20 de octubre 2026: Bancos cerrarán por el Día de la Revolución",
@@ -9,6 +105,14 @@
       "fecha": "Wed, 14 Oct 2026 18:17:42 +0000",
       "categoria": "Comunidad",
       "resumen": "Bancos e instituciones financieras cerrarán el martes 20 de octubre por el asueto del Día de la Revolución en Guatemala. \nThe post Asueto del 20 de octubre 2026: Bancos cerrarán por el Día de la Revolución appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Silencio de semicorchea”: el cuento de José Morales González que ganó el Premio Mario Monteforte Toledo 2026",
+      "link": "https://www.prensalibre.com/vida/escenario/silencio-de-semicorchea-el-cuento-de-jose-morales-gonzalez-que-gano-el-premio-mario-monteforte-toledo-2026/",
+      "fecha": "Wed, 14 Oct 2026 18:09:16 +0000",
+      "categoria": "Escenario",
+      "resumen": "El escritor costarricense José Morales González viajó a Guatemala para recibir el galardón por su cuento “Silencio de semicorchea”, seleccionado entre más de 600 obras centroamericanas."
     },
     {
       "fuente": "Prensa Libre",
@@ -25,6 +129,22 @@
       "fecha": "Wed, 14 Oct 2026 18:04:18 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "El Real Madrid afrontará una etapa clave de la temporada sin uno de sus jugadores más desequilibrantes, en una seguidilla de partidos de alta exigencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bank of America es sancionado en EE. UU. por violar leyes de lavado de dinero: a cuánto asciende la multa",
+      "link": "https://www.prensalibre.com/internacional/bank-of-america-es-sancionado-en-ee-uu-por-violar-leyes-de-lavado-de-dinero-a-cuanto-asciende-la-multa/",
+      "fecha": "Wed, 14 Oct 2026 18:02:38 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Departamento del Tesoro de EE. UU. anunció una sanción contra Bank Of America por violar leyes contra el lavado de dinero."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "RJ Mitte veía al futuro: el actor de &#8220;Breaking Bad&#8221; habló de  su vejez en una de sus últimas entrevistas",
+      "link": "https://www.prensalibre.com/vida/escenario/rj-mitte-veia-al-futuro-el-actor-de-breaking-bad-hablo-de-su-vejez-en-una-de-sus-ultimas-entrevistas/",
+      "fecha": "Wed, 14 Oct 2026 18:02:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Su participación en un podcast toma relevancia luego de su muerte a los 34 años."
     },
     {
       "fuente": "Prensa Libre",
@@ -49,6 +169,14 @@
       "fecha": "Wed, 14 Oct 2026 17:54:17 +0000",
       "categoria": "Sucesos",
       "resumen": "Gerente de medios de pago de un banco muere durante un ataque armado en la vía pública, en la zona 4 de la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una exposición dedicada al teatro en la UP: tres décadas de imágenes históricas",
+      "link": "https://www.prensalibre.com/vida/escenario/una-exposicion-dedicada-al-teatro-en-la-up-tres-decadas-de-imagenes-historicas/",
+      "fecha": "Wed, 14 Oct 2026 17:41:43 +0000",
+      "categoria": "Escenario",
+      "resumen": "Revistas, fotografías y documentos ayudan a hacer memoria acerca de algunas de las más relevantes obras teatrales presentadas en diversos escenarios."
     },
     {
       "fuente": "Prensa Libre",
@@ -92,7 +220,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "PNC revela los antecedentes delictivos del cómplice de presunto delincuente abatido en la zona 11",
+      "titulo": "Revelan los antecedentes del cómplice de un presunto delincuente abatido durante una persecución en la zona 11",
       "link": "https://www.prensalibre.com/guatemala/justicia/pnc-revela-los-antecedentes-delictivos-del-complice-de-presunto-delincuente-abatido-en-la-zona-11-breaking/",
       "fecha": "Wed, 14 Oct 2026 16:22:34 +0000",
       "categoria": "Justicia",
@@ -697,134 +825,6 @@
       "fecha": "Tue, 13 Oct 2026 19:46:00 +0000",
       "categoria": "Justicia",
       "resumen": "La PNC capturó en la zona 7 a alias “Peludo”, presunto integrante de la Mara Salvatrucha, señalado en investigaciones por varios asesinatos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De un crucero a quedar a la deriva: cómo rescataron a una mujer salvadoreña en aguas de Grecia",
-      "link": "https://www.prensalibre.com/internacional/de-un-crucero-a-quedar-a-la-deriva-como-rescataron-a-una-mujer-salvadorena-en-aguas-de-grecia/",
-      "fecha": "Tue, 13 Oct 2026 19:40:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una salvadoreña sobrevivió 24 horas a la deriva tras lanzarse de un crucero en Grecia. Conozca cómo fue localizada y rescatada en alta mar por un buque."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿El 911 pensó que era una farsa? los audios que revelan más detalles del caso de Christa Pike",
-      "link": "https://www.prensalibre.com/internacional/el-911-penso-que-era-una-farsa-los-audios-que-revelan-mas-detalles-del-caso-de-christa-pike/",
-      "fecha": "Tue, 13 Oct 2026 19:34:11 +0000",
-      "categoria": "Internacional",
-      "resumen": "Grabaciones evidenciarían cómo el despacho de emergencia del 911 habría calificado la llamada para auxiliar a Christa Pike tras sobrevivir a la inyección letal como \"una farsa\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Juez ordena reactivar investigación sobre presunta estructura de adopciones ilegales vinculada con María Consuelo Porras",
-      "link": "https://www.prensalibre.com/guatemala/justicia/juez-ordena-reactivar-investigacion-sobre-presunta-estructura-de-adopciones-ilegales-vinculada-con-maria-consuelo-porras/",
-      "fecha": "Tue, 13 Oct 2026 19:22:07 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La PGN denunció que el MP dejó de investigar a intermediarios, notarios y funcionarios vinculados con una presunta estructura de adopciones ilegales, en un caso que involucra a la exfiscal general."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Costa Rica inaugura megacárcel al estilo Bukele: así es el CACCO, que recibirá a 5 mil 100 reclusos",
-      "link": "https://www.prensalibre.com/internacional/costa-rica-inaugura-megacarcel-al-estilo-bukele-asi-es-el-cacco-que-recibira-a-5-mil-100-reclusos/",
-      "fecha": "Tue, 13 Oct 2026 18:53:05 +0000",
-      "categoria": "Internacional",
-      "resumen": "Costa Rica inaugurará el Centro de Alta Contención contra el Crimen Organizado (CACCO) el 14 de octubre, tomando como referencia el Cecot de El Salvador."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Shakira envía mensaje a Antonio de la Rúa en el cierre de su residencia en Madrid: “Quiero darle las gracias a quien un día fue mi compañero”",
-      "link": "https://www.prensalibre.com/vida/escenario/shakira-dedica-emotivo-mensaje-a-antonio-de-la-rua-en-el-cierre-de-su-residencia-en-madrid-quiero-darle-las-gracias-a-quien-un-dia-fue-mi-companero/",
-      "fecha": "Tue, 13 Oct 2026 18:48:13 +0000",
-      "categoria": "Escenario",
-      "resumen": "En su última noche de residencia en Madrid, la cantante colombiana se sinceró sobre sus emociones ante el cierre de sus conciertos y sus problemas personales. Además, hizo una serie de agradecimientos, entre ellos, a Antonio de la Rúa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tiroteo en Bronx deja dos heridos, entre ellos una niña de 12 años: esto reveló la policía",
-      "link": "https://www.prensalibre.com/internacional/tiroteo-en-bronx-deja-dos-heridos-entre-ellos-una-nina-de-12-anos-esto-revelo-la-policia/",
-      "fecha": "Tue, 13 Oct 2026 18:35:06 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las autoridades de Nueva York informaron sobre un tiroteo en un parque del Bronx ocurrido el pasado 12 de octubre y que dejó dos personas heridas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Depresión tropical 21-E: Insivumeh explica a qué distancia se encuentra de Guatemala y si podría tener efectos en el país",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/depresion-tropical-21-e-insivumeh-explica-a-que-distancia-se-encuentra-de-guatemala-y-si-podria-tener-efectos-en-el-pais-breaking/",
-      "fecha": "Tue, 13 Oct 2026 18:31:03 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El sistema de baja presión se fortaleció hasta convertirse en la depresión tropical 21-E y podría intensificarse a tormenta tropical Trudy en las próximas horas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Para transformar recuerdos en fragancias",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/para-transformar-recuerdos-en-fragancias/",
-      "fecha": "Tue, 13 Oct 2026 18:06:12 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Maison Margiela, la casa de alta costura fundada en París en 1988, llega a Guatemala de la mano de Fetiche, con su emblemática colección de fragancias REPLICA, una propuesta que invita a revivir lugares, momentos y emociones a través del aroma."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Identifican a víctima del accidente en una montaña rusa de Six Flags en Georgia y testigos hablan de lo ocurrido",
-      "link": "https://www.prensalibre.com/internacional/identifican-a-victima-del-accidente-en-una-montana-rusa-de-six-flags-en-georgia-y-testigos-hablan-de-lo-ocurrido/",
-      "fecha": "Tue, 13 Oct 2026 17:55:17 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las autoridades de EE. UU. revelaron la identidad el hombre que falleció en una montaña rusa en el parque Six Flags, en Georgia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En vivo &#124; Galatasaray vs. Barcelona: sigue el minuto a minuto de la jornada 2 de la Champions League",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-galatasaray-vs-barcelona-sigue-el-minuto-a-minuto-de-la-jornada-2-de-la-champions-league/",
-      "fecha": "Tue, 13 Oct 2026 17:42:03 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Barcelona visita esta tarde al Galatasaray en Estambul con el objetivo de mantener su paso perfecto de la temporada y sumar su segunda victoria en la Champions League."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala sub- 16 vs. Costa Rica: en vivo el partido por el tercer lugar del Torneo Uncaf",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-sub-16-vs-costa-rica-hora-y-donde-ver-en-vivo-el-partido-por-el-tercer-lugar-del-torneo-uncaf/",
-      "fecha": "Tue, 13 Oct 2026 17:30:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Tras quedarse a las puertas de la final, Guatemala intentará subir al podio este martes cuando enfrente a Costa Rica en el duelo por el tercer lugar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Selma Blair comparece ante la justicia tras incidente en un avión; su defensa alega falta de medicación y agotamiento extremo",
-      "link": "https://www.prensalibre.com/vida/escenario/selma-blair-comparece-ante-la-justicia-tras-incidente-en-un-avion-su-defensa-alega-falta-de-medicacion-y-agotamiento-extremo/",
-      "fecha": "Tue, 13 Oct 2026 16:52:30 +0000",
-      "categoria": "Escenario",
-      "resumen": "Tras protagonizar un altercado durante un vuelo, la actriz Selma Blair compareció ante un tribunal para esclarecer el incidente y las denuncias de agresión contra miembros de la tripulación y personal médico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala vs. Canadá: Fedefut confirma la fecha de venta de boletos y anuncia un cambio en los precios",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-fedefut-confirma-la-fecha-de-venta-de-boletos-y-anuncia-un-cambio-en-los-precios/",
-      "fecha": "Tue, 13 Oct 2026 16:45:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Fedefut confirmó la fecha de venta de entradas para el encuentro entre Guatemala y Canadá, además de anticipar una reducción en los precios de varias localidades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jonathan Menkos obtiene nuevo permiso del Congreso para ausentarse y regresar al Ministerio de Finanzas",
-      "link": "https://www.prensalibre.com/guatemala/politica/jonathan-menkos-solicitara-nuevo-permiso-al-congreso-para-regresar-al-ministerio-de-finanzas-breaking/",
-      "fecha": "Tue, 13 Oct 2026 16:37:48 +0000",
-      "categoria": "Política",
-      "resumen": "Jonathan Menkos llegó al Congreso de la República este 13 de octubre donde solicitó y le fue otorgada una nueva licencia para regresar al Ministerio de Finanzas Públicas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Ley de nietos&#8221;: por qué el Tribunal Supremo de España suspendió el derecho a votar de miles de ciudadanos naturalizados",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ley-de-nietos-por-que-el-tribunal-supremo-de-espana-suspendio-el-derecho-a-votar-de-miles-de-ciudadanos-naturalizados-2/",
-      "fecha": "Tue, 13 Oct 2026 16:20:11 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La decisión paraliza la inscripción en el padrón electoral y obliga a los afectados a demostrar que son descendientes de españoles exiliados para poder ejercer su derecho al sufragio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "AeroMetro: cuáles son los cuatro tipos de torres que tendrá la Línea 1 y por qué sus diseños son diferentes",
-      "link": "https://www.prensalibre.com/economia/aerometro-cuales-son-los-cuatro-tipos-de-torres-que-tendra-la-linea-1-y-por-que-sus-disenos-son-diferentes/",
-      "fecha": "Tue, 13 Oct 2026 16:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Simétricas, excéntricas e inclinadas son algunas de las categorías de las torres del AeroMetro. Sus diseños responden a las condiciones del recorrido y al espacio disponible para instalar las estructuras."
     },
     {
       "fuente": "Guatemala.com",
