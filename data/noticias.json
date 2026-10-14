@@ -1,10 +1,210 @@
 {
-  "actualizado": "2026-10-14T13:29:54.406Z",
+  "actualizado": "2026-10-14T18:25:18.414Z",
   "total": 109,
   "noticias": [
     {
+      "fuente": "Guatemala.com",
+      "titulo": "Asueto del 20 de octubre 2026: Bancos cerrarán por el Día de la Revolución",
+      "link": "https://www.guatemala.com/noticias/comunidad/sib-anuncia-cierre-bancos-guatemala-dia-de-la-revolucion-2026.html",
+      "fecha": "Wed, 14 Oct 2026 18:17:42 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Bancos e instituciones financieras cerrarán el martes 20 de octubre por el asueto del Día de la Revolución en Guatemala. \nThe post Asueto del 20 de octubre 2026: Bancos cerrarán por el Día de la Revolución appeared first on Guatemala.com."
+    },
+    {
       "fuente": "Prensa Libre",
-      "titulo": "Comuna de Mixco informa sobre los trabajos en hundimiento del km 16 de la ruta Interamericana",
+      "titulo": "¿Qué película habría anticipado la enfermedad del papa León XIV?: de qué trata, cuál es la coincidencia y cómo está de salud",
+      "link": "https://www.prensalibre.com/vida/escenario/que-pelicula-habria-anticipado-la-enfermedad-del-papa-leon-xiv-de-que-trata-cual-es-la-coincidencia-y-como-esta-de-salud/",
+      "fecha": "Wed, 14 Oct 2026 18:09:08 +0000",
+      "categoria": "Escenario",
+      "resumen": "Una película de terror ha llamado la atención en las redes sociales debido a una supuesta coincidencia entre el nombre y la enfermedad de uno de sus personajes y los del papa León XIV."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Jugará Vinícius el Clásico ? Esta es la sanción que recibió el brasileño tras su expulsión",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/jugara-vinicius-el-clasico-esta-es-la-sancion-que-recibio-el-brasileno-tras-su-expulsion/",
+      "fecha": "Wed, 14 Oct 2026 18:04:18 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Real Madrid afrontará una etapa clave de la temporada sin uno de sus jugadores más desequilibrantes, en una seguidilla de partidos de alta exigencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿IA o realidad? Valderrama sorprende al aparecer sin su melena en una grabación que genera dudas",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/ia-o-realidad-valderrama-sorprende-al-aparecer-sin-su-melena-en-una-grabacion-que-genera-dudas/",
+      "fecha": "Wed, 14 Oct 2026 18:01:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Los seguidores de Carlos Valderrama, conocido como el Pibe, especularon en redes sociales con que podría tratarse de un video elaborado con inteligencia artificial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En vivo &#124; Roma vs. Real Madrid, sigue el minuto a minuto del encuentro por la segunda fecha de la Champions",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-roma-vs-real-madrid-sigue-el-minuto-a-minuto-del-encuentro-por-la-segunda-fecha-de-la-champions/",
+      "fecha": "Wed, 14 Oct 2026 18:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Con la misión de despejar dudas sobre su funcionamiento, el Real Madrid visita a la Roma en la segunda jornada de la Champions League."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gerente de medios de pago de un banco muere en incidente armado en la zona 4",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/gerente-de-medios-de-pago-de-un-banco-muere-en-incidente-armado-en-la-zona-4-breaking/",
+      "fecha": "Wed, 14 Oct 2026 17:54:17 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Gerente de medios de pago de un banco muere durante un ataque armado en la vía pública, en la zona 4 de la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué le pasó a Laura Bozzo?: reportan que fue hospitalizada de emergencia por complicaciones intestinales",
+      "link": "https://www.prensalibre.com/vida/escenario/que-le-paso-a-laura-bozzo-reportan-que-fue-hospitalizada-de-emergencia-por-complicaciones-intestinales/",
+      "fecha": "Wed, 14 Oct 2026 17:18:47 +0000",
+      "categoria": "Escenario",
+      "resumen": "La conductora Laura Bozzo, conocida por sus programas de televisión, fue hospitalizada de emergencia debido a complicaciones intestinales. Esto se sabe sobre su salud."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo una reducción de velocidad de internet de Starlink afecta a la defensa de Ucrania de los ataques rusos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-una-reduccion-de-velocidad-de-internet-de-starlink-afecta-a-la-defensa-de-ucrania-de-los-ataques-rusos/",
+      "fecha": "Wed, 14 Oct 2026 17:03:56 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El sistema de internet de Elon Musk permite a Kyiv proteger el espacio aéreo ucraniano y guiar eficazmente los drones hacia objetivos rusos."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Bam anuncia su nueva alianza con PayPal en la innovación de pagos digitales y retiros a cuentas locales",
+      "link": "https://www.guatemala.com/noticias/tecnologia/bam-anuncio-alianza-paypal-retirar-fondos-forma-inmediata-guatemala.html",
+      "fecha": "Wed, 14 Oct 2026 16:55:13 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Nueva alianza de Bam con PayPal permitirá a los guatemaltecos retirar fondos de forma directa e inmediata desde la plataforma hacia cuentas bancarias.\nThe post Bam anuncia su nueva alianza con PayPal en la innovación de pagos digitales y retiros a cuentas locales appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo avanzarán la tormenta tropical Trudy y el huracán Simón en el Pacífico durante los próximos días",
+      "link": "https://www.prensalibre.com/internacional/como-avanzaran-la-tormenta-tropical-trudy-y-el-huracan-simon-en-el-pacifico-durante-los-proximos-dias/",
+      "fecha": "Wed, 14 Oct 2026 16:36:47 +0000",
+      "categoria": "Internacional",
+      "resumen": "El NHC detalló la trayectoria del huracán Simón y la tormenta tropical Trudy en el Pacífico durante los próximos días y el fin de semana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué la madre de Kylian Mbappé fue interrogada por la justicia francesa?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/por-que-la-madre-de-kylian-mbappe-fue-interrogada-por-la-justicia-francesa/",
+      "fecha": "Wed, 14 Oct 2026 16:30:35 +0000",
+      "categoria": "Deportes",
+      "resumen": "La justicia francesa interrogó a Fayza Lamari, madre de Kylian Mbappé, en un caso que también alcanzó al atacante de la selección de Francia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC revela los antecedentes delictivos del cómplice de presunto delincuente abatido en la zona 11",
+      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-revela-los-antecedentes-delictivos-del-complice-de-presunto-delincuente-abatido-en-la-zona-11-breaking/",
+      "fecha": "Wed, 14 Oct 2026 16:22:34 +0000",
+      "categoria": "Justicia",
+      "resumen": "La Policía Nacional Civil (PNC) detalló cuántas veces ha sido capturado y por qué delitos el presunto cómplice del hombre abatido en la zona 11, señalado de haber secuestrado a un piloto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lucía Mercedes concluirá su gira centroamericana con el espectáculo &#8220;Millennial sin compromiso&#8221;",
+      "link": "https://www.prensalibre.com/vida/escenario/lucia-mercedes-concluira-su-gira-centroamericana-con-el-espectaculo-millennial-sin-compromiso/",
+      "fecha": "Wed, 14 Oct 2026 16:15:52 +0000",
+      "categoria": "Escenario",
+      "resumen": "La comediante guatemalteca Lucía Mercedes presentará el último capítulo de una exitosa gira con la que recorrió Centroamérica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El impresionante hallazgo del naufragio más antiguo del mundo frente a las costas de Turquía",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-impresionante-hallazgo-del-naufragio-mas-antiguo-del-mundo-frente-a-las-costas-de-turquia/",
+      "fecha": "Wed, 14 Oct 2026 16:05:26 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los arqueólogos creen que los restos del naufragio tienen hasta 4.700 años de antigüedad, remontándose a la Edad del Bronce Temprana."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Libro guatemalteco destaca con medalla en premiación de libros en Estados Unidos",
+      "link": "https://www.guatemala.com/noticias/cultura/libro-guatemalteca-vera-bolanos-destaca-international-latino-book-awards-2026.html",
+      "fecha": "Wed, 14 Oct 2026 16:01:26 +0000",
+      "categoria": "Cultura",
+      "resumen": "Libro «Aventuras con animales en Tikal» de Vera Bolaños, Désirée Iturbide y Edna Coyoy fue reconocido en los International Latino Book Awards 2026.\nThe post Libro guatemalteco destaca con medalla en premiación de libros en Estados Unidos appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De las lluvias a una sequía más severa: cómo impactará el fenómeno de El Niño a Guatemala a inicios del 2027",
+      "link": "https://www.prensalibre.com/guatemala/de-las-lluvias-a-una-sequia-mas-severa-como-impactara-el-fenomeno-de-el-nino-a-guatemala-a-inicios-del-2027/",
+      "fecha": "Wed, 14 Oct 2026 16:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "En este reporte le explicamos cuáles serán las condiciones de lluvias y calor a finales del 2026, y en qué momento el país alcanzará su punto más crítico hacia principios del 2027, según las proyecciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué es el impuesto del ICE? El impacto de las redadas en los empleos, los precios y la vivienda",
+      "link": "https://www.prensalibre.com/internacional/que-es-el-impuesto-del-ice-el-impacto-de-las-redadas-en-los-empleos-los-precios-y-la-vivienda/",
+      "fecha": "Wed, 14 Oct 2026 15:27:29 +0000",
+      "categoria": "Internacional",
+      "resumen": "La campaña de detenciones y deportaciones de Donald Trump provocó un alza de precios en bienes y servicios debido al “impuesto del ICE”."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga Nacional: conoce los horarios de la jornada 14, marcada por un triple empate en el primer lugar",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-conoce-los-horarios-de-la-jornada-14-marcada-por-un-triple-empate-en-el-primer-lugar/",
+      "fecha": "Wed, 14 Oct 2026 15:15:26 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Liga Nacional de Guatemala vivirá una intensa fecha entre semana, con seis encuentros que podrían provocar cambios importantes en la parte alta y baja de la clasificación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asalto a joyería de la zona 1: MP investiga robo captado en video",
+      "link": "https://www.prensalibre.com/guatemala/justicia/asalto-a-joyeria-de-la-zona-1-mp-investiga-robo-captado-en-video-breaking/",
+      "fecha": "Wed, 14 Oct 2026 15:10:32 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Ministerio Público (MP) ya investiga el asalto a una joyería en la zona 1 de la capital, hecho que quedó grabado en video."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Ramón Ayala sufrió un accidente? Reportan que el “Rey del Acordeón” fue hospitalizado tras su concierto de despedida en México",
+      "link": "https://www.prensalibre.com/vida/escenario/ramon-ayala-sufrio-un-accidente-reportan-que-el-rey-del-acordeon-fue-hospitalizado-despues-de-su-concierto-en-la-plaza-de-toros-de-mexico/",
+      "fecha": "Wed, 14 Oct 2026 15:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Días después de un concierto que dejó al público confundido, surgen reportes de que Ramón Ayala habría sufrido un accidente por el cual habría sido hospitalizado. Esto se conoce de la situación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Puentes señalados en riesgo: dos tienen obras previstas hasta el 2027 y dos siguen sin intervención asegurada",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/puentes-senalados-en-riesgo-dos-tienen-obras-previstas-hasta-el-2027-y-dos-siguen-sin-intervencion-asegurada/",
+      "fecha": "Wed, 14 Oct 2026 14:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Dos de los cuatro puentes analizados tienen obras previstas hasta el 2027, mientras que Samalá y El Jobo siguen sin una intervención estructural asegurada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guillermina Herrera Peña destaca el valor de la diversidad para el futuro de Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/guillermina-herrera-pena-cuando-los-guatemaltecos-nos-reconciliemos-con-nuestra-diversidad-y-comencemos-a-verla-como-algo-positivo-habremos-avanzado/",
+      "fecha": "Wed, 14 Oct 2026 14:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La académica, autora, docente e investigadora recibió el doctorado honoris causa en Humanidades por la Universidad Rafael Landívar, casa de estudios de la que fue rectora entre 2004 y 2009."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. solicita la extradición de un hombre capturado en Guatemala por diez delitos sexuales",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ee-uu-solicita-la-extradicion-de-un-hombre-capturado-en-guatemala-por-diez-delitos-sexuales-breaking/",
+      "fecha": "Wed, 14 Oct 2026 13:56:38 +0000",
+      "categoria": "Justicia",
+      "resumen": "En la aldea El Fiscal, Palencia, la Policía Nacional Civil (PNC) capturó a un hombre requerido en extradición por presuntos delitos sexuales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién queda a cargo del Vaticano y cómo funciona la Iglesia católica mientras el papa León XIV se recupera de una cirugía pulmonar",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-queda-a-cargo-del-vaticano-y-como-funciona-la-iglesia-catolica-mientras-el-papa-leon-xiv-se-recupera-de-una-cirugia-pulmonar/",
+      "fecha": "Wed, 14 Oct 2026 13:50:27 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El interrogante resurgió tras el diagnóstico de cáncer de pulmón que recibió el papa León XIV este martes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Matthew Richardson, el medallista olímpico apartado de la selección británica?",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/quien-es-matthew-richardson-el-medallista-olimpico-apartado-de-la-seleccion-britanica/",
+      "fecha": "Wed, 14 Oct 2026 13:31:50 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "El ciclista británico Matthew Richardson fue apartado de la selección de Gran Bretaña y se perderá el Mundial de ciclismo en pista de Shanghá."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hundimiento en la Interamericana: qué trabajos se realizaron en el km 16 y cómo quedó el paso vehicular",
       "link": "https://www.prensalibre.com/guatemala/comunitario/comuna-de-mixco-informa-sobre-los-trabajos-en-hundimiento-del-km-16-de-la-ruta-interamericana-breaking/",
       "fecha": "Wed, 14 Oct 2026 13:08:36 +0000",
       "categoria": "Comunitario",
@@ -380,6 +580,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Un muerto y varios heridos tras un accidente en una montaña rusa de un parque Six Flags en EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-muerto-y-varios-heridos-tras-un-accidente-en-una-montana-rusa-de-un-parque-six-flags-en-ee-uu-2/",
+      "fecha": "Tue, 13 Oct 2026 22:09:01 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La montaña rusa se quedó atascasda y los pasajeros tuvieron que recibir apoyo para bajarse, según mostraron imágenes captadas desde un helicóptero."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Qué significa el llamado de Marco Rubio a Bukele para proteger a El Salvador de “influencias extranjeras malignas”",
       "link": "https://www.prensalibre.com/internacional/que-significa-el-llamado-de-marco-rubio-a-bukele-para-proteger-a-el-salvador-de-influencias-extranjeras-malignas/",
       "fecha": "Tue, 13 Oct 2026 21:55:26 +0000",
@@ -619,196 +827,12 @@
       "resumen": "Simétricas, excéntricas e inclinadas son algunas de las categorías de las torres del AeroMetro. Sus diseños responden a las condiciones del recorrido y al espacio disponible para instalar las estructuras."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO Bloqueos en Guatemala: Provial confirma que los 15 puntos afectados por salubristas están habilitados este 13 de octubre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/bloqueos-en-vivo-en-guatemala-salubristas-bloquean-rutas-y-tramos-en-la-capital-este-13-de-octubre-breaking/",
-      "fecha": "Tue, 13 Oct 2026 15:46:43 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Finalizan los bloqueos de salubristas que exigían mejoras laborales en distintas carreteras del país y en la capital. Según Provial, el tránsito quedó restablecido en los 15 puntos afectados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué es la parálisis cerebral, la discapacidad con la que vivía el actor RJ Mitte, hijo de Walter White en &#8220;Breaking Bad&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-es-la-paralisis-cerebral-la-discapacidad-con-la-que-vivia-el-actor-rj-mitte-hijo-de-walter-white-en-breaking-bad/",
-      "fecha": "Tue, 13 Oct 2026 15:35:37 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Mitte sufrió daño cerebral al nacer y fue diagnosticado con parálisis cerebral leve a los tres años. En esta nota te contamos qué es."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones en EE. UU: Elon Musk aporta US$276 millones para impulsar al Partido Republicano",
-      "link": "https://www.prensalibre.com/internacional/elecciones-en-ee-uu-elon-musk-aporta-us276-millones-para-impulsar-al-partido-republicano/",
-      "fecha": "Tue, 13 Oct 2026 15:21:27 +0000",
-      "categoria": "Internacional",
-      "resumen": "El aporte de Musk es una de las mayores donaciones políticas de la historia, superior a lo que los demócratas recaudaron de todos sus donantes durante el trimestre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Confirman la causa de muerte de RJ Mitte, actor de Breaking Bad, y sus compañeros envían mensajes de despedida",
-      "link": "https://www.prensalibre.com/vida/escenario/confirman-la-causa-de-muerte-de-rj-mitte-actor-de-breaking-bad-y-sus-companeros-envian-mensajes-de-despedida/",
-      "fecha": "Tue, 13 Oct 2026 15:20:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Recordado por interpretar a Walter White Jr. en la serie Breaking Bad, el actor RJ Mitte murió a los 34 años. Su representante confirmó la causa de muerte y sus compañeros de reparto le dedicaron mensajes de despedida."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Aprueban asueto el 19 de octubre 2026 a empleados del sector público en Guatemala",
       "link": "https://www.guatemala.com/noticias/sociedad/aprueban-asueto-19-octubre-2026-empleados-sector-publico-guatemala.html",
       "fecha": "Tue, 13 Oct 2026 15:09:10 +0000",
       "categoria": "Sociedad",
       "resumen": "Gobierno de Guatemala concedió permiso laboral el 19 de octubre a trabajadores del Estado, en el marco del Día de la Revolución.  \nThe post Aprueban asueto el 19 de octubre 2026 a empleados del sector público en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aerolíneas prevén aumentar hasta 127% sus asientos en Guatemala en 2027",
-      "link": "https://www.prensalibre.com/economia/aerolineas-preven-aumentar-hasta-127-sus-asientos-en-guatemala-en-2027/",
-      "fecha": "Tue, 13 Oct 2026 15:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El tráfico aéreo guatemalteco mantiene su crecimiento y las proyecciones apuntan a más capacidad de transporte, mientras aumentan los vuelos comerciales, privados y de carga."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga Nacional: Comunicaciones reporta dos bajas para las próximas jornadas del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-comunicaciones-reporta-dos-bajas-para-las-proximas-jornadas-del-apertura-2026/",
-      "fecha": "Tue, 13 Oct 2026 14:57:38 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Comunicaciones tendrá que reajustar sus piezas para los siguientes partidos luego de reportar dos nuevas bajas en su plantilla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuántos meses de suspensión podría recibir Cristiano Ronaldo tras dejar la selección de Portugal?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cuantos-meses-de-suspension-podria-recibir-cristiano-ronaldo-tras-dejar-la-seleccion-de-portugal/",
-      "fecha": "Tue, 13 Oct 2026 14:40:45 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Cristiano Ronaldo espera la resolución de la Federación Portuguesa luego de dejar la concentración de la selección por diferencias con Jorge Jesus."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Emergencia en Villa Hermosa: 1 mil 120 viviendas presentan daños o están en riesgo por el río Pinula",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/emergencia-en-villa-hermosa-1-mil-120-viviendas-presentan-danos-o-estan-en-riesgo-por-el-rio-pinula-breaking/",
-      "fecha": "Tue, 13 Oct 2026 14:38:26 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Conred compartió detalles sobre las personas afectadas y los inmuebles dañados o en riesgo por el río Pinula en Villa Hermosa, San Miguel Petapa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; El Vaticano confirma que operación de nódulo en el pulmón del papa León XIV concluyó con éxito",
-      "link": "https://www.prensalibre.com/internacional/en-vivo-papa-leon-xiv-ingresa-al-hospital-gemelli-de-roma-donde-sera-operado-para-extirparle-un-nodulo-en-un-pulmon-breaking/",
-      "fecha": "Tue, 13 Oct 2026 14:09:51 +0000",
-      "categoria": "Internacional",
-      "resumen": "El papa León XIV llegó este 13 de octubre al hospital Gemelli de Roma para someterse a una operación en la que le extirparán un nódulo detectado en un pulmón."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nuevo contralor ofrece imparcialidad con finiquitos y buscará duplicar auditores",
-      "link": "https://www.prensalibre.com/guatemala/politica/nuevo-contralor-ofrece-imparcialidad-con-finiquitos-y-buscara-duplicar-auditores/",
-      "fecha": "Tue, 13 Oct 2026 14:01:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Elfego Castañón comienza hoy como contralor luego de recibir el apoyo casi unánime del Congreso, que asegura, fue posible \"sin comprometer a la CGC\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ejecutivo concede permiso laboral a servidores públicos el lunes 19 de octubre por el Día de la Revolución",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/ejecutivo-concede-permiso-laboral-a-servidores-publicos-el-lunes-19-de-octubre-por-el-dia-de-la-revolucion-breaking/",
-      "fecha": "Tue, 13 Oct 2026 13:48:17 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Autorizan permiso laboral con goce de salario a servidores públicos el 19 de octubre por el Día de la Revolución en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Héctor Morales: la historia del goleador de Aurora en el Apertura cuyo hijo le predice los goles",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/hector-morales-la-historia-del-goleador-de-aurora-en-el-apertura-cuyo-hijo-le-predice-los-goles/",
-      "fecha": "Tue, 13 Oct 2026 13:30:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El delantero guatemalteco encabeza la ofensiva del conjunto aurinegro en el Torneo Apertura 2026. Con seis anotaciones en 467 minutos, el atacante atraviesa uno de los mejores momentos de su carrera y sueña con conquistar el título de goleo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hundimiento en el km 16 de la ruta Interamericana afecta el paso vehicular en uno de los carriles",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/hundimiento-en-el-km-16-de-la-ruta-interamericana-afecta-el-paso-vehicular-en-uno-de-los-carriles-breaking/",
-      "fecha": "Tue, 13 Oct 2026 13:14:06 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Policía Municipal de Tránsito (PMT) de Mixco cierra un carril en el kilómetro 16 de la ruta Interamericana debido a un hundimiento en el asfalto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Te echaré de menos, hijo&#8221;: el mensaje de Bryan Cranston tras la muerte de RJ Mitte, su compañero de elenco en &#8220;Breaking Bad&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/te-echare-de-menos-hijo-el-mensaje-de-bryan-cranston-tras-la-muerte-de-rj-mitte-su-companero-de-elenco-en-breaking-bad/",
-      "fecha": "Tue, 13 Oct 2026 12:37:43 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Mitte, que padecía parálisis cerebral, interpretó a Walter White Jr. en la serie dramática ganadora del premio Emmy."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala: la historia de las metas volantes y sus grandes protagonistas",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-la-historia-de-las-metas-volantes-y-sus-grandes-protagonistas/",
-      "fecha": "Tue, 13 Oct 2026 12:30:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "A 10 días del arranque de la edición 65, Colombia lidera el registro histórico de esta especialidad, en la que dos ciclistas comparten el récord de cuatro títulos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvia intensa sobre suelos saturados: dónde han golpeado los aguaceros de octubre de 2026",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvia-intensa-sobre-suelos-saturados-donde-han-golpeado-los-aguaceros-de-octubre-de-2026/",
-      "fecha": "Tue, 13 Oct 2026 12:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "San Agustín Acasaguastlán, El Progreso, registró 84.8 mm en un día y Cahabón, Alta Verapaz, superó 200 mm en dos semanas; Conred contabiliza 21 muertos en la temporada lluviosa hasta el 12 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "30 premios en 125 años: por qué menos del 4% de los Nobel de ciencia han sido para mujeres",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/30-premios-en-125-anos-por-que-menos-del-4-de-los-nobel-de-ciencia-han-sido-para-mujeres/",
-      "fecha": "Tue, 13 Oct 2026 11:22:33 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Expertas aseguran que la estadística es preocupante, pero llaman a ampliar el debate y centrarse en las barreras previas que enfrentan las mujeres en sus trayectorias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Iniciativa busca endurecer requisitos y evaluación de aspirantes en comisiones de postulación",
-      "link": "https://www.prensalibre.com/guatemala/politica/iniciativa-busca-endurecer-requisitos-y-evaluacion-de-aspirantes-en-comisiones-de-postulacion/",
-      "fecha": "Tue, 13 Oct 2026 09:01:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Concluidas las elecciones de segundo grado, diputados oficialistas buscan abrir la discusión sobre el funcionamiento de las comisiones de postulación mediante nuevos requisitos para sus integrantes, cambios en la calificación de candidatos y medidas contra los conflictos de interés."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un muerto y varios heridos tras un accidente en una montaña rusa de un parque Six Flags en EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-muerto-y-varios-heridos-tras-un-accidente-en-una-montana-rusa-de-un-parque-six-flags-en-ee-uu/",
-      "fecha": "Tue, 13 Oct 2026 08:44:53 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La montaña rusa se quedó atascasda y los pasajeros tuvieron que recibir apoyo para bajarse."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Celebran 60 años juntos dando una mirada al futuro",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/celebran-60-anos-juntos-dando-una-mirada-al-futuro/",
-      "fecha": "Tue, 13 Oct 2026 06:19:17 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Universidad del Valle de Guatemala (UVG) y Bantrab abrieron el espacio de diálogo “Los próximos 60 años: ideas que transforman”, con el propósito de explorar cómo la inteligencia artificial está transformando la manera de aprender, trabajar y tomar decisiones en pro del desarrollo del país; esto en el marco de la celebración de los 60 años de ambas instituciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sequía: Maga pide Q145.7 millones para riego pese a baja ejecución y descarta fertilizantes para 2027",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/sequia-maga-pide-q145-7-millones-para-riego-pese-a-baja-ejecucion-y-descarta-fertilizantes-para-2027/",
-      "fecha": "Tue, 13 Oct 2026 06:12:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La ejecución del presupuesto destinado para apoyo de riego es baja, pese a ello,  para el próximo año el Maga  tendrá Q145.7 millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Del Banguat al Congreso: Menkos regresa entre señalamientos y negociaciones por el presupuesto 2027",
-      "link": "https://www.prensalibre.com/economia/del-banguat-al-congreso-menkos-regresa-entre-senalamientos-y-negociaciones-por-el-presupuesto-2027/",
-      "fecha": "Tue, 13 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El exministro de Finanzas retomará su curul este 13 de octubre. Analistas prevén que podría tener un papel relevante en la discusión presupuestaria, mientras el diputado Allan Rodríguez señala posibles delitos durante su gestión en el Banguat."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El anzuelo",
-      "link": "https://www.prensalibre.com/opinion/caricatura/el-anzuelo/",
-      "fecha": "Tue, 13 Oct 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
     },
     {
       "fuente": "Guatemala.com",
@@ -849,30 +873,6 @@
       "fecha": "Fri, 09 Oct 2026 19:11:29 +0000",
       "categoria": "Sociedad",
       "resumen": "Descubre las características de la totalmente nueva MAZDA CX-5 , modelo de SUV ya disponibles en el mercado guatemalteco.\nThe post La totalmente nueva MAZDA CX-5 ya está disponible en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Guatemala ingresa al top 15 de trajes nacionales de Miss Grand International 2026",
-      "link": "https://www.guatemala.com/noticias/sociedad/ximena-carrillo-logro-top-15-trajes-nacionales-miss-grand-international-2026.html",
-      "fecha": "Fri, 09 Oct 2026 19:10:47 +0000",
-      "categoria": "Sociedad",
-      "resumen": "El traje nacional de Ximena Carrillo se encuentra en el top 15 de Miss Grand International. Te contamos cómo y dónde votar por la guatemalteca.\nThe post Guatemala ingresa al top 15 de trajes nacionales de Miss Grand International 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "«Palacio», la nueva serie de Netflix dirigida por Jayro Bustamante",
-      "link": "https://www.guatemala.com/noticias/entretenimiento/jayro-bustamante-dirige-una-serie-para-netflix.html",
-      "fecha": "Fri, 09 Oct 2026 17:15:21 +0000",
-      "categoria": "Entretenimiento",
-      "resumen": "Jayro Bustamante dirige «Palacio», serie de Netflix que presenta los hechos de la Toma del Palacio de Justicia de Bogotá. Esta es su fecha de estreno.\nThe post «Palacio», la nueva serie de Netflix dirigida por Jayro Bustamante appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Papa León XIV recibió un lienzo pintado por niños guatemaltecos",
-      "link": "https://www.guatemala.com/noticias/entretenimiento/papa-leon-xiv-recibio-un-lienzo-pintado-por-ninos-guatemaltecos.html",
-      "fecha": "Fri, 09 Oct 2026 16:18:36 +0000",
-      "categoria": "Entretenimiento",
-      "resumen": "El Papa León XIV recibió un lienzo pintado por 30 niños guatemaltecos que compartieron, mediante el arte, su deseo de construir un futuro de paz.\nThe post Papa León XIV recibió un lienzo pintado por niños guatemaltecos appeared first on Guatemala.com."
     }
   ]
 }
