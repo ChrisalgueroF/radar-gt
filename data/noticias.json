@@ -1,7 +1,127 @@
 {
-  "actualizado": "2026-10-14T22:08:45.126Z",
+  "actualizado": "2026-10-15T01:19:11.126Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Precios de combustibles en Guatemala suben entre el 12 y 15 de octubre: ¿qué se prevé para los próximos días?",
+      "link": "https://www.prensalibre.com/economia/precios-de-combustibles-en-guatemala-suben-entre-el-12-y-15-de-octubre-que-se-preve-para-los-proximos-dias/",
+      "fecha": "Thu, 15 Oct 2026 01:13:54 +0000",
+      "categoria": "Economía",
+      "resumen": "Los precios de la gasolina y el diésel vuelven a subir en Guatemala, aunque se mantienen cerca de los valores estimados por el Gobierno al aplicar la exención de impuestos el 1 de octubre. ¿Qué está provocando los incrementos y qué se puede anticipar sobre los precios de los combustibles en los próximos días?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué el MP puede tardar horas en llegar a una escena del crimen?",
+      "link": "https://www.prensalibre.com/guatemala/justicia/por-que-el-mp-puede-tardar-horas-en-llegar-a-una-escena-del-crimen/",
+      "fecha": "Thu, 15 Oct 2026 00:37:19 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Ministerio Público expuso las limitaciones para atender escenas del crimen durante la presentación de su proyecto de presupuesto para el 2027, que asciende a Q5 mil 481 millones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿El país más seguro del mundo? Por qué Nayib Bukele dice que El Salvador va por ese camino",
+      "link": "https://www.prensalibre.com/internacional/el-pais-mas-seguro-del-mundo-por-que-nayib-bukele-dice-que-el-salvador-va-por-ese-camino/",
+      "fecha": "Thu, 15 Oct 2026 00:02:26 +0000",
+      "categoria": "Internacional",
+      "resumen": "Nayib Bukele afirma que El Salvador avanza hacia ser el país más seguro del mundo, pero las cifras de homicidios y el régimen de excepción generan debate."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Acusan al ICE de atropellar intencionalmente a un migrante en Texas: el video que muestra lo ocurrido",
+      "link": "https://www.prensalibre.com/internacional/acusan-al-ice-de-atropellar-intencionalmente-a-un-migrante-en-texas-el-video-que-muestra-lo-ocurrido/",
+      "fecha": "Wed, 14 Oct 2026 23:59:21 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un video tomado por una cámara de seguridad muestra cómo una supuesta camioneta del ICE atropella intencionalmente a un migrante mexicano."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De presunto asaltante a víctima de golpiza: vecinos de la zona 19 vapulean a hombre vinculado con la Mara 18",
+      "link": "https://www.prensalibre.com/guatemala/justicia/de-presunto-asaltante-a-victima-de-golpiza-vecinos-de-la-zona-19-vapulean-a-hombre-vinculado-con-la-mara-18-breaking/",
+      "fecha": "Wed, 14 Oct 2026 23:54:23 +0000",
+      "categoria": "Justicia",
+      "resumen": "Vecinos de la colonia La Florida vapulearon a un presunto pandillero al que sorprendieron cuando supuestamente robaba a peatones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué son las ondas Kelvin detrás del oleaje destructivo que está afectando a las costas de México y el sur de California",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-son-las-ondas-kelvin-detras-del-oleaje-destructivo-que-esta-afectando-a-las-costas-de-mexico-y-el-sur-de-california/",
+      "fecha": "Wed, 14 Oct 2026 23:52:25 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Desde las exclusivas residencias frente a la playa en el sur de California hasta los populares hoteles y restaurantes a lo largo de la costa del Pacífico en México, el fuerte oleaje de las últimas semanas está causando graves destrozos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Guastatoya vs. Antigua: siga el minuto a minuto del encuentro por la fecha 14",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guastatoya-vs-antigua-siga-el-minuto-a-minuto-del-encuentro-por-la-fecha-14/",
+      "fecha": "Wed, 14 Oct 2026 23:50:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Con la posibilidad de asumir el liderato de manera momentánea, Guastatoya y Antigua GFC medirán fuerzas en un compromiso de alto impacto correspondiente a la jornada 14."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Don Omar vendrá a Guatemala: ¿Qué dijo y qué se reservó acerca de su gira?",
+      "link": "https://www.prensalibre.com/vida/escenario/don-omar-vendra-a-guatemala-que-dijo-y-que-se-reservo-acerca-de-su-gira/",
+      "fecha": "Wed, 14 Oct 2026 23:22:20 +0000",
+      "categoria": "Escenario",
+      "resumen": "El cantante, compositor y productor puertorriqueño anunció la llegada de su The Last King World Tour al país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Día de la Revolución en Guatemala 2026: por qué se celebra, cuántos años se cumplen y qué pasará con el asueto",
+      "link": "https://www.prensalibre.com/vida/escenario/dia-de-la-revolucion-en-guatemala-2026-por-que-se-celebra-cuantos-anos-se-cumplen-y-que-pasara-con-el-asueto/",
+      "fecha": "Wed, 14 Oct 2026 23:09:26 +0000",
+      "categoria": "Escenario",
+      "resumen": "Uno de los movimientos civiles más trascendentales de la historia política y social será conmemorado en Guatemala con actividades culturales y marchas. Conozca por qué se celebra el Día de la Revolución."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mensajes criminales detrás de cadáveres abandonados: autoridades investigan 137 casos en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mensajes-criminales-detras-de-cadaveres-abandonados-autoridades-investigan-137-casos-en-guatemala/",
+      "fecha": "Wed, 14 Oct 2026 23:09:17 +0000",
+      "categoria": "Justicia",
+      "resumen": "El MP reporta 137 hallazgos de cadáveres abandonados en bolsas plásticas, sábanas y costales durante el 2026, frente a los 39 casos registrados por la PNC en el 2025."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MEM lanza licitación para el cierre técnico del campo petrolero Xan, en Petén",
+      "link": "https://www.prensalibre.com/economia/mem-lanza-licitacion-para-el-cierre-tecnico-del-campo-petrolero-xan-en-peten/",
+      "fecha": "Wed, 14 Oct 2026 23:04:41 +0000",
+      "categoria": "Economía",
+      "resumen": "A 14 meses del vencimiento del contrato 2-85, mediante el cual una empresa privada operaba el campo petrolero Xan, el Ministerio de Energía y Minas (MEM) lanzó una licitación pública para contratar a la compañía que tendrá a su cargo el cierre técnico y desmantelamiento de las instalaciones, ubicadas en San Andrés, Petén."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Identifican al joven que murió tras ser atacado por un tigre en un parque zoológico de Inglaterra",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/identifican-al-joven-que-murio-tras-ser-atacado-por-un-tigre-en-un-parque-zoologico-de-inglaterra-2/",
+      "fecha": "Wed, 14 Oct 2026 22:53:14 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Según la policía, el hombre entró en el recinto de los tigres de la atracción turística."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los médicos del Papa informan que camina y se recupera &#8220;según lo previsto&#8221; tras su cirugía por un cáncer de pulmón",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-medicos-del-papa-informan-que-camina-y-se-recupera-segun-lo-previsto-tras-su-cirugia-por-un-cancer-de-pulmon/",
+      "fecha": "Wed, 14 Oct 2026 22:43:59 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Al pontífice le diagnosticaron un adenocarcinoma tras una operación para extirparle un nódulo en un pulmón."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Champions League: así marcha la tabla de posiciones tras disputarse la jornada 2",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/champions-league-asi-marcha-la-tabla-de-posiciones-tras-disputarse-la-jornada-2/",
+      "fecha": "Wed, 14 Oct 2026 22:10:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Goleadas, remontadas y un festival ofensivo marcaron una vibrante segunda jornada de la Liga de Campeones, que dejó 78 goles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga de Campeones: así fueron los goles del PSG en la victoria contra el Manchester City",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/liga-de-campeones-asi-fueron-los-goles-del-psg-en-la-victoria-contra-el-manchester-city/",
+      "fecha": "Wed, 14 Oct 2026 22:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Con una explosiva primera media hora, el PSG silenció al Etihad Stadium y derrotó al Manchester City en un partido de ida y vuelta."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; Comunicaciones vs. Aurora: siga el minuto a minuto de la jornada 14 del Apertura 2026",
@@ -20,11 +140,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Cómo es el proceso de EE. UU. para solicitar la extradición de una persona",
+      "link": "https://www.prensalibre.com/internacional/como-es-el-proceso-de-ee-uu-para-solicitar-la-extradicion-de-una-persona/",
+      "fecha": "Wed, 14 Oct 2026 21:52:14 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Departamento de Justicia de EE. UU. explica a detalle cómo es el proceso para solicitar la extradición de una persona en un país extranjero."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Expertos internacionales analizan los nuevos riesgos de la banca",
       "link": "https://www.prensalibre.com/economia/vida-empresarial/expertos-internacionales-analizan-los-nuevos-riesgos-de-la-banca/",
       "fecha": "Wed, 14 Oct 2026 21:40:15 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "Inteligencia artificial, ciberseguridad, fraude digital, regulación, resiliencia y nuevas tecnologías formaron parte de la agenda del XI Congreso Latinoamericano de Riesgos - CLAR 2026; organizado por la Asociación Bancaria de Guatemala (ABG), la Escuela Bancaria de Guatemala (EBG) y la Federación Latinoamericana de Bancos (FELABAN); para analizar los principales desafíos que están transformando la banca y el sistema financiero latinoamericano, bajo el enfoque de convertir los riesgos en resiliencia, rentabilidad y nuevas oportunidades de negocio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lo que se sabe del regreso a Guatemala de Ximena Carrillo tras participar en Miss Grand International 2026",
+      "link": "https://www.prensalibre.com/vida/escenario/lo-que-se-sabe-del-regreso-a-guatemala-de-ximena-carrillo-tras-participar-en-miss-grand-international-2026/",
+      "fecha": "Wed, 14 Oct 2026 21:19:38 +0000",
+      "categoria": "Escenario",
+      "resumen": "En sus redes sociales la guatemalteca Ximena Carrillo dio detalles de su regreso al país tras participar en el certamen Grand International 2026."
     },
     {
       "fuente": "Prensa Libre",
@@ -41,6 +177,14 @@
       "fecha": "Wed, 14 Oct 2026 20:51:50 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "El Real Madrid logra una remontada épica en el estadio Olímpico de Roma, y con goles de Mbappé, Espí, Endrick y Rüdiger derrota a la Roma."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "No participaba en la discusión de tránsito, pero terminó muerto: la tragedia de un gerente bancario en la zona 4",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/no-participaba-en-la-discusion-de-transito-pero-termino-muerto-la-tragedia-de-un-gerente-bancario-en-la-zona-4-breaking/",
+      "fecha": "Wed, 14 Oct 2026 20:17:23 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Una discusión de tránsito, un conductor armado y un peatón ajeno al conflicto. Esa combinación terminó con la vida de un gerente bancario, quien recibió dos disparos mientras caminaba por la zona 4 capitalina."
     },
     {
       "fuente": "Prensa Libre",
@@ -253,9 +397,9 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "De las lluvias a una sequía más severa: cómo impactará el fenómeno de El Niño a Guatemala a inicios del 2027",
-      "link": "https://www.prensalibre.com/guatemala/de-las-lluvias-a-una-sequia-mas-severa-como-impactara-el-fenomeno-de-el-nino-a-guatemala-a-inicios-del-2027/",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/de-las-lluvias-a-una-sequia-mas-severa-como-impactara-el-fenomeno-de-el-nino-a-guatemala-a-inicios-del-2027/",
       "fecha": "Wed, 14 Oct 2026 16:00:00 +0000",
-      "categoria": "Guatemala",
+      "categoria": "Comunitario",
       "resumen": "En este reporte le explicamos cuáles serán las condiciones de lluvias y calor a finales del 2026, y en qué momento el país alcanzará su punto más crítico hacia principios del 2027, según las proyecciones."
     },
     {
@@ -675,156 +819,12 @@
       "resumen": "Recorra el Museo del Ferrocarril de noche y descubra los espantos y leyendas de la tradición oral ferroviaria de Guatemala que aterrorizaron a trabajadores y pasajeros."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Aeropuerto del Pacífico en El Salvador: así avanza la construcción anunciada por Bukele en 2025",
-      "link": "https://www.prensalibre.com/internacional/aeropuerto-del-pacifico-en-el-salvador-asi-avanza-la-construccion-anunciada-por-bukele-en-2025/",
-      "fecha": "Tue, 13 Oct 2026 23:07:56 +0000",
-      "categoria": "Internacional",
-      "resumen": "La Comisión Ejecutiva Portuaria Autónoma dio a conocer los avances de la construcción del Aeropuerto del Pacífico en El Salvador, anunciado por Bukele en 2025."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La ley de etiquetado de alimentos se estanca otra vez y EE. UU. advierte sobre los costos",
-      "link": "https://www.prensalibre.com/guatemala/politica/la-ley-de-etiquetado-de-alimentos-se-estanca-otra-vez-y-ee-uu-advierte-sobre-los-costos/",
-      "fecha": "Tue, 13 Oct 2026 22:29:41 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Congreso retiró de su agenda la tercera lectura de la iniciativa 5504, presentada en el 2018. La Embajada de Estados Unidos señaló que el sistema de etiquetado propuesto podría elevar los precios de la canasta básica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las cinco claves para entender la importancia del Parque Arqueológico Tak’alik Ab’aj",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/las-cinco-claves-para-entender-la-importancia-del-parque-arqueologico-takalik-abaj/",
-      "fecha": "Tue, 13 Oct 2026 22:16:57 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Declarado Patrimonio Mundial de la Humanidad en 2023, el parque arqueológico destaca por su diversidad, contexto histórico y valor para la cultura prehispánica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PGN evalúa responsabilidad de los padres de adolescente que despertó durante su funeral en Quiché",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/pgn-evalua-responsabilidad-de-los-padres-de-adolescente-que-desperto-durante-su-funeral-en-quiche-breaking/",
-      "fecha": "Tue, 13 Oct 2026 22:11:23 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La PGN evalúa si hubo negligencia de los padres de una adolescente que, según su familia, despertó durante su velorio en Sacapulas, Quiché, y que ahora está en y hospital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un muerto y varios heridos tras un accidente en una montaña rusa de un parque Six Flags en EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-muerto-y-varios-heridos-tras-un-accidente-en-una-montana-rusa-de-un-parque-six-flags-en-ee-uu-2/",
-      "fecha": "Tue, 13 Oct 2026 22:09:01 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La montaña rusa se quedó atascasda y los pasajeros tuvieron que recibir apoyo para bajarse, según mostraron imágenes captadas desde un helicóptero."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué significa el llamado de Marco Rubio a Bukele para proteger a El Salvador de “influencias extranjeras malignas”",
-      "link": "https://www.prensalibre.com/internacional/que-significa-el-llamado-de-marco-rubio-a-bukele-para-proteger-a-el-salvador-de-influencias-extranjeras-malignas/",
-      "fecha": "Tue, 13 Oct 2026 21:55:26 +0000",
-      "categoria": "Internacional",
-      "resumen": "Marco Rubio pidió a Nayib Bukele proteger las infraestructuras críticas de El Salvador de “influencias extranjeras malignas” y respaldar a EE. UU. en la ONU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso juramenta Jenny Alvarado Tení como presidenta de la CSJ para el 2026-2027",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-juramenta-jenny-alvarado-teni-como-presidenta-de-la-csj-para-el-2026-2027/",
-      "fecha": "Tue, 13 Oct 2026 21:46:13 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Este martes 13 de octubre comenzó la gestión de Alvarado Tení al frente del Poder Judicial, con el principal reto de la independencia ante actores políticos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Es el mejor del mundo&#8221;: Fermín López revela por qué Yamal es clave en sus goles con el Barcelona",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/es-el-mejor-del-mundo-fermin-lopez-revela-por-que-yamal-es-clave-en-sus-goles-con-el-barcelona/",
-      "fecha": "Tue, 13 Oct 2026 21:45:31 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Fermín López reconoció la influencia de Lamine Yamal en el juego ofensivo del Barcelona y lo calificó como \"el mejor del mundo\" tras el triunfo en Turquía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aleks Syntek confirma que es tratado por un &#8220;brote psicótico&#8221;: esto informa su psiquiatra",
-      "link": "https://www.prensalibre.com/vida/escenario/aleks-syntek-confirma-que-es-tratado-por-un-brote-psicotico-esto-informa-su-psiquiatra/",
-      "fecha": "Tue, 13 Oct 2026 21:40:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El artista decidió posponer su gira por Europa para atender su salud mental."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Apple presenta su nueva HomeView: la pantalla inteligente que conecta los hogares con su IA",
-      "link": "https://www.prensalibre.com/vida/tecnologia/apple-presenta-su-nueva-homeview-la-pantalla-inteligente-que-conecta-los-hogares-con-su-ia/",
-      "fecha": "Tue, 13 Oct 2026 21:32:16 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Con un nuevo dispositivo que aprovecha las capacidades de Apple Intelligence y Siri con inteligencia artificial (IA), Apple presentó HomeView, una pantalla inteligente que busca facilitar la gestión del hogar y ofrecer entretenimiento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "The Jackson Five sin Michael Jackson: un documental para la memoria musical",
-      "link": "https://www.prensalibre.com/vida/escenario/the-jackson-five-sin-michael-jackson-un-documental-para-la-memoria-musical/",
-      "fecha": "Tue, 13 Oct 2026 21:31:41 +0000",
-      "categoria": "Escenario",
-      "resumen": "Cuatro hermanos del rey del pop ofrecen su testimonio acerca de lo que significó haber sido integrantes de la agrupación que ganó fama a nivel internacional, cuando aún eran menores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Identifican al joven que murió tras ser atacado por un tigre en un parque zoológico de Inglaterra",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/identifican-al-joven-que-murio-tras-ser-atacado-por-un-tigre-en-un-parque-zoologico-de-inglaterra/",
-      "fecha": "Tue, 13 Oct 2026 21:31:22 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Según la policía, el hombre entró en el recinto de los tigres de la atracción turística."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video: así fueron los goles del Barcelona en la goleada al Galatasaray en la Champions League",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-asi-fueron-los-goles-del-barcelona-en-la-goleada-al-galatasaray-en-la-champions-league/",
-      "fecha": "Tue, 13 Oct 2026 21:15:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Liderado por una brillante actuación de Lamine Yamal, el Barcelona goleó 4-1 al Galatasaray en Estambul y mantuvo su paso perfecto en la Champions League."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Extirpan con éxito al papa León XIV un nódulo del pulmón a semanas de su primer viaje a Sudamérica",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/extirpan-con-exito-al-papa-leon-xiv-un-nodulo-del-pulmon-a-semanas-de-su-primer-viaje-a-sudamerica/",
-      "fecha": "Tue, 13 Oct 2026 21:09:20 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El papa León había dicho que el nódulo está \"contenido\" y se detectó \"en una fase muy temprana\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo es Fitbit Edge, la pulsera que monitorea salud y fitness con IA y batería para siete días",
-      "link": "https://www.prensalibre.com/vida/tecnologia/como-es-fitbit-edge-la-pulsera-que-monitorea-salud-y-fitness-con-ia-y-bateria-para-siete-dias/",
-      "fecha": "Tue, 13 Oct 2026 21:01:00 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Google pone a disposición de sus usuarios un sistema que además de calcular la actividad física, ofrece mediciones preventivas de salud."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Condenan a 40 años de prisión al líder pandillero que orquestó el asesinato del rapero Tupac Shakur hace 30 años",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/condenan-a-40-anos-de-prision-al-lider-pandillero-que-orquesto-el-asesinato-del-rapero-tupac-shakur-hace-30-anos/",
-      "fecha": "Tue, 13 Oct 2026 20:40:25 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Duane \"Keffe D\" Davis deberá pasar cuatro décadas tras las rejas por el crimen que terminó con la vida del rapero en 1996."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Joaquín Orellana presenta La tumba del Gran Lengua por el retorno de Miguel Ángel Asturias a Guatemala: fechas, entradas y de qué trata",
-      "link": "https://www.prensalibre.com/vida/escenario/joaquin-orellana-presenta-la-tumba-del-gran-lengua-por-el-retorno-de-miguel-angel-asturias-a-guatemala-fechas-entradas-y-de-que-trata/",
-      "fecha": "Tue, 13 Oct 2026 19:55:52 +0000",
-      "categoria": "Escenario",
-      "resumen": "En conmemoración del retorno de los restos del premio nobel de literatura Miguel Ángel Asturias, el maestro Joaquín Orellana presenta una cantata escénica. Esto se conoce del evento."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Ron Zacapa celebra su 50 aniversario con libro de colección",
       "link": "https://www.guatemala.com/noticias/cultura/libro-ron-zacapa-celebra-50-anos-de-historia-calidad-maestria-guatemalteca.html",
       "fecha": "Tue, 13 Oct 2026 19:52:03 +0000",
       "categoria": "Cultura",
       "resumen": "Ron Zacapa celebra 50 años de trayectoria con un libro de colección que invita a descubrir su historia e identidad guatemalteca. \nThe post Ron Zacapa celebra su 50 aniversario con libro de colección appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan en la zona 7 a presunto asesino en serie investigado por varios crímenes cometidos en la capital",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-en-la-zona-7-a-presunto-asesino-en-serie-investigado-por-varios-crimenes-cometidos-en-la-capital-breaking/",
-      "fecha": "Tue, 13 Oct 2026 19:46:00 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC capturó en la zona 7 a alias “Peludo”, presunto integrante de la Mara Salvatrucha, señalado en investigaciones por varios asesinatos."
     },
     {
       "fuente": "Guatemala.com",
