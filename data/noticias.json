@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-10-15T07:12:02.811Z",
+  "actualizado": "2026-10-15T13:13:55.899Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Historias fantasmales sin base científica&#8221;: Meredith Whittaker, una de las mujeres más influyentes del sector tecnológico, sobre los peligros de la IA",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/historias-fantasmales-sin-base-cientifica-meredith-whittaker-una-de-las-mujeres-mas-influyentes-del-sector-tecnologico-sobre-los-peligros-de-la-ia/",
+      "fecha": "Thu, 15 Oct 2026 12:50:23 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En una entrevista exclusiva con la BBC, la directora de Signal afirma que la amenaza de la IA ha sido malinterpretada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Seguridad vial: nueva guía busca detectar riesgos en carreteras antes de que ocurran accidentes",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/seguridad-vial-nueva-guia-busca-detectar-riesgos-en-carreteras-antes-de-que-ocurran-accidentes/",
+      "fecha": "Thu, 15 Oct 2026 12:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La guía y el manual plantean revisar factores como la velocidad, las intersecciones, las barreras de contención y las condiciones para peatones y motociclistas, con el fin de detectar riesgos antes y durante la operación de una carretera."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mueren más de 30 niños y un maestro en Pakistán tras el derrumbe del techo de una escuela",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/mueren-mas-de-30-ninos-y-un-maestro-en-pakistan-tras-el-derrumbe-del-techo-de-una-escuela/",
+      "fecha": "Thu, 15 Oct 2026 11:23:57 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El derrumbe de un tejado en una escuela privada en Pakistán dejó más de 30 muertos, en su mayoría niños. El propietario de la institución ha sido detenido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "4 razones por las que la película española &#8220;La Bola Negra&#8221; podría ganarle el Oscar a &#8220;La Odisea&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/4-razones-por-las-que-la-pelicula-espanola-la-bola-negra-podria-ganarle-el-oscar-a-la-odisea/",
+      "fecha": "Thu, 15 Oct 2026 10:39:02 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La película que se llevó la Palma de Oro a la mejor dirección en Cannes suena fuerte para la temporada de los Oscar."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Campaña anticipada: Políticos pondrán a prueba la supremacía del TSE frente a decisiones judiciales",
@@ -785,38 +817,6 @@
       "fecha": "Wed, 14 Oct 2026 06:05:00 +0000",
       "categoria": "Internacional",
       "resumen": "Los ataques ucranianos se concentran en instalaciones difíciles de reparar y han reducido la capacidad de refinación de Rusia, según un análisis de The Washington Post."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuatro trucos mentales para recordar cosas que no debe olvidar",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/cuatro-trucos-mentales-para-ayudarlo-a-recordar-cosas-que-no-debe-olvidar/",
-      "fecha": "Wed, 14 Oct 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Los cambios normales en el cerebro, junto con la falta de sueño, problemas médicos y ciertos medicamentos, pueden provocar problemas de memoria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "España, al borde de la guerra",
-      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/espana-al-borde-de-la-guerra/",
-      "fecha": "Wed, 14 Oct 2026 06:04:00 +0000",
-      "categoria": "Plumas invitadas",
-      "resumen": "En Marruecos, el poder del monarca sobre el Estado es extraordinario."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nombramiento innecesariamente tormentoso",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/nombramiento-innecesariamente-tormentoso/",
-      "fecha": "Wed, 14 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Habrá que meditar bien si se quisiera insistir con el nombramiento objetado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Surge el bitcóin en 2008",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/surge-el-bitcoin-en-2008/",
-      "fecha": "Wed, 14 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Por la crisis financiera de 2008, surgió el bitcóin, como moneda digital descentralizada de los bancos centrales."
     },
     {
       "fuente": "Guatemala.com",
