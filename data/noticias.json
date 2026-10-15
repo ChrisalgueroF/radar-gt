@@ -1,7 +1,175 @@
 {
-  "actualizado": "2026-10-15T13:13:55.899Z",
+  "actualizado": "2026-10-15T18:07:36.656Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Don Omar y su The Last King World Tour: además de Guatemala, ¿a qué países de Latinoamérica llegará la gira en el 2027?",
+      "link": "https://www.prensalibre.com/vida/escenario/don-omar-y-su-the-last-king-world-tour-ademas-de-guatemala-a-que-paises-de-latinoamerica-llegara-la-gira-en-el-2027/",
+      "fecha": "Thu, 15 Oct 2026 17:39:37 +0000",
+      "categoria": "Escenario",
+      "resumen": "Uno de los íconos del reguetón regresará a los escenarios latinoamericanos con su gira The Last King World Tour para recordar grandes éxitos como Cuéntale y Salió el sol. Esto se conoce."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Me quedé en shock&#8221;: el testimonio de una de las mujeres que acusa de violación al actor Russell Brand, exesposo de Katy Perry",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/me-quede-en-shock-el-testimonio-de-una-de-las-mujeres-que-acusa-de-violacion-al-actor-russell-brand-exesposo-de-katy-perry/",
+      "fecha": "Thu, 15 Oct 2026 17:33:36 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El hombre de 51 años se enfrenta a tres cargos de violación, tres cargos de agresión sexual y uno de agresión indecente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;La tumba del Gran Lengua&#8221;: la cantata escénica que se presentará en Guatemala para honrar la memoria de Miguel Ángel Asturias",
+      "link": "https://www.prensalibre.com/vida/escenario/la-tumba-del-gran-lengua-la-cantata-escenica-que-se-presentara-en-guatemala-para-honrar-la-memoria-de-miguel-angel-asturias/",
+      "fecha": "Thu, 15 Oct 2026 17:11:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El maestro Joaquín Orellana presentará en el país la obra musical \"La tumba del Gran Lengua\", una cantata escénica dedicada a la obra del escritor guatemalteco y Premio Nobel de Literatura Miguel Ángel Asturias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ciclón Trudy se convierte en huracán y estas zonas de México tienen más riesgo de lluvias e inundaciones",
+      "link": "https://www.prensalibre.com/internacional/ciclon-trudy-se-convierte-en-huracan-y-estas-zonas-de-mexico-tienen-mas-riesgo-de-lluvias-e-inundaciones/",
+      "fecha": "Thu, 15 Oct 2026 17:03:04 +0000",
+      "categoria": "Internacional",
+      "resumen": "El ciclón Trudy se convirtió en huracán este 15 de octubre y podría afectar varias zonas de México con lluvias e inundaciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump cancela la transmisión en vivo de la ejecución con pelotón de fusilamiento del exmilitar Nidal Hasan",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-cancela-la-transmision-en-vivo-de-la-ejecucion-con-peloton-de-fusilamiento-del-exmilitar-nidal-hasan/",
+      "fecha": "Thu, 15 Oct 2026 16:55:08 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Trump dijo que algunos \"preferirían no ver\" la ejecución de Nidal Hasan, la primera a un exmilitar en más de 60 años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Del diagnóstico al regreso al trabajo: ¿Qué ha informado el Vaticano sobre el papa León XIV?",
+      "link": "https://www.prensalibre.com/internacional/del-diagnostico-al-regreso-al-trabajo-que-ha-informado-el-vaticano-sobre-el-papa-leon-xiv/",
+      "fecha": "Thu, 15 Oct 2026 16:51:05 +0000",
+      "categoria": "Internacional",
+      "resumen": "Durante la hospitalización de un papa no existe la figura de un sustituto, aunque las normas permiten que la Curia Romana siga funcionando de forma autónoma para los asuntos corrientes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Xelajú  vs. Malacateco: siga el minuto a minuto del encuentro por la fecha 14",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-xelaju-vs-malacateco-siga-el-minuto-a-minuto-del-encuentro-por-la-fecha-14/",
+      "fecha": "Thu, 15 Oct 2026 16:37:36 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Con la obligación de sumar en casa, Xelajú MC recibe este jueves a un Malacateco que llega motivado tras ganar en la fecha anterior."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a presunto responsable de agredir a una ascensorista en la zona 1",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-presunto-responsable-de-agredir-a-una-ascensorista-en-la-zona-1-breaking/",
+      "fecha": "Thu, 15 Oct 2026 16:32:47 +0000",
+      "categoria": "Justicia",
+      "resumen": "Omar \"N\" es capturado tras difundirse un video que muestra una agresión contra una ascensorista en un edificio de la zona 1."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Condenan a tres hombres de &#8220;Los H&#8221;, estructura vinculada con asesinatos, secuestros y narcotráfico en San Marcos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/condenan-a-tres-hombres-de-los-h-estructura-vinculada-con-asesinatos-secuestros-y-narcotrafico-en-san-marcos/",
+      "fecha": "Thu, 15 Oct 2026 16:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Un hombre murió al proteger a varios niños de un ataque de \"Los H\" en San Marcos. Según el MP, la banda tenía una \"firma criminal\": disparar 16 veces a sus víctimas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Disturbios en Ciudad Peronia dejan 12 vehículos destruidos o con daños: PNC revela cómo se originaron incidentes",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/disturbios-en-ciudad-peronia-dejan-12-vehiculos-destruidos-o-con-danos-pnc-revela-como-se-originaron-incidentes/",
+      "fecha": "Thu, 15 Oct 2026 15:44:00 +0000",
+      "categoria": "Sucesos",
+      "resumen": "La PNC amplía detalles sobre los disturbios en Ciudad Peronia, Villa Nueva, y presenta un recuento de los daños ocasionados a unidades policiales y vehículos particulares."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Vamos a tener que tomar medidas drásticas&#8221;: la advertencia de Roberto Montoya en Comunicaciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/vamos-a-tener-que-tomar-medidas-drasticas-la-advertencia-de-roberto-montoya-en-comunicaciones/",
+      "fecha": "Thu, 15 Oct 2026 15:26:20 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La crisis de Comunicaciones se agravó tras caer 2-1 ante Aurora FC en el estadio Cementos Progreso, resultado que mantiene al equipo crema lejos de los puestos de clasificación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De Starlink a la presidencia de Ucrania: Musk pide la renuncia de Zelenski en medio de las tensiones",
+      "link": "https://www.prensalibre.com/internacional/de-starlink-a-la-presidencia-de-ucrania-musk-pide-la-renuncia-de-zelenski-en-medio-de-las-tensiones/",
+      "fecha": "Thu, 15 Oct 2026 15:08:17 +0000",
+      "categoria": "Internacional",
+      "resumen": "Musk se sumó a los recientes llamados de Trump para reemplazar a Zelenski, luego de que Ucrania acusara a EE. UU. de favorecer a Rusia al no advertirle sobre los ataques con misiles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los rancheros que se cuestionan el apoyo a Trump en Nebraska, gran bastión del presidente",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/los-rancheros-que-se-cuestionan-el-apoyo-a-trump-en-nebraska-gran-bastion-del-presidente/",
+      "fecha": "Thu, 15 Oct 2026 14:55:19 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Muchos ganaderos de estados que apoyaron al presidente muestran su descontento a tan solo unas semanas de las cruciales elecciones de mitad de mandato."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Bam beneficia a más de 14 mil niños y jóvenes guatemaltecos con programas de educación y salud",
+      "link": "https://www.guatemala.com/noticias/vida/bam-beneficia-a-mas-de-14-mil-ninos-y-jovenes-guatemaltecos.html",
+      "fecha": "Thu, 15 Oct 2026 14:53:19 +0000",
+      "categoria": "Vida",
+      "resumen": "Bam fortalece la educación, salud e inclusión en Guatemala mediante iniciativas que han beneficiado a más de 14,100 niños, jóvenes y familias. \nThe post Bam beneficia a más de 14 mil niños y jóvenes guatemaltecos con programas de educación y salud appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué el Real Madrid tiene problemas defensivos pese al rendimiento de Courtois?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/por-que-el-real-madrid-tiene-problemas-defensivos-pese-al-rendimiento-de-courtois/",
+      "fecha": "Thu, 15 Oct 2026 14:51:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Ni las actuaciones de Courtois han sido suficientes para evitar los problemas defensivos que persiguen al Real Madrid en sus primeros partidos del curso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala registra tres temblores en pocas horas: dónde ocurrieron y cuál fue el de mayor magnitud",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-registra-tres-temblores-en-pocas-horas-donde-ocurrieron-y-cual-fue-el-de-mayor-magnitud-breaking/",
+      "fecha": "Thu, 15 Oct 2026 14:36:01 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh registra tres sismos este 15 de octubre y detalla cuál fue el de mayor magnitud."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jorge Vega ficha por el Spartak-Moscú y se convierte en el primer legionario centroamericano de gimnasia",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/jorge-vega-ficha-por-el-spartak-moscu-y-competira-en-la-liga-profesional-de-gimnasia-de-rusia/",
+      "fecha": "Thu, 15 Oct 2026 14:23:46 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El campeón guatemalteco viajará el 28 de octubre para reforzar al equipo ruso en la fase decisiva de la temporada, una oportunidad que considera el cumplimiento de uno de sus grandes sueños deportivos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;No he dicho ninguna palabra ofensiva&#8221;: Vinícius cuestiona su sanción de cuatro partidos",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/no-he-dicho-ninguna-palabra-ofensiva-vinicius-cuestiona-su-sancion-de-cuatro-partidos/",
+      "fecha": "Thu, 15 Oct 2026 14:20:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Vinícius Júnior cuestionó la sanción recibida tras su expulsión en la Liga española y aseguró que no comprende el trato que recibe por parte de los árbitros."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así se integraría el MetroRiel a los puentes Frutal-Cenma y Ch’utb’al",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/asi-se-integraria-el-metroriel-a-los-puentes-frutal-cenma-y-chutbal/",
+      "fecha": "Thu, 15 Oct 2026 14:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Los puentes Frutal-Cenma y Ch'utb'al tienen algo en común: sus diseños contemplan un nivel exclusivo para el MetroRiel. Esto es lo que se sabe sobre cómo se integraría el tren ligero a estas estructuras y qué avances registra el proyecto ferroviario."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Deslizamiento de tierra en zona 7 deja un hombre fallecido y cuatro personas evacuadas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/deslizamiento-de-tierra-en-zona-7-deja-un-hombre-fallecido-y-cuatro-personas-evacuadas-breaking/",
+      "fecha": "Thu, 15 Oct 2026 13:51:12 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Bomberos utilizan cuerdas para evacuar a cuatro personas tras deslizamiento en la zona 7; un hombre falleció."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tránsito complicado en Villa Canales y San Miguel Petapa por accidente entre bus y motocicleta",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/transito-complicado-en-villa-canales-y-san-miguel-petapa-por-accidente-entre-bus-y-motocicleta-breaking/",
+      "fecha": "Thu, 15 Oct 2026 13:15:14 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Motocicleta y bus extraurbano chocan en la ruta a Villa Canales; una persona resulta herida."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Historias fantasmales sin base científica&#8221;: Meredith Whittaker, una de las mujeres más influyentes del sector tecnológico, sobre los peligros de la IA",
@@ -651,172 +819,12 @@
       "resumen": "La comediante guatemalteca Lucía Mercedes presentará el último capítulo de una exitosa gira con la que recorrió Centroamérica."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "El impresionante hallazgo del naufragio más antiguo del mundo frente a las costas de Turquía",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-impresionante-hallazgo-del-naufragio-mas-antiguo-del-mundo-frente-a-las-costas-de-turquia/",
-      "fecha": "Wed, 14 Oct 2026 16:05:26 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los arqueólogos creen que los restos del naufragio tienen hasta 4.700 años de antigüedad, remontándose a la Edad del Bronce Temprana."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Libro guatemalteco destaca con medalla en premiación de libros en Estados Unidos",
       "link": "https://www.guatemala.com/noticias/cultura/libro-guatemalteca-vera-bolanos-destaca-international-latino-book-awards-2026.html",
       "fecha": "Wed, 14 Oct 2026 16:01:26 +0000",
       "categoria": "Cultura",
       "resumen": "Libro «Aventuras con animales en Tikal» de Vera Bolaños, Désirée Iturbide y Edna Coyoy fue reconocido en los International Latino Book Awards 2026.\nThe post Libro guatemalteco destaca con medalla en premiación de libros en Estados Unidos appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De las lluvias a una sequía más severa: cómo impactará el fenómeno de El Niño a Guatemala a inicios del 2027",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/de-las-lluvias-a-una-sequia-mas-severa-como-impactara-el-fenomeno-de-el-nino-a-guatemala-a-inicios-del-2027/",
-      "fecha": "Wed, 14 Oct 2026 16:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "En este reporte le explicamos cuáles serán las condiciones de lluvias y calor a finales del 2026, y en qué momento el país alcanzará su punto más crítico hacia principios del 2027, según las proyecciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué es el impuesto del ICE? El impacto de las redadas en los empleos, los precios y la vivienda",
-      "link": "https://www.prensalibre.com/internacional/que-es-el-impuesto-del-ice-el-impacto-de-las-redadas-en-los-empleos-los-precios-y-la-vivienda/",
-      "fecha": "Wed, 14 Oct 2026 15:27:29 +0000",
-      "categoria": "Internacional",
-      "resumen": "La campaña de detenciones y deportaciones de Donald Trump provocó un alza de precios en bienes y servicios debido al “impuesto del ICE”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga Nacional: conoce los horarios de la jornada 14, marcada por un triple empate en el primer lugar",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-conoce-los-horarios-de-la-jornada-14-marcada-por-un-triple-empate-en-el-primer-lugar/",
-      "fecha": "Wed, 14 Oct 2026 15:15:26 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Liga Nacional de Guatemala vivirá una intensa fecha entre semana, con seis encuentros que podrían provocar cambios importantes en la parte alta y baja de la clasificación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asalto a joyería de la zona 1: MP investiga robo captado en video",
-      "link": "https://www.prensalibre.com/guatemala/justicia/asalto-a-joyeria-de-la-zona-1-mp-investiga-robo-captado-en-video-breaking/",
-      "fecha": "Wed, 14 Oct 2026 15:10:32 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ministerio Público (MP) ya investiga el asalto a una joyería en la zona 1 de la capital, hecho que quedó grabado en video."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Ramón Ayala sufrió un accidente? Reportan que el “Rey del Acordeón” fue hospitalizado tras su concierto de despedida en México",
-      "link": "https://www.prensalibre.com/vida/escenario/ramon-ayala-sufrio-un-accidente-reportan-que-el-rey-del-acordeon-fue-hospitalizado-despues-de-su-concierto-en-la-plaza-de-toros-de-mexico/",
-      "fecha": "Wed, 14 Oct 2026 15:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Días después de un concierto que dejó al público confundido, surgen reportes de que Ramón Ayala habría sufrido un accidente por el cual habría sido hospitalizado. Esto se conoce de la situación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Puentes señalados en riesgo: dos tienen obras previstas hasta el 2027 y dos siguen sin intervención asegurada",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/puentes-senalados-en-riesgo-dos-tienen-obras-previstas-hasta-el-2027-y-dos-siguen-sin-intervencion-asegurada/",
-      "fecha": "Wed, 14 Oct 2026 14:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Dos de los cuatro puentes analizados tienen obras previstas hasta el 2027, mientras que Samalá y El Jobo siguen sin una intervención estructural asegurada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guillermina Herrera Peña destaca el valor de la diversidad para el futuro de Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/guillermina-herrera-pena-cuando-los-guatemaltecos-nos-reconciliemos-con-nuestra-diversidad-y-comencemos-a-verla-como-algo-positivo-habremos-avanzado/",
-      "fecha": "Wed, 14 Oct 2026 14:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La académica, autora, docente e investigadora recibió el doctorado honoris causa en Humanidades por la Universidad Rafael Landívar, casa de estudios de la que fue rectora entre 2004 y 2009."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. solicita la extradición de un hombre capturado en Guatemala por diez delitos sexuales",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ee-uu-solicita-la-extradicion-de-un-hombre-capturado-en-guatemala-por-diez-delitos-sexuales-breaking/",
-      "fecha": "Wed, 14 Oct 2026 13:56:38 +0000",
-      "categoria": "Justicia",
-      "resumen": "En la aldea El Fiscal, Palencia, la Policía Nacional Civil (PNC) capturó a un hombre requerido en extradición por presuntos delitos sexuales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién queda a cargo del Vaticano y cómo funciona la Iglesia católica mientras el papa León XIV se recupera de una cirugía pulmonar",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-queda-a-cargo-del-vaticano-y-como-funciona-la-iglesia-catolica-mientras-el-papa-leon-xiv-se-recupera-de-una-cirugia-pulmonar/",
-      "fecha": "Wed, 14 Oct 2026 13:50:27 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El interrogante resurgió tras el diagnóstico de cáncer de pulmón que recibió el papa León XIV este martes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Matthew Richardson, el medallista olímpico apartado de la selección británica?",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/quien-es-matthew-richardson-el-medallista-olimpico-apartado-de-la-seleccion-britanica/",
-      "fecha": "Wed, 14 Oct 2026 13:31:50 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "El ciclista británico Matthew Richardson fue apartado de la selección de Gran Bretaña y se perderá el Mundial de ciclismo en pista de Shanghá."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hundimiento en la Interamericana: qué trabajos se realizaron en el km 16 y cómo quedó el paso vehicular",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/comuna-de-mixco-informa-sobre-los-trabajos-en-hundimiento-del-km-16-de-la-ruta-interamericana-breaking/",
-      "fecha": "Wed, 14 Oct 2026 13:08:36 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Personal de la Municipalidad de Mixco efectuó trabajos en el área del hundimiento ubicado en el kilómetro 16 de la ruta Interamericana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala 2026: Guastatoya se suma a la historia de las salidas fuera de la capital",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-guastatoya-se-suma-a-la-historia-de-los-comienzos-departamentales-breaking/",
-      "fecha": "Wed, 14 Oct 2026 13:00:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Guastatoya se convertirá en la nueva sede de salida de la Vuelta a Guatemala, que ha comenzado fuera de la capital en distintas ocasiones a lo largo de su historia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un récord mientras Trump ejerce máxima presión sobre la isla",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/por-que-las-exportaciones-de-ee-uu-a-cuba-alcanzaron-un-record-mientras-trump-ejerce-maxima-presion-sobre-la-isla/",
-      "fecha": "Wed, 14 Oct 2026 12:44:48 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los productos estadounidenses más vendidos al sector privado de la isla son los combustibles, un fenómeno sin precedentes en la relación comercial entre ambos países. Entre enero y agosto, los envíos de combustible aumentaron un 210%."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Municipalidad de Chisec adeuda Q13.1 millones a Energuate y enfrenta un nuevo corte de energía",
-      "link": "https://www.prensalibre.com/economia/municipalidad-de-chisec-adeuda-q13-1-millones-a-energuate-y-enfrenta-un-nuevo-corte-de-energia/",
-      "fecha": "Wed, 14 Oct 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La Municipalidad de Chisec acumula una deuda de Q13.1 millones por suministro eléctrico, incluidos Q10.8 millones por servicio a instalaciones municipales y Q2.3 millones por alumbrado público. La empresa informó que este último servicio no ha sido suspendido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Afectaron los relevos del Banguat a la economía de Guatemala? Esto revelan los principales indicadores económicos",
-      "link": "https://www.prensalibre.com/economia/afectaron-los-relevos-del-banguat-a-la-economia-de-guatemala-esto-revelan-los-principales-indicadores-economicos/",
-      "fecha": "Wed, 14 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Las autoridades monetarias en funciones hicieron un llamado a la calma y la tranquilidad a los agentes económicos y a quienes toman decisiones de inversión. Asimismo, aseguraron que los indicadores económicos internos y externos no muestran señales de alerta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cifras negativas",
-      "link": "https://www.prensalibre.com/opinion/caricatura/cifras-negativas/",
-      "fecha": "Wed, 14 Oct 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dipp: dependencia de proyectos postergados",
-      "link": "https://www.prensalibre.com/opinion/editorial/dipp-dependencia-de-proyectos-postergados/",
-      "fecha": "Wed, 14 Oct 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Más que organigramas y plazas, lo que la ciudadanía reclama son carreteras que permitan vislumbrar un mejor futuro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Papa debe ayudar, dando debida atención a su salud",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-papa-debe-ayudar-dando-debida-atencion-a-su-salud/",
-      "fecha": "Wed, 14 Oct 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La súbita enfermedad del papa León XIV demuestra lo inesperado de la vida de cualquier ser humano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo Ucrania ataca con drones los puntos más vulnerables de las refinerías rusas",
-      "link": "https://www.prensalibre.com/internacional/como-ucrania-ataca-con-drones-los-puntos-mas-vulnerables-de-las-refinerias-rusas/",
-      "fecha": "Wed, 14 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los ataques ucranianos se concentran en instalaciones difíciles de reparar y han reducido la capacidad de refinación de Rusia, según un análisis de The Washington Post."
     },
     {
       "fuente": "Guatemala.com",
@@ -865,14 +873,6 @@
       "fecha": "Fri, 09 Oct 2026 20:47:43 +0000",
       "categoria": "Sociedad",
       "resumen": "Conoce la Licenciatura en Global Business Management + Master in Management de UVG, su ruta 4+1, especializaciones y opciones de ayuda financiera.\nThe post Licenciatura en Global Business Management + Master in Management: una ruta para formarse en negocios globales appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "La totalmente nueva MAZDA CX-5 ya está disponible en Guatemala",
-      "link": "https://www.guatemala.com/noticias/sociedad/totalmente-nueva-mazda-cx-5-2027-disponible-guatemala.html",
-      "fecha": "Fri, 09 Oct 2026 19:11:29 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Descubre las características de la totalmente nueva MAZDA CX-5 , modelo de SUV ya disponibles en el mercado guatemalteco.\nThe post La totalmente nueva MAZDA CX-5 ya está disponible en Guatemala appeared first on Guatemala.com."
     }
   ]
 }
