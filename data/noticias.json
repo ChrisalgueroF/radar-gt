@@ -1,7 +1,135 @@
 {
-  "actualizado": "2026-10-15T18:07:36.656Z",
+  "actualizado": "2026-10-15T22:02:34.883Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué la estafadora Elizabeth Holmes sigue causando fascinación en EE.UU.",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/por-que-la-estafadora-elizabeth-holmes-sigue-causando-fascinacion-en-ee-uu/",
+      "fecha": "Thu, 15 Oct 2026 21:48:17 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La creadora de Theranos, una compañía que prometía diagnósticos con una sola gota de sangre, es objeto de un nuevo documental."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Laura Bozzo: revelan su estado de salud, por qué fue hospitalizada y la razón de su traslado a otro hospital",
+      "link": "https://www.prensalibre.com/vida/escenario/cual-es-el-estado-de-salud-de-laura-bozzo-revelan-la-causa-que-la-llevo-al-hospital-y-por-que-fue-trasladada-a-otro-centro-medico/",
+      "fecha": "Thu, 15 Oct 2026 21:16:58 +0000",
+      "categoria": "Escenario",
+      "resumen": "Luego de que se revelara que la conductora peruana Laura Bozzo fue trasladada de emergencia a un hospital en Acapulco, su asistente habló sobre su estado de salud. Esto se sabe."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo juramenta otra vez a Jonathan Menkos como ministro de Finanzas y Débora Alvarado regresa a su antiguo cargo",
+      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-juramenta-otra-vez-a-jonathan-menkos-como-ministro-de-finanzas-y-debora-alvarado-regresa-a-su-antiguo-cargo-breaking/",
+      "fecha": "Thu, 15 Oct 2026 21:06:48 +0000",
+      "categoria": "Política",
+      "resumen": "Bernardo Arévalo juramentó nuevamente a Jonathan Menkos como ministro de Finanzas, tras la suspensión de su nombramiento en el Banco de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Galardón Nacional a la Exportación 2026: los 12 finalistas que compiten en tres categorías",
+      "link": "https://www.prensalibre.com/economia/galardon-nacional-a-la-exportacion-2026-los-12-finalistas-que-compiten-en-tres-categorias/",
+      "fecha": "Thu, 15 Oct 2026 20:40:35 +0000",
+      "categoria": "Economía",
+      "resumen": "Agexport dio a conocer a las 12 empresas guatemaltecas que competirán por el Galardón Nacional a la Exportación 2026. Los ganadores se anunciarán el 29 de octubre y entre ellos se elegirá al Exportador del Año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Del Glaciar del Fin del Mundo a Eslovenia: Las señales que mantienen en alerta a los científicos",
+      "link": "https://www.prensalibre.com/internacional/del-glaciar-del-fin-del-mundo-a-eslovenia-las-senales-que-mantienen-en-alerta-a-los-cientificos/",
+      "fecha": "Thu, 15 Oct 2026 20:38:49 +0000",
+      "categoria": "Internacional",
+      "resumen": "El glaciar representa un riesgo para la humanidad y es más peligroso de lo que se había pensado, ya que el Thwaites es un enorme bloque de hielo cuya superficie supera la de Gran Bretaña."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué causó la lesión en la cabeza de Sean “Diddy” Combs en prisión? TMZ reporta una pelea y autoridades federales la niegan",
+      "link": "https://www.prensalibre.com/vida/escenario/que-causo-la-lesion-en-la-cabeza-de-sean-diddy-combs-en-prision-tmz-reporta-una-pelea-y-autoridades-federales-la-niegan/",
+      "fecha": "Thu, 15 Oct 2026 20:34:18 +0000",
+      "categoria": "Escenario",
+      "resumen": "Días después de que trascendiera que el rapero habría sufrido una lesión en prisión, reportes apuntan a una pelea entre reclusos, mientras las autoridades federales niegan que haya ocurrido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Dónde planea Haití construir los dos estadios que cumplirían las normas de la Fifa?",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/donde-planea-haiti-construir-los-dos-estadios-que-cumplirian-las-normas-de-la-fifa/",
+      "fecha": "Thu, 15 Oct 2026 20:26:29 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "Haití proyecta la construcción de dos estadios de futbol con estándares Fifa, con el objetivo de que su selección regrese a jugar en casa tras varios años de ausencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Torneo Apertura 2026: Harim Quezada completa la remontada de Xelajú ante Malacateco",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-2026-harim-quezada-completa-la-remontada-de-xelaju-ante-malacateco/",
+      "fecha": "Thu, 15 Oct 2026 20:04:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Xelajú reaccionó tras comenzar en desventaja y firmó una valiosa remontada ante Malacateco bajo la lluvia en Quetzaltenango."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cobán Imperial vs. Municipal EN VIVO: siga el minuto a minuto del partido por la jornada 14",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/coban-imperial-vs-municipal-en-vivo-siga-el-minuto-a-minuto-del-partido-por-la-jornada-14/",
+      "fecha": "Thu, 15 Oct 2026 20:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Cobán Imperial y Municipal protagonizan este jueves uno de los duelos más atractivos de la jornada 14 del Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. evalúa utilizar la madre de todas las bombas contra Irán: Así funciona la GBU-43/B",
+      "link": "https://www.prensalibre.com/internacional/ee-uu-evalua-utilizar-la-madre-de-todas-las-bombas-contra-iran-asi-funciona-la-gbu-43-b/",
+      "fecha": "Thu, 15 Oct 2026 19:47:07 +0000",
+      "categoria": "Internacional",
+      "resumen": "EE. UU. contempla usar la bomba no nuclear más grande de su arsenal, conocida como la \"madre de todas las bombas\", contra las instalaciones nucleares de Irán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hallan cadáveres enterrados en un inmueble de Santa Lucía Milpas Altas, Sacatepéquez",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/hallan-cadaveres-enterrados-en-un-inmueble-de-santa-lucia-milpas-altas-sacatepequez-breaking/",
+      "fecha": "Thu, 15 Oct 2026 19:40:42 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Localizan cadáveres enterrados en una vivienda en Santo Tomás Milpas Altas, Santa Lucía Milpas Altas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Me cuesta mantener a mi familia&#8221;: el ruso que acusa al ICE de retener sus documentos personales tras ser liberado",
+      "link": "https://www.prensalibre.com/internacional/me-cuesta-mantener-a-mi-familia-el-ruso-que-acusa-al-ice-de-retener-sus-documentos-personales-tras-ser-liberado/",
+      "fecha": "Thu, 15 Oct 2026 19:14:18 +0000",
+      "categoria": "Internacional",
+      "resumen": "Siete migrantes presentaron una denuncia donde señalan al ICE de quedarse con sus pertenencias una vez quedaron libres de los centros de detención."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Soy completamente inocente&#8221;: Nicolás Maduro y Cilia Flores se declaran no culpables de los nuevos cargos de tortura",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/soy-completamente-inocente-nicolas-maduro-y-cilia-flores-se-declaran-no-culpables-de-los-nuevos-cargos-de-tortura/",
+      "fecha": "Thu, 15 Oct 2026 18:41:27 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El expresidente de Venezuela y su esposa rechazaron las nuevas acusaciones sobre conspiración para cometer torturas en una corte federal de Nueva York."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El príncipe Harry y Meghan Markle aparecen juntos por primera vez desde su regreso al Reino Unido",
+      "link": "https://www.prensalibre.com/vida/escenario/el-principe-harry-y-meghan-markle-aparecen-juntos-por-primera-vez-desde-su-regreso-al-reino-unido/",
+      "fecha": "Thu, 15 Oct 2026 18:24:21 +0000",
+      "categoria": "Escenario",
+      "resumen": "A semanas de su regreso al Reino Unido, los duques de Sussex hicieron su primera aparición pública juntos durante una visita a un estudio de grabación que forma parte de una organización benéfica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Absuelven por segunda vez a señalado de dañar monumento a Reina Barrios durante manifestación",
+      "link": "https://www.prensalibre.com/guatemala/justicia/absuelven-por-segunda-vez-a-senalado-de-danar-monumento-a-reina-barrios-durante-manifestacion-breaking/",
+      "fecha": "Thu, 15 Oct 2026 18:22:53 +0000",
+      "categoria": "Justicia",
+      "resumen": "Rudy López Pablo, señalado de dañar el monumento a Reina Barrios durante una protesta en el 2021, es absuelto por segunda vez. Jueza señala inconsistencias en las declaraciones de los testigos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Más relajados? así llegaron Nicolás Maduro y su esposa en audiencia donde se declararon no culpables en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/mas-relajados-asi-llegaron-nicolas-maduro-y-su-esposa-en-audiencia-donde-se-declararon-no-culpables-en-ee-uu/",
+      "fecha": "Thu, 15 Oct 2026 18:16:14 +0000",
+      "categoria": "Internacional",
+      "resumen": "Maduro y Flores se declararon no culpables de los nuevos cargos de conspiración para cometer torturas que les imputó una fiscalía en EE. UU."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Don Omar y su The Last King World Tour: además de Guatemala, ¿a qué países de Latinoamérica llegará la gira en el 2027?",
@@ -17,6 +145,22 @@
       "fecha": "Thu, 15 Oct 2026 17:33:36 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "El hombre de 51 años se enfrenta a tres cargos de violación, tres cargos de agresión sexual y uno de agresión indecente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga de Naciones: Guatemala y las siete selecciones que buscan su boleto al Final Four y la Copa Oro 2027",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-de-naciones-guatemala-y-las-siete-selecciones-que-buscan-su-boleto-al-final-four-y-la-copa-oro-2027/",
+      "fecha": "Thu, 15 Oct 2026 17:33:10 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El equipo dirigido por Luis Fernando Tena está ante una oportunidad histórica al disputar una serie decisiva frente a Canadá por un boleto al Final Four."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ejército de Guatemala adquiere cuatro aeronaves para transporte y combate de incendios a un costo de Q230 millones",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/ejercito-de-guatemala-adquiere-cuatro-aeronaves-para-transporte-y-combate-de-incendios-a-un-costo-de-q230-millones/",
+      "fecha": "Thu, 15 Oct 2026 17:21:27 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Las cuatro aeronaves compradas por el Ejército de Guatemala a EE. UU. ya llegaron al país. La adquisición incluye tres aviones contra incendios."
     },
     {
       "fuente": "Prensa Libre",
@@ -659,30 +803,6 @@
       "resumen": "Con apenas 27 años, Kylian Mbappé continúa ampliando su legado en la Champions League y suma un nuevo hito en su carrera, consolidándose como una de las grandes figuras del futbol europeo."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinato de policías en zona 18: Tribunal ordena reforzar protocolos de seguridad de agentes tras condena contra Kevin Castellanos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/asesinato-de-policias-en-zona-18-tribunal-ordena-reforzar-protocolos-de-seguridad-de-agentes-tras-condena-contra-kevin-castellanos-breaking/",
-      "fecha": "Wed, 14 Oct 2026 18:54:00 +0000",
-      "categoria": "Justicia",
-      "resumen": "Como parte de la reparación digna por la muerte violenta de dos agentes de la PNC en la zona 18, un tribunal ordena reforzar las estrategias de seguridad para los policías."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cartel de Sinaloa, fusiles y disputa territorial: los posibles vínculos con el narco en Tajumulco e Ixchiguán",
-      "link": "https://www.prensalibre.com/guatemala/justicia/cartel-de-sinaloa-fusiles-y-disputa-territorial-los-posibles-vinculos-con-el-narco-en-tajumulco-e-ixchiguan/",
-      "fecha": "Wed, 14 Oct 2026 18:45:16 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El conflicto en San Marcos se reactivó con disparos. Un informe advierte sobre posibles vínculos con el narcotráfico y plantea un Estado de Sitio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Real Madrid: Mourinho critica el momento en que se anunció la sanción a Vinícius Júnior",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-mourinho-critica-el-momento-en-que-se-anuncio-la-sancion-a-vinicius-junior/",
-      "fecha": "Wed, 14 Oct 2026 18:33:59 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "José Mourinho cuestionó la decisión de la RFEF de anunciar la sanción a Vinícius Júnior apenas dos horas antes del partido de Champions."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Asueto del 20 de octubre 2026: Bancos cerrarán por el Día de la Revolución",
       "link": "https://www.guatemala.com/noticias/comunidad/sib-anuncia-cierre-bancos-guatemala-dia-de-la-revolucion-2026.html",
@@ -691,132 +811,12 @@
       "resumen": "Bancos e instituciones financieras cerrarán el martes 20 de octubre por el asueto del Día de la Revolución en Guatemala. \nThe post Asueto del 20 de octubre 2026: Bancos cerrarán por el Día de la Revolución appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "“Silencio de semicorchea”: el cuento de José Morales González que ganó el Premio Mario Monteforte Toledo 2026",
-      "link": "https://www.prensalibre.com/vida/escenario/silencio-de-semicorchea-el-cuento-de-jose-morales-gonzalez-que-gano-el-premio-mario-monteforte-toledo-2026/",
-      "fecha": "Wed, 14 Oct 2026 18:09:16 +0000",
-      "categoria": "Escenario",
-      "resumen": "El escritor costarricense José Morales González viajó a Guatemala para recibir el galardón por su cuento “Silencio de semicorchea”, seleccionado entre más de 600 obras centroamericanas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué película habría anticipado la enfermedad del papa León XIV?: de qué trata, cuál es la coincidencia y cómo está de salud",
-      "link": "https://www.prensalibre.com/vida/escenario/que-pelicula-habria-anticipado-la-enfermedad-del-papa-leon-xiv-de-que-trata-cual-es-la-coincidencia-y-como-esta-de-salud/",
-      "fecha": "Wed, 14 Oct 2026 18:09:08 +0000",
-      "categoria": "Escenario",
-      "resumen": "Una película de terror ha llamado la atención en las redes sociales debido a una supuesta coincidencia entre el nombre y la enfermedad de uno de sus personajes y los del papa León XIV."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Jugará Vinícius el Clásico ? Esta es la sanción que recibió el brasileño tras su expulsión",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/jugara-vinicius-el-clasico-esta-es-la-sancion-que-recibio-el-brasileno-tras-su-expulsion/",
-      "fecha": "Wed, 14 Oct 2026 18:04:18 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Real Madrid afrontará una etapa clave de la temporada sin uno de sus jugadores más desequilibrantes, en una seguidilla de partidos de alta exigencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bank of America es sancionado en EE. UU. por violar leyes de lavado de dinero: a cuánto asciende la multa",
-      "link": "https://www.prensalibre.com/internacional/bank-of-america-es-sancionado-en-ee-uu-por-violar-leyes-de-lavado-de-dinero-a-cuanto-asciende-la-multa/",
-      "fecha": "Wed, 14 Oct 2026 18:02:38 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Departamento del Tesoro de EE. UU. anunció una sanción contra Bank Of America por violar leyes contra el lavado de dinero."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "RJ Mitte veía al futuro: el actor de &#8220;Breaking Bad&#8221; habló de  su vejez en una de sus últimas entrevistas",
-      "link": "https://www.prensalibre.com/vida/escenario/rj-mitte-veia-al-futuro-el-actor-de-breaking-bad-hablo-de-su-vejez-en-una-de-sus-ultimas-entrevistas/",
-      "fecha": "Wed, 14 Oct 2026 18:02:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Su participación en un podcast toma relevancia luego de su muerte a los 34 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿IA o realidad? Valderrama sorprende al aparecer sin su melena en una grabación que genera dudas",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/ia-o-realidad-valderrama-sorprende-al-aparecer-sin-su-melena-en-una-grabacion-que-genera-dudas/",
-      "fecha": "Wed, 14 Oct 2026 18:01:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Los seguidores de Carlos Valderrama, conocido como el Pibe, especularon en redes sociales con que podría tratarse de un video elaborado con inteligencia artificial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En vivo &#124; Roma vs. Real Madrid, sigue el minuto a minuto del encuentro por la segunda fecha de la Champions",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-roma-vs-real-madrid-sigue-el-minuto-a-minuto-del-encuentro-por-la-segunda-fecha-de-la-champions/",
-      "fecha": "Wed, 14 Oct 2026 18:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Con la misión de despejar dudas sobre su funcionamiento, el Real Madrid visita a la Roma en la segunda jornada de la Champions League."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gerente de medios de pago de un banco muere en incidente armado en la zona 4",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/gerente-de-medios-de-pago-de-un-banco-muere-en-incidente-armado-en-la-zona-4-breaking/",
-      "fecha": "Wed, 14 Oct 2026 17:54:17 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Gerente de medios de pago de un banco muere durante un ataque armado en la vía pública, en la zona 4 de la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una exposición dedicada al teatro en la UP: tres décadas de imágenes históricas",
-      "link": "https://www.prensalibre.com/vida/escenario/una-exposicion-dedicada-al-teatro-en-la-up-tres-decadas-de-imagenes-historicas/",
-      "fecha": "Wed, 14 Oct 2026 17:41:43 +0000",
-      "categoria": "Escenario",
-      "resumen": "Revistas, fotografías y documentos ayudan a hacer memoria acerca de algunas de las más relevantes obras teatrales presentadas en diversos escenarios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué le pasó a Laura Bozzo?: reportan que fue hospitalizada de emergencia por complicaciones intestinales",
-      "link": "https://www.prensalibre.com/vida/escenario/que-le-paso-a-laura-bozzo-reportan-que-fue-hospitalizada-de-emergencia-por-complicaciones-intestinales/",
-      "fecha": "Wed, 14 Oct 2026 17:18:47 +0000",
-      "categoria": "Escenario",
-      "resumen": "La conductora Laura Bozzo, conocida por sus programas de televisión, fue hospitalizada de emergencia debido a complicaciones intestinales. Esto se sabe sobre su salud."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo una reducción de velocidad de internet de Starlink afecta a la defensa de Ucrania de los ataques rusos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-una-reduccion-de-velocidad-de-internet-de-starlink-afecta-a-la-defensa-de-ucrania-de-los-ataques-rusos/",
-      "fecha": "Wed, 14 Oct 2026 17:03:56 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El sistema de internet de Elon Musk permite a Kyiv proteger el espacio aéreo ucraniano y guiar eficazmente los drones hacia objetivos rusos."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Bam anuncia su nueva alianza con PayPal en la innovación de pagos digitales y retiros a cuentas locales",
       "link": "https://www.guatemala.com/noticias/tecnologia/bam-anuncio-alianza-paypal-retirar-fondos-forma-inmediata-guatemala.html",
       "fecha": "Wed, 14 Oct 2026 16:55:13 +0000",
       "categoria": "Tecnología",
       "resumen": "Nueva alianza de Bam con PayPal permitirá a los guatemaltecos retirar fondos de forma directa e inmediata desde la plataforma hacia cuentas bancarias.\nThe post Bam anuncia su nueva alianza con PayPal en la innovación de pagos digitales y retiros a cuentas locales appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo avanzarán la tormenta tropical Trudy y el huracán Simón en el Pacífico durante los próximos días",
-      "link": "https://www.prensalibre.com/internacional/como-avanzaran-la-tormenta-tropical-trudy-y-el-huracan-simon-en-el-pacifico-durante-los-proximos-dias/",
-      "fecha": "Wed, 14 Oct 2026 16:36:47 +0000",
-      "categoria": "Internacional",
-      "resumen": "El NHC detalló la trayectoria del huracán Simón y la tormenta tropical Trudy en el Pacífico durante los próximos días y el fin de semana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué la madre de Kylian Mbappé fue interrogada por la justicia francesa?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/por-que-la-madre-de-kylian-mbappe-fue-interrogada-por-la-justicia-francesa/",
-      "fecha": "Wed, 14 Oct 2026 16:30:35 +0000",
-      "categoria": "Deportes",
-      "resumen": "La justicia francesa interrogó a Fayza Lamari, madre de Kylian Mbappé, en un caso que también alcanzó al atacante de la selección de Francia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Revelan los antecedentes del cómplice de un presunto delincuente abatido durante una persecución en la zona 11",
-      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-revela-los-antecedentes-delictivos-del-complice-de-presunto-delincuente-abatido-en-la-zona-11-breaking/",
-      "fecha": "Wed, 14 Oct 2026 16:22:34 +0000",
-      "categoria": "Justicia",
-      "resumen": "La Policía Nacional Civil (PNC) detalló cuántas veces ha sido capturado y por qué delitos el presunto cómplice del hombre abatido en la zona 11, señalado de haber secuestrado a un piloto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lucía Mercedes concluirá su gira centroamericana con el espectáculo &#8220;Millennial sin compromiso&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/lucia-mercedes-concluira-su-gira-centroamericana-con-el-espectaculo-millennial-sin-compromiso/",
-      "fecha": "Wed, 14 Oct 2026 16:15:52 +0000",
-      "categoria": "Escenario",
-      "resumen": "La comediante guatemalteca Lucía Mercedes presentará el último capítulo de una exitosa gira con la que recorrió Centroamérica."
     },
     {
       "fuente": "Guatemala.com",
