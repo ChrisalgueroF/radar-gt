@@ -1,7 +1,15 @@
 {
-  "actualizado": "2026-10-16T06:54:50.760Z",
+  "actualizado": "2026-10-16T12:12:28.130Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Industria de alimentos y bebidas genera una huella económica de Q207 mil millones anuales en Guatemala",
+      "link": "https://www.prensalibre.com/economia/industria-de-alimentos-y-bebidas-genera-una-huella-economica-de-q207-mil-millones-anuales-en-guatemala/",
+      "fecha": "Fri, 16 Oct 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Un estudio de Cabi estima que la huella económica del sector de alimentos y bebidas equivale al 23.6% del PIB nacional. Se destaca  la importancia del aporte del sector, pero se indica que es necesario impulsar acciones para mantener el dinamismo de las exportaciones."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Gremial de alimentos y bebidas respalda medidas de salud, pero pide reglas regionales para el etiquetado",
@@ -793,14 +801,6 @@
       "fecha": "Thu, 15 Oct 2026 06:01:00 +0000",
       "categoria": "Vida",
       "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala podría producir partes de buses eléctricos: esto es lo que se necesita",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/guatemala-podria-producir-partes-de-buses-electricos-esto-es-lo-que-se-necesita/",
-      "fecha": "Thu, 15 Oct 2026 06:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Una demanda sostenida de entre 300 y 500 buses eléctricos al año podría hacer atractiva para una empresa la instalación de una operación en el país, según asociación del sector. Expertos ven desafíos en regulación, mano de obra y proveedores."
     },
     {
       "fuente": "Guatemala.com",
