@@ -1,7 +1,127 @@
 {
-  "actualizado": "2026-10-16T17:15:26.386Z",
+  "actualizado": "2026-10-16T20:46:59.495Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "«Historias de Mesa», la nueva serie documental de Mirciny Moliviatis",
+      "link": "https://www.guatemala.com/noticias/entretenimiento/historias-de-mesa-nueva-serie-documental-chef-guatemalteca-mirciny-moliviatis.html",
+      "fecha": "Fri, 16 Oct 2026 20:35:58 +0000",
+      "categoria": "Entretenimiento",
+      "resumen": "Mirciny Moliviatis presenta «Historias de Mesa», una serie que destaca la gastronomía, cultura y, en especial, el talento culinario de Guatemala.\nThe post «Historias de Mesa», la nueva serie documental de Mirciny Moliviatis appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tesla Roadster: Así es el carro &#8220;volador&#8221; que usa propulsores y acelera de 0 a 100 en un segundo",
+      "link": "https://www.prensalibre.com/internacional/tesla-roadster-asi-es-el-carro-volador-que-usa-propulsores-y-acelera-de-0-a-100-en-un-segundo/",
+      "fecha": "Fri, 16 Oct 2026 20:32:25 +0000",
+      "categoria": "Internacional",
+      "resumen": "Elon Musk reconoció que el deportivo no está necesariamente \"optimizado para la seguridad\", lo que plantea interrogantes sobre su circulación por carreteras públicas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Día H: Guatemala se suma al homenaje mundial a Héroes del Silencio con un concierto de Entropya",
+      "link": "https://www.prensalibre.com/vida/escenario/el-dia-h-guatemala-se-suma-al-homenaje-mundial-a-heroes-del-silencio-con-un-concierto-de-entropya/",
+      "fecha": "Fri, 16 Oct 2026 19:41:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La banda guatemalteca Entropya se sumará al homenaje mundial a Héroes del Silencio y ofrecerá un concierto con los éxitos del grupo español."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Café Antigua de Guatemala es incluido entre las indicaciones geográficas protegidas de la Unión Europea ¿Qué significa este reconocimiento?",
+      "link": "https://www.prensalibre.com/economia/cafe-antigua-de-guatemala-es-incluido-entre-las-indicaciones-geograficas-protegidas-de-la-union-europea-que-significa-este-reconocimiento/",
+      "fecha": "Fri, 16 Oct 2026 19:28:47 +0000",
+      "categoria": "Economía",
+      "resumen": "El reconocimiento protege el nombre del Café Antigua en el mercado europeo y destaca sus características de sabor, aroma y tradición cafetalera."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aeronave sufre accidente durante despegue en el Aeropuerto La Aurora; evacúan a cuatro personas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/aeronave-sufre-accidente-durante-despegue-en-el-aeropuerto-la-aurora-evacuan-a-cuatro-personas-breaking/",
+      "fecha": "Fri, 16 Oct 2026 19:13:33 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Reanudan operaciones en la pista del Aeropuerto Internacional La Aurora tras percance de una aeronave. Ocupantes están estables."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amaia Montero recibe críticas por su apariencia  en show de La Oreja de Van Gogh en Zaragoza: ¿cómo respondió?",
+      "link": "https://www.prensalibre.com/vida/escenario/amaia-montero-recibe-criticas-por-su-apariencia-en-show-de-la-oreja-de-van-gogh-en-zaragoza-como-respondio/",
+      "fecha": "Fri, 16 Oct 2026 19:11:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante reaccionó a los comentarios emitidos por las redes sociales y sorprendió a sus seguidores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Real Betis vs. Barcelona: horario en Guatemala y dónde ver el partido de la jornada 9 de La Liga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-betis-vs-barcelona-horario-en-guatemala-y-donde-ver-el-partido-de-la-jornada-9-de-la-liga/",
+      "fecha": "Fri, 16 Oct 2026 19:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Real Betis y Barcelona protagonizan uno de los partidos más atractivos de la novena jornada de La Liga, con los azulgranas defendiendo su invicto en Sevilla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La madre que fue condenada por dejar que su hijo de 5 años paseara solo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-madre-que-fue-condenada-por-dejar-que-su-hijo-de-5-anos-paseara-solo/",
+      "fecha": "Fri, 16 Oct 2026 18:54:49 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Karyann Parkinson permitió que su hijo caminara sin supervisión de un adulto dentro de una urbanización cerrada y vigilada en Virginia, Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué está regresando el sarampión si existe una vacuna? Advierten sobre el riesgo de brotes",
+      "link": "https://www.prensalibre.com/internacional/por-que-esta-regresando-el-sarampion-si-existe-una-vacuna-advierten-sobre-el-riesgo-de-brotes/",
+      "fecha": "Fri, 16 Oct 2026 18:51:23 +0000",
+      "categoria": "Internacional",
+      "resumen": "Según la OPS, Guatemala encabeza la lista de países afectados, con 35 mil casos y 60 fallecimientos, seguida de México, Estados Unidos, Perú y Canadá."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "A una semana de asumir el cargo: Katie Zacharia deja de ser vocera de la Casa Blanca y estos serían los motivos",
+      "link": "https://www.prensalibre.com/internacional/a-una-semana-de-asumir-el-cargo-katie-zacharia-deja-de-ser-vocera-de-la-casa-blanca-y-estos-serian-los-motivos-breaking/",
+      "fecha": "Fri, 16 Oct 2026 18:33:43 +0000",
+      "categoria": "Internacional",
+      "resumen": "Katie Zacharia habría dejado de ser la nueva portavoz de la Casa Blanca, a una semana de asumir el puesto y de ser criticada en su primera intervención."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Zoel Cruz: rastreo de 150 teléfonos permitió al MP identificar a sospechosos del secuestro y su conexión con los Lorenzana",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-zoel-cruz-rastreo-de-150-telefonos-permitio-al-mp-identificar-al-sospechosos-del-secuestro-y-su-conexion-con-los-lorenzana/",
+      "fecha": "Fri, 16 Oct 2026 18:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Dos sospechosos del secuestro de Zoel Cruz, con nexos con el clan de la familia Lorenzana, deberán volver a prisión luego de un fallo de la Corte Suprema de Justicia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Se entrega ex viceministra Claudia Palencia por caso de fuga de reos en Fraijanes 2 y queda sujeta a proceso",
+      "link": "https://www.prensalibre.com/guatemala/justicia/se-entrega-exviceministra-claudia-palencia-por-caso-de-fuga-de-reos-en-fraijanes-2-y-queda-sujeta-a-proceso/",
+      "fecha": "Fri, 16 Oct 2026 17:43:06 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La ex viceministra de Gobernación, Claudia Palencia, se entregó a la justicia luego de que el MP la señalara de colaborar en la fuga de 20 pandilleros de la cárcel Fraijanes 2."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Pronóstico del clima en Guatemala para el 17 y 18 de octubre 2026",
+      "link": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-17-y-18-de-octubre-2026.html",
+      "fecha": "Fri, 16 Oct 2026 17:42:29 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Prepara el paraguas y la capa porque el Insivumeh anticipa tardes y noches lluviosas para el fin de semana del 17 y 18 de octubre de 2026. \nThe post Pronóstico del clima en Guatemala para el 17 y 18 de octubre 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué dijo Hansi Flick sobre el regreso de Raphinha y Frenkie de Jong al Barcelona?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/que-dijo-hansi-flick-sobre-el-regreso-de-raphinha-y-frenkie-de-jong-al-barcelona/",
+      "fecha": "Fri, 16 Oct 2026 17:23:14 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Barcelona recibió buenas noticias de cara al duelo ante el Betis, luego de que Hansi Flick confirmara la recuperación de dos piezas importantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PMT alerta por tránsito complicado este viernes 16 de octubre en la capital: estas son las zonas más afectadas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/pmt-alerta-por-transito-complicado-este-viernes-16-de-octubre-en-la-capital-estas-son-las-zonas-mas-afectadas-breaking/",
+      "fecha": "Fri, 16 Oct 2026 17:15:36 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El pago de quincena, varios eventos y el inicio del descanso por el fin de semana prolongado complicarán la movilidad vehicular en la capital."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "De una operación a una conversación con Putin: Así transcurre la recuperación del papa León XIV",
@@ -9,6 +129,22 @@
       "fecha": "Fri, 16 Oct 2026 17:07:53 +0000",
       "categoria": "Internacional",
       "resumen": "El papa León XIV mantuvo una conversación telefónica con el presidente de Rusia, Vladímir Putin, desde el hospital en el que está ingresado luego de su operación de pulmón."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lanquetin reina en el softbol femenino: logra el tricampeonato y estos son los últimos campeones",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/lanquetin-reina-en-el-softbol-femenino-logra-el-tricampeonato-y-estos-son-los-ultimos-campeones-breaking/",
+      "fecha": "Fri, 16 Oct 2026 17:04:29 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "Lanquetin celebró su tercer título consecutivo en el softbol femenino guatemalteco tras barrer 3-0 a Bombarderas en la serie final y conquistar el quinto campeonato de su historia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Huracán Trudy se fortalece en el Pacífico y qué día alcanzará la categoría 4 en México",
+      "link": "https://www.prensalibre.com/internacional/huracan-trudy-se-fortalece-en-el-pacifico-y-que-dia-alcanzara-la-categoria-4-en-mexico/",
+      "fecha": "Fri, 16 Oct 2026 16:57:32 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las autoridades mexicanas informaron que el huracán Trudy se fortalecerá más este fin de semana hasta alcanzar la categoría 4."
     },
     {
       "fuente": "Prensa Libre",
@@ -25,6 +161,14 @@
       "fecha": "Fri, 16 Oct 2026 16:00:00 +0000",
       "categoria": "Comunitario",
       "resumen": "El Insivumeh advierte sobre suelos con altos niveles de saturación de agua en municipios de nueve departamentos. La última emergencia dejó un hombre que murió soterrado en la zona 7 capitalina."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alfredo Adame ya fue condenado: ¿irá a la cárcel?",
+      "link": "https://www.prensalibre.com/vida/escenario/alfredo-adame-ya-fue-condenado-ira-a-la-carcel/",
+      "fecha": "Fri, 16 Oct 2026 15:56:33 +0000",
+      "categoria": "Escenario",
+      "resumen": "Tras demanda de Gustavo Adolfo Infante por comentarios contra su madre, el actor mexicano deberá cumplir condena."
     },
     {
       "fuente": "Prensa Libre",
@@ -620,6 +764,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "4 razones por las que la épica historia gay de &#8220;La Bola Negra&#8221; podría ganarle el Oscar a &#8220;La Odisea&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/4-razones-por-las-que-la-epica-historia-gay-de-la-bola-negra-podria-ganarle-el-oscar-a-la-odisea/",
+      "fecha": "Thu, 15 Oct 2026 17:57:53 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La película que se llevó la Palma de Oro a la mejor dirección en Cannes suena fuerte para la temporada de los Oscar."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Don Omar y su The Last King World Tour: además de Guatemala, ¿a qué países de Latinoamérica llegará la gira en el 2027?",
       "link": "https://www.prensalibre.com/vida/escenario/don-omar-y-su-the-last-king-world-tour-ademas-de-guatemala-a-que-paises-de-latinoamerica-llegara-la-gira-en-el-2027/",
       "fecha": "Thu, 15 Oct 2026 17:39:37 +0000",
@@ -659,148 +811,12 @@
       "resumen": "El maestro Joaquín Orellana presentará en el país la obra musical \"La tumba del Gran Lengua\", una cantata escénica dedicada a la obra del escritor guatemalteco y Premio Nobel de Literatura Miguel Ángel Asturias."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Ciclón Trudy se convierte en huracán y estas zonas de México tienen más riesgo de lluvias e inundaciones",
-      "link": "https://www.prensalibre.com/internacional/ciclon-trudy-se-convierte-en-huracan-y-estas-zonas-de-mexico-tienen-mas-riesgo-de-lluvias-e-inundaciones/",
-      "fecha": "Thu, 15 Oct 2026 17:03:04 +0000",
-      "categoria": "Internacional",
-      "resumen": "El ciclón Trudy se convirtió en huracán este 15 de octubre y podría afectar varias zonas de México con lluvias e inundaciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump cancela la transmisión en vivo de la ejecución con pelotón de fusilamiento del exmilitar Nidal Hasan",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-cancela-la-transmision-en-vivo-de-la-ejecucion-con-peloton-de-fusilamiento-del-exmilitar-nidal-hasan/",
-      "fecha": "Thu, 15 Oct 2026 16:55:08 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Trump dijo que algunos \"preferirían no ver\" la ejecución de Nidal Hasan, la primera a un exmilitar en más de 60 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Del diagnóstico al regreso al trabajo: ¿Qué ha informado el Vaticano sobre el papa León XIV?",
-      "link": "https://www.prensalibre.com/internacional/del-diagnostico-al-regreso-al-trabajo-que-ha-informado-el-vaticano-sobre-el-papa-leon-xiv/",
-      "fecha": "Thu, 15 Oct 2026 16:51:05 +0000",
-      "categoria": "Internacional",
-      "resumen": "Durante la hospitalización de un papa no existe la figura de un sustituto, aunque las normas permiten que la Curia Romana siga funcionando de forma autónoma para los asuntos corrientes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Xelajú  vs. Malacateco: siga el minuto a minuto del encuentro por la fecha 14",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-xelaju-vs-malacateco-siga-el-minuto-a-minuto-del-encuentro-por-la-fecha-14/",
-      "fecha": "Thu, 15 Oct 2026 16:37:36 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Con la obligación de sumar en casa, Xelajú MC recibe este jueves a un Malacateco que llega motivado tras ganar en la fecha anterior."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan a presunto responsable de agredir a una ascensorista en la zona 1",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-presunto-responsable-de-agredir-a-una-ascensorista-en-la-zona-1-breaking/",
-      "fecha": "Thu, 15 Oct 2026 16:32:47 +0000",
-      "categoria": "Justicia",
-      "resumen": "Omar \"N\" es capturado tras difundirse un video que muestra una agresión contra una ascensorista en un edificio de la zona 1."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Condenan a tres hombres de &#8220;Los H&#8221;, estructura vinculada con asesinatos, secuestros y narcotráfico en San Marcos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/condenan-a-tres-hombres-de-los-h-estructura-vinculada-con-asesinatos-secuestros-y-narcotrafico-en-san-marcos/",
-      "fecha": "Thu, 15 Oct 2026 16:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Un hombre murió al proteger a varios niños de un ataque de \"Los H\" en San Marcos. Según el MP, la banda tenía una \"firma criminal\": disparar 16 veces a sus víctimas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Disturbios en Ciudad Peronia dejan 12 vehículos destruidos o con daños: PNC revela cómo se originaron incidentes",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/disturbios-en-ciudad-peronia-dejan-12-vehiculos-destruidos-o-con-danos-pnc-revela-como-se-originaron-incidentes/",
-      "fecha": "Thu, 15 Oct 2026 15:44:00 +0000",
-      "categoria": "Sucesos",
-      "resumen": "La PNC amplía detalles sobre los disturbios en Ciudad Peronia, Villa Nueva, y presenta un recuento de los daños ocasionados a unidades policiales y vehículos particulares."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Vamos a tener que tomar medidas drásticas&#8221;: la advertencia de Roberto Montoya en Comunicaciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/vamos-a-tener-que-tomar-medidas-drasticas-la-advertencia-de-roberto-montoya-en-comunicaciones/",
-      "fecha": "Thu, 15 Oct 2026 15:26:20 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La crisis de Comunicaciones se agravó tras caer 2-1 ante Aurora FC en el estadio Cementos Progreso, resultado que mantiene al equipo crema lejos de los puestos de clasificación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De Starlink a la presidencia de Ucrania: Musk pide la renuncia de Zelenski en medio de las tensiones",
-      "link": "https://www.prensalibre.com/internacional/de-starlink-a-la-presidencia-de-ucrania-musk-pide-la-renuncia-de-zelenski-en-medio-de-las-tensiones/",
-      "fecha": "Thu, 15 Oct 2026 15:08:17 +0000",
-      "categoria": "Internacional",
-      "resumen": "Musk se sumó a los recientes llamados de Trump para reemplazar a Zelenski, luego de que Ucrania acusara a EE. UU. de favorecer a Rusia al no advertirle sobre los ataques con misiles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los rancheros que se cuestionan el apoyo a Trump en Nebraska, gran bastión del presidente",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/los-rancheros-que-se-cuestionan-el-apoyo-a-trump-en-nebraska-gran-bastion-del-presidente/",
-      "fecha": "Thu, 15 Oct 2026 14:55:19 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Muchos ganaderos de estados que apoyaron al presidente muestran su descontento a tan solo unas semanas de las cruciales elecciones de mitad de mandato."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Bam beneficia a más de 14 mil niños y jóvenes guatemaltecos con programas de educación y salud",
       "link": "https://www.guatemala.com/noticias/vida/bam-beneficia-a-mas-de-14-mil-ninos-y-jovenes-guatemaltecos.html",
       "fecha": "Thu, 15 Oct 2026 14:53:19 +0000",
       "categoria": "Vida",
       "resumen": "Bam fortalece la educación, salud e inclusión en Guatemala mediante iniciativas que han beneficiado a más de 14,100 niños, jóvenes y familias. \nThe post Bam beneficia a más de 14 mil niños y jóvenes guatemaltecos con programas de educación y salud appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué el Real Madrid tiene problemas defensivos pese al rendimiento de Courtois?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/por-que-el-real-madrid-tiene-problemas-defensivos-pese-al-rendimiento-de-courtois/",
-      "fecha": "Thu, 15 Oct 2026 14:51:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Ni las actuaciones de Courtois han sido suficientes para evitar los problemas defensivos que persiguen al Real Madrid en sus primeros partidos del curso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala registra tres temblores en pocas horas: dónde ocurrieron y cuál fue el de mayor magnitud",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-registra-tres-temblores-en-pocas-horas-donde-ocurrieron-y-cual-fue-el-de-mayor-magnitud-breaking/",
-      "fecha": "Thu, 15 Oct 2026 14:36:01 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh registra tres sismos este 15 de octubre y detalla cuál fue el de mayor magnitud."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jorge Vega ficha por el Spartak-Moscú y se convierte en el primer legionario centroamericano de gimnasia",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/jorge-vega-ficha-por-el-spartak-moscu-y-competira-en-la-liga-profesional-de-gimnasia-de-rusia/",
-      "fecha": "Thu, 15 Oct 2026 14:23:46 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El campeón guatemalteco viajará el 28 de octubre para reforzar al equipo ruso en la fase decisiva de la temporada, una oportunidad que considera el cumplimiento de uno de sus grandes sueños deportivos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;No he dicho ninguna palabra ofensiva&#8221;: Vinícius cuestiona su sanción de cuatro partidos",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/no-he-dicho-ninguna-palabra-ofensiva-vinicius-cuestiona-su-sancion-de-cuatro-partidos/",
-      "fecha": "Thu, 15 Oct 2026 14:20:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Vinícius Júnior cuestionó la sanción recibida tras su expulsión en la Liga española y aseguró que no comprende el trato que recibe por parte de los árbitros."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Así se integraría el MetroRiel a los puentes Frutal-Cenma y Ch’utb’al",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/asi-se-integraria-el-metroriel-a-los-puentes-frutal-cenma-y-chutbal/",
-      "fecha": "Thu, 15 Oct 2026 14:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los puentes Frutal-Cenma y Ch'utb'al tienen algo en común: sus diseños contemplan un nivel exclusivo para el MetroRiel. Esto es lo que se sabe sobre cómo se integraría el tren ligero a estas estructuras y qué avances registra el proyecto ferroviario."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Deslizamiento de tierra en zona 7 deja un hombre fallecido y cuatro personas evacuadas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/deslizamiento-de-tierra-en-zona-7-deja-un-hombre-fallecido-y-cuatro-personas-evacuadas-breaking/",
-      "fecha": "Thu, 15 Oct 2026 13:51:12 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Bomberos utilizan cuerdas para evacuar a cuatro personas tras deslizamiento en la zona 7; un hombre falleció."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tránsito complicado en Villa Canales y San Miguel Petapa por accidente entre bus y motocicleta",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/transito-complicado-en-villa-canales-y-san-miguel-petapa-por-accidente-entre-bus-y-motocicleta-breaking/",
-      "fecha": "Thu, 15 Oct 2026 13:15:14 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Motocicleta y bus extraurbano chocan en la ruta a Villa Canales; una persona resulta herida."
     },
     {
       "fuente": "Guatemala.com",
@@ -857,22 +873,6 @@
       "fecha": "Sun, 11 Oct 2026 15:36:34 +0000",
       "categoria": "Sociedad",
       "resumen": "Thelma Gabriela Girón conquistó la corona de Miss América Latina 2026, un certamen internacional celebrado en Punta Cana, República Dominicana.\nThe post Guatemalteca Gabriela Girón ganó Miss América Latina del Mundo 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Ximena Carrillo es tercera finalista del Miss Grand International 2026",
-      "link": "https://www.guatemala.com/noticias/entretenimiento/ximena-carrillo-tercera-finalista-miss-grand-international-2026.html",
-      "fecha": "Sat, 10 Oct 2026 16:09:03 +0000",
-      "categoria": "Entretenimiento",
-      "resumen": "Ximena Carrillo se convirtió en tercera finalista de Miss Grand International 2026 tras representar a Guatemala en la gran final del certamen.\nThe post Ximena Carrillo es tercera finalista del Miss Grand International 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Licenciatura en Global Business Management + Master in Management: una ruta para formarse en negocios globales",
-      "link": "https://www.guatemala.com/noticias/sociedad/licenciatura-global-business-management-master-management-uvg.html",
-      "fecha": "Fri, 09 Oct 2026 20:47:43 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Conoce la Licenciatura en Global Business Management + Master in Management de UVG, su ruta 4+1, especializaciones y opciones de ayuda financiera.\nThe post Licenciatura en Global Business Management + Master in Management: una ruta para formarse en negocios globales appeared first on Guatemala.com."
     }
   ]
 }
