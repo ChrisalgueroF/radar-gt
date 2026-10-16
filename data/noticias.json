@@ -1,7 +1,207 @@
 {
-  "actualizado": "2026-10-16T01:04:44.166Z",
+  "actualizado": "2026-10-16T06:54:50.760Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gremial de alimentos y bebidas respalda medidas de salud, pero pide reglas regionales para el etiquetado",
+      "link": "https://www.prensalibre.com/economia/gremial-de-alimentos-y-bebidas-respalda-medidas-de-salud-pero-pide-reglas-regionales-para-el-etiquetado/",
+      "fecha": "Fri, 16 Oct 2026 06:12:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La Gremial de Alimentos y Bebidas, adscrita a la Cámara de Industria de Guatemala, advierte de posibles aumentos en los costos de producción, dificultades para el comercio regional y efectos en más de dos mil micro, pequeñas y medianas empresas (mipymes) del sector."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jairo Flores defiende ley de etiquetado: “Es de orden informativo” y destaca su enfoque de salud",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/jairo-flores-defiende-ley-de-etiquetado-es-de-orden-informativo-y-destaca-su-enfoque-de-salud/",
+      "fecha": "Fri, 16 Oct 2026 06:12:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El diputado Jairo Flores señala que la iniciativa 5504 promueve la alimentación saludable, pero, al salir de la agenda del Congreso para su tercera lectura, lo prudente es dialogar con los distintos sectores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Economía de Guatemala crece 4.3% en el segundo trimestre del 2026, impulsada por la construcción, la inversión y el consumo",
+      "link": "https://www.prensalibre.com/economia/economia-de-guatemala-crece-4-3-en-el-segundo-trimestre-del-2026-impulsada-por-la-construccion-la-inversion-y-el-consumo/",
+      "fecha": "Fri, 16 Oct 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El dinamismo de las 17 actividades económicas y el aumento del consumo de los hogares, asociado al ingreso de remesas familiares, impulsaron el crecimiento de la economía durante el segundo trimestre del año, cuando se situó en 4.3%, según informó una fuente oficial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Al tambo",
+      "link": "https://www.prensalibre.com/opinion/caricatura/al-tambo/",
+      "fecha": "Fri, 16 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Diputados irresponsables acicatean bloqueos",
+      "link": "https://www.prensalibre.com/opinion/editorial/diputados-irresponsables-acicatean-bloqueos/",
+      "fecha": "Fri, 16 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Si quieren otorgar el bono, que renuncien al autoaumento, que limiten el número de “asesores” y allegados, que ahorren recursos y lo financien con fondos del Legislativo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El chapín abandonado en Liberia por Estados Unidos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-chapin-abandonado-en-liberia-por-estados-unidos/",
+      "fecha": "Fri, 16 Oct 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Nadie parece saberlo aquí, pero junto con otros 27 latinoamericanos se encuentra abandonado en Liberia, África."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué deben saber los no fumadores sobre el cáncer de pulmón",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/esto-es-lo-que-los-no-fumadores-deben-saber-sobre-el-cancer-de-pulmon/",
+      "fecha": "Fri, 16 Oct 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "El cáncer de pulmón es uno de los cánceres más comunes solo en Estados Unidos, afectando a casi 230 mil personas cada año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Rusia, China e Irán usan IA para influir en las elecciones de EE. UU.: así operan sus campañas",
+      "link": "https://www.prensalibre.com/internacional/rusia-china-e-iran-usan-ia-para-influir-en-las-elecciones-de-ee-uu-asi-operan-sus-campanas/",
+      "fecha": "Fri, 16 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Informes de inteligencia señalan campañas de influencia extranjera antes de las elecciones estadounidenses del 3 de noviembre, sin pruebas de manipulación del conteo de votos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La salud pública, una emergencia nacional",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-salud-publica-una-emergencia-nacional/",
+      "fecha": "Fri, 16 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La salud pública atraviesa una crisis que va más allá de las protestas. Hospitales con graves carencias y un gobierno en deuda con la población."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La factura del desencanto",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-factura-del-desencanto/",
+      "fecha": "Fri, 16 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La desaprobación hacia Arévalo refleja la frustración de una ciudadanía que no ve cambios de fondo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué una cárcel cuesta 10 veces más en Guatemala?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/por-que-una-carcel-cuesta10-veces-mas-en-guatemala/",
+      "fecha": "Fri, 16 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La reserva no es para que los mareros no sepan dónde cavar un túnel, sino para que los tributarios no sepamos que nos robaron Q1,200 millones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La opinión pública reprueba",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-opinion-publica-reprueba/",
+      "fecha": "Fri, 16 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Encuesta de opinión es muy desfavorable para el actual gobierno nacional"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy viernes 16 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-viernes-16-de-octubre-de-2026/",
+      "fecha": "Fri, 16 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Promesa de empleo en Facebook termina en pesadilla: adolescente hondureña permanecía retenida en Salamá",
+      "link": "https://www.prensalibre.com/guatemala/justicia/promesa-de-empleo-en-facebook-termina-en-pesadilla-adolescente-hondurena-permanecia-retenida-en-salama-breaking/",
+      "fecha": "Fri, 16 Oct 2026 05:02:24 +0000",
+      "categoria": "Justicia",
+      "resumen": "Una adolescente hondureña de 16 años desapareció el 11 de octubre, después de responder a una falsa oferta de trabajo publicada en Facebook. La PNC la rescató en una vivienda de Salamá, Baja Verapaz."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Investigación BBC: el ejército de Israel no ha hecho públicos los resultados de cientos de pesquisas por muertos y heridos en Medio Oriente",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/investigacion-bbc-el-ejercito-de-israel-no-ha-hecho-publicos-los-resultados-de-cientos-de-pesquisas-por-muertos-y-heridos-en-medio-oriente/",
+      "fecha": "Fri, 16 Oct 2026 04:02:05 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "BBC Verify ha identificado 254 incidentes de los últimos tres años que el ejército israelí ha declarado estar revisando tras haber sido acusado de causar daños, pero sin informar los resultados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tesla presenta el nuevo Roadster, un automóvil eléctrico capaz de volar y acelerar de 0 a 100 km/h en menos de un segundo",
+      "link": "https://www.prensalibre.com/internacional/tesla-presenta-el-nuevo-roadster-un-automovil-electrico-capaz-de-volar-y-acelerar-de-0-a-100-km-h-en-menos-de-un-segundo-breaking/",
+      "fecha": "Fri, 16 Oct 2026 04:01:25 +0000",
+      "categoria": "Internacional",
+      "resumen": "Tesla presentó una nueva generación del Roadster, un deportivo eléctrico con tecnología de SpaceX que, según la compañía, puede realizar maniobras aéreas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Torneo Apertura 2026: Suchitepéquez empata ante San Pedro y sigue hundido en el sótano",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-2026-suchitepequez-empata-ante-san-pedro-y-sigue-hundido-en-el-sotano/",
+      "fecha": "Fri, 16 Oct 2026 02:41:57 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los venados dejaron escapar la ventaja en casa y volvieron a desperdiciar puntos importantes, mientras los shecanos rescataron un empate que les permite mantenerse en la cuarta posición."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comparten ideas que buscan transformar la manera de hacer empresa",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/comparten-ideas-que-buscan-transformar-la-manera-de-hacer-empresa/",
+      "fecha": "Fri, 16 Oct 2026 02:32:59 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "En alianza con Merco Líderes, TEDxGuatemala City presentó OFF THE RECORD, un encuentro privado que reunió a líderes empresariales y voces relevantes del país alrededor de ideas sobre liderazgo, innovación, comunidad, capital humano y futuro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Esto puede ser un modelo de ataque”: advierten de falta de preparación y riesgos para la PNC tras disturbios en Ciudad Peronia",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/esto-puede-ser-un-modelo-de-ataque-advierten-de-falta-de-preparacion-y-riesgos-para-la-pnc-tras-disturbios-en-ciudad-peronia/",
+      "fecha": "Fri, 16 Oct 2026 02:30:25 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los ataques contra la PNC en Ciudad Peronia, tras el resguardo de un hombre señalado de presunta agresión sexual, evidenciaron, según analistas, debilidades en la preparación policial y riesgos de nuevos disturbios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Juez Maynor Moto aplaza audiencia de Jorge Rodas, señalado de homicidio tras arrollar a Nidia Renata Bautista",
+      "link": "https://www.prensalibre.com/guatemala/justicia/juez-maynor-moto-aplaza-audiencia-de-jorge-rodas-senalado-de-homicidio-tras-arrollar-a-nidia-renata-bautista/",
+      "fecha": "Fri, 16 Oct 2026 02:01:36 +0000",
+      "categoria": "Justicia",
+      "resumen": "El juez Maynor Moto aplazó para el 18 de noviembre la audiencia de etapa intermedia de Jorge Rodas, señalado de homicidio y lesiones culposas tras arrollar a dos personas en la zona 18 capitalina."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Netflix recortará mil puestos de trabajo: qué dicen sus ejecutivos y qué áreas serán afectadas",
+      "link": "https://www.prensalibre.com/vida/tecnologia/netflix-recortara-mil-puestos-de-trabajo-que-dicen-sus-ejecutivos-y-que-areas-seran-afectadas/",
+      "fecha": "Fri, 16 Oct 2026 01:52:45 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Netflix anunció una nueva ronda de despidos que afectará a unos mil empleados. Sus codirectores ejecutivos explican las razones y prioridades de los recortes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Eugenio Derbez denuncia intimidación contra latinos en EE. UU. y explica por qué llama a defender el voto",
+      "link": "https://www.prensalibre.com/internacional/eugenio-derbez-denuncia-intimidacion-contra-latinos-en-ee-uu-y-explica-por-que-llama-a-defender-el-voto/",
+      "fecha": "Fri, 16 Oct 2026 01:23:33 +0000",
+      "categoria": "Internacional",
+      "resumen": "Eugenio Derbez alerta sobre el miedo entre los latinos en EE. UU. y cuestiona las presiones para evitar que participen en las elecciones de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Puente Manuel José Arce: cómo funcionará el nuevo paso fronterizo, qué cambiará y cuáles serán las condiciones para cruzarlo",
+      "link": "https://www.prensalibre.com/guatemala/puente-manuel-jose-arce-como-funcionara-el-nuevo-paso-fronterizo-que-cambiara-y-cuales-seran-las-condiciones-para-cruzarlo/",
+      "fecha": "Fri, 16 Oct 2026 01:07:45 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El puente Manuel José Arce conecta Guatemala y El Salvador por la frontera de Ciudad Pedro de Alvarado y La Hachadura. Tiene cuatro carriles y nuevas instalaciones para los controles fronterizos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Puerto Quetzal registra reducción de buques en espera en medio de cambios en la administración portuaria",
+      "link": "https://www.prensalibre.com/economia/puerto-quetzal-reduce-la-congestion-de-buques-pero-enfrenta-dificultades-por-la-falta-de-gruas-e-infraestructura/",
+      "fecha": "Fri, 16 Oct 2026 01:05:40 +0000",
+      "categoria": "Economía",
+      "resumen": "Puerto Quetzal pasó de más de 50 buques en espera a entre cinco y siete, según el viceministro de Transportes, quien también señaló que el sistema portuario lleva más de 30 años sin ampliaciones estratégicas de atracaderos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "The Chosen: fecha de estreno, calendario de episodios, tráiler y todo lo que se sabe de la sexta temporada",
+      "link": "https://www.prensalibre.com/vida/escenario/the-chosen-fecha-de-estreno-calendario-de-episodios-trailer-y-todo-lo-que-se-sabe-de-la-sexta-temporada/",
+      "fecha": "Fri, 16 Oct 2026 01:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Una de las series más exitosas sobre la vida de Jesús regresará con una sexta temporada que abarcará las últimas horas que rodean su muerte. Esto debe conocer sobre su estreno."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Promueve el bienestar y los hábitos saludables como orgullosos patrocinadores",
@@ -601,206 +801,6 @@
       "fecha": "Thu, 15 Oct 2026 06:00:00 +0000",
       "categoria": "Guatemala No Se Detiene",
       "resumen": "Una demanda sostenida de entre 300 y 500 buses eléctricos al año podría hacer atractiva para una empresa la instalación de una operación en el país, según asociación del sector. Expertos ven desafíos en regulación, mano de obra y proveedores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Impulsarán la tecnología, la economía creativa y la transformación digital",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/impulsaran-la-tecnologia-la-economia-creativa-y-la-transformacion-digital/",
-      "fecha": "Thu, 15 Oct 2026 03:56:33 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "La Asociación Interactiva de Guatemala (IAB Guatemala) y la Asociación Guatemalteca de Exportadores (AGEXPORT) formalizan una alianza de cooperación institucional orientada a fortalecer los sectores de tecnología, economía creativa, publicidad y servicios digitales en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La nueva estrategia de Putin que busca que las ciudades de Ucrania sean invivibles",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/la-nueva-estrategia-de-putin-que-busca-que-las-ciudades-de-ucrania-sean-invivibles/",
-      "fecha": "Thu, 15 Oct 2026 03:16:51 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En las últimas semanas, Rusia ha intensificado sus ataques con misiles y drones contra la capital de Ucrania y otras ciudades importantes, alcanzando objetivos civiles, como escuelas, hospitales, hoteles, centros de datos, trenes y puentes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Simulacro de terremoto en California: qué busca el Great California ShakeOut y por qué es vital participar",
-      "link": "https://www.prensalibre.com/internacional/simulacro-de-terremoto-en-california-que-busca-el-great-california-shakeout-y-por-que-es-vital-participar/",
-      "fecha": "Thu, 15 Oct 2026 03:16:03 +0000",
-      "categoria": "Internacional",
-      "resumen": "California participa este 15 de octubre en un simulacro de terremoto para fortalecer la prevención y preparar a la población ante una emergencia sísmica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Marquense vs. Mixco: un punto separa a Leones y Chicharroneros en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-marquense-vs-mixco-un-punto-separa-a-leones-y-chicharroneros-en-el-apertura-2026-breaking/",
-      "fecha": "Thu, 15 Oct 2026 03:12:38 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Leones y Chicharroneros se enfrentan separados por un punto y con el objetivo de consolidarse entre los primeros puestos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Disturbios en Ciudad Peronia: Turba incendia vehículos y exige la entrega de detenido por supuesto abuso contra niño",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/disturbios-en-ciudad-peronia-turba-incendia-autopatrulla-y-exige-la-entrega-de-detenido-por-supuesto-abuso-contra-nino-breaking/",
-      "fecha": "Thu, 15 Oct 2026 03:10:53 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Una turba incendió una autopatrulla de la PNC y varios vehículos en Ciudad Peronia, Villa Nueva, mientras exigía que le entregaran a un hombre capturado por supuesto abuso sexual contra un niño."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Torneo Apertura: Antigua GFC empata frente a Guastatoya y asume el liderato",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-antigua-gfc-empata-frente-a-guastatoya-y-asume-el-liderato-breaking/",
-      "fecha": "Thu, 15 Oct 2026 02:56:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El conjunto colonial no logró mantener la ventaja en el estadio David Cordón Hichos y permitió que Guastatoya rescatara el empate."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De Kaminaljuyú a la zona 11: la ruta de un piloto de aplicación que sospechó de sus pasajeros y la alerta para quienes usan los servicios",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/de-kaminaljuyu-a-la-zona-11-la-ruta-de-un-piloto-de-aplicacion-que-sospecho-de-sus-pasajeros-y-la-alerta-para-quienes-usan-los-servicios/",
-      "fecha": "Thu, 15 Oct 2026 02:38:18 +0000",
-      "categoria": "Sucesos",
-      "resumen": "El presunto secuestro de un conductor de transporte por aplicación, que terminó con un sospechoso muerto y otro capturado, reavivó las preocupaciones por la seguridad de pilotos y pasajeros de estos servicios en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Nueva York busca prohibir los carruajes tirados por caballos en Central Park a partir de 2028?",
-      "link": "https://www.prensalibre.com/internacional/por-que-nueva-york-busca-prohibir-los-carruajes-tirados-por-caballos-en-central-park-a-partir-de-2028/",
-      "fecha": "Thu, 15 Oct 2026 02:31:07 +0000",
-      "categoria": "Internacional",
-      "resumen": "Nueva York acuerda poner fin a los tradicionales paseos en carruajes tirados por caballos en Central Park, una de sus estampas turísticas más conocidas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Conred insiste en cerrar el paso por el puente Pinula ante el riesgo por erosión en Villa Hermosa",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/conred-insiste-en-cerrar-el-paso-por-el-puente-pinula-ante-el-riesgo-por-erosion-en-villa-hermosa-breaking/",
-      "fecha": "Thu, 15 Oct 2026 02:27:01 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Conred insiste en cerrar el paso vehicular y peatonal por el puente Pinula, en Villa Hermosa, San Miguel Petapa, ante la vulnerabilidad de la estructura."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Celdas, áreas de aislamiento y control de visitas: así es el Centro de Alta Contención contra el Crimen Organizado (Cacco) inagurado en Costa Rica",
-      "link": "https://www.prensalibre.com/internacional/celdas-areas-de-aislamiento-y-control-de-visitas-asi-es-el-centro-de-alta-contencion-contra-el-crimen-organizado-cacco-inagurado-en-costa-rica/",
-      "fecha": "Thu, 15 Oct 2026 02:24:35 +0000",
-      "categoria": "Internacional",
-      "resumen": "¿Cómo es por dentro la megacárcel que estrenó Costa Rica inspirada en el modelo de Bukele? Conozca los detalles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Barriletes gigantes volverán a atraer miradas en Sumpango",
-      "link": "https://www.prensalibre.com/vida/escenario/barriletes-gigantes-volveran-a-atraer-miradas-en-sumpango/",
-      "fecha": "Thu, 15 Oct 2026 01:46:38 +0000",
-      "categoria": "Escenario",
-      "resumen": "El festival cultural con el que se celebra el 1 de noviembre volverá a reunir a miles de guatemaltecos y extranjeros por su belleza y misticismo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. refuerza su presencia militar en América Latina con el envío de 600 soldados a Panamá",
-      "link": "https://www.prensalibre.com/internacional/ee-uu-refuerza-su-presencia-militar-en-america-latina-con-el-envio-de-600-soldados-a-panama/",
-      "fecha": "Thu, 15 Oct 2026 01:16:10 +0000",
-      "categoria": "Internacional",
-      "resumen": "Estados Unidos comenzó a enviar unos 600 soldados a Panamá para ampliar sus operaciones contra el narcotráfico en América Latina, según The New York Times."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Precios de combustibles en Guatemala suben entre el 12 y 15 de octubre: ¿qué se prevé para los próximos días?",
-      "link": "https://www.prensalibre.com/economia/precios-de-combustibles-en-guatemala-suben-entre-el-12-y-15-de-octubre-que-se-preve-para-los-proximos-dias/",
-      "fecha": "Thu, 15 Oct 2026 01:13:54 +0000",
-      "categoria": "Economía",
-      "resumen": "Los precios de la gasolina y el diésel vuelven a subir en Guatemala, aunque se mantienen cerca de los valores estimados por el Gobierno al aplicar la exención de impuestos el 1 de octubre. ¿Qué está provocando los incrementos y qué se puede anticipar sobre los precios de los combustibles en los próximos días?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comunicaciones pierde ante Aurora y profundiza su crisis en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-cae-ante-aurora-y-profundiza-su-crisis-en-el-apertura-2026-breaking/",
-      "fecha": "Thu, 15 Oct 2026 01:09:37 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los Cremas volvieron a dejar escapar el resultado en casa, sufrieron su segunda derrota consecutiva y siguen sin encontrar respuestas bajo el mando de Roberto Montoya."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Recen por mí”: las palabras del papa León XIV tras ser operado por un adenocarcinoma pulmonar",
-      "link": "https://www.prensalibre.com/internacional/recen-por-mi-las-palabras-del-papa-leon-xiv-tras-ser-operado-por-un-adenocarcinoma-pulmonar/",
-      "fecha": "Thu, 15 Oct 2026 01:06:10 +0000",
-      "categoria": "Internacional",
-      "resumen": "El papa León XIV pide a los fieles que recen por él y agradece sus oraciones en su primer mensaje tras ser operado por un tipo de cáncer de pulmón en Roma."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "A un mes del Festival de las Flores, así se prepara la Antigua Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/a-un-mes-del-festival-de-las-flores-asi-se-prepara-la-antigua-guatemala/",
-      "fecha": "Thu, 15 Oct 2026 00:54:27 +0000",
-      "categoria": "Escenario",
-      "resumen": "Tanto el público como los expositores y participantes en las diversas actividades están listos para la celebración de la décima edición del festejo floral."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué el MP puede tardar horas en llegar a una escena del crimen?",
-      "link": "https://www.prensalibre.com/guatemala/justicia/por-que-el-mp-puede-tardar-horas-en-llegar-a-una-escena-del-crimen/",
-      "fecha": "Thu, 15 Oct 2026 00:37:19 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Ministerio Público expuso las limitaciones para atender escenas del crimen durante la presentación de su proyecto de presupuesto para el 2027, que asciende a Q5 mil 481 millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Exigían Q50 mil por liberar a una víctima: capturan a dos sospechosos de secuestro en San José Poaquil",
-      "link": "https://www.prensalibre.com/guatemala/justicia/exigian-q50-mil-por-liberar-a-una-victima-capturan-a-dos-sospechosos-de-secuestro-en-san-jose-poaquil/",
-      "fecha": "Thu, 15 Oct 2026 00:18:28 +0000",
-      "categoria": "Justicia",
-      "resumen": "Capturan en la zona 7 a dos presuntos implicados en un caso de secuestro, por cuya víctima exigían Q50 mil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿El país más seguro del mundo? Por qué Nayib Bukele dice que El Salvador va por ese camino, aunque hay muertes que no se contabilizan",
-      "link": "https://www.prensalibre.com/internacional/el-pais-mas-seguro-del-mundo-por-que-nayib-bukele-dice-que-el-salvador-va-por-ese-camino/",
-      "fecha": "Thu, 15 Oct 2026 00:02:26 +0000",
-      "categoria": "Internacional",
-      "resumen": "Nayib Bukele afirma que El Salvador avanza hacia ser el país más seguro del mundo, pero las cifras de homicidios y el régimen de excepción generan debate."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Acusan al ICE de atropellar intencionalmente a un migrante en Texas: el video que muestra lo ocurrido",
-      "link": "https://www.prensalibre.com/internacional/acusan-al-ice-de-atropellar-intencionalmente-a-un-migrante-en-texas-el-video-que-muestra-lo-ocurrido/",
-      "fecha": "Wed, 14 Oct 2026 23:59:21 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un video tomado por una cámara de seguridad muestra cómo una supuesta camioneta del ICE atropella intencionalmente a un migrante mexicano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De presunto asaltante a víctima de golpiza: vecinos de la zona 19 vapulean a hombre vinculado con la Mara 18",
-      "link": "https://www.prensalibre.com/guatemala/justicia/de-presunto-asaltante-a-victima-de-golpiza-vecinos-de-la-zona-19-vapulean-a-hombre-vinculado-con-la-mara-18-breaking/",
-      "fecha": "Wed, 14 Oct 2026 23:54:23 +0000",
-      "categoria": "Justicia",
-      "resumen": "Vecinos de la colonia La Florida vapulearon a un presunto pandillero al que sorprendieron cuando supuestamente robaba a peatones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué son las ondas Kelvin detrás del oleaje destructivo que está afectando a las costas de México y el sur de California",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-son-las-ondas-kelvin-detras-del-oleaje-destructivo-que-esta-afectando-a-las-costas-de-mexico-y-el-sur-de-california/",
-      "fecha": "Wed, 14 Oct 2026 23:52:25 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Desde las exclusivas residencias frente a la playa en el sur de California hasta los populares hoteles y restaurantes a lo largo de la costa del Pacífico en México, el fuerte oleaje de las últimas semanas está causando graves destrozos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Guastatoya vs. Antigua: siga el minuto a minuto del encuentro por la fecha 14",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guastatoya-vs-antigua-siga-el-minuto-a-minuto-del-encuentro-por-la-fecha-14/",
-      "fecha": "Wed, 14 Oct 2026 23:50:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Con la posibilidad de asumir el liderato de manera momentánea, Guastatoya y Antigua GFC medirán fuerzas en un compromiso de alto impacto correspondiente a la jornada 14."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Don Omar vendrá a Guatemala: ¿Qué dijo y qué se reservó acerca de su gira?",
-      "link": "https://www.prensalibre.com/vida/escenario/don-omar-vendra-a-guatemala-que-dijo-y-que-se-reservo-acerca-de-su-gira/",
-      "fecha": "Wed, 14 Oct 2026 23:22:20 +0000",
-      "categoria": "Escenario",
-      "resumen": "El cantante, compositor y productor puertorriqueño anunció la llegada de su The Last King World Tour al país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Día de la Revolución en Guatemala 2026: por qué se celebra, cuántos años se cumplen y qué pasará con el asueto",
-      "link": "https://www.prensalibre.com/vida/escenario/dia-de-la-revolucion-en-guatemala-2026-por-que-se-celebra-cuantos-anos-se-cumplen-y-que-pasara-con-el-asueto/",
-      "fecha": "Wed, 14 Oct 2026 23:09:26 +0000",
-      "categoria": "Escenario",
-      "resumen": "Uno de los movimientos civiles más trascendentales de la historia política y social será conmemorado en Guatemala con actividades culturales y marchas. Conozca por qué se celebra el Día de la Revolución."
     },
     {
       "fuente": "Guatemala.com",
