@@ -1,7 +1,135 @@
 {
-  "actualizado": "2026-10-16T12:12:28.130Z",
+  "actualizado": "2026-10-16T17:15:26.386Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De una operación a una conversación con Putin: Así transcurre la recuperación del papa León XIV",
+      "link": "https://www.prensalibre.com/internacional/de-una-operacion-a-una-conversacion-con-putin-asi-transcurre-la-recuperacion-del-papa-leon-xiv/",
+      "fecha": "Fri, 16 Oct 2026 17:07:53 +0000",
+      "categoria": "Internacional",
+      "resumen": "El papa León XIV mantuvo una conversación telefónica con el presidente de Rusia, Vladímir Putin, desde el hospital en el que está ingresado luego de su operación de pulmón."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga Nacional: así quedó la tabla de posiciones del Torneo Apertura 2026 tras la jornada 14",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-asi-quedo-la-tabla-de-posiciones-del-torneo-apertura-2026-tras-la-jornada-14/",
+      "fecha": "Fri, 16 Oct 2026 16:14:55 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La jornada 14 dejó un nuevo líder en la Liga Nacional, mientras la pelea por clasificar a la liguilla continúa más ajustada que nunca."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Intensas lluvias elevan riesgo en Guatemala: se triplican los municipios con suelos saturados, de 10 a 29",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/intesas-lluvias-elevan-riesgo-en-guatemala-se-triplican-los-municipios-con-suelos-saturados-de-10-a-29/",
+      "fecha": "Fri, 16 Oct 2026 16:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh advierte sobre suelos con altos niveles de saturación de agua en municipios de nueve departamentos. La última emergencia dejó un hombre que murió soterrado en la zona 7 capitalina."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuñado de Hayden Panettiere trató de salvarla: revelan angustiosa llamada al 911",
+      "link": "https://www.prensalibre.com/vida/escenario/cunado-de-hayden-panettiere-trato-de-salvarla-revelan-angustiosa-llamada-al-911/",
+      "fecha": "Fri, 16 Oct 2026 15:50:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La desesperación del hermano del novio de la actriz  se escucha en un audio recientemente revelado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Recuperan furgón que transportaba fertilizante valorado en más de Q200 mil y capturan a sospechosos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/recuperan-furgon-que-transportaba-fertilizante-valorado-en-mas-de-q200-mil-y-capturan-a-sospechosos-breaking/",
+      "fecha": "Fri, 16 Oct 2026 15:46:31 +0000",
+      "categoria": "Justicia",
+      "resumen": "Una denuncia ciudadana permitió la captura de dos presuntos robafurgones en la autopista Palín-Escuintla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tenía 16 años: qué se sabe del atacante que mató a tres niños y una maestra en escuela de Oregón",
+      "link": "https://www.prensalibre.com/internacional/tenia-16-anos-que-se-sabe-del-atacante-que-mato-a-tres-ninos-y-una-maestra-en-escuela-de-oregon/",
+      "fecha": "Fri, 16 Oct 2026 15:33:34 +0000",
+      "categoria": "Internacional",
+      "resumen": "Tres niños de cinco, ocho y once años y una maestra murieron luego de que un tirador de 16 años forzara su acceso a la escuela primaria Silver Rail, en Oregón."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "30 años de la tragedia del Mateo Flores: la noche en que el futbol guatemalteco quedó de luto",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/30-anos-de-la-tragedia-del-mateo-flores-la-noche-en-que-el-futbol-guatemalteco-quedo-de-luto/",
+      "fecha": "Fri, 16 Oct 2026 15:21:05 +0000",
+      "categoria": "Deportes",
+      "resumen": "Este 16 de octubre se cumplen 30 años de la tragedia del estadio Mateo Flores, un acontecimiento que dejó 83 personas fallecidas y más de 200 heridas durante el partido entre Guatemala y Costa Rica por las eliminatorias rumbo al Mundial de Francia 1998."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Temblor de magnitud 5.1 y otros dos sismos registra el Insivumeh en las últimas horas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-magnitud-5-1-y-otros-dos-sismos-registra-el-insivumeh-en-las-ultimas-horas-breaking/",
+      "fecha": "Fri, 16 Oct 2026 14:46:55 +0000",
+      "categoria": "Comunitario",
+      "resumen": "En las últimas horas se han registrado tres temblores con epicentros en distintos puntos, según el Insivumeh."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Carlos Barahona, jugador de Amarini Villatoro, detenido por vínculos con préstamos gota a gota",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/carlos-barahona-jugador-de-amarini-villatoro-detenido-por-vinculos-con-prestamos-gota-a-gota/",
+      "fecha": "Fri, 16 Oct 2026 14:32:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La noticia se conoció apenas unas horas después de que Carlos Barahona participara con el Club Sport Cartaginés en el campeonato nacional de Costa Rica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Jugará Vinícius Júnior contra el Barcelona tras el recurso del Real Madrid?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/jugara-vinicius-junior-contra-el-barcelona-tras-el-recurso-del-real-madrid/",
+      "fecha": "Fri, 16 Oct 2026 14:30:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El atacante brasileño Vinícius Júnior será una de las bajas más sensibles del Real Madrid para los próximos partidos del campeonato español."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Billy Joel no puede subir a los escenarios: el artista revela las consecuencias de su afección cerebral",
+      "link": "https://www.prensalibre.com/vida/escenario/billy-joel-no-puede-subir-a-los-escenarios-el-artista-revela-las-consecuencias-de-su-afeccion-cerebral/",
+      "fecha": "Fri, 16 Oct 2026 14:22:17 +0000",
+      "categoria": "Escenario",
+      "resumen": "El artista admite que, entre otras actividades que no puede realizar, se encuentra realizar conciertos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Lloverá este fin de semana en Guatemala? Esto pronostica el Insivumeh para el 17 y 18 de octubre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/llovera-este-fin-de-semana-en-guatemala-esto-pronostica-el-insivumeh-para-el-17-y-18-de-octubre-breaking/",
+      "fecha": "Fri, 16 Oct 2026 13:58:20 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El boletín del Insivumeh detalla las condiciones de lluvia previstas en el territorio nacional y las temperaturas máximas para el fin de semana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo los centros de datos de IA se convirtieron en un elemento clave en la batalla política en EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-los-centros-de-datos-de-ia-se-convirtieron-en-un-elemento-clave-en-la-batalla-politica-en-ee-uu/",
+      "fecha": "Fri, 16 Oct 2026 13:52:58 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La oposición a las instalaciones se extiende por el país y los políticos toman partido en un asunto que gana protagonismo en las inminentes elecciones al Congreso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué el Real Madrid exige la dimisión inmediata de Javier Tebas de sus cargos en LaLiga y la RFEF?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/por-que-el-real-madrid-exige-la-dimision-inmediata-de-javier-tebas-de-sus-cargos-en-laliga-y-la-rfef/",
+      "fecha": "Fri, 16 Oct 2026 13:52:30 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La tensión entre el Real Madrid y Javier Tebas aumentó este viernes, luego de que el club blanco solicitara la salida del presidente de LaLiga por unas declaraciones que calificó de ofensivas e inadmisibles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Motorista fallece en Villa Canales y tráiler se incendia en ruta al Pacífico: reportan complicaciones viales",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/motorista-fallece-en-villa-canales-y-trailer-se-incendia-en-ruta-al-pacifico-reportan-complicaciones-viales-breaking/",
+      "fecha": "Fri, 16 Oct 2026 13:04:47 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El tránsito registra complicaciones en Villa Canales, Villa Nueva y San Miguel Petapa debido a percances viales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;De la revolución al arte&#8221;: una muestra de cuatro décadas de grabado y exponentes de la plástica",
+      "link": "https://www.prensalibre.com/vida/escenario/de-la-revolucion-al-arte-una-muestra-de-cuatro-decadas-de-grabado-y-exponentes-de-la-plastica/",
+      "fecha": "Fri, 16 Oct 2026 12:20:35 +0000",
+      "categoria": "Escenario",
+      "resumen": "Obras de 27 artistas  se exhiben en esta exposición que estará abierta hasta el 15 de noviembre."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Industria de alimentos y bebidas genera una huella económica de Q207 mil millones anuales en Guatemala",
@@ -9,6 +137,14 @@
       "fecha": "Fri, 16 Oct 2026 11:00:00 +0000",
       "categoria": "Economía",
       "resumen": "Un estudio de Cabi estima que la huella económica del sector de alimentos y bebidas equivale al 23.6% del PIB nacional. Se destaca  la importancia del aporte del sector, pero se indica que es necesario impulsar acciones para mantener el dinamismo de las exportaciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-el-internet-de-starlink-es-clave-en-la-guerra-de-drones-de-ucrania-contra-rusia/",
+      "fecha": "Fri, 16 Oct 2026 10:46:10 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Starlink es considerada la \"columna vertebral de las comunicaciones militares en Ucrania\", proporcionando internet de alta velocidad vital a las fuerzas armadas en todo el país."
     },
     {
       "fuente": "Prensa Libre",
@@ -132,10 +268,10 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Tesla presenta el nuevo Roadster, un automóvil eléctrico capaz de volar y acelerar de 0 a 100 km/h en menos de un segundo",
-      "link": "https://www.prensalibre.com/internacional/tesla-presenta-el-nuevo-roadster-un-automovil-electrico-capaz-de-volar-y-acelerar-de-0-a-100-km-h-en-menos-de-un-segundo-breaking/",
+      "titulo": "Tesla presenta el nuevo Roadster, un deportivo capaz de volar y acelerar de 0 a 100 km/h en menos de un segundo",
+      "link": "https://www.prensalibre.com/vida/tecnologia/tesla-presenta-el-nuevo-roadster-un-automovil-electrico-capaz-de-volar-y-acelerar-de-0-a-100-km-h-en-menos-de-un-segundo-breaking/",
       "fecha": "Fri, 16 Oct 2026 04:01:25 +0000",
-      "categoria": "Internacional",
+      "categoria": "Tecnología",
       "resumen": "Tesla presentó una nueva generación del Roadster, un deportivo eléctrico con tecnología de SpaceX que, según la compañía, puede realizar maniobras aéreas."
     },
     {
@@ -197,7 +333,7 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Puerto Quetzal registra reducción de buques en espera en medio de cambios en la administración portuaria",
-      "link": "https://www.prensalibre.com/economia/puerto-quetzal-reduce-la-congestion-de-buques-pero-enfrenta-dificultades-por-la-falta-de-gruas-e-infraestructura/",
+      "link": "https://www.prensalibre.com/economia/puerto-quetzal-registra-reduccion-de-buques-en-espera-en-medio-de-cambios-en-la-administracion-portuaria/",
       "fecha": "Fri, 16 Oct 2026 01:05:40 +0000",
       "categoria": "Economía",
       "resumen": "Puerto Quetzal pasó de más de 50 buques en espera a entre cinco y siete, según el viceministro de Transportes, quien también señaló que el sistema portuario lleva más de 30 años sin ampliaciones estratégicas de atracaderos."
@@ -665,142 +801,6 @@
       "fecha": "Thu, 15 Oct 2026 13:15:14 +0000",
       "categoria": "Sucesos",
       "resumen": "Motocicleta y bus extraurbano chocan en la ruta a Villa Canales; una persona resulta herida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Historias fantasmales sin base científica&#8221;: Meredith Whittaker, una de las mujeres más influyentes del sector tecnológico, sobre los peligros de la IA",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/historias-fantasmales-sin-base-cientifica-meredith-whittaker-una-de-las-mujeres-mas-influyentes-del-sector-tecnologico-sobre-los-peligros-de-la-ia/",
-      "fecha": "Thu, 15 Oct 2026 12:50:23 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En una entrevista exclusiva con la BBC, la directora de Signal afirma que la amenaza de la IA ha sido malinterpretada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Seguridad vial: nueva guía busca detectar riesgos en carreteras antes de que ocurran accidentes",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/seguridad-vial-nueva-guia-busca-detectar-riesgos-en-carreteras-antes-de-que-ocurran-accidentes/",
-      "fecha": "Thu, 15 Oct 2026 12:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La guía y el manual plantean revisar factores como la velocidad, las intersecciones, las barreras de contención y las condiciones para peatones y motociclistas, con el fin de detectar riesgos antes y durante la operación de una carretera."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mueren más de 30 niños y un maestro en Pakistán tras el derrumbe del techo de una escuela",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/mueren-mas-de-30-ninos-y-un-maestro-en-pakistan-tras-el-derrumbe-del-techo-de-una-escuela/",
-      "fecha": "Thu, 15 Oct 2026 11:23:57 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El derrumbe de un tejado en una escuela privada en Pakistán dejó más de 30 muertos, en su mayoría niños. El propietario de la institución ha sido detenido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "4 razones por las que la película española &#8220;La Bola Negra&#8221; podría ganarle el Oscar a &#8220;La Odisea&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/4-razones-por-las-que-la-pelicula-espanola-la-bola-negra-podria-ganarle-el-oscar-a-la-odisea/",
-      "fecha": "Thu, 15 Oct 2026 10:39:02 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La película que se llevó la Palma de Oro a la mejor dirección en Cannes suena fuerte para la temporada de los Oscar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Campaña anticipada: Políticos pondrán a prueba la supremacía del TSE frente a decisiones judiciales",
-      "link": "https://www.prensalibre.com/guatemala/politica/campana-anticipada-politicos-pondran-a-prueba-la-supremacia-del-tse-frente-a-decisiones-judiciales/",
-      "fecha": "Thu, 15 Oct 2026 07:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El TSE reporta 259 denuncias por posible campaña anticipada de las que 183 son contra particulares mientras que 46 involucran a funcionarios públicos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Regreso de Jonathan Menkos a Finanzas: analistas advierten desgaste político y riesgos para el presupuesto 2027",
-      "link": "https://www.prensalibre.com/economia/regreso-de-jonathan-menkos-a-finanzas-analistas-advierten-desgaste-politico-y-riesgos-para-el-presupuesto-2027/",
-      "fecha": "Thu, 15 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El retorno de Jonathan Menkos al Ministerio de Finanzas Públicas ocurre después de que la CC suspendiera su nombramiento en el Banguat. Analistas examinan las implicaciones políticas y económicas de su reincorporación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El sueño de Jenny",
-      "link": "https://www.prensalibre.com/opinion/caricatura/el-sueno-de-jenny/",
-      "fecha": "Thu, 15 Oct 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Disputa de mafias exacerba lío limítrofe",
-      "link": "https://www.prensalibre.com/opinion/editorial/disputa-de-mafias-exacerba-lio-limitrofe/",
-      "fecha": "Thu, 15 Oct 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Es evidente que hay mucho más que el localismo como motivación para continuar las escaramuzas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuando el cáncer llega a la familia",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/cuando-el-cancer-llega-a-la-familia/",
-      "fecha": "Thu, 15 Oct 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Descentralizar y desconcentrar las atenciones a pacientes con cáncer es una prioridad en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estas infecciones comunes pueden causar cáncer: ¿Cómo reducir el riesgo?",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/estas-infecciones-comunes-pueden-causar-cancer-como-reducir-el-riesgo/",
-      "fecha": "Thu, 15 Oct 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "El 12% de los nuevos casos de cáncer en todo el mundo en el 2024 fueron causados ​​por agentes infecciosos como virus y bacterias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cinco aspirantes buscan dirigir Conamigua entre cuestionamientos por sus perfiles",
-      "link": "https://www.prensalibre.com/guatemala/politica/cinco-aspirantes-buscan-dirigir-conamigua-entre-cuestionamientos-por-sus-perfiles/",
-      "fecha": "Thu, 15 Oct 2026 06:05:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Comisión de Migrantes del Congreso presentó la nómina de aspirantes para dirigir Conamigua durante el período 2026-2029, mientras surgen cuestionamientos sobre la experiencia y los vínculos políticos de algunos candidatos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los signos vitales de la Tierra alertan sobre un cambio climático que podría ser irreversible",
-      "link": "https://www.prensalibre.com/internacional/los-signos-vitales-de-la-tierra-alertan-sobre-un-cambio-climatico-que-podria-ser-irreversible/",
-      "fecha": "Thu, 15 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un nuevo informe científico advierte sobre niveles récord de gases de efecto invernadero y pérdida de hielo, aunque destaca avances en energías renovables."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La reconstrucción de Venezuela",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-reconstruccion-de-venezuela/",
-      "fecha": "Thu, 15 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Si a Ud. le preguntaran si invertiría en Venezuela hoy, ¿lo haría? Me imagino que diría que no."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La JM y la política",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-jm-y-la-politica/",
-      "fecha": "Thu, 15 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La designación a contracorriente del empresariado del principal responsable de la macroeconomía del Estado no es beneficiosa para el país en su conjunto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Malestares galos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/malestares-galos/",
-      "fecha": "Thu, 15 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Exhibe fundamentalmente un nihilismo violento"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El IVA-crédito y la exención a combustibles",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-iva-credito-y-la-exencion-a-combustibles/",
-      "fecha": "Thu, 15 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La operación está afecta, pero por disposición de la ley se dispensa el pago del impuesto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy jueves 15 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-15-de-octubre-de-2026/",
-      "fecha": "Thu, 15 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
     },
     {
       "fuente": "Guatemala.com",
