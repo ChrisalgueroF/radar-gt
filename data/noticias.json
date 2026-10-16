@@ -1,7 +1,135 @@
 {
-  "actualizado": "2026-10-15T22:02:34.883Z",
+  "actualizado": "2026-10-16T01:04:44.166Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Promueve el bienestar y los hábitos saludables como orgullosos patrocinadores",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/promueve-el-bienestar-y-los-habitos-saludables-como-orgullosos-patrocinadores/",
+      "fecha": "Fri, 16 Oct 2026 00:56:37 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Por segundo año consecutivo, InterConsumo participa como patrocinador de una de las carreras familiares más esperadas del país, Corre por el Zoo 2026 la reconocida carrera organizada por el Zoológico La Aurora, en Pro de la convivencia familiar y los hábitos de vida saludables."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos picops son blanco de ataques armados que dejan cuatro muertos en la capital y San Miguel Petapa",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-picops-son-blanco-de-ataques-armados-que-dejan-cuatro-muertos-en-la-capital-y-san-miguel-petapa-breaking/",
+      "fecha": "Fri, 16 Oct 2026 00:42:00 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Cuatro personas murieron en dos ataques armados registrados en la zona 6 de la capital y en San Miguel Petapa. Las víctimas viajaban en vehículos cuando ocurrieron los hechos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Al menos 3 niños y un adulto mueren en un tiroteo en una escuela primaria de Oregón, según medios en EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/al-menos-3-ninos-y-un-adulto-mueren-en-un-tiroteo-en-una-escuela-primaria-de-oregon-segun-medios-en-ee-uu/",
+      "fecha": "Fri, 16 Oct 2026 00:30:10 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El incidente ocurrió en la escuela Silver Rail de la localidad de Bend alrededor de las 13:00, hora local. El sospechoso fue abatido, indicó la policía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Nuestra comunidad está bajo ataque”: el mensaje al borde del llanto que marcó el debut de Los Tigres del Norte en Tiny Desk Concert",
+      "link": "https://www.prensalibre.com/vida/escenario/somos-mas-americanos-el-mensaje-que-los-tigres-del-norte-llevaron-en-su-primera-participacion-en-tiny-desk-concert/",
+      "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Por primera vez, la banda mexicana Los Tigres del Norte se presentó en el formato musical de la radio NPR, donde envió un mensaje a favor de la comunidad migrante."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Industria de alimentos y bebidas identifica tres desafíos para ser más competitiva en Guatemala",
+      "link": "https://www.prensalibre.com/economia/industria-de-alimentos-y-bebidas-identifica-tres-desafios-para-ser-mas-competitiva-en-guatemala/",
+      "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La integración regional, la innovación tecnológica y la formación de talento figuran entre los principales desafíos para mejorar la competitividad del sector, según lo expuesto durante el VI Foro de la Industria de Alimentos y Bebidas de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Suchitepéquez vs. San Pedro: siga el minuto a minuto del último encuentro de la fecha 14",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-suchitepequez-vs-san-pedro-siga-el-minuto-a-minuto-del-ultimo-encuentro-de-la-fecha-14/",
+      "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Suchitepéquez y San Pedro cierran este miércoles la jornada 14 del Apertura 2026 en el estadio Carlos Salazar Hijo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“La Patrona”, exreina de belleza capturada por tercera vez: qué revelan las investigaciones por extorsión",
+      "link": "https://www.prensalibre.com/guatemala/justicia/la-patrona-exreina-de-belleza-capturada-por-tercera-vez-que-revelan-las-investigaciones-por-extorsion/",
+      "fecha": "Thu, 15 Oct 2026 23:25:52 +0000",
+      "categoria": "Justicia",
+      "resumen": "Una mujer de 21 años, que participó en un certamen de belleza en el 2023, fue recapturada por la PNC. Las autoridades reportan otras dos detenciones relacionadas con extorsión desde noviembre del 2025."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;No estaría aquí&#8221;: la respuesta de Trump cuando habló de si bebía o fumaba a sus 80 años",
+      "link": "https://www.prensalibre.com/internacional/no-estaria-aqui-la-respuesta-de-trump-cuando-hablo-de-si-bebia-o-fumaba-a-sus-80-anos/",
+      "fecha": "Thu, 15 Oct 2026 23:16:41 +0000",
+      "categoria": "Internacional",
+      "resumen": "En la Casa Blanca, el presidente Donald Trump habló de si él fumaba o consumía alcohol a sus 80 años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Rojos fallan y Cobán aprovecha para ganar y salir del penúltimo lugar en el Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/rojos-fallan-y-coban-aprovecha-para-ganar-y-salir-del-penultimo-lugar-en-el-apertura-2026-breaking/",
+      "fecha": "Thu, 15 Oct 2026 23:07:27 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Municipal dejó escapar la oportunidad de recuperar el liderato del Apertura 2026 y cayó 2-1 en su visita al estadio José Ángel Rossi."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Exportaciones de Guatemala crecerían 13% en 2026: aranceles y puertos ponen a prueba al sector, según la Cepal",
+      "link": "https://www.prensalibre.com/economia/exportaciones-de-guatemala-crecerian-13-en-2026-aranceles-y-puertos-ponen-a-prueba-al-sector-segun-la-cepal/",
+      "fecha": "Thu, 15 Oct 2026 23:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El organismo internacional proyecta un aumento del 13% en las exportaciones de bienes y del 11% en las de servicios. Sus autoridades destacan las oportunidades de inversión, aunque advierten sobre las deficiencias portuarias y digitales que afectan la competitividad del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Insivumeh alerta por saturación del suelo en 12 departamentos en medio de lluvias que dejan 22 muertos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/insivumeh-alerta-por-saturacion-del-suelo-en-12-departamentos-mientras-las-lluvias-dejan-22-muertos-breaking/",
+      "fecha": "Thu, 15 Oct 2026 22:49:20 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Insivumeh advierte de riesgos de inundaciones y deslizamientos por la saturación del suelo, mientras Conred reporta 2 mil 184 emergencias durante la temporada de lluvias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jorge Surqué, la Pulga Mixqueña que hizo historia al conquistar la primera Vuelta a Guatemala",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/jorge-surque-la-pulga-mixquena-que-hizo-historia-al-conquistar-la-primera-vuelta-a-guatemala-breaking/",
+      "fecha": "Thu, 15 Oct 2026 22:46:27 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "De albañil a leyenda del ciclismo nacional, el mixqueño escribió una página dorada en 1957 al convertirse en el primer campeón de una competencia que nació para quedarse. Su legado permanece vivo en la memoria deportiva del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelta a Guatemala 2026: comienza la cuenta regresiva para la edición 65",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-comienza-la-cuenta-regresiva-para-la-edicion-65-breaking/",
+      "fecha": "Thu, 15 Oct 2026 22:43:42 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "Del 23 de octubre al 1 de noviembre, más de cien pedalistas afrontarán diez etapas, con una exigente cronoescalada en Sololá y la lucha por una nueva corona."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Llamadas con invitados: WhatsApp permite conectarse con personas que no tienen cuenta y estos son los pasos para hacerlo",
+      "link": "https://www.prensalibre.com/vida/tecnologia/llamadas-con-invitados-whatsapp-permite-conectarse-con-personas-que-no-tienen-cuenta-y-estos-son-los-pasos-para-hacerlo/",
+      "fecha": "Thu, 15 Oct 2026 22:31:40 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Meta sorprendió a los usuarios al presentar una nueva función de WhatsApp que permitirá conectarse con personas que no tienen cuenta en la aplicación. Así funcionará la herramienta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hombre armado desata el terror en escuela de Oregón: reportan cuatro fallecidos, entre ellos tres menores",
+      "link": "https://www.prensalibre.com/internacional/hombre-armado-desata-el-terror-en-escuela-de-oregon-reportan-varios-heridos-y-el-sospechoso-muere-baleado-breaking/",
+      "fecha": "Thu, 15 Oct 2026 22:11:57 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un tiroteo en una escuela primaria de Bend, Oregón, dejó dos personas hospitalizadas. El sospechoso murió baleado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Tenía cucarachas encima&#8221;: El caso de la menor que murió por asma en California y sus padres son acusados de negligencia",
+      "link": "https://www.prensalibre.com/internacional/tenia-cucarachas-encima-el-caso-de-la-menor-que-murio-por-asma-en-california-y-sus-padres-son-acusados-de-negligencia/",
+      "fecha": "Thu, 15 Oct 2026 21:51:02 +0000",
+      "categoria": "Internacional",
+      "resumen": "Los padres de una menor que murió por asma son señalados de negligencia médica en California, mientras la fiscalía detalla las condiciones en que la niña fue hallada."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Por qué la estafadora Elizabeth Holmes sigue causando fascinación en EE.UU.",
@@ -25,6 +153,22 @@
       "fecha": "Thu, 15 Oct 2026 21:06:48 +0000",
       "categoria": "Política",
       "resumen": "Bernardo Arévalo juramentó nuevamente a Jonathan Menkos como ministro de Finanzas, tras la suspensión de su nombramiento en el Banco de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Análisis del Cien: Presupuesto para el 2027 sacrifica inversión para aumentar funcionamiento",
+      "link": "https://www.prensalibre.com/guatemala/analisis-del-cien-presupuesto-para-el-2027-sacrifica-inversion-para-aumentar-funcionamiento/",
+      "fecha": "Thu, 15 Oct 2026 20:55:47 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Centro de Investigaciones Económicas Nacionales (Cien), advierte que los recursos destinados a obras, equipamiento y otros proyectos de inversión han perdido participación frente a los gastos de funcionamiento del Estado en los últimos años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ejército y PNC refuerzan operativos en San Marcos ante presiones del narcotráfico para retirar a militares",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ejercito-y-pnc-refuerzan-operativos-en-san-marcos-ante-presiones-del-narcotrafico-para-retirar-a-militares/",
+      "fecha": "Thu, 15 Oct 2026 20:47:21 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Unos 700 policías y militares ejecutan operativos en Tajumulco e Ixchiguán, San Marcos, desde este jueves 15 de octubre, para evitar más ataques armados y la posible participación del crimen organizado."
     },
     {
       "fuente": "Prensa Libre",
@@ -657,150 +801,6 @@
       "fecha": "Wed, 14 Oct 2026 23:09:26 +0000",
       "categoria": "Escenario",
       "resumen": "Uno de los movimientos civiles más trascendentales de la historia política y social será conmemorado en Guatemala con actividades culturales y marchas. Conozca por qué se celebra el Día de la Revolución."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mensajes criminales detrás de cadáveres abandonados: autoridades investigan 137 casos en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mensajes-criminales-detras-de-cadaveres-abandonados-autoridades-investigan-137-casos-en-guatemala/",
-      "fecha": "Wed, 14 Oct 2026 23:09:17 +0000",
-      "categoria": "Justicia",
-      "resumen": "El MP reporta 137 hallazgos de cadáveres abandonados en bolsas plásticas, sábanas y costales durante el 2026, frente a los 39 casos registrados por la PNC en el 2025."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MEM lanza licitación para el cierre técnico del campo petrolero Xan, en Petén",
-      "link": "https://www.prensalibre.com/economia/mem-lanza-licitacion-para-el-cierre-tecnico-del-campo-petrolero-xan-en-peten/",
-      "fecha": "Wed, 14 Oct 2026 23:04:41 +0000",
-      "categoria": "Economía",
-      "resumen": "A 14 meses del vencimiento del contrato 2-85, mediante el cual una empresa privada operaba el campo petrolero Xan, el Ministerio de Energía y Minas (MEM) lanzó una licitación pública para contratar a la compañía que tendrá a su cargo el cierre técnico y desmantelamiento de las instalaciones, ubicadas en San Andrés, Petén."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Identifican al joven que murió tras ser atacado por un tigre en un parque zoológico de Inglaterra",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/identifican-al-joven-que-murio-tras-ser-atacado-por-un-tigre-en-un-parque-zoologico-de-inglaterra-2/",
-      "fecha": "Wed, 14 Oct 2026 22:53:14 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Según la policía, el hombre entró en el recinto de los tigres de la atracción turística."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los médicos del Papa informan que camina y se recupera &#8220;según lo previsto&#8221; tras su cirugía por un cáncer de pulmón",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-medicos-del-papa-informan-que-camina-y-se-recupera-segun-lo-previsto-tras-su-cirugia-por-un-cancer-de-pulmon/",
-      "fecha": "Wed, 14 Oct 2026 22:43:59 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Al pontífice le diagnosticaron un adenocarcinoma tras una operación para extirparle un nódulo en un pulmón."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Champions League: así marcha la tabla de posiciones tras disputarse la jornada 2",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/champions-league-asi-marcha-la-tabla-de-posiciones-tras-disputarse-la-jornada-2/",
-      "fecha": "Wed, 14 Oct 2026 22:10:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Goleadas, remontadas y un festival ofensivo marcaron una vibrante segunda jornada de la Liga de Campeones, que dejó 78 goles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga de Campeones: así fueron los goles del PSG en la victoria contra el Manchester City",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/liga-de-campeones-asi-fueron-los-goles-del-psg-en-la-victoria-contra-el-manchester-city/",
-      "fecha": "Wed, 14 Oct 2026 22:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Con una explosiva primera media hora, el PSG silenció al Etihad Stadium y derrotó al Manchester City en un partido de ida y vuelta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Comunicaciones vs. Aurora: siga el minuto a minuto de la jornada 14 del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-comunicaciones-vs-aurora-siga-el-minuto-a-minuto-de-la-jornada-14-del-apertura-2026/",
-      "fecha": "Wed, 14 Oct 2026 22:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Con la obligación de sumar, Comunicaciones y Aurora FC se enfrentan este miércoles en el estadio Cementos Progreso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué pasa si Guatemala pierde contra Canadá en la Liga de Naciones? El camino hacia la Copa Oro",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/que-pasa-si-guatemala-pierde-contra-canada-en-la-liga-de-naciones-el-camino-hacia-la-copa-oro/",
-      "fecha": "Wed, 14 Oct 2026 21:59:50 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Si Guatemala es superada por Canadá en los cuartos de final, todavía tendrá otra oportunidad para clasificarse a la Copa Oro, el torneo más importante de Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo es el proceso de EE. UU. para solicitar la extradición de una persona",
-      "link": "https://www.prensalibre.com/internacional/como-es-el-proceso-de-ee-uu-para-solicitar-la-extradicion-de-una-persona/",
-      "fecha": "Wed, 14 Oct 2026 21:52:14 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Departamento de Justicia de EE. UU. explica a detalle cómo es el proceso para solicitar la extradición de una persona en un país extranjero."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Expertos internacionales analizan los nuevos riesgos de la banca",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/expertos-internacionales-analizan-los-nuevos-riesgos-de-la-banca/",
-      "fecha": "Wed, 14 Oct 2026 21:40:15 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Inteligencia artificial, ciberseguridad, fraude digital, regulación, resiliencia y nuevas tecnologías formaron parte de la agenda del XI Congreso Latinoamericano de Riesgos - CLAR 2026; organizado por la Asociación Bancaria de Guatemala (ABG), la Escuela Bancaria de Guatemala (EBG) y la Federación Latinoamericana de Bancos (FELABAN); para analizar los principales desafíos que están transformando la banca y el sistema financiero latinoamericano, bajo el enfoque de convertir los riesgos en resiliencia, rentabilidad y nuevas oportunidades de negocio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lo que se sabe del regreso a Guatemala de Ximena Carrillo tras participar en Miss Grand International 2026",
-      "link": "https://www.prensalibre.com/vida/escenario/lo-que-se-sabe-del-regreso-a-guatemala-de-ximena-carrillo-tras-participar-en-miss-grand-international-2026/",
-      "fecha": "Wed, 14 Oct 2026 21:19:38 +0000",
-      "categoria": "Escenario",
-      "resumen": "En sus redes sociales la guatemalteca Ximena Carrillo dio detalles de su regreso al país tras participar en el certamen Grand International 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Colores en movimiento&#8221;: de la danza al libro y luego&#8230; a la pintura",
-      "link": "https://www.prensalibre.com/vida/escenario/colores-en-movimiento-de-la-danza-al-libro-y-luego-a-la-pintura/",
-      "fecha": "Wed, 14 Oct 2026 20:56:36 +0000",
-      "categoria": "Escenario",
-      "resumen": "La muestra pictórica del Departamento de Arte de la Usac explora danzas y bailes tradicionales de Guatemala con la inspiración del Atlas danzario de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Noche mágica en Roma; Real Madrid remonta y gana 4-3 en la Champions",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/noche-magica-en-roma-real-madrid-remonta-y-gana-4-3-en-la-champions-breaking/",
-      "fecha": "Wed, 14 Oct 2026 20:51:50 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Real Madrid logra una remontada épica en el estadio Olímpico de Roma, y con goles de Mbappé, Espí, Endrick y Rüdiger derrota a la Roma."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "No participaba en la discusión de tránsito, pero terminó muerto: la tragedia de un gerente bancario en la zona 4",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/no-participaba-en-la-discusion-de-transito-pero-termino-muerto-la-tragedia-de-un-gerente-bancario-en-la-zona-4-breaking/",
-      "fecha": "Wed, 14 Oct 2026 20:17:23 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Una discusión de tránsito, un conductor armado y un peatón ajeno al conflicto. Esa combinación terminó con la vida de un gerente bancario, quien recibió dos disparos mientras caminaba por la zona 4 capitalina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La impactante foto de un migrante cubano sobre una pequeña balsa improvisada frente a la costa de Florida",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-impactante-foto-de-un-migrante-cubano-sobre-una-pequena-balsa-improvisada-frente-a-la-costa-de-florida/",
-      "fecha": "Wed, 14 Oct 2026 19:47:24 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las autoridades confirmaron que el hombre se encontraba sano y salvo y que fue trasladado a un buque guardacostas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lanquetin queda a un triunfo del tricampeonato del softbol femenino de Guatemala",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/lanquetin-queda-a-un-triunfo-del-tricampeonato-del-softbol-femenino-de-guatemala-breaking/",
-      "fecha": "Wed, 14 Oct 2026 19:30:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Lanquetin tomó ventaja de 2-0 sobre las Bombarderas en la final de la Liga Mayor y buscará sellar el título este jueves, mientras sus rivales están obligadas a ganar para mantener viva la serie."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Narnia: El sobrino del mago: fecha de estreno en cines y Netflix, sinopsis, reparto y tráiler de la película de Greta Gerwig",
-      "link": "https://www.prensalibre.com/vida/escenario/narnia-el-sobrino-del-mago-fecha-de-estreno-en-cines-y-netflix-sinopsis-reparto-y-trailer-de-la-pelicula-de-greta-gerwig/",
-      "fecha": "Wed, 14 Oct 2026 19:23:01 +0000",
-      "categoria": "Escenario",
-      "resumen": "Una de las nuevas producciones más esperadas de Netflix ya tiene fecha de estreno. La película llegará primero a los cines y luego a la plataforma. Esto se conoce de Narnia: El sobrino del mago."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mbappé supera una marca de Messi en la Champions League al alcanzar los 100 partidos",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mbappe-supera-una-marca-de-messi-en-la-champions-league-al-alcanzar-los-100-partidos/",
-      "fecha": "Wed, 14 Oct 2026 19:14:41 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Con apenas 27 años, Kylian Mbappé continúa ampliando su legado en la Champions League y suma un nuevo hito en su carrera, consolidándose como una de las grandes figuras del futbol europeo."
     },
     {
       "fuente": "Guatemala.com",
