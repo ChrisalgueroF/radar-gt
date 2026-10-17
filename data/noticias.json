@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-10-17T08:25:43.817Z",
+  "actualizado": "2026-10-17T12:49:48.678Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El papa León XIV &#8220;saldrá del hospital&#8221; el sábado tras su cirugía por un cáncer de pulmón de hace 4 días",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-papa-leon-xiv-saldra-del-hospital-el-sabado-tras-su-cirugia-por-un-cancer-de-pulmon-de-hace-4-dias/",
+      "fecha": "Sat, 17 Oct 2026 12:28:50 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El Vaticano informó que el pontífice será dado de alta del hospital, en Roma, el sábado, cuatro días después de que se sometiera a una “exitosa” cirugía por cáncer de pulmón."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Análisis: la secretaria de prensa de la Casa Blanca, Katie Zacharia, fue arrojada a un torbellino y falló en un momento crítico para Trump",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/analisis-la-secretaria-de-prensa-de-la-casa-blanca-katie-zacharia-fue-arrojada-a-un-torbellino-y-fallo-en-un-momento-critico-para-trump/",
+      "fecha": "Sat, 17 Oct 2026 10:52:53 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La Casa Blanca se enfrenta a una adversidad creciente, escribe Anthony Zurcher de la BBC, a semanas de las cruciales elecciones de mitad de mandato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las lavanderas de Lockerbie, las mujeres que limpiaron las prendas de las víctimas del atentado contra un avión en el que murieron 270 personas",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-lavanderas-de-lockerbie-las-mujeres-que-limpiaron-las-prendas-de-las-victimas-del-atentado-contra-un-avion-en-el-que-murieron-270-personas/",
+      "fecha": "Sat, 17 Oct 2026 10:12:31 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Motivadas por la necesidad de hacer algo frente al horror que desató el atentado, un grupo de voluntarias se ocupó de lavar la ropa de las víctimas para enviárselas a modo de consuelo a sus familiares."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones 2027: Diputados estarían en campaña anticipada al dejar de lado la interpelación al Mides",
+      "link": "https://www.prensalibre.com/guatemala/politica/elecciones-2027-diputados-estarian-en-campana-anticipada-al-dejar-de-lado-la-interpelacion-al-mides/",
+      "fecha": "Sat, 17 Oct 2026 10:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Analistas consideran que algunos legisladores se escudan en la fiscalización y nuevas iniciativas de ley para \"maquillar\" una campaña anticipada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Condenan a 158 años de cárcel a tres hombres por el asesinato de dos hermanos surfistas australianos y su amigo estadounidense en México",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/condenan-a-158-anos-de-carcel-a-tres-hombres-por-el-asesinato-de-dos-hermanos-surfistas-australianos-y-su-amigo-estadounidense-en-mexico/",
+      "fecha": "Sat, 17 Oct 2026 07:43:12 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los cuerpos de Jake y Callum Robinson y de su amigo Carter Rhoad fueron encontrados en el fondo de un pozo en Baja California."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Cambios en Banguat y SIB: CIG pide continuidad institucional para preservar la confianza empresarial",
@@ -669,6 +709,14 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/por-que-el-internet-de-starlink-es-clave-en-la-guerra-de-drones-de-ucrania-contra-rusia-2/",
+      "fecha": "Fri, 16 Oct 2026 10:46:10 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Starlink es considerada la \"columna vertebral de las comunicaciones militares en Ucrania\", proporcionando internet de alta velocidad vital a las fuerzas armadas en todo el país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
       "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-el-internet-de-starlink-es-clave-en-la-guerra-de-drones-de-ucrania-contra-rusia/",
       "fecha": "Fri, 16 Oct 2026 10:46:10 +0000",
       "categoria": "BBC News Mundo",
@@ -785,54 +833,6 @@
       "fecha": "Fri, 16 Oct 2026 05:02:24 +0000",
       "categoria": "Justicia",
       "resumen": "Una adolescente hondureña de 16 años desapareció el 11 de octubre, después de responder a una falsa oferta de trabajo publicada en Facebook. La PNC la rescató en una vivienda de Salamá, Baja Verapaz."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Investigación BBC: el ejército de Israel no ha hecho públicos los resultados de cientos de pesquisas por muertos y heridos en Medio Oriente",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/investigacion-bbc-el-ejercito-de-israel-no-ha-hecho-publicos-los-resultados-de-cientos-de-pesquisas-por-muertos-y-heridos-en-medio-oriente/",
-      "fecha": "Fri, 16 Oct 2026 04:02:05 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "BBC Verify ha identificado 254 incidentes de los últimos tres años que el ejército israelí ha declarado estar revisando tras haber sido acusado de causar daños, pero sin informar los resultados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tesla presenta el nuevo Roadster, un deportivo capaz de volar y acelerar de 0 a 100 km/h en menos de un segundo",
-      "link": "https://www.prensalibre.com/vida/tecnologia/tesla-presenta-el-nuevo-roadster-un-automovil-electrico-capaz-de-volar-y-acelerar-de-0-a-100-km-h-en-menos-de-un-segundo-breaking/",
-      "fecha": "Fri, 16 Oct 2026 04:01:25 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Tesla presentó una nueva generación del Roadster, un deportivo eléctrico con tecnología de SpaceX que, según la compañía, puede realizar maniobras aéreas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Torneo Apertura 2026: Suchitepéquez empata ante San Pedro y sigue hundido en el sótano",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-2026-suchitepequez-empata-ante-san-pedro-y-sigue-hundido-en-el-sotano/",
-      "fecha": "Fri, 16 Oct 2026 02:41:57 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los venados dejaron escapar la ventaja en casa y volvieron a desperdiciar puntos importantes, mientras los shecanos rescataron un empate que les permite mantenerse en la cuarta posición."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comparten ideas que buscan transformar la manera de hacer empresa",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/comparten-ideas-que-buscan-transformar-la-manera-de-hacer-empresa/",
-      "fecha": "Fri, 16 Oct 2026 02:32:59 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "En alianza con Merco Líderes, TEDxGuatemala City presentó OFF THE RECORD, un encuentro privado que reunió a líderes empresariales y voces relevantes del país alrededor de ideas sobre liderazgo, innovación, comunidad, capital humano y futuro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Esto puede ser un modelo de ataque”: advierten de falta de preparación y riesgos para la PNC tras disturbios en Ciudad Peronia",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/esto-puede-ser-un-modelo-de-ataque-advierten-de-falta-de-preparacion-y-riesgos-para-la-pnc-tras-disturbios-en-ciudad-peronia/",
-      "fecha": "Fri, 16 Oct 2026 02:30:25 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Los ataques contra la PNC en Ciudad Peronia, tras el resguardo de un hombre señalado de presunta agresión sexual, evidenciaron, según analistas, debilidades en la preparación policial y riesgos de nuevos disturbios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Juez Maynor Moto aplaza audiencia de Jorge Rodas, señalado de homicidio tras arrollar a Nidia Renata Bautista",
-      "link": "https://www.prensalibre.com/guatemala/justicia/juez-maynor-moto-aplaza-audiencia-de-jorge-rodas-senalado-de-homicidio-tras-arrollar-a-nidia-renata-bautista/",
-      "fecha": "Fri, 16 Oct 2026 02:01:36 +0000",
-      "categoria": "Justicia",
-      "resumen": "El juez Maynor Moto aplazó para el 18 de noviembre la audiencia de etapa intermedia de Jorge Rodas, señalado de homicidio y lesiones culposas tras arrollar a dos personas en la zona 18 capitalina."
     },
     {
       "fuente": "Guatemala.com",
