@@ -1,7 +1,111 @@
 {
-  "actualizado": "2026-10-17T03:50:58.282Z",
+  "actualizado": "2026-10-17T08:25:43.817Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cambios en Banguat y SIB: CIG pide continuidad institucional para preservar la confianza empresarial",
+      "link": "https://www.prensalibre.com/economia/cambios-en-banguat-y-sib-cig-pide-continuidad-institucional-para-preservar-la-confianza-empresarial/",
+      "fecha": "Sat, 17 Oct 2026 06:16:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Enrique Font, presidente de la Cámara de Industria de Guatemala (CIG), analiza los desafíos de las autoridades monetarias y de supervisión financiera, así como los posibles efectos de la incertidumbre jurídica en las decisiones de inversión y financiamiento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Denuncia",
+      "link": "https://www.prensalibre.com/opinion/caricatura/denuncia-3/",
+      "fecha": "Sat, 17 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Politiquería circense debe enfrentar consecuencias",
+      "link": "https://www.prensalibre.com/opinion/editorial/politiqueria-circense-debe-enfrentar-consecuencias/",
+      "fecha": "Sat, 17 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Sin agenda nacional, no vamos a ninguna parte."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lo inesperado descubrirá si hay flexibilidad",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/lo-inesperado-descubrira-si-hay-flexibilidad/",
+      "fecha": "Sat, 17 Oct 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Los nuevos panoramas son más fáciles de percibir cuando lo imprevisto se nos presenta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elaboración del reglamento centroamericano de etiquetado frontal estaría listo a finales del 2026 para entrar a fase de consultas",
+      "link": "https://www.prensalibre.com/economia/elaboracion-del-reglamento-centroamericano-de-etiquetado-frontal-estaria-listo-a-finales-del-2026-para-entrar-a-fase-de-consultas/",
+      "fecha": "Sat, 17 Oct 2026 06:05:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La Secretaría de Integración Económica Centroamericana (Sieca) prevé que se concluya la elaboración del reglamento regional de etiquetado frontal a finales de este año, para luego someterlo a consulta pública, mientras que en Guatemala continúa las posturas encontradas acerca de la iniciativa 5504, Ley de Promoción de Alimentación Saludable."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. cambia de táctica antidrogas: detiene a pescadores y destruye sus barcos frente a Ecuador",
+      "link": "https://www.prensalibre.com/internacional/ee-uu-cambia-de-tactica-antidrogas-detiene-a-pescadores-y-destruye-sus-barcos-frente-a-ecuador/",
+      "fecha": "Sat, 17 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las fuerzas estadounidenses han destruido ocho embarcaciones pesqueras tras detener a 160 tripulantes. La mayoría fue liberada o absuelta por falta de pruebas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La trampa que falló… para siempre",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-trampa-que-fallo-para-siempre/",
+      "fecha": "Sat, 17 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "No significa que la religión deba arrinconarse en lo privado ni ignorar la vida pública."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Desde Tecpán: secretos que transforman con Fudi y Juvid",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/desde-tecpan-secretos-que-transforman-con-fudi-y-juvid/",
+      "fecha": "Sat, 17 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La desnutrición crónica afecta al 50% de los niños de Guatemala y al 70% en el área rural."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las distintas lecturas del 12 de octubre",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/las-distintas-lecturas-del-12-de-octubre/",
+      "fecha": "Sat, 17 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "En América todos tenemos algo de sangre originaria. Algunos en las venas y otros en las manos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Innovar hoy para nutrir mañana",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/innovar-hoy-para-nutrir-manana/",
+      "fecha": "Sat, 17 Oct 2026 06:01:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "La innovación solo genera un impacto real cuando se traduce en proyectos concretos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salud deja fuera del presupuesto del 2027 aumento salarial para salubristas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/salud-deja-fuera-del-presupuesto-del-2027-aumento-salarial-para-salubristas/",
+      "fecha": "Sat, 17 Oct 2026 06:01:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Ministerio de Salud enfrenta dos demandas de mejoras salariales para los salubristas que impactarían en sus finanzas y que no contempló en el presupuesto del próximo año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy sábado 17 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-17-de-octubre-de-2026/",
+      "fecha": "Sat, 17 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué Irlanda es uno de los países del mundo más críticos con Israel por la guerra en Gaza",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-irlanda-es-uno-de-los-paises-del-mundo-mas-criticos-con-israel-por-la-guerra-en-gaza/",
+      "fecha": "Sat, 17 Oct 2026 05:00:48 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las narrativas históricas y el pasado irlandés como colonia inglesa juegan un rol clave en las percepciones actuales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Carreras clandestinas en Guatemala: PNC alerta por participación de adolescentes y pide a los padres supervisar a sus hijos",
@@ -729,110 +833,6 @@
       "fecha": "Fri, 16 Oct 2026 02:01:36 +0000",
       "categoria": "Justicia",
       "resumen": "El juez Maynor Moto aplazó para el 18 de noviembre la audiencia de etapa intermedia de Jorge Rodas, señalado de homicidio y lesiones culposas tras arrollar a dos personas en la zona 18 capitalina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Netflix recortará mil puestos de trabajo: qué dicen sus ejecutivos y qué áreas serán afectadas",
-      "link": "https://www.prensalibre.com/vida/tecnologia/netflix-recortara-mil-puestos-de-trabajo-que-dicen-sus-ejecutivos-y-que-areas-seran-afectadas/",
-      "fecha": "Fri, 16 Oct 2026 01:52:45 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Netflix anunció una nueva ronda de despidos que afectará a unos mil empleados. Sus codirectores ejecutivos explican las razones y prioridades de los recortes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Eugenio Derbez denuncia intimidación contra latinos en EE. UU. y explica por qué llama a defender el voto",
-      "link": "https://www.prensalibre.com/internacional/eugenio-derbez-denuncia-intimidacion-contra-latinos-en-ee-uu-y-explica-por-que-llama-a-defender-el-voto/",
-      "fecha": "Fri, 16 Oct 2026 01:23:33 +0000",
-      "categoria": "Internacional",
-      "resumen": "Eugenio Derbez alerta sobre el miedo entre los latinos en EE. UU. y cuestiona las presiones para evitar que participen en las elecciones de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Puente Manuel José Arce: cómo funcionará el nuevo paso fronterizo, qué cambiará y cuáles serán las condiciones para cruzarlo",
-      "link": "https://www.prensalibre.com/guatemala/puente-manuel-jose-arce-como-funcionara-el-nuevo-paso-fronterizo-que-cambiara-y-cuales-seran-las-condiciones-para-cruzarlo/",
-      "fecha": "Fri, 16 Oct 2026 01:07:45 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El puente Manuel José Arce conecta Guatemala y El Salvador por la frontera de Ciudad Pedro de Alvarado y La Hachadura. Tiene cuatro carriles y nuevas instalaciones para los controles fronterizos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Puerto Quetzal registra reducción de buques en espera en medio de cambios en la administración portuaria",
-      "link": "https://www.prensalibre.com/economia/puerto-quetzal-registra-reduccion-de-buques-en-espera-en-medio-de-cambios-en-la-administracion-portuaria/",
-      "fecha": "Fri, 16 Oct 2026 01:05:40 +0000",
-      "categoria": "Economía",
-      "resumen": "Puerto Quetzal pasó de más de 50 buques en espera a entre cinco y siete, según el viceministro de Transportes, quien también señaló que el sistema portuario lleva más de 30 años sin ampliaciones estratégicas de atracaderos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "The Chosen: fecha de estreno, calendario de episodios, tráiler y todo lo que se sabe de la sexta temporada",
-      "link": "https://www.prensalibre.com/vida/escenario/the-chosen-fecha-de-estreno-calendario-de-episodios-trailer-y-todo-lo-que-se-sabe-de-la-sexta-temporada/",
-      "fecha": "Fri, 16 Oct 2026 01:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Una de las series más exitosas sobre la vida de Jesús regresará con una sexta temporada que abarcará las últimas horas que rodean su muerte. Esto debe conocer sobre su estreno."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Promueve el bienestar y los hábitos saludables como orgullosos patrocinadores",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/promueve-el-bienestar-y-los-habitos-saludables-como-orgullosos-patrocinadores/",
-      "fecha": "Fri, 16 Oct 2026 00:56:37 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Por segundo año consecutivo, InterConsumo participa como patrocinador de una de las carreras familiares más esperadas del país, Corre por el Zoo 2026 la reconocida carrera organizada por el Zoológico La Aurora, en Pro de la convivencia familiar y los hábitos de vida saludables."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos picops son blanco de ataques armados que dejan cuatro muertos en la capital y San Miguel Petapa",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-picops-son-blanco-de-ataques-armados-que-dejan-cuatro-muertos-en-la-capital-y-san-miguel-petapa-breaking/",
-      "fecha": "Fri, 16 Oct 2026 00:42:00 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Cuatro personas murieron en dos ataques armados registrados en la zona 6 de la capital y en San Miguel Petapa. Las víctimas viajaban en vehículos cuando ocurrieron los hechos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Al menos 3 niños y un adulto mueren en un tiroteo en una escuela primaria de Oregón, según medios en EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/al-menos-3-ninos-y-un-adulto-mueren-en-un-tiroteo-en-una-escuela-primaria-de-oregon-segun-medios-en-ee-uu/",
-      "fecha": "Fri, 16 Oct 2026 00:30:10 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El incidente ocurrió en la escuela Silver Rail de la localidad de Bend alrededor de las 13:00, hora local. El sospechoso fue abatido, indicó la policía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Nuestra comunidad está bajo ataque”: el mensaje al borde del llanto que marcó el debut de Los Tigres del Norte en Tiny Desk Concert",
-      "link": "https://www.prensalibre.com/vida/escenario/somos-mas-americanos-el-mensaje-que-los-tigres-del-norte-llevaron-en-su-primera-participacion-en-tiny-desk-concert/",
-      "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Por primera vez, la banda mexicana Los Tigres del Norte se presentó en el formato musical de la radio NPR, donde envió un mensaje a favor de la comunidad migrante."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Industria de alimentos y bebidas identifica tres desafíos para ser más competitiva en Guatemala",
-      "link": "https://www.prensalibre.com/economia/industria-de-alimentos-y-bebidas-identifica-tres-desafios-para-ser-mas-competitiva-en-guatemala/",
-      "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La integración regional, la innovación tecnológica y la formación de talento figuran entre los principales desafíos para mejorar la competitividad del sector, según lo expuesto durante el VI Foro de la Industria de Alimentos y Bebidas de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Suchitepéquez vs. San Pedro: siga el minuto a minuto del último encuentro de la fecha 14",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-suchitepequez-vs-san-pedro-siga-el-minuto-a-minuto-del-ultimo-encuentro-de-la-fecha-14/",
-      "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Suchitepéquez y San Pedro cierran este miércoles la jornada 14 del Apertura 2026 en el estadio Carlos Salazar Hijo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“La Patrona”, exreina de belleza capturada por tercera vez: qué revelan las investigaciones por extorsión",
-      "link": "https://www.prensalibre.com/guatemala/justicia/la-patrona-exreina-de-belleza-capturada-por-tercera-vez-que-revelan-las-investigaciones-por-extorsion/",
-      "fecha": "Thu, 15 Oct 2026 23:25:52 +0000",
-      "categoria": "Justicia",
-      "resumen": "Una mujer de 21 años, que participó en un certamen de belleza en el 2023, fue recapturada por la PNC. Las autoridades reportan otras dos detenciones relacionadas con extorsión desde noviembre del 2025."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;No estaría aquí&#8221;: la respuesta de Trump cuando habló de si bebía o fumaba a sus 80 años",
-      "link": "https://www.prensalibre.com/internacional/no-estaria-aqui-la-respuesta-de-trump-cuando-hablo-de-si-bebia-o-fumaba-a-sus-80-anos/",
-      "fecha": "Thu, 15 Oct 2026 23:16:41 +0000",
-      "categoria": "Internacional",
-      "resumen": "En la Casa Blanca, el presidente Donald Trump habló de si él fumaba o consumía alcohol a sus 80 años."
     },
     {
       "fuente": "Guatemala.com",
