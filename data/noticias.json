@@ -1,13 +1,93 @@
 {
-  "actualizado": "2026-10-17T16:14:38.090Z",
+  "actualizado": "2026-10-17T19:08:26.007Z",
   "total": 109,
   "noticias": [
     {
       "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Betis recibe al líder Barcelona este sábado: siga el minuto a minuto de LaLiga",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-betis-recibe-al-lider-barcelona-este-sabado-siga-el-minuto-a-minuto-de-laliga-breaking/",
-      "fecha": "Sat, 17 Oct 2026 15:30:00 +0000",
+      "titulo": "¿Por qué trasladaron al Dibu Martínez al hospital tras el encuentro contra el Everton?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/por-que-trasladaron-al-dibu-martinez-al-hospital-tras-el-encuentro-contra-el-everton-breaking/",
+      "fecha": "Sat, 17 Oct 2026 18:07:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El portero argentino del Chelsea sufrió un fuerte choque con Jarrad Branthwaite y fue retirado del campo en camilla con collarín aunque consciente para ser trasladado al hospital a realizarse pruebas de precaución."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Día de furia&#8221; en Francia: asaltos a edificios y más de 270 detenidos en multitudinarias protestas por la educación y el costo de vida",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/dia-de-furia-en-francia-asaltos-a-edificios-y-mas-de-270-detenidos-en-multitudinarias-protestas-por-la-educacion-y-el-costo-de-vida/",
+      "fecha": "Sat, 17 Oct 2026 18:02:06 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Durante la jornada de protestas en París y otras ciudades hubo choques con la policía, que enfrentó a los manifestantes con gases lacrimógenos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El juicio a una heredera millonaria que desató un gran escándalo de espionaje en Alemania",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-juicio-a-una-heredera-millonaria-que-desato-un-gran-escandalo-de-espionaje-en-alemania/",
+      "fecha": "Sat, 17 Oct 2026 17:41:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Durante 15 meses, un tribunal de alta seguridad en Hamburgo ha estado conociendo el caso de Christina Block, acusada de ordenar el secuestro de sus hijos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los cuatro dueños de la doble corona de la Vuelta a Guatemala",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/los-cuatro-duenos-de-la-doble-corona-de-la-vuelta-a-guatemala-breaking/",
+      "fecha": "Sat, 17 Oct 2026 17:36:48 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "Aureliano Cuque López, Edín Roberto Nova, Manuel Rodas y Mardoqueo Vásquez inscribieron sus nombres en la historia del ciclismo nacional al conquistar dos veces la máxima fiesta del pedal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Canadá regresa a Guatemala después de 22 años: lo que se juega la Bicolor en los cuartos de final",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/canada-regresa-a-guatemala-despues-de-22-anos-lo-que-se-juega-la-bicolor-en-los-cuartos-de-final-breaking/",
+      "fecha": "Sat, 17 Oct 2026 17:16:00 +0000",
       "categoria": "Fútbol Nacional",
+      "resumen": "Ambas selecciones no se han visto en suelo guatemalteco desde hace más de dos décadas y ahora se miden con el pase al Final Four de la Liga de Naciones como premio para el ganador."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Selma Blair: ¿agresora o víctima de una enfermedad? Esto dice su portavoz",
+      "link": "https://www.prensalibre.com/vida/escenario/selma-blair-agresora-o-victima-de-una-enfermedad-esto-dice-su-portavoz/",
+      "fecha": "Sat, 17 Oct 2026 17:15:01 +0000",
+      "categoria": "Escenario",
+      "resumen": "Luego de que la actriz fuera acusada de agresión, se revela que su comportamiento pudo deberse a afecciones de salud."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;True Detective&#8221; integra a Antonio Banderas a su quinta temporada",
+      "link": "https://www.prensalibre.com/vida/escenario/true-detective-integra-a-antonio-banderas-a-su-quinta-temporada/",
+      "fecha": "Sat, 17 Oct 2026 16:38:13 +0000",
+      "categoria": "Escenario",
+      "resumen": "El actor español se unirá al estadounidense Nicolas Cage en  la serie que ya ha tenido dentro de su elenco a estrellas como Jodie Foster, Colin Farrell y Rachel McAdams."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Juan Francisco Solórzano Foppa: de investigar el caso La Línea y dirigir la SAT a su último análisis sobre la matanza en Huité",
+      "link": "https://www.prensalibre.com/guatemala/justicia/juan-francisco-solorzano-foppa-de-investigar-el-caso-la-linea-y-dirigir-la-sat-a-su-ultimo-analisis-sobre-la-matanza-en-huite-breaking/",
+      "fecha": "Sat, 17 Oct 2026 16:30:45 +0000",
+      "categoria": "Justicia",
+      "resumen": "Juan Francisco Solórzano Foppa murió en un ataque armado en la zona 5 capitalina, tras una trayectoria entre investigaciones anticorrupción, política y procesos judiciales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Reportan muerte de Juan Francisco Solórzano Foppa, exjefe de SAT y exfiscal del MP",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/reportan-muerte-de-juan-francisco-solorzano-foppa-exdirector-de-la-sat-breaking/",
+      "fecha": "Sat, 17 Oct 2026 16:25:53 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Solórzano Foppa habría sido ultimado en un ataque a balazos en un complejo deportivo, según información preliminar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sean &#8220;Diddy&#8221; Combs cambia de prisión: ¿cuáles fueron los motivos del traslado?",
+      "link": "https://www.prensalibre.com/vida/escenario/sean-diddy-combs-cambia-de-prision-cuales-fueron-los-motivos-del-traslado/",
+      "fecha": "Sat, 17 Oct 2026 16:07:28 +0000",
+      "categoria": "Escenario",
+      "resumen": "Luego de salir lastimado de una pelea, el rapero ha sido cambiado de una cárcel a otra."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Betis recibe al líder Barcelona este sábado: siga el minuto a minuto de LaLiga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-betis-recibe-al-lider-barcelona-este-sabado-siga-el-minuto-a-minuto-de-laliga-breaking/",
+      "fecha": "Sat, 17 Oct 2026 15:30:00 +0000",
+      "categoria": "Fútbol Internacional",
       "resumen": "Los azulgranas que llegan como líderes invictos  visitan el estadio La Cartuja de Sevilla este sábado a las 10:30 AM en un duelo donde el Betis buscará recortar distancias con la cima de LaLiga."
     },
     {
@@ -17,6 +97,14 @@
       "fecha": "Sat, 17 Oct 2026 15:20:49 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El pugilista Kevin Anton venció por decisión unánime al cubano Freudis Rojas Jr en Phoenix Arizona para mantener su invicto y consolidarse entre los mejores del mundo en las 154 libras según el ranking de BoxRec."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué EE.UU. vuelve al pelotón de fusilamiento para aplicar la pena de muerte",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-ee-uu-vuelve-al-peloton-de-fusilamiento-para-aplicar-la-pena-de-muerte/",
+      "fecha": "Sat, 17 Oct 2026 15:10:17 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La ejecución de Nidal Hasan, el pistolero de Fort Hood, sería la primera vez que el Ejército de Estados Unidos utilizaría un pelotón de fusilamiento desde 1945."
     },
     {
       "fuente": "Prensa Libre",
@@ -41,6 +129,14 @@
       "fecha": "Sat, 17 Oct 2026 13:50:00 +0000",
       "categoria": "Guatemala",
       "resumen": "La defensa del exjefe de la Fiscalía contra la Corrupción denuncia retrasos en el caso Zolic, mientras Campo continúa en prisión preventiva y sigue pendiente la revisión de esa medida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Un mundo feliz&#8221;: 3 inquietantes tendencias que la famosa novela distópica de Aldous Huxley predijo hace casi 100 años",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/un-mundo-feliz-3-inquietantes-tendencias-que-la-famosa-novela-distopica-de-aldous-huxley-predijo-hace-casi-100-anos/",
+      "fecha": "Sat, 17 Oct 2026 12:38:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La obra del inglés Aldous Huxley ha inspirado a decenas de escritores de ciencia ficción desde su publicación en 1932. Mucho de lo que inventó hoy es realidad."
     },
     {
       "fuente": "Prensa Libre",
@@ -737,102 +833,6 @@
       "fecha": "Fri, 16 Oct 2026 12:20:35 +0000",
       "categoria": "Escenario",
       "resumen": "Obras de 27 artistas  se exhiben en esta exposición que estará abierta hasta el 15 de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Industria de alimentos y bebidas genera una huella económica de Q207 mil millones anuales en Guatemala",
-      "link": "https://www.prensalibre.com/economia/industria-de-alimentos-y-bebidas-genera-una-huella-economica-de-q207-mil-millones-anuales-en-guatemala/",
-      "fecha": "Fri, 16 Oct 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Un estudio de Cabi estima que la huella económica del sector de alimentos y bebidas equivale al 23.6% del PIB nacional. Se destaca  la importancia del aporte del sector, pero se indica que es necesario impulsar acciones para mantener el dinamismo de las exportaciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/por-que-el-internet-de-starlink-es-clave-en-la-guerra-de-drones-de-ucrania-contra-rusia-2/",
-      "fecha": "Fri, 16 Oct 2026 10:46:10 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Starlink es considerada la \"columna vertebral de las comunicaciones militares en Ucrania\", proporcionando internet de alta velocidad vital a las fuerzas armadas en todo el país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-el-internet-de-starlink-es-clave-en-la-guerra-de-drones-de-ucrania-contra-rusia/",
-      "fecha": "Fri, 16 Oct 2026 10:46:10 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Starlink es considerada la \"columna vertebral de las comunicaciones militares en Ucrania\", proporcionando internet de alta velocidad vital a las fuerzas armadas en todo el país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gremial de alimentos y bebidas respalda medidas de salud, pero pide reglas regionales para el etiquetado",
-      "link": "https://www.prensalibre.com/economia/gremial-de-alimentos-y-bebidas-respalda-medidas-de-salud-pero-pide-reglas-regionales-para-el-etiquetado/",
-      "fecha": "Fri, 16 Oct 2026 06:12:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La Gremial de Alimentos y Bebidas, adscrita a la Cámara de Industria de Guatemala, advierte de posibles aumentos en los costos de producción, dificultades para el comercio regional y efectos en más de dos mil micro, pequeñas y medianas empresas (mipymes) del sector."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jairo Flores defiende ley de etiquetado: “Es de orden informativo” y destaca su enfoque de salud",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/jairo-flores-defiende-ley-de-etiquetado-es-de-orden-informativo-y-destaca-su-enfoque-de-salud/",
-      "fecha": "Fri, 16 Oct 2026 06:12:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El diputado Jairo Flores señala que la iniciativa 5504 promueve la alimentación saludable, pero, al salir de la agenda del Congreso para su tercera lectura, lo prudente es dialogar con los distintos sectores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Economía de Guatemala crece 4.3% en el segundo trimestre del 2026, impulsada por la construcción, la inversión y el consumo",
-      "link": "https://www.prensalibre.com/economia/economia-de-guatemala-crece-4-3-en-el-segundo-trimestre-del-2026-impulsada-por-la-construccion-la-inversion-y-el-consumo/",
-      "fecha": "Fri, 16 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El dinamismo de las 17 actividades económicas y el aumento del consumo de los hogares, asociado al ingreso de remesas familiares, impulsaron el crecimiento de la economía durante el segundo trimestre del año, cuando se situó en 4.3%, según informó una fuente oficial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Al tambo",
-      "link": "https://www.prensalibre.com/opinion/caricatura/al-tambo/",
-      "fecha": "Fri, 16 Oct 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Diputados irresponsables acicatean bloqueos",
-      "link": "https://www.prensalibre.com/opinion/editorial/diputados-irresponsables-acicatean-bloqueos/",
-      "fecha": "Fri, 16 Oct 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Si quieren otorgar el bono, que renuncien al autoaumento, que limiten el número de “asesores” y allegados, que ahorren recursos y lo financien con fondos del Legislativo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El chapín abandonado en Liberia por Estados Unidos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-chapin-abandonado-en-liberia-por-estados-unidos/",
-      "fecha": "Fri, 16 Oct 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Nadie parece saberlo aquí, pero junto con otros 27 latinoamericanos se encuentra abandonado en Liberia, África."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué deben saber los no fumadores sobre el cáncer de pulmón",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/esto-es-lo-que-los-no-fumadores-deben-saber-sobre-el-cancer-de-pulmon/",
-      "fecha": "Fri, 16 Oct 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "El cáncer de pulmón es uno de los cánceres más comunes solo en Estados Unidos, afectando a casi 230 mil personas cada año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rusia, China e Irán usan IA para influir en las elecciones de EE. UU.: así operan sus campañas",
-      "link": "https://www.prensalibre.com/internacional/rusia-china-e-iran-usan-ia-para-influir-en-las-elecciones-de-ee-uu-asi-operan-sus-campanas/",
-      "fecha": "Fri, 16 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Informes de inteligencia señalan campañas de influencia extranjera antes de las elecciones estadounidenses del 3 de noviembre, sin pruebas de manipulación del conteo de votos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La salud pública, una emergencia nacional",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-salud-publica-una-emergencia-nacional/",
-      "fecha": "Fri, 16 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La salud pública atraviesa una crisis que va más allá de las protestas. Hospitales con graves carencias y un gobierno en deuda con la población."
     },
     {
       "fuente": "Guatemala.com",
