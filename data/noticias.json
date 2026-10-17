@@ -1,7 +1,175 @@
 {
-  "actualizado": "2026-10-16T23:22:27.634Z",
+  "actualizado": "2026-10-17T03:50:58.282Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Carreras clandestinas en Guatemala: PNC alerta por participación de adolescentes y pide a los padres supervisar a sus hijos",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/carreras-clandestinas-en-guatemala-pnc-alerta-por-participacion-de-adolescentes-y-pide-a-los-padres-supervisar-a-sus-hijos/",
+      "fecha": "Sat, 17 Oct 2026 03:41:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Adolescentes y jóvenes de entre 16 y 24 años figuran entre los principales participantes en carreras clandestinas detectadas por el Departamento de Tránsito de la PNC."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video de Los Tigres del Norte fue censurado: ¿qué se eliminó de su Tiny Desk Concert?",
+      "link": "https://www.prensalibre.com/vida/escenario/video-de-los-tigres-del-norte-fue-censurado-que-se-elimino-de-su-tiny-desk-concert/",
+      "fecha": "Sat, 17 Oct 2026 03:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La National Public Radio (NPR), el servicio de radiodifusión pública de Estados Unidos, es señalada de eliminar un contundente mensaje contra la persecución a los migrantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Orcas que atacan y se comen a los grandes tiburones blancos: la sangrienta batalla entre los mayores depredadores marinos que tiene perplejos a los científicos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/orcas-que-atacan-y-se-comen-a-los-grandes-tiburones-blancos-la-sangrienta-batalla-entre-los-mayores-depredadores-marinos-que-tiene-perplejos-a-los-cientificos/",
+      "fecha": "Sat, 17 Oct 2026 02:53:44 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El cambio climático está haciendo que los dos grandes cazadores del mar estén cada vez más cerca. Y las orcas parecen estar ganando la batalla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala y México revisan avances de la conexión ferroviaria y cooperación contra el crimen organizado",
+      "link": "https://www.prensalibre.com/guatemala/politica/guatemala-y-mexico-revisan-avances-de-la-conexion-ferroviaria-y-cooperacion-contra-el-crimen-organizado/",
+      "fecha": "Sat, 17 Oct 2026 02:22:59 +0000",
+      "categoria": "Política",
+      "resumen": "El canciller mexicano visita Guatemala para fortalecer la cooperación bilateral en seguridad, integración económica y conectividad ferroviaria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan al “Ingeniero” en México: quién es el presunto constructor de túneles para traficar droga a EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/capturan-al-ingeniero-en-mexico-quien-es-el-presunto-constructor-de-tuneles-para-traficar-droga-a-ee-uu/",
+      "fecha": "Sat, 17 Oct 2026 02:09:06 +0000",
+      "categoria": "Internacional",
+      "resumen": "México capturó al “Ingeniero”, señalado de diseñar y construir narcotúneles hacia EE. UU. y vinculado al CJNG, durante un operativo en Jalisco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos hombres sobreviven a un ataque armado en Suchitepéquez porque falla la pistola del agresor",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-hombres-sobreviven-a-un-ataque-armado-en-suchitepequez-porque-falla-la-pistola-del-agresor/",
+      "fecha": "Sat, 17 Oct 2026 02:06:25 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos hombres escaparon de un ataque armado en San Antonio Suchitepéquez cuando la pistola del agresor no disparó. El caso generó cuestionamientos sobre la impunidad y la seguridad ciudadana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué el puente Vincent Thomas cerrará 16 meses?: cuales serán las rutas alternas y el impacto vial",
+      "link": "https://www.prensalibre.com/internacional/por-que-el-puente-vincent-thomas-cerrara-16-meses-cuales-seran-las-rutas-alternas-y-el-impacto-comercial-en-california/",
+      "fecha": "Sat, 17 Oct 2026 02:03:39 +0000",
+      "categoria": "Internacional",
+      "resumen": "El puente Vincent Thomas, en California, cerrará por 16 meses a partir del 7 de noviembre del 2026. Cuáles serán las rutas alternas y el impacto logístico en Los Ángeles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "10 meses para una megacárcel al estilo Bukele versus 4 años sin mover un ladrillo: La brecha entre Costa Rica y Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/10-meses-para-una-megacarcel-al-estilo-bukele-versus-4-anos-sin-mover-un-ladrillo-la-brecha-entre-costa-rica-y-guatemala/",
+      "fecha": "Sat, 17 Oct 2026 02:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Mientras a Costa Rica estrenó un centro de alta contención más conocido como \"CACCO\", Guatemala suma cuatro años enredada en expedientes y 16 años sin construir una sola cárcel pública."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Revolución Viva: La Orquesta Sinfónica Nacional y la Banda Sinfónica Marcial ofrecerán un concierto histórico",
+      "link": "https://www.prensalibre.com/vida/escenario/revolucion-viva-la-orquesta-sinfonica-nacional-y-la-banda-sinfonica-marcial-ofreceran-un-concierto-historico/",
+      "fecha": "Sat, 17 Oct 2026 02:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Las instituciones artísticas ofrecerán un  homenaje musical a la Revolución de 1944."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lluvias causan inundaciones en Quetzaltenango y Escuintla y el Insivumeh advierte de más precipitaciones",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-causan-inundaciones-en-quetzaltenango-y-escuintla-y-el-insivumeh-advierte-de-mas-precipitaciones-breaking/",
+      "fecha": "Sat, 17 Oct 2026 01:35:09 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Las lluvias provocaron inundaciones en Quetzaltenango y Escuintla, donde la acumulación de agua dificulta el tránsito vehicular. El Insivumeh prevé que las precipitaciones continúen durante el fin de semana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Laken Snelling?: exreina de belleza condenada a 10 años de prisión por la muerte de su bebé",
+      "link": "https://www.prensalibre.com/internacional/quien-es-laken-snelling-exreina-de-belleza-condenada-a-10-anos-de-prision-por-la-muerte-de-su-bebe/",
+      "fecha": "Sat, 17 Oct 2026 01:30:26 +0000",
+      "categoria": "Internacional",
+      "resumen": "Laken Snelling, exreina de belleza de 22 años, fue declarada culpable por la muerte de su hijo y condenada a 10 años de prisión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "AeroMetro línea 2: qué trabajos se realizan en la Roosevelt y cuándo podría estar terminada la obra",
+      "link": "https://www.prensalibre.com/economia/aerometro-linea-2-que-trabajos-se-realizan-en-la-roosevelt-y-cuando-podria-estar-terminada-la-obra/",
+      "fecha": "Sat, 17 Oct 2026 01:27:19 +0000",
+      "categoria": "Economía",
+      "resumen": "Los cercos instalados en el arriate central de la calzada Roosevelt marcan el inicio de los trabajos preparatorios de la línea 2 del AeroMetro. ¿Qué se construirá en estos espacios, cómo avanzará el proyecto y cuándo se prevé que esté terminado?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Putin y el papa León XIV hablan sobre Ucrania: la petición de tregua y la oferta de diálogo del Vaticano",
+      "link": "https://www.prensalibre.com/internacional/putin-y-el-papa-leon-xiv-hablan-sobre-ucrania-la-peticion-de-tregua-y-la-oferta-de-dialogo-del-vaticano/",
+      "fecha": "Sat, 17 Oct 2026 01:24:40 +0000",
+      "categoria": "Internacional",
+      "resumen": "Putin agradeció al papa León XIV sus esfuerzos por la paz en Ucrania, mientras el pontífice pidió una tregua y ofreció diálogo para resolver el conflicto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Laura Fernández visita el Cecot de Bukele: qué busca Costa Rica con su nuevo modelo penitenciario",
+      "link": "https://www.prensalibre.com/internacional/laura-fernandez-visita-el-cecot-de-bukele-que-busca-costa-rica-con-su-nuevo-modelo-penitenciario/",
+      "fecha": "Sat, 17 Oct 2026 00:56:28 +0000",
+      "categoria": "Internacional",
+      "resumen": "La presidenta de Costa Rica, Laura Fernández, recorrió el Cecot en El Salvador para conocer el modelo de seguridad que inspiró una nueva megacárcel."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "ENERGUATE continúa mejorando la experiencia de sus clientes con oficinas renovadas",
+      "link": "https://www.guatemala.com/noticias/sociedad/energuate-renueva-oficinas-distintos-puntos-pais.html",
+      "fecha": "Sat, 17 Oct 2026 00:40:21 +0000",
+      "categoria": "Sociedad",
+      "resumen": "ENERGUATE continúa mejorando la experiencia de atención presencial con oficinas renovadas que buscan atender las necesidades de los usuarios\nThe post ENERGUATE continúa mejorando la experiencia de sus clientes con oficinas renovadas appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ignora el alto policial, arrolla a un agente de la PNC y termina capturado en la zona 1",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ignora-el-alto-policial-arrolla-a-un-agente-de-la-pnc-y-termina-capturado-en-la-zona-1/",
+      "fecha": "Sat, 17 Oct 2026 00:23:37 +0000",
+      "categoria": "Justicia",
+      "resumen": "Un motorista de 19 años ignoró una señal de alto y arrolló a un agente de la PNC durante un operativo en la zona 1, donde fue capturado."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Toledo busca romper un Guinness World Records al elaborar el fiambre más grande del mundo",
+      "link": "https://www.guatemala.com/noticias/cultura/toledo-busca-romper-un-guinness-world-records-con-el-fiambre-mas-grande-del-mundo.html",
+      "fecha": "Sat, 17 Oct 2026 00:13:09 +0000",
+      "categoria": "Cultura",
+      "resumen": "Toledo busca romper el Guinness World Records con el fiambre más grande del mundo el 24 de octubre en Plaza Cayalá.\nThe post Toledo busca romper un Guinness World Records al elaborar el fiambre más grande del mundo appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Zoológico La Aurora rendirá homenaje a sus animales y a las mascotas fallecidas: fecha y actividades",
+      "link": "https://www.prensalibre.com/vida/escenario/zoologico-la-aurora-rendira-homenaje-a-las-mascotas-fallecidas-fecha-altar-comunitario-y-disfraces-entre-las-actividades/",
+      "fecha": "Sat, 17 Oct 2026 00:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "En memoria de los animales que dejaron huella en la vida de las familias guatemaltecas, el Zoológico La Aurora rendirá un homenaje especial. Esto debe saber para participar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala extradita a acusado de narcotráfico y EE. UU. destaca lucha conjunta contra las drogas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/guatemala-extradita-a-acusado-de-narcotrafico-y-ee-uu-destaca-lucha-conjunta-contra-las-drogas/",
+      "fecha": "Fri, 16 Oct 2026 23:58:05 +0000",
+      "categoria": "Justicia",
+      "resumen": "Guatemala extraditó a un hombre requerido por narcotráfico en Estados Unidos. La Embajada estadounidense destacó la cooperación entre ambos países."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Robo a mano armada lleva a fiscales a una casa en Huehuetenango donde hallaron Q600 mil",
+      "link": "https://www.prensalibre.com/guatemala/justicia/robo-a-mano-armada-lleva-a-fiscales-a-una-casa-en-huehuetenango-donde-hallaron-q600-mil/",
+      "fecha": "Fri, 16 Oct 2026 23:26:56 +0000",
+      "categoria": "Justicia",
+      "resumen": "Durante un allanamiento en Huehuetenango por robo a mano armada, fiscales localizaron Q600 mil, armas, celulares, tasers, computadoras y más."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Menor muere al caer de 14 metros mientras trabajaba en el techo de una bodega en Masagua",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/menor-muere-al-caer-de-14-metros-mientras-trabajaba-en-el-techo-de-una-bodega-en-masagua-breaking/",
+      "fecha": "Fri, 16 Oct 2026 23:23:03 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Un menor de edad murió tras caer de una altura de 14 metros mientras trabajaba en el techo de una bodega de maíz, en Escuintla. El adolescente pisó una lámina de fibra de vidrio que no soportó su peso y cayó al suelo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Un gran héroe&#8221;: el padre que persiguió y abatió al atacante de la escuela de Oregón que mató a 3 niños y una profesora",
@@ -24,7 +192,7 @@
       "link": "https://www.prensalibre.com/guatemala/comunitario/anuncian-cierre-de-carriles-por-trabajos-en-puente-de-la-aguilar-batres-y-periferico-estas-son-las-recomendaciones/",
       "fecha": "Fri, 16 Oct 2026 22:21:23 +0000",
       "categoria": "Comunitario",
-      "resumen": "El sábado 19 de octubre se cerrarán dos carriles bajo el puente de la calzada Raúl Aguilar Batres por trabajos de mantenimiento y reparación en la zona."
+      "resumen": "El sábado 17 de octubre se cerrarán dos carriles bajo el puente de la calzada Raúl Aguilar Batres por trabajos de mantenimiento y reparación en la zona."
     },
     {
       "fuente": "Prensa Libre",
@@ -41,6 +209,14 @@
       "fecha": "Fri, 16 Oct 2026 22:15:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "La jornada 15 del Torneo Apertura 2026 tendrá cambios en tres partidos del domingo, luego de que la Liga Nacional modificara sus horarios oficiales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;¿Esto es para ti, Katie?&#8221; las palabras de Trump que habrían llevado a la vocera de la Casa Blanca a dejar el cargo",
+      "link": "https://www.prensalibre.com/internacional/esto-es-para-ti-katie-las-palabras-de-trump-que-habrian-llevado-a-la-vocera-de-la-casa-blanca-a-dejar-el-cargo/",
+      "fecha": "Fri, 16 Oct 2026 22:06:28 +0000",
+      "categoria": "Internacional",
+      "resumen": "Previo a conocerse que dejaría el cargo de vocera de la Casa Blanca, Katie Zacharia llamó la atención por las declaraciones que Trump hizo hacia ella."
     },
     {
       "fuente": "Prensa Libre",
@@ -659,166 +835,6 @@
       "resumen": "En la Casa Blanca, el presidente Donald Trump habló de si él fumaba o consumía alcohol a sus 80 años."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Rojos fallan y Cobán aprovecha para ganar y salir del penúltimo lugar en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/rojos-fallan-y-coban-aprovecha-para-ganar-y-salir-del-penultimo-lugar-en-el-apertura-2026-breaking/",
-      "fecha": "Thu, 15 Oct 2026 23:07:27 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Municipal dejó escapar la oportunidad de recuperar el liderato del Apertura 2026 y cayó 2-1 en su visita al estadio José Ángel Rossi."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Exportaciones de Guatemala crecerían 13% en 2026: aranceles y puertos ponen a prueba al sector, según la Cepal",
-      "link": "https://www.prensalibre.com/economia/exportaciones-de-guatemala-crecerian-13-en-2026-aranceles-y-puertos-ponen-a-prueba-al-sector-segun-la-cepal/",
-      "fecha": "Thu, 15 Oct 2026 23:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El organismo internacional proyecta un aumento del 13% en las exportaciones de bienes y del 11% en las de servicios. Sus autoridades destacan las oportunidades de inversión, aunque advierten sobre las deficiencias portuarias y digitales que afectan la competitividad del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Insivumeh alerta por saturación del suelo en 12 departamentos en medio de lluvias que dejan 22 muertos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/insivumeh-alerta-por-saturacion-del-suelo-en-12-departamentos-mientras-las-lluvias-dejan-22-muertos-breaking/",
-      "fecha": "Thu, 15 Oct 2026 22:49:20 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Insivumeh advierte de riesgos de inundaciones y deslizamientos por la saturación del suelo, mientras Conred reporta 2 mil 184 emergencias durante la temporada de lluvias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jorge Surqué, la Pulga Mixqueña que hizo historia al conquistar la primera Vuelta a Guatemala",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/jorge-surque-la-pulga-mixquena-que-hizo-historia-al-conquistar-la-primera-vuelta-a-guatemala-breaking/",
-      "fecha": "Thu, 15 Oct 2026 22:46:27 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "De albañil a leyenda del ciclismo nacional, el mixqueño escribió una página dorada en 1957 al convertirse en el primer campeón de una competencia que nació para quedarse. Su legado permanece vivo en la memoria deportiva del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala 2026: comienza la cuenta regresiva para la edición 65",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-comienza-la-cuenta-regresiva-para-la-edicion-65-breaking/",
-      "fecha": "Thu, 15 Oct 2026 22:43:42 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Del 23 de octubre al 1 de noviembre, más de cien pedalistas afrontarán diez etapas, con una exigente cronoescalada en Sololá y la lucha por una nueva corona."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Llamadas con invitados: WhatsApp permite conectarse con personas que no tienen cuenta y estos son los pasos para hacerlo",
-      "link": "https://www.prensalibre.com/vida/tecnologia/llamadas-con-invitados-whatsapp-permite-conectarse-con-personas-que-no-tienen-cuenta-y-estos-son-los-pasos-para-hacerlo/",
-      "fecha": "Thu, 15 Oct 2026 22:31:40 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Meta sorprendió a los usuarios al presentar una nueva función de WhatsApp que permitirá conectarse con personas que no tienen cuenta en la aplicación. Así funcionará la herramienta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hombre armado desata el terror en escuela de Oregón: reportan cuatro fallecidos, entre ellos tres menores",
-      "link": "https://www.prensalibre.com/internacional/hombre-armado-desata-el-terror-en-escuela-de-oregon-reportan-varios-heridos-y-el-sospechoso-muere-baleado-breaking/",
-      "fecha": "Thu, 15 Oct 2026 22:11:57 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un tiroteo en una escuela primaria de Bend, Oregón, dejó dos personas hospitalizadas. El sospechoso murió baleado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Tenía cucarachas encima&#8221;: El caso de la menor que murió por asma en California y sus padres son acusados de negligencia",
-      "link": "https://www.prensalibre.com/internacional/tenia-cucarachas-encima-el-caso-de-la-menor-que-murio-por-asma-en-california-y-sus-padres-son-acusados-de-negligencia/",
-      "fecha": "Thu, 15 Oct 2026 21:51:02 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los padres de una menor que murió por asma son señalados de negligencia médica en California, mientras la fiscalía detalla las condiciones en que la niña fue hallada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué la estafadora Elizabeth Holmes sigue causando fascinación en EE.UU.",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/por-que-la-estafadora-elizabeth-holmes-sigue-causando-fascinacion-en-ee-uu/",
-      "fecha": "Thu, 15 Oct 2026 21:48:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La creadora de Theranos, una compañía que prometía diagnósticos con una sola gota de sangre, es objeto de un nuevo documental."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Laura Bozzo: revelan su estado de salud, por qué fue hospitalizada y la razón de su traslado a otro hospital",
-      "link": "https://www.prensalibre.com/vida/escenario/cual-es-el-estado-de-salud-de-laura-bozzo-revelan-la-causa-que-la-llevo-al-hospital-y-por-que-fue-trasladada-a-otro-centro-medico/",
-      "fecha": "Thu, 15 Oct 2026 21:16:58 +0000",
-      "categoria": "Escenario",
-      "resumen": "Luego de que se revelara que la conductora peruana Laura Bozzo fue trasladada de emergencia a un hospital en Acapulco, su asistente habló sobre su estado de salud. Esto se sabe."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo juramenta otra vez a Jonathan Menkos como ministro de Finanzas y Débora Alvarado regresa a su antiguo cargo",
-      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-juramenta-otra-vez-a-jonathan-menkos-como-ministro-de-finanzas-y-debora-alvarado-regresa-a-su-antiguo-cargo-breaking/",
-      "fecha": "Thu, 15 Oct 2026 21:06:48 +0000",
-      "categoria": "Política",
-      "resumen": "Bernardo Arévalo juramentó nuevamente a Jonathan Menkos como ministro de Finanzas, tras la suspensión de su nombramiento en el Banco de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Análisis del Cien: Presupuesto para el 2027 sacrifica inversión para aumentar funcionamiento",
-      "link": "https://www.prensalibre.com/guatemala/analisis-del-cien-presupuesto-para-el-2027-sacrifica-inversion-para-aumentar-funcionamiento/",
-      "fecha": "Thu, 15 Oct 2026 20:55:47 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Centro de Investigaciones Económicas Nacionales (Cien), advierte que los recursos destinados a obras, equipamiento y otros proyectos de inversión han perdido participación frente a los gastos de funcionamiento del Estado en los últimos años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ejército y PNC refuerzan operativos en San Marcos ante presiones del narcotráfico para retirar a militares",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ejercito-y-pnc-refuerzan-operativos-en-san-marcos-ante-presiones-del-narcotrafico-para-retirar-a-militares/",
-      "fecha": "Thu, 15 Oct 2026 20:47:21 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Unos 700 policías y militares ejecutan operativos en Tajumulco e Ixchiguán, San Marcos, desde este jueves 15 de octubre, para evitar más ataques armados y la posible participación del crimen organizado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Galardón Nacional a la Exportación 2026: los 12 finalistas que compiten en tres categorías",
-      "link": "https://www.prensalibre.com/economia/galardon-nacional-a-la-exportacion-2026-los-12-finalistas-que-compiten-en-tres-categorias/",
-      "fecha": "Thu, 15 Oct 2026 20:40:35 +0000",
-      "categoria": "Economía",
-      "resumen": "Agexport dio a conocer a las 12 empresas guatemaltecas que competirán por el Galardón Nacional a la Exportación 2026. Los ganadores se anunciarán el 29 de octubre y entre ellos se elegirá al Exportador del Año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Del Glaciar del Fin del Mundo a Eslovenia: Las señales que mantienen en alerta a los científicos",
-      "link": "https://www.prensalibre.com/internacional/del-glaciar-del-fin-del-mundo-a-eslovenia-las-senales-que-mantienen-en-alerta-a-los-cientificos/",
-      "fecha": "Thu, 15 Oct 2026 20:38:49 +0000",
-      "categoria": "Internacional",
-      "resumen": "El glaciar representa un riesgo para la humanidad y es más peligroso de lo que se había pensado, ya que el Thwaites es un enorme bloque de hielo cuya superficie supera la de Gran Bretaña."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué causó la lesión en la cabeza de Sean “Diddy” Combs en prisión? TMZ reporta una pelea y autoridades federales la niegan",
-      "link": "https://www.prensalibre.com/vida/escenario/que-causo-la-lesion-en-la-cabeza-de-sean-diddy-combs-en-prision-tmz-reporta-una-pelea-y-autoridades-federales-la-niegan/",
-      "fecha": "Thu, 15 Oct 2026 20:34:18 +0000",
-      "categoria": "Escenario",
-      "resumen": "Días después de que trascendiera que el rapero habría sufrido una lesión en prisión, reportes apuntan a una pelea entre reclusos, mientras las autoridades federales niegan que haya ocurrido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Dónde planea Haití construir los dos estadios que cumplirían las normas de la Fifa?",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/donde-planea-haiti-construir-los-dos-estadios-que-cumplirian-las-normas-de-la-fifa/",
-      "fecha": "Thu, 15 Oct 2026 20:26:29 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Haití proyecta la construcción de dos estadios de futbol con estándares Fifa, con el objetivo de que su selección regrese a jugar en casa tras varios años de ausencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Torneo Apertura 2026: Harim Quezada completa la remontada de Xelajú ante Malacateco",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-2026-harim-quezada-completa-la-remontada-de-xelaju-ante-malacateco/",
-      "fecha": "Thu, 15 Oct 2026 20:04:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Xelajú reaccionó tras comenzar en desventaja y firmó una valiosa remontada ante Malacateco bajo la lluvia en Quetzaltenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cobán Imperial vs. Municipal EN VIVO: siga el minuto a minuto del partido por la jornada 14",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/coban-imperial-vs-municipal-en-vivo-siga-el-minuto-a-minuto-del-partido-por-la-jornada-14/",
-      "fecha": "Thu, 15 Oct 2026 20:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Cobán Imperial y Municipal protagonizan este jueves uno de los duelos más atractivos de la jornada 14 del Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. evalúa utilizar la madre de todas las bombas contra Irán: Así funciona la GBU-43/B",
-      "link": "https://www.prensalibre.com/internacional/ee-uu-evalua-utilizar-la-madre-de-todas-las-bombas-contra-iran-asi-funciona-la-gbu-43-b/",
-      "fecha": "Thu, 15 Oct 2026 19:47:07 +0000",
-      "categoria": "Internacional",
-      "resumen": "EE. UU. contempla usar la bomba no nuclear más grande de su arsenal, conocida como la \"madre de todas las bombas\", contra las instalaciones nucleares de Irán."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Bam beneficia a más de 14 mil niños y jóvenes guatemaltecos con programas de educación y salud",
       "link": "https://www.guatemala.com/noticias/vida/bam-beneficia-a-mas-de-14-mil-ninos-y-jovenes-guatemaltecos.html",
@@ -857,22 +873,6 @@
       "fecha": "Tue, 13 Oct 2026 19:52:03 +0000",
       "categoria": "Cultura",
       "resumen": "Ron Zacapa celebra 50 años de trayectoria con un libro de colección que invita a descubrir su historia e identidad guatemalteca. \nThe post Ron Zacapa celebra su 50 aniversario con libro de colección appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Aprueban asueto el 19 de octubre 2026 a empleados del sector público en Guatemala",
-      "link": "https://www.guatemala.com/noticias/sociedad/aprueban-asueto-19-octubre-2026-empleados-sector-publico-guatemala.html",
-      "fecha": "Tue, 13 Oct 2026 15:09:10 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Gobierno de Guatemala concedió permiso laboral el 19 de octubre a trabajadores del Estado, en el marco del Día de la Revolución.  \nThe post Aprueban asueto el 19 de octubre 2026 a empleados del sector público en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Insivumeh pronostica lluvias y tormentas locales severas del 12 al 16 de octubre 2026",
-      "link": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-pronostico-12-al-16-de-octubre-2026.html",
-      "fecha": "Mon, 12 Oct 2026 15:34:16 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Insivumeh prevé tardes y noches lluviosas para Guatemala del 12 al 16 de octubre 2026. Lee el pronóstico y descubre cómo estará el clima en tu región.\nThe post Insivumeh pronostica lluvias y tormentas locales severas del 12 al 16 de octubre 2026 appeared first on Guatemala.com."
     }
   ]
 }
