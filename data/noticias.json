@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-10-17T19:08:26.007Z",
+  "actualizado": "2026-10-17T22:05:33.438Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Solórzano Foppa tenía cuatro policías asignados a su seguridad: qué ocurrió durante el ataque en Campo Marte",
+      "link": "https://www.prensalibre.com/guatemala/justicia/solorzano-foppa-tenia-cuatro-policias-asignados-a-su-seguridad-que-ocurrio-durante-el-ataque-en-campo-marte-breaking/",
+      "fecha": "Sat, 17 Oct 2026 21:09:59 +0000",
+      "categoria": "Justicia",
+      "resumen": "El director de la PNC confirmó que Juan Francisco Solórzano Foppa tenía escoltas durante el ataque y relató cómo uno de ellos reaccionó ante los disparos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asesinato de Juan Solórzano Foppa: la cronología del crimen y los indicios revelados por las autoridades",
+      "link": "https://www.prensalibre.com/internacional/asesinato-de-juan-solorzano-foppa-la-cronologia-del-crimen-y-los-indicios-revelados-por-las-autoridades/",
+      "fecha": "Sat, 17 Oct 2026 20:11:22 +0000",
+      "categoria": "Internacional",
+      "resumen": "Juan Solórzano Foppa, exdirector de la SAT, falleció junto con otra persona en la mañana del 17 de octubre en un ataque armado ocurrido en una cancha deportiva de la zona 5."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Daños en puente de Villa Hermosa: Se aviva tensión por restricciones de tránsito",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/danos-en-puente-de-villa-hermosa-se-aviva-tension-por-restricciones-de-transito/",
+      "fecha": "Sat, 17 Oct 2026 19:57:44 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Estructuras cercanas al puente comienzan a ceder ante la erosión causada por el río Pinula, que ya afectó a cientos de familias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué publicaba Juan Francisco Solórzano Foppa? sus videos y denuncias",
+      "link": "https://www.prensalibre.com/guatemala/justicia/que-publicaba-juan-francisco-solorzano-foppa-sus-videos-y-denuncias/",
+      "fecha": "Sat, 17 Oct 2026 19:53:42 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El abogado y exjefe de la SAT publicó videos sobre seguridad, presunta corrupción y procesos judiciales. Su última grabación abordó el caso de Huité, Zacapa, dos días antes de su muerte. Además, denunció en redes sociales posibles fugas de reos de Fraijanes 2 antes de que las autoridades confirmaran públicamente el hecho."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asesinato de Solórzano Foppa: la reacción de Arévalo y el mensaje de EE. UU. sobre la libertad de expresión",
+      "link": "https://www.prensalibre.com/guatemala/politica/asesinato-de-solorzano-foppa-la-reaccion-de-arevalo-y-el-mensaje-de-ee-uu-sobre-la-libertad-de-expresion-breaking/",
+      "fecha": "Sat, 17 Oct 2026 19:35:25 +0000",
+      "categoria": "Política",
+      "resumen": "Bernardo Arévalo condena el asesinato de Juan Francisco Solórzano Foppa, mientras EE.UU. pide una investigación transparente y organizaciones exigen esclarecer el crimen."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Barcelona goleó 5-2 al Betis con polémica arbitral y llega invicto al Clásico con nueve victorias",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-goleo-5-2-al-betis-con-polemica-arbitral-y-llega-invicto-al-clasico-con-nueve-victorias-breaking/",
+      "fecha": "Sat, 17 Oct 2026 19:09:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Los azulgranas se impusieron en La Cartuja  en un partido marcado por dos goles anulados al Betis y la expulsión de Facundo Bernal que dejó a los verdiblancos con diez jugadores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Muerte de Solórzano Foppa: quiénes son los hermanos detenidos, uno de ellos exsoldado, y qué se sabe de la otra víctima",
+      "link": "https://www.prensalibre.com/guatemala/justicia/muerte-de-solorzano-foppa-quienes-son-los-hermanos-detenidos-uno-de-ellos-exsoldado-y-que-se-sabe-de-la-otra-victima-breaking/",
+      "fecha": "Sat, 17 Oct 2026 18:07:14 +0000",
+      "categoria": "Justicia",
+      "resumen": "Dos hermanos originarios de Senahú, uno de ellos exsoldado, fueron detenidos tras el ataque en Campo Marte, donde murieron Juan Francisco Solórzano Foppa y Gustavo Aguilar Gamarro, trabajador de la Federación de Judo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Por qué trasladaron al Dibu Martínez al hospital tras el encuentro contra el Everton?",
@@ -68,11 +124,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Reportan muerte de Juan Francisco Solórzano Foppa, exjefe de SAT y exfiscal del MP",
+      "titulo": "Asesinan a Juan Francisco Solórzano Foppa, exjefe de SAT y exfiscal del MP",
       "link": "https://www.prensalibre.com/guatemala/sucesos/reportan-muerte-de-juan-francisco-solorzano-foppa-exdirector-de-la-sat-breaking/",
       "fecha": "Sat, 17 Oct 2026 16:25:53 +0000",
       "categoria": "Sucesos",
-      "resumen": "Solórzano Foppa habría sido ultimado en un ataque a balazos en un complejo deportivo, según información preliminar."
+      "resumen": "Solórzano Foppa fue ultimado en un ataque a balazos en el Campo de Marte, confirmaron autoridades."
     },
     {
       "fuente": "Prensa Libre",
@@ -777,62 +833,6 @@
       "fecha": "Fri, 16 Oct 2026 14:32:00 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "La noticia se conoció apenas unas horas después de que Carlos Barahona participara con el Club Sport Cartaginés en el campeonato nacional de Costa Rica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Jugará Vinícius Júnior contra el Barcelona tras el recurso del Real Madrid?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/jugara-vinicius-junior-contra-el-barcelona-tras-el-recurso-del-real-madrid/",
-      "fecha": "Fri, 16 Oct 2026 14:30:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El atacante brasileño Vinícius Júnior será una de las bajas más sensibles del Real Madrid para los próximos partidos del campeonato español."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Billy Joel no puede subir a los escenarios: el artista revela las consecuencias de su afección cerebral",
-      "link": "https://www.prensalibre.com/vida/escenario/billy-joel-no-puede-subir-a-los-escenarios-el-artista-revela-las-consecuencias-de-su-afeccion-cerebral/",
-      "fecha": "Fri, 16 Oct 2026 14:22:17 +0000",
-      "categoria": "Escenario",
-      "resumen": "El artista admite que, entre otras actividades que no puede realizar, se encuentra realizar conciertos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Lloverá este fin de semana en Guatemala? Esto pronostica el Insivumeh para el 17 y 18 de octubre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/llovera-este-fin-de-semana-en-guatemala-esto-pronostica-el-insivumeh-para-el-17-y-18-de-octubre-breaking/",
-      "fecha": "Fri, 16 Oct 2026 13:58:20 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El boletín del Insivumeh detalla las condiciones de lluvia previstas en el territorio nacional y las temperaturas máximas para el fin de semana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo los centros de datos de IA se convirtieron en un elemento clave en la batalla política en EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-los-centros-de-datos-de-ia-se-convirtieron-en-un-elemento-clave-en-la-batalla-politica-en-ee-uu/",
-      "fecha": "Fri, 16 Oct 2026 13:52:58 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La oposición a las instalaciones se extiende por el país y los políticos toman partido en un asunto que gana protagonismo en las inminentes elecciones al Congreso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué el Real Madrid exige la dimisión inmediata de Javier Tebas de sus cargos en LaLiga y la RFEF?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/por-que-el-real-madrid-exige-la-dimision-inmediata-de-javier-tebas-de-sus-cargos-en-laliga-y-la-rfef/",
-      "fecha": "Fri, 16 Oct 2026 13:52:30 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La tensión entre el Real Madrid y Javier Tebas aumentó este viernes, luego de que el club blanco solicitara la salida del presidente de LaLiga por unas declaraciones que calificó de ofensivas e inadmisibles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Motorista fallece en Villa Canales y tráiler se incendia en ruta al Pacífico: reportan complicaciones viales",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/motorista-fallece-en-villa-canales-y-trailer-se-incendia-en-ruta-al-pacifico-reportan-complicaciones-viales-breaking/",
-      "fecha": "Fri, 16 Oct 2026 13:04:47 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El tránsito registra complicaciones en Villa Canales, Villa Nueva y San Miguel Petapa debido a percances viales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;De la revolución al arte&#8221;: una muestra de cuatro décadas de grabado y exponentes de la plástica",
-      "link": "https://www.prensalibre.com/vida/escenario/de-la-revolucion-al-arte-una-muestra-de-cuatro-decadas-de-grabado-y-exponentes-de-la-plastica/",
-      "fecha": "Fri, 16 Oct 2026 12:20:35 +0000",
-      "categoria": "Escenario",
-      "resumen": "Obras de 27 artistas  se exhiben en esta exposición que estará abierta hasta el 15 de noviembre."
     },
     {
       "fuente": "Guatemala.com",
