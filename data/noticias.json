@@ -1,10 +1,250 @@
 {
-  "actualizado": "2026-10-19T14:30:00.284Z",
+  "actualizado": "2026-10-19T20:28:41.417Z",
   "total": 109,
   "noticias": [
     {
       "fuente": "Prensa Libre",
-      "titulo": "Elon Musk promete regalar acciones de SpaceX a 72 millones de menores en Estados Unidos: ¿cuánto valdrían?",
+      "titulo": "Puerto Quetzal recibe dos nuevas grúas con inversión de Q92 millones: ¿cuándo comenzarán a operar?",
+      "link": "https://www.prensalibre.com/economia/puerto-quetzal-recibe-dos-nuevas-gruas-con-inversion-de-q92-millones-cuando-comenzaran-a-operar/",
+      "fecha": "Mon, 19 Oct 2026 19:59:06 +0000",
+      "categoria": "Economía",
+      "resumen": "La Empresa Portuaria Quetzal (EPQ), ubicada en Escuintla, recibió dos grúas multipropósito para el manejo de carga, con lo que aumentará de cinco a siete los equipos disponibles para atender las embarcaciones a partir de diciembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo advierte sobre uso político del asesinato de Solórzano Foppa y anuncia investigación por captura de hermanos Choc",
+      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-advierte-sobre-uso-politico-del-asesinato-de-solorzano-foppa-y-anuncia-investigacion-por-captura-de-hermanos-choc-breaking/",
+      "fecha": "Mon, 19 Oct 2026 19:49:13 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El presidente Bernardo Arévalo alerta sobre el uso electoral del asesinato de Juan Francisco Solórzano Foppa, descartó un estado de excepción y confirmó una investigación por la captura de los hermanos Choc Toz."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La nueva expresión del lujo inteligente",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-nueva-expresion-del-lujo-inteligente/",
+      "fecha": "Mon, 19 Oct 2026 19:48:19 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "AVATR, una marca internacional de vehículos de lujo inteligente que llega al país de la mano de Grupo Sikamotors, para transformar la manera en que las personas experimentan la movilidad, integrando diseño, innovación, tecnología y sofisticación en una propuesta que va más allá del automóvil convencional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cristiano Ronaldo: esta es la sanción que recibe por abandonar la concentración de la selección de Portugal",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-esta-es-la-sancion-que-recibe-por-abandonar-la-concentracion-de-la-seleccion-de-portugal/",
+      "fecha": "Mon, 19 Oct 2026 19:39:29 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La Federación Portuguesa castiga a Cristiano Ronaldo por abandonar la selección, luego de un desacuerdo con el técnico Jorge Jesus."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Niño podría alcanzar una intensidad histórica: Las señales y los riesgos que identificó la NASA",
+      "link": "https://www.prensalibre.com/internacional/el-nino-podria-alcanzar-una-intensidad-historica-las-senales-y-los-riesgos-que-identifico-la-nasa/",
+      "fecha": "Mon, 19 Oct 2026 19:36:54 +0000",
+      "categoria": "Internacional",
+      "resumen": "La NASA describió las señales observadas mediante satélites que permiten seguir los cambios en la temperatura y el nivel del mar provocados por El Niño."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Crimen contra Solórzano Foppa: siete agentes bajo investigación y PNC propone uso de cámaras corporales",
+      "link": "https://www.prensalibre.com/guatemala/justicia/crimen-contra-solorzano-foppa-siete-agentes-bajo-investigacion-y-pnc-propone-uso-de-camaras-corporales-breaking/",
+      "fecha": "Mon, 19 Oct 2026 19:30:27 +0000",
+      "categoria": "Justicia",
+      "resumen": "David Custodio Boteo, director de la Policía Nacional Civil (PNC), informó sobre la investigación contra agentes policiales tras la captura de dos hermanos por su presunta vinculación con el asesinato de Juan Francisco Solórzano Foppa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una oportunidad para aprovechar en grande",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-oportunidad-para-aprovechar-en-grande/",
+      "fecha": "Mon, 19 Oct 2026 19:07:02 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Una de las temporadas más esperadas del año vuelve con oportunidades para renovar el hogar, encontrar los primeros regalos y disfrutar nuevas experiencias en tienda y canales digitales, la Gran Venta de CEMACO, una tradición que vuelve este año con miles de productos, oportunidades especiales y experiencias pensadas para disfrutar cada visita."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Marcan una nueva era de innovación y movilidad",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/marcan-una-nueva-era-de-innovacion-y-movilidad/",
+      "fecha": "Mon, 19 Oct 2026 18:36:48 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "En el marco de sus 19 años de presencia en el país, Changan fortalece su portafolio y reafirma su compromiso de ofrecer tecnología, seguridad y nuevas experiencias de conducción a los guatemaltecos, con la presentación de tres nuevos modelos: DEEPAL G318, Changan Q05 y la quinta generación del Changan CS55."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El líder de una secta condenado por ordenar a sus seguidores dejar morir de hambre a casi 200 niños",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-lider-de-una-secta-condenado-por-ordenar-a-sus-seguidores-dejar-morir-de-hambre-a-casi-200-ninos/",
+      "fecha": "Mon, 19 Oct 2026 18:34:24 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El autoproclamado pastor Paul Mackenzie y otros 29 de sus seguidores se enfrentaban a 191 cargos de asesinato."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Frases que demuestran que en la Ciudad de Guatemala somos Buena Gente",
+      "link": "https://www.guatemala.com/noticias/vida/frases-que-demuestran-que-en-la-ciudad-de-guatemala-somos-buena-gente.html",
+      "fecha": "Mon, 19 Oct 2026 18:30:56 +0000",
+      "categoria": "Vida",
+      "resumen": "Acá te dejamos un listado con frases que demuestran que en la ciudad somos buena gente, solidarios y empáticos con quienes nos visitan.\nThe post Frases que demuestran que en la Ciudad de Guatemala somos Buena Gente appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El gobierno de Francia decreta toques de queda parciales y condena a los &#8220;ladrones&#8221; y &#8220;delincuentes&#8221; detrás de los violentos disturbios del fin de semana",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-gobierno-de-francia-decreta-toques-de-queda-parciales-y-condena-a-los-ladrones-y-delincuentes-detras-de-los-violentos-disturbios-del-fin-de-semana/",
+      "fecha": "Mon, 19 Oct 2026 18:20:28 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El ministro del Interior dijo que la policía \"perdió el control\" en algunas ciudades en medio de disturbios y saqueos. Autorizó a los gobiernos locales a imponer medidas restrictivas en las calles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sin alimentos y bajo ocupación rusa: habitantes de Oleshky huyen por carreteras minadas",
+      "link": "https://www.prensalibre.com/internacional/sin-alimentos-y-bajo-ocupacion-rusa-habitantes-de-oleshky-huyen-por-carreteras-minadas/",
+      "fecha": "Mon, 19 Oct 2026 18:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Unas 1,700 personas permanecen atrapadas en Oleshky, Ucrania, donde la escasez de alimentos y los ataques con drones dificultan las evacuaciones, según autoridades locales ucranianas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asesinato de Solórzano Foppa: vicepresidenta Karin Herrera pide investigación certera y objetiva",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/asesinato-de-solorzano-foppa-vicepresidenta-karin-herrera-pide-investigacion-certera-y-objetiva-breaking/",
+      "fecha": "Mon, 19 Oct 2026 18:00:04 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La vicepresidenta de Guatemala, Karin Herrera, pide que la investigación por el asesinato de Juan Francisco Solórzano Foppa dé resultados claros."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Se aplaza el PSG frente al Barcelona en la Champions League? Esto confirmaron las autoridades francesas",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/se-aplaza-el-psg-frente-al-barcelona-en-la-champions-league-esto-confirmaron-las-autoridades-francesas/",
+      "fecha": "Mon, 19 Oct 2026 18:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Parque de los Príncipes se viste de gala para recibir el duelo entre PSG y Barcelona, dos gigantes europeos que buscan mantenerse en la cima de la Champions."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El derribo de dos avionetas de Hermanos al Rescate por el que una jueza en EE.UU. ordenó el arresto de Raúl Castro 30 años después",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-derribo-de-dos-avionetas-de-hermanos-al-rescate-por-el-que-una-jueza-en-ee-uu-ordeno-el-arresto-de-raul-castro-30-anos-despues/",
+      "fecha": "Mon, 19 Oct 2026 17:53:15 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El ataque de cazas cubanos contra aeronaves de un grupo de exiliados en Miami en 1996 desató una crisis diplomática que sigue teniendo consecuencias tres décadas después."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Acusó a ICE de llevarse a su esposa: días después encontraron sus restos quemados y fue arrestado",
+      "link": "https://www.prensalibre.com/internacional/acuso-a-ice-de-llevarse-a-su-esposa-dias-despues-encontraron-sus-restos-quemados-y-fue-arrestado/",
+      "fecha": "Mon, 19 Oct 2026 17:47:56 +0000",
+      "categoria": "Internacional",
+      "resumen": "El imputado declaró que el ICE la había interceptado y detenido cuando salió a revisar el buzón. Sin embargo, no se había llevado a cabo ningún operativo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Barbara Palvin debuta en Victoria’s Secret a seis meses de dar a luz",
+      "link": "https://www.prensalibre.com/vida/escenario/barbara-palvin-debuta-en-victorias-secret-a-seis-meses-de-dar-a-luz/",
+      "fecha": "Mon, 19 Oct 2026 17:40:25 +0000",
+      "categoria": "Escenario",
+      "resumen": "La modelo de 33 años realizó dos apariciones sobre el escenario del desfile de modas que se celebró el domingo 18 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga Nacional: así quedó la tabla de posiciones del Apertura 2026 tras cuatro partidos de la jornada 15",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-asi-quedo-la-tabla-de-posiciones-del-apertura-2026-tras-cuatro-partidos-de-la-jornada-15/",
+      "fecha": "Mon, 19 Oct 2026 16:56:20 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Guastatoya toma provisionalmente la cima del Apertura 2026, mientras Antigua busca este lunes adueñarse del liderato en solitario."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a dos hombres con 22 paquetes de droga durante operativo en Pasaco, Jutiapa",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-dos-hombres-con-22-paquetes-de-droga-durante-operativo-en-pasaco-jutiapa-breaking/",
+      "fecha": "Mon, 19 Oct 2026 16:56:10 +0000",
+      "categoria": "Justicia",
+      "resumen": "La Policía Nacional Civil (PNC) brindó detalles sobre el decomiso de droga y las capturas efectuadas durante un operativo en Pasaco, Jutiapa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nuevas rutas y cambios en los aviones: los planes de United Airlines para ampliar su red de vuelos",
+      "link": "https://www.prensalibre.com/internacional/nuevas-rutas-y-cambios-en-los-aviones-los-planes-de-united-airlines-para-ampliar-su-red-de-vuelos/",
+      "fecha": "Mon, 19 Oct 2026 16:21:04 +0000",
+      "categoria": "Internacional",
+      "resumen": "United Airlines anunció cinco nuevas rutas sin escalas y eliminará el asiento central en algunos aviones para competir con las aerolíneas de bajo costo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;¿Miedo? No&#8221;: la respuesta de Vitinha sobre Lamine Yamal antes del PSG vs. Barcelona",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/miedo-no-la-respuesta-de-vitinha-sobre-lamine-yamal-antes-del-psg-vs-barcelona/",
+      "fecha": "Mon, 19 Oct 2026 16:15:05 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Vitinha destaca el momento extraordinario de Lamine Yamal, pero advierte que el PSG está preparado para medirse a uno de los gigantes de Europa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Día del cáncer de mama: la prevención y la atención a los síntomas que no son comunes",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/dia-del-cancer-de-mama-la-prevencion-y-la-atencion-a-los-sintomas-que-no-son-comunes/",
+      "fecha": "Mon, 19 Oct 2026 16:10:59 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Las medidas preventivas contra esta enfermedad deben ir más allá de los exámenes superficiales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lamine Yamal, Raphinha y una nueva sociedad: así construyó Barcelona su inicio perfecto",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lamine-yamal-raphinha-y-una-nueva-sociedad-asi-construyo-barcelona-su-inicio-perfecto/",
+      "fecha": "Mon, 19 Oct 2026 15:56:49 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Barcelona mantiene un arranque histórico en LaLiga tras enlazar nueve victorias consecutivas, impulsado por el talento de Lamine Yamal, la efectividad de Raphinha y el equilibrio que aporta la dupla formada por Rodri y Pedri."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Raphinha manda, Mbappé se acerca y Yamal presiona: así llega la lucha por el Pichichi al Clásico",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/raphinha-manda-mbappe-se-acerca-y-yamal-presiona-asi-llega-la-lucha-por-el-pichichi-al-clasico/",
+      "fecha": "Mon, 19 Oct 2026 15:41:56 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El primer Clásico de la temporada también enfrenta a los máximos artilleros de La Liga, con Raphinha defendiendo el liderato ante Mbappé y Yamal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El iPhone Duo aún no sale a la venta y ya hay entregas para 2027: ¿Qué alternativas existen?",
+      "link": "https://www.prensalibre.com/internacional/el-iphone-duo-aun-no-sale-a-la-venta-y-ya-hay-entregas-para-2027-que-alternativas-existen/",
+      "fecha": "Mon, 19 Oct 2026 15:07:49 +0000",
+      "categoria": "Internacional",
+      "resumen": "Conforme a lo expuesto por Apple, el primer iPhone plegable de la compañía llegará en octubre del 2026 solo a quienes lo reservaron primero."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Días cálidos y con lluvia se presentarán del 19 al 23 de octubre 2026 en Guatemala",
+      "link": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-19-al-23-octubre-2026.html",
+      "fecha": "Mon, 19 Oct 2026 15:06:34 +0000",
+      "categoria": "Comunidad",
+      "resumen": "El clima en Guatemala estará marcado por temperaturas de hasta 35°C y lluvias por las tardes y noches. ¡Descubre el pronóstico del Insivumeh aquí!\nThe post Días cálidos y con lluvia se presentarán del 19 al 23 de octubre 2026 en Guatemala appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La nueva oleada de drogas sintéticas caseras que se propaga por EE.UU. y agrava la crisis del fentanilo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-nueva-oleada-de-drogas-sinteticas-caseras-que-se-propaga-por-ee-uu-y-agrava-la-crisis-del-fentanilo/",
+      "fecha": "Mon, 19 Oct 2026 15:03:51 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La BBC recoge testimonios de consumidores, traficantes, personal penitenciario y trabajadores de centros de rehabilitación, mientras el país lucha contra una nueva y mortal epidemia de drogas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Temblor de magnitud 5.1 se registra en Guatemala este 19 de octubre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-19-de-octubre-de-2026-en-guatemala-breaking/",
+      "fecha": "Mon, 19 Oct 2026 14:57:03 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Conred y el Insivumeh reportan un temblor de magnitud 5.1 registrado este lunes 19 de octubre en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El retorno de Victoria Secret a Los Ángeles: el debut de Kylie Jenner y otras novedades del espectáculo",
+      "link": "https://www.prensalibre.com/vida/escenario/el-retorno-de-victoria-secret-a-los-angeles-el-debut-de-kylie-jenner-y-otras-novedades-del-espectaculo/",
+      "fecha": "Mon, 19 Oct 2026 14:41:33 +0000",
+      "categoria": "Escenario",
+      "resumen": "Glamour, moda y música marcaron el regreso del famoso desfile que es tan admirado como cuestionado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En Vivo: velatorio de Juan Francisco Solórzano Foppa se lleva a cabo en medio de vigilancia policial y exigencia de justicia",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/en-vivo-velatorio-de-juan-francisco-solorzano-foppa-se-lleva-a-cabo-en-medio-de-vigilancia-policial-y-exigencia-de-justicia-breaking/",
+      "fecha": "Mon, 19 Oct 2026 14:40:48 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Juan Francisco Solórzano Foppa es velado este 19 de octubre en una funeraria de la zona 9, bajo vigilancia policial. La PNC dice que hay agentes bajo investigación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El plan de Elon Musk para regalar una acción de SpaceX a cada niño de EE. UU. el próximo año",
       "link": "https://www.prensalibre.com/internacional/estados-unidos/elon-musk-promete-regalar-acciones-de-spacex-a-72-millones-de-menores-en-estados-unidos-cuanto-valdrian/",
       "fecha": "Mon, 19 Oct 2026 14:18:40 +0000",
       "categoria": "Estados Unidos",
@@ -276,11 +516,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Caso Solórzano Foppa: policías habrían implantado arma a los hermanos Choc y el MP ya lo investiga",
+      "titulo": "Caso Solórzano Foppa: policías habrían plantado arma a los hermanos Choc y el MP ya lo investiga",
       "link": "https://www.prensalibre.com/guatemala/sucesos/policias-habrian-implantado-arma-a-los-hermanos-choc-liberados-por-el-caso-solorzano-foppa/",
       "fecha": "Sun, 18 Oct 2026 23:51:08 +0000",
       "categoria": "Sucesos",
-      "resumen": "Las autoridades investigan si los agentes que capturaron a los hermanos Choc Toz por el asesinato de Solórzano Foppa habrían implantado un arma al momento de su detención."
+      "resumen": "Las autoridades investigan si los agentes que capturaron a los hermanos Choc Toz por el asesinato de Solórzano Foppa habrían plantado un arma al momento de su detención."
     },
     {
       "fuente": "Prensa Libre",
@@ -571,230 +811,6 @@
       "resumen": "Hasta que necesitaron hacer lo mismo. Entonces el pacto se volvió consenso."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Semilla y la revolución que no iba a ser",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/semilla-y-la-revolucion-que-no-iba-a-ser/",
-      "fecha": "Sun, 18 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El desencanto está llegando a los grupos más fieles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un punto de inflexión de la inteligencia artificial",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/un-punto-de-inflexion-de-la-inteligencia-artificial/",
-      "fecha": "Sun, 18 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La inteligencia artificial enfrenta un punto de inflexión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy domingo 18 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-domingo-18-de-octubre-de-2026/",
-      "fecha": "Sun, 18 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un yate con una piscina de 50 metros y toboganes acuáticos: imágenes satelitales revelan el lujoso complejo de vacaciones de Kim Jong-un en Corea del Norte",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-yate-con-una-piscina-de-50-metros-y-toboganes-acuaticos-imagenes-satelitales-revelan-el-lujoso-complejo-de-vacaciones-de-kim-jong-un-en-corea-del-norte/",
-      "fecha": "Sun, 18 Oct 2026 04:59:22 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La BBC sigue la pista de una embarcación de 80 metros de largo equipada con toboganes acuáticos para saber más sobre cómo Kim pasa sus vacaciones, algo inalcanzable para la mayoría de los norcoreanos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump levanta sanciones contra Rusia y se intensifica la disputa con Zelensky",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-levanta-sanciones-contra-rusia-y-se-intensifica-la-disputa-con-zelensky/",
-      "fecha": "Sun, 18 Oct 2026 03:12:11 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El presidente de Estados Unidos suspendió temporalmente muchas de las restricciones impuestas a Moscú, aprobadas recientemente por el Congreso por motivos de \"seguridad nacional\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga Nacional: así se jugará la jornada 15 del Apertura 2026 dividida en tres días del domingo al martes",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-asi-se-jugara-la-jornada-15-del-apertura-2026-dividida-en-tres-dias-del-domingo-al-martes-breaking/",
-      "fecha": "Sun, 18 Oct 2026 00:24:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La jornada 15 del Torneo Apertura 2026 se disputará entre el domingo 18 y el martes 20 de octubre con seis partidos que incluyen el duelo entre Municipal y Guastatoya como el más atractivo de la fecha."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinato de Solórzano Foppa: la pista de las camisetas del Barcelona y las dudas sobre las capturas",
-      "link": "https://www.prensalibre.com/guatemala/justicia/asesinato-de-solorzano-foppa-la-pista-de-las-camisetas-del-barcelona-y-las-dudas-sobre-las-capturas-breaking/",
-      "fecha": "Sun, 18 Oct 2026 00:23:43 +0000",
-      "categoria": "Justicia",
-      "resumen": "Tras el asesinato de Juan Francisco Solórzano Foppa, Gobernación confirmó una alerta sobre camisetas del Barcelona y revisa las pruebas contra dos hermanos detenidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinato de Francisco Solórzano Foppa: los nuevos indicios del caso revelados por Gobernación",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/asesinato-de-francisco-solorzano-foppa-los-nuevos-indicios-del-caso-revelados-por-gobernacion-breaking/",
-      "fecha": "Sat, 17 Oct 2026 23:53:50 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Marco Antonio Villeda reveló en conferencia de prensa nuevos detalles del asesinato de Francisco Solórzano Foppa en el Campo Marte este 17 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Celine Dion se despide de su residencia en Francia: &#8220;He cumplido un sueño&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/celine-dion-se-despide-de-su-residencia-en-francia-he-cumplido-un-sueno/",
-      "fecha": "Sat, 17 Oct 2026 23:40:43 +0000",
-      "categoria": "Escenario",
-      "resumen": "Con la serie de exitosas presentaciones en París, la artista retomó su carrera luego de tener que ponerla en pausa durante seis años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Son incidencias que liquidan el espectáculo&#8221;: Pellegrini cuestiona el arbitraje ante el Barcelona",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/son-incidencias-que-liquidan-el-espectaculo-pellegrini-cuestiona-el-arbitraje-ante-el-barcelona/",
-      "fecha": "Sat, 17 Oct 2026 22:03:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Manuel Pellegrini critica con dureza el arbitraje tras la derrota del Betis ante el Barcelona y asegura que varias decisiones influyeron en el resultado final."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Solórzano Foppa tenía cuatro policías asignados a su seguridad: qué ocurrió durante el ataque en Campo Marte",
-      "link": "https://www.prensalibre.com/guatemala/justicia/solorzano-foppa-tenia-cuatro-policias-asignados-a-su-seguridad-que-ocurrio-durante-el-ataque-en-campo-marte-breaking/",
-      "fecha": "Sat, 17 Oct 2026 21:09:59 +0000",
-      "categoria": "Justicia",
-      "resumen": "El director de la PNC confirmó que Juan Francisco Solórzano Foppa tenía escoltas durante el ataque y relató cómo uno de ellos reaccionó ante los disparos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Día Internacional del Patrimonio Cultural Inmaterial: ¿Qué bienes guatemaltecos pertenecen a la lista de la Unesco?",
-      "link": "https://www.prensalibre.com/vida/escenario/dia-internacional-del-patrimonio-cultural-inmaterial-que-bienes-guatemaltecos-pertenecen-a-la-lista-de-la-unesco/",
-      "fecha": "Sat, 17 Oct 2026 20:59:41 +0000",
-      "categoria": "Escenario",
-      "resumen": "Algunas  expresiones artísticas, culturales, religiosas y tradicionales del país han sido reconocidas e integradas como Patrimonio Cultural Inmaterial de la Humanidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinato de Juan Solórzano Foppa: la cronología del crimen y los indicios revelados por las autoridades",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/asesinato-de-juan-solorzano-foppa-la-cronologia-del-crimen-y-los-indicios-revelados-por-las-autoridades/",
-      "fecha": "Sat, 17 Oct 2026 20:11:22 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Juan Solórzano Foppa, exdirector de la SAT, falleció junto con otra persona en la mañana del 17 de octubre en un ataque armado ocurrido en una cancha deportiva de la zona 5."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturado por crimen de Solórzano Foppa acusa a PNC de colocar un arma en su mochila: “Hay cámaras, hay que revisar”",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturado-por-crimen-de-solorzano-foppa-acusa-a-pnc-de-colocar-un-arma-en-su-mochila-hay-camaras-hay-que-revisar-breaking/",
-      "fecha": "Sat, 17 Oct 2026 20:10:36 +0000",
-      "categoria": "Justicia",
-      "resumen": "Rigoberto Choc Toz niega haber participado en el ataque de Campo Marte. Asegura que repartía comida con su hermano cuando la PNC los detuvo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Daños en puente de Villa Hermosa: Se aviva tensión por restricciones de tránsito",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/danos-en-puente-de-villa-hermosa-se-aviva-tension-por-restricciones-de-transito/",
-      "fecha": "Sat, 17 Oct 2026 19:57:44 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Estructuras cercanas al puente comienzan a ceder ante la erosión causada por el río Pinula, que ya afectó a cientos de familias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué publicaba Juan Francisco Solórzano Foppa? sus videos y denuncias",
-      "link": "https://www.prensalibre.com/guatemala/justicia/que-publicaba-juan-francisco-solorzano-foppa-sus-videos-y-denuncias/",
-      "fecha": "Sat, 17 Oct 2026 19:53:42 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El abogado y exjefe de la SAT publicó videos sobre seguridad, presunta corrupción y procesos judiciales. Su última grabación abordó el caso de Huité, Zacapa, dos días antes de su muerte. Además, denunció en redes sociales posibles fugas de reos de Fraijanes 2 antes de que las autoridades confirmaran públicamente el hecho."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinato de Solórzano Foppa: la reacción de Arévalo y el mensaje de EE. UU. sobre la libertad de expresión",
-      "link": "https://www.prensalibre.com/guatemala/politica/asesinato-de-solorzano-foppa-la-reaccion-de-arevalo-y-el-mensaje-de-ee-uu-sobre-la-libertad-de-expresion-breaking/",
-      "fecha": "Sat, 17 Oct 2026 19:35:25 +0000",
-      "categoria": "Política",
-      "resumen": "Bernardo Arévalo condena el asesinato de Juan Francisco Solórzano Foppa, mientras EE.UU. pide una investigación transparente y organizaciones exigen esclarecer el crimen."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Barcelona goleó 5-2 al Betis con polémica arbitral y llega invicto al Clásico con nueve victorias",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-goleo-5-2-al-betis-con-polemica-arbitral-y-llega-invicto-al-clasico-con-nueve-victorias-breaking/",
-      "fecha": "Sat, 17 Oct 2026 19:09:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Los azulgranas se impusieron en La Cartuja  en un partido marcado por dos goles anulados al Betis y la expulsión de Facundo Bernal que dejó a los verdiblancos con diez jugadores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fray Augusto Rafael Ramírez Monasterio: los detalles de la ceremonia de su beatificación",
-      "link": "https://www.prensalibre.com/vida/escenario/fray-augusto-rafael-ramirez-monasterio-los-detalles-de-la-ceremonia-de-su-beatificacion/",
-      "fecha": "Sat, 17 Oct 2026 18:32:46 +0000",
-      "categoria": "Escenario",
-      "resumen": "Se espera la presencia de cerca de 20 mil personas, entre las cuales habrá más de 27 obispos y autoridades de El Vaticano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muerte de Solórzano Foppa: quiénes son los hermanos detenidos, uno de ellos exsoldado, y qué se sabe de la otra víctima",
-      "link": "https://www.prensalibre.com/guatemala/justicia/muerte-de-solorzano-foppa-quienes-son-los-hermanos-detenidos-uno-de-ellos-exsoldado-y-que-se-sabe-de-la-otra-victima-breaking/",
-      "fecha": "Sat, 17 Oct 2026 18:07:14 +0000",
-      "categoria": "Justicia",
-      "resumen": "Dos hermanos originarios de Senahú, uno de ellos exsoldado, fueron detenidos tras el ataque en Campo Marte, donde murieron Juan Francisco Solórzano Foppa y Gustavo Aguilar Gamarro, trabajador de la Federación de Judo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué trasladaron al Dibu Martínez al hospital tras el encuentro contra el Everton?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/por-que-trasladaron-al-dibu-martinez-al-hospital-tras-el-encuentro-contra-el-everton-breaking/",
-      "fecha": "Sat, 17 Oct 2026 18:07:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El portero argentino del Chelsea sufrió un fuerte choque con Jarrad Branthwaite y fue retirado del campo en camilla con collarín aunque consciente para ser trasladado al hospital a realizarse pruebas de precaución."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Día de furia&#8221; en Francia: asaltos a edificios y más de 270 detenidos en multitudinarias protestas por la educación y el costo de vida",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/dia-de-furia-en-francia-asaltos-a-edificios-y-mas-de-270-detenidos-en-multitudinarias-protestas-por-la-educacion-y-el-costo-de-vida/",
-      "fecha": "Sat, 17 Oct 2026 18:02:06 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Durante la jornada de protestas en París y otras ciudades hubo choques con la policía, que enfrentó a los manifestantes con gases lacrimógenos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El juicio a una heredera millonaria que desató un gran escándalo de espionaje en Alemania",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-juicio-a-una-heredera-millonaria-que-desato-un-gran-escandalo-de-espionaje-en-alemania/",
-      "fecha": "Sat, 17 Oct 2026 17:41:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Durante 15 meses, un tribunal de alta seguridad en Hamburgo ha estado conociendo el caso de Christina Block, acusada de ordenar el secuestro de sus hijos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los cuatro dueños de la doble corona de la Vuelta a Guatemala",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/los-cuatro-duenos-de-la-doble-corona-de-la-vuelta-a-guatemala-breaking/",
-      "fecha": "Sat, 17 Oct 2026 17:36:48 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Aureliano Cuque López, Edín Roberto Nova, Manuel Rodas y Mardoqueo Vásquez inscribieron sus nombres en la historia del ciclismo nacional al conquistar dos veces la máxima fiesta del pedal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Canadá regresa a Guatemala después de 22 años: lo que se juega la Bicolor en los cuartos de final",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/canada-regresa-a-guatemala-despues-de-22-anos-lo-que-se-juega-la-bicolor-en-los-cuartos-de-final-breaking/",
-      "fecha": "Sat, 17 Oct 2026 17:16:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Ambas selecciones no se han visto en suelo guatemalteco desde hace más de dos décadas y ahora se miden con el pase al Final Four de la Liga de Naciones como premio para el ganador."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Selma Blair: ¿agresora o víctima de una enfermedad? Esto dice su portavoz",
-      "link": "https://www.prensalibre.com/vida/escenario/selma-blair-agresora-o-victima-de-una-enfermedad-esto-dice-su-portavoz/",
-      "fecha": "Sat, 17 Oct 2026 17:15:01 +0000",
-      "categoria": "Escenario",
-      "resumen": "Luego de que la actriz fuera acusada de agresión, se revela que su comportamiento pudo deberse a afecciones de salud."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;True Detective&#8221; integra a Antonio Banderas a su quinta temporada",
-      "link": "https://www.prensalibre.com/vida/escenario/true-detective-integra-a-antonio-banderas-a-su-quinta-temporada/",
-      "fecha": "Sat, 17 Oct 2026 16:38:13 +0000",
-      "categoria": "Escenario",
-      "resumen": "El actor español se unirá al estadounidense Nicolas Cage en  la serie que ya ha tenido dentro de su elenco a estrellas como Jodie Foster, Colin Farrell y Rachel McAdams."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Juan Francisco Solórzano Foppa: de investigar el caso La Línea y dirigir la SAT a su último análisis sobre la matanza en Huité",
-      "link": "https://www.prensalibre.com/guatemala/justicia/juan-francisco-solorzano-foppa-de-investigar-el-caso-la-linea-y-dirigir-la-sat-a-su-ultimo-analisis-sobre-la-matanza-en-huite-breaking/",
-      "fecha": "Sat, 17 Oct 2026 16:30:45 +0000",
-      "categoria": "Justicia",
-      "resumen": "Juan Francisco Solórzano Foppa murió en un ataque armado en la zona 5 capitalina, tras una trayectoria entre investigaciones anticorrupción, política y procesos judiciales."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "ENERGUATE continúa mejorando la experiencia de sus clientes con oficinas renovadas",
       "link": "https://www.guatemala.com/noticias/sociedad/energuate-renueva-oficinas-distintos-puntos-pais.html",
@@ -857,22 +873,6 @@
       "fecha": "Wed, 14 Oct 2026 16:55:13 +0000",
       "categoria": "Tecnología",
       "resumen": "Nueva alianza de Bam con PayPal permitirá a los guatemaltecos retirar fondos de forma directa e inmediata desde la plataforma hacia cuentas bancarias.\nThe post Bam anuncia su nueva alianza con PayPal en la innovación de pagos digitales y retiros a cuentas locales appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Libro guatemalteco destaca con medalla en premiación de libros en Estados Unidos",
-      "link": "https://www.guatemala.com/noticias/cultura/libro-guatemalteca-vera-bolanos-destaca-international-latino-book-awards-2026.html",
-      "fecha": "Wed, 14 Oct 2026 16:01:26 +0000",
-      "categoria": "Cultura",
-      "resumen": "Libro «Aventuras con animales en Tikal» de Vera Bolaños, Désirée Iturbide y Edna Coyoy fue reconocido en los International Latino Book Awards 2026.\nThe post Libro guatemalteco destaca con medalla en premiación de libros en Estados Unidos appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Ron Zacapa celebra su 50 aniversario con libro de colección",
-      "link": "https://www.guatemala.com/noticias/cultura/libro-ron-zacapa-celebra-50-anos-de-historia-calidad-maestria-guatemalteca.html",
-      "fecha": "Tue, 13 Oct 2026 19:52:03 +0000",
-      "categoria": "Cultura",
-      "resumen": "Ron Zacapa celebra 50 años de trayectoria con un libro de colección que invita a descubrir su historia e identidad guatemalteca. \nThe post Ron Zacapa celebra su 50 aniversario con libro de colección appeared first on Guatemala.com."
     }
   ]
 }
