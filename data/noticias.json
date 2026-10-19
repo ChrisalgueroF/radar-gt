@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-10-18T22:54:42.779Z",
+  "actualizado": "2026-10-19T00:59:03.886Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Solórzano Foppa: policías habrían implantado arma a los hermanos Choc y el MP ya lo investiga",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/policias-habrian-implantado-arma-a-los-hermanos-choc-liberados-por-el-caso-solorzano-foppa/",
+      "fecha": "Sun, 18 Oct 2026 23:51:08 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Las autoridades investigan si los agentes que capturaron a los hermanos Choc Toz por el asesinato de Solórzano Foppa habrían implantado un arma al momento de su detención."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cindy Crawford rompe el silencio: se pronuncia por primera vez después de la muerte de su hijo",
+      "link": "https://www.prensalibre.com/vida/escenario/cindy-crawford-rompe-el-silencio-se-pronuncia-por-primera-vez-despues-de-la-muerte-de-su-hijo/",
+      "fecha": "Sun, 18 Oct 2026 23:25:05 +0000",
+      "categoria": "Escenario",
+      "resumen": "La modelo y actriz estadounidense manifiesta el dolor que experimenta su familia por la partida de Presley Gerber."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mixco vence 3-1 a Cobán y sigue en la pelea por los primeros lugares del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/mixco-vencio-3-1-a-coban-y-sigue-en-la-pelea-por-los-primeros-lugares-del-apertura-2026-breaking/",
+      "fecha": "Sun, 18 Oct 2026 23:14:46 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los chicharroneros dominaron el partido de principio a fin con goles de José Bolaños, Nicolás Martínez y Martín Angulo para sumar tres puntos importantes en el estadio Santo Domingo de Guzmán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Municipal vs. Guastatoya: siga el minuto a minuto de la jornada 15",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-municipal-vs-guastatoya-siga-el-minuto-a-minuto-de-la-jornada-15-breaking/",
+      "fecha": "Sun, 18 Oct 2026 23:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los escarlatas reciben  Guastatoya este domingo a las 6:00 PM en el estadio Manuel Felipe Carrera en el duelo más atractivo de la jornada 15 con el liderato del Apertura 2026 en juego."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Cindy Crawford habla por primera vez tras la muerte de su hijo Presley: &#8220;Estoy más que destrozada&#8221;",
@@ -761,38 +793,6 @@
       "fecha": "Sat, 17 Oct 2026 02:03:39 +0000",
       "categoria": "Internacional",
       "resumen": "El puente Vincent Thomas, en California, cerrará por 16 meses a partir del 7 de noviembre del 2026. Cuáles serán las rutas alternas y el impacto logístico en Los Ángeles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "10 meses para una megacárcel al estilo Bukele versus 4 años sin mover un ladrillo: La brecha entre Costa Rica y Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/10-meses-para-una-megacarcel-al-estilo-bukele-versus-4-anos-sin-mover-un-ladrillo-la-brecha-entre-costa-rica-y-guatemala/",
-      "fecha": "Sat, 17 Oct 2026 02:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Mientras a Costa Rica estrenó un centro de alta contención más conocido como \"CACCO\", Guatemala suma cuatro años enredada en expedientes y 16 años sin construir una sola cárcel pública."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Revolución Viva: La Orquesta Sinfónica Nacional y la Banda Sinfónica Marcial ofrecerán un concierto histórico",
-      "link": "https://www.prensalibre.com/vida/escenario/revolucion-viva-la-orquesta-sinfonica-nacional-y-la-banda-sinfonica-marcial-ofreceran-un-concierto-historico/",
-      "fecha": "Sat, 17 Oct 2026 02:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Las instituciones artísticas ofrecerán un  homenaje musical a la Revolución de 1944."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lluvias causan inundaciones en Quetzaltenango y Escuintla y el Insivumeh advierte de más precipitaciones",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/lluvias-causan-inundaciones-en-quetzaltenango-y-escuintla-y-el-insivumeh-advierte-de-mas-precipitaciones-breaking/",
-      "fecha": "Sat, 17 Oct 2026 01:35:09 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Las lluvias provocaron inundaciones en Quetzaltenango y Escuintla, donde la acumulación de agua dificulta el tránsito vehicular. El Insivumeh prevé que las precipitaciones continúen durante el fin de semana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Laken Snelling?: exreina de belleza condenada a 10 años de prisión por la muerte de su bebé",
-      "link": "https://www.prensalibre.com/internacional/quien-es-laken-snelling-exreina-de-belleza-condenada-a-10-anos-de-prision-por-la-muerte-de-su-bebe/",
-      "fecha": "Sat, 17 Oct 2026 01:30:26 +0000",
-      "categoria": "Internacional",
-      "resumen": "Laken Snelling, exreina de belleza de 22 años, fue declarada culpable por la muerte de su hijo y condenada a 10 años de prisión."
     },
     {
       "fuente": "Guatemala.com",
