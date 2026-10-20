@@ -1,7 +1,135 @@
 {
-  "actualizado": "2026-10-20T05:46:56.963Z",
+  "actualizado": "2026-10-20T11:14:13.984Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Crimen contra Solórzano Foppa abre debate sobre seguridad e investigación criminal para esclarecer el caso",
+      "link": "https://www.prensalibre.com/guatemala/politica/crimen-de-solorzano-foppa-abre-debate-sobre-seguridad-e-investigacion-criminal-para-esclarecer-el-caso/",
+      "fecha": "Tue, 20 Oct 2026 11:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El asesinato de Juan Francisco Solórzano Foppa plantea interrogantes sobre la seguridad y la capacidad de investigación de las autoridades, según analistas, que advierten de la importancia de esclarecer el caso y la actuación de las fuerzas de seguridad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "CIV debe cobrar más de Q9 millones a Cebco para concluir con la liquidación del paso a desnivel de la avenida Petapa",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/civ-debe-cobrar-mas-de-q9-millones-a-cebco-para-concluir-con-la-liquidacion-del-paso-a-desnivel-de-la-avenida-petapa/",
+      "fecha": "Tue, 20 Oct 2026 11:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Contraloría General de Cuentas (CGC) determinó que la empresa CEBCO tiene un saldo pendiente por más de Q9 millones  por el proyecto inconcluso del paso a desnivel de la avenida Petapa. Sin embargo, el cobro aún depende de la aprobación de la liquidación por parte del Ministerio de Comunicaciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alberta vota por seguir formando parte de Canadá, según resultados preliminares del referendo independentista",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/alberta-vota-por-seguir-formando-parte-de-canada-segun-resultados-preliminares-del-referendo-independentista/",
+      "fecha": "Tue, 20 Oct 2026 08:55:46 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los votantes de la pronvincia han rechazado por amplio margen una propuesta para iniciar un proceso hacia la independencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Congreso analiza dos iniciativas de ley de aguas con diferencias de fondo entre ambas propuestas",
+      "link": "https://www.prensalibre.com/guatemala/politica/congreso-analiza-dos-iniciativas-de-ley-de-aguas-con-diferencias-de-fondo-entre-ambas-propuestas/",
+      "fecha": "Tue, 20 Oct 2026 06:16:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Las iniciativas 6816 y 6834, comparten el propósito de regular el uso del agua en Guatemala, aunque plantean diferencias en sus mecanismos. Estas coincidencias y discrepancias forman parte de la discusión legislativa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más de 172 mil jóvenes se gradúan este año del diversificado y el 72% recibirá un título de bachiller",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/mas-de-172-mil-jovenes-se-graduan-este-ano-del-diversificado-y-el-72-recibira-un-titulo-de-bachiller/",
+      "fecha": "Tue, 20 Oct 2026 06:14:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La cohorte del 2026 tendrá más de 172 mil graduandos de distintas carreras y sectores educativos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cámaras corporales",
+      "link": "https://www.prensalibre.com/opinion/caricatura/camaras-corporales/",
+      "fecha": "Tue, 20 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Crisis debe obligar a depuración en la PNC",
+      "link": "https://www.prensalibre.com/opinion/editorial/crisis-debe-obligar-a-depuracion-en-la-pnc/",
+      "fecha": "Tue, 20 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "La pesquisa del MP debe ser ágil, tecnológica, con cruce de datos de video, biométricos, barrido de señales telefónicas y datos de matrículas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El precio de la vida",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-precio-de-la-vida/",
+      "fecha": "Tue, 20 Oct 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Guatemala registró 3,138 homicidios en 2025. Según el Cien, solo el 7% llegó a acusación o sentencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué la ansiedad puede empeorar por la noche y qué hacer al respecto?",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/por-que-la-ansiedad-puede-empeorar-por-la-noche-y-que-hacer-al-respecto/",
+      "fecha": "Tue, 20 Oct 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Al menos el 20  por ciento de los adultos experimentan ansiedad con regularidad, advierten expertos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones en Estados Unidos 2026: los demócratas buscan recuperar el poder en los estados y preparar el camino hacia 2028",
+      "link": "https://www.prensalibre.com/internacional/elecciones-en-estados-unidos-2026-los-democratas-buscan-recuperar-el-poder-en-los-estados-y-preparar-el-camino-hacia-2028/",
+      "fecha": "Tue, 20 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las elecciones para gobernador en Estados Unidos podrían permitir que los demócratas recuperen terreno frente a los republicanos y construyan una ventaja política de cara a las presidenciales del 2028."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Carros voladores",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/carros-voladores/",
+      "fecha": "Tue, 20 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Según una encuesta reciente, cuatro de cada 10 entrevistados no han utilizado inteligencia artificial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presidente, el crimen le perdió el respeto",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/presidente-el-crimen-le-perdio-el-respeto/",
+      "fecha": "Tue, 20 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El problema, presidente, no es únicamente que haya perdido la confianza de la mayoría de los ciudadanos, sino que quienes desafían al Estado le han perdido el respeto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Juan Francisco Solórzano Foppa, ¡presente!",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/juan-francisco-solorzano-foppa-presente/",
+      "fecha": "Tue, 20 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Que no se imponga la impunidad ni el terror."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "20 de octubre y el Estado benefactor",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/20-de-octubre-y-el-estado-benefactor/",
+      "fecha": "Tue, 20 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "¿El modelo redistributivo llega a su fin?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy martes 20 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-20-de-octubre-de-2026/",
+      "fecha": "Tue, 20 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Progreso: “Lo que mueve la aguja de crecimiento en un país es la infraestructura”",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/progreso-lo-que-mueve-la-aguja-de-crecimiento-en-un-pais-es-la-infraestructura/",
+      "fecha": "Tue, 20 Oct 2026 06:00:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "Aunque reconoce el crecimiento de la demanda de cemento en Guatemala, el presidente de Grupo Progreso advierte que buena parte del consumo proviene de proyectos privados, mientras persiste un déficit de inversión pública."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Los opositores a Putin deportados por Occidente a los que ahora Rusia envía a la guerra",
@@ -689,134 +817,6 @@
       "fecha": "Mon, 19 Oct 2026 06:01:00 +0000",
       "categoria": "Vida",
       "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Erick Sánchez le da Marquense la victoria 2-1 sobre Suchitepéquez en el último minuto",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/erick-sanchez-aparece-en-el-tiempo-anadido-para-darle-a-marquense-la-victoria-2-1-sobre-suchitepequez-breaking/",
-      "fecha": "Mon, 19 Oct 2026 04:21:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los leones se pusieron arriba con gol de Francisco Grande pero Zamorano empató de penal a lo Panenka  antes de que Sánchez apareciera de cabeza en el 96 para darle la victoria a Marquense."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El técnico Juan Chang  debuta en su segunda Copa Mundial con Samoa este lunes",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/el-tecnico-juan-chang-debuta-en-su-segunda-copa-mundial-con-samoa-este-lunes-breaking/",
-      "fecha": "Mon, 19 Oct 2026 02:46:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Samoa dirigida por el técnico guatemalteco Juan José Chang abrirá su participación en el Mundial Femenino Sub-17 de Marruecos 2026 ante Estados Unidos tras una clasificación impecable."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Solórzano Foppa y Gustavo Aguilar: Las necropsias duraron cinco horas y media y esto reveló el Inacif",
-      "link": "https://www.prensalibre.com/guatemala/justicia/solorzano-foppa-y-gustavo-aguilar-las-necropsias-duraron-cinco-horas-y-media-y-esto-revelo-el-inacif-breaking/",
-      "fecha": "Mon, 19 Oct 2026 02:17:41 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Inacif estableció las causas de muerte de las dos víctimas del ataque en el Campo Marte. Otros hallazgos permanecen bajo reserva judicial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guastatoya empata 1-1 con Municipal en El Trébol y se mantiene como líder del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guastatoya-empata-1-1-con-municipal-en-el-trebol-y-se-mantiene-como-lider-del-apertura-2026-breaking/",
-      "fecha": "Mon, 19 Oct 2026 02:01:43 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Municipal abrió el marcador pero los pecho amarillo encontraron el empate y resistieron para llevarse un punto de El Trébol que los mantiene en lo más alto de la tabla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Marquense vs. Suchitepéquez: siga el minuto a minuto de la jornada 15",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-marquense-vs-suchitepequez-siga-el-minuto-a-minuto-de-la-jornada-15-breaking/",
-      "fecha": "Mon, 19 Oct 2026 01:08:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los leones reciben a los venados este domingo a las 8:10 PM en el estadio Marquesa de La Ensenada en el partido que cierra la actividad dominical de la jornada 15 del Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;No hay lugar para la violencia&#8221;: vehículos quemados, edificios dañados y 2.400 detenidos tras las multitudinarias protestas en Francia",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/no-hay-lugar-para-la-violencia-vehiculos-quemados-edificios-danados-y-2-400-detenidos-tras-las-multitudinarias-protestas-en-francia/",
-      "fecha": "Mon, 19 Oct 2026 01:01:23 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Durante la jornada de protestas en París y otras ciudades hubo choques con la policía, que enfrentó a los manifestantes con gases lacrimógenos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué tan cerca está la ciencia de conectar el cerebro con la IA? Un científico lo revela",
-      "link": "https://www.prensalibre.com/vida/ciencia/que-tan-cerca-esta-la-ciencia-de-conectar-el-cerebro-con-la-ia-un-cientifico-lo-revela/",
-      "fecha": "Mon, 19 Oct 2026 00:23:03 +0000",
-      "categoria": "Ciencia",
-      "resumen": "Se busca que una  IA, de inspiración biológica, funcione de manera similar al cerebro humano, entienda las intenciones de las personas y sea capaz de interactuar con ellas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Solórzano Foppa: policías habrían plantado arma a los hermanos Choc y el MP ya lo investiga",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/policias-habrian-implantado-arma-a-los-hermanos-choc-liberados-por-el-caso-solorzano-foppa/",
-      "fecha": "Sun, 18 Oct 2026 23:51:08 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Las autoridades investigan si los agentes que capturaron a los hermanos Choc Toz por el asesinato de Solórzano Foppa habrían plantado un arma al momento de su detención."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cindy Crawford rompe el silencio: se pronuncia por primera vez después de la muerte de su hijo",
-      "link": "https://www.prensalibre.com/vida/escenario/cindy-crawford-rompe-el-silencio-se-pronuncia-por-primera-vez-despues-de-la-muerte-de-su-hijo/",
-      "fecha": "Sun, 18 Oct 2026 23:25:05 +0000",
-      "categoria": "Escenario",
-      "resumen": "La modelo y actriz estadounidense manifiesta el dolor que experimenta su familia por la partida de Presley Gerber."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mixco vence 3-1 a Cobán y sigue en la pelea por los primeros lugares del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/mixco-vencio-3-1-a-coban-y-sigue-en-la-pelea-por-los-primeros-lugares-del-apertura-2026-breaking/",
-      "fecha": "Sun, 18 Oct 2026 23:14:46 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los chicharroneros dominaron el partido de principio a fin con goles de José Bolaños, Nicolás Martínez y Martín Angulo para sumar tres puntos importantes en el estadio Santo Domingo de Guzmán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Municipal vs. Guastatoya: siga el minuto a minuto de la jornada 15",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-municipal-vs-guastatoya-siga-el-minuto-a-minuto-de-la-jornada-15-breaking/",
-      "fecha": "Sun, 18 Oct 2026 23:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los escarlatas reciben  Guastatoya este domingo a las 6:00 PM en el estadio Manuel Felipe Carrera en el duelo más atractivo de la jornada 15 con el liderato del Apertura 2026 en juego."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cindy Crawford habla por primera vez tras la muerte de su hijo Presley: &#8220;Estoy más que destrozada&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/cindy-crawford-habla-por-primera-vez-tras-la-muerte-de-su-hijo-presley-estoy-mas-que-destrozada/",
-      "fecha": "Sun, 18 Oct 2026 21:54:44 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El fallecimiento de Presley Gerber en septiembre está siendo investigada como una posible sobredosis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "LaLiga: así marcha la tabla de posiciones con el Barcelona como líder invicto y el Clásico en puerta",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/laliga-asi-marcha-la-tabla-de-posiciones-con-el-barcelona-como-lider-invicto-y-el-clasico-en-puerta-breaking/",
-      "fecha": "Sun, 18 Oct 2026 21:51:58 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Los azulgranas mantienen su paso perfecto con 27 puntos tras nueve victorias consecutivas mientras el Real Madrid sube al tercer lugar con el Clásico programado para el próximo domingo en el Camp Nou."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "NASA Space Apps Challenge 2026 llega a Jalapa: ¿quiénes pueden participar?",
-      "link": "https://www.prensalibre.com/vida/tecnologia/nasa-space-apps-challenge-2026-llega-a-jalapa-quienes-pueden-participar/",
-      "fecha": "Sun, 18 Oct 2026 21:08:49 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Se abre un nuevo espacio para que los guatemaltecos realicen sus propuestas de soluciones creativas a desafíos relacionados con la Tierra y el espacio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video: así fue la victoria del Real Madrid sobre el Sevilla con estos golazos en el Bernabéu",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-asi-fue-la-victoria-del-real-madrid-sobre-el-sevilla-con-estos-golazos-en-el-bernabeu-breaking/",
-      "fecha": "Sun, 18 Oct 2026 21:04:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Los merengues vencieron al Sevilla con goles de Arda Güler, Mbappé y Diomandé en el Bernabéu para sumar tres puntos importantes y llegar con la confianza  al Clásico ante el Barcelona la próxima semana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinato de Juan Francisco Solórzano Foppa provoca condenas internacionales y exigencias de justicia",
-      "link": "https://www.prensalibre.com/guatemala/justicia/asesinato-de-juan-francisco-solorzano-foppa-provoca-condenas-internacionales-y-exigencias-de-justicia/",
-      "fecha": "Sun, 18 Oct 2026 20:52:07 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Organizaciones nacionales e internacionales condenaron el ataque armado y se solidarizaron con las familias de las víctimas, mientras exigieron una investigación pronta e imparcial para esclarecer el crimen y deducir responsabilidades."
     },
     {
       "fuente": "Guatemala.com",
