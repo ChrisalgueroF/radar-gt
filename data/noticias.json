@@ -1,7 +1,119 @@
 {
-  "actualizado": "2026-10-20T20:21:15.355Z",
+  "actualizado": "2026-10-20T23:42:29.377Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hábitos de prevención durante todo el año",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/habitos-de-prevencion-durante-todo-el-ano/",
+      "fecha": "Tue, 20 Oct 2026 23:15:47 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Bayer promueve el bienestar familiar con Redoxitos Plus para los niños y Redoxon Triple Acción para los adultos, destacando la importancia de incorporar hábitos de cuidado diario."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La actriz Christina Applegate revela que estuvo 5 años diagnosticada erróneamente con esclerosis múltiple",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-actriz-christina-applegate-revela-que-estuvo-5-anos-diagnosticada-erroneamente-con-esclerosis-multiple/",
+      "fecha": "Tue, 20 Oct 2026 22:38:50 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En un episodio de su podcast publicado el martes, dijo que no estaba contenta con la noticia y que sus síntomas solo habían \"empeorado\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mingob hará revisión &#8220;profunda&#8221; de la PNC tras asesinato de Solórzano Foppa e irregularidades en detención de hermanos Choc Toz",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mingob-hara-una-revision-profunda-de-la-pnc-tras-el-asesinato-de-foppa-y-las-irregularidades-en-la-detencion-de-los-hermanos-choc-toz-breaking/",
+      "fecha": "Tue, 20 Oct 2026 22:33:15 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Ministerio de Gobernación (Mingob) informó que la revisión de la PNC abarcará los distintos niveles de mando."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Regresa la alternativa para quienes buscan capacidad de trabajo",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/regresa-la-alternativa-para-quienes-buscan-capacidad-de-trabajo/",
+      "fecha": "Tue, 20 Oct 2026 22:20:18 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "En el AutoShow 2026, Volkswagen y Continental Motores develan la Amarok Comfortline, tras haber sido comercializada por última vez en octubre de 2024, regresa con precio especial, IVA incluido y disponibilidad inmediata."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¡La MLB tendrá un campeón inédito! Milwaukee y Tampa Bay hacen historia en la Serie Mundial",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/la-mlb-tendra-un-campeon-inedito-milwaukee-y-tampa-bay-hacen-historia-en-la-serie-mundial/",
+      "fecha": "Tue, 20 Oct 2026 22:17:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Ninguno de los dos equipos ha conquistado el Clásico de Otoño y ambos buscarán convertir una temporada sobresaliente en el primer título de sus respectivas historias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Latin Grammy 2026: confirman a Rosalía, Daddy Yankee y Mon Laferte entre los primeros artistas que actuarán en la gala",
+      "link": "https://www.prensalibre.com/vida/escenario/latin-grammy-2026-confirman-a-rosalia-daddy-yankee-y-mon-laferte-entre-los-primeros-artistas-que-actuaran-en-la-gala/",
+      "fecha": "Tue, 20 Oct 2026 22:15:22 +0000",
+      "categoria": "Escenario",
+      "resumen": "Los Latin Grammy 2026 anunciaron a los primeros artistas que actuarán en la 27.ª edición de los premios. Conoce quiénes se presentarán y cuáles son los músicos con más nominaciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Orcas vs. tiburones blancos: la sangrienta batalla entre los mayores depredadores marinos que tiene perplejos a los científicos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/orcas-vs-tiburones-blancos-la-sangrienta-batalla-entre-los-mayores-depredadores-marinos-que-tiene-perplejos-a-los-cientificos/",
+      "fecha": "Tue, 20 Oct 2026 22:11:06 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El cambio climático está haciendo que los dos grandes cazadores del mar estén cada vez más cerca. Y las orcas parecen estar ganando la batalla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El proyecto residencial de Zona 18 entra en su fase final de comercialización",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/el-proyecto-residencial-de-zona-18-entra-en-su-fase-final-de-comercializacion/",
+      "fecha": "Tue, 20 Oct 2026 21:55:46 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Vías San Rafael consolidado como la opción residencial favorita del sector, desarrollado por la inmobiliaria Milésimo, ha entrado en su etapa final de venta con la disponibilidad de últimas unidades para entrega inmediata, por lo que se realizará el Open House el 24 y 25 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arrestos de migrantes en EE. UU.: fiscales de 21 estados cuestionan al Gobierno de Trump por operativos sin orden judicial",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/arrestos-de-migrantes-en-ee-uu-fiscales-de-21-estados-cuestionan-al-gobierno-de-trump-por-operativos-sin-orden-judicial/",
+      "fecha": "Tue, 20 Oct 2026 21:54:31 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Agentes con pasamontañas, vehículos sin distintivos y arrestos sin orden judicial forman parte de las prácticas del DHS que fiscales de Estados Unidos cuestionan ante un tribunal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Verificamos por usted: qué dice la PNC sobre el video de policías que trasladan paquetes de una bolsa a mochilas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/verificamos-por-usted-que-dice-la-pnc-sobre-el-video-de-policias-que-trasladan-paquetes-de-una-bolsa-a-mochilas-breaking/",
+      "fecha": "Tue, 20 Oct 2026 21:45:02 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Policía Nacional Civil (PNC) dio detalles sobre un video en el que se observa a varios agentes trasladando paquetes de una bolsa a unas mochilas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Super Bowl 2027: dónde se celebrará, cuándo será y qué se sabe sobre los reportes de Jay-Z como artista principal del medio tiempo",
+      "link": "https://www.prensalibre.com/vida/escenario/super-bowl-2027-donde-se-celebrara-cuando-sera-y-que-se-sabe-sobre-los-reportes-de-jay-z-como-artista-principal-del-medio-tiempo/",
+      "fecha": "Tue, 20 Oct 2026 21:15:52 +0000",
+      "categoria": "Escenario",
+      "resumen": "A meses del Super Bowl LXI, aumentan los reportes que vinculan a Jay-Z con el espectáculo de medio tiempo, por encima de otros nombres que figuran entre los favoritos, como Miley Cyrus y Harry Styles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PSG golea al Barcelona y le propina su primera derrota de la temporada antes del clásico español",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/psg-golea-al-barcelona-y-le-propina-su-primera-derrota-de-la-temporada-antes-del-clasico-espanol-breaking/",
+      "fecha": "Tue, 20 Oct 2026 20:55:37 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El equipo de Luis Enrique venció 4-2 al conjunto de Hansi Flick en la Liga de Campeones de Europa y cortó la racha de once victorias consecutivas de los azulgranas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Salvador condena a más de 10 mil 500 pandilleros: qué revelan las cifras del régimen de excepción de Bukele",
+      "link": "https://www.prensalibre.com/internacional/mas-de-10-mil-500-pandilleros-fueron-condenados-en-el-salvador-durante-el-regimen-de-excepcion-breaking/",
+      "fecha": "Tue, 20 Oct 2026 20:29:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "El fiscal general salvadoreño, Rodolfo Delgado, señaló que los pandilleros detenidos fueron sentenciados a diferentes penas de cárcel."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Pagaron por una promesa y los abandonaron”: el mensaje de Gabriel García Luna tras la condena por la tragedia de 53 migrantes en Texas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/pagaron-por-una-promesa-y-los-abandonaron-el-mensaje-de-gabriel-garcia-luna-tras-la-condena-por-la-tragedia-de-53-migrantes-en-texas-breaking/",
+      "fecha": "Tue, 20 Oct 2026 20:28:01 +0000",
+      "categoria": "Justicia",
+      "resumen": "Gabriel García Luna afirmó que el MP buscará a quienes financian, organizan y cobran por el tráfico de migrantes. Sus declaraciones se produjeron tras la sentencia contra un implicado en el caso de Texas que dejó 53 fallecidos y 11 heridos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Antigua toma distancia en el Apertura 2026, mientras Malacateco y Comunicaciones luchan en el fondo",
@@ -313,6 +425,14 @@
       "fecha": "Tue, 20 Oct 2026 04:03:43 +0000",
       "categoria": "Justicia",
       "resumen": "La Asociación de Periodistas de Guatemala y el Colegio de Abogados y Notarios de Guatemala exigieron una investigación exhaustiva para esclarecer el asesinato de Juan Francisco Solórzano Foppa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo es Fobos, la luna de Marte que es el destino de una nueva y revolucionaria misión espacial",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-es-fobos-la-luna-de-marte-que-es-el-destino-de-una-nueva-y-revolucionaria-mision-espacial/",
+      "fecha": "Tue, 20 Oct 2026 03:43:01 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La misión espacial japonesa MMX tiene la ambiciosa misión de traer 10 gramos de polvo lunar marciano de vuelta a la Tierra para ser estudiado y resolver el misterio de la formación de las lunas de Marte."
     },
     {
       "fuente": "Prensa Libre",
@@ -691,132 +811,12 @@
       "resumen": "La tensión política se apodera de Francia después de que los disturbios empañaran las protestas por el coste de la vida y las dificultades de los servicios públicos."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Nuevas rutas y cambios en los aviones: los planes de United Airlines para ampliar su red de vuelos",
-      "link": "https://www.prensalibre.com/internacional/nuevas-rutas-y-cambios-en-los-aviones-los-planes-de-united-airlines-para-ampliar-su-red-de-vuelos/",
-      "fecha": "Mon, 19 Oct 2026 16:21:04 +0000",
-      "categoria": "Internacional",
-      "resumen": "United Airlines anunció cinco nuevas rutas sin escalas y eliminará el asiento central en algunos aviones para competir con las aerolíneas de bajo costo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;¿Miedo? No&#8221;: la respuesta de Vitinha sobre Lamine Yamal antes del PSG vs. Barcelona",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/miedo-no-la-respuesta-de-vitinha-sobre-lamine-yamal-antes-del-psg-vs-barcelona/",
-      "fecha": "Mon, 19 Oct 2026 16:15:05 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Vitinha destaca el momento extraordinario de Lamine Yamal, pero advierte que el PSG está preparado para medirse a uno de los gigantes de Europa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Día del cáncer de mama: la prevención y la atención a los síntomas que no son comunes",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/dia-del-cancer-de-mama-la-prevencion-y-la-atencion-a-los-sintomas-que-no-son-comunes/",
-      "fecha": "Mon, 19 Oct 2026 16:10:59 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Las medidas preventivas contra esta enfermedad deben ir más allá de los exámenes superficiales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lamine Yamal, Raphinha y una nueva sociedad: así construyó Barcelona su inicio perfecto",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lamine-yamal-raphinha-y-una-nueva-sociedad-asi-construyo-barcelona-su-inicio-perfecto/",
-      "fecha": "Mon, 19 Oct 2026 15:56:49 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Barcelona mantiene un arranque histórico en LaLiga tras enlazar nueve victorias consecutivas, impulsado por el talento de Lamine Yamal, la efectividad de Raphinha y el equilibrio que aporta la dupla formada por Rodri y Pedri."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Raphinha manda, Mbappé se acerca y Yamal presiona: así llega la lucha por el Pichichi al Clásico",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/raphinha-manda-mbappe-se-acerca-y-yamal-presiona-asi-llega-la-lucha-por-el-pichichi-al-clasico/",
-      "fecha": "Mon, 19 Oct 2026 15:41:56 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El primer Clásico de la temporada también enfrenta a los máximos artilleros de La Liga, con Raphinha defendiendo el liderato ante Mbappé y Yamal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El iPhone Duo aún no sale a la venta y ya hay entregas para 2027: ¿Qué alternativas existen?",
-      "link": "https://www.prensalibre.com/internacional/el-iphone-duo-aun-no-sale-a-la-venta-y-ya-hay-entregas-para-2027-que-alternativas-existen/",
-      "fecha": "Mon, 19 Oct 2026 15:07:49 +0000",
-      "categoria": "Internacional",
-      "resumen": "Conforme a lo expuesto por Apple, el primer iPhone plegable de la compañía llegará en octubre del 2026 solo a quienes lo reservaron primero."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Días cálidos y con lluvia se presentarán del 19 al 23 de octubre 2026 en Guatemala",
       "link": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-19-al-23-octubre-2026.html",
       "fecha": "Mon, 19 Oct 2026 15:06:34 +0000",
       "categoria": "Comunidad",
       "resumen": "El clima en Guatemala estará marcado por temperaturas de hasta 35°C y lluvias por las tardes y noches. ¡Descubre el pronóstico del Insivumeh aquí!\nThe post Días cálidos y con lluvia se presentarán del 19 al 23 de octubre 2026 en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La nueva oleada de drogas sintéticas caseras que se propaga por EE.UU. y agrava la crisis del fentanilo",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-nueva-oleada-de-drogas-sinteticas-caseras-que-se-propaga-por-ee-uu-y-agrava-la-crisis-del-fentanilo/",
-      "fecha": "Mon, 19 Oct 2026 15:03:51 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La BBC recoge testimonios de consumidores, traficantes, personal penitenciario y trabajadores de centros de rehabilitación, mientras el país lucha contra una nueva y mortal epidemia de drogas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Temblor de magnitud 5.1 se registra en Guatemala este 19 de octubre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-19-de-octubre-de-2026-en-guatemala-breaking/",
-      "fecha": "Mon, 19 Oct 2026 14:57:03 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Conred y el Insivumeh reportan un temblor de magnitud 5.1 registrado este lunes 19 de octubre en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El retorno de Victoria Secret a Los Ángeles: el debut de Kylie Jenner y otras novedades del espectáculo",
-      "link": "https://www.prensalibre.com/vida/escenario/el-retorno-de-victoria-secret-a-los-angeles-el-debut-de-kylie-jenner-y-otras-novedades-del-espectaculo/",
-      "fecha": "Mon, 19 Oct 2026 14:41:33 +0000",
-      "categoria": "Escenario",
-      "resumen": "Glamour, moda y música marcaron el regreso del famoso desfile que es tan admirado como cuestionado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En vivo: Dan el último adiós a Juan Francisco Solórzano Foppa  en el Cementerio Los Parques",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/en-vivo-velatorio-de-juan-francisco-solorzano-foppa-se-lleva-a-cabo-en-medio-de-vigilancia-policial-y-exigencia-de-justicia-breaking/",
-      "fecha": "Mon, 19 Oct 2026 14:40:48 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Juan Francisco Solórzano Foppa fue velado en una funeraria de la zona 9, bajo vigilancia policial.  Luego, el féretro fue trasladado a la Plaza de la Constitución para honras fúnebres y posteriormente al cementerio Los Parques."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El plan de Elon Musk para regalar una acción de SpaceX a cada niño de EE. UU. el próximo año",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/elon-musk-promete-regalar-acciones-de-spacex-a-72-millones-de-menores-en-estados-unidos-cuanto-valdrian/",
-      "fecha": "Mon, 19 Oct 2026 14:18:40 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Unos 72 millones de menores podrían recibir una acción de SpaceX tras la promesa de Elon Musk. El empresario no ha explicado cómo ni bajo qué condiciones las entregaría."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo es la revolucionaria misión que busca traer un trozo de la mayor luna de Marte a la Tierra",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-es-la-revolucionaria-mision-que-busca-traer-un-trozo-de-la-mayor-luna-de-marte-a-la-tierra/",
-      "fecha": "Mon, 19 Oct 2026 14:13:01 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La misión espacial japonesa MMX tiene la ambiciosa misión de traer 10 gramos de polvo lunar marciano de vuelta a la Tierra para ser estudiado y resolver el misterio de la formación de las lunas de Marte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos motoristas fallecidos y un vehículo destruido dejan accidentes de tránsito reportados en las últimas horas",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-motoristas-fallecidos-y-un-vehiculo-destruido-dejan-accidentes-de-transito-reportados-en-las-ultimas-horas-breaking/",
-      "fecha": "Mon, 19 Oct 2026 14:02:35 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Dos motoristas pierden la vida en accidentes de tránsito registrados en la ciudad de Guatemala y Sacatepéquez."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La Llorona: la leyenda del aterrador lamento que se escucha en la noche",
-      "link": "https://www.prensalibre.com/vida/escenario/la-llorona-la-leyenda-del-aterrador-lamento-que-se-escucha-en-la-noche-2/",
-      "fecha": "Mon, 19 Oct 2026 14:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Dicen que cuando el llanto de La Llorona parece escucharse lejos, puede estar mucho más cerca de lo que imaginas. ¿Te atreves a escuchar la historia completa?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mamografías: 20 minutos al año que pueden salvar vidas",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/mamografias-20-minutos-al-ano-que-pueden-salvar-vidas/",
-      "fecha": "Mon, 19 Oct 2026 14:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "El cáncer de mama puede avanzar sin dolor ni señales visibles. Una mamografía permite detectar lesiones antes de que puedan palparse y facilita un diagnóstico temprano que puede salvar vidas."
     },
     {
       "fuente": "Guatemala.com",
