@@ -1,7 +1,71 @@
 {
-  "actualizado": "2026-10-20T11:14:13.984Z",
+  "actualizado": "2026-10-20T16:38:25.937Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vinícius reaparece en la convocatoria del Real Madrid para la Liga de Campeones y Mourinho confirma su titularidad",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/vinicius-reaparece-en-la-convocatoria-del-real-madrid-para-la-liga-de-campeones-y-mourinho-confirma-su-titularidad-breaking/",
+      "fecha": "Tue, 20 Oct 2026 16:04:11 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El brasileño vuelve a escena en Europa tras su expulsión en LaLiga y tendrá una nueva oportunidad de liderar el ataque madridista."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cómo le está yendo a la economía estadounidense bajo la presidencia de Trump?",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-le-esta-yendo-a-la-economia-estadounidense-bajo-la-presidencia-de-trump/",
+      "fecha": "Tue, 20 Oct 2026 15:09:00 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Antes de las elecciones de mitad de mandato, Trump ha presumido del desempeño de la economía estadounidense. BBC Verify analiza los datos de inflación, empleo y crecimiento económico para evaluar si esas afirmaciones se sostienen."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Juan Francisco Solórzano Foppa: Los tres casos por los que fue condenado durante la gestión de Consuelo Porras",
+      "link": "https://www.prensalibre.com/guatemala/justicia/juan-francisco-solorzano-foppa-los-tres-casos-por-los-que-fue-condenado-durante-la-gestion-de-consuelo-porras/",
+      "fecha": "Tue, 20 Oct 2026 15:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Después de ocupar cargos en el Ministerio Público y dirigir la SAT, Solórzano Foppa enfrentó tres procesos judiciales que concluyeron en condenas. Una de las sentencias le impidió ejercer como abogado durante cinco años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Sombrerón: la leyenda de la serenata que puede convertirse en una obsesión",
+      "link": "https://www.prensalibre.com/vida/escenario/el-sombreron-la-leyenda-de-la-serenata-que-puede-convertirse-en-una-obsesion/",
+      "fecha": "Tue, 20 Oct 2026 14:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Primero se escucha una guitarra, después comienzan las visitas, y cuando la música deja de sonar afuera de la casa, quizá sea demasiado tarde."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Decomisan en Génova, Quetzaltenango, 168 paquetes de droga valorados en Q16 millones",
+      "link": "https://www.prensalibre.com/guatemala/justicia/decomisan-en-genova-quetzaltenango-168-paquetes-de-droga-valorados-en-q16-millones-breaking/",
+      "fecha": "Tue, 20 Oct 2026 13:27:00 +0000",
+      "categoria": "Justicia",
+      "resumen": "La Policía Nacional Civil captura a un hombre y decomisa más de cien paquetes de droga en Génova, Quetzaltenango."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelta a Guatemala 2026: los ciclistas nacionales que buscan desafiar a los extranjeros",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-los-ciclistas-nacionales-que-buscan-desafiar-a-los-extranjeros-breaking/",
+      "fecha": "Tue, 20 Oct 2026 13:00:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "Los equipos nacionales afinan su estrategia y confían en sus principales figuras para competir contra la legión extranjera en las exigentes etapas de la edición 65 de la Vuelta a Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué Chile enfrenta una crisis económica con récord de desempleo en medio de las políticas de austeridad de Kast",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/por-que-chile-enfrenta-una-crisis-economica-con-record-de-desempleo-en-medio-de-las-politicas-de-austeridad-de-kast/",
+      "fecha": "Tue, 20 Oct 2026 11:58:32 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El desempleo marcó un récord de 9,6%, el mayor en más de cinco años. La inversión está estancada y la confianza de los consumidores ha caído, en medio del plan de austeridad fiscal del gobierno."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De Medellín a Ho Chi Minh: 5 ciudades en pleno auge que los viajeros no deberían perderse",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/de-medellin-a-ho-chi-minh-5-ciudades-en-pleno-auge-que-los-viajeros-no-deberian-perderse/",
+      "fecha": "Tue, 20 Oct 2026 11:28:55 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Un nuevo informe global destaca ciudades como Toulouse o Varsovia como destinos urbanos emergentes para los viajeros. Esto es lo que sus habitantes opinan sobre qué las hace especiales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Crimen contra Solórzano Foppa abre debate sobre seguridad e investigación criminal para esclarecer el caso",
@@ -596,11 +660,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "En vivo: APG anuncia tres días de duelo por asesinato de Solórzano Foppa y, junto al CANG, exigen justicia",
+      "titulo": "En vivo: Juan Francisco Solórzano Foppa recibe homenaje en la Plaza de la Constitución",
       "link": "https://www.prensalibre.com/guatemala/comunitario/en-vivo-velatorio-de-juan-francisco-solorzano-foppa-se-lleva-a-cabo-en-medio-de-vigilancia-policial-y-exigencia-de-justicia-breaking/",
       "fecha": "Mon, 19 Oct 2026 14:40:48 +0000",
       "categoria": "Comunitario",
-      "resumen": "Juan Francisco Solórzano Foppa es velado este 19 de octubre en una funeraria de la zona 9, bajo vigilancia policial. La PNC dice que hay agentes bajo investigación."
+      "resumen": "Juan Francisco Solórzano Foppa fue velado en una funeraria de la zona 9, bajo vigilancia policial. Féretro fue trasladado a la Plaza de la Constitución."
     },
     {
       "fuente": "Prensa Libre",
@@ -753,70 +817,6 @@
       "fecha": "Mon, 19 Oct 2026 06:07:00 +0000",
       "categoria": "Caricatura",
       "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pesquisa debe ser íntegra, moderna, eficaz y rápida",
-      "link": "https://www.prensalibre.com/opinion/editorial/pesquisa-debe-ser-integra-moderna-eficaz-y-rapida/",
-      "fecha": "Mon, 19 Oct 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Son dos familias enlutadas que se suman a cientos, miles, de hogares guatemaltecos que padecen los horrores de la violencia criminal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un crimen para causar terror en la ciudadanía",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/un-crimen-para-causar-terror-en-la-ciudadania/",
-      "fecha": "Mon, 19 Oct 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El asesinato de Juan Francisco Solórzano Foppa es advertencia para el reinicio de la guerra interna 1960- 1996."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto 2027: Deuda pública y fondos para los Codede son los mayores riesgos en plan de gasto",
-      "link": "https://www.prensalibre.com/economia/presupuesto-2027-icefi-advierte-riesgos-por-deuda-publica-y-fondos-para-los-codede/",
-      "fecha": "Mon, 19 Oct 2026 06:05:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El proyecto de presupuesto para 2027 contempla mayores recursos para infraestructura y programas sociales, pero también plantea desafíos para la ejecución del gasto público, el endeudamiento y el manejo de los fondos destinados a los Codede. El Icefi advierte sobre estos riesgos y plantea recomendaciones al Congreso antes de su aprobación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La gran prueba del sistema de justicia",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-gran-prueba-del-sistema-de-justicia/",
-      "fecha": "Mon, 19 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Un caso paradigmático para la sociedad"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La tiranía de la burocracia",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-tirania-de-la-burocracia/",
-      "fecha": "Mon, 19 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El tiempo perdido en trámites también cuesta empleos y oportunidades para los guatemaltecos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Evaluación del presidente Arévalo por CID Gallup",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/evaluacion-del-presidente-arevalo-por-cid-gallup/",
-      "fecha": "Mon, 19 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Arévalo debería  revisar con mucho cuidado su actuar, su toma de decisiones y a su equipo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El espíritu democrático de la revolución octubrista",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-espiritu-democratico-de-la-revolucion-octubrista/",
-      "fecha": "Mon, 19 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La oligarquía partitocrática avasalló la justicia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy lunes 19 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-19-de-octubre-de-2026/",
-      "fecha": "Mon, 19 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
     },
     {
       "fuente": "Guatemala.com",
