@@ -1,7 +1,111 @@
 {
-  "actualizado": "2026-10-20T16:38:25.937Z",
+  "actualizado": "2026-10-20T20:21:15.355Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Antigua toma distancia en el Apertura 2026, mientras Malacateco y Comunicaciones luchan en el fondo",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/antigua-toma-distancia-en-el-apertura-2026-mientras-malacateco-y-comunicaciones-luchan-en-el-fondo-breaking/",
+      "fecha": "Tue, 20 Oct 2026 19:37:40 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Antigua manda con 29 puntos, mientras Malacateco y Comunicaciones se juegan puntos vitales para alejarse del fondo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos mujeres que viajaban en motocicleta mueren en accidente en Puerto Barrios, Izabal",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-mujeres-que-viajaban-en-motocicleta-mueren-en-accidente-en-puerto-barrios-izabal-breaking/",
+      "fecha": "Tue, 20 Oct 2026 19:31:36 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos mujeres, entre ellas una menor de edad, murieron este martes en un accidente de tránsito en Puerto Barrios, Izabal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Rigoberto Miranda Orozco recibe condena de 30 años por muerte de 53 migrantes en un camión en Texas",
+      "link": "https://www.prensalibre.com/guatemala/migrantes/rigoberto-miranda-orozco-recibe-condena-de-30-anos-por-muerte-de-53-migrantes-en-un-camion-en-texas-breaking/",
+      "fecha": "Tue, 20 Oct 2026 19:24:15 +0000",
+      "categoria": "Migrantes",
+      "resumen": "Rigoberto Miranda Orozco fue condenado a 30 años de prisión en EE. UU. por su participación en una red de tráfico de migrantes vinculada con la muerte de 53 personas en Texas, entre ellas 21 guatemaltecos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cómo activar las alertas de sismos de Google? Paso a paso para habilitar esta herramienta de prevención",
+      "link": "https://www.prensalibre.com/vida/tecnologia/como-activar-las-alertas-de-sismos-de-google-paso-a-paso-para-habilitar-esta-herramienta-de-prevencion/",
+      "fecha": "Tue, 20 Oct 2026 19:14:27 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Guatemala ya cuenta con una herramienta complementaria de prevención de Google que alerta a los usuarios de Android sobre posibles sismos. Conoce cómo activarla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Regresará Cristiano Ronaldo con Portugal? La sanción que recibió y la incógnita sobre su futuro",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/regresara-cristiano-ronaldo-con-portugal-la-sancion-que-recibio-y-la-incognita-sobre-su-futuro-breaking/",
+      "fecha": "Tue, 20 Oct 2026 18:35:07 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El delantero cumplirá el castigo antes de los partidos de noviembre, pero su presencia en la próxima convocatoria dependerá de la decisión de Jorge Jesus."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Barcelona vs. PSG: Rodri es la gran sorpresa en el once para la Champions League",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-barcelona-vs-psg-rodri-es-la-gran-sorpresa-en-el-once-para-la-champions-league-breaking/",
+      "fecha": "Tue, 20 Oct 2026 18:22:39 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Las bajas obligan al técnico azulgrana a mover sus piezas para el duelo de la Liga de Campeones de Europa, mientras Luis Enrique apuesta por Lucas Hernández para intentar frenar a Lamine Yamal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asueto del 1 de noviembre del 2026: qué establece la ley sobre el traslado del descanso en Guatemala",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/asueto-del-1-de-noviembre-del-2026-que-establece-la-ley-sobre-el-traslado-del-descanso-en-guatemala/",
+      "fecha": "Tue, 20 Oct 2026 18:11:07 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Noviembre comienza con el asueto del Día de Todos los Santos, una fecha para honrar la memoria de los seres queridos fallecidos. ¿Se trasladará el descanso en Guatemala?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Análisis: los separatistas de Alberta sufren un duro revés pero la tensión con Canadá continuará",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/analisis-los-separatistas-de-alberta-sufren-un-duro-reves-pero-la-tension-con-canada-continuara/",
+      "fecha": "Tue, 20 Oct 2026 18:02:40 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los líderes del movimiento independentista prometen seguir adelante, pero el margen de la derrota podría dificultarlo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemalteca de 52 años muere apuñalada en España: testigos señalan a una expareja",
+      "link": "https://www.prensalibre.com/guatemala/migrantes/guatemalteca-de-52-anos-muere-apunalada-en-espana-testigos-senalan-a-una-expareja/",
+      "fecha": "Tue, 20 Oct 2026 17:27:26 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La Policía española busca al responsable de la muerte de una guatemalteca de 52 años en Madrid. Testigos apuntan a una expareja de la víctima, pero las autoridades aún no confirman esa versión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Somos más americanos&#8221;: el origen del &#8220;himno&#8221; de los migrantes mexicanos en EE.UU. que vuelve a resonar por una reciente polémica",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/somos-mas-americanos-el-origen-del-himno-de-los-migrantes-mexicanos-en-ee-uu-que-vuelve-a-resonar-por-una-reciente-polemica/",
+      "fecha": "Tue, 20 Oct 2026 17:04:42 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El conjunto mexicano Los Tigres del Norte se presentó en el famoso espacio Tiny Desk de la cadena de radio pública NPR. A la actuación le precedió una polémica presentación de uno de los periodistas de la emisora."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Importación de materiales de construcción en Guatemala crece hasta 141.1%",
+      "link": "https://www.prensalibre.com/economia/importacion-de-materiales-de-construccion-en-guatemala-crece-hasta-141-1/",
+      "fecha": "Tue, 20 Oct 2026 17:02:46 +0000",
+      "categoria": "Economía",
+      "resumen": "Los materiales importados para la construcción en Guatemala muestran un incremento sustancial del 27.1% en el primer trimestre del año, asociado con la mejora y las perspectivas de la actividad para el 2026 y el 2027. El clínker importado es el principal producto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asesinato de Juan Francisco Solórzano Foppa: la OEA exige esclarecer el crimen y combatir la impunidad",
+      "link": "https://www.prensalibre.com/guatemala/politica/asesinato-de-juan-francisco-solorzano-foppa-la-oea-exige-esclarecer-el-crimen-y-combatir-la-impunidad-breaking/",
+      "fecha": "Tue, 20 Oct 2026 16:41:34 +0000",
+      "categoria": "Política",
+      "resumen": "La Misión de la OEA en Guatemala exigió una investigación independiente por el asesinato de Juan Francisco Solórzano Foppa y pidió a las autoridades una respuesta institucional para combatir la impunidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Carlos &#8220;Pollito&#8221; Morales Chacón: 45 años contando las historias de la Vuelta a Guatemala",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/carlos-pollito-morales-chacon-45-anos-contando-las-historias-de-la-vuelta-a-guatemala/",
+      "fecha": "Tue, 20 Oct 2026 16:38:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "Con su libreta, su cámara y el ingenio de El Pelotón, el periodista ha acompañado a generaciones de ciclistas y sigue en carrera en la edición 65 de la máxima fiesta del pedal."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Vinícius reaparece en la convocatoria del Real Madrid para la Liga de Campeones y Mourinho confirma su titularidad",
@@ -580,6 +684,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "&#8220;Francia contiene la respiración&#8221;: las numerosas preguntas que siguen abiertas tras un &#8220;fin de semana de furia&#8221; y por qué se temen más protestas",
+      "link": "https://www.prensalibre.com/guatemala/francia-contiene-la-respiracion-las-numerosas-preguntas-que-siguen-abiertas-tras-un-fin-de-semana-de-furia-y-por-que-se-temen-mas-protestas/",
+      "fecha": "Mon, 19 Oct 2026 16:23:13 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La tensión política se apodera de Francia después de que los disturbios empañaran las protestas por el coste de la vida y las dificultades de los servicios públicos."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Nuevas rutas y cambios en los aviones: los planes de United Airlines para ampliar su red de vuelos",
       "link": "https://www.prensalibre.com/internacional/nuevas-rutas-y-cambios-en-los-aviones-los-planes-de-united-airlines-para-ampliar-su-red-de-vuelos/",
       "fecha": "Mon, 19 Oct 2026 16:21:04 +0000",
@@ -660,11 +772,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "En vivo: Juan Francisco Solórzano Foppa recibe homenaje en la Plaza de la Constitución",
+      "titulo": "En vivo: Dan el último adiós a Juan Francisco Solórzano Foppa  en el Cementerio Los Parques",
       "link": "https://www.prensalibre.com/guatemala/comunitario/en-vivo-velatorio-de-juan-francisco-solorzano-foppa-se-lleva-a-cabo-en-medio-de-vigilancia-policial-y-exigencia-de-justicia-breaking/",
       "fecha": "Mon, 19 Oct 2026 14:40:48 +0000",
       "categoria": "Comunitario",
-      "resumen": "Juan Francisco Solórzano Foppa fue velado en una funeraria de la zona 9, bajo vigilancia policial. Féretro fue trasladado a la Plaza de la Constitución."
+      "resumen": "Juan Francisco Solórzano Foppa fue velado en una funeraria de la zona 9, bajo vigilancia policial.  Luego, el féretro fue trasladado a la Plaza de la Constitución para honras fúnebres y posteriormente al cementerio Los Parques."
     },
     {
       "fuente": "Prensa Libre",
@@ -705,118 +817,6 @@
       "fecha": "Mon, 19 Oct 2026 14:00:00 +0000",
       "categoria": "Salud y Familia",
       "resumen": "El cáncer de mama puede avanzar sin dolor ni señales visibles. Una mamografía permite detectar lesiones antes de que puedan palparse y facilita un diagnóstico temprano que puede salvar vidas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Blas Quaglieri: la historia de un hombre cuyo legado sigue vivo en cada Vuelta a Guatemala",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/blas-quaglieri-la-historia-de-un-hombre-cuyo-legado-sigue-vivo-en-cada-vuelta-a-guatemala/",
-      "fecha": "Mon, 19 Oct 2026 13:50:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Blas Quaglieri encontró en Guatemala una segunda patria y dejó como legado la Vuelta Ciclística, la competencia más emblemática del pedal nacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La conmoción en Australia después de que un vehículo arrollara y dejara gravemente herida a una diputada en un presunto ataque deliberado",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-conmocion-en-australia-despues-de-que-un-vehiculo-arrollara-y-dejara-gravemente-herida-a-una-diputada-en-un-presunto-ataque-deliberado/",
-      "fecha": "Mon, 19 Oct 2026 12:58:50 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La diputada independiente Helen Haines fue atropellada por una 4x4 en lo que parece ser un acto de violencia deliberado, señalaron las autoridades de Australia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Calor, humedad y lluvias en Guatemala: el pronóstico del Insivumeh para este lunes 19 de octubre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/calor-humedad-y-lluvias-en-guatemala-el-pronostico-del-insivumeh-para-este-lunes-19-de-octubre-breaking/",
-      "fecha": "Mon, 19 Oct 2026 12:58:01 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Ingreso de humedad al territorio nacional favorecerá las lluvias este lunes 19 de octubre, según el Insivumeh."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las numerosas preguntas que siguen abiertas en Francia tras el &#8220;fin de semana de furia&#8221; y por qué se temen más protestas",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-numerosas-preguntas-que-siguen-abiertas-en-francia-tras-el-fin-de-semana-de-furia-y-por-que-se-temen-mas-protestas/",
-      "fecha": "Mon, 19 Oct 2026 12:35:14 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La tensión política se apodera de Francia después de que los disturbios empañaran las protestas por el coste de la vida y las dificultades de los servicios públicos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Un renacer en el valle&#8221;: los 250 años del traslado de la capital en grabado",
-      "link": "https://www.prensalibre.com/vida/escenario/un-renacer-en-el-valle-los-250-anos-del-traslado-de-la-capital-en-grabado/",
-      "fecha": "Mon, 19 Oct 2026 12:09:53 +0000",
-      "categoria": "Escenario",
-      "resumen": "Alumnos de la Escuela Nacional de Artes Plásticas Rafael Rodríguez Padilla (ENAP) exponen su interpretación del hecho histórico en el CFCE."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Y si hoy el regalo es para usted? Experimente el placer de tener un detalle consigo mismo, sin culpa",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/y-si-hoy-el-regalo-es-para-usted-experimente-el-placer-de-tener-un-detalle-consigo-mismo-sin-culpa/",
-      "fecha": "Mon, 19 Oct 2026 12:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Regalar algo a quienes se estima genera satisfacción, pero también es importante aprender a tener detalles con uno mismo, sin sentir culpa. Expertas explican por qué y cómo hacerlo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los hijos temporales que los ancianos contratan en China para combatir la soledad",
-      "link": "https://www.prensalibre.com/guatemala/los-hijos-temporales-que-los-ancianos-contratan-en-china-para-combatir-la-soledad/",
-      "fecha": "Mon, 19 Oct 2026 11:09:34 +0000",
-      "categoria": "Guatemala",
-      "resumen": "A medida que aumenta la soledad en China, está surgiendo una nueva industria para brindar compañía y apoyo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“El Tuerto”: municipalidades prorrogan contratos y pagan millones a requerido en extradición",
-      "link": "https://www.prensalibre.com/guatemala/justicia/el-tuerto-municipalidades-prorrogan-contratos-y-pagan-millones-a-requerido-en-extradicion/",
-      "fecha": "Mon, 19 Oct 2026 11:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Las municipalidades de Carchá y Cahabón ampliaron plazos de obras y efectuaron pagos a la constructora de Cristhian Vaides Fión, conocido como “el Tuerto”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinatos de alto impacto en Guatemala: los casos de Gerardi, Rosenberg y, ahora, Solórzano Foppa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/asesinatos-de-alto-impacto-en-guatemala-los-casos-de-gerardi-rosenberg-y-ahora-solorzano-foppa/",
-      "fecha": "Mon, 19 Oct 2026 11:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Desde el asesinato de monseñor Juan José Gerardi en 1998 hasta la muerte del abogado Juan Francisco Solórzano Foppa en 2026. Ocho crímenes de alto impacto que han puesto a prueba al sistema de justicia en 30 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinato de Solórzano Foppa: el reto del MP para esclarecer un posible crimen político",
-      "link": "https://www.prensalibre.com/guatemala/justicia/asesinato-de-solorzano-foppa-el-reto-del-mp-para-esclarecer-un-posible-crimen-politico/",
-      "fecha": "Mon, 19 Oct 2026 11:00:00 +0000",
-      "categoria": "Justicia",
-      "resumen": "Analistas examinan las hipótesis sobre el asesinato del exfiscal, las primeras capturas y los desafíos para identificar a los responsables materiales e intelectuales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cáncer de mama: ser mujer implica un riesgo y los exámenes que pueden detectar lesiones antes de sentir un bulto",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/un-pais-ante-el-cancer-ser-mujer-ya-implica-riesgo-y-la-mamografia-puede-detectar-el-cancer-antes-de-sentir-un-bulto/",
-      "fecha": "Mon, 19 Oct 2026 11:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La ausencia de antecedentes familiares no elimina el riesgo; especialistas explican cómo los estudios de imagen pueden hallar lesiones mamarias no palpables en etapas tempranas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Reformas constitucionales tienen pocas expectativas de ser priorizadas por diputados en período electoral",
-      "link": "https://www.prensalibre.com/guatemala/politica/reformas-constitucionales-tienen-pocas-expectativas-de-ser-priorizadas-por-diputados-en-periodo-electoral/",
-      "fecha": "Mon, 19 Oct 2026 06:12:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Analistas consideran que las propuestas para cambiar la Constitución en temas de justicia difícilmente serán impulsadas por legisladores que están cómodos con el sistema."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones 2027: funcionarios y empleados públicos con intenciones políticas deben renunciar desde el 21 octubre",
-      "link": "https://www.prensalibre.com/guatemala/politica/elecciones-2027-funcionarios-y-empleados-publicos-con-intenciones-politicas-deben-renunciar-desde-el-21-octubre/",
-      "fecha": "Mon, 19 Oct 2026 06:12:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El TSE informó los plazos para que personas con intereses electorales en 2027 se aparten de las instituciones públicas cumpliendo los tiempos de la Lepp."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Campo Mártir",
-      "link": "https://www.prensalibre.com/opinion/caricatura/campo-martir/",
-      "fecha": "Mon, 19 Oct 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
     },
     {
       "fuente": "Guatemala.com",
