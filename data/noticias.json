@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-10-21T09:55:39.710Z",
+  "actualizado": "2026-10-21T14:59:55.834Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mujer muere tras ser atacada con piedras en Santa Rosa y su hijo es capturado como sospechoso",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/mujer-muere-tras-ser-atacada-con-piedras-en-santa-rosa-y-su-hijo-es-capturado-como-sospechoso-breaking/",
+      "fecha": "Wed, 21 Oct 2026 14:35:26 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Agentes de la Policía Nacional Civil (PNC) capturaron al presunto responsable de la muerte de una mujer en una aldea de Nueva Santa Rosa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué el PSG podría ser sancionado por la Uefa tras el partido contra el Barcelona?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/por-que-el-psg-podria-ser-sancionado-por-la-uefa-tras-el-partido-contra-el-barcelona/",
+      "fecha": "Wed, 21 Oct 2026 14:35:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La Uefa estudia posibles sanciones contra el PSG después de que sus aficionados desplegaran una polémica pancarta durante el duelo correspondiente a la jornada de la Champions League."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Multan con Q10 mil a piloto de bus que conducía en estado de ebriedad en la calzada Roosevelt",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/multan-con-q10-mil-a-piloto-de-bus-que-conducia-en-estado-de-ebriedad-en-la-calzada-roosevelt-breaking/",
+      "fecha": "Wed, 21 Oct 2026 14:05:38 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Policía Municipal de Tránsito (PMT) multó al conductor de un bus por cometer infracciones de tránsito mientras circulaba por la calzada Roosevelt."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Todavía no sabemos la magnitud real del daño&#8221;: el joven que diseñó un software para buscar a desaparecidos en los terremotos en Venezuela",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/todavia-no-sabemos-la-magnitud-real-del-dano-el-joven-que-diseno-un-software-para-buscar-a-desaparecidos-en-los-terremotos-en-venezuela/",
+      "fecha": "Wed, 21 Oct 2026 14:02:44 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Jorge Bastidas creó el portal Desaparecidos Terremoto Venezuela, una iniciativa ciudadana para reportar a los desaparecidos en los sismos, a falta de cifras del gobierno venezolano."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La Siguanaba: la leyenda de la misteriosa mujer que nadie debería seguir de noche",
+      "link": "https://www.prensalibre.com/vida/escenario/la-siguanaba-la-leyenda-de-la-misteriosa-mujer-que-nadie-deberia-seguir-de-noche/",
+      "fecha": "Wed, 21 Oct 2026 14:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Parece una mujer hermosa y camina siempre de espaldas; el verdadero terror comienza cuando alguien logra verle el rostro: la mujer a la que nunca hay que seguir."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Champions League: la victoria del PSG ante el Barcelona deja una dura noticia para Khvicha Kvaratskhelia",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/champions-league-la-victoria-del-psg-ante-el-barcelona-deja-una-dura-noticia-para-khvicha-kvaratskhelia/",
+      "fecha": "Wed, 21 Oct 2026 14:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La victoria ante el Barcelona dejó un sabor agridulce para el PSG, que ahora deberá afrontar importantes retos con cambios en su esquema habitual."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "¿Se correrá el asueto del 1 de noviembre por el Día de Todos los Santos 2026?",
+      "link": "https://www.guatemala.com/noticias/sociedad/asueto-1-de-noviembre-dia-de-todos-los-santos-2026-guatemala.html",
+      "fecha": "Wed, 21 Oct 2026 13:24:54 +0000",
+      "categoria": "Sociedad",
+      "resumen": "En noviembre llega el asueto del Día de Todos los Santos en Guatemala 2026, acá te contamos cuándo se gozará y si habrá un fin de semana largo.\nThe post ¿Se correrá el asueto del 1 de noviembre por el Día de Todos los Santos 2026? appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PMT habilita carril exclusivo por trabajos en puente Periférico-Aguilar Batres: conozca también las rutas alternas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/pmt-habilita-carril-exclusivo-por-trabajos-en-puente-periferico-aguilar-batres-conozca-tambien-las-rutas-alternas/",
+      "fecha": "Wed, 21 Oct 2026 13:13:42 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La PMT informó cómo se administrará el tránsito durante los trabajos en el puente Periférico-Aguilar Batres."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mixco recibe a Municipal en un duelo clave: Mario Escobar Toca será el árbitro",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/mixco-recibe-a-municipal-en-un-duelo-clave-mario-escobar-toca-sera-el-arbitro-breaking/",
+      "fecha": "Wed, 21 Oct 2026 13:04:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los rojos buscan alcanzar a Antigua en el liderato del Apertura 2026, mientras el silbante regresa tras la polémica en el Xelajú-Comunicaciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "A pesar de un renovado optimismo, ¿puede Zelenski seguir considerando a Trump como un aliado en la guerra contra Rusia?",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/a-pesar-de-un-renovado-optimismo-puede-zelenski-seguir-considerando-a-trump-como-un-aliado-en-la-guerra-contra-rusia/",
+      "fecha": "Wed, 21 Oct 2026 11:32:18 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Es poco probable que el abrazo del líder ucraniano con Steve Witkoff en la capital noruega disipe las dudas sobre la política estadounidense hacia su país, escribe Paul Adams."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ley antilavado en Guatemala: IVE revela qué cuentas bancarias concentran casi el 80% de los registros de transacciones sospechosas",
+      "link": "https://www.prensalibre.com/economia/ley-antilavado-en-guatemala-ive-revela-que-cuentas-bancarias-concentran-casi-el-80-de-los-registros-de-transacciones-sospechosas/",
+      "fecha": "Wed, 21 Oct 2026 10:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Las cuentas monetarias y de ahorro concentran casi el 80% de los productos financieros vinculados con los reportes de transacciones sospechosas (RTS), según las estadísticas de la Intendencia de Verificación Especial (IVE). Los datos corresponden al primer informe publicado tras la entrada en vigor de la nueva ley antilavado, el pasado 17 de septiembre."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Henry Sáenz, el muro de contención de Arévalo: respaldo institucional y críticas a su gestión",
@@ -29,9 +117,9 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "San Martín apuesta por Estados Unidos: cuánto ha invertido y dónde abrirá nuevas tiendas",
-      "link": "https://www.prensalibre.com/guatemala/san-martin-apuesta-por-estados-unidos-cuanto-ha-invertido-y-donde-abrira-nuevas-tiendas/",
+      "link": "https://www.prensalibre.com/economia/san-martin-apuesta-por-estados-unidos-cuanto-ha-invertido-y-donde-abrira-nuevas-tiendas/",
       "fecha": "Wed, 21 Oct 2026 07:01:00 +0000",
-      "categoria": "Guatemala",
+      "categoria": "Economía",
       "resumen": "San Martín acumula una inversión superior a US$20 millones en Estados Unidos durante los últimos ocho años, tras destinar US$4.5 millones a su tercera tienda en Texas, y proyecta nuevas inauguraciones."
     },
     {
@@ -715,92 +803,12 @@
       "resumen": "La película basada en la saga de videojuegos de los años 80 tuvo buena recepción en su primer fin de semana. Conozca cuánto recaudó y cómo les fue a otros estrenos de cine."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué hay detrás de la posible reunión entre Trump, Putin y Xi para negociar el fin de la guerra en Ucrania?",
-      "link": "https://www.prensalibre.com/internacional/que-hay-detras-de-la-posible-reunion-entre-trump-putin-y-xi-para-negociar-el-fin-de-la-guerra-en-ucrania/",
-      "fecha": "Mon, 19 Oct 2026 23:28:39 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump dijo estar dispuesto a negociar con Putin y Xi el fin de la guerra en Ucrania, mientras cuestiona a Zelenski y su papel en las conversaciones de paz."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Fue un momento bien tenso”: el relato de un testigo que paseaba a su perro cuando ocurrió el ataque contra Solórzano Foppa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/fue-un-momento-bien-tenso-el-relato-de-un-testigo-que-paseaba-a-su-perro-cuando-ocurrio-el-ataque-contra-solorzano-foppa-breaking/",
-      "fecha": "Mon, 19 Oct 2026 23:04:46 +0000",
-      "categoria": "Justicia",
-      "resumen": "Un testigo del ataque armado en el que murieron Juan Francisco Solórzano Foppa y Gustavo Aguilar relata cómo confundió los disparos con cohetes, buscó refugio y observó a personas correr en el Campo Marte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump insiste en cambiar el nombre de Nuevo México: por qué propone llamarlo “Nueva América”",
-      "link": "https://www.prensalibre.com/internacional/trump-insiste-en-cambiar-el-nombre-de-nuevo-mexico-por-que-propone-llamarlo-nueva-america/",
-      "fecha": "Mon, 19 Oct 2026 22:48:37 +0000",
-      "categoria": "Internacional",
-      "resumen": "Donald Trump volvió a sugerir que el estado de Nuevo México debería denominarse \"Nueva América\" afirmando que los habitantes se sentirán más orgullosos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Retorno de Miguel Ángel Asturias a Guatemala: fecha, agenda de actividades, homenajes e inhumación de sus restos",
-      "link": "https://www.prensalibre.com/vida/escenario/retorno-de-miguel-angel-asturias-a-guatemala-fecha-agenda-de-actividades-homenajes-e-inhumacion-de-sus-restos/",
-      "fecha": "Mon, 19 Oct 2026 21:52:23 +0000",
-      "categoria": "Escenario",
-      "resumen": "Los restos de Miguel Ángel Asturias, Premio Nobel de Literatura, serán trasladados a Guatemala para su inhumación en el centro cultural que lleva su nombre. Conoce los detalles de su llegada."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Las alertas de Google por sismos ya se encuentran disponibles en Guatemala",
       "link": "https://www.guatemala.com/noticias/tecnologia/alertas-google-sismos-guatemala-funcion-gratuita-dispositivos-android.html",
       "fecha": "Mon, 19 Oct 2026 21:43:37 +0000",
       "categoria": "Tecnología",
       "resumen": "Guatemala se ha integrado al Sistema de Alertas de Sismos de Android, una función que alertará unos segundos antes al presentarse un sismo en el país.\nThe post Las alertas de Google por sismos ya se encuentran disponibles en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemalteco será el tercero en recibir sentencia por tragedia de 53 migrantes muertos en Texas, EE. UU.",
-      "link": "https://www.prensalibre.com/guatemala/guatemalteco-sera-el-tercero-en-recibir-sentencia-por-tragedia-de-53-migrantes-muertos-en-texas-ee-uu/",
-      "fecha": "Mon, 19 Oct 2026 21:42:02 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El guatemalteco Rigoberto Miranda Orozco formaba parte de una red de tráfico de migrantes organizaba viajes desde Guatemala, por México, hasta EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;El cuadro número 16&#8221;, una comedia satírica en torno al arte: fecha y precio de las entradas para su función en Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/el-cuadro-numero-16-una-comedia-satirica-en-torno-al-arte-fecha-y-precio-de-las-entradas-para-su-funcion-en-guatemala/",
-      "fecha": "Mon, 19 Oct 2026 21:40:01 +0000",
-      "categoria": "Escenario",
-      "resumen": "La obra de teatro \"El cuadro número 16\" invita al público a reír y reflexionar sobre el arte y el artista, con una única función en la ciudad de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Claro que van a rodar cabezas”: Villeda advierte de posibles destituciones en la PNC por caso Solórzano Foppa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/claro-que-van-a-rodar-cabezas-villeda-advierte-de-posibles-destituciones-en-la-pnc-por-caso-solorzano-foppa-breaking/",
-      "fecha": "Mon, 19 Oct 2026 21:34:10 +0000",
-      "categoria": "Justicia",
-      "resumen": "Ministro de Gobernación asegura que \"van a rodar cabezas\" si se determina que agentes de la PNC cometieron irregularidades durante la detención de los hermanos Choc Toz por el caso Solórzano Foppa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Todos vamos a morir”: Así era Patricio Sánchez, el sacerdote que falleció aplastado por una cruz",
-      "link": "https://www.prensalibre.com/internacional/todos-vamos-a-morir-asi-era-patricio-sanchez-el-sacerdote-que-fallecio-aplastado-por-una-cruz/",
-      "fecha": "Mon, 19 Oct 2026 21:33:40 +0000",
-      "categoria": "Internacional",
-      "resumen": "El mensaje que pronunció el sacerdote Patricio Alfredo Sánchez Molinari antes del accidente se centró en la brevedad de la existencia humana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;El libro de las danzas&#8221;: gastronomía, teatro y literatura se unen para financiar la cirugía del poeta Julio Serrano",
-      "link": "https://www.prensalibre.com/vida/escenario/el-libro-de-las-danzas-gastronomia-teatro-y-literatura-se-unen-para-financiar-la-cirugia-del-poeta-julio-serrano/",
-      "fecha": "Mon, 19 Oct 2026 20:07:09 +0000",
-      "categoria": "Escenario",
-      "resumen": "El arte se une por una causa benéfica. \"El libro de las danzas\" ofrecerá una experiencia para todos los sentidos, mientras recauda fondos para la cirugía del escritor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Puerto Quetzal recibe dos nuevas grúas con inversión de Q92 millones: ¿cuándo comenzarán a operar?",
-      "link": "https://www.prensalibre.com/economia/puerto-quetzal-recibe-dos-nuevas-gruas-con-inversion-de-q92-millones-cuando-comenzaran-a-operar/",
-      "fecha": "Mon, 19 Oct 2026 19:59:06 +0000",
-      "categoria": "Economía",
-      "resumen": "La Empresa Portuaria Quetzal (EPQ), ubicada en Escuintla, recibió dos grúas multipropósito para el manejo de carga, con lo que aumentará de cinco a siete los equipos disponibles para atender las embarcaciones a partir de diciembre."
     },
     {
       "fuente": "Guatemala.com",
@@ -865,14 +873,6 @@
       "fecha": "Thu, 15 Oct 2026 14:53:19 +0000",
       "categoria": "Vida",
       "resumen": "Bam fortalece la educación, salud e inclusión en Guatemala mediante iniciativas que han beneficiado a más de 14,100 niños, jóvenes y familias. \nThe post Bam beneficia a más de 14 mil niños y jóvenes guatemaltecos con programas de educación y salud appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Asueto del 20 de octubre 2026: Bancos cerrarán por el Día de la Revolución",
-      "link": "https://www.guatemala.com/noticias/comunidad/sib-anuncia-cierre-bancos-guatemala-dia-de-la-revolucion-2026.html",
-      "fecha": "Wed, 14 Oct 2026 18:17:42 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Bancos e instituciones financieras cerrarán el martes 20 de octubre por el asueto del Día de la Revolución en Guatemala. \nThe post Asueto del 20 de octubre 2026: Bancos cerrarán por el Día de la Revolución appeared first on Guatemala.com."
     }
   ]
 }
