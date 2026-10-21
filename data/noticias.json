@@ -1,7 +1,127 @@
 {
-  "actualizado": "2026-10-21T04:07:56.444Z",
+  "actualizado": "2026-10-21T09:55:39.710Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Henry Sáenz, el muro de contención de Arévalo: respaldo institucional y críticas a su gestión",
+      "link": "https://www.prensalibre.com/guatemala/justicia/henry-saenz-el-muro-de-contencion-de-arevalo-respaldo-institucional-y-criticas-a-su-gestion/",
+      "fecha": "Wed, 21 Oct 2026 09:01:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "¿Qué sostiene a Henry Sáenz en el Gobierno de Arévalo? Analistas explican por qué sigue en el cargo, pese a las críticas por las crisis del Ejército."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PEG 6: CNEE explica por qué Guatemala necesita contratar otros 600 megavatios de electricidad si ya adjudicaron más de 1 mil 200 este año",
+      "link": "https://www.prensalibre.com/economia/peg-6-cnee-explica-por-que-guatemala-necesita-contratar-otros-600-megavatios-de-electricidad-si-ya-adjudicaron-mas-de-1-mil-200-este-ano/",
+      "fecha": "Wed, 21 Oct 2026 07:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El presidente de la CNEE, Luis Ortiz, explica por qué es necesaria una nueva licitación de 600 Megavatios, pese a que este año se adjudicaron 1 mil 258 MW, y cuáles son las expectativas para atraer inversiones en generación con gas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Licitaciones de energía PEG 5 y PEG 6: EEGSA explica por qué es clave el acompañamiento del Estado para concretar proyectos",
+      "link": "https://www.prensalibre.com/economia/licitaciones-de-energia-peg-5-y-peg-6-eegsa-explica-por-que-es-clave-el-acompanamiento-del-estado-para-concretar-proyectos/",
+      "fecha": "Wed, 21 Oct 2026 07:05:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La construcción de nuevas plantas de generación eléctrica derivada de las licitaciones PEG 5 y PEG 6 impulsadas por las distribuidoras requerirá permisos, licencias e infraestructura de transmisión, por lo que será necesario el acompañamiento del Estado, expuso Mario Naranjo Echeverri, gerente general del Grupo EPM Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "San Martín apuesta por Estados Unidos: cuánto ha invertido y dónde abrirá nuevas tiendas",
+      "link": "https://www.prensalibre.com/guatemala/san-martin-apuesta-por-estados-unidos-cuanto-ha-invertido-y-donde-abrira-nuevas-tiendas/",
+      "fecha": "Wed, 21 Oct 2026 07:01:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "San Martín acumula una inversión superior a US$20 millones en Estados Unidos durante los últimos ocho años, tras destinar US$4.5 millones a su tercera tienda en Texas, y proyecta nuevas inauguraciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Revolución a medias",
+      "link": "https://www.prensalibre.com/opinion/caricatura/revolucion-a-medias/",
+      "fecha": "Wed, 21 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pleno debe rechazar nómina de Conamigua",
+      "link": "https://www.prensalibre.com/opinion/editorial/pleno-debe-rechazar-nomina-de-conamigua/",
+      "fecha": "Wed, 21 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Desde la convocatoria misma hubo requisitos con dedicatoria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El combate debe dirigirse contra crímenes políticos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-combate-debe-dirigirse-contra-crimenes-politicos/",
+      "fecha": "Wed, 21 Oct 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El hastío y rechazo por los crímenes políticos tendrá fuerza si hay silenciosas muestras en los ciudadanos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La IA y el genio de la botella",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-ia-y-el-genio-de-la-botella/",
+      "fecha": "Wed, 21 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Todo pareciera indicar que con las nuevas tecnologías corremos como caballos desbocados hacia un peligroso acantilado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Moral y ética política",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/moral-y-etica-politica/",
+      "fecha": "Wed, 21 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La renuncia envía un mensaje pedagógico: los cargos no son propiedad privada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Se autorizaron billetes de Q200, Q500 y Q1 mil en 200",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/se-autorizaron-billetes-de-q200-q500-y-q1-mil-en-200/",
+      "fecha": "Wed, 21 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "En 2009 la economía mundial tuvo la mayor contracción económica desde la Gran Depresión de 1929."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Momento de activar la empatía",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/momento-de-activar-la-empatia/",
+      "fecha": "Wed, 21 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La verdadera justicia no termina cuando se abre una puerta. También exige reparar el daño que se haya causado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Henry Sáenz afirma que sectores radicales llamaron a militares a dar un golpe de Estado contra Bernardo Arévalo",
+      "link": "https://www.prensalibre.com/guatemala/justicia/henry-saenz-afirma-que-sectores-radicales-llamaron-a-militares-a-dar-un-golpe-de-estado-contra-bernardo-arevalo/",
+      "fecha": "Wed, 21 Oct 2026 06:01:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "En entrevista con Prensa Libre, el ministro de la Defensa habló de llamados a un golpe de Estado, cambios en el Ejército, cooperación con EE. UU. y compras de armamento y aeronaves."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy miércoles 21 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-21-de-octubre-de-2026/",
+      "fecha": "Wed, 21 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué es el &#8220;efecto bola de nieve&#8221; de la deuda y qué papel tiene en la crítica situación económica que alimenta las protestas en Francia",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/que-es-el-efecto-bola-de-nieve-de-la-deuda-y-que-papel-tiene-en-la-critica-situacion-economica-que-alimenta-las-protestas-en-francia/",
+      "fecha": "Wed, 21 Oct 2026 04:57:59 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Mientras siguen las protestas en Francia, las cuentas del país empiezan a generar preocupación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La lluvia obliga a suspender el Malacateco-Comunicaciones, que se reanudará este miércoles",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/la-lluvia-obliga-a-suspender-el-malacateco-comunicaciones-que-se-reanudara-este-miercoles-breaking/",
+      "fecha": "Wed, 21 Oct 2026 04:14:17 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los equipos disputaron solo los primeros 45 minutos y reanudarán el encuentro este miércoles a las 10 horas en Malacatán."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La máxima fiesta del ciclismo nacional recorrerá más de 1,400 kilómetros",
@@ -683,132 +803,12 @@
       "resumen": "La Empresa Portuaria Quetzal (EPQ), ubicada en Escuintla, recibió dos grúas multipropósito para el manejo de carga, con lo que aumentará de cinco a siete los equipos disponibles para atender las embarcaciones a partir de diciembre."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo advierte sobre uso político del asesinato de Solórzano Foppa y anuncia investigación por captura de hermanos Choc",
-      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-advierte-sobre-uso-politico-del-asesinato-de-solorzano-foppa-y-anuncia-investigacion-por-captura-de-hermanos-choc-breaking/",
-      "fecha": "Mon, 19 Oct 2026 19:49:13 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El presidente Bernardo Arévalo alerta sobre el uso electoral del asesinato de Juan Francisco Solórzano Foppa, descartó un estado de excepción y confirmó una investigación por la captura de los hermanos Choc Toz."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La nueva expresión del lujo inteligente",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-nueva-expresion-del-lujo-inteligente/",
-      "fecha": "Mon, 19 Oct 2026 19:48:19 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "AVATR, una marca internacional de vehículos de lujo inteligente que llega al país de la mano de Grupo Sikamotors, para transformar la manera en que las personas experimentan la movilidad, integrando diseño, innovación, tecnología y sofisticación en una propuesta que va más allá del automóvil convencional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cristiano Ronaldo: esta es la sanción que recibe por abandonar la concentración de la selección de Portugal",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-esta-es-la-sancion-que-recibe-por-abandonar-la-concentracion-de-la-seleccion-de-portugal/",
-      "fecha": "Mon, 19 Oct 2026 19:39:29 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La Federación Portuguesa castiga a Cristiano Ronaldo por abandonar la selección, luego de un desacuerdo con el técnico Jorge Jesus."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Niño podría alcanzar una intensidad histórica: Las señales y los riesgos que identificó la NASA",
-      "link": "https://www.prensalibre.com/internacional/el-nino-podria-alcanzar-una-intensidad-historica-las-senales-y-los-riesgos-que-identifico-la-nasa/",
-      "fecha": "Mon, 19 Oct 2026 19:36:54 +0000",
-      "categoria": "Internacional",
-      "resumen": "La NASA describió las señales observadas mediante satélites que permiten seguir los cambios en la temperatura y el nivel del mar provocados por El Niño."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Crimen contra Solórzano Foppa: siete agentes bajo investigación y PNC propone uso de cámaras corporales",
-      "link": "https://www.prensalibre.com/guatemala/justicia/crimen-contra-solorzano-foppa-siete-agentes-bajo-investigacion-y-pnc-propone-uso-de-camaras-corporales-breaking/",
-      "fecha": "Mon, 19 Oct 2026 19:30:27 +0000",
-      "categoria": "Justicia",
-      "resumen": "David Custodio Boteo, director de la Policía Nacional Civil (PNC), informó sobre la investigación contra agentes policiales tras la captura de dos hermanos por su presunta vinculación con el asesinato de Juan Francisco Solórzano Foppa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De Alaíde Foppa a Juan Francisco Solórzano Foppa: una familia marcada por la política y las pérdidas",
-      "link": "https://www.prensalibre.com/guatemala/justicia/de-alaide-foppa-a-juan-francisco-solorzano-foppa-una-familia-marcada-por-la-politica-las-perdidas-y-la-busqueda-de-justicia/",
-      "fecha": "Mon, 19 Oct 2026 19:27:58 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La desaparición de su abuela durante el conflicto armado, la trayectoria política de su madre y su paso por el Ministerio Público forman parte de una historia familiar que vuelve a las páginas de Prensa Libre tras su asesinato."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una oportunidad para aprovechar en grande",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-oportunidad-para-aprovechar-en-grande/",
-      "fecha": "Mon, 19 Oct 2026 19:07:02 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Una de las temporadas más esperadas del año vuelve con oportunidades para renovar el hogar, encontrar los primeros regalos y disfrutar nuevas experiencias en tienda y canales digitales, la Gran Venta de CEMACO, una tradición que vuelve este año con miles de productos, oportunidades especiales y experiencias pensadas para disfrutar cada visita."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Marcan una nueva era de innovación y movilidad",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/marcan-una-nueva-era-de-innovacion-y-movilidad/",
-      "fecha": "Mon, 19 Oct 2026 18:36:48 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "En el marco de sus 19 años de presencia en el país, Changan fortalece su portafolio y reafirma su compromiso de ofrecer tecnología, seguridad y nuevas experiencias de conducción a los guatemaltecos, con la presentación de tres nuevos modelos: DEEPAL G318, Changan Q05 y la quinta generación del Changan CS55."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El líder de una secta condenado por ordenar a sus seguidores dejar morir de hambre a casi 200 niños",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-lider-de-una-secta-condenado-por-ordenar-a-sus-seguidores-dejar-morir-de-hambre-a-casi-200-ninos/",
-      "fecha": "Mon, 19 Oct 2026 18:34:24 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El autoproclamado pastor Paul Mackenzie y otros 29 de sus seguidores se enfrentaban a 191 cargos de asesinato."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Frases que demuestran que en la Ciudad de Guatemala somos Buena Gente",
       "link": "https://www.guatemala.com/noticias/vida/frases-que-demuestran-que-en-la-ciudad-de-guatemala-somos-buena-gente.html",
       "fecha": "Mon, 19 Oct 2026 18:30:56 +0000",
       "categoria": "Vida",
       "resumen": "Acá te dejamos un listado con frases que demuestran que en la ciudad somos buena gente, solidarios y empáticos con quienes nos visitan.\nThe post Frases que demuestran que en la Ciudad de Guatemala somos Buena Gente appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El gobierno de Francia decreta toques de queda parciales y condena a los &#8220;ladrones&#8221; y &#8220;delincuentes&#8221; detrás de los violentos disturbios del fin de semana",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-gobierno-de-francia-decreta-toques-de-queda-parciales-y-condena-a-los-ladrones-y-delincuentes-detras-de-los-violentos-disturbios-del-fin-de-semana/",
-      "fecha": "Mon, 19 Oct 2026 18:20:28 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El ministro del Interior dijo que la policía \"perdió el control\" en algunas ciudades en medio de disturbios y saqueos. Autorizó a los gobiernos locales a imponer medidas restrictivas en las calles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sin alimentos y bajo ocupación rusa: habitantes de Oleshky huyen por carreteras minadas",
-      "link": "https://www.prensalibre.com/internacional/sin-alimentos-y-bajo-ocupacion-rusa-habitantes-de-oleshky-huyen-por-carreteras-minadas/",
-      "fecha": "Mon, 19 Oct 2026 18:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Unas 1,700 personas permanecen atrapadas en Oleshky, Ucrania, donde la escasez de alimentos y los ataques con drones dificultan las evacuaciones, según autoridades locales ucranianas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinato de Solórzano Foppa: vicepresidenta Karin Herrera pide investigación certera y objetiva",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/asesinato-de-solorzano-foppa-vicepresidenta-karin-herrera-pide-investigacion-certera-y-objetiva-breaking/",
-      "fecha": "Mon, 19 Oct 2026 18:00:04 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La vicepresidenta de Guatemala, Karin Herrera, pide que la investigación por el asesinato de Juan Francisco Solórzano Foppa dé resultados claros."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Se aplaza el PSG frente al Barcelona en la Champions League? Esto confirmaron las autoridades francesas",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/se-aplaza-el-psg-frente-al-barcelona-en-la-champions-league-esto-confirmaron-las-autoridades-francesas/",
-      "fecha": "Mon, 19 Oct 2026 18:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Parque de los Príncipes se viste de gala para recibir el duelo entre PSG y Barcelona, dos gigantes europeos que buscan mantenerse en la cima de la Champions."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El derribo de dos avionetas de Hermanos al Rescate por el que una jueza en EE.UU. ordenó el arresto de Raúl Castro 30 años después",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-derribo-de-dos-avionetas-de-hermanos-al-rescate-por-el-que-una-jueza-en-ee-uu-ordeno-el-arresto-de-raul-castro-30-anos-despues/",
-      "fecha": "Mon, 19 Oct 2026 17:53:15 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El ataque de cazas cubanos contra aeronaves de un grupo de exiliados en Miami en 1996 desató una crisis diplomática que sigue teniendo consecuencias tres décadas después."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Acusó a ICE de llevarse a su esposa: días después encontraron sus restos quemados y fue arrestado",
-      "link": "https://www.prensalibre.com/internacional/acuso-a-ice-de-llevarse-a-su-esposa-dias-despues-encontraron-sus-restos-quemados-y-fue-arrestado/",
-      "fecha": "Mon, 19 Oct 2026 17:47:56 +0000",
-      "categoria": "Internacional",
-      "resumen": "El imputado declaró que el ICE la había interceptado y detenido cuando salió a revisar el buzón. Sin embargo, no se había llevado a cabo ningún operativo."
     },
     {
       "fuente": "Guatemala.com",
