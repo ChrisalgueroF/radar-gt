@@ -1,7 +1,127 @@
 {
-  "actualizado": "2026-10-21T14:59:55.834Z",
+  "actualizado": "2026-10-21T19:15:02.254Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Selección de Guatemala: esta será la cantidad de boletos disponibles para el duelo ante Canadá",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-esta-sera-la-cantidad-de-boletos-disponibles-para-el-duelo-ante-canada/",
+      "fecha": "Wed, 21 Oct 2026 18:30:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El Trébol se prepara para una noche inolvidable: Guatemala recibirá a Canadá en un partido decisivo de la Liga de Naciones, arropada por el apoyo de su incondicional afición."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fueron a una llantera como clientes: Así habrían actuado agentes de ICE para detener a inmigrante",
+      "link": "https://www.prensalibre.com/internacional/fueron-a-una-llantera-como-clientes-asi-habrian-actuado-agentes-de-ice-para-detener-a-inmigrante/",
+      "fecha": "Wed, 21 Oct 2026 18:29:32 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un video de vigilancia de una llantería se volvió viral porque muestra el momento en que un empleado salió del establecimiento y fue detenido por agentes enmascarados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Solórzano Foppa: PNC dice que arma incautada a hermanos Choc está registrada y no tiene reporte de robo",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-solorzano-foppa-pnc-dice-que-arma-incautada-a-hermanos-choc-esta-registrada-y-no-tiene-reporte-de-robo-breaking/",
+      "fecha": "Wed, 21 Oct 2026 18:27:04 +0000",
+      "categoria": "Justicia",
+      "resumen": "Durante una citación con diputados, autoridades de la PNC ampliaron detalles sobre el arma incautada a dos hermanos tras el ataque en el que murió Juan Francisco Solórzano Foppa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Real Madrid vs. RB Leipzig: siga el minuto a minuto del partido de Champions League",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-real-madrid-vs-rb-leipzig-siga-el-minuto-a-minuto-del-partido-de-champions-league/",
+      "fecha": "Wed, 21 Oct 2026 18:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Real Madrid pone a prueba su paso perfecto en la Liga de Campeones 2026-2027 cuando recibe este miércoles al RB Leipzig en el Santiago Bernabéu, con la misión de sumar su tercera victoria consecutiva y convencer con un mejor funcionamiento colectivo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Rusia libera a un estadounidense acusado de combatir del lado de Ucrania el día en que el enviado de Trump se reúne con Putin",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/rusia-libera-a-un-estadounidense-acusado-de-combatir-del-lado-de-ucrania-el-dia-en-que-el-enviado-de-trump-se-reune-con-putin/",
+      "fecha": "Wed, 21 Oct 2026 17:36:50 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El ciudadano estadounidense Stephen Hubbard fue puesto en libertad este miércoles, mientras el enviado especial de Trump, Steven Witkoff, se reunía con Putin."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Suelos saturados en Guatemala: los siete departamentos bajo advertencia de la Conred",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/suelos-saturados-en-guatemala-los-siete-departamentos-bajo-advertencia-de-la-conred-breaking/",
+      "fecha": "Wed, 21 Oct 2026 17:34:52 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Conred recomienda a la población tomar precauciones ante la saturación de los suelos en siete departamentos debido a las últimas lluvias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Historias escalofriantes, terror en alta mar&#8221;: la apuesta escénica de La Maleta Producciones",
+      "link": "https://www.prensalibre.com/vida/escenario/historias-escalofriantes-terror-en-alta-mar-la-apuesta-escenica-de-la-maleta-producciones/",
+      "fecha": "Wed, 21 Oct 2026 17:27:52 +0000",
+      "categoria": "Escenario",
+      "resumen": "A tono con la temporada, llega la obra teatral basada en los relatos del escritor estadounidense Edgar Allan Poe."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Príncipe Harry revela su deseo de reconciliarse con la familia real y cómo mantiene su conexión con Lady Di: &#8220;A veces le hago algunas preguntas&#8221;",
+      "link": "https://www.prensalibre.com/vida/escenario/principe-harry-revela-su-deseo-de-reconciliarse-con-la-familia-real-y-como-mantiene-su-conexion-con-lady-di-a-veces-le-hago-algunas-preguntas/",
+      "fecha": "Wed, 21 Oct 2026 16:46:58 +0000",
+      "categoria": "Escenario",
+      "resumen": "El duque de Sussex habla en una entrevista sobre su deseo de reconciliarse con la familia real británica, aunque reconoce que hay quienes no quieren arreglar las diferencias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Stephen Hubbard? El estadounidense liberado por Putin luego de una petición de Trump",
+      "link": "https://www.prensalibre.com/internacional/quien-es-stephen-hubbard-el-estadounidense-liberado-por-putin-luego-de-una-peticion-de-trump/",
+      "fecha": "Wed, 21 Oct 2026 16:44:27 +0000",
+      "categoria": "Internacional",
+      "resumen": "Todo esto sucede en medio de las tensiones entre Donald Trump y Ucrania, que ha denunciado demoras en las entregas de misiles interceptores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Nunca lo vuelvo a hacer”: Ricardo Arjona revela detalles de su nuevo disco “De todo un poco” y confiesa qué no repetirá durante una gira",
+      "link": "https://www.prensalibre.com/vida/escenario/nunca-lo-vuelvo-a-hacer-ricardo-arjona-revela-detalles-de-su-nuevo-disco-de-todo-un-poco-y-confiesa-que-no-repetira-durante-una-gira/",
+      "fecha": "Wed, 21 Oct 2026 16:20:17 +0000",
+      "categoria": "Escenario",
+      "resumen": "Mientras se prepara para sus próximos conciertos en Centroamérica como parte de la gira “Lo que el seco no dijo”, Arjona comparte detalles del nuevo disco y asegura que hay algo que no volvería a hacer."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comunicaciones cae ante Malacateco y suma su tercera derrota al hilo: así queda la tabla de posiciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-cae-ante-malacateco-y-suma-su-tercera-derrota-al-hilo-asi-queda-la-tabla-de-posiciones/",
+      "fecha": "Wed, 21 Oct 2026 16:15:25 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La derrota frente a Malacateco agrava el mal momento de Comunicaciones, que permanece en los últimos puestos de la clasificación del Torneo Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amarini Villatoro va por otra final centroamericana: hora y dónde ver el Cartaginés vs. Olimpia",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/amarini-villatoro-va-por-otra-final-centroamericana-hora-y-donde-ver-el-cartagines-vs-olimpia/",
+      "fecha": "Wed, 21 Oct 2026 15:49:45 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Amarini Villatoro busca acercar al Cartaginés a una nueva final internacional cuando reciba al Olimpia en la ida de las semifinales de la Copa Centroamericana 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo las deportaciones de Trump alteran la vida de una ciudad de EE.UU. que había sido transformada por migrantes haitianos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-las-deportaciones-de-trump-alteran-la-vida-de-una-ciudad-de-ee-uu-que-habia-sido-transformada-por-migrantes-haitianos/",
+      "fecha": "Wed, 21 Oct 2026 15:22:26 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En 2024, el presidente puso a Springfield, Ohio, en el centro del debate nacional con la falsa acusación de que algunos migrantes se comían las mascotas de sus habitantes. Dos años después, la ciudad sigue siendo un símbolo de la polarización sobre la inmigración en EE.UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Intento de asalto en zona 12: conductor choca contra motocicleta de los atacantes y resulta ileso",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/intento-de-asalto-en-zona-12-conductor-choca-contra-motocicleta-de-los-atacantes-y-resulta-ileso-breaking/",
+      "fecha": "Wed, 21 Oct 2026 15:17:52 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Las autoridades brindaron detalles sobre el intento de asalto contra el conductor de un automóvil en la zona 12 de la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Hacia dónde avanza Champi? El supertifón más fuerte del 2026 pone en alerta a varias naciones",
+      "link": "https://www.prensalibre.com/internacional/hacia-donde-avanza-champi-el-supertifon-mas-fuerte-del-2026-pone-en-alerta-a-varias-naciones/",
+      "fecha": "Wed, 21 Oct 2026 15:15:59 +0000",
+      "categoria": "Internacional",
+      "resumen": "El supertifón Champi alcanzó una fuerza equivalente a la categoría 5, con vientos máximos sostenidos de 298 km/h, por lo que se convirtió en la tormenta más intensa del 2026."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Mujer muere tras ser atacada con piedras en Santa Rosa y su hijo es capturado como sospechoso",
@@ -180,7 +300,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Henry Sáenz afirma que sectores radicales llamaron a militares a dar un golpe de Estado contra Bernardo Arévalo",
+      "titulo": "Henry Sáenz afirma que durante el gobierno de Bernardo Arévalo hubo un intento de golpe de Estado de sectores radicales",
       "link": "https://www.prensalibre.com/guatemala/justicia/henry-saenz-afirma-que-sectores-radicales-llamaron-a-militares-a-dar-un-golpe-de-estado-contra-bernardo-arevalo/",
       "fecha": "Wed, 21 Oct 2026 06:01:00 +0000",
       "categoria": "Guatemala",
@@ -681,126 +801,6 @@
       "fecha": "Tue, 20 Oct 2026 03:43:01 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La misión espacial japonesa MMX tiene la ambiciosa misión de traer 10 gramos de polvo lunar marciano de vuelta a la Tierra para ser estudiado y resolver el misterio de la formación de las lunas de Marte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Antigua GFC golea 3-0 a Xelajú MC y toma el liderato del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/antigua-gfc-golea-3-0-a-xelaju-mc-y-toma-el-liderato-del-apertura-2026-breaking/",
-      "fecha": "Tue, 20 Oct 2026 03:02:09 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los coloniales llegaron a 27 puntos tras imponerse en el estadio Pensativo, mientras los superchivos sufrieron su sexta derrota y salieron de la zona de clasificación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Se unen para fortalecer la seguridad alimentaria en Guatemala",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/se-unen-para-fortalecer-la-seguridad-alimentaria-en-guatemala/",
-      "fecha": "Tue, 20 Oct 2026 02:29:45 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Walmart y 14 Club de Leones de Guatemala realizaron una alianza estratégica que permite hacer llegar donaciones de alimentos a comunidades del interior del país, a través de entregas semanales desde tiendas Paiz, Maxi Despensa y Despensa Familiar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Juan Francisco no es un ave solitaria”: tío de Solórzano Foppa llama a continuar su legado y advierte sobre el miedo",
-      "link": "https://www.prensalibre.com/guatemala/juan-francisco-no-es-un-ave-solitaria-tio-de-solorzano-foppa-llama-a-continuar-su-legado-y-advierte-sobre-el-miedo/",
-      "fecha": "Tue, 20 Oct 2026 02:28:19 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Durante el velorio, su tío recordó el compromiso de Juan Francisco Solórzano Foppa con la justicia y el legado que deja a Guatemala. También advirtió sobre el miedo que puede generar el crimen."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué EE.UU. prohibió la IA de de DeepSeek en agencias gubernamentales?",
-      "link": "https://www.prensalibre.com/internacional/por-que-ee-uu-prohibio-la-ia-de-de-deepseek-en-agencias-gubernamentales/",
-      "fecha": "Tue, 20 Oct 2026 02:10:30 +0000",
-      "categoria": "Internacional",
-      "resumen": "EE. UU. busca blinda sus sistemas oficiales tras vetar por completo el uso de Deepseek, la inteligencia artificial China."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Antonio Banderas recuerda la boda de su hija Stella del Carmen con una fotografía inédita",
-      "link": "https://www.prensalibre.com/vida/escenario/antonio-banderas-recuerda-la-boda-de-su-hija-stella-del-carmen-con-una-fotografia-inedita/",
-      "fecha": "Tue, 20 Oct 2026 01:49:05 +0000",
-      "categoria": "Escenario",
-      "resumen": "A un año de haber acompañado a su hija al altar, Antonio Banderas recordó aquel momento con una fotografía que compartió en sus redes sociales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Jennifer Lopez tiene nuevo novio? Los rumores que la vinculan con Brett Goldstein",
-      "link": "https://www.prensalibre.com/vida/escenario/jennifer-lopez-tiene-nuevo-novio-los-rumores-que-la-vinculan-con-brett-goldstein/",
-      "fecha": "Tue, 20 Oct 2026 01:22:33 +0000",
-      "categoria": "Escenario",
-      "resumen": "Jennifer Lopez y Brett Goldstein reavivan los rumores de romance. Esto se sabe sobre la supuesta relación que habría surgido durante el rodaje de “Office Romance”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Solórzano Foppa: Juzgado Tercero Penal conocerá el proceso por el ataque armado contra el extitular de la SAT",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-solorzano-foppa-juzgado-tercero-penal-conocera-el-proceso-por-el-ataque-armado-contra-el-extitular-de-la-sat-breaking/",
-      "fecha": "Tue, 20 Oct 2026 01:21:23 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Juzgado Tercero Penal fue asignado para conocer el caso por la muerte de Juan Francisco Solórzano Foppa y Gustavo Adolfo Aguilar Gamarro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué acusan al ICE de fracturarle un brazo a un ciudadano estadounidense en California?",
-      "link": "https://www.prensalibre.com/internacional/por-que-acusan-al-ice-de-fracturarle-un-brazo-a-un-ciudadano-estadounidense-en-california/",
-      "fecha": "Tue, 20 Oct 2026 01:08:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Videos de redes sociales muestran como el ciudadano estadounidense Ricardo González clama por ayuda tras ser arrestado por agentes del ICE en Long Beach, California."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Empresa invierte más de US$50 millones en Guatemala y proyecta expandir sus operaciones regionales",
-      "link": "https://www.prensalibre.com/economia/empresa-invierte-mas-de-us50-millones-en-guatemala-y-proyecta-expandir-sus-operaciones-regionales/",
-      "fecha": "Tue, 20 Oct 2026 01:07:25 +0000",
-      "categoria": "Economía",
-      "resumen": "Álvaro Labarca, CEO de Suministros y Alimentos, explica los alcances de la inversión en un nuevo complejo industrial y centro de distribución, las proyecciones de empleo, la expansión regional y los desafíos para fortalecer el clima de inversión en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Covial comienza reparación temporal del puente sobre la Aguilar Batres, pero comuna deberá ejecutar una solución definitiva",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/covial-comienza-reparacion-temporal-del-puente-sobre-la-aguilar-batres-pero-comuna-debera-ejecutar-una-solucion-definitiva-breaking/",
-      "fecha": "Tue, 20 Oct 2026 00:40:59 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Covial comenzó los trabajos temporales en el puente del Periférico sobre la calzada Aguilar Batres, mientras la Municipalidad de Guatemala evalúa una solución definitiva."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Embajada de Guatemala en Francia rinde homenaje a Miguel Ángel Asturias en el cementerio Père-Lachaise",
-      "link": "https://www.prensalibre.com/vida/escenario/embajada-de-guatemala-en-francia-rinde-homenaje-a-miguel-angel-asturias-en-el-cementerio-pere-lachaise/",
-      "fecha": "Tue, 20 Oct 2026 00:15:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "En conmemoración de su natalicio, la Embajada de Guatemala en Francia rindió homenaje al escritor guatemalteco Miguel Ángel Asturias, previo al retorno de sus restos al país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Antigua GFC vs. Xelajú MC: siga el minuto a minuto del encuentro por la jornada 15",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-antigua-gfc-vs-xelaju-mc-siga-el-minuto-a-minuto-del-encuentro-por-la-jornada-15/",
-      "fecha": "Tue, 20 Oct 2026 00:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Antigua GFC recibe esta noche a Xelajú MC en el estadio Pensativo con la mira puesta en el liderato del Torneo Apertura 2026, mientras los quetzaltecos buscan volver a la zona de clasificación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Denuncias anónimas a Crime Stoppers aumentan 32% en el primer semestre",
-      "link": "https://www.prensalibre.com/guatemala/denuncias-anonimas-a-crime-stoppers-aumentan-32-en-el-primer-semestre/",
-      "fecha": "Mon, 19 Oct 2026 23:59:28 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Las llamadas al 1561 y los reportes digitales aumentaron durante el primer semestre del 2026. Las pistas anónimas han contribuido a investigaciones, capturas y operativos policiales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo fue el modo de operar en el caso de Solórzano Foppa y qué fallas de inteligencia deja al descubierto",
-      "link": "https://www.prensalibre.com/guatemala/como-fue-el-modo-de-operar-en-el-caso-de-juan-francisco-solorzano-foppa-y-que-fallas-de-inteligencia-deja-al-descubierto/",
-      "fecha": "Mon, 19 Oct 2026 23:54:49 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El asesinato del abogado reabre el debate sobre la capacidad de las instituciones para contener estructuras criminales. Expertos advierten sobre fallas de inteligencia, cuestionan procedimiento policial y señalan la impunidad como un factor que favorece su actuación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Street Fighter 2026: la película basada en el videojuego lidera la taquilla en su primer fin de semana",
-      "link": "https://www.prensalibre.com/vida/escenario/street-fighter-2026-la-pelicula-basada-en-el-videojuego-lidera-la-taquilla-en-su-primer-fin-de-semana/",
-      "fecha": "Mon, 19 Oct 2026 23:38:20 +0000",
-      "categoria": "Escenario",
-      "resumen": "La película basada en la saga de videojuegos de los años 80 tuvo buena recepción en su primer fin de semana. Conozca cuánto recaudó y cómo les fue a otros estrenos de cine."
     },
     {
       "fuente": "Guatemala.com",
