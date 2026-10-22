@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-10-22T15:01:13.757Z",
+  "actualizado": "2026-10-22T19:52:16.459Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Robo en escuela de Retalhuleu: capturan al “Gato” con computadoras, ventilador y licuadora",
+      "link": "https://www.prensalibre.com/guatemala/justicia/robo-en-escuela-de-retalhuleu-capturan-al-gato-con-computadoras-ventilador-y-licuadora-breaking/",
+      "fecha": "Thu, 22 Oct 2026 19:06:49 +0000",
+      "categoria": "Justicia",
+      "resumen": "Capturan a sospechoso de robar computadoras y otros artículos en un centro educativo de Retalhuleu."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lionel Messi conmueve en España con un mensaje a los niños: &#8220;Lo importante es disfrutar&#8221;",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lionel-messi-conmueve-en-espana-con-un-mensaje-a-los-ninos-lo-importante-es-disfrutar-breaking/",
+      "fecha": "Thu, 22 Oct 2026 18:54:31 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Más de seis mil personas homenajearon al argentino, donde compartió reflexiones sobre sus sueños, el respeto, las derrotas y la presión que algunos padres ejercen sobre sus hijos en el futbol."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bajo reserva",
+      "link": "https://www.prensalibre.com/opinion/caricatura/bajo-reserva/",
+      "fecha": "Thu, 22 Oct 2026 18:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;PHP es el equivalente cibernético de una bomba sin explotar&#8221;",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/php-es-el-equivalente-cibernetico-de-una-bomba-sin-explotar/",
+      "fecha": "Thu, 22 Oct 2026 18:00:46 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Sitios web de todo el mundo quedaron desactivados tras detectarse una falla de seguridad crítica en internet."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una década de matrimonios falsos y millones de dólares: así funcionaba la red de fraude en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/una-decada-de-matrimonios-falsos-y-millones-de-dolares-asi-funcionaba-la-red-de-fraude-en-ee-uu/",
+      "fecha": "Thu, 22 Oct 2026 17:52:49 +0000",
+      "categoria": "Internacional",
+      "resumen": "Esta red de matrimonios fraudulentos habría permitido a indocumentados solicitar beneficios migratorios a cambio de pagos de hasta US$40 mil (Q305 mil)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Solórzano Foppa: PNC revela cuántos equipos trabajan en la investigación del crimen y cuándo podría haber capturas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-solorzano-foppa-pnc-revela-cuantos-equipos-trabajan-en-la-investigacion-del-crimen-y-cuando-podria-haber-capturas-breaking/",
+      "fecha": "Thu, 22 Oct 2026 16:56:04 +0000",
+      "categoria": "Justicia",
+      "resumen": "Altos mandos de la Policía Nacional Civil (PNC) afirman que cuatro equipos de investigación y dos de videoforense trabajan para esclarecer el asesinato de Juan Francisco Solórzano Foppa."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Moda guatemalteca destacó en Rusia por cuarto año consecutivo",
+      "link": "https://www.guatemala.com/noticias/cultura/moda-guatemalteca-destaco-cumbre-mundial-moda-brics-moscu.html",
+      "fecha": "Thu, 22 Oct 2026 16:53:19 +0000",
+      "categoria": "Cultura",
+      "resumen": "Iniciativas de moda guatemalteca destacan en Moscú, durante la Cumbre Mundial de Moda BRICS+ que reunió la participación de 60 países.\nThe post Moda guatemalteca destacó en Rusia por cuarto año consecutivo appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amarini Villatoro advierte que Cartaginés debe anotar de visita para llegar a otra final en la Copa Centroamericana",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/amarini-villatoro-advierte-que-cartagines-debe-anotar-de-visita-para-llegar-a-otra-final-en-la-copa-centroamericana-breaking/",
+      "fecha": "Thu, 22 Oct 2026 16:39:23 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El técnico guatemalteco destacó el triunfo 1-0 ante Olimpia, pero reconoció que su equipo debe mejorar la contundencia para sellar la clasificación el miércoles 28 de octubre en Honduras."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. e Israel preparan nuevos ataques contra Irán: El papel de Donald Trump y las elecciones",
+      "link": "https://www.prensalibre.com/internacional/ee-uu-e-israel-preparan-nuevos-ataques-contra-iran-el-papel-de-donald-trump-y-las-elecciones/",
+      "fecha": "Thu, 22 Oct 2026 16:23:58 +0000",
+      "categoria": "Internacional",
+      "resumen": "Los estrategas militares consideran que una campaña de tres días podría causar daños económicos suficientes para obligar a Irán a hacer concesiones diplomáticas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Fiebre de frontera”: escritor guatemalteco gana premio Elena Poniatowska 2026 con novela sobre migración",
+      "link": "https://www.prensalibre.com/vida/escenario/fiebre-de-frontera-escritor-guatemalteco-gana-premio-elena-poniatowska-2026-con-novela-sobre-migracion/",
+      "fecha": "Thu, 22 Oct 2026 15:41:15 +0000",
+      "categoria": "Escenario",
+      "resumen": "Mario Cordero Ávila aborda la migración en las fronteras latinoamericanas en “Fiebre de frontera”, novela ganadora del Concurso Iberoamericano de Cuento y Novela."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Riesgos en el clásico Barcelona-Real Madrid? El club garantiza que se jugará con normalidad pese a la huelga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/riesgos-en-el-clasico-barcelona-real-madrid-el-club-garantiza-que-se-jugara-con-normalidad-pese-a-la-huelga-breaking/",
+      "fecha": "Thu, 22 Oct 2026 15:33:06 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Un grupo de trabajadores mantienen el llamado a paro durante el fin de semana para reclamar mejoras laborales, pero la entidad azulgrana afirma que tiene capacidad para garantizar los partidos programados."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Violencia en la zona 6: ataque a balazos contra un picop deja un fallecido",
@@ -723,86 +811,6 @@
       "resumen": "Los rojos buscan alcanzar a Antigua en el liderato del Apertura 2026, mientras el silbante regresa tras la polémica en el Xelajú-Comunicaciones."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "A pesar de un renovado optimismo, ¿puede Zelenski seguir considerando a Trump como un aliado en la guerra contra Rusia?",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/a-pesar-de-un-renovado-optimismo-puede-zelenski-seguir-considerando-a-trump-como-un-aliado-en-la-guerra-contra-rusia/",
-      "fecha": "Wed, 21 Oct 2026 11:32:18 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Es poco probable que el abrazo del líder ucraniano con Steve Witkoff en la capital noruega disipe las dudas sobre la política estadounidense hacia su país, escribe Paul Adams."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ley antilavado en Guatemala: IVE revela qué cuentas bancarias concentran casi el 80% de los registros de transacciones sospechosas",
-      "link": "https://www.prensalibre.com/economia/ley-antilavado-en-guatemala-ive-revela-que-cuentas-bancarias-concentran-casi-el-80-de-los-registros-de-transacciones-sospechosas/",
-      "fecha": "Wed, 21 Oct 2026 10:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Las cuentas monetarias y de ahorro concentran casi el 80% de los productos financieros vinculados con los reportes de transacciones sospechosas (RTS), según las estadísticas de la Intendencia de Verificación Especial (IVE). Los datos corresponden al primer informe publicado tras la entrada en vigor de la nueva ley antilavado, el pasado 17 de septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Henry Sáenz, el muro de contención de Arévalo: respaldo institucional y críticas a su gestión",
-      "link": "https://www.prensalibre.com/guatemala/justicia/henry-saenz-el-muro-de-contencion-de-arevalo-respaldo-institucional-y-criticas-a-su-gestion/",
-      "fecha": "Wed, 21 Oct 2026 09:01:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "¿Qué sostiene a Henry Sáenz en el Gobierno de Arévalo? Analistas explican por qué sigue en el cargo, pese a las críticas por las crisis del Ejército."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PEG 6: CNEE explica por qué Guatemala necesita contratar otros 600 megavatios de electricidad si ya adjudicaron más de 1 mil 200 este año",
-      "link": "https://www.prensalibre.com/economia/peg-6-cnee-explica-por-que-guatemala-necesita-contratar-otros-600-megavatios-de-electricidad-si-ya-adjudicaron-mas-de-1-mil-200-este-ano/",
-      "fecha": "Wed, 21 Oct 2026 07:30:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El presidente de la CNEE, Luis Ortiz, explica por qué es necesaria una nueva licitación de 600 Megavatios, pese a que este año se adjudicaron 1 mil 258 MW, y cuáles son las expectativas para atraer inversiones en generación con gas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Licitaciones de energía PEG 5 y PEG 6: EEGSA explica por qué es clave el acompañamiento del Estado para concretar proyectos",
-      "link": "https://www.prensalibre.com/economia/licitaciones-de-energia-peg-5-y-peg-6-eegsa-explica-por-que-es-clave-el-acompanamiento-del-estado-para-concretar-proyectos/",
-      "fecha": "Wed, 21 Oct 2026 07:05:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La construcción de nuevas plantas de generación eléctrica derivada de las licitaciones PEG 5 y PEG 6 impulsadas por las distribuidoras requerirá permisos, licencias e infraestructura de transmisión, por lo que será necesario el acompañamiento del Estado, expuso Mario Naranjo Echeverri, gerente general del Grupo EPM Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "San Martín apuesta por Estados Unidos: cuánto ha invertido y dónde abrirá nuevas tiendas",
-      "link": "https://www.prensalibre.com/economia/san-martin-apuesta-por-estados-unidos-cuanto-ha-invertido-y-donde-abrira-nuevas-tiendas/",
-      "fecha": "Wed, 21 Oct 2026 07:01:00 +0000",
-      "categoria": "Economía",
-      "resumen": "San Martín acumula una inversión superior a US$20 millones en Estados Unidos durante los últimos ocho años, tras destinar US$4.5 millones a su tercera tienda en Texas, y proyecta nuevas inauguraciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Revolución a medias",
-      "link": "https://www.prensalibre.com/opinion/caricatura/revolucion-a-medias/",
-      "fecha": "Wed, 21 Oct 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pleno debe rechazar nómina de Conamigua",
-      "link": "https://www.prensalibre.com/opinion/editorial/pleno-debe-rechazar-nomina-de-conamigua/",
-      "fecha": "Wed, 21 Oct 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Desde la convocatoria misma hubo requisitos con dedicatoria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El combate debe dirigirse contra crímenes políticos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-combate-debe-dirigirse-contra-crimenes-politicos/",
-      "fecha": "Wed, 21 Oct 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El hastío y rechazo por los crímenes políticos tendrá fuerza si hay silenciosas muestras en los ciudadanos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La IA y el genio de la botella",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-ia-y-el-genio-de-la-botella/",
-      "fecha": "Wed, 21 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Todo pareciera indicar que con las nuevas tecnologías corremos como caballos desbocados hacia un peligroso acantilado."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Las alertas de Google por sismos ya se encuentran disponibles en Guatemala",
       "link": "https://www.guatemala.com/noticias/tecnologia/alertas-google-sismos-guatemala-funcion-gratuita-dispositivos-android.html",
@@ -865,14 +873,6 @@
       "fecha": "Fri, 16 Oct 2026 17:42:29 +0000",
       "categoria": "Comunidad",
       "resumen": "Prepara el paraguas y la capa porque el Insivumeh anticipa tardes y noches lluviosas para el fin de semana del 17 y 18 de octubre de 2026. \nThe post Pronóstico del clima en Guatemala para el 17 y 18 de octubre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Bam beneficia a más de 14 mil niños y jóvenes guatemaltecos con programas de educación y salud",
-      "link": "https://www.guatemala.com/noticias/vida/bam-beneficia-a-mas-de-14-mil-ninos-y-jovenes-guatemaltecos.html",
-      "fecha": "Thu, 15 Oct 2026 14:53:19 +0000",
-      "categoria": "Vida",
-      "resumen": "Bam fortalece la educación, salud e inclusión en Guatemala mediante iniciativas que han beneficiado a más de 14,100 niños, jóvenes y familias. \nThe post Bam beneficia a más de 14 mil niños y jóvenes guatemaltecos con programas de educación y salud appeared first on Guatemala.com."
     }
   ]
 }
