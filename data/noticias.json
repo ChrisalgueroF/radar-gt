@@ -1,7 +1,143 @@
 {
-  "actualizado": "2026-10-22T04:08:41.967Z",
+  "actualizado": "2026-10-22T09:56:10.919Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inversión extranjera en Guatemala crece 7% en 2026: estos son los países y sectores que más capital aportan",
+      "link": "https://www.prensalibre.com/economia/inversion-extranjera-en-guatemala-crece-7-en-2026-estos-son-los-paises-y-sectores-que-mas-capital-aportan/",
+      "fecha": "Thu, 22 Oct 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El flujo de inversión extranjera directa (IED) en Guatemala creció un 7% durante el primer semestre del 2026 y se proyecta que alcance los US$2 mil 100 millones al cierre del año, según informó una fuente oficial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Turismo sin patrimonio mata a la gallina de los huevos de oro",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/turismo-sin-patrimonio-mata-a-la-gallina-de-los-huevos-de-oro/",
+      "fecha": "Thu, 22 Oct 2026 06:08:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Debo enfatizar mi beneplácito en que el INGUAT se modernice, pero sin que se afecte a otras instituciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Repudio a toda coacción, amenazas o violencia",
+      "link": "https://www.prensalibre.com/opinion/editorial/repudio-a-toda-coaccion-amenazas-o-violencia/",
+      "fecha": "Thu, 22 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "La libertad de expresión, acción y petición son baluartes de Guatemala y de los guatemaltecos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La pedagogía del terror",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-pedagogia-del-terror/",
+      "fecha": "Thu, 22 Oct 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Así ha querido dominar el Pacto de Corruptos a esta sociedad guatemalteca."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones en Israel: Netanyahu se juega su futuro político entre la guerra y los cuestionamientos por su gestión",
+      "link": "https://www.prensalibre.com/internacional/elecciones-en-israel-netanyahu-se-juega-su-futuro-politico-entre-la-guerra-y-los-cuestionamientos-por-su-gestion/",
+      "fecha": "Thu, 22 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las elecciones en Israel enfrentan a Benjamin Netanyahu con sus principales rivales en medio de cuestionamientos por la guerra, la seguridad nacional y el futuro de los palestinos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Civilización contra violencia",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/civilizacion-contra-violencia/",
+      "fecha": "Thu, 22 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Para alcanzar una sociedad verdaderamente civilizada se necesita un sistema de justicia independiente, honesto y eficaz, que castigue los delitos sin importar quién los cometa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¡La famosa democracia!",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-famosa-democracia/",
+      "fecha": "Thu, 22 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La democracia tiene sus riesgos. Se les enfrenta con reglas e instituciones que garantizan los derechos fundamentales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El otro conflicto armado interno",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-otro-conflicto-armado-interno/",
+      "fecha": "Thu, 22 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Contra fuerzas puramente gansteriles, atomizadas"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Propuesta de ley busca intervenir la CDAG ante denuncias de corrupción y falta de resultados",
+      "link": "https://www.prensalibre.com/guatemala/propuesta-de-ley-busca-intervenir-la-cdag-ante-denuncias-de-corrupcion-y-falta-de-resultados/",
+      "fecha": "Thu, 22 Oct 2026 06:02:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La iniciativa 6690 pretende intervenir la Confederación Deportiva Autónoma de Guatemala (CDAG) luego de señalamientos de corrupción, cuestionamientos sobre el uso de recursos públicos y denuncias relacionadas con la remodelación del Estadio Nacional Doroteo Guamuch Flores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El fracaso de la Ronda de Doha",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-fracaso-de-la-ronda-de-doha/",
+      "fecha": "Thu, 22 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Una preocupación importante es que los acuerdos preferenciales ya no tratan únicamente sobre comercio tradicional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy jueves 22 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-22-de-octubre-de-2026/",
+      "fecha": "Thu, 22 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala apuesta por atraer grandes eventos, pero necesita más hoteles y conectividad para competir",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/guatemala-apuesta-por-atraer-grandes-eventos-pero-necesita-mas-hoteles-y-conectividad-para-competir/",
+      "fecha": "Thu, 22 Oct 2026 06:00:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "Los nuevos recintos abren oportunidades para atraer grandes eventos, pero el país necesita más hoteles, mejores conexiones y seguridad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entregan las primeras placas Restaurants from Spain",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/entregan-las-primeras-placas-restaurants-from-spain/",
+      "fecha": "Thu, 22 Oct 2026 05:30:00 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "La Oficina Económica y Comercial de la Embajada de España en Guatemala realizó la entrega de las primeras placas del programa Restaurants from Spain a El Pimentón, La Taberna de Juan, La Tasca Madrileña y El Rincón de Álex."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Corea del Norte publica fotos de Kim Jong-un: ¿por qué siguen surgiendo rumores sobre su supuesta muerte?",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/corea-del-norte-publica-fotos-de-kim-jong-un-por-que-siguen-surgiendo-rumores-sobre-su-supuesta-muerte/",
+      "fecha": "Thu, 22 Oct 2026 05:00:37 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los medios estatales de Corea del Norte divulgaron fotos del líder norcoreano con su hija tras la difusión de un rumor infundado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ultiman a Sergio Cardona, condenado por el asesinato del periodista Danilo López; PNC desconoce por qué estaba libre",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ultiman-a-sergio-cardona-condenado-por-el-asesinato-del-periodista-danilo-lopez-pnc-desconoce-por-que-estaba-libre-breaking/",
+      "fecha": "Thu, 22 Oct 2026 04:33:18 +0000",
+      "categoria": "Sucesos",
+      "resumen": "La PNC confirmó la muerte de Sergio Cardona, condenado a 30 años de prisión por el asesinato del periodista Danilo López, y dijo desconocer por qué estaba libre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cartaginés de Amarini Villatoro toma ventaja ante Olimpia en la semifinal de la Copa Centroamericana",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cartagines-de-amarini-villatoro-toma-ventaja-ante-olimpia-en-la-semifinal-de-la-copa-centroamericana-breaking/",
+      "fecha": "Thu, 22 Oct 2026 04:24:46 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El técnico guatemalteco Amarini Villatoro da el primer paso hacia otra final centroamericana, tras la victoria 1-0 del Cartaginés sobre Olimpia en la ida de las semifinales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Matrimonios por dinero y trámites migratorios irregulares: así operaba la red que organizaba bodas falsas en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/matrimonios-por-dinero-y-tramites-migratorios-irregulares-asi-operaba-la-red-que-organizaba-bodas-falsas-en-ee-uu/",
+      "fecha": "Thu, 22 Oct 2026 03:32:50 +0000",
+      "categoria": "Internacional",
+      "resumen": "Autoridades federales desmantelaron una red de matrimonios fraudulentos en Massachusetts, Estados Unidos, que cobraba hasta US$40 mil por facilitar trámites migratorios irregulares."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Concejal de Retalhuleu sobrevive a ataque armado y resulta herido de bala en un brazo",
@@ -305,6 +441,14 @@
       "fecha": "Wed, 21 Oct 2026 19:26:10 +0000",
       "categoria": "Escenario",
       "resumen": "El protagonista de la película biográfica “Michael” habló sobre su experiencia al grabar las escenas relacionadas con las acusaciones contra su tío, que finalmente fueron eliminadas de la producción."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La felicidad de comprar con su celular en un nuevo canal digital y APP",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-felicidad-de-comprar-con-su-celular-en-un-nuevo-canal-digital-y-app/",
+      "fecha": "Wed, 21 Oct 2026 19:20:00 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Elektra, unidad de negocio de Grupo Salinas Guatemala, se reinventa en el mundo digital y lanzan su nueva APP, un nuevo canal digital de ventas que lleva La felicidad de comprar directamente al celular de los guatemaltecos, permitiéndoles explorar productos, descubrir ofertas y realizar sus compras desde cualquier lugar."
     },
     {
       "fuente": "Prensa Libre",
@@ -657,150 +801,6 @@
       "fecha": "Wed, 21 Oct 2026 01:21:19 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "Del 23 de octubre al 1 de noviembre de 2026, se realizará la 65 Vuelta Ciclística Internacional a Guatemala, organizada por la Federación Deportiva Nacional de Ciclismo de Guatemala y con el respaldo de sus patrocinadores, en especial de Malta Gallo, recorrerá distintas regiones del país a través de 10 etapas y 1,438 kilómetros de competencia, con la participación de equipos nacionales e internacionales que competirán en uno de los eventos deportivos más importantes de Centroamérica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Malacateco vs. Comunicaciones: ganar es urgente para salir de la zona baja del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-malacateco-vs-comunicaciones-ganar-es-urgente-para-salir-de-la-zona-baja-del-apertura-2026-breaking/",
-      "fecha": "Wed, 21 Oct 2026 01:14:32 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Toros y Cremas se enfrentan con la necesidad de sumar puntos para alejarse de los últimos puestos de la clasificación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Ahora me siento perdida&#8221;: Christina Applegate comparte que le diagnosticaron erróneamente esclerosis múltiple",
-      "link": "https://www.prensalibre.com/vida/escenario/ahora-me-siento-perdida-christina-applegate-comparte-que-le-diagnosticaron-erroneamente-esclerosis-multiple/",
-      "fecha": "Wed, 21 Oct 2026 00:26:10 +0000",
-      "categoria": "Escenario",
-      "resumen": "Tras más de seis meses alejada de su pódcast, Christina Applegate habló sobre la confusión que vive al no saber qué padece, después de recibir, según relató, un diagnóstico erróneo de esclerosis múltiple."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Murió Kim Jong Un? Qué se sabe de los rumores sobre su muerte y de su aparición en Corea del Norte",
-      "link": "https://www.prensalibre.com/internacional/murio-kim-jong-un-que-se-sabe-de-los-rumores-sobre-su-muerte-y-de-su-aparicion-en-corea-del-norte/",
-      "fecha": "Tue, 20 Oct 2026 23:53:18 +0000",
-      "categoria": "Internacional",
-      "resumen": "Tras los rumores sobre su supuesta muerte, Kim Jong Un reapareció en los reportes de la prensa norcoreana junto a su esposa e hija. Esto se sabe sobre las versiones que circularon en redes sociales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump insulta a otro periodista y le advierte que “más le vale tener cuidado”: así ocurrió",
-      "link": "https://www.prensalibre.com/internacional/trump-insulta-a-otro-periodista-y-le-advierte-que-mas-le-vale-tener-cuidado-asi-ocurrio/",
-      "fecha": "Tue, 20 Oct 2026 23:18:16 +0000",
-      "categoria": "Internacional",
-      "resumen": "Durante un intercambio con periodistas en el Despacho Oval, Donald Trump arremetió contra el corresponsal del medio británico The Independent."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hábitos de prevención durante todo el año",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/habitos-de-prevencion-durante-todo-el-ano/",
-      "fecha": "Tue, 20 Oct 2026 23:15:47 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Bayer promueve el bienestar familiar con Redoxitos Plus para los niños y Redoxon Triple Acción para los adultos, destacando la importancia de incorporar hábitos de cuidado diario."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La actriz Christina Applegate revela que estuvo 5 años diagnosticada erróneamente con esclerosis múltiple",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-actriz-christina-applegate-revela-que-estuvo-5-anos-diagnosticada-erroneamente-con-esclerosis-multiple/",
-      "fecha": "Tue, 20 Oct 2026 22:38:50 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En un episodio de su podcast publicado el martes, dijo que no estaba contenta con la noticia y que sus síntomas solo habían \"empeorado\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mingob hará revisión &#8220;profunda&#8221; de la PNC tras asesinato de Solórzano Foppa e irregularidades en detención de hermanos Choc Toz",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mingob-hara-una-revision-profunda-de-la-pnc-tras-el-asesinato-de-foppa-y-las-irregularidades-en-la-detencion-de-los-hermanos-choc-toz-breaking/",
-      "fecha": "Tue, 20 Oct 2026 22:33:15 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ministerio de Gobernación (Mingob) informó que la revisión de la PNC abarcará los distintos niveles de mando."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Regresa la alternativa para quienes buscan capacidad de trabajo",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/regresa-la-alternativa-para-quienes-buscan-capacidad-de-trabajo/",
-      "fecha": "Tue, 20 Oct 2026 22:20:18 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "En el AutoShow 2026, Volkswagen y Continental Motores develan la Amarok Comfortline, tras haber sido comercializada por última vez en octubre de 2024, regresa con precio especial, IVA incluido y disponibilidad inmediata."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡La MLB tendrá un campeón inédito! Milwaukee y Tampa Bay hacen historia en la Serie Mundial",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/la-mlb-tendra-un-campeon-inedito-milwaukee-y-tampa-bay-hacen-historia-en-la-serie-mundial/",
-      "fecha": "Tue, 20 Oct 2026 22:17:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Ninguno de los dos equipos ha conquistado el Clásico de Otoño y ambos buscarán convertir una temporada sobresaliente en el primer título de sus respectivas historias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Latin Grammy 2026: confirman a Rosalía, Daddy Yankee y Mon Laferte entre los primeros artistas que actuarán en la gala",
-      "link": "https://www.prensalibre.com/vida/escenario/latin-grammy-2026-confirman-a-rosalia-daddy-yankee-y-mon-laferte-entre-los-primeros-artistas-que-actuaran-en-la-gala/",
-      "fecha": "Tue, 20 Oct 2026 22:15:22 +0000",
-      "categoria": "Escenario",
-      "resumen": "Los Latin Grammy 2026 anunciaron a los primeros artistas que actuarán en la 27.ª edición de los premios. Conoce quiénes se presentarán y cuáles son los músicos con más nominaciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Orcas vs. tiburones blancos: la sangrienta batalla entre los mayores depredadores marinos que tiene perplejos a los científicos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/orcas-vs-tiburones-blancos-la-sangrienta-batalla-entre-los-mayores-depredadores-marinos-que-tiene-perplejos-a-los-cientificos/",
-      "fecha": "Tue, 20 Oct 2026 22:11:06 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El cambio climático está haciendo que los dos grandes cazadores del mar estén cada vez más cerca. Y las orcas parecen estar ganando la batalla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El proyecto residencial de Zona 18 entra en su fase final de comercialización",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/el-proyecto-residencial-de-zona-18-entra-en-su-fase-final-de-comercializacion/",
-      "fecha": "Tue, 20 Oct 2026 21:55:46 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Vías San Rafael consolidado como la opción residencial favorita del sector, desarrollado por la inmobiliaria Milésimo, ha entrado en su etapa final de venta con la disponibilidad de últimas unidades para entrega inmediata, por lo que se realizará el Open House el 24 y 25 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arrestos de migrantes en EE. UU.: fiscales de 21 estados cuestionan al Gobierno de Trump por operativos sin orden judicial",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/arrestos-de-migrantes-en-ee-uu-fiscales-de-21-estados-cuestionan-al-gobierno-de-trump-por-operativos-sin-orden-judicial/",
-      "fecha": "Tue, 20 Oct 2026 21:54:31 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Agentes con pasamontañas, vehículos sin distintivos y arrestos sin orden judicial forman parte de las prácticas del DHS que fiscales de Estados Unidos cuestionan ante un tribunal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Verificamos por usted: qué dice la PNC sobre el video de policías que trasladan paquetes de una bolsa a mochilas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/verificamos-por-usted-que-dice-la-pnc-sobre-el-video-de-policias-que-trasladan-paquetes-de-una-bolsa-a-mochilas-breaking/",
-      "fecha": "Tue, 20 Oct 2026 21:45:02 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Policía Nacional Civil (PNC) dio detalles sobre un video en el que se observa a varios agentes trasladando paquetes de una bolsa a unas mochilas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Super Bowl 2027: dónde se celebrará, cuándo será y qué se sabe sobre los reportes de Jay-Z como artista principal del medio tiempo",
-      "link": "https://www.prensalibre.com/vida/escenario/super-bowl-2027-donde-se-celebrara-cuando-sera-y-que-se-sabe-sobre-los-reportes-de-jay-z-como-artista-principal-del-medio-tiempo/",
-      "fecha": "Tue, 20 Oct 2026 21:15:52 +0000",
-      "categoria": "Escenario",
-      "resumen": "A meses del Super Bowl LXI, aumentan los reportes que vinculan a Jay-Z con el espectáculo de medio tiempo, por encima de otros nombres que figuran entre los favoritos, como Miley Cyrus y Harry Styles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PSG golea al Barcelona y le propina su primera derrota de la temporada antes del clásico español",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/psg-golea-al-barcelona-y-le-propina-su-primera-derrota-de-la-temporada-antes-del-clasico-espanol-breaking/",
-      "fecha": "Tue, 20 Oct 2026 20:55:37 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El equipo de Luis Enrique venció 4-2 al conjunto de Hansi Flick en la Liga de Campeones de Europa y cortó la racha de once victorias consecutivas de los azulgranas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Salvador condena a más de 10 mil 500 pandilleros: qué revelan las cifras del régimen de excepción de Bukele",
-      "link": "https://www.prensalibre.com/internacional/mas-de-10-mil-500-pandilleros-fueron-condenados-en-el-salvador-durante-el-regimen-de-excepcion-breaking/",
-      "fecha": "Tue, 20 Oct 2026 20:29:08 +0000",
-      "categoria": "Internacional",
-      "resumen": "El fiscal general salvadoreño, Rodolfo Delgado, señaló que los pandilleros detenidos fueron sentenciados a diferentes penas de cárcel."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Pagaron por una promesa y los abandonaron”: el mensaje de Gabriel García Luna tras la condena por la tragedia de 53 migrantes en Texas",
-      "link": "https://www.prensalibre.com/guatemala/justicia/pagaron-por-una-promesa-y-los-abandonaron-el-mensaje-de-gabriel-garcia-luna-tras-la-condena-por-la-tragedia-de-53-migrantes-en-texas-breaking/",
-      "fecha": "Tue, 20 Oct 2026 20:28:01 +0000",
-      "categoria": "Justicia",
-      "resumen": "Gabriel García Luna afirmó que el MP buscará a quienes financian, organizan y cobran por el tráfico de migrantes. Sus declaraciones se produjeron tras la sentencia contra un implicado en el caso de Texas que dejó 53 fallecidos y 11 heridos."
     },
     {
       "fuente": "Guatemala.com",
