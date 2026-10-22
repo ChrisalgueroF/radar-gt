@@ -1,7 +1,119 @@
 {
-  "actualizado": "2026-10-22T19:52:16.459Z",
+  "actualizado": "2026-10-22T23:07:19.201Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Terremoto de magnitud 7 en el Tíbet: qué se sabe de los muertos, heridos y daños en China",
+      "link": "https://www.prensalibre.com/internacional/terremoto-de-magnitud-7-en-el-tibet-que-se-sabe-de-los-muertos-heridos-y-danos-en-china/",
+      "fecha": "Thu, 22 Oct 2026 22:59:36 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un terremoto de magnitud 7 sacudió el Tíbet, China, y dejó al menos 16 muertos, 32 heridos y más de 300 casas derrumbadas, según autoridades locales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué enfermedades transmiten las garrapatas? Los síntomas de Lyme que preocupan en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/que-enfermedades-transmiten-las-garrapatas-los-sintomas-de-lyme-que-preocupan-en-ee-uu/",
+      "fecha": "Thu, 22 Oct 2026 22:40:35 +0000",
+      "categoria": "Internacional",
+      "resumen": "Crece la preocupación debido a que en los últimos meses se registró un aumento de casos de la enfermedad de Lyme, que se extendieron a más zonas de EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hermanos Choc Toz dan ultimátum al Estado y amenazan con demanda por su captura en el caso Solórzano Foppa",
+      "link": "https://www.prensalibre.com/guatemala/justicia/hermanos-choc-toz-dan-ultimatum-al-estado-y-amenazan-con-demanda-por-su-captura-en-el-caso-solorzano-foppa-breaking/",
+      "fecha": "Thu, 22 Oct 2026 22:21:06 +0000",
+      "categoria": "Justicia",
+      "resumen": "Los hermanos Choc Toz dieron un ultimátum al Estado de Guatemala para que les ofrezca disculpas públicas y un resarcimiento por haber sido capturados como sospechosos de la muerte de Juan Francisco Solórzano Foppa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La justicia le ordena a Trump responder preguntas bajo juramento en su demanda contra la BBC",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-justicia-le-ordena-a-trump-responder-preguntas-bajo-juramento-en-su-demanda-contra-la-bbc/",
+      "fecha": "Thu, 22 Oct 2026 22:07:20 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El presidente de EE.UU. demandó a la BBC por un episodio del programa documental Panorama que editó y unió dos secciones diferentes de un discurso que pronunció en 2021."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mansión de Juan Gabriel en Florida sale a la venta: ¿cuál es la cifra millonaria que piden por ella?",
+      "link": "https://www.prensalibre.com/vida/escenario/mansion-de-juan-gabriel-en-florida-sale-a-la-venta-cual-es-la-cifra-millonaria-que-piden-por-ella/",
+      "fecha": "Thu, 22 Oct 2026 21:57:43 +0000",
+      "categoria": "Escenario",
+      "resumen": "La mansión donde vivió el \"Divo de Juárez\" salió a la venta, pero sus actuales dueños ahora piden más de cuatro veces lo que pagaron por la propiedad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Beatificación de fray Augusto Ramírez Monasterio: así se preparan las autoridades municipales y eclesiásticas de Antigua Guatemala para recibir a más de 30 mil fieles",
+      "link": "https://www.prensalibre.com/vida/escenario/beatificacion-de-fray-augusto-ramirez-monasterio-asi-se-preparan-las-autoridades-municipales-y-eclesiasticas-de-antigua-guatemala-para-recibir-a-mas-de-30-mil-fieles/",
+      "fecha": "Thu, 22 Oct 2026 21:15:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Fieles católicos se preparan para celebrar la beatificación de fray Augusto Rafael Ramírez Monasterio, sacerdote franciscano que murió por defender el secreto de confesión. Estos son los preparativos para la ceremonia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Becky G defiende a los latinos en Estados Unidos y reivindica el espanglish en su nuevo disco",
+      "link": "https://www.prensalibre.com/vida/escenario/becky-g-defiende-a-los-latinos-en-estados-unidos-y-reivindica-el-espanglish-en-su-nuevo-disco/",
+      "fecha": "Thu, 22 Oct 2026 21:06:01 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante Becky G afirma que defender a los latinos en Estados Unidos es algo “personal” y reivindica su identidad como artista que habla espanglish."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Casi un millón de deportaciones en EE. UU.: qué encontró un informe sobre la política migratoria de Trump",
+      "link": "https://www.prensalibre.com/migrantes-2/casi-un-millon-de-deportaciones-en-ee-uu-que-encontro-un-informe-sobre-la-politica-migratoria-de-trump/",
+      "fecha": "Thu, 22 Oct 2026 20:50:41 +0000",
+      "categoria": "migrantes",
+      "resumen": "Un informe revela que Trump ha deportado a 980 mil personas desde enero de 2025 y que el 71% de los expulsados con años en EE. UU. no tenía condenas penales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sin Bandera en Guatemala: todos los detalles del “Escenas Tour 2027”",
+      "link": "https://www.prensalibre.com/vida/escenario/sin-bandera-en-guatemala-todos-los-detalles-del-escenas-tour-2027/",
+      "fecha": "Thu, 22 Oct 2026 20:48:32 +0000",
+      "categoria": "Escenario",
+      "resumen": "El dúo musical que ha cautivado con temas románticos llegará a Guatemala y ofrecerá un concierto en la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Melisa Palacios: Tribunal ordena trasladar a Fernanda Bonilla a hospital privado por problemas renales",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-melisa-palacios-tribunal-ordena-trasladar-a-fernanda-bonilla-a-hospital-privado-por-problemas-renales-breaking/",
+      "fecha": "Thu, 22 Oct 2026 20:37:21 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Tribunal de Mayor Riesgo \"C\" ordenó el traslado de María Fernanda Bonilla, acusada por la muerte de Melisa Palacios, a un hospital privado por padecimientos renales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "USAC cotiza póliza de seguro de vida y gastos médicos para el CSU y directivos por Q500 mil de cobertura",
+      "link": "https://www.prensalibre.com/guatemala/politica/usac-cotiza-poliza-de-seguro-de-vida-y-gastos-medicos-para-el-csu-y-directivos-por-q500-mil-de-cobertura/",
+      "fecha": "Thu, 22 Oct 2026 20:08:11 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El proceso busca contratar un seguro médico y de vida privado para autoridades del CSU de la USAC, un beneficio que en los últimos cuatro años le ha costado más de Q2 millones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC descarta compra de cámaras corporales y hará arrendamiento por Q20 millones",
+      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-descarta-compra-de-camaras-corporales-y-hara-arrendamiento-por-q20-millones/",
+      "fecha": "Thu, 22 Oct 2026 20:07:40 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La Policía Nacional Civil (PNC) prevé arrendar 500 cámaras corporales durante 18 meses, por un total de Q20 millones. La institución confirmó ante diputados que no realizará la compra de estos dispositivos, como había anunciado en días anteriores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comunicaciones se hunde: nueve derrotas y siete finales para evitar un desastre",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-se-hunde-nueve-derrotas-y-siete-finales-para-evitar-un-desastre/",
+      "fecha": "Thu, 22 Oct 2026 19:58:51 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los cremas no encuentran la salida. La reciente derrota frente a Malacateco agravó el panorama. Suman 14 puntos y nueve derrotas en 15 jornadas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. probará un arma de calor en la frontera con México: ¿cómo funciona y qué riesgos tiene?",
+      "link": "https://www.prensalibre.com/internacional/ee-uu-probara-un-arma-de-calor-en-la-frontera-con-mexico-como-funciona-y-que-riesgos-tiene/",
+      "fecha": "Thu, 22 Oct 2026 19:58:44 +0000",
+      "categoria": "Internacional",
+      "resumen": "Aunque el efecto previsto sea temporal, el riesgo también depende de las circunstancias, del tiempo de exposición y de la posibilidad de que una persona sufra un accidente."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Robo en escuela de Retalhuleu: capturan al “Gato” con computadoras, ventilador y licuadora",
@@ -17,6 +129,14 @@
       "fecha": "Thu, 22 Oct 2026 18:54:31 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Más de seis mil personas homenajearon al argentino, donde compartió reflexiones sobre sus sueños, el respeto, las derrotas y la presión que algunos padres ejercen sobre sus hijos en el futbol."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Prensa Libre alerta sobre falsa información por caso de Juan Francisco Solórzano Foppa",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/prensa-libre-alerta-sobre-falsa-informacion-por-caso-de-juan-francisco-solorzano-foppa/",
+      "fecha": "Thu, 22 Oct 2026 18:09:27 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Prensa Libre alerta sobre la difusión de información falsa en páginas de Facebook relacionada con el caso de Juan Francisco Solórzano Foppa."
     },
     {
       "fuente": "Prensa Libre",
@@ -41,6 +161,14 @@
       "fecha": "Thu, 22 Oct 2026 17:52:49 +0000",
       "categoria": "Internacional",
       "resumen": "Esta red de matrimonios fraudulentos habría permitido a indocumentados solicitar beneficios migratorios a cambio de pagos de hasta US$40 mil (Q305 mil)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Glee vuelve a la televisión: Disney+ y Hulu anuncian una nueva versión de la serie",
+      "link": "https://www.prensalibre.com/vida/escenario/glee-vuelve-a-la-television-disney-y-hulu-anuncian-una-nueva-version-de-la-serie/",
+      "fecha": "Thu, 22 Oct 2026 17:51:26 +0000",
+      "categoria": "Escenario",
+      "resumen": "La serie musical Glee regresará 11 años después de su final con una nueva versión para Disney+ y Hulu, que podría reunir a parte del elenco original."
     },
     {
       "fuente": "Prensa Libre",
@@ -675,140 +803,12 @@
       "resumen": "El duque de Sussex habla en una entrevista sobre su deseo de reconciliarse con la familia real británica, aunque reconoce que hay quienes no quieren arreglar las diferencias."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Stephen Hubbard? El estadounidense liberado por Putin luego de una petición de Trump",
-      "link": "https://www.prensalibre.com/internacional/quien-es-stephen-hubbard-el-estadounidense-liberado-por-putin-luego-de-una-peticion-de-trump/",
-      "fecha": "Wed, 21 Oct 2026 16:44:27 +0000",
-      "categoria": "Internacional",
-      "resumen": "Todo esto sucede en medio de las tensiones entre Donald Trump y Ucrania, que ha denunciado demoras en las entregas de misiles interceptores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Nunca lo vuelvo a hacer”: Ricardo Arjona revela detalles de su nuevo disco “De todo un poco” y confiesa qué no repetirá durante una gira",
-      "link": "https://www.prensalibre.com/vida/escenario/nunca-lo-vuelvo-a-hacer-ricardo-arjona-revela-detalles-de-su-nuevo-disco-de-todo-un-poco-y-confiesa-que-no-repetira-durante-una-gira/",
-      "fecha": "Wed, 21 Oct 2026 16:20:17 +0000",
-      "categoria": "Escenario",
-      "resumen": "Mientras se prepara para sus próximos conciertos en Centroamérica como parte de la gira “Lo que el seco no dijo”, Arjona comparte detalles del nuevo disco y asegura que hay algo que no volvería a hacer."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comunicaciones cae ante Malacateco y suma su tercera derrota al hilo: así queda la tabla de posiciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-cae-ante-malacateco-y-suma-su-tercera-derrota-al-hilo-asi-queda-la-tabla-de-posiciones/",
-      "fecha": "Wed, 21 Oct 2026 16:15:25 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La derrota frente a Malacateco agrava el mal momento de Comunicaciones, que permanece en los últimos puestos de la clasificación del Torneo Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Amarini Villatoro va por otra final centroamericana: hora y dónde ver el Cartaginés vs. Olimpia",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/amarini-villatoro-va-por-otra-final-centroamericana-hora-y-donde-ver-el-cartagines-vs-olimpia/",
-      "fecha": "Wed, 21 Oct 2026 15:49:45 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Amarini Villatoro busca acercar al Cartaginés a una nueva final internacional cuando reciba al Olimpia en la ida de las semifinales de la Copa Centroamericana 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo las deportaciones de Trump alteran la vida de una ciudad de EE.UU. que había sido transformada por migrantes haitianos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-las-deportaciones-de-trump-alteran-la-vida-de-una-ciudad-de-ee-uu-que-habia-sido-transformada-por-migrantes-haitianos/",
-      "fecha": "Wed, 21 Oct 2026 15:22:26 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En 2024, el presidente puso a Springfield, Ohio, en el centro del debate nacional con la falsa acusación de que algunos migrantes se comían las mascotas de sus habitantes. Dos años después, la ciudad sigue siendo un símbolo de la polarización sobre la inmigración en EE.UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Intento de asalto en zona 12: conductor choca contra motocicleta de los atacantes y resulta ileso",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/intento-de-asalto-en-zona-12-conductor-choca-contra-motocicleta-de-los-atacantes-y-resulta-ileso-breaking/",
-      "fecha": "Wed, 21 Oct 2026 15:17:52 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Las autoridades brindaron detalles sobre el intento de asalto contra el conductor de un automóvil en la zona 12 de la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Hacia dónde avanza Champi? El supertifón más fuerte del 2026 pone en alerta a varias naciones",
-      "link": "https://www.prensalibre.com/internacional/hacia-donde-avanza-champi-el-supertifon-mas-fuerte-del-2026-pone-en-alerta-a-varias-naciones/",
-      "fecha": "Wed, 21 Oct 2026 15:15:59 +0000",
-      "categoria": "Internacional",
-      "resumen": "El supertifón Champi alcanzó una fuerza equivalente a la categoría 5, con vientos máximos sostenidos de 298 km/h, por lo que se convirtió en la tormenta más intensa del 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Así fue el regreso del papa León XIV a la plaza de San Pedro: qué dijo ante los fieles y cómo fue recibido",
-      "link": "https://www.prensalibre.com/internacional/asi-fue-el-regreso-del-papa-leon-xiv-a-la-plaza-de-san-pedro-que-dijo-ante-los-fieles-y-como-fue-recibido/",
-      "fecha": "Wed, 21 Oct 2026 15:00:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "El papa León XIV regresó a la plaza de San Pedro entre aplausos y muestras de cariño."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mujer muere tras ser atacada con piedras en Santa Rosa y su hijo es capturado como sospechoso",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/mujer-muere-tras-ser-atacada-con-piedras-en-santa-rosa-y-su-hijo-es-capturado-como-sospechoso-breaking/",
-      "fecha": "Wed, 21 Oct 2026 14:35:26 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Agentes de la Policía Nacional Civil (PNC) capturaron al presunto responsable de la muerte de una mujer en una aldea de Nueva Santa Rosa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué el PSG podría ser sancionado por la Uefa tras el partido contra el Barcelona?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/por-que-el-psg-podria-ser-sancionado-por-la-uefa-tras-el-partido-contra-el-barcelona/",
-      "fecha": "Wed, 21 Oct 2026 14:35:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La Uefa estudia posibles sanciones contra el PSG después de que sus aficionados desplegaran una polémica pancarta durante el duelo correspondiente a la jornada de la Champions League."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Multan con Q10 mil a piloto de bus que conducía en estado de ebriedad en la calzada Roosevelt",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/multan-con-q10-mil-a-piloto-de-bus-que-conducia-en-estado-de-ebriedad-en-la-calzada-roosevelt-breaking/",
-      "fecha": "Wed, 21 Oct 2026 14:05:38 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Policía Municipal de Tránsito (PMT) multó al conductor de un bus por cometer infracciones de tránsito mientras circulaba por la calzada Roosevelt."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Todavía no sabemos la magnitud real del daño&#8221;: el joven que diseñó un software para buscar a desaparecidos en los terremotos en Venezuela",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/todavia-no-sabemos-la-magnitud-real-del-dano-el-joven-que-diseno-un-software-para-buscar-a-desaparecidos-en-los-terremotos-en-venezuela/",
-      "fecha": "Wed, 21 Oct 2026 14:02:44 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Jorge Bastidas creó el portal Desaparecidos Terremoto Venezuela, una iniciativa ciudadana para reportar a los desaparecidos en los sismos, a falta de cifras del gobierno venezolano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La Siguanaba: la leyenda de la misteriosa mujer que nadie debería seguir de noche",
-      "link": "https://www.prensalibre.com/vida/escenario/la-siguanaba-la-leyenda-de-la-misteriosa-mujer-que-nadie-deberia-seguir-de-noche/",
-      "fecha": "Wed, 21 Oct 2026 14:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Parece una mujer hermosa y camina siempre de espaldas; el verdadero terror comienza cuando alguien logra verle el rostro: la mujer a la que nunca hay que seguir."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Champions League: la victoria del PSG ante el Barcelona deja una dura noticia para Khvicha Kvaratskhelia",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/champions-league-la-victoria-del-psg-ante-el-barcelona-deja-una-dura-noticia-para-khvicha-kvaratskhelia/",
-      "fecha": "Wed, 21 Oct 2026 14:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La victoria ante el Barcelona dejó un sabor agridulce para el PSG, que ahora deberá afrontar importantes retos con cambios en su esquema habitual."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "¿Se correrá el asueto del 1 de noviembre por el Día de Todos los Santos 2026?",
       "link": "https://www.guatemala.com/noticias/sociedad/asueto-1-de-noviembre-dia-de-todos-los-santos-2026-guatemala.html",
       "fecha": "Wed, 21 Oct 2026 13:24:54 +0000",
       "categoria": "Sociedad",
       "resumen": "En noviembre llega el asueto del Día de Todos los Santos en Guatemala 2026, acá te contamos cuándo se gozará y si habrá un fin de semana largo.\nThe post ¿Se correrá el asueto del 1 de noviembre por el Día de Todos los Santos 2026? appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PMT habilita carril exclusivo por trabajos en puente Periférico-Aguilar Batres: conozca también las rutas alternas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/pmt-habilita-carril-exclusivo-por-trabajos-en-puente-periferico-aguilar-batres-conozca-tambien-las-rutas-alternas/",
-      "fecha": "Wed, 21 Oct 2026 13:13:42 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La PMT informó cómo se administrará el tránsito durante los trabajos en el puente Periférico-Aguilar Batres."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mixco recibe a Municipal en un duelo clave: Mario Escobar Toca será el árbitro",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/mixco-recibe-a-municipal-en-un-duelo-clave-mario-escobar-toca-sera-el-arbitro-breaking/",
-      "fecha": "Wed, 21 Oct 2026 13:04:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los rojos buscan alcanzar a Antigua en el liderato del Apertura 2026, mientras el silbante regresa tras la polémica en el Xelajú-Comunicaciones."
     },
     {
       "fuente": "Guatemala.com",
