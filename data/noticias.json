@@ -1,7 +1,71 @@
 {
-  "actualizado": "2026-10-22T09:56:10.919Z",
+  "actualizado": "2026-10-22T15:01:13.757Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Violencia en la zona 6: ataque a balazos contra un picop deja un fallecido",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/violencia-en-la-zona-6-ataque-a-balazos-contra-un-picop-deja-un-fallecido-breaking/",
+      "fecha": "Thu, 22 Oct 2026 14:43:43 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Un hombre murió por heridas de bala durante un ataque armado contra un picop en la zona 6 de la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Espionaje encubierto contra China? El programa que el Pentágono de Estados Unidos busca crear",
+      "link": "https://www.prensalibre.com/internacional/espionaje-encubierto-contra-china-el-programa-que-el-pentagono-de-estados-unidos-busca-crear/",
+      "fecha": "Thu, 22 Oct 2026 14:40:40 +0000",
+      "categoria": "Internacional",
+      "resumen": "Los agentes operarían bajo identidades encubiertas, haciéndose pasar por empresarios o personal del sector privado, sin ninguna vinculación aparente con EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Cadejo negro: la leyenda del perro con ojos de fuego",
+      "link": "https://www.prensalibre.com/vida/escenario/el-cadejo-negro-la-leyenda-del-perro-con-ojos-de-fuego/",
+      "fecha": "Thu, 22 Oct 2026 14:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Dicen que el Cadejo negro puede acompañar a un borracho hasta su casa, pero hay algo que jamás debe permitírsele hacer."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clima en Guatemala: Insivumeh pronostica lluvias y lloviznas para este jueves 22 de octubre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-insivumeh-pronostica-lluvias-y-lloviznas-para-este-jueves-22-de-octubre-breaking/",
+      "fecha": "Thu, 22 Oct 2026 13:50:51 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El ingreso de humedad desde ambos litorales propiciará condiciones lluviosas en Guatemala este jueves 22 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Justicia suiza confirma 14 años de prisión para Erwin Sperisen por complicidad en siete asesinatos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/justicia-suiza-confirma-14-anos-de-prision-para-erwin-sperisen-por-complicidad-en-siete-asesinatos-breaking/",
+      "fecha": "Thu, 22 Oct 2026 13:18:56 +0000",
+      "categoria": "Justicia",
+      "resumen": "Tribunal suizo confirma condena contra Erwin Sperisen, exdirector de la PNC, por complicidad en el asesinato de siete presos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué es PHP y por qué generó una falla de seguridad en internet que desató una alerta global?",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/que-es-php-y-por-que-genero-una-falla-de-seguridad-en-internet-que-desato-una-alerta-global/",
+      "fecha": "Thu, 22 Oct 2026 11:34:56 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Una IA detectó fallos de programación ocultos durante años, lo que desencadenó una inusual respuesta de ciberseguridad por temor a que fueran explotados por ciberatacantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Etanol en Guatemala: siete de cada diez usuarios de regular migraron a la superior en dos meses, según el MEM",
+      "link": "https://www.prensalibre.com/economia/etanol-en-guatemala-siete-de-cada-diez-usuarios-de-regular-migraron-a-la-superior-en-dos-meses-segun-el-mem/",
+      "fecha": "Thu, 22 Oct 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "A dos meses de la entrada en vigor de la mezcla de etanol en la gasolina regular, el Ministerio de Energía y Minas (MEM) reporta que el 70% de los usuarios migró a la gasolina superior, aunque asegura que más de un millón de vehículos continúan utilizando el combustible E10."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Dejé secretos de Estado en el tren; soy la prueba de que es posible recuperarse del mayor error de tu vida&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/deje-secretos-de-estado-en-el-tren-soy-la-prueba-de-que-es-posible-recuperarse-del-mayor-error-de-tu-vida/",
+      "fecha": "Thu, 22 Oct 2026 10:46:04 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El alto funcionario Richard Jackson relata aquel fatídico día en el que olvidó importantes documentos y cómo se recuperó tras lo sucedido."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Inversión extranjera en Guatemala crece 7% en 2026: estos son los países y sectores que más capital aportan",
@@ -737,70 +801,6 @@
       "fecha": "Wed, 21 Oct 2026 06:04:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Todo pareciera indicar que con las nuevas tecnologías corremos como caballos desbocados hacia un peligroso acantilado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Moral y ética política",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/moral-y-etica-politica/",
-      "fecha": "Wed, 21 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La renuncia envía un mensaje pedagógico: los cargos no son propiedad privada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Se autorizaron billetes de Q200, Q500 y Q1 mil en 200",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/se-autorizaron-billetes-de-q200-q500-y-q1-mil-en-200/",
-      "fecha": "Wed, 21 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "En 2009 la economía mundial tuvo la mayor contracción económica desde la Gran Depresión de 1929."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Momento de activar la empatía",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/momento-de-activar-la-empatia/",
-      "fecha": "Wed, 21 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La verdadera justicia no termina cuando se abre una puerta. También exige reparar el daño que se haya causado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Henry Sáenz afirma que durante el gobierno de Bernardo Arévalo hubo un intento de golpe de Estado de sectores radicales",
-      "link": "https://www.prensalibre.com/guatemala/justicia/henry-saenz-afirma-que-sectores-radicales-llamaron-a-militares-a-dar-un-golpe-de-estado-contra-bernardo-arevalo/",
-      "fecha": "Wed, 21 Oct 2026 06:01:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "En entrevista con Prensa Libre, el ministro de la Defensa habló de llamados a un golpe de Estado, cambios en el Ejército, cooperación con EE. UU. y compras de armamento y aeronaves."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy miércoles 21 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-21-de-octubre-de-2026/",
-      "fecha": "Wed, 21 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué es el &#8220;efecto bola de nieve&#8221; de la deuda y qué papel tiene en la crítica situación económica que alimenta las protestas en Francia",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/que-es-el-efecto-bola-de-nieve-de-la-deuda-y-que-papel-tiene-en-la-critica-situacion-economica-que-alimenta-las-protestas-en-francia/",
-      "fecha": "Wed, 21 Oct 2026 04:57:59 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Mientras siguen las protestas en Francia, las cuentas del país empiezan a generar preocupación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La lluvia obliga a suspender el Malacateco-Comunicaciones, que se reanudará este miércoles",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/la-lluvia-obliga-a-suspender-el-malacateco-comunicaciones-que-se-reanudara-este-miercoles-breaking/",
-      "fecha": "Wed, 21 Oct 2026 04:14:17 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los equipos disputaron solo los primeros 45 minutos y reanudarán el encuentro este miércoles a las 10 horas en Malacatán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La máxima fiesta del ciclismo nacional recorrerá más de 1,400 kilómetros",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-maxima-fiesta-del-ciclismo-nacional-recorrera-mas-de-1400-kilometros/",
-      "fecha": "Wed, 21 Oct 2026 01:21:19 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Del 23 de octubre al 1 de noviembre de 2026, se realizará la 65 Vuelta Ciclística Internacional a Guatemala, organizada por la Federación Deportiva Nacional de Ciclismo de Guatemala y con el respaldo de sus patrocinadores, en especial de Malta Gallo, recorrerá distintas regiones del país a través de 10 etapas y 1,438 kilómetros de competencia, con la participación de equipos nacionales e internacionales que competirán en uno de los eventos deportivos más importantes de Centroamérica."
     },
     {
       "fuente": "Guatemala.com",
