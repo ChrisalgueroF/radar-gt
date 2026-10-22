@@ -1,7 +1,127 @@
 {
-  "actualizado": "2026-10-21T23:07:46.587Z",
+  "actualizado": "2026-10-22T04:08:41.967Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Concejal de Retalhuleu sobrevive a ataque armado y resulta herido de bala en un brazo",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/concejal-de-retalhuleu-sobrevive-a-ataque-armado-y-resulta-herido-de-bala-en-un-brazo-breaking/",
+      "fecha": "Thu, 22 Oct 2026 02:53:01 +0000",
+      "categoria": "Sucesos",
+      "resumen": "El concejal segundo de Retalhuleu, José Arturo López Moreno, resultó herido de bala durante un ataque armado en la ruta RN-9, entre Champerico y Retalhuleu."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Debería de haber mejores controles”: ¿qué medidas de seguridad tendrá el Campo Marte tras el asesinato de Solórzano Foppa?",
+      "link": "https://www.prensalibre.com/guatemala/justicia/deberia-de-haber-mejores-controles-que-medidas-de-seguridad-tendra-el-campo-marte-tras-el-asesinato-de-solorzano-foppa/",
+      "fecha": "Thu, 22 Oct 2026 02:33:55 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Campo Marte reabrió sus espacios deportivos tras el asesinato de Juan Francisco Solórzano Foppa y Gustavo Aguilar Gamarro, pero una visita periodística no encontró los controles de ingreso anunciados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué Miley Cyrus cree que Dolly Parton sigue acompañándola? La historia que contó en un concierto",
+      "link": "https://www.prensalibre.com/vida/escenario/por-que-miley-cyrus-cree-que-dolly-parton-sigue-acompanandola-la-historia-que-conto-en-un-concierto/",
+      "fecha": "Thu, 22 Oct 2026 02:31:03 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante Miley Cyrus asegura haber recibido señalaes de su madrina fallecida Dolly Parton."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Una selfi puede indicar las posibilidades de sobrevivencia de un paciente con cáncer? La respuesta está en la IA",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/una-selfi-puede-indicar-las-posibilidades-de-sobrevivencia-de-un-paciente-con-cancer-la-respuesta-esta-en-la-ia/",
+      "fecha": "Thu, 22 Oct 2026 02:30:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Científicos trabajan en una tecnología que permitiría, a través de una fotografía del rostro, medir el riesgo de mortalidad en pacientes con cáncer."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tribunal declara culpables a expolicías por la ejecución de Nelson Santamaría y Eldin Choc",
+      "link": "https://www.prensalibre.com/guatemala/justicia/tribunal-declara-culpables-a-expolicias-por-la-ejecucion-de-nelson-santamaria-y-eldin-choc-breaking/",
+      "fecha": "Thu, 22 Oct 2026 01:52:32 +0000",
+      "categoria": "Justicia",
+      "resumen": "Un tribunal de Mayor Riesgo condenó a varios expolicías por hechos relacionados con la muerte de Nelson Santamaría y Eldin Leonel Choc Xi, ocurrida en San Andrés Itzapa, Chimaltenango."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Rompieron la cadena de mando&#8221;: PNC detalla cómo se violó el protocolo y la ruta de custodia tras el crimen contra Solórzano Foppa",
+      "link": "https://www.prensalibre.com/guatemala/rompieron-la-cadena-de-mando-pnc-detalla-como-se-violo-el-protocolo-y-la-ruta-de-custodia-tras-el-crimen-contra-solorzano-foppa/",
+      "fecha": "Thu, 22 Oct 2026 01:44:18 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Desvíos de ruta , cambios de patrullas no autorizados y falta de reporte en tiempo real a los mandos fueron parte de lo descrito durante una citación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tres gobernadores renuncian antes de que venza el plazo para funcionarios con aspiraciones electorales",
+      "link": "https://www.prensalibre.com/guatemala/justicia/tres-gobernadores-renuncian-antes-de-que-venza-el-plazo-para-funcionarios-con-aspiraciones-electorales/",
+      "fecha": "Thu, 22 Oct 2026 01:30:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los cambios en las gobernaciones departamentales ocurren a pocos días de que venza el plazo para que funcionarios con aspiraciones electorales renuncien a sus cargos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La pregunta que enojó a Trump y por la que arremetió contra dos periodistas tras cuestionarlo sobre Rusia",
+      "link": "https://www.prensalibre.com/internacional/la-pregunta-que-enojo-a-trump-y-por-la-que-arremetio-contra-dos-periodistas-tras-cuestionarlo-sobre-rusia/",
+      "fecha": "Thu, 22 Oct 2026 01:15:02 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente de Estados Unidos, Donald Trump, insultó públicamente a dos periodistas que le cuestionaron sobre la liberación de Stephen Hubbard."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bukele anuncia un operativo en Haití: qué se sabe del rescate de cuatro militares salvadoreños",
+      "link": "https://www.prensalibre.com/internacional/bukele-anuncia-un-operativo-en-haiti-que-se-sabe-del-rescate-de-cuatro-militares-salvadorenos/",
+      "fecha": "Thu, 22 Oct 2026 00:59:17 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Gobierno de Haití declaró prioridad absoluta el rescate de cuatro militares salvadoreños secuestrados, mientras Bukele anunció una operación para liberarlos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cámaras corporales para la PNC: la promesa del 2024 que vuelve a plantearse tras el crimen de Solórzano Foppa",
+      "link": "https://www.prensalibre.com/guatemala/justicia/camaras-corporales-para-la-pnc-la-promesa-del-2024-que-vuelve-a-plantearse-tras-el-crimen-de-solorzano-foppa/",
+      "fecha": "Thu, 22 Oct 2026 00:30:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La PNC anunció cámaras corporales en el 2024, pero aún no concreta su implementación. Tras el crimen contra Solórzano Foppa, retoma el proyecto y plantea una inversión millonaria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Erick Von Detten?: exactor de Disney es acusado por fraude y abuso financiero a adultos mayores",
+      "link": "https://www.prensalibre.com/vida/escenario/quien-es-erick-von-detten-exactor-de-disney-es-acusado-por-fraude-y-abuso-financiero-a-adultos-mayores/",
+      "fecha": "Thu, 22 Oct 2026 00:21:47 +0000",
+      "categoria": "Escenario",
+      "resumen": "Erik von Detten, exestrella de Disney, enfrenta una demanda por fraude millonario a adultos mayores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027: MEM solicita Q437 millones y diputados cuestionan baja ejecución",
+      "link": "https://www.prensalibre.com/economia/presupuesto-2027-mem-solicita-q437-millones-y-diputados-cuestionan-baja-ejecucion/",
+      "fecha": "Thu, 22 Oct 2026 00:06:10 +0000",
+      "categoria": "Economía",
+      "resumen": "El cierre técnico del campo petrolero Xan absorberá más de la mitad del presupuesto solicitado por el MEM para el 2027, con alrededor de Q252 millones, mientras que diputados cuestionan baja ejecución de los recursos asignados durante este año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los barriletes también se elevan en Mixco",
+      "link": "https://www.prensalibre.com/vida/escenario/los-barriletes-tambien-se-elevan-en-mixco/",
+      "fecha": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "En el municipio cercano a la ciudad capital también se celebra la tradición de elevar papalotes desde hace 14 años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué Best PC Ecuador no participará en la Vuelta a Guatemala 2026? Una baja de última hora",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/por-que-best-pc-ecuador-no-participara-en-la-vuelta-a-guatemala-2026-una-baja-de-ultima-hora/",
+      "fecha": "Wed, 21 Oct 2026 23:53:42 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La 65.ª edición de la Vuelta Ciclística a Guatemala pierde a uno de sus equipos internacionales tras confirmarse la ausencia de Best PC Ecuador a pocas horas del arranque de la competencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Nos están siguiendo y nos amenazaron&#8221;: Abogado Édgar Ortiz denuncia intimidaciones contra integrantes de Poder Ciudadano",
+      "link": "https://www.prensalibre.com/guatemala/justicia/nos-estan-siguiendo-y-nos-amenazaron-abogado-edgar-ortiz-denuncia-intimidaciones-contra-integrantes-de-poder-ciudadano-breaking/",
+      "fecha": "Wed, 21 Oct 2026 23:04:40 +0000",
+      "categoria": "Justicia",
+      "resumen": "El abogado Édgar Ortiz Romero denunció amenazas y seguimientos en su contra. Aseguró que presentó una denuncia en septiembre y que, por seguridad, cancelaron el Congreso Ciudadano del 31 de octubre."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Salario mínimo 2027 en Guatemala: Arévalo podría fijar el nuevo aumento por decisión presidencial",
@@ -20,6 +140,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "¿Por qué un impuesto en California podría obligar a Mark Zuckerberg a mudarse y vender acciones de Meta?",
+      "link": "https://www.prensalibre.com/internacional/por-que-un-impuesto-en-california-podria-obligar-a-mark-zuckerberg-a-mudarse-y-vender-acciones-de-meta/",
+      "fecha": "Wed, 21 Oct 2026 22:37:55 +0000",
+      "categoria": "Internacional",
+      "resumen": "Mark Zuckerberg podría dejar California ante un nuevo impuesto que pondría en riesgo su participación accionaria y el control que mantiene sobre Meta."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "¿Dónde podría Guatemala golpear a Canadá? Las debilidades que debe aprovechar la Azul y Blanco",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/donde-podria-guatemala-golpear-a-canada-las-debilidades-que-debe-aprovechar-la-azul-y-blanco/",
       "fecha": "Wed, 21 Oct 2026 22:36:19 +0000",
@@ -28,7 +156,15 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "¿Qué pasó con la energía eléctrica en Xela? EEMQ explica por qué vecinos estuvieron casi seis horas sin servicio",
+      "titulo": "Nueva York publica nuevos documentos del 11-S: qué revelan sobre el aire tóxico en la Zona Cero tras el derrumbe de las Torres Gemelas",
+      "link": "https://www.prensalibre.com/internacional/nueva-york-publica-nuevos-documentos-del-11-s-que-revelan-sobre-el-aire-toxico-en-la-zona-cero-tras-el-derrumbe-de-las-torres-gemelas/",
+      "fecha": "Wed, 21 Oct 2026 22:36:11 +0000",
+      "categoria": "Internacional",
+      "resumen": "La Alcaldía de Nueva York divulgó nuevos archivos sobre las consecuencias de los atentados del 2001. Los registros permiten conocer advertencias internas y decisiones tomadas mientras miles de personas regresaban al Bajo Manhattan."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué pasó con la energía eléctrica en Xela? EEMQ explica por qué vecinos estuvieron sin servicio este 21 de octubre",
       "link": "https://www.prensalibre.com/guatemala/comunitario/que-paso-con-la-energia-electrica-en-xela-eemq-explica-por-que-vecinos-estuvieron-casi-seis-horas-sin-servicio-breaking/",
       "fecha": "Wed, 21 Oct 2026 22:28:53 +0000",
       "categoria": "Comunitario",
@@ -57,6 +193,14 @@
       "fecha": "Wed, 21 Oct 2026 22:10:08 +0000",
       "categoria": "Migrantes",
       "resumen": "Informes de EE. UU. comparan la criminalidad en Guatemala y Centroamérica con la de sus ciudades y podrían dificultar el acceso al asilo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arraigos en Guatemala: lo que debe saber si resolvió su caso judicial, pero no pudo viajar al extranjero",
+      "link": "https://www.prensalibre.com/guatemala/arraigos-en-guatemala-lo-que-debe-saber-si-resolvio-su-caso-judicial-pero-no-pudo-viajar-al-extranjero/",
+      "fecha": "Wed, 21 Oct 2026 22:07:30 +0000",
+      "categoria": "Guatemala",
+      "resumen": "¿Viajará al extranjero durante las vacaciones de fin de año? Antes de salir de Guatemala, es importante verificar si tiene un arraigo vigente. El Instituto Guatemalteco de Migración (IGM) ofrece una consulta gratuita en línea."
     },
     {
       "fuente": "Prensa Libre",
@@ -289,6 +433,14 @@
       "fecha": "Wed, 21 Oct 2026 15:15:59 +0000",
       "categoria": "Internacional",
       "resumen": "El supertifón Champi alcanzó una fuerza equivalente a la categoría 5, con vientos máximos sostenidos de 298 km/h, por lo que se convirtió en la tormenta más intensa del 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así fue el regreso del papa León XIV a la plaza de San Pedro: qué dijo ante los fieles y cómo fue recibido",
+      "link": "https://www.prensalibre.com/internacional/asi-fue-el-regreso-del-papa-leon-xiv-a-la-plaza-de-san-pedro-que-dijo-ante-los-fieles-y-como-fue-recibido/",
+      "fecha": "Wed, 21 Oct 2026 15:00:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "El papa León XIV regresó a la plaza de San Pedro entre aplausos y muestras de cariño."
     },
     {
       "fuente": "Prensa Libre",
@@ -649,158 +801,6 @@
       "fecha": "Tue, 20 Oct 2026 20:28:01 +0000",
       "categoria": "Justicia",
       "resumen": "Gabriel García Luna afirmó que el MP buscará a quienes financian, organizan y cobran por el tráfico de migrantes. Sus declaraciones se produjeron tras la sentencia contra un implicado en el caso de Texas que dejó 53 fallecidos y 11 heridos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Antigua toma distancia en el Apertura 2026, mientras Malacateco y Comunicaciones luchan en el fondo",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/antigua-toma-distancia-en-el-apertura-2026-mientras-malacateco-y-comunicaciones-luchan-en-el-fondo-breaking/",
-      "fecha": "Tue, 20 Oct 2026 19:37:40 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Antigua manda con 29 puntos, mientras Malacateco y Comunicaciones se juegan puntos vitales para alejarse del fondo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos mujeres que viajaban en motocicleta mueren en accidente en Puerto Barrios, Izabal",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-mujeres-que-viajaban-en-motocicleta-mueren-en-accidente-en-puerto-barrios-izabal-breaking/",
-      "fecha": "Tue, 20 Oct 2026 19:31:36 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Dos mujeres, entre ellas una menor de edad, murieron este martes en un accidente de tránsito en Puerto Barrios, Izabal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rigoberto Miranda Orozco recibe condena de 30 años por muerte de 53 migrantes en un camión en Texas",
-      "link": "https://www.prensalibre.com/guatemala/migrantes/rigoberto-miranda-orozco-recibe-condena-de-30-anos-por-muerte-de-53-migrantes-en-un-camion-en-texas-breaking/",
-      "fecha": "Tue, 20 Oct 2026 19:24:15 +0000",
-      "categoria": "Migrantes",
-      "resumen": "Rigoberto Miranda Orozco fue condenado a 30 años de prisión en EE. UU. por su participación en una red de tráfico de migrantes vinculada con la muerte de 53 personas en Texas, entre ellas 21 guatemaltecos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo activar las alertas de sismos de Google? Paso a paso para habilitar esta herramienta de prevención",
-      "link": "https://www.prensalibre.com/vida/tecnologia/como-activar-las-alertas-de-sismos-de-google-paso-a-paso-para-habilitar-esta-herramienta-de-prevencion/",
-      "fecha": "Tue, 20 Oct 2026 19:14:27 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Guatemala ya cuenta con una herramienta complementaria de prevención de Google que alerta a los usuarios de Android sobre posibles sismos. Conoce cómo activarla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Regresará Cristiano Ronaldo con Portugal? La sanción que recibió y la incógnita sobre su futuro",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/regresara-cristiano-ronaldo-con-portugal-la-sancion-que-recibio-y-la-incognita-sobre-su-futuro-breaking/",
-      "fecha": "Tue, 20 Oct 2026 18:35:07 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El delantero cumplirá el castigo antes de los partidos de noviembre, pero su presencia en la próxima convocatoria dependerá de la decisión de Jorge Jesus."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Barcelona vs. PSG: Rodri es la gran sorpresa en el once para la Champions League",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-barcelona-vs-psg-rodri-es-la-gran-sorpresa-en-el-once-para-la-champions-league-breaking/",
-      "fecha": "Tue, 20 Oct 2026 18:22:39 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Las bajas obligan al técnico azulgrana a mover sus piezas para el duelo de la Liga de Campeones de Europa, mientras Luis Enrique apuesta por Lucas Hernández para intentar frenar a Lamine Yamal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asueto del 1 de noviembre del 2026: qué establece la ley sobre el traslado del descanso en Guatemala",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/asueto-del-1-de-noviembre-del-2026-que-establece-la-ley-sobre-el-traslado-del-descanso-en-guatemala/",
-      "fecha": "Tue, 20 Oct 2026 18:11:07 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Noviembre comienza con el asueto del Día de Todos los Santos, una fecha para honrar la memoria de los seres queridos fallecidos. ¿Se trasladará el descanso en Guatemala?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Análisis: los separatistas de Alberta sufren un duro revés pero la tensión con Canadá continuará",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/analisis-los-separatistas-de-alberta-sufren-un-duro-reves-pero-la-tension-con-canada-continuara/",
-      "fecha": "Tue, 20 Oct 2026 18:02:40 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los líderes del movimiento independentista prometen seguir adelante, pero el margen de la derrota podría dificultarlo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemalteca de 52 años muere apuñalada en España: testigos señalan a una expareja",
-      "link": "https://www.prensalibre.com/guatemala/migrantes/guatemalteca-de-52-anos-muere-apunalada-en-espana-testigos-senalan-a-una-expareja/",
-      "fecha": "Tue, 20 Oct 2026 17:27:26 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Policía española busca al responsable de la muerte de una guatemalteca de 52 años en Madrid. Testigos apuntan a una expareja de la víctima, pero las autoridades aún no confirman esa versión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Somos más americanos&#8221;: el origen del &#8220;himno&#8221; de los migrantes mexicanos en EE.UU. que vuelve a resonar por una reciente polémica",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/somos-mas-americanos-el-origen-del-himno-de-los-migrantes-mexicanos-en-ee-uu-que-vuelve-a-resonar-por-una-reciente-polemica/",
-      "fecha": "Tue, 20 Oct 2026 17:04:42 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El conjunto mexicano Los Tigres del Norte se presentó en el famoso espacio Tiny Desk de la cadena de radio pública NPR. A la actuación le precedió una polémica presentación de uno de los periodistas de la emisora."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Importación de materiales de construcción en Guatemala crece hasta 141.1%",
-      "link": "https://www.prensalibre.com/economia/importacion-de-materiales-de-construccion-en-guatemala-crece-hasta-141-1/",
-      "fecha": "Tue, 20 Oct 2026 17:02:46 +0000",
-      "categoria": "Economía",
-      "resumen": "Los materiales importados para la construcción en Guatemala muestran un incremento sustancial del 27.1% en el primer trimestre del año, asociado con la mejora y las perspectivas de la actividad para el 2026 y el 2027. El clínker importado es el principal producto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinato de Juan Francisco Solórzano Foppa: la OEA exige esclarecer el crimen y combatir la impunidad",
-      "link": "https://www.prensalibre.com/guatemala/politica/asesinato-de-juan-francisco-solorzano-foppa-la-oea-exige-esclarecer-el-crimen-y-combatir-la-impunidad-breaking/",
-      "fecha": "Tue, 20 Oct 2026 16:41:34 +0000",
-      "categoria": "Política",
-      "resumen": "La Misión de la OEA en Guatemala exigió una investigación independiente por el asesinato de Juan Francisco Solórzano Foppa y pidió a las autoridades una respuesta institucional para combatir la impunidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Carlos &#8220;Pollito&#8221; Morales Chacón: 45 años contando las historias de la Vuelta a Guatemala",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/carlos-pollito-morales-chacon-45-anos-contando-las-historias-de-la-vuelta-a-guatemala/",
-      "fecha": "Tue, 20 Oct 2026 16:38:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Con su libreta, su cámara y el ingenio de El Pelotón, el periodista ha acompañado a generaciones de ciclistas y sigue en carrera en la edición 65 de la máxima fiesta del pedal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vinícius reaparece en la convocatoria del Real Madrid para la Liga de Campeones y Mourinho confirma su titularidad",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/vinicius-reaparece-en-la-convocatoria-del-real-madrid-para-la-liga-de-campeones-y-mourinho-confirma-su-titularidad-breaking/",
-      "fecha": "Tue, 20 Oct 2026 16:04:11 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El brasileño vuelve a escena en Europa tras su expulsión en LaLiga y tendrá una nueva oportunidad de liderar el ataque madridista."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo le está yendo a la economía estadounidense bajo la presidencia de Trump?",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-le-esta-yendo-a-la-economia-estadounidense-bajo-la-presidencia-de-trump/",
-      "fecha": "Tue, 20 Oct 2026 15:09:00 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Antes de las elecciones de mitad de mandato, Trump ha presumido del desempeño de la economía estadounidense. BBC Verify analiza los datos de inflación, empleo y crecimiento económico para evaluar si esas afirmaciones se sostienen."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Juan Francisco Solórzano Foppa: Los tres casos por los que fue condenado durante la gestión de Consuelo Porras",
-      "link": "https://www.prensalibre.com/guatemala/justicia/juan-francisco-solorzano-foppa-los-tres-casos-por-los-que-fue-condenado-durante-la-gestion-de-consuelo-porras/",
-      "fecha": "Tue, 20 Oct 2026 15:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Después de ocupar cargos en el Ministerio Público y dirigir la SAT, Solórzano Foppa enfrentó tres procesos judiciales que concluyeron en condenas. Una de las sentencias le impidió ejercer como abogado durante cinco años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Sombrerón: la leyenda de la serenata que puede convertirse en una obsesión",
-      "link": "https://www.prensalibre.com/vida/escenario/el-sombreron-la-leyenda-de-la-serenata-que-puede-convertirse-en-una-obsesion/",
-      "fecha": "Tue, 20 Oct 2026 14:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Primero se escucha una guitarra, después comienzan las visitas, y cuando la música deja de sonar afuera de la casa, quizá sea demasiado tarde."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Decomisan en Génova, Quetzaltenango, 168 paquetes de droga valorados en Q16 millones",
-      "link": "https://www.prensalibre.com/guatemala/justicia/decomisan-en-genova-quetzaltenango-168-paquetes-de-droga-valorados-en-q16-millones-breaking/",
-      "fecha": "Tue, 20 Oct 2026 13:27:00 +0000",
-      "categoria": "Justicia",
-      "resumen": "La Policía Nacional Civil captura a un hombre y decomisa más de cien paquetes de droga en Génova, Quetzaltenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala 2026: los ciclistas nacionales que buscan desafiar a los extranjeros",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-los-ciclistas-nacionales-que-buscan-desafiar-a-los-extranjeros-breaking/",
-      "fecha": "Tue, 20 Oct 2026 13:00:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Los equipos nacionales afinan su estrategia y confían en sus principales figuras para competir contra la legión extranjera en las exigentes etapas de la edición 65 de la Vuelta a Guatemala."
     },
     {
       "fuente": "Guatemala.com",
