@@ -1,14 +1,110 @@
 {
-  "actualizado": "2026-10-23T04:12:12.643Z",
+  "actualizado": "2026-10-23T09:50:45.885Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miles de libras para apoyar a familias de personas con discapacidad",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/miles-de-libras-para-apoyar-a-familias-de-personas-con-discapacidad/",
+      "fecha": "Fri, 23 Oct 2026 08:09:41 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Desarrollo en Movimiento pone en marcha la nueva edición de Manos al Rescate, una campaña que este año busca reunir 120 mil libras de alimentos para apoyar a personas con discapacidad y sus familias en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mercado de acciones tokenizadas crece 18 veces y supera los US$37 mil millones",
+      "link": "https://www.prensalibre.com/economia/mercado-de-acciones-tokenizadas-crece-18-veces-y-supera-los-us37-mil-millones/",
+      "fecha": "Fri, 23 Oct 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Mientras el mercado de criptomonedas muestra señales de estancamiento, las acciones tokenizadas ganan terreno en Wall Street, con un crecimiento de 18 veces en su volumen de negociación, según Dune Analytics."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Otro clavo para Gobernación",
+      "link": "https://www.prensalibre.com/opinion/caricatura/otro-clavo-para-gobernacion/",
+      "fecha": "Fri, 23 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La importancia del reglamento antilavado",
+      "link": "https://www.prensalibre.com/opinion/editorial/la-importancia-del-reglamento-antilavado/",
+      "fecha": "Fri, 23 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Más allá de coincidencias calendáricas, lo primordial es iniciar una nueva era de monitoreo de transacciones, para detectar montos sospechosos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las acciones violentas son, de hecho, criminales",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/las-acciones-violentas-son-de-hecho-criminales/",
+      "fecha": "Fri, 23 Oct 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Un crimen no solo implica sangre derramada. La violencia, repetida y admitida, puede volverse criminalidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La estrategia confrontativa de los republicanos pone en riesgo sus campañas y genera rechazo dentro de su propio partido",
+      "link": "https://www.prensalibre.com/internacional/la-estrategia-confrontativa-de-los-republicanos-pone-en-riesgo-sus-campanas-y-genera-rechazo-dentro-de-su-propio-partido/",
+      "fecha": "Fri, 23 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "La polémica por la campaña de Vivek Ramaswamy expone las divisiones republicanas y las dificultades de convertir la confrontación en una ventaja electoral."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Europa arde, ¿quién se beneficia del caos?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/europa-arde-quien-se-beneficia-del-caos/",
+      "fecha": "Fri, 23 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Las calles europeas están en llamas, mientras se libra otra batalla menos visible. El verdadero conflicto podría estar en quién gobernará Europa luego del caos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Matar para silenciar",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/matar-para-silenciar/",
+      "fecha": "Fri, 23 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El clamor ciudadano exige que los autores intelectuales del asesinato de Solórzano Foppa enfrenten a la justicia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién quería callar a Solórzano Foppa?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/quien-queria-callar-a-solorzano-foppa/",
+      "fecha": "Fri, 23 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "¿Lo mataron por lo que hizo como funcionario, por sus casos o por lo que publicaba?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La generación del posenfrentamiento",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-generacion-del-posenfrentamiento/",
+      "fecha": "Fri, 23 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Un nuevo ciclo de violencia amenaza extenderse en el país"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy viernes 23 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-viernes-23-de-octubre-de-2026/",
+      "fecha": "Fri, 23 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quiénes son los &#8220;ciudadanos palestinos de Israel&#8221; y por qué pueden tener la llave para desbancar a Netanyahu",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quienes-son-los-ciudadanos-palestinos-de-israel-y-por-que-pueden-tener-la-llave-para-desbancar-a-netanyahu/",
+      "fecha": "Fri, 23 Oct 2026 05:00:44 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El descontento ha sido tradicionalmente un factor que ha mermado la participación electoral de los árabes israelíes. Sin embargo, en estas elecciones existe un fuerte deseo de derrotar a la actual coalición gobernante de derecha."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Luis Lara Grojec, de Banco Industrial, es reconocido como Gerente del Año 2026 por la AGG",
       "link": "https://www.prensalibre.com/economia/luis-lara-grojec-de-banco-industrial-es-reconocido-como-gerente-del-ano-2026-por-la-agg/",
       "fecha": "Fri, 23 Oct 2026 02:55:51 +0000",
       "categoria": "Economía",
-      "resumen": "La Asociación de Gerentes de Guatemala (AGG) otorgó el máximo galardón Gerente del Año 2026 a Luis Lara Grojec, gerente general y director corporativo de Banco Industrial, durante la vigésima edición de este reconocimiento."
+      "resumen": "La Asociación de Gerentes de Guatemala (AGG) otorgó el máximo galardón Gerente del Año 2026 a Luis Lara Grojec, gerente general y director corporativo de Banco Industrial, durante la vigésima edición de este reconocimiento en la cual se premio a ejecutivos en seis categorías."
     },
     {
       "fuente": "Prensa Libre",
@@ -17,6 +113,14 @@
       "fecha": "Fri, 23 Oct 2026 02:49:01 +0000",
       "categoria": "Comunitario",
       "resumen": "Un agente de la PNC fue enviado a capacitación legal tras citar una disposición de Perú para justificar una solicitud de identificación en Guatemala. El caso generó cuestionamientos sobre la preparación policial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. acuerda la compra de 850 cazas F-35 en 10 años: el millonario negocio que aún debe aprobar el Congreso",
+      "link": "https://www.prensalibre.com/internacional/ee-uu-acuerda-la-compra-de-850-cazas-f-35-en-10-anos-el-millonario-negocio-que-aun-debe-aprobar-el-congreso/",
+      "fecha": "Fri, 23 Oct 2026 02:33:44 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Pentágono y Lockheed Martin anunciaron un acuerdo para producir cientos de aviones de combate F-35 durante la próxima década. El plan incluye inversiones multimillonarias, mantenimiento y suministro de repuestos."
     },
     {
       "fuente": "Prensa Libre",
@@ -161,6 +265,14 @@
       "fecha": "Thu, 22 Oct 2026 22:21:06 +0000",
       "categoria": "Justicia",
       "resumen": "Los hermanos Choc Toz dieron un ultimátum al Estado de Guatemala para que les ofrezca disculpas públicas y un resarcimiento por haber sido capturados como sospechosos de la muerte de Juan Francisco Solórzano Foppa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Institución que brilla entre las empresas con mejor reputación del país",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/institucion-que-brilla-entre-las-empresas-con-mejor-reputacion-del-pais/",
+      "fecha": "Thu, 22 Oct 2026 22:18:00 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "El Instituto de Recreación de los Trabajadores de la Empresa Privada de Guatemala (IRTRA) y su presidente, don Ricardo Castillo Sinibaldi, recientemente han recibido importantes reconocimientos que reflejan la confianza que inspiran, producto del compromiso con la excelencia en el servicio, la administración de los recursos y la visión para ejecutar los planes."
     },
     {
       "fuente": "Prensa Libre",
@@ -705,118 +817,6 @@
       "fecha": "Wed, 21 Oct 2026 22:36:19 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Los dirigidos por Luis Fernando Tena deben analizar las fortalezas y detectar las debilidades de Canadá para aprovecharlas durante la serie, que comenzará el 13 de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nueva York publica nuevos documentos del 11-S: qué revelan sobre el aire tóxico en la Zona Cero tras el derrumbe de las Torres Gemelas",
-      "link": "https://www.prensalibre.com/internacional/nueva-york-publica-nuevos-documentos-del-11-s-que-revelan-sobre-el-aire-toxico-en-la-zona-cero-tras-el-derrumbe-de-las-torres-gemelas/",
-      "fecha": "Wed, 21 Oct 2026 22:36:11 +0000",
-      "categoria": "Internacional",
-      "resumen": "La Alcaldía de Nueva York divulgó nuevos archivos sobre las consecuencias de los atentados del 2001. Los registros permiten conocer advertencias internas y decisiones tomadas mientras miles de personas regresaban al Bajo Manhattan."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué pasó con la energía eléctrica en Xela? EEMQ explica por qué vecinos estuvieron sin servicio este 21 de octubre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/que-paso-con-la-energia-electrica-en-xela-eemq-explica-por-que-vecinos-estuvieron-casi-seis-horas-sin-servicio-breaking/",
-      "fecha": "Wed, 21 Oct 2026 22:28:53 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Vecinos de Xela se quejaron por la falta de energía eléctrica durante casi seis horas. La EEMQ explicó las razones de la prolongada interrupción y aseguró que el servicio ya fue restablecido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El papa León XIV no necesitará más tratamientos tras la cirugía en la que le extirparon un tumor canceroso",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-papa-leon-xiv-no-necesitara-mas-tratamientos-tras-la-cirugia-en-la-que-le-extirparon-un-tumor-canceroso/",
-      "fecha": "Wed, 21 Oct 2026 22:16:27 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los resultados de las pruebas confirmaron su diagnóstico de adenocarcinoma de pulmón localizado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Está bien que Vinícius esté triste&#8221;: el mensaje de Mbappé tras la victoria del Real Madrid",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/esta-bien-que-vinicius-este-triste-el-mensaje-de-mbappe-tras-la-victoria-del-real-madrid/",
-      "fecha": "Wed, 21 Oct 2026 22:11:07 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Mbappé arropa a Vinícius después de su sustitución ante el Leipzig y afirma que su frustración demuestra hambre de triunfos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. compara la violencia en Centroamérica con la de sus ciudades: qué implica para quienes piden asilo",
-      "link": "https://www.prensalibre.com/guatemala/migrantes/ee-uu-compara-la-violencia-en-centroamerica-con-la-de-sus-ciudades-que-implica-para-quienes-piden-asilo/",
-      "fecha": "Wed, 21 Oct 2026 22:10:08 +0000",
-      "categoria": "Migrantes",
-      "resumen": "Informes de EE. UU. comparan la criminalidad en Guatemala y Centroamérica con la de sus ciudades y podrían dificultar el acceso al asilo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arraigos en Guatemala: lo que debe saber si resolvió su caso judicial, pero no pudo viajar al extranjero",
-      "link": "https://www.prensalibre.com/guatemala/arraigos-en-guatemala-lo-que-debe-saber-si-resolvio-su-caso-judicial-pero-no-pudo-viajar-al-extranjero/",
-      "fecha": "Wed, 21 Oct 2026 22:07:30 +0000",
-      "categoria": "Guatemala",
-      "resumen": "¿Viajará al extranjero durante las vacaciones de fin de año? Antes de salir de Guatemala, es importante verificar si tiene un arraigo vigente. El Instituto Guatemalteco de Migración (IGM) ofrece una consulta gratuita en línea."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Julia Stiles rindió tributo a Heath Ledger: así recordó a su coprotagonista en “10 cosas que odio de ti”",
-      "link": "https://www.prensalibre.com/vida/escenario/julia-stiles-rindio-tributo-a-heath-ledger-asi-recordo-a-su-coprotagonista-en-10-cosas-que-odio-de-ti/",
-      "fecha": "Wed, 21 Oct 2026 22:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La actriz que participa en el concurso televisivo Dancing with the Stars invitó a cinco actores que intervinieron en la cinta para recordar a su compañero, fallecido en el 2008."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sitios web de todo el mundo quedan desactivados tras detectarse una falla de seguridad crítica en internet",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/sitios-web-de-todo-el-mundo-quedan-desactivados-tras-detectarse-una-falla-de-seguridad-critica-en-internet/",
-      "fecha": "Wed, 21 Oct 2026 21:30:34 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Una grieta en el lenguaje de programación PHP, que es ampliamente utilizado en internet, ha sido descrita como las más importantes jamás descubiertas por la inteligencia artificial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Champions League: cinco equipos mantienen paso perfecto y así marcha la tabla de posiciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/champions-league-cinco-equipos-mantienen-paso-perfecto-y-asi-marcha-la-tabla-de-posiciones/",
-      "fecha": "Wed, 21 Oct 2026 21:10:41 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La Champions League 2026-2027 comienza a tomar forma tras tres jornadas disputadas, con cinco equipos que mantienen el paso perfecto y se perfilan como candidatos para avanzar directamente a los octavos de final."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Recolectores de basura denuncian extorsiones de Q25 mil, amenazas y secuestros exprés que ponen en riesgo el servicio",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/recolectores-de-basura-denuncian-extorsiones-de-q25-mil-amenazas-y-secuestros-expres-que-ponen-en-riesgo-el-servicio-breaking/",
-      "fecha": "Wed, 21 Oct 2026 21:09:45 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Recolectores de basura denuncian un aumento de las extorsiones, amenazas, ataques armados y secuestros exprés, situación que podría provocar la paralización del servicio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Videos: así fueron los goles del triunfo del Real Madrid sobre el RB Leipzig en la Champions League",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/videos-asi-fueron-los-goles-del-triunfo-del-real-madrid-sobre-el-rb-leipzig-en-la-champions-league/",
-      "fecha": "Wed, 21 Oct 2026 20:57:52 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Real Madrid mantiene su paso perfecto en la Liga de Campeones tras golear 4-1 al RB Leipzig y firmar su tercera victoria consecutiva en la fase de liga."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El reto de aumentar la fibra en los panes de consumo diario",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/el-reto-de-aumentar-la-fibra-en-los-panes-de-consumo-diario/",
-      "fecha": "Wed, 21 Oct 2026 20:53:32 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Más fibra y menos ingredientes, el reto de alcanzar una “calidad nutrimental óptima” a través del pan, un alimento considerado de consumo diario en muchos hogares."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rusia dice estar dispuesta a reanudar las conversaciones con Ucrania y EE.UU. para poner fin a la guerra",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/rusia-dice-estar-dispuesta-a-reanudar-las-conversaciones-con-ucrania-y-ee-uu-para-poner-fin-a-la-guerra/",
-      "fecha": "Wed, 21 Oct 2026 20:52:40 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El anuncio se produjo después de que el presidente ruso, Vladimir Putin, se reuniera con el enviado especial estadounidense en San Petersburgo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Netflix anuncia a U2 para el show de medio tiempo de la NFL y confirma su transmisión en directo",
-      "link": "https://www.prensalibre.com/vida/escenario/netflix-anuncia-a-u2-para-el-show-de-medio-tiempo-de-la-nfl-y-confirma-su-transmision-en-directo/",
-      "fecha": "Wed, 21 Oct 2026 20:45:29 +0000",
-      "categoria": "Escenario",
-      "resumen": "La plataforma de streaming transmitirá en directo un partido de la NFL que contará con la actuación de la banda irlandesa U2. Conozca los detalles para no perdérselo."
     },
     {
       "fuente": "Guatemala.com",
