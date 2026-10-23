@@ -1,7 +1,111 @@
 {
-  "actualizado": "2026-10-23T09:50:45.885Z",
+  "actualizado": "2026-10-23T14:48:35.998Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Iban a trabajar y terminaron en la guerra”: El engaño que llevó a centroamericanos a Rusia",
+      "link": "https://www.prensalibre.com/internacional/iban-a-trabajar-y-terminaron-en-la-guerra-el-engano-que-llevo-a-centroamericanos-a-rusia/",
+      "fecha": "Fri, 23 Oct 2026 14:30:21 +0000",
+      "categoria": "Internacional",
+      "resumen": "El drama del reclutamiento de centroamericanos responde a un mismo detonante: la vulnerabilidad económica de quienes buscan una salida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Premios Princesa de Asturias: Leonor entrega insignias a Lionel Messi y Patti Smith",
+      "link": "https://www.prensalibre.com/vida/escenario/premios-princesa-de-asturias-leonor-entrega-insignias-a-lionel-messi-y-patti-smith/",
+      "fecha": "Fri, 23 Oct 2026 14:29:19 +0000",
+      "categoria": "Escenario",
+      "resumen": "La princesa Leonor de España entregó este 23 de octubre las insignias a los galardonados de la 46 edición de los Premios Princesa de Asturias, entre ellos el futbolista Lionel Messi y la cantante Patti Smith , un acto que realizó en solitario por primera vez."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La Tatuana: la misteriosa mujer a quien buscaban por amor, fortuna y remedios",
+      "link": "https://www.prensalibre.com/vida/escenario/la-tatuana-la-misteriosa-mujer-a-quien-buscaban-por-amor-fortuna-y-remedios/",
+      "fecha": "Fri, 23 Oct 2026 14:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La buscaban a escondidas para recuperar un amor, atraer la suerte o encontrar respuestas, pero acudir a la Tatuana podía tener consecuencias inesperadas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clima en Guatemala: Insivumeh anuncia menos lluvias y temperaturas de hasta 35 °C este fin de semana",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-insivumeh-anuncia-menos-lluvias-y-temperaturas-de-hasta-35-c-este-fin-de-semana-breaking/",
+      "fecha": "Fri, 23 Oct 2026 13:49:31 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Guatemala tendrá un ambiente cálido y húmedo, con posibilidad de lloviznas o lluvias durante el fin de semana del 24 y 25 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuándo fue la última victoria del Real Madrid como visitante ante Barcelona?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cuando-fue-la-ultima-victoria-del-real-madrid-como-visitante-ante-barcelona/",
+      "fecha": "Fri, 23 Oct 2026 13:48:17 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Real Madrid afina los últimos detalles para visitar al Barcelona en un clásico que puede marcar el rumbo de ambos equipos en la lucha por los primeros puestos de LaLiga."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. acuerda la compra de 850 cazas F-35 en 10 años: el millonario negocio que aún debe aprobar el Congreso",
+      "link": "https://www.prensalibre.com/internacional/ee-uu-acuerda-la-compra-de-850-cazas-f-35-en-10-anos-el-millonario-negocio-que-aun-debe-aprobar-el-congreso/",
+      "fecha": "Fri, 23 Oct 2026 13:16:55 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Pentágono y Lockheed Martin anunciaron un acuerdo para producir cientos de aviones de combate F-35 durante la próxima década. El plan incluye inversiones multimillonarias, mantenimiento y suministro de repuestos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Meghan Markle dice que fue informada en 2018 de las &#8220;inquietantes acusaciones&#8221; contra su padre por presunta posesión de imágenes de abuso infantil",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/meghan-markle-dice-que-fue-informada-en-2018-de-las-inquietantes-acusaciones-contra-su-padre-por-presunta-posesion-de-imagenes-de-abuso-infantil/",
+      "fecha": "Fri, 23 Oct 2026 13:11:49 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La duquesa de Sussex emite un comunicado tras las informaciones que apuntan a que su padre, del que está distanciada, está siendo investigado por presunta posesión de imágenes de abuso sexual infantil en Filipinas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelta a Guatemala 2026: Más de 100 ciclistas van por la gloria en una edición que promete emociones",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-mas-de-100-ciclistas-van-por-la-gloria-en-una-edicion-que-promete-emociones-breaking/",
+      "fecha": "Fri, 23 Oct 2026 13:04:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La edición 65 del giro nacional comienza este viernes 23 de octubre con diez etapas, una corona vacante y una exigente cronoescalada en Sololá."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tras doble asesinato en Campo Marte, Cultura relanza concurso para instalar cámaras de vigilancia",
+      "link": "https://www.prensalibre.com/guatemala/justicia/tras-doble-asesinato-en-campo-marte-cultura-relanza-concurso-para-instalar-camaras-de-vigilancia/",
+      "fecha": "Fri, 23 Oct 2026 13:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Ministerio de Cultura  compró en el 2023 un circuito cerrado de cámaras de seguridad para Campo Marte. En julio del 2026 fracasó un concurso para instalar cámaras que se reactivó tras el doble asesinato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hallan más de mil pastillas de presunta cocaína ocultas en frascos en la zona 13",
+      "link": "https://www.prensalibre.com/guatemala/justicia/hallan-mas-de-mil-pastillas-de-presunta-cocaina-ocultas-en-frascos-en-la-zona-13-breaking/",
+      "fecha": "Fri, 23 Oct 2026 12:54:47 +0000",
+      "categoria": "Justicia",
+      "resumen": "Agentes antinarcóticos incautan tres frascos con más de mil pastillas de presunta cocaína en la zona 13."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "3 claves que explican por qué el duelo final entre Flávio Bolsonaro y Lula en Brasil es crucial para América Latina (y para Trump en EE.UU.)",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/3-claves-que-explican-por-que-el-duelo-final-entre-flavio-bolsonaro-y-lula-en-brasil-es-crucial-para-america-latina-y-para-trump-en-ee-uu/",
+      "fecha": "Fri, 23 Oct 2026 12:18:17 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La segunda vuelta que disputarán el domingo el senador derechista y el presidente de izquierda puede tener consecuencias en geopolítica, seguridad o incluso el medioambiente de la región, según expertos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "SAT solicitará revisar meta de recaudación del 2026 por exoneración de impuestos a combustibles",
+      "link": "https://www.prensalibre.com/economia/sat-solicitara-revisar-meta-de-recaudacion-del-2026-por-exoneracion-de-impuestos-a-combustibles/",
+      "fecha": "Fri, 23 Oct 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La SAT podría solicitar al Ministerio de Finanzas una revisión de la meta de recaudación tributaria del 2026, ante una reducción estimada inicialmente en Q3 mil 400 millones en los ingresos fiscales por la exoneración de impuestos a las gasolinas y el diésel."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Me avergüenza trabajar en una empresa que impulsa la IA con fines militares&#8221;: los empleados de Google que renuncian por los acuerdos con el ejército de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/me-averguenza-trabajar-en-una-empresa-que-impulsa-la-ia-con-fines-militares-los-empleados-de-google-que-renuncian-por-los-acuerdos-con-el-ejercito-de-ee-uu/",
+      "fecha": "Fri, 23 Oct 2026 10:36:02 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La BBC entrevistó a varios empleados actuales y antiguos de Google DeepMind que han dejado sus puestos por su rechazo a cómo la compañía impulsa el uso de sus productos de IA en contextos bélicos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Miles de libras para apoyar a familias de personas con discapacidad",
@@ -113,14 +217,6 @@
       "fecha": "Fri, 23 Oct 2026 02:49:01 +0000",
       "categoria": "Comunitario",
       "resumen": "Un agente de la PNC fue enviado a capacitación legal tras citar una disposición de Perú para justificar una solicitud de identificación en Guatemala. El caso generó cuestionamientos sobre la preparación policial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. acuerda la compra de 850 cazas F-35 en 10 años: el millonario negocio que aún debe aprobar el Congreso",
-      "link": "https://www.prensalibre.com/internacional/ee-uu-acuerda-la-compra-de-850-cazas-f-35-en-10-anos-el-millonario-negocio-que-aun-debe-aprobar-el-congreso/",
-      "fecha": "Fri, 23 Oct 2026 02:33:44 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Pentágono y Lockheed Martin anunciaron un acuerdo para producir cientos de aviones de combate F-35 durante la próxima década. El plan incluye inversiones multimillonarias, mantenimiento y suministro de repuestos."
     },
     {
       "fuente": "Prensa Libre",
@@ -721,102 +817,6 @@
       "fecha": "Thu, 22 Oct 2026 01:30:00 +0000",
       "categoria": "Guatemala",
       "resumen": "Los cambios en las gobernaciones departamentales ocurren a pocos días de que venza el plazo para que funcionarios con aspiraciones electorales renuncien a sus cargos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La pregunta que enojó a Trump y por la que arremetió contra dos periodistas tras cuestionarlo sobre Rusia",
-      "link": "https://www.prensalibre.com/internacional/la-pregunta-que-enojo-a-trump-y-por-la-que-arremetio-contra-dos-periodistas-tras-cuestionarlo-sobre-rusia/",
-      "fecha": "Thu, 22 Oct 2026 01:15:02 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente de Estados Unidos, Donald Trump, insultó públicamente a dos periodistas que le cuestionaron sobre la liberación de Stephen Hubbard."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bukele anuncia un operativo en Haití: qué se sabe del rescate de cuatro militares salvadoreños",
-      "link": "https://www.prensalibre.com/internacional/bukele-anuncia-un-operativo-en-haiti-que-se-sabe-del-rescate-de-cuatro-militares-salvadorenos/",
-      "fecha": "Thu, 22 Oct 2026 00:59:17 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Gobierno de Haití declaró prioridad absoluta el rescate de cuatro militares salvadoreños secuestrados, mientras Bukele anunció una operación para liberarlos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cámaras corporales para la PNC: la promesa del 2024 que vuelve a plantearse tras el crimen de Solórzano Foppa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/camaras-corporales-para-la-pnc-la-promesa-del-2024-que-vuelve-a-plantearse-tras-el-crimen-de-solorzano-foppa/",
-      "fecha": "Thu, 22 Oct 2026 00:30:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La PNC anunció cámaras corporales en el 2024, pero aún no concreta su implementación. Tras el crimen contra Solórzano Foppa, retoma el proyecto y plantea una inversión millonaria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Erick Von Detten?: exactor de Disney es acusado por fraude y abuso financiero a adultos mayores",
-      "link": "https://www.prensalibre.com/vida/escenario/quien-es-erick-von-detten-exactor-de-disney-es-acusado-por-fraude-y-abuso-financiero-a-adultos-mayores/",
-      "fecha": "Thu, 22 Oct 2026 00:21:47 +0000",
-      "categoria": "Escenario",
-      "resumen": "Erik von Detten, exestrella de Disney, enfrenta una demanda por fraude millonario a adultos mayores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto 2027: MEM solicita Q437 millones y diputados cuestionan baja ejecución",
-      "link": "https://www.prensalibre.com/economia/presupuesto-2027-mem-solicita-q437-millones-y-diputados-cuestionan-baja-ejecucion/",
-      "fecha": "Thu, 22 Oct 2026 00:06:10 +0000",
-      "categoria": "Economía",
-      "resumen": "El cierre técnico del campo petrolero Xan absorberá más de la mitad del presupuesto solicitado por el MEM para el 2027, con alrededor de Q252 millones, mientras que diputados cuestionan baja ejecución de los recursos asignados durante este año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los barriletes también se elevan en Mixco",
-      "link": "https://www.prensalibre.com/vida/escenario/los-barriletes-tambien-se-elevan-en-mixco/",
-      "fecha": "Thu, 22 Oct 2026 00:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "En el municipio cercano a la ciudad capital también se celebra la tradición de elevar papalotes desde hace 14 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Best PC Ecuador no participará en la Vuelta a Guatemala 2026? Una baja de última hora",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/por-que-best-pc-ecuador-no-participara-en-la-vuelta-a-guatemala-2026-una-baja-de-ultima-hora/",
-      "fecha": "Wed, 21 Oct 2026 23:53:42 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La 65.ª edición de la Vuelta Ciclística a Guatemala pierde a uno de sus equipos internacionales tras confirmarse la ausencia de Best PC Ecuador a pocas horas del arranque de la competencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Nos están siguiendo y nos amenazaron&#8221;: Abogado Édgar Ortiz denuncia intimidaciones contra integrantes de Poder Ciudadano",
-      "link": "https://www.prensalibre.com/guatemala/justicia/nos-estan-siguiendo-y-nos-amenazaron-abogado-edgar-ortiz-denuncia-intimidaciones-contra-integrantes-de-poder-ciudadano-breaking/",
-      "fecha": "Wed, 21 Oct 2026 23:04:40 +0000",
-      "categoria": "Justicia",
-      "resumen": "El abogado Édgar Ortiz Romero denunció amenazas y seguimientos en su contra. Aseguró que presentó una denuncia en septiembre y que, por seguridad, cancelaron el Congreso Ciudadano del 31 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Salario mínimo 2027 en Guatemala: Arévalo podría fijar el nuevo aumento por decisión presidencial",
-      "link": "https://www.prensalibre.com/economia/salario-minimo-2027-en-guatemala-arevalo-podria-fijar-el-nuevo-aumento-por-decision-presidencial/",
-      "fecha": "Wed, 21 Oct 2026 22:45:52 +0000",
-      "categoria": "Economía",
-      "resumen": "Todo apunta a que el salario mínimo para el 2027 será fijado nuevamente mediante un acuerdo gubernativo emitido por el presidente de la República, mientras la Comisión Nacional del Salario (CNS) espera conocer las siguientes etapas para concluir el proceso de diálogo tripartito, según una fuente oficial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Municipal empata ante Mixco y deja escapar la oportunidad de alcanzar a Antigua GFC",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/municipal-empata-ante-mixco-y-deja-escapar-la-oportunidad-de-alcanzar-a-antigua-gfc-breaking/",
-      "fecha": "Wed, 21 Oct 2026 22:41:18 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Deportivo Mixco y Municipal igualan 0-0 en el duelo reprogramado de la jornada 12 del Torneo Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué un impuesto en California podría obligar a Mark Zuckerberg a mudarse y vender acciones de Meta?",
-      "link": "https://www.prensalibre.com/internacional/por-que-un-impuesto-en-california-podria-obligar-a-mark-zuckerberg-a-mudarse-y-vender-acciones-de-meta/",
-      "fecha": "Wed, 21 Oct 2026 22:37:55 +0000",
-      "categoria": "Internacional",
-      "resumen": "Mark Zuckerberg podría dejar California ante un nuevo impuesto que pondría en riesgo su participación accionaria y el control que mantiene sobre Meta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Dónde podría Guatemala golpear a Canadá? Las debilidades que debe aprovechar la Azul y Blanco",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/donde-podria-guatemala-golpear-a-canada-las-debilidades-que-debe-aprovechar-la-azul-y-blanco/",
-      "fecha": "Wed, 21 Oct 2026 22:36:19 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los dirigidos por Luis Fernando Tena deben analizar las fortalezas y detectar las debilidades de Canadá para aprovecharlas durante la serie, que comenzará el 13 de noviembre."
     },
     {
       "fuente": "Guatemala.com",
