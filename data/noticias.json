@@ -1,7 +1,135 @@
 {
-  "actualizado": "2026-10-23T14:48:35.998Z",
+  "actualizado": "2026-10-23T18:58:57.476Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Clima en Guatemala: Pronostican disminución de lluvias para el 24 y 25 de octubre 2026",
+      "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-24-y-25-octubre-2026.html",
+      "fecha": "Fri, 23 Oct 2026 18:26:23 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Este 24 y 25 de octubre 2026 estará marcado por una reducción de lluvias y altas temperaturas, según el pronóstico del clima en Guatemala. \nThe post Clima en Guatemala: Pronostican disminución de lluvias para el 24 y 25 de octubre 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué pasó con &#8220;Lady Gringa&#8221;? La extranjera señalada de agredir a empleados de una taquería",
+      "link": "https://www.prensalibre.com/internacional/que-paso-con-lady-gringa-la-extranjera-senalada-de-agredir-a-empleados-de-una-taqueria/",
+      "fecha": "Fri, 23 Oct 2026 18:01:19 +0000",
+      "categoria": "Internacional",
+      "resumen": "La estadounidense lanzó insultos y descalificaciones contra los empleados de una taquería y cuestionó en tono despectivo cuánto ganaban al año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Floridalma Roque: juez aplaza audiencia de Kevin Malouf y fija nueva fecha para 2027",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-floridalma-roque-juez-aplaza-audiencia-de-kevin-malouf-y-fija-nueva-fecha-para-2027-breaking/",
+      "fecha": "Fri, 23 Oct 2026 17:33:02 +0000",
+      "categoria": "Justicia",
+      "resumen": "Juez suspende audiencia del cirujano Kevin Malouf por excusa presentada por su abogado defensor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Francia investiga como &#8220;terrorismo&#8221; un tiroteo mortal cerca de París",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/francia-investiga-como-terrorismo-un-tiroteo-mortal-cerca-de-paris/",
+      "fecha": "Fri, 23 Oct 2026 16:59:35 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Una persona murió y cinco resultaron heridas, tres de ellas graves, en una serie de ataques, y el presunto autor de los disparos fue detenido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vincent Kompany sufre un colapso y el Bayern Múnich se pronuncia",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/vincent-kompany-sufre-un-colapso-y-el-bayern-munich-se-pronuncia/",
+      "fecha": "Fri, 23 Oct 2026 16:54:12 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Un inesperado episodio encendió las alarmas en el Bayern Múnich: Vincent Kompany fue hospitalizado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fuerza Regida, Bad Bunny, Karol G, Peso Pluma y Romeo Santos lideran los Billboard Latinos",
+      "link": "https://www.prensalibre.com/vida/escenario/fuerza-regida-bad-bunny-karol-g-peso-pluma-y-romeo-santos-lideran-los-billboard-latinos/",
+      "fecha": "Fri, 23 Oct 2026 16:40:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Los grandes galardones de la noche, los premios especiales y los ausentes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Solo piel y huesos&#8221;: la lucha por sobrevivir de dos gemelos recién nacidos en medio de la crisis de hambre en Yemen",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/solo-piel-y-huesos-la-lucha-por-sobrevivir-de-dos-gemelos-recien-nacidos-en-medio-de-la-crisis-de-hambre-en-yemen/",
+      "fecha": "Fri, 23 Oct 2026 16:36:54 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La familia de los hermanos Raghad y Raad tuvo que huir de su casa a pie debido a los combates entre las fuerzas progubernamentales y los hutíes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: así fue la caída que dejó a varios ciclistas sobre el asfalto en el arranque de la Vuelta a Guatemala",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/video-asi-fue-la-caida-que-dejo-a-varios-ciclistas-sobre-el-asfalto-en-el-arranque-de-la-vuelta-a-guatemala/",
+      "fecha": "Fri, 23 Oct 2026 16:26:11 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La 65 edición de la Vuelta a Guatemala arranca con tensión tras una aparatosa caída que involucra a varios ciclistas durante los primeros kilómetros de competencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De las críticas de Trump a la respuesta de LeBron James: Lo ocurrido durante el himno de EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/de-las-criticas-de-trump-a-la-respuesta-de-lebron-james-lo-ocurrido-durante-el-himno-de-ee-uu/",
+      "fecha": "Fri, 23 Oct 2026 16:21:23 +0000",
+      "categoria": "Internacional",
+      "resumen": "Donald Trump ha acusado a LeBron James de ser poco inteligente o incluso racista y ha aprovechado para decir que considera mejor jugador a Michael Jordan."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿A qué hora es la ceremonia del Balón de Oro 2026 en Guatemala? Estos son los principales candidatos",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/a-que-hora-es-la-ceremonia-del-balon-de-oro-2026-en-guatemala-estos-son-los-principales-candidatos/",
+      "fecha": "Fri, 23 Oct 2026 16:15:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Lamine Yamal, Kylian Mbappé y Harry Kane encabezan la lucha por el Balón de Oro 2026, cuyo ganador será revelado este lunes en una histórica ceremonia en Londres."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ruggero Pasquarelli y Michael Ronda confirman su amor por &#8220;Soy Luna Tour: El último show&#8221; y prometen entrega total en Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/ruggero-pasquarelli-y-michael-ronda-confirman-su-amor-por-soy-luna-tour-el-ultimo-show-y-prometen-entrega-total-en-guatemala/",
+      "fecha": "Fri, 23 Oct 2026 16:10:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El esperado regreso del elenco de “Soy Luna” a los escenarios promete emociones y la reciente gira en directo llegará a Guatemala con un espectáculo con recuerdos, historias y diversión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Receta de fiambre: un platillo de tradición guatemalteca",
+      "link": "https://www.prensalibre.com/vida/receta-de-fiambre-un-platillo-de-tradicion-guatemalteca-2/",
+      "fecha": "Fri, 23 Oct 2026 16:08:35 +0000",
+      "categoria": "Vida",
+      "resumen": "Este recetario reúne fiambre y torrejas para que cree sus propios momentos en la cocina, si es la primera vez que los prepara."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala presenta aviones adquiridos a EE. UU. para combatir incendios forestales y atender emergencias",
+      "link": "https://www.prensalibre.com/guatemala/politica/guatemala-presenta-aviones-adquiridos-a-ee-uu-para-combatir-incendios-forestales-y-atender-emergencias-breaking/",
+      "fecha": "Fri, 23 Oct 2026 15:28:24 +0000",
+      "categoria": "Política",
+      "resumen": "Guatemala refuerza su capacidad aérea con nuevos aviones para combatir incendios y atender desastres."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo calcular el aguinaldo en Guatemala: fórmula, ejemplos y fechas de pago en el 2026",
+      "link": "https://www.prensalibre.com/economia/como-calcular-el-aguinaldo-en-guatemala-formula-ejemplos-y-fechas-de-pago-en-el-2026/",
+      "fecha": "Fri, 23 Oct 2026 15:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El monto de esta prestación laboral puede variar según el tiempo trabajado y los cambios de salario durante el año. Conozca los aspectos que debe tomar en cuenta para determinar cuánto dinero recibirá y evitar errores en el cálculo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Vuelta Ciclística a Guatemala 2026: siga la primera etapa entre Guastatoya y Puerto Barrios",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-vuelta-ciclistica-a-guatemala-2026-siga-la-primera-etapa-entre-guastatoya-y-puerto-barrios/",
+      "fecha": "Fri, 23 Oct 2026 14:59:25 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "Con un trayecto de 215.4 kilómetros entre Guastatoya y Puerto Barrios, la primera etapa de la 65 Vuelta Ciclística a Guatemala marca el inicio de diez días de intensa competencia sobre las carreteras del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Premios Billboard Latinos 2026: Estos fueron los momentos más virales",
+      "link": "https://www.prensalibre.com/vida/escenario/premios-billboard-latinos-2026-estos-fueron-los-momentos-mas-virales/",
+      "fecha": "Fri, 23 Oct 2026 14:31:29 +0000",
+      "categoria": "Escenario",
+      "resumen": "El discurso de Rosalía, un homenaje a Juan Gabriel y el reconocimiento a la trayectoria de Cristian Castro formaron parte de la gala de la música en español."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "“Iban a trabajar y terminaron en la guerra”: El engaño que llevó a centroamericanos a Rusia",
@@ -699,126 +827,6 @@
       "resumen": "La iniciativa 6690 pretende intervenir la Confederación Deportiva Autónoma de Guatemala (CDAG) luego de señalamientos de corrupción, cuestionamientos sobre el uso de recursos públicos y denuncias relacionadas con la remodelación del Estadio Nacional Doroteo Guamuch Flores."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "El fracaso de la Ronda de Doha",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-fracaso-de-la-ronda-de-doha/",
-      "fecha": "Thu, 22 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Una preocupación importante es que los acuerdos preferenciales ya no tratan únicamente sobre comercio tradicional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy jueves 22 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-22-de-octubre-de-2026/",
-      "fecha": "Thu, 22 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala apuesta por atraer grandes eventos, pero necesita más hoteles y conectividad para competir",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/guatemala-apuesta-por-atraer-grandes-eventos-pero-necesita-mas-hoteles-y-conectividad-para-competir/",
-      "fecha": "Thu, 22 Oct 2026 06:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Los nuevos recintos abren oportunidades para atraer grandes eventos, pero el país necesita más hoteles, mejores conexiones y seguridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Entregan las primeras placas Restaurants from Spain",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/entregan-las-primeras-placas-restaurants-from-spain/",
-      "fecha": "Thu, 22 Oct 2026 05:30:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "La Oficina Económica y Comercial de la Embajada de España en Guatemala realizó la entrega de las primeras placas del programa Restaurants from Spain a El Pimentón, La Taberna de Juan, La Tasca Madrileña y El Rincón de Álex."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Corea del Norte publica fotos de Kim Jong-un: ¿por qué siguen surgiendo rumores sobre su supuesta muerte?",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/corea-del-norte-publica-fotos-de-kim-jong-un-por-que-siguen-surgiendo-rumores-sobre-su-supuesta-muerte/",
-      "fecha": "Thu, 22 Oct 2026 05:00:37 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los medios estatales de Corea del Norte divulgaron fotos del líder norcoreano con su hija tras la difusión de un rumor infundado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ultiman a Sergio Cardona, condenado por el asesinato del periodista Danilo López; PNC desconoce por qué estaba libre",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ultiman-a-sergio-cardona-condenado-por-el-asesinato-del-periodista-danilo-lopez-pnc-desconoce-por-que-estaba-libre-breaking/",
-      "fecha": "Thu, 22 Oct 2026 04:33:18 +0000",
-      "categoria": "Sucesos",
-      "resumen": "La PNC confirmó la muerte de Sergio Cardona, condenado a 30 años de prisión por el asesinato del periodista Danilo López, y dijo desconocer por qué estaba libre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cartaginés de Amarini Villatoro toma ventaja ante Olimpia en la semifinal de la Copa Centroamericana",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cartagines-de-amarini-villatoro-toma-ventaja-ante-olimpia-en-la-semifinal-de-la-copa-centroamericana-breaking/",
-      "fecha": "Thu, 22 Oct 2026 04:24:46 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El técnico guatemalteco Amarini Villatoro da el primer paso hacia otra final centroamericana, tras la victoria 1-0 del Cartaginés sobre Olimpia en la ida de las semifinales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Matrimonios por dinero y trámites migratorios irregulares: así operaba la red que organizaba bodas falsas en EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/matrimonios-por-dinero-y-tramites-migratorios-irregulares-asi-operaba-la-red-que-organizaba-bodas-falsas-en-ee-uu/",
-      "fecha": "Thu, 22 Oct 2026 03:32:50 +0000",
-      "categoria": "Internacional",
-      "resumen": "Autoridades federales desmantelaron una red de matrimonios fraudulentos en Massachusetts, Estados Unidos, que cobraba hasta US$40 mil por facilitar trámites migratorios irregulares."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Concejal de Retalhuleu sobrevive a ataque armado y resulta herido de bala en un brazo",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/concejal-de-retalhuleu-sobrevive-a-ataque-armado-y-resulta-herido-de-bala-en-un-brazo-breaking/",
-      "fecha": "Thu, 22 Oct 2026 02:53:01 +0000",
-      "categoria": "Sucesos",
-      "resumen": "El concejal segundo de Retalhuleu, José Arturo López Moreno, resultó herido de bala durante un ataque armado en la ruta RN-9, entre Champerico y Retalhuleu."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Debería de haber mejores controles”: ¿qué medidas de seguridad tendrá el Campo Marte tras el asesinato de Solórzano Foppa?",
-      "link": "https://www.prensalibre.com/guatemala/justicia/deberia-de-haber-mejores-controles-que-medidas-de-seguridad-tendra-el-campo-marte-tras-el-asesinato-de-solorzano-foppa/",
-      "fecha": "Thu, 22 Oct 2026 02:33:55 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Campo Marte reabrió sus espacios deportivos tras el asesinato de Juan Francisco Solórzano Foppa y Gustavo Aguilar Gamarro, pero una visita periodística no encontró los controles de ingreso anunciados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Miley Cyrus cree que Dolly Parton sigue acompañándola? La historia que contó en un concierto",
-      "link": "https://www.prensalibre.com/vida/escenario/por-que-miley-cyrus-cree-que-dolly-parton-sigue-acompanandola-la-historia-que-conto-en-un-concierto/",
-      "fecha": "Thu, 22 Oct 2026 02:31:03 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante Miley Cyrus asegura haber recibido señalaes de su madrina fallecida Dolly Parton."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Una selfi puede indicar las posibilidades de sobrevivencia de un paciente con cáncer? La respuesta está en la IA",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/una-selfi-puede-indicar-las-posibilidades-de-sobrevivencia-de-un-paciente-con-cancer-la-respuesta-esta-en-la-ia/",
-      "fecha": "Thu, 22 Oct 2026 02:30:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Científicos trabajan en una tecnología que permitiría, a través de una fotografía del rostro, medir el riesgo de mortalidad en pacientes con cáncer."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tribunal declara culpables a expolicías por la ejecución de Nelson Santamaría y Eldin Choc",
-      "link": "https://www.prensalibre.com/guatemala/justicia/tribunal-declara-culpables-a-expolicias-por-la-ejecucion-de-nelson-santamaria-y-eldin-choc-breaking/",
-      "fecha": "Thu, 22 Oct 2026 01:52:32 +0000",
-      "categoria": "Justicia",
-      "resumen": "Un tribunal de Mayor Riesgo condenó a varios expolicías por hechos relacionados con la muerte de Nelson Santamaría y Eldin Leonel Choc Xi, ocurrida en San Andrés Itzapa, Chimaltenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Rompieron la cadena de mando&#8221;: PNC detalla cómo se violó el protocolo y la ruta de custodia tras el crimen contra Solórzano Foppa",
-      "link": "https://www.prensalibre.com/guatemala/rompieron-la-cadena-de-mando-pnc-detalla-como-se-violo-el-protocolo-y-la-ruta-de-custodia-tras-el-crimen-contra-solorzano-foppa/",
-      "fecha": "Thu, 22 Oct 2026 01:44:18 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Desvíos de ruta , cambios de patrullas no autorizados y falta de reporte en tiempo real a los mandos fueron parte de lo descrito durante una citación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tres gobernadores renuncian antes de que venza el plazo para funcionarios con aspiraciones electorales",
-      "link": "https://www.prensalibre.com/guatemala/justicia/tres-gobernadores-renuncian-antes-de-que-venza-el-plazo-para-funcionarios-con-aspiraciones-electorales/",
-      "fecha": "Thu, 22 Oct 2026 01:30:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Los cambios en las gobernaciones departamentales ocurren a pocos días de que venza el plazo para que funcionarios con aspiraciones electorales renuncien a sus cargos."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "¿Se correrá el asueto del 1 de noviembre por el Día de Todos los Santos 2026?",
       "link": "https://www.guatemala.com/noticias/sociedad/asueto-1-de-noviembre-dia-de-todos-los-santos-2026-guatemala.html",
@@ -865,14 +873,6 @@
       "fecha": "Sat, 17 Oct 2026 00:13:09 +0000",
       "categoria": "Cultura",
       "resumen": "Toledo busca romper el Guinness World Records con el fiambre más grande del mundo el 24 de octubre en Plaza Cayalá.\nThe post Toledo busca romper un Guinness World Records al elaborar el fiambre más grande del mundo appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Premio Mario Monteforte Toledo 2026 reconoce la obra del escritor José Morales González",
-      "link": "https://www.guatemala.com/noticias/cultura/jose-morales-gonzalez-gano-premio-mario-monteforte-toledo-2026.html",
-      "fecha": "Fri, 16 Oct 2026 21:38:38 +0000",
-      "categoria": "Cultura",
-      "resumen": "El escritor costarricense José Morales González y su cuento «Silencio de semicorchea» fueron reconocidos con el Premio Mario Monteforte Toledo 2026.\nThe post Premio Mario Monteforte Toledo 2026 reconoce la obra del escritor José Morales González appeared first on Guatemala.com."
     }
   ]
 }
