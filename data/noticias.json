@@ -1,7 +1,87 @@
 {
-  "actualizado": "2026-10-24T16:29:12.159Z",
+  "actualizado": "2026-10-24T19:20:19.356Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Xelajú MC vs. Municipal: siga el minuto a minuto de la jornada 16",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-xelaju-mc-vs-municipal-siga-el-minuto-a-minuto-de-la-jornada-16-breaking/",
+      "fecha": "Sat, 24 Oct 2026 19:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los superchivos reciben este sábado a las 2:00 PM en el estadio Mario Camposeco a los rojos que llegan en un mal momento del torneo con cinco partidos sin poder ganar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asesinato del director de la Granja Penal Canadá activa alerta por posibles motines en dos cárceles",
+      "link": "https://www.prensalibre.com/guatemala/justicia/asesinato-del-director-de-la-granja-penal-canada-activa-alerta-por-posibles-motines-en-dos-carceles-breaking/",
+      "fecha": "Sat, 24 Oct 2026 18:41:19 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC recibe “alerta roja” por posibles motines en dos cárceles tras asesinato de director de la Granja Penal Canadá."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Niña de 13 años forcejea con un hombre y logra escapar de supuesto secuestro en Florida: el momento quedó grabado en video",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/nina-de-13-anos-forcejea-con-un-hombre-y-logra-escapar-de-supuesto-secuestro-en-florida-el-momento-quedo-grabado-en-video/",
+      "fecha": "Sat, 24 Oct 2026 18:16:28 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Un hombre de 32 años fue arrestado tras el incidente ocurrido en Miramar. Una cámara de vigilancia captó el momento en que la menor forcejeó con el sospechoso y logró huir."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala Sub-15 debuta con victoria 1-0 ante Singapur en la Copa Mundial de la FIFA",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-sub-15-debuta-con-victoria-1-0-ante-singapur-en-la-copa-mundial-de-la-fifa-breaking/",
+      "fecha": "Sat, 24 Oct 2026 18:14:07 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Giancarlo Marroquín anotó el gol de la victoria en el segundo tiempo para que la Bicolor arrancara con el pie derecho en la primera edición de la Copa Mundial y Festival Sub-15 de la FIFA en Bakú Azerbaiyán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asesinan al director de la Granja Canadá en Escuintla: esto se sabe del ataque armado",
+      "link": "https://www.prensalibre.com/ciudades/guatemala-ciudades/asesinan-al-director-de-la-granja-canada-en-escuintla-esto-se-sabe-del-ataque-armado/",
+      "fecha": "Sat, 24 Oct 2026 18:01:36 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Las autoridades comenzaron una investigación para esclarecer las circunstancias del ataque armado en el que murió José Ariel Barrios Rodríguez, de 41 años, director en funciones de la Granja Modelo de Rehabilitación Canadá, en Escuintla, la noche del viernes 23 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo EE.UU. se ha convertido en una gerontocracia que no representa el perfil de edad del país",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-ee-uu-se-ha-convertido-en-una-gerontocracia-que-no-representa-el-perfil-de-edad-del-pais/",
+      "fecha": "Sat, 24 Oct 2026 17:56:17 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Un país sin futuro para los jóvenes: ¿por qué los políticos de mayor edad parecen tener un control tan férreo sobre el sistema político estadounidense?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Violencia contra el transporte público en Guatemala: asociación de usuarios contabiliza 92 víctimas mortales",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/violencia-contra-el-transporte-publico-en-guatemala-asociacion-de-usuarios-contabiliza-92-victimas-mortales-breaking/",
+      "fecha": "Sat, 24 Oct 2026 17:20:19 +0000",
+      "categoria": "Sucesos",
+      "resumen": "La Asociación de Usuarios del Transporte Urbano y Extraurbano contabiliza 92 fallecidos y 62 heridos en hechos violentos relacionados con el transporte público en Guatemala durante el 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nayib Bukele llama “satánicas” a las pandillas de Haití tras la desaparición de cuatro soldados salvadoreños",
+      "link": "https://www.prensalibre.com/internacional/nayib-bukele-llama-satanicas-a-las-pandillas-de-haiti-tras-la-desaparicion-de-cuatro-soldados-salvadorenos/",
+      "fecha": "Sat, 24 Oct 2026 16:55:30 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente de El Salvador, Nayib Bukele, respondió a quienes cuestionan la participación de militares salvadoreños en Haití, mientras continúa la búsqueda de cuatro soldados desaparecidos el 18 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Barcelona vs. Real Madrid: esto dice la IA sobre quién ganará el Clásico de LaLiga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-vs-real-madrid-esto-dice-la-ia-sobre-quien-ganara-el-clasico-de-laliga-breaking/",
+      "fecha": "Sat, 24 Oct 2026 16:44:18 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La inteligencia artificial tiene favorito para el Clásico de este domingo entre Barcelona y Real Madrid en el Camp Nou tras analizar el momento de forma, las bajas y las estadísticas de ambos equipos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más de 130 arrestos en Francia donde miles de personas salen a las calles a protestar",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/mas-de-130-arrestos-en-francia-donde-miles-de-personas-salen-a-las-calles-a-protestar/",
+      "fecha": "Sat, 24 Oct 2026 16:40:43 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Por segundo sábado consecutivo, miles de personas se han movilizado en varias ciudades de Francia para protestar por el costo de la vida así como también por una mejora en la educación, entre otros motivos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Caso Solórzano Foppa: juez fija fecha para primera declaración de policías detenidos por captura de hermanos Choc Toz",
@@ -739,92 +819,12 @@
       "resumen": "El clamor ciudadano exige que los autores intelectuales del asesinato de Solórzano Foppa enfrenten a la justicia."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién quería callar a Solórzano Foppa?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/quien-queria-callar-a-solorzano-foppa/",
-      "fecha": "Fri, 23 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "¿Lo mataron por lo que hizo como funcionario, por sus casos o por lo que publicaba?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La generación del posenfrentamiento",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-generacion-del-posenfrentamiento/",
-      "fecha": "Fri, 23 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Un nuevo ciclo de violencia amenaza extenderse en el país"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy viernes 23 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-viernes-23-de-octubre-de-2026/",
-      "fecha": "Fri, 23 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quiénes son los &#8220;ciudadanos palestinos de Israel&#8221; y por qué pueden tener la llave para desbancar a Netanyahu",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quienes-son-los-ciudadanos-palestinos-de-israel-y-por-que-pueden-tener-la-llave-para-desbancar-a-netanyahu/",
-      "fecha": "Fri, 23 Oct 2026 05:00:44 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El descontento ha sido tradicionalmente un factor que ha mermado la participación electoral de los árabes israelíes. Sin embargo, en estas elecciones existe un fuerte deseo de derrotar a la actual coalición gobernante de derecha."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Luis Lara Grojec, de Banco Industrial, es reconocido como Gerente del Año 2026 por la AGG",
-      "link": "https://www.prensalibre.com/economia/luis-lara-grojec-de-banco-industrial-es-reconocido-como-gerente-del-ano-2026-por-la-agg/",
-      "fecha": "Fri, 23 Oct 2026 02:55:51 +0000",
-      "categoria": "Economía",
-      "resumen": "La Asociación de Gerentes de Guatemala (AGG) otorgó el máximo galardón Gerente del Año 2026 a Luis Lara Grojec, gerente general y director corporativo de Banco Industrial, durante la vigésima edición de este reconocimiento en la cual se premio a ejecutivos en seis categorías."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“¿Ustedes son de Perú? ¡Aquí es Guatemala!”: PNC envía a capacitación a agente por citar ley peruana",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/ustedes-son-de-peru-aqui-es-guatemala-pnc-envia-a-capacitacion-a-agente-por-citar-ley-peruana-breaking/",
-      "fecha": "Fri, 23 Oct 2026 02:49:01 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Un agente de la PNC fue enviado a capacitación legal tras citar una disposición de Perú para justificar una solicitud de identificación en Guatemala. El caso generó cuestionamientos sobre la preparación policial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Red Q: Melvin Quijivix pagará Q400 mil de reparación digna por caso de lavado de Q85 millones en el Inde",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-red-q-melvin-quijivix-pagara-q400-mil-de-reparacion-digna-por-caso-de-lavado-de-q85-millones-en-el-inde-breaking/",
-      "fecha": "Fri, 23 Oct 2026 02:07:03 +0000",
-      "categoria": "Justicia",
-      "resumen": "Melvin Quijivix, exgerente del Inde durante el gobierno de Alejandro Giammattei, deberá pagar Q400 mil de reparación digna tras aceptar cargos en el caso Red Q, relacionado con el presunto lavado de Q85 millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Meghan Markle se quedará con el &#8220;vestido de la venganza&#8221; de Lady Di? Lo que se sabe de las intenciones del príncipe Harry para recuperarlo",
-      "link": "https://www.prensalibre.com/vida/escenario/meghan-markle-se-quedara-con-el-vestido-de-la-venganza-de-lady-di-lo-que-se-sabe-de-las-intenciones-del-principe-harry-para-recuperarlo/",
-      "fecha": "Fri, 23 Oct 2026 01:36:46 +0000",
-      "categoria": "Escenario",
-      "resumen": "El príncipe Harry querría recuperar el famoso \"vestido de la venganza\" de su madre, la princesa Diana de Gales, para que quede en manos de su esposa, Meghan Markle."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué el auge de las inyecciones para adelgazar está impulsando las ventas de productos para el cuidado de la piel",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/por-que-el-auge-de-las-inyecciones-para-adelgazar-esta-impulsando-las-ventas-de-productos-para-el-cuidado-de-la-piel/",
-      "fecha": "Fri, 23 Oct 2026 01:35:58 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El director ejecutivo de L'Oreal afirma que el uso de GLP-1 es \"un fenómeno muy importante\" para su compañía."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Documental guatemalteco Selva Maya en Jaque ganó premio en los Wildscreen Panda Awards 2026",
       "link": "https://www.guatemala.com/noticias/entretenimiento/documental-guatemalteco-selva-maya-en-jaque-gano-wildscreen-panda-awards-2026.html",
       "fecha": "Fri, 23 Oct 2026 00:53:36 +0000",
       "categoria": "Entretenimiento",
       "resumen": "El documental guatemalteco Selva Maya en Jaque, dirigido por Sergio Izquierdo, celebra su triunfo en los Wildscreen Panda Awards 2026.\nThe post Documental guatemalteco Selva Maya en Jaque ganó premio en los Wildscreen Panda Awards 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿De qué murió Tom Skerritt? Familia revela la causa de muerte del actor de &#8220;Top Gun&#8221; y &#8220;Alien&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/de-que-murio-tom-skerritt-familia-revela-la-causa-de-muerte-del-actor-de-top-gun-y-alien/",
-      "fecha": "Fri, 23 Oct 2026 00:49:47 +0000",
-      "categoria": "Escenario",
-      "resumen": "Tom Skerritt, actor estadounidense ganador de un premio Emmy y reconocido por sus papeles en \"Top Gun\" y \"Alien\", murió a los 93 años. Esto informó su familia sobre su fallecimiento."
     },
     {
       "fuente": "Guatemala.com",
