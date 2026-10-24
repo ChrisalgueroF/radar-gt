@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-10-24T07:03:28.727Z",
+  "actualizado": "2026-10-24T12:32:15.970Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El presidente Javier Milei y su hermana Karina son sobreseídos por la Justicia argentina en el escándalo de la criptomenada $LIBRA",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/el-presidente-javier-milei-y-su-hermana-karina-son-sobreseidos-por-la-justicia-argentina-en-el-escandalo-de-la-criptomenada-libra/",
+      "fecha": "Sat, 24 Oct 2026 11:56:20 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El mandatario había apoyado en 2025 el lanzamiento de una criptomoneda que luego fracasó. Milei siempre insistió que fue un tema entre privados, sin ninguna intervención del Estado argentino."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Congreso podría reelegir a Luis Contreras el martes con una Junta Directiva casi idéntica a la actual",
+      "link": "https://www.prensalibre.com/guatemala/politica/congreso-podria-reelegir-a-luis-contreras-el-martes-con-una-junta-directiva-casi-identica-a-la-actual/",
+      "fecha": "Sat, 24 Oct 2026 11:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Congreso tiene previsto elegir el próximo martes a la Junta Directiva que dirigirá el Organismo Legislativo durante el 2027, en medio de las gestiones políticas para definir su integración y de las aspiraciones de Luis Contreras de continuar en la presidencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelta a Guatemala 2026: detalles del recorrido de la segunda etapa, que tendrá 212 kilómetros",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-detalles-del-recorrido-de-la-segunda-etapa-que-tendra-212-kilometros/",
+      "fecha": "Sat, 24 Oct 2026 09:00:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "Luego de conquistar la etapa inaugural entre Guastatoya y Puerto Barrios, el colombiano Johan Steven Rubio saltará nuevamente a la carretera con la misión de defender el suéter de líder."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arrestan a una persona tras el incendio en el refugio &#8220;Nido del Águila&#8221; de Adolf Hitler",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/arrestan-a-una-persona-tras-el-incendio-en-el-refugio-nido-del-aguila-de-adolf-hitler/",
+      "fecha": "Sat, 24 Oct 2026 07:29:58 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Alrededor de 200 efectivos de emergencia han sido desplegados para combatir el incendio en la residencia alpina del dictador nazi en Alemania."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Más autonomía, resistencia e inteligencia para el usuario moderno",
@@ -801,38 +833,6 @@
       "fecha": "Fri, 23 Oct 2026 00:00:00 +0000",
       "categoria": "Guatemala",
       "resumen": "La audiencia para determinar si el exfiscal anticorrupción debe enfrentar juicio fue aplazada hasta el 21 de diciembre, mientras su defensa cuestiona los reiterados retrasos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mientras Chandler encontraba el amor en Friends, Matthew Perry enfrentaba un proceso difícil: la historia que reveló su hermana",
-      "link": "https://www.prensalibre.com/vida/escenario/mientras-chandler-encontraba-el-amor-en-friends-matthew-perry-enfrentaba-un-proceso-dificil-la-historia-que-revelo-su-hermana/",
-      "fecha": "Thu, 22 Oct 2026 23:16:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La hermana de Matthew Perry reveló detalles sobre lo que vivía el actor mientras su personaje, Chandler Bing, se preparaba para casarse con Mónica en la serie Friends."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Terremoto de magnitud 7 en el Tíbet: qué se sabe de los muertos, heridos y daños en China",
-      "link": "https://www.prensalibre.com/internacional/terremoto-de-magnitud-7-en-el-tibet-que-se-sabe-de-los-muertos-heridos-y-danos-en-china/",
-      "fecha": "Thu, 22 Oct 2026 22:59:36 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un terremoto de magnitud 7 sacudió el Tíbet, China, y dejó al menos 16 muertos, 32 heridos y más de 300 casas derrumbadas, según autoridades locales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué enfermedades transmiten las garrapatas? Los síntomas de Lyme que preocupan en EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/que-enfermedades-transmiten-las-garrapatas-los-sintomas-de-lyme-que-preocupan-en-ee-uu/",
-      "fecha": "Thu, 22 Oct 2026 22:40:35 +0000",
-      "categoria": "Internacional",
-      "resumen": "Crece la preocupación debido a que en los últimos meses se registró un aumento de casos de la enfermedad de Lyme, que se extendieron a más zonas de EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué la película biográfica de Michael Jackson fue rechazada como musical en los Globos de Oro?",
-      "link": "https://www.prensalibre.com/vida/escenario/por-que-la-pelicula-biografica-de-michael-jackson-fue-rechazada-como-musical-en-los-globos-de-oro/",
-      "fecha": "Thu, 22 Oct 2026 22:31:23 +0000",
-      "categoria": "Escenario",
-      "resumen": "El comité de los Globos de Oro rechazó la película biográfica de Michael Jackson en la categoría de comedia o musical. Esta es la razón."
     },
     {
       "fuente": "Guatemala.com",
