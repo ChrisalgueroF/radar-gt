@@ -1,7 +1,87 @@
 {
-  "actualizado": "2026-10-24T19:20:19.356Z",
+  "actualizado": "2026-10-24T22:20:19.526Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Xelajú da el golpe y vence 1-0 a Municipal que suma su sexto partido sin ganar",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/xelaju-da-el-golpe-y-vence-1-0-a-municipal-que-suma-su-sexto-partido-sin-ganar-breaking/",
+      "fecha": "Sat, 24 Oct 2026 22:01:43 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los superchivos se impusieron con un gol de Diego Casas en un partido marcado por dos expulsiones que dejaron a ambos equipos con diez jugadores en el estadio Mario Camposeco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Partido Viva proclama a candidatos a binomio presidencial y para alcalde de la capital",
+      "link": "https://www.prensalibre.com/guatemala/politica/partido-viva-proclama-a-candidatos-a-binomio-presidencial-y-para-alcalde-de-la-capital-breaking/",
+      "fecha": "Sat, 24 Oct 2026 21:14:02 +0000",
+      "categoria": "Política",
+      "resumen": "El partido Visión con Valores (Viva) celebró su asamblea nacional para proclamar a sus candidatos de cara al próximo proceso electoral."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a sospechoso de ataque en el que murió el dueño de un gimnasio en Petén",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-presunto-atacante-del-dueno-de-un-gimnasio-en-peten-quien-fallecio-breaking/",
+      "fecha": "Sat, 24 Oct 2026 21:10:50 +0000",
+      "categoria": "Justicia",
+      "resumen": "La orden de captura contra el presunto atacante fue girada el pasado 28 de septiembre por un juez local."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Europa manifiesta por la vivienda, educación y el costo de la vida: qué ocurre en seis países y cuáles son sus demandas",
+      "link": "https://www.prensalibre.com/internacional/europa-manifiesta-por-la-vivienda-educacion-y-el-costo-de-la-vida-que-ocurre-en-seis-paises-y-cuales-son-sus-demandas/",
+      "fecha": "Sat, 24 Oct 2026 21:02:40 +0000",
+      "categoria": "Internacional",
+      "resumen": "El costo de la vida, las dificultades para conseguir vivienda, el deterioro de los servicios públicos y la desconfianza en los gobiernos alimentan una serie de manifestaciones en Europa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuándo regresan los restos de Miguel Ángel Asturias a Guatemala?: fecha, homenajes y lo que se conoce de su monumento funerario",
+      "link": "https://www.prensalibre.com/vida/escenario/cuando-regresan-los-restos-de-miguel-angel-asturias-a-guatemala-fecha-homenajes-y-lo-que-se-conoce-de-su-monumento-funerario/",
+      "fecha": "Sat, 24 Oct 2026 20:28:55 +0000",
+      "categoria": "Escenario",
+      "resumen": "En noviembre, los restos del Premio Nobel de Literatura Miguel Ángel Asturias regresarán a Guatemala, 52 años después de su fallecimiento. Conozca cuándo llegarán al país y la agenda de su retorno."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Extraditan a hombre desde España a Guatemala por agresión sexual",
+      "link": "https://www.prensalibre.com/guatemala/justicia/extraditan-a-hombre-desde-espana-a-guatemala-por-agresion-sexual-breaking/",
+      "fecha": "Sat, 24 Oct 2026 20:22:54 +0000",
+      "categoria": "Justicia",
+      "resumen": "El hombre tenía una alerta roja internacional, por lo que fue capturado en España y extraditado a Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cristian Rico del NU Colombia gana la segunda etapa de la Vuelta a Guatemala 2026",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/cristian-rico-del-nu-colombia-gana-la-segunda-etapa-de-la-vuelta-a-guatemala-2026-breaking/",
+      "fecha": "Sat, 24 Oct 2026 20:18:21 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El colombiano Cristian Rico se impuso en la etapa de 212 kilómetros dándole a NU Colombia su segunda victoria consecutiva de la Vuelta mientras el guatemalteco José Canastuj tomó el liderato de la clasificación general."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Museo de Arte Colonial de Antigua Guatemala reabre con exposición religiosa: ¿qué se sabe de las piezas trasladadas tras los operativos?",
+      "link": "https://www.prensalibre.com/vida/escenario/museo-de-arte-colonial-de-antigua-guatemala-reabre-con-exposicion-religiosa-que-se-sabe-de-las-piezas-trasladadas-tras-los-operativos/",
+      "fecha": "Sat, 24 Oct 2026 20:11:58 +0000",
+      "categoria": "Escenario",
+      "resumen": "Meses después de que se retiraran más de 280 piezas de la colección que resguardaba el Museo de Arte Colonial, el recinto reabre con una exposición de la Hermandad de Jesús Nazareno de la Caída."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué Kim Jong-un visitó China? Los temas que abordó con uno de los principales asesores de Xi Jinping",
+      "link": "https://www.prensalibre.com/internacional/por-que-kim-jong-un-visito-china-los-temas-que-abordo-con-uno-de-los-principales-asesores-de-xi-jinping/",
+      "fecha": "Sat, 24 Oct 2026 19:16:11 +0000",
+      "categoria": "Internacional",
+      "resumen": "Kim Jong-un cruzó la frontera hacia China para reunirse con uno de los principales asesores de Xi Jinping. ¿Qué temas abordaron y por qué el encuentro se realizó en Dandong?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos regresos esperados: Pinto y Apaolaza vuelven para el duelo entre Comunicaciones y Antigua",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/dos-regresos-esperados-pinto-y-apaolaza-vuelven-para-el-duelo-entre-comunicaciones-y-antigua-breaking/",
+      "fecha": "Sat, 24 Oct 2026 19:12:20 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El jugador crema José Pinto y el delantero de Antigua Francisco Apaolaza regresan esta noche a las convocatorias de sus respectivos equipos para la jornada 16 del Apertura 2026 tras meses de ausencia."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; Xelajú MC vs. Municipal: siga el minuto a minuto de la jornada 16",
@@ -737,86 +817,6 @@
       "fecha": "Fri, 23 Oct 2026 12:18:17 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "La segunda vuelta que disputarán el domingo el senador derechista y el presidente de izquierda puede tener consecuencias en geopolítica, seguridad o incluso el medioambiente de la región, según expertos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "SAT solicitará revisar meta de recaudación del 2026 por exoneración de impuestos a combustibles",
-      "link": "https://www.prensalibre.com/economia/sat-solicitara-revisar-meta-de-recaudacion-del-2026-por-exoneracion-de-impuestos-a-combustibles/",
-      "fecha": "Fri, 23 Oct 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La SAT podría solicitar al Ministerio de Finanzas una revisión de la meta de recaudación tributaria del 2026, ante una reducción estimada inicialmente en Q3 mil 400 millones en los ingresos fiscales por la exoneración de impuestos a las gasolinas y el diésel."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Me avergüenza trabajar en una empresa que impulsa la IA con fines militares&#8221;: los empleados de Google que renuncian por los acuerdos con el ejército de EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/me-averguenza-trabajar-en-una-empresa-que-impulsa-la-ia-con-fines-militares-los-empleados-de-google-que-renuncian-por-los-acuerdos-con-el-ejercito-de-ee-uu/",
-      "fecha": "Fri, 23 Oct 2026 10:36:02 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La BBC entrevistó a varios empleados actuales y antiguos de Google DeepMind que han dejado sus puestos por su rechazo a cómo la compañía impulsa el uso de sus productos de IA en contextos bélicos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miles de libras para apoyar a familias de personas con discapacidad",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/miles-de-libras-para-apoyar-a-familias-de-personas-con-discapacidad/",
-      "fecha": "Fri, 23 Oct 2026 08:09:41 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Desarrollo en Movimiento pone en marcha la nueva edición de Manos al Rescate, una campaña que este año busca reunir 120 mil libras de alimentos para apoyar a personas con discapacidad y sus familias en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mercado de acciones tokenizadas crece 18 veces y supera los US$37 mil millones",
-      "link": "https://www.prensalibre.com/economia/mercado-de-acciones-tokenizadas-crece-18-veces-y-supera-los-us37-mil-millones/",
-      "fecha": "Fri, 23 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Mientras el mercado de criptomonedas muestra señales de estancamiento, las acciones tokenizadas ganan terreno en Wall Street, con un crecimiento de 18 veces en su volumen de negociación, según Dune Analytics."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Otro clavo para Gobernación",
-      "link": "https://www.prensalibre.com/opinion/caricatura/otro-clavo-para-gobernacion/",
-      "fecha": "Fri, 23 Oct 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La importancia del reglamento antilavado",
-      "link": "https://www.prensalibre.com/opinion/editorial/la-importancia-del-reglamento-antilavado/",
-      "fecha": "Fri, 23 Oct 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Más allá de coincidencias calendáricas, lo primordial es iniciar una nueva era de monitoreo de transacciones, para detectar montos sospechosos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las acciones violentas son, de hecho, criminales",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/las-acciones-violentas-son-de-hecho-criminales/",
-      "fecha": "Fri, 23 Oct 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Un crimen no solo implica sangre derramada. La violencia, repetida y admitida, puede volverse criminalidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La estrategia confrontativa de los republicanos pone en riesgo sus campañas y genera rechazo dentro de su propio partido",
-      "link": "https://www.prensalibre.com/internacional/la-estrategia-confrontativa-de-los-republicanos-pone-en-riesgo-sus-campanas-y-genera-rechazo-dentro-de-su-propio-partido/",
-      "fecha": "Fri, 23 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "La polémica por la campaña de Vivek Ramaswamy expone las divisiones republicanas y las dificultades de convertir la confrontación en una ventaja electoral."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Europa arde, ¿quién se beneficia del caos?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/europa-arde-quien-se-beneficia-del-caos/",
-      "fecha": "Fri, 23 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Las calles europeas están en llamas, mientras se libra otra batalla menos visible. El verdadero conflicto podría estar en quién gobernará Europa luego del caos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Matar para silenciar",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/matar-para-silenciar/",
-      "fecha": "Fri, 23 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El clamor ciudadano exige que los autores intelectuales del asesinato de Solórzano Foppa enfrenten a la justicia."
     },
     {
       "fuente": "Guatemala.com",
