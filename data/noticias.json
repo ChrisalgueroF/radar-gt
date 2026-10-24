@@ -1,7 +1,159 @@
 {
-  "actualizado": "2026-10-24T01:26:22.273Z",
+  "actualizado": "2026-10-24T07:03:28.727Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más autonomía, resistencia e inteligencia para el usuario moderno",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/mas-autonomia-resistencia-e-inteligencia-para-el-usuario-moderno/",
+      "fecha": "Sat, 24 Oct 2026 06:30:26 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Claro Guatemala fortalece su portafolio con la llegada de la nueva Serie REDMI Note 17, de Xiaomi, una generación de smartphones que redefine la propuesta de valor en la gama media al combinar una autonomía excepcional, altos estándares de durabilidad, capacidades avanzadas de inteligencia artificial y una experiencia de usuario diseñada para mantenerse vigente durante años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Superintendencia de Competencia: Carlos Ortiz responde a los cinco principales desafíos de la Sicom",
+      "link": "https://www.prensalibre.com/economia/superintendencia-de-competencia-carlos-ortiz-responde-a-los-cinco-principales-desafios-de-la-sicom/",
+      "fecha": "Sat, 24 Oct 2026 06:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Ante la proximidad del 9 de diciembre, la Sicom trabaja en su estructura institucional, la contratación de personal y las reglas necesarias para investigar y sancionar prácticas anticompetitivas, afirma Carlos Ortiz Ortiz, superintendente de Competencia, quien reconoce los cinco principales retos identificados por expertos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ley de Competencia: los cinco retos de la Sicom antes del 9 de diciembre",
+      "link": "https://www.prensalibre.com/economia/ley-de-competencia-los-cinco-retos-de-la-sicom-antes-del-9-de-diciembre/",
+      "fecha": "Sat, 24 Oct 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Con un nuevo superintendente al frente y el plazo del 9 de diciembre cada vez más cerca, la Superintendencia de Competencia debe acelerar su organización, contratar personal y establecer procedimientos para aplicar la ley. Expertos identifican las prioridades y los principales obstáculos que enfrenta la institución."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Halloween chapín",
+      "link": "https://www.prensalibre.com/opinion/caricatura/halloween-chapin/",
+      "fecha": "Sat, 24 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Auge en inversión es buena noticia y desafío",
+      "link": "https://www.prensalibre.com/opinion/editorial/auge-en-inversion-es-buena-noticia-y-desafio/",
+      "fecha": "Sat, 24 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "La distribución de los flujos de inversión muestra las fortalezas actuales de la economía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Te recuerdan por tus hechos, no por lo que aparentas",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/te-recuerdan-por-tus-hechos-no-por-lo-que-aparentas/",
+      "fecha": "Sat, 24 Oct 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Mucho de lo que nosotros podemos olvidar, los demás lo recuerdan de un modo permanente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mientras los republicanos se preparan para derrotas electorales, Elon Musk se alista para la guerra",
+      "link": "https://www.prensalibre.com/internacional/mientras-los-republicanos-se-preparan-para-derrotas-electorales-elon-musk-se-alista-para-la-guerra/",
+      "fecha": "Sat, 24 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Elon Musk advierte que tomará represalias contra los demócratas que buscan investigarlo si recuperan el control del Congreso en las elecciones de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mineduc: la calidad docente determinó los malos resultados en las pruebas Pisa",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/mineduc-la-calidad-docente-determino-los-malos-resultados-en-las-pruebas-pisa/",
+      "fecha": "Sat, 24 Oct 2026 06:05:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Ministerio de Educación busca mejorar la calidad de los aprendizajes de los estudiantes,  que podrá verse reflejada en los resultados de las próximas pruebas Pisa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Como a ti mismo",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/como-a-ti-mismo/",
+      "fecha": "Sat, 24 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La igual dignidad del ser humano no es un concepto puramente abstracto o teológico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala ante la urgencia climática",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/guatemala-ante-la-urgencia-climatica/",
+      "fecha": "Sat, 24 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Guatemala se prepara para el evento mundial de cambio climático llamado COP31."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El 20 octubre 1944 y sus consecuencias",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-20-octubre-1944-y-sus-consecuencias/",
+      "fecha": "Sat, 24 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El asesinato de Juan Francisco no es un hecho fuera del contexto derivado del derrocamiento de Árbenz."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sinergia e integridad: el reto de la gestión pública",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/sinergia-e-integridad-el-reto-de-la-gestion-publica/",
+      "fecha": "Sat, 24 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "No se trata de privatizar lo público, sino de profesionalizarlo con ética."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy sábado 24 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-24-de-octubre-de-2026/",
+      "fecha": "Sat, 24 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fatima El Mansouri: cómo la primera mujer en liderar el gobierno de Marruecos está atrapada entre el rey, los clérigos y el feminismo",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/fatima-el-mansouri-como-la-primera-mujer-en-liderar-el-gobierno-de-marruecos-esta-atrapada-entre-el-rey-los-clerigos-y-el-feminismo/",
+      "fecha": "Sat, 24 Oct 2026 04:58:10 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "¿Logrará Fatima El Mansouri impulsar los derechos de las mujeres en medio de barreras religiosas y políticas?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El universo del marinero Le Male en la Future Store",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/el-universo-del-marinero-le-male-en-la-future-store/",
+      "fecha": "Sat, 24 Oct 2026 04:49:08 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Fetiche innovando y consintiendo a sus clientes más exigentes, trae a Guatemala el universo Le Male, el marinero de Jean Paul Gaultier, con fragancias caracterizadas por una feminidad extravagante y una masculinidad sexy asumida que deslumbran y atraen con un toque de fantasía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué se sabe del allanamiento en el Instituto Fischmann, donde padres derribaron portón y llegaron antimotines",
+      "link": "https://www.prensalibre.com/guatemala/justicia/que-se-sabe-del-allanamiento-en-el-instituto-fischmann-donde-padres-derribaron-porton-y-llegaron-antimotines-breaking/",
+      "fecha": "Sat, 24 Oct 2026 03:17:56 +0000",
+      "categoria": "Justicia",
+      "resumen": "Padres de familia derribaron un portón del Instituto Fischmann para conocer el estado de sus hijos durante un allanamiento del MP. Un pelotón de antimotines llegó al establecimiento, donde también hay personal de la PGN y la PDH."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Charly García saluda desde su balcón a cientos de admiradores que celebran sus 75 años",
+      "link": "https://www.prensalibre.com/vida/escenario/charly-garcia-saluda-desde-su-balcon-a-cientos-de-admiradores-que-celebran-sus-75-anos/",
+      "fecha": "Sat, 24 Oct 2026 03:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "En Argentina se multiplican los homenajes para el artista que es considerado uno de los más emblemáticos del rock de ese país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miedo recreativo: ¿por qué nos gusta asustarnos?",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/miedo-recreativo-por-que-nos-gusta-asustarnos/",
+      "fecha": "Sat, 24 Oct 2026 02:00:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Dopamina, adrenalina y endorfinas: ¿cómo el cerebro es capaz de transformar una señal de peligro en una de las fuentes de placer más sorprendentes?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. eliminará aranceles a productos de Canadá a días de las elecciones legislativas: ¿qué hay detrás de la medida?",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos-eliminara-aranceles-a-productos-de-canada-a-dias-de-las-elecciones-legislativas-que-hay-detras-de-la-medida/",
+      "fecha": "Sat, 24 Oct 2026 01:39:09 +0000",
+      "categoria": "Internacional",
+      "resumen": "EE. UU. eximirá de aranceles a productos de Canadá tras gestiones de una senadora republicana que busca su reelección en Maine el 3 de noviembre."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Digecam incorpora tecnología para obtener imágenes 3D de proyectiles y apoyar investigaciones criminales",
@@ -25,6 +177,14 @@
       "fecha": "Sat, 24 Oct 2026 00:43:02 +0000",
       "categoria": "Guatemala",
       "resumen": "Con el fallo judicial, solo un procesado irá a juicio por el robo de fusiles y miles de municiones del comando ubicado en Petén, cuya entrega al crimen organizado era una de las hipótesis de la Fiscalía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video muestra cómo un migrante cruza hacia Texas y es detenido: ¿qué pasó con los presuntos traficantes?",
+      "link": "https://www.prensalibre.com/internacional/video-muestra-como-un-migrante-cruza-hacia-texas-y-es-detenido-que-paso-con-los-presuntos-traficantes/",
+      "fecha": "Sat, 24 Oct 2026 00:30:11 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un video muestra cómo un migrante cruza la frontera entre México y Texas, es detenido por la Patrulla Fronteriza y los presuntos traficantes huyen."
     },
     {
       "fuente": "Prensa Libre",
@@ -185,6 +345,14 @@
       "fecha": "Fri, 23 Oct 2026 18:26:23 +0000",
       "categoria": "Comunidad",
       "resumen": "Este 24 y 25 de octubre 2026 estará marcado por una reducción de lluvias y altas temperaturas, según el pronóstico del clima en Guatemala. \nThe post Clima en Guatemala: Pronostican disminución de lluvias para el 24 y 25 de octubre 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Siente tu Bum y descubre que te mueve",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/siente-tu-bum-y-descubre-que-te-mueve/",
+      "fecha": "Fri, 23 Oct 2026 18:17:00 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Una de las compañías de alimentos lideres en Colombia y el mundo, y líder en la categoría de bombones con chicle en 12 países de América Latina, Colombina, se une al artista musical J Balvin para celebrar el proceso detrás de los grandes sueños y lanza la edición especial Bon Bon Bum by J Balvin que llegará a 15 países con una producción estimada de 55 millones de unidades."
     },
     {
       "fuente": "Prensa Libre",
@@ -665,174 +833,6 @@
       "fecha": "Thu, 22 Oct 2026 22:31:23 +0000",
       "categoria": "Escenario",
       "resumen": "El comité de los Globos de Oro rechazó la película biográfica de Michael Jackson en la categoría de comedia o musical. Esta es la razón."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hermanos Choc Toz dan ultimátum al Estado y amenazan con demanda por su captura en el caso Solórzano Foppa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/hermanos-choc-toz-dan-ultimatum-al-estado-y-amenazan-con-demanda-por-su-captura-en-el-caso-solorzano-foppa-breaking/",
-      "fecha": "Thu, 22 Oct 2026 22:21:06 +0000",
-      "categoria": "Justicia",
-      "resumen": "Los hermanos Choc Toz dieron un ultimátum al Estado de Guatemala para que les ofrezca disculpas públicas y un resarcimiento por haber sido capturados como sospechosos de la muerte de Juan Francisco Solórzano Foppa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Institución que brilla entre las empresas con mejor reputación del país",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/institucion-que-brilla-entre-las-empresas-con-mejor-reputacion-del-pais/",
-      "fecha": "Thu, 22 Oct 2026 22:18:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "El Instituto de Recreación de los Trabajadores de la Empresa Privada de Guatemala (IRTRA) y su presidente, don Ricardo Castillo Sinibaldi, recientemente han recibido importantes reconocimientos que reflejan la confianza que inspiran, producto del compromiso con la excelencia en el servicio, la administración de los recursos y la visión para ejecutar los planes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La justicia le ordena a Trump responder preguntas bajo juramento en su demanda contra la BBC",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-justicia-le-ordena-a-trump-responder-preguntas-bajo-juramento-en-su-demanda-contra-la-bbc/",
-      "fecha": "Thu, 22 Oct 2026 22:07:20 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El presidente de EE.UU. demandó a la BBC por un episodio del programa documental Panorama que editó y unió dos secciones diferentes de un discurso que pronunció en 2021."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mansión de Juan Gabriel en Florida sale a la venta: ¿cuál es la cifra millonaria que piden por ella?",
-      "link": "https://www.prensalibre.com/vida/escenario/mansion-de-juan-gabriel-en-florida-sale-a-la-venta-cual-es-la-cifra-millonaria-que-piden-por-ella/",
-      "fecha": "Thu, 22 Oct 2026 21:57:43 +0000",
-      "categoria": "Escenario",
-      "resumen": "La mansión donde vivió el \"Divo de Juárez\" salió a la venta, pero sus actuales dueños ahora piden más de cuatro veces lo que pagaron por la propiedad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Beatificación de fray Augusto Ramírez Monasterio: así se preparan las autoridades municipales y eclesiásticas de Antigua Guatemala para recibir a más de 30 mil fieles",
-      "link": "https://www.prensalibre.com/vida/escenario/beatificacion-de-fray-augusto-ramirez-monasterio-asi-se-preparan-las-autoridades-municipales-y-eclesiasticas-de-antigua-guatemala-para-recibir-a-mas-de-30-mil-fieles/",
-      "fecha": "Thu, 22 Oct 2026 21:15:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Fieles católicos se preparan para celebrar la beatificación de fray Augusto Rafael Ramírez Monasterio, sacerdote franciscano que murió por defender el secreto de confesión. Estos son los preparativos para la ceremonia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Becky G defiende a los latinos en Estados Unidos y reivindica el espanglish en su nuevo disco",
-      "link": "https://www.prensalibre.com/vida/escenario/becky-g-defiende-a-los-latinos-en-estados-unidos-y-reivindica-el-espanglish-en-su-nuevo-disco/",
-      "fecha": "Thu, 22 Oct 2026 21:06:01 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante Becky G afirma que defender a los latinos en Estados Unidos es algo “personal” y reivindica su identidad como artista que habla espanglish."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Casi un millón de deportaciones en EE. UU.: qué encontró un informe sobre la política migratoria de Trump",
-      "link": "https://www.prensalibre.com/migrantes-2/casi-un-millon-de-deportaciones-en-ee-uu-que-encontro-un-informe-sobre-la-politica-migratoria-de-trump/",
-      "fecha": "Thu, 22 Oct 2026 20:50:41 +0000",
-      "categoria": "migrantes",
-      "resumen": "Un informe revela que Trump ha deportado a 980 mil personas desde enero de 2025 y que el 71% de los expulsados con años en EE. UU. no tenía condenas penales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sin Bandera en Guatemala: todos los detalles del “Escenas Tour 2027”",
-      "link": "https://www.prensalibre.com/vida/escenario/sin-bandera-en-guatemala-todos-los-detalles-del-escenas-tour-2027/",
-      "fecha": "Thu, 22 Oct 2026 20:48:32 +0000",
-      "categoria": "Escenario",
-      "resumen": "El dúo musical que ha cautivado con temas románticos llegará a Guatemala y ofrecerá un concierto en la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Melisa Palacios: Tribunal ordena trasladar a Fernanda Bonilla a hospital privado por problemas renales",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-melisa-palacios-tribunal-ordena-trasladar-a-fernanda-bonilla-a-hospital-privado-por-problemas-renales-breaking/",
-      "fecha": "Thu, 22 Oct 2026 20:37:21 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Tribunal de Mayor Riesgo \"C\" ordenó el traslado de María Fernanda Bonilla, acusada por la muerte de Melisa Palacios, a un hospital privado por padecimientos renales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "USAC cotiza póliza de seguro de vida y gastos médicos para el CSU y directivos por Q500 mil de cobertura",
-      "link": "https://www.prensalibre.com/guatemala/politica/usac-cotiza-poliza-de-seguro-de-vida-y-gastos-medicos-para-el-csu-y-directivos-por-q500-mil-de-cobertura/",
-      "fecha": "Thu, 22 Oct 2026 20:08:11 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El proceso busca contratar un seguro médico y de vida privado para autoridades del CSU de la USAC, un beneficio que en los últimos cuatro años le ha costado más de Q2 millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC descarta compra de cámaras corporales y hará arrendamiento por Q20 millones",
-      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-descarta-compra-de-camaras-corporales-y-hara-arrendamiento-por-q20-millones/",
-      "fecha": "Thu, 22 Oct 2026 20:07:40 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Policía Nacional Civil (PNC) prevé arrendar 500 cámaras corporales durante 18 meses, por un total de Q20 millones. La institución confirmó ante diputados que no realizará la compra de estos dispositivos, como había anunciado en días anteriores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comunicaciones se hunde: nueve derrotas y siete finales para evitar un desastre",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-se-hunde-nueve-derrotas-y-siete-finales-para-evitar-un-desastre/",
-      "fecha": "Thu, 22 Oct 2026 19:58:51 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los cremas no encuentran la salida. La reciente derrota frente a Malacateco agravó el panorama. Suman 14 puntos y nueve derrotas en 15 jornadas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. probará un arma de calor en la frontera con México: ¿cómo funciona y qué riesgos tiene?",
-      "link": "https://www.prensalibre.com/internacional/ee-uu-probara-un-arma-de-calor-en-la-frontera-con-mexico-como-funciona-y-que-riesgos-tiene/",
-      "fecha": "Thu, 22 Oct 2026 19:58:44 +0000",
-      "categoria": "Internacional",
-      "resumen": "Aunque el efecto previsto sea temporal, el riesgo también depende de las circunstancias, del tiempo de exposición y de la posibilidad de que una persona sufra un accidente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Robo en escuela de Retalhuleu: capturan al “Gato” con computadoras, ventilador y licuadora",
-      "link": "https://www.prensalibre.com/guatemala/justicia/robo-en-escuela-de-retalhuleu-capturan-al-gato-con-computadoras-ventilador-y-licuadora-breaking/",
-      "fecha": "Thu, 22 Oct 2026 19:06:49 +0000",
-      "categoria": "Justicia",
-      "resumen": "Capturan a sospechoso de robar computadoras y otros artículos en un centro educativo de Retalhuleu."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Messi: Mi padre estaba &#8220;muy ilusionado&#8221; con el Premio Princesa de los Deportes",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lionel-messi-conmueve-en-espana-con-un-mensaje-a-los-ninos-lo-importante-es-disfrutar-breaking/",
-      "fecha": "Thu, 22 Oct 2026 18:54:31 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "l futbolista argentino Leo Messi afirmó este jueves que su padre, fallecido el pasado 8 de agosto, estaba \"muy ilusionado\" con el Premio Princesa de Asturias de los Deportes"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Prensa Libre alerta sobre falsa información por caso de Juan Francisco Solórzano Foppa",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/prensa-libre-alerta-sobre-falsa-informacion-por-caso-de-juan-francisco-solorzano-foppa/",
-      "fecha": "Thu, 22 Oct 2026 18:09:27 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Prensa Libre alerta sobre la difusión de información falsa en páginas de Facebook relacionada con el caso de Juan Francisco Solórzano Foppa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bajo reserva",
-      "link": "https://www.prensalibre.com/opinion/caricatura/bajo-reserva/",
-      "fecha": "Thu, 22 Oct 2026 18:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;PHP es el equivalente cibernético de una bomba sin explotar&#8221;",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/php-es-el-equivalente-cibernetico-de-una-bomba-sin-explotar/",
-      "fecha": "Thu, 22 Oct 2026 18:00:46 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Sitios web de todo el mundo quedaron desactivados tras detectarse una falla de seguridad crítica en internet."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una década de matrimonios falsos y millones de dólares: así funcionaba la red de fraude en EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/una-decada-de-matrimonios-falsos-y-millones-de-dolares-asi-funcionaba-la-red-de-fraude-en-ee-uu/",
-      "fecha": "Thu, 22 Oct 2026 17:52:49 +0000",
-      "categoria": "Internacional",
-      "resumen": "Esta red de matrimonios fraudulentos habría permitido a indocumentados solicitar beneficios migratorios a cambio de pagos de hasta US$40 mil (Q305 mil)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Glee vuelve a la televisión: Disney+ y Hulu anuncian una nueva versión de la serie",
-      "link": "https://www.prensalibre.com/vida/escenario/glee-vuelve-a-la-television-disney-y-hulu-anuncian-una-nueva-version-de-la-serie/",
-      "fecha": "Thu, 22 Oct 2026 17:51:26 +0000",
-      "categoria": "Escenario",
-      "resumen": "La serie musical Glee regresará 11 años después de su final con una nueva versión para Disney+ y Hulu, que podría reunir a parte del elenco original."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Solórzano Foppa: PNC revela cuántos equipos trabajan en la investigación del crimen y cuándo podría haber capturas",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-solorzano-foppa-pnc-revela-cuantos-equipos-trabajan-en-la-investigacion-del-crimen-y-cuando-podria-haber-capturas-breaking/",
-      "fecha": "Thu, 22 Oct 2026 16:56:04 +0000",
-      "categoria": "Justicia",
-      "resumen": "Altos mandos de la Policía Nacional Civil (PNC) afirman que cuatro equipos de investigación y dos de videoforense trabajan para esclarecer el asesinato de Juan Francisco Solórzano Foppa."
     },
     {
       "fuente": "Guatemala.com",
