@@ -1,7 +1,87 @@
 {
-  "actualizado": "2026-10-23T22:01:02.901Z",
+  "actualizado": "2026-10-24T01:26:22.273Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Digecam incorpora tecnología para obtener imágenes 3D de proyectiles y apoyar investigaciones criminales",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/digecam-incorpora-tecnologia-para-obtener-imagenes-3d-de-proyectiles-y-apoyar-investigaciones-criminales-breaking/",
+      "fecha": "Sat, 24 Oct 2026 01:05:19 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Digecam inauguró un laboratorio de huella balística que permitirá digitalizar marcas de proyectiles y casquillos, fortalecer el registro de armas de fuego y facilitar información técnica para investigaciones criminales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Solórzano Foppa: capturan a agentes de la Comisaría 13 de la PNC",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-solorzano-foppa-capturan-a-agentes-de-la-comisaria-13-de-la-pnc/",
+      "fecha": "Sat, 24 Oct 2026 00:43:39 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Agentes de la Comisaría 13 de la PNC fueron capturados por su presunta vinculación con irregularidades en la detención de dos hermanos tras el crimen de Juan Francisco Solórzano Foppa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sala de Apelaciones libra a tres militares por hurto de 74 fusiles y municiones del Comando Aéreo de Petén",
+      "link": "https://www.prensalibre.com/guatemala/politica/sala-de-apelaciones-libra-a-tres-militares-por-hurto-de-74-fusiles-y-municiones-del-comando-aereo-de-peten/",
+      "fecha": "Sat, 24 Oct 2026 00:43:02 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Con el fallo judicial, solo un procesado irá a juicio por el robo de fusiles y miles de municiones del comando ubicado en Petén, cuya entrega al crimen organizado era una de las hipótesis de la Fiscalía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO Operativo del MP en el Instituto Fischmann: alumnos comienzan a salir y llegan antimotines de la PNC",
+      "link": "https://www.prensalibre.com/guatemala/justicia/en-vivo-operativo-del-mp-en-el-instituto-fischmann-alumnos-comienzan-a-salir-y-llegan-antimotines-de-la-pnc/",
+      "fecha": "Sat, 24 Oct 2026 00:08:27 +0000",
+      "categoria": "Justicia",
+      "resumen": "Estudiantes del Instituto Técnico Vocacional Dr. Imrich Fischmann, en la zona 13 capitalina, comenzaron a salir del establecimiento este viernes 23 de octubre, luego de varias horas de diligencias del Ministerio Público que generaron preocupación entre padres de familia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Publican el video de un tiroteo policial en el que murió un bebé en EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/publican-el-video-de-un-tiroteo-policial-en-el-que-murio-un-bebe-en-ee-uu/",
+      "fecha": "Fri, 23 Oct 2026 23:41:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Ocurrió en junio en Misisipi. Kohen Wiley, de un año, estaba en el regazo de su madre en un coche en movimiento cuando unos agentes que respondían a una llamada por robo rodearon el vehículo en un estacionamiento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Yamal y Mbappé se juegan el clásico antes de conocer al ganador del Balón de Oro",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/yamal-y-mbappe-se-juegan-el-clasico-antes-de-conocer-al-ganador-del-balon-de-oro/",
+      "fecha": "Fri, 23 Oct 2026 23:30:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Lamine Yamal y Kylian Mbappé se enfrentan este domingo en el primer clásico de la temporada, a pocas horas de conocer quién se quedará con el Balón de Oro 2026."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Fecha del retorno de Miguel Ángel Asturias a Guatemala y actividades en su honor",
+      "link": "https://www.guatemala.com/noticias/cultura/confirman-fecha-retorno-miguel-angel-asturias-guatemala.html",
+      "fecha": "Fri, 23 Oct 2026 23:24:29 +0000",
+      "categoria": "Cultura",
+      "resumen": "Los restos de Miguel Ángel Asturias retornarán a Guatemala en noviembre 2026. Conoce la agenda oficial anunciada para recibir al autor en el país.\nThe post Fecha del retorno de Miguel Ángel Asturias a Guatemala y actividades en su honor appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asaltantes en moto desatan pánico en la zona 7 al atacar a ocupantes de un vehículo en pleno tráfico",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/asaltantes-en-moto-desatan-panico-en-la-zona-7-al-atacar-a-ocupantes-de-un-vehiculo-en-pleno-trafico-breaking/",
+      "fecha": "Fri, 23 Oct 2026 22:52:39 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Asaltantes en motocicleta atacaron a los ocupantes de un vehículo en pleno tráfico de la zona 7 capitalina. Durante el incidente hubo forcejeos y disparos, pero ninguna persona resultó herida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Usó la identidad de un niño fallecido desde 1983: así descubrieron el fraude de un mexicano en Estados Unidos",
+      "link": "https://www.prensalibre.com/internacional/uso-la-identidad-de-un-nino-fallecido-desde-1983-asi-descubrieron-el-fraude-de-un-mexicano-en-estados-unidos/",
+      "fecha": "Fri, 23 Oct 2026 22:31:53 +0000",
+      "categoria": "Internacional",
+      "resumen": "¿Una vida prestada por 40 años? Un mexicano suplantó la identidad de un bebé para evadir la ley en EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Retorno de Miguel Ángel Asturias: actividades culturales, honras fúnebres y detalles de su inhumación",
+      "link": "https://www.prensalibre.com/vida/escenario/retorno-de-miguel-angel-asturias-actividades-culturales-honras-funebres-y-detalles-de-su-inhumacion/",
+      "fecha": "Fri, 23 Oct 2026 22:08:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Tras 52 años de su fallecimiento, los restos de Miguel Ángel Asturias, Premio Nobel de Literatura, regresarán a Guatemala en noviembre. Conoce los preparativos previos a su inhumación."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "MP allana el Instituto Fischmann, donde habría unos 700 estudiantes, y revisa dispositivos móviles",
@@ -49,6 +129,14 @@
       "fecha": "Fri, 23 Oct 2026 19:36:39 +0000",
       "categoria": "Sociedad",
       "resumen": "Luis Lara Grojec, CEO de Banco Industrial, fue nombrado como Gerente del Año 2026 por su trayectoria, liderazgo y contribución al desarrollo del país.\nThe post Luis Lara, CEO de Banco Industrial, reconocido como Gerente del Año 2026 en Guatemala appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Barriletes Gigantes de Sumpango: ¿Por qué la tradición se celebra el 1 de noviembre?",
+      "link": "https://www.prensalibre.com/vida/escenario/barriletes-gigantes-de-sumpango-por-que-la-tradicion-se-celebra-el-1-de-noviembre/",
+      "fecha": "Fri, 23 Oct 2026 19:17:32 +0000",
+      "categoria": "Escenario",
+      "resumen": "Tanto la exhibición como el vuelo de estos papalotes toman especial relevancia durante la fecha en la que, en varios países del mundo, se conmemora el encuentro de los vivos con los muertos."
     },
     {
       "fuente": "Prensa Libre",
@@ -755,86 +843,6 @@
       "resumen": "Iniciativas de moda guatemalteca destacan en Moscú, durante la Cumbre Mundial de Moda BRICS+ que reunió la participación de 60 países.\nThe post Moda guatemalteca destacó en Rusia por cuarto año consecutivo appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Amarini Villatoro advierte que Cartaginés debe anotar de visita para llegar a otra final en la Copa Centroamericana",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/amarini-villatoro-advierte-que-cartagines-debe-anotar-de-visita-para-llegar-a-otra-final-en-la-copa-centroamericana-breaking/",
-      "fecha": "Thu, 22 Oct 2026 16:39:23 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El técnico guatemalteco destacó el triunfo 1-0 ante Olimpia, pero reconoció que su equipo debe mejorar la contundencia para sellar la clasificación el miércoles 28 de octubre en Honduras."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. e Israel preparan nuevos ataques contra Irán: El papel de Donald Trump y las elecciones",
-      "link": "https://www.prensalibre.com/internacional/ee-uu-e-israel-preparan-nuevos-ataques-contra-iran-el-papel-de-donald-trump-y-las-elecciones/",
-      "fecha": "Thu, 22 Oct 2026 16:23:58 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los estrategas militares consideran que una campaña de tres días podría causar daños económicos suficientes para obligar a Irán a hacer concesiones diplomáticas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Fiebre de frontera”: escritor guatemalteco gana premio Elena Poniatowska 2026 con novela sobre migración",
-      "link": "https://www.prensalibre.com/vida/escenario/fiebre-de-frontera-escritor-guatemalteco-gana-premio-elena-poniatowska-2026-con-novela-sobre-migracion/",
-      "fecha": "Thu, 22 Oct 2026 15:41:15 +0000",
-      "categoria": "Escenario",
-      "resumen": "Mario Cordero Ávila aborda la migración en las fronteras latinoamericanas en “Fiebre de frontera”, novela ganadora del Concurso Iberoamericano de Cuento y Novela."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Riesgos en el clásico Barcelona-Real Madrid? El club garantiza que se jugará con normalidad pese a la huelga",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/riesgos-en-el-clasico-barcelona-real-madrid-el-club-garantiza-que-se-jugara-con-normalidad-pese-a-la-huelga-breaking/",
-      "fecha": "Thu, 22 Oct 2026 15:33:06 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Un grupo de trabajadores mantienen el llamado a paro durante el fin de semana para reclamar mejoras laborales, pero la entidad azulgrana afirma que tiene capacidad para garantizar los partidos programados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Violencia en la zona 6: ataque a balazos contra un picop deja un fallecido",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/violencia-en-la-zona-6-ataque-a-balazos-contra-un-picop-deja-un-fallecido-breaking/",
-      "fecha": "Thu, 22 Oct 2026 14:43:43 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un hombre murió por heridas de bala durante un ataque armado contra un picop en la zona 6 de la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Espionaje encubierto contra China? El programa que el Pentágono de Estados Unidos busca crear",
-      "link": "https://www.prensalibre.com/internacional/espionaje-encubierto-contra-china-el-programa-que-el-pentagono-de-estados-unidos-busca-crear/",
-      "fecha": "Thu, 22 Oct 2026 14:40:40 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los agentes operarían bajo identidades encubiertas, haciéndose pasar por empresarios o personal del sector privado, sin ninguna vinculación aparente con EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Cadejo negro: la leyenda del perro con ojos de fuego",
-      "link": "https://www.prensalibre.com/vida/escenario/el-cadejo-negro-la-leyenda-del-perro-con-ojos-de-fuego/",
-      "fecha": "Thu, 22 Oct 2026 14:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Dicen que el Cadejo negro puede acompañar a un borracho hasta su casa, pero hay algo que jamás debe permitírsele hacer."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala: Insivumeh pronostica lluvias y lloviznas para este jueves 22 de octubre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-insivumeh-pronostica-lluvias-y-lloviznas-para-este-jueves-22-de-octubre-breaking/",
-      "fecha": "Thu, 22 Oct 2026 13:50:51 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El ingreso de humedad desde ambos litorales propiciará condiciones lluviosas en Guatemala este jueves 22 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Justicia suiza confirma 14 años de prisión para Erwin Sperisen por complicidad en siete asesinatos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/justicia-suiza-confirma-14-anos-de-prision-para-erwin-sperisen-por-complicidad-en-siete-asesinatos-breaking/",
-      "fecha": "Thu, 22 Oct 2026 13:18:56 +0000",
-      "categoria": "Justicia",
-      "resumen": "Tribunal suizo confirma condena contra Erwin Sperisen, exdirector de la PNC, por complicidad en el asesinato de siete presos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué es PHP y por qué generó una falla de seguridad en internet que desató una alerta global?",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/que-es-php-y-por-que-genero-una-falla-de-seguridad-en-internet-que-desato-una-alerta-global/",
-      "fecha": "Thu, 22 Oct 2026 11:34:56 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Una IA detectó fallos de programación ocultos durante años, lo que desencadenó una inusual respuesta de ciberseguridad por temor a que fueran explotados por ciberatacantes."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "¿Se correrá el asueto del 1 de noviembre por el Día de Todos los Santos 2026?",
       "link": "https://www.guatemala.com/noticias/sociedad/asueto-1-de-noviembre-dia-de-todos-los-santos-2026-guatemala.html",
@@ -865,14 +873,6 @@
       "fecha": "Mon, 19 Oct 2026 15:06:34 +0000",
       "categoria": "Comunidad",
       "resumen": "El clima en Guatemala estará marcado por temperaturas de hasta 35°C y lluvias por las tardes y noches. ¡Descubre el pronóstico del Insivumeh aquí!\nThe post Días cálidos y con lluvia se presentarán del 19 al 23 de octubre 2026 en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "ENERGUATE continúa mejorando la experiencia de sus clientes con oficinas renovadas",
-      "link": "https://www.guatemala.com/noticias/sociedad/energuate-renueva-oficinas-distintos-puntos-pais.html",
-      "fecha": "Sat, 17 Oct 2026 00:40:21 +0000",
-      "categoria": "Sociedad",
-      "resumen": "ENERGUATE continúa mejorando la experiencia de atención presencial con oficinas renovadas que buscan atender las necesidades de los usuarios\nThe post ENERGUATE continúa mejorando la experiencia de sus clientes con oficinas renovadas appeared first on Guatemala.com."
     }
   ]
 }
