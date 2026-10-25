@@ -1,7 +1,87 @@
 {
-  "actualizado": "2026-10-25T05:52:19.259Z",
+  "actualizado": "2026-10-25T11:03:18.034Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Muertes por accidentes de tránsito superan a homicidios en 13 departamentos de Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/muertes-accidentes-transito-homicidios-13-departamentos-guatemala-2026/",
+      "fecha": "Sun, 25 Oct 2026 11:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Entre enero y septiembre del 2026, 13 departamentos registraron más muertes viales que homicidios. Las motocicletas concentran gran parte de los fallecimientos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gabriela Gil y Colectiva Enjambre: cómo el juego y la ciencia acompañan a 165 niñas en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/gabriela-gil-y-colectiva-enjambre-como-el-juego-y-la-ciencia-acompanan-a-165-ninas-en-guatemala/",
+      "fecha": "Sun, 25 Oct 2026 11:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Desde el 2024, Colectiva Enjambre ha organizado alrededor de 20 encuentros donde niñas y adolescentes exploran la ciencia, el movimiento y sus emociones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lavinia Fontana, la artista italiana del Renacimiento que fue la primera pintora de desnudos eróticos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/lavinia-fontana-la-artista-italiana-del-renacimiento-que-fue-la-primera-pintora-de-desnudos-eroticos/",
+      "fecha": "Sun, 25 Oct 2026 09:01:07 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La retratista del Renacimiento tardío Lavinia Fontana fue la primera mujer artista profesional en pintar una figura femenina desnuda; muchas de estas obras resultan más abiertamente sugerentes que las de sus colegas varones. ¿Eran una declaración de rebeldía contra su padre, una decisión comercial o una pista sobre su mundo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Digitalización de huellas",
+      "link": "https://www.prensalibre.com/opinion/caricatura/digitalizacion-de-huellas/",
+      "fecha": "Sun, 25 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vidas con arte",
+      "link": "https://www.prensalibre.com/opinion/editorial/vidas-con-arte/",
+      "fecha": "Sun, 25 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Lamentablemente, la formación artística no necesariamente ha sido una prioridad a lo largo de los gobiernos"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Y nosotros qué les decimos?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/y-nosotros-que-les-decimos/",
+      "fecha": "Sun, 25 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Los problemas de país son demasiado complejos como para pretender que existe una solución inmediata o que las próximas elecciones van a cambiarlo todo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Después de veinticuatro años",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/despues-de-veinticuatro-anos/",
+      "fecha": "Sun, 25 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La pregunta ya no es cuánto dinero recibe el sistema, sino qué capacidad posee para transformar recursos en desarrollo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De otra madera",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/de-otra-madera/",
+      "fecha": "Sun, 25 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Por un ideal que todos decimos profesar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La política exterior pasa factura",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-politica-exterior-pasa-factura/",
+      "fecha": "Sun, 25 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La política exterior del gobierno de Donald Trump tendrá un efecto en las próximas elecciones de medio término del 3 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy domingo 25 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-domingo-25-de-octubre-de-2026/",
+      "fecha": "Sun, 25 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Quién es Gadi Eisenkot, el general retirado que perdió un hijo en Gaza y desafía a Netanyahu en las primeras elecciones en Israel desde el ataque del 7 de octubre",
@@ -737,86 +817,6 @@
       "fecha": "Fri, 23 Oct 2026 17:58:00 +0000",
       "categoria": "Escenario",
       "resumen": "La esposa del príncipe Harry admite que mantuvo a sus hijos lejos de su progenitor porque conocía sus antecedentes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Floridalma Roque: juez aplaza audiencia de Kevin Malouf y fija nueva fecha para 2027",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-floridalma-roque-juez-aplaza-audiencia-de-kevin-malouf-y-fija-nueva-fecha-para-2027-breaking/",
-      "fecha": "Fri, 23 Oct 2026 17:33:02 +0000",
-      "categoria": "Justicia",
-      "resumen": "Juez suspende audiencia del cirujano Kevin Malouf por excusa presentada por su abogado defensor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Me avergüenza trabajar en Google&#8221;: los empleados que renuncian por el desarrollo de la IA con fines militares",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/me-averguenza-trabajar-en-google-los-empleados-que-renuncian-por-el-desarrollo-de-la-ia-con-fines-militares/",
-      "fecha": "Fri, 23 Oct 2026 17:03:20 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La BBC entrevistó a varios empleados actuales y antiguos de Google DeepMind que han dejado sus puestos por su rechazo a cómo la compañía impulsa el uso de sus productos de IA en contextos bélicos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Francia investiga como &#8220;terrorismo&#8221; un tiroteo mortal cerca de París",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/francia-investiga-como-terrorismo-un-tiroteo-mortal-cerca-de-paris/",
-      "fecha": "Fri, 23 Oct 2026 16:59:35 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Una persona murió y cinco resultaron heridas, tres de ellas graves, en una serie de ataques, y el presunto autor de los disparos fue detenido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vincent Kompany sufre un colapso y el Bayern Múnich se pronuncia",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/vincent-kompany-sufre-un-colapso-y-el-bayern-munich-se-pronuncia/",
-      "fecha": "Fri, 23 Oct 2026 16:54:12 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Un inesperado episodio encendió las alarmas en el Bayern Múnich: Vincent Kompany fue hospitalizado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fuerza Regida, Bad Bunny, Karol G, Peso Pluma y Romeo Santos lideran los Billboard Latinos",
-      "link": "https://www.prensalibre.com/vida/escenario/fuerza-regida-bad-bunny-karol-g-peso-pluma-y-romeo-santos-lideran-los-billboard-latinos/",
-      "fecha": "Fri, 23 Oct 2026 16:40:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Los grandes galardones de la noche, los premios especiales y los ausentes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Solo piel y huesos&#8221;: la lucha por sobrevivir de dos gemelos recién nacidos en medio de la crisis de hambre en Yemen",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/solo-piel-y-huesos-la-lucha-por-sobrevivir-de-dos-gemelos-recien-nacidos-en-medio-de-la-crisis-de-hambre-en-yemen/",
-      "fecha": "Fri, 23 Oct 2026 16:36:54 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La familia de los hermanos Raghad y Raad tuvo que huir de su casa a pie debido a los combates entre las fuerzas progubernamentales y los hutíes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video: así fue la caída que dejó a varios ciclistas sobre el asfalto en el arranque de la Vuelta a Guatemala",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/video-asi-fue-la-caida-que-dejo-a-varios-ciclistas-sobre-el-asfalto-en-el-arranque-de-la-vuelta-a-guatemala/",
-      "fecha": "Fri, 23 Oct 2026 16:26:11 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La 65 edición de la Vuelta a Guatemala arranca con tensión tras una aparatosa caída que involucra a varios ciclistas durante los primeros kilómetros de competencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De las críticas de Trump a la respuesta de LeBron James: Lo ocurrido durante el himno de EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/de-las-criticas-de-trump-a-la-respuesta-de-lebron-james-lo-ocurrido-durante-el-himno-de-ee-uu/",
-      "fecha": "Fri, 23 Oct 2026 16:21:23 +0000",
-      "categoria": "Internacional",
-      "resumen": "Donald Trump ha acusado a LeBron James de ser poco inteligente o incluso racista y ha aprovechado para decir que considera mejor jugador a Michael Jordan."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿A qué hora es la ceremonia del Balón de Oro 2026 en Guatemala? Estos son los principales candidatos",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/a-que-hora-es-la-ceremonia-del-balon-de-oro-2026-en-guatemala-estos-son-los-principales-candidatos/",
-      "fecha": "Fri, 23 Oct 2026 16:15:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Lamine Yamal, Kylian Mbappé y Harry Kane encabezan la lucha por el Balón de Oro 2026, cuyo ganador será revelado este lunes en una histórica ceremonia en Londres."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ruggero Pasquarelli y Michael Ronda confirman su amor por &#8220;Soy Luna Tour: El último show&#8221; y prometen entrega total en Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/ruggero-pasquarelli-y-michael-ronda-confirman-su-amor-por-soy-luna-tour-el-ultimo-show-y-prometen-entrega-total-en-guatemala/",
-      "fecha": "Fri, 23 Oct 2026 16:10:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El esperado regreso del elenco de “Soy Luna” a los escenarios promete emociones y la reciente gira en directo llegará a Guatemala con un espectáculo con recuerdos, historias y diversión."
     },
     {
       "fuente": "Guatemala.com",
