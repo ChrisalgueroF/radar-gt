@@ -1,7 +1,79 @@
 {
-  "actualizado": "2026-10-25T18:49:21.721Z",
+  "actualizado": "2026-10-25T21:34:19.393Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cobán sorprende a Marquense con una remontada y vence 3-1 en la jornada 16",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/coban-sorprende-a-marquense-con-una-remontada-y-vence-3-1-en-la-jornada-16-breaking/",
+      "fecha": "Sun, 25 Oct 2026 20:57:53 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los príncipes azules fueron por detrás en el marcador tras el gol de Carlos Santos  pero remontaron con goles de Janderson Pereira, Uri Amaral  y Juan Winter para llevarse los tres puntos en el estadio David Cordón Hichos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Motorista no obedece señal de alto, atropella a policía y termina detenido en Escuintla",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-motorista-por-atropellar-a-policia-en-escuintla-breaking/",
+      "fecha": "Sun, 25 Oct 2026 20:39:01 +0000",
+      "categoria": "Justicia",
+      "resumen": "El capturado no respetó la señal de alto que le hizo el agente de la PNC."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Festival Paseo de Catrinas 2026: tradición mexicana, arte y color llenaron el Centro Histórico de Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/festival-paseo-de-catrinas-2026-tradicion-mexicana-arte-y-color-llenaron-el-centro-historico-de-guatemala/",
+      "fecha": "Sun, 25 Oct 2026 20:11:42 +0000",
+      "categoria": "Escenario",
+      "resumen": "El Centro Histórico de Guatemala se llenó de arte y tradición mexicana con la tercera edición del Festival Paseo de Catrinas, que reunió a participantes caracterizados como estas figuras emblemáticas del Día de Muertos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; San Pedro vs. Malacateco: siga el minuto a minuto de la jornada 16",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-san-pedro-vs-malacateco-siga-el-minuto-a-minuto-de-la-jornada-16-breaking/",
+      "fecha": "Sun, 25 Oct 2026 20:10:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los gallos reciben a los toros este domingo a las 3:10 PM en el estadio Municipal Sampedrano en un duelo donde San Pedro buscará sumar de local para mantenerse en la pelea por los primeros lugares del torneo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lula vs. Flávio Bolsonaro: Brasil decide su presidencia con las encuestas en empate técnico",
+      "link": "https://www.prensalibre.com/internacional/lula-vs-flavio-bolsonaro-brasil-decide-su-presidencia-con-las-encuestas-en-empate-tecnico/",
+      "fecha": "Sun, 25 Oct 2026 19:40:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "Brasil decide entre Lula da Silva y Flávio Bolsonaro en una segunda vuelta con empate técnico en las encuestas, denuncias electorales y resultados de votación en el extranjero."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Wilson Chonay de Hino One La Red gana la tercera etapa de la Vuelta a Guatemala 2026",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/wilson-chonay-de-hino-one-la-red-gana-la-tercera-etapa-de-la-vuelta-a-guatemala-breaking/",
+      "fecha": "Sun, 25 Oct 2026 19:32:19 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El ciclista guatemalteco  Wilson Chonay se impuso en un final cerrado tras 196.5 kilómetros entre Antigua y Coatepeque mientras el costarricense Alejandro Granados le arrebata el suéter de líder a José Canastuj."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Barcelona vs. Real Madrid: siga el minuto a minuto del Clásico de LaLiga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-barcelona-vs-real-madrid-siga-el-minuto-a-minuto-del-clasico-de-laliga-breaking/",
+      "fecha": "Sun, 25 Oct 2026 19:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Los azulgranas líderes invictos reciben al Real Madrid este domingo en el Camp Nou en un Clásico donde los merengues buscarán evitar que el Barcelona se afiance en lo más alto de LaLiga."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Día de Muertos de las Mascotas: cuándo se celebra, cuál es su origen y cómo se conmemora",
+      "link": "https://www.prensalibre.com/vida/escenario/dia-de-muertos-de-las-mascotas-cuando-se-celebra-cual-es-su-origen-y-como-se-conmemora/",
+      "fecha": "Sun, 25 Oct 2026 18:51:27 +0000",
+      "categoria": "Escenario",
+      "resumen": "Las mascotas se han convertido en fieles compañeras de las personas. Por ello, se dedica un día especial a recordar a aquellas que han fallecido. Conozca cuándo se celebra el Día de Muertos de las Mascotas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Disparo y amenazas en el tránsito: video de asalto a piloto en la calzada Roosevelt",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/disparo-y-amenazas-en-el-transito-video-del-intento-de-asalto-a-piloto-en-la-calzada-roosevelt-breaking/",
+      "fecha": "Sun, 25 Oct 2026 18:19:14 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Video captado en la calzada Roosevelt muestra cómo ocurrió un asalto contra un automovilista."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "María Corina Machado vuelve a Venezuela tras 10 meses: la reacción de Trump y lo que aún se desconoce",
@@ -721,78 +793,6 @@
       "fecha": "Sat, 24 Oct 2026 03:17:56 +0000",
       "categoria": "Justicia",
       "resumen": "Padres de familia derribaron un portón del Instituto Fischmann para conocer el estado de sus hijos durante un allanamiento del MP. Un pelotón de antimotines llegó al establecimiento, donde también hay personal de la PGN y la PDH."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Charly García saluda desde su balcón a cientos de admiradores que celebran sus 75 años",
-      "link": "https://www.prensalibre.com/vida/escenario/charly-garcia-saluda-desde-su-balcon-a-cientos-de-admiradores-que-celebran-sus-75-anos/",
-      "fecha": "Sat, 24 Oct 2026 03:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "En Argentina se multiplican los homenajes para el artista que es considerado uno de los más emblemáticos del rock de ese país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miedo recreativo: ¿por qué nos gusta asustarnos?",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/miedo-recreativo-por-que-nos-gusta-asustarnos/",
-      "fecha": "Sat, 24 Oct 2026 02:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Dopamina, adrenalina y endorfinas: ¿cómo el cerebro es capaz de transformar una señal de peligro en una de las fuentes de placer más sorprendentes?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. eliminará aranceles a productos de Canadá a días de las elecciones legislativas: ¿qué hay detrás de la medida?",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos-eliminara-aranceles-a-productos-de-canada-a-dias-de-las-elecciones-legislativas-que-hay-detras-de-la-medida/",
-      "fecha": "Sat, 24 Oct 2026 01:39:09 +0000",
-      "categoria": "Internacional",
-      "resumen": "EE. UU. eximirá de aranceles a productos de Canadá tras gestiones de una senadora republicana que busca su reelección en Maine el 3 de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Digecam incorpora tecnología para obtener imágenes 3D de proyectiles y apoyar investigaciones criminales",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/digecam-incorpora-tecnologia-para-obtener-imagenes-3d-de-proyectiles-y-apoyar-investigaciones-criminales-breaking/",
-      "fecha": "Sat, 24 Oct 2026 01:05:19 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Digecam inauguró un laboratorio de huella balística que permitirá digitalizar marcas de proyectiles y casquillos, fortalecer el registro de armas de fuego y facilitar información técnica para investigaciones criminales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Solórzano Foppa: capturan a agentes de la Comisaría 13 de la PNC",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-solorzano-foppa-capturan-a-agentes-de-la-comisaria-13-de-la-pnc/",
-      "fecha": "Sat, 24 Oct 2026 00:43:39 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Agentes de la Comisaría 13 de la PNC fueron capturados por su presunta vinculación con irregularidades en la detención de dos hermanos tras el crimen de Juan Francisco Solórzano Foppa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sala de Apelaciones libra a tres militares por hurto de 74 fusiles y municiones del Comando Aéreo de Petén",
-      "link": "https://www.prensalibre.com/guatemala/politica/sala-de-apelaciones-libra-a-tres-militares-por-hurto-de-74-fusiles-y-municiones-del-comando-aereo-de-peten/",
-      "fecha": "Sat, 24 Oct 2026 00:43:02 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Con el fallo judicial, solo un procesado irá a juicio por el robo de fusiles y miles de municiones del comando ubicado en Petén, cuya entrega al crimen organizado era una de las hipótesis de la Fiscalía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video muestra cómo un migrante cruza hacia Texas y es detenido: ¿qué pasó con los presuntos traficantes?",
-      "link": "https://www.prensalibre.com/internacional/video-muestra-como-un-migrante-cruza-hacia-texas-y-es-detenido-que-paso-con-los-presuntos-traficantes/",
-      "fecha": "Sat, 24 Oct 2026 00:30:11 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un video muestra cómo un migrante cruza la frontera entre México y Texas, es detenido por la Patrulla Fronteriza y los presuntos traficantes huyen."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO Operativo del MP en el Instituto Fischmann: alumnos comienzan a salir y llegan antimotines de la PNC",
-      "link": "https://www.prensalibre.com/guatemala/justicia/en-vivo-operativo-del-mp-en-el-instituto-fischmann-alumnos-comienzan-a-salir-y-llegan-antimotines-de-la-pnc/",
-      "fecha": "Sat, 24 Oct 2026 00:08:27 +0000",
-      "categoria": "Justicia",
-      "resumen": "Estudiantes del Instituto Técnico Vocacional Dr. Imrich Fischmann, en la zona 13 capitalina, comenzaron a salir del establecimiento este viernes 23 de octubre, luego de varias horas de diligencias del Ministerio Público que generaron preocupación entre padres de familia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Publican el video de un tiroteo policial en el que murió un bebé en EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/publican-el-video-de-un-tiroteo-policial-en-el-que-murio-un-bebe-en-ee-uu/",
-      "fecha": "Fri, 23 Oct 2026 23:41:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Ocurrió en junio en Misisipi. Kohen Wiley, de un año, estaba en el regazo de su madre en un coche en movimiento cuando unos agentes que respondían a una llamada por robo rodearon el vehículo en un estacionamiento."
     },
     {
       "fuente": "Guatemala.com",
