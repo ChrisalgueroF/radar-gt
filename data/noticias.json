@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-10-25T00:55:52.302Z",
+  "actualizado": "2026-10-25T05:52:19.259Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién es Gadi Eisenkot, el general retirado que perdió un hijo en Gaza y desafía a Netanyahu en las primeras elecciones en Israel desde el ataque del 7 de octubre",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-gadi-eisenkot-el-general-retirado-que-perdio-un-hijo-en-gaza-y-desafia-a-netanyahu-en-las-primeras-elecciones-en-israel-desde-el-ataque-del-7-de-octubre/",
+      "fecha": "Sun, 25 Oct 2026 04:35:05 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El excomandante supone la mayor amenaza política para el primer ministro Benjamin Netanyahu en las próximas elecciones generales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mixco remontó y goleó 3-1 a Guastatoya para meterse en la pelea por el liderato",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/mixco-remonto-y-goleo-3-1-a-guastatoya-para-meterse-en-la-pelea-por-el-liderato-breaking/",
+      "fecha": "Sun, 25 Oct 2026 04:10:23 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los chicharroneros consiguieron su primera victoria de visita en el Apertura 2026 tras remontar el marcador en el David Cordón Hichos en lo que fue un golpe muy importante para las aspiraciones de Mixco en el torneo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cinco muertos en accidentes de tránsito que involucran a motoristas este sábado",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/cinco-personas-fallecen-este-sabado-en-distintos-accidentes-de-transito-que-involucran-a-motoristas-breaking/",
+      "fecha": "Sun, 25 Oct 2026 02:55:06 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Socorristas atendieron distintos accidentes de tránsito en Zacapa, El Progreso y Escuintla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comunicaciones derrota a Antigua 1-0 y se mantiene con vida en el torneo",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-derrota-a-antigua-1-0-y-se-mantiene-con-vida-en-el-torneo-breaking/",
+      "fecha": "Sun, 25 Oct 2026 01:55:25 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los cremas vencieron al líder  del torneo Antigua GFC con un penal de Dairon Reyes  y sumaron tres puntos vitales que los saca de la zona de descenso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Guastatoya vs. Mixco: siga el minuto a minuto de la jornada 16",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guastatoya-vs-mixco-siga-el-minuto-a-minuto-de-la-jornada-16-breaking/",
+      "fecha": "Sun, 25 Oct 2026 01:10:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los pecho amarillo reciben a los chicharroneros este sábado a las 4:00 PM en el estadio David Cordón Hichos en un duelo donde Mixco buscará dar el golpe de visitante para meterse en la parte alta de la tabla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hallan restos humanos en Haití y Bukele revela por qué no serían de los cuatro militares salvadoreños",
+      "link": "https://www.prensalibre.com/internacional/hallan-restos-humanos-en-haiti-y-bukele-revela-por-que-no-serian-de-los-cuatro-militares-salvadorenos/",
+      "fecha": "Sun, 25 Oct 2026 00:50:44 +0000",
+      "categoria": "Internacional",
+      "resumen": "El hallazgo de restos humanos en Haití desató interrogantes sobre los cuatro salvadoreños desaparecidos. Bukele explicó por qué asegura que no pertenecen a los militares."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De agresiones a homicidios: los casos de hijos señalados de atacar a sus padres en Guatemala durante el 2026",
+      "link": "https://www.prensalibre.com/guatemala/justicia/seis-capturados-por-agredir-a-sus-padres-en-guatemala-durante-el-2026-breaking/",
+      "fecha": "Sun, 25 Oct 2026 00:44:23 +0000",
+      "categoria": "Justicia",
+      "resumen": "La Policía Nacional Civil ha capturado en distintos departamentos a seis personas señaladas de agredir a sus padres. En algunos casos, las agresiones causaron la muerte de las víctimas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Jesús Nazareno de la Caída: exposición conmemorará 125 años de su procesión con túnicas, joyas y estandartes",
@@ -284,7 +340,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "El presidente Javier Milei y su hermana Karina son sobreseídos por la Justicia argentina en el escándalo de la criptomenada $LIBRA",
+      "titulo": "El presidente Javier Milei y su hermana Karina son sobreseídos por la Justicia argentina en el escándalo de la criptomonada $LIBRA",
       "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/el-presidente-javier-milei-y-su-hermana-karina-son-sobreseidos-por-la-justicia-argentina-en-el-escandalo-de-la-criptomenada-libra/",
       "fecha": "Sat, 24 Oct 2026 11:56:20 +0000",
       "categoria": "BBC News Mundo",
@@ -761,62 +817,6 @@
       "fecha": "Fri, 23 Oct 2026 16:10:00 +0000",
       "categoria": "Escenario",
       "resumen": "El esperado regreso del elenco de “Soy Luna” a los escenarios promete emociones y la reciente gira en directo llegará a Guatemala con un espectáculo con recuerdos, historias y diversión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Receta de fiambre: un platillo de tradición guatemalteca",
-      "link": "https://www.prensalibre.com/vida/receta-de-fiambre-un-platillo-de-tradicion-guatemalteca-2/",
-      "fecha": "Fri, 23 Oct 2026 16:08:35 +0000",
-      "categoria": "Vida",
-      "resumen": "Este recetario reúne fiambre y torrejas para que cree sus propios momentos en la cocina, si es la primera vez que los prepara."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala presenta aviones adquiridos a EE. UU. para combatir incendios forestales y atender emergencias",
-      "link": "https://www.prensalibre.com/guatemala/politica/guatemala-presenta-aviones-adquiridos-a-ee-uu-para-combatir-incendios-forestales-y-atender-emergencias-breaking/",
-      "fecha": "Fri, 23 Oct 2026 15:28:24 +0000",
-      "categoria": "Política",
-      "resumen": "Guatemala refuerza su capacidad aérea con nuevos aviones para combatir incendios y atender desastres."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo calcular el aguinaldo en Guatemala: fórmula, ejemplos y fechas de pago en el 2026",
-      "link": "https://www.prensalibre.com/economia/como-calcular-el-aguinaldo-en-guatemala-formula-ejemplos-y-fechas-de-pago-en-el-2026/",
-      "fecha": "Fri, 23 Oct 2026 15:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El monto de esta prestación laboral puede variar según el tiempo trabajado y los cambios de salario durante el año. Conozca los aspectos que debe tomar en cuenta para determinar cuánto dinero recibirá y evitar errores en el cálculo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Vuelta Ciclística a Guatemala 2026: siga la primera etapa entre Guastatoya y Puerto Barrios",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-vuelta-ciclistica-a-guatemala-2026-siga-la-primera-etapa-entre-guastatoya-y-puerto-barrios/",
-      "fecha": "Fri, 23 Oct 2026 14:59:25 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Con un trayecto de 215.4 kilómetros entre Guastatoya y Puerto Barrios, la primera etapa de la 65 Vuelta Ciclística a Guatemala marca el inicio de diez días de intensa competencia sobre las carreteras del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Premios Billboard Latinos 2026: Estos fueron los momentos más virales",
-      "link": "https://www.prensalibre.com/vida/escenario/premios-billboard-latinos-2026-estos-fueron-los-momentos-mas-virales/",
-      "fecha": "Fri, 23 Oct 2026 14:31:29 +0000",
-      "categoria": "Escenario",
-      "resumen": "El discurso de Rosalía, un homenaje a Juan Gabriel y el reconocimiento a la trayectoria de Cristian Castro formaron parte de la gala de la música en español."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Iban a trabajar y terminaron en la guerra”: El engaño que llevó a centroamericanos a Rusia",
-      "link": "https://www.prensalibre.com/internacional/iban-a-trabajar-y-terminaron-en-la-guerra-el-engano-que-llevo-a-centroamericanos-a-rusia/",
-      "fecha": "Fri, 23 Oct 2026 14:30:21 +0000",
-      "categoria": "Internacional",
-      "resumen": "El drama del reclutamiento de centroamericanos responde a un mismo detonante: la vulnerabilidad económica de quienes buscan una salida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Premios Princesa de Asturias: Leonor entrega insignias a Lionel Messi y Patti Smith",
-      "link": "https://www.prensalibre.com/vida/escenario/premios-princesa-de-asturias-leonor-entrega-insignias-a-lionel-messi-y-patti-smith/",
-      "fecha": "Fri, 23 Oct 2026 14:29:19 +0000",
-      "categoria": "Escenario",
-      "resumen": "La princesa Leonor de España entregó este 23 de octubre las insignias a los galardonados de la 46 edición de los Premios Princesa de Asturias, entre ellos el futbolista Lionel Messi y la cantante Patti Smith , un acto que realizó en solitario por primera vez."
     },
     {
       "fuente": "Guatemala.com",
