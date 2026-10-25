@@ -1,7 +1,71 @@
 {
-  "actualizado": "2026-10-25T11:03:18.034Z",
+  "actualizado": "2026-10-25T15:52:18.455Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Vuelta Ciclística a Guatemala 2026: siga la tercera etapa entre Antigua y Coatepeque",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-vuelta-ciclistica-a-guatemala-2026-siga-la-tercera-etapa-entre-antigua-y-coatepeque-breaking/",
+      "fecha": "Sun, 25 Oct 2026 14:50:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "José Canastuj defenderá el liderato de la clasificación general sobre el colombiano Cristian Rico en una tercera etapa de 196.5 kilómetros entre Antigua Guatemala y Coatepeque Quetzaltenango."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Temblores en Guatemala: Insivumeh reporta tres sismos este domingo 25 de octubre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/temblores-en-guatemala-insivumeh-reporta-tres-sismos-este-domingo-25-de-octubre-breaking/",
+      "fecha": "Sun, 25 Oct 2026 14:41:47 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh informó sobre tres temblores registrados este domingo y detalló la ubicación de sus epicentros."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Courtois es baja de última hora en el Real Madrid para el Clásico y Lunin irá de titular",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/courtois-es-baja-de-ultima-hora-en-el-real-madrid-para-el-clasico-y-lunin-ira-de-titular-breaking/",
+      "fecha": "Sun, 25 Oct 2026 14:07:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El portero belga, Thibaut Courtois  fue descartado de última hora por un proceso gripal dejando a Andriy Lunin como titular en el Camp Nou con el Real Madrid que también llega sin Vinícius y tres lesionados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Localizan a 14 personas desaparecidas en San Pedro Ayampuc: nueve son niños",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/localizan-a-14-personas-desaparecidas-en-san-pedro-ayampuc-nueve-son-ninos-breaking/",
+      "fecha": "Sun, 25 Oct 2026 14:06:32 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Bomberos localizaron en San Pedro Ayampuc a un grupo de personas que había sido reportado como extraviado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Carruaje de la Muerte: la leyenda del misterioso coche que anuncia una desgracia",
+      "link": "https://www.prensalibre.com/vida/escenario/el-carruaje-de-la-muerte-la-leyenda-del-misterioso-coche-que-anuncia-una-desgracia/",
+      "fecha": "Sun, 25 Oct 2026 14:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Las ruedas se escuchan acercarse por una calle vacía. El verdadero miedo comienza cuando el Carruaje de la Muerte se detiene frente a una casa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;De niño me enseñaron a reconocer a los policías encubiertos entre la multitud&#8221;: cómo fue mi infancia huyendo del FBI",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/de-nino-me-ensenaron-a-reconocer-a-los-policias-encubiertos-entre-la-multitud-como-fue-mi-infancia-huyendo-del-fbi/",
+      "fecha": "Sun, 25 Oct 2026 13:11:41 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los padres de Zayd eran miembros de Weather Underground, un grupo radical que buscaba visibilizar la desigualdad y la injusticia racial en EE.UU. colocando explosivos en edificios gubernamentales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelta a Guatemala 2026: detalles del recorrido de la tercera etapa entre Antigua y Coatepeque",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-detalles-del-recorrido-de-la-tercera-etapa-entre-antigua-y-coatepeque-breaking/",
+      "fecha": "Sun, 25 Oct 2026 13:00:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "José Canastuj defenderá el liderato de la clasificación general en una tercera etapa de 196.5 kilómetros que llevará al pelotón desde Antigua Guatemala hasta Coatepeque, Quetzaltenango."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Empleo para guatemaltecos en el extranjero: estos son los cinco países que más trabajadores han contratado en el 2026",
+      "link": "https://www.prensalibre.com/economia/empleo-para-guatemaltecos-en-el-extranjero-estos-son-los-cinco-paises-que-mas-trabajadores-han-contratado-en-el-2026/",
+      "fecha": "Sun, 25 Oct 2026 13:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Seis de cada 10 trabajadores incorporados al Programa de Trabajo Temporal en el Extranjero han sido contratados en Estados Unidos, seguido de España y Canadá, según informó una fuente estatal."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Muertes por accidentes de tránsito superan a homicidios en 13 departamentos de Guatemala",
@@ -747,76 +811,12 @@
       "resumen": "Tanto la exhibición como el vuelo de estos papalotes toman especial relevancia durante la fecha en la que, en varios países del mundo, se conmemora el encuentro de los vivos con los muertos."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuál es el origen de Halloween?",
-      "link": "https://www.prensalibre.com/vida/escenario/cual-es-el-origen-de-halloween/",
-      "fecha": "Fri, 23 Oct 2026 19:14:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Las raíces de este festejo se ubican en festividades celtas como el Samhain, que celebraba el fin de la cosecha y el inicio del invierno."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Lionel Messi recibió el Premio Princesa de Asturias de los Deportes 2026?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/por-que-lionel-messi-recibio-el-premio-princesa-de-asturias-de-los-deportes-2026/",
-      "fecha": "Fri, 23 Oct 2026 19:10:19 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El argentino Lionel Messi fue distinguido este viernes con el Premio Princesa de Asturias de los Deportes 2026, un galardón que reconoce su brillante trayectoria dentro y fuera de las canchas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Día de Todos los Santos 2026: anuncian restricciones y medidas ante la visita masiva a cementerios públicos de la capital",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/dia-de-todos-los-santos-2026-anuncian-restricciones-y-medidas-ante-la-visita-masiva-a-cementerios-publicos-de-la-capital-breaking/",
-      "fecha": "Fri, 23 Oct 2026 19:00:01 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Las autoridades prevén que al menos 1.6 millones de personas visiten los cementerios públicos de la capital el 1 de noviembre del 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Barcelona vs. Real Madrid: hora y dónde ver el clásico en Guatemala por la jornada 10 de LaLiga",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-vs-real-madrid-hora-y-donde-ver-el-clasico-en-guatemala-por-la-jornada-10-de-laliga/",
-      "fecha": "Fri, 23 Oct 2026 19:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El conjunto azulgrana buscará mantener su paso perfecto en el campeonato, mientras que el cuadro merengue intentará recortar distancias en la lucha por el liderato."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué ha pasado con la cárcel El Triunfo en Izabal? Defensa revela avances y cuándo espera entregarla",
-      "link": "https://www.prensalibre.com/guatemala/justicia/que-ha-pasado-con-la-carcel-el-triunfo-en-izabal-defensa-revela-avances-y-cuando-espera-entregarla/",
-      "fecha": "Fri, 23 Oct 2026 18:39:08 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El ministro de la Defensa, Henry Sáenz, explicó en qué etapa se encuentra la construcción de la cárcel de máxima seguridad El Triunfo en Izabal."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Clima en Guatemala: Pronostican disminución de lluvias para el 24 y 25 de octubre 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-24-y-25-octubre-2026.html",
       "fecha": "Fri, 23 Oct 2026 18:26:23 +0000",
       "categoria": "Comunidad",
       "resumen": "Este 24 y 25 de octubre 2026 estará marcado por una reducción de lluvias y altas temperaturas, según el pronóstico del clima en Guatemala. \nThe post Clima en Guatemala: Pronostican disminución de lluvias para el 24 y 25 de octubre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Siente tu Bum y descubre que te mueve",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/siente-tu-bum-y-descubre-que-te-mueve/",
-      "fecha": "Fri, 23 Oct 2026 18:17:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Una de las compañías de alimentos lideres en Colombia y el mundo, y líder en la categoría de bombones con chicle en 12 países de América Latina, Colombina, se une al artista musical J Balvin para celebrar el proceso detrás de los grandes sueños y lanza la edición especial Bon Bon Bum by J Balvin que llegará a 15 países con una producción estimada de 55 millones de unidades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué pasó con &#8220;Lady Gringa&#8221;? La extranjera señalada de agredir a empleados de una taquería",
-      "link": "https://www.prensalibre.com/internacional/que-paso-con-lady-gringa-la-extranjera-senalada-de-agredir-a-empleados-de-una-taqueria/",
-      "fecha": "Fri, 23 Oct 2026 18:01:19 +0000",
-      "categoria": "Internacional",
-      "resumen": "La estadounidense lanzó insultos y descalificaciones contra los empleados de una taquería y cuestionó en tono despectivo cuánto ganaban al año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Meghan Markle sabía de las acusaciones contra su padre desde 2018 y revela que se alejó para proteger a sus hijos",
-      "link": "https://www.prensalibre.com/vida/escenario/meghan-markle-sabia-de-las-acusaciones-contra-su-padre-desde-2018-y-revela-que-se-alejo-para-proteger-a-sus-hijos/",
-      "fecha": "Fri, 23 Oct 2026 17:58:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La esposa del príncipe Harry admite que mantuvo a sus hijos lejos de su progenitor porque conocía sus antecedentes."
     },
     {
       "fuente": "Guatemala.com",
