@@ -1,7 +1,47 @@
 {
-  "actualizado": "2026-10-25T23:59:17.136Z",
+  "actualizado": "2026-10-26T04:33:44.941Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan en Quiché a extraditable acusado de narcotráfico",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-en-quiche-a-extraditable-acusado-de-narcotrafico-breaking/",
+      "fecha": "Mon, 26 Oct 2026 03:17:50 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC detiene a un hombre requerido por delitos relacionados con el narcotráfico en Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aurora rescata el empate 2-2 ante Suchitepéquez que no logra salir del fondo",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/aurora-rescata-el-empate-2-2-ante-suchitepequez-que-no-logra-salir-del-fondo-breaking/",
+      "fecha": "Mon, 26 Oct 2026 01:49:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los aurinegros fueron por debajo en el marcador pero Marcos Acosta descontó y Héctor Morales igualó desde el penal en lo que fue un empate que casi termina en victoria con un gol anulado en el tiempo añadido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El veterano gobernante de Serbia, Aleksandar Vucic, reconoce la derrota electoral ante un movimiento de protesta liderado por estudiantes",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-veterano-gobernante-de-serbia-aleksandar-vucic-reconoce-la-derrota-electoral-ante-un-movimiento-de-protesta-liderado-por-estudiantes/",
+      "fecha": "Mon, 26 Oct 2026 01:00:52 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El líder populista de derecha, en el poder desde hace 12 años, afirma que es \"evidente\" que su partido ha perdido la votación, considerada un referéndum sobre el futuro del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Noche de los Museos en Guatemala: conozca las cuatro rutas, el mapa y los 31 espacios con entrada gratuita",
+      "link": "https://www.prensalibre.com/vida/escenario/noche-de-los-museos-en-guatemala-conozca-las-cuatro-rutas-el-mapa-y-los-31-espacios-con-entrada-gratuita/",
+      "fecha": "Mon, 26 Oct 2026 00:18:13 +0000",
+      "categoria": "Escenario",
+      "resumen": "La Noche de los Museos ofrece la oportunidad de conocer la riqueza cultural e histórica que resguardan museos y otros espacios de Guatemala. Estos son los lugares participantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lula consigue la reelección en Brasil tras remontar la ventaja de Flávio Bolsonaro en las encuestas",
+      "link": "https://www.prensalibre.com/internacional/quien-va-ganando-las-elecciones-en-brasil-asi-avanza-el-conteo-de-votos-entre-lula-y-flavio-bolsonaro/",
+      "fecha": "Sun, 25 Oct 2026 23:59:07 +0000",
+      "categoria": "Internacional",
+      "resumen": "Lula logra la reelección en Brasil con el 51.77% de los votos, tras superar a Flávio Bolsonaro, quien había liderado las encuestas. Conozca los resultados de la segunda vuelta presidencial."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "San Pedro rescata el empate 2-2 ante Malacateco y se mantiene invicto de local",
@@ -753,46 +793,6 @@
       "fecha": "Sat, 24 Oct 2026 06:06:00 +0000",
       "categoria": "Editorial",
       "resumen": "La distribución de los flujos de inversión muestra las fortalezas actuales de la economía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Te recuerdan por tus hechos, no por lo que aparentas",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/te-recuerdan-por-tus-hechos-no-por-lo-que-aparentas/",
-      "fecha": "Sat, 24 Oct 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Mucho de lo que nosotros podemos olvidar, los demás lo recuerdan de un modo permanente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mientras los republicanos se preparan para derrotas electorales, Elon Musk se alista para la guerra",
-      "link": "https://www.prensalibre.com/internacional/mientras-los-republicanos-se-preparan-para-derrotas-electorales-elon-musk-se-alista-para-la-guerra/",
-      "fecha": "Sat, 24 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Elon Musk advierte que tomará represalias contra los demócratas que buscan investigarlo si recuperan el control del Congreso en las elecciones de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mineduc: la calidad docente determinó los malos resultados en las pruebas Pisa",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/mineduc-la-calidad-docente-determino-los-malos-resultados-en-las-pruebas-pisa/",
-      "fecha": "Sat, 24 Oct 2026 06:05:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Ministerio de Educación busca mejorar la calidad de los aprendizajes de los estudiantes,  que podrá verse reflejada en los resultados de las próximas pruebas Pisa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Como a ti mismo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/como-a-ti-mismo/",
-      "fecha": "Sat, 24 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La igual dignidad del ser humano no es un concepto puramente abstracto o teológico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala ante la urgencia climática",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/guatemala-ante-la-urgencia-climatica/",
-      "fecha": "Sat, 24 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Guatemala se prepara para el evento mundial de cambio climático llamado COP31."
     },
     {
       "fuente": "Guatemala.com",
