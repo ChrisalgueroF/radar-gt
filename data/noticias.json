@@ -1,7 +1,183 @@
 {
-  "actualizado": "2026-10-26T10:53:12.129Z",
+  "actualizado": "2026-10-26T17:12:46.773Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Solórzano Foppa: suspenden audiencia de siete agentes de la PNC por captura de hermanos Choc Toz",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-solorzano-foppa-suspenden-audiencia-de-siete-agentes-de-la-pnc-por-captura-de-hermanos-choc-toz-breaking/",
+      "fecha": "Mon, 26 Oct 2026 16:39:51 +0000",
+      "categoria": "Justicia",
+      "resumen": "El juzgado de turno suspende la audiencia de primera declaración de los agentes de la Policía Nacional Civil  capturados por supuestas irregularidades en la detención de los hermanos Choc Toz."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "The One About Matthew Perry: cuándo se estrena la docuserie del actor de Friends y dónde verla en Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/the-one-about-matthew-perry-cuando-se-estrena-la-docuserie-del-actor-de-friends-y-donde-verla-en-guatemala/",
+      "fecha": "Mon, 26 Oct 2026 16:23:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "A tres años de la muerte de Matthew Perry, conocido por dar vida a Chandler Bing en la comedia Friends, se estrenará un documental sobre su vida. Esto se conoce sobre el estreno y dónde verlo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Es el BOAT el nuevo Super Balón de Oro? Qué se sabe del premio y cuándo se conocerá al ganador",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/es-el-boat-el-nuevo-super-balon-de-oro-que-se-sabe-del-premio-y-cuando-se-conocera-al-ganador/",
+      "fecha": "Mon, 26 Oct 2026 16:20:53 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El BOAT reúne a los futbolistas que han ganado el Balón de Oro dos o más veces y busca conocer cuál de ellos encarna mejor el legado del galardón."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "¿Cómo estará el clima en Guatemala la última semana de octubre 2026?",
+      "link": "https://www.guatemala.com/noticias/comunidad/pronostico-insivumeh-clima-guatemala-26-al-30-octubre-2026.html",
+      "fecha": "Mon, 26 Oct 2026 15:56:44 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Disminución de lluvias y viento frío marcarán las condiciones del clima en Guatemala del 26 al 30 de octubre 2026, según pronóstico del Insivumeh.\nThe post ¿Cómo estará el clima en Guatemala la última semana de octubre 2026? appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Balón de Oro 2026: candidatos, nominados y premios que se entregarán en Londres",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/balon-de-oro-2026-candidatos-nominados-y-premios-que-se-entregaran-en-londres/",
+      "fecha": "Mon, 26 Oct 2026 15:28:10 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La gala más esperada del futbol mundial premiará a una nueva figura en una elección cargada de expectativa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Falleció Eric Bauza, actor que dio voz a personajes como el Pato Lucas y Bugs Bunny, a los 46 años: ¿qué se sabe de la causa de muerte?",
+      "link": "https://www.prensalibre.com/vida/escenario/fallecio-eric-bauza-actor-que-dio-voz-a-personajes-como-el-pato-lucas-y-bugs-bunny-a-los-46-anos-que-se-sabe-de-la-causa-de-muerte/",
+      "fecha": "Mon, 26 Oct 2026 15:15:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Conocido por ser la voz moderna de algunos personajes de los Looney Tunes, Eric Bauza falleció a los 46 años. Esto se conoce sobre la causa de muerte del ganador del Emmy."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿De qué murió El Komanche? Las incógnitas sobre el fallecimiento del streamer salvadoreño",
+      "link": "https://www.prensalibre.com/internacional/de-que-murio-el-komanche-las-incognitas-sobre-el-fallecimiento-del-streamer-salvadoreno/",
+      "fecha": "Mon, 26 Oct 2026 15:01:06 +0000",
+      "categoria": "Internacional",
+      "resumen": "\"El bullying a cualquier escala no es un juego\", expresó el representante de El Komanche, un creador de contenido salvadoreño que tenía más de 895 mil seguidores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuáles fueron las cinco claves de la derrota del Barcelona frente al Real Madrid?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cuales-fueron-las-cinco-claves-de-la-derrota-del-barcelona-frente-al-real-madrid/",
+      "fecha": "Mon, 26 Oct 2026 14:59:02 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Tras 23 victorias consecutivas como local, el Barcelona perdió su invicto al caer 2-1 frente al Real Madrid. La neutralización de sus principales figuras y los problemas defensivos marcaron una noche amarga para el conjunto catalán."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Cantón Cultura, un lugar que une gastronomía, cultura y entretenimiento en Zona 4",
+      "link": "https://www.guatemala.com/noticias/sociedad/canton-cultura-nuevo-espacio-gastronomico-cultural-zona-4-ciudad-guatemala.html",
+      "fecha": "Mon, 26 Oct 2026 14:43:13 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Disfruta diferentes experiencias en Cantón Cultura, una plaza en Zona 4 de Ciudad Guatemala con opciones gastronómicas, un estudio de pilates y más. \nThe post Cantón Cultura, un lugar que une gastronomía, cultura y entretenimiento en Zona 4 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelta a Guatemala 2026 EN VIVO: siga la cuarta etapa entre San Felipe y San Rafael Pie de la Cuesta",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-en-vivo-siga-la-cuarta-etapa-entre-san-felipe-y-san-rafael-pie-de-la-cuesta/",
+      "fecha": "Mon, 26 Oct 2026 14:35:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "San Felipe y San Rafael Pie de la Cuesta serán los puntos de partida y llegada de una jornada llamada a marcar diferencias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala Sub-15 vence a Honduras, cae ante Guinea y avanza en la Copa Mundial y Festival de la Fifa",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-sub-15-vence-a-honduras-cae-ante-guinea-y-avanza-en-la-copa-mundial-y-festival-sub-15-de-la-fifa-breaking/",
+      "fecha": "Mon, 26 Oct 2026 14:20:31 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Bicolor terminó segunda del Grupo P con 10 puntos y ahora competirá por los puestos del 33 al 64 en el certamen que se disputa en Azerbaiyán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clima en Guatemala: temperaturas de hasta 35 °C y cuál es el pronóstico de lluvias del 26 al 30 de octubre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-temperaturas-de-hasta-35-c-y-cual-es-el-pronostico-de-lluvias-del-26-al-30-de-octubre-breaking/",
+      "fecha": "Mon, 26 Oct 2026 14:14:15 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh pronostica ambiente cálido y húmedo, así como posibles lluvias dispersas en Guatemala durante la última semana de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Balón de Oro 2026: fecha, hora y dónde ver la premiación en Guatemala",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/balon-de-oro-2026-fecha-hora-y-donde-ver-la-premiacion-en-guatemala-breaking/",
+      "fecha": "Mon, 26 Oct 2026 13:56:20 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La edición número 70 del galardón más prestigioso del fútbol se celebrará este lunes 26 de octubre en Londres con Lamine Yamal, Kylian Mbappé y Harry Kane entre los principales favoritos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El universo del marinero Le Male en la Future Store",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/el-universo-del-marinero-le-male-en-la-future-store/",
+      "fecha": "Mon, 26 Oct 2026 13:49:29 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Fetiche innovando y consintiendo a sus clientes más exigentes, trae a Guatemala el universo Le Male, el marinero de Jean Paul Gaultier, con fragancias caracterizadas por una feminidad extravagante y una masculinidad sexy asumida que deslumbran y atraen con un toque de fantasía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelta a Guatemala 2026: estas son las rutas por donde pasará la cuarta etapa entre Retalhuleu y San Marcos",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/vuelta-a-guatemala-2026-estas-son-las-rutas-por-donde-pasara-la-cuarta-etapa-breakin/",
+      "fecha": "Mon, 26 Oct 2026 13:40:49 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La jornada recorrerá 119.3 kilómetros entre San Felipe, Reu, y San Rafael Pie de la Cuesta, San Marcos, donde se anticipa la complicación de rutas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hallan posibles restos humanos envueltos en sábanas y nailon en las zonas 3 y 18 de la capital",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/hallan-posibles-restos-humanos-envueltos-en-sabanas-y-nailon-en-las-zonas-3-y-18-de-la-capital-breaking/",
+      "fecha": "Mon, 26 Oct 2026 13:39:09 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Los bomberos informaron este lunes sobre el hallazgo de posibles restos humanos en las zonas 3 y 18 de la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Apertura 2026: Antigua lidera, pero seis puntos separan la cima del séptimo lugar",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-antigua-lidera-pero-seis-puntos-separan-la-cima-del-septimo-lugar-breaking/",
+      "fecha": "Mon, 26 Oct 2026 13:15:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Municipal, Mixco y Guastatoya acechan al líder con 27 unidades, mientras Xelajú, Marquense y San Pedro se mantienen al alcance."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué es la fotónica y cómo puede lograr que los centros de datos de la IA consuman menos agua y energía",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/que-es-la-fotonica-y-como-puede-lograr-que-los-centros-de-datos-de-la-ia-consuman-menos-agua-y-energia/",
+      "fecha": "Mon, 26 Oct 2026 12:55:34 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Para ahorrar energía y aumentar la capacidad, los centros de datos están pasando del cableado de cobre a la tecnología que utiliza luz."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Múltiple colisión de seis vehículos bloquea el tránsito en ambos sentidos del km 7.8 de la ruta al Atlántico",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/multiple-colision-de-seis-vehiculos-bloquea-el-transito-en-ambos-sentidos-del-km-7-8-de-la-ruta-al-atlantico-breaking/",
+      "fecha": "Mon, 26 Oct 2026 12:25:08 +0000",
+      "categoria": "Sucesos",
+      "resumen": "El paso de vehículos permanece interrumpido en el kilómetro 7.8 de la ruta al Atlántico debido a una colisión múltiple."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo un movimiento estudiantil que nació de una tragedia acabó con 14 años de dominio político de Aleksandar Vučić en Serbia",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-un-movimiento-estudiantil-que-nacio-de-una-tragedia-acabo-con-14-anos-de-dominio-politico-de-aleksandar-vucic-en-serbia/",
+      "fecha": "Mon, 26 Oct 2026 12:20:47 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Ahora, tras ganar las elecciones, el movimiento tendrá que superar su desorganización y nombrar a un primer ministro, para lo cual no hay un candidato claro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inteligencia emocional: el superpoder de las familias armoniosas",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/inteligencia-emocional-el-superpoder-de-las-familias-armoniosas/",
+      "fecha": "Mon, 26 Oct 2026 12:00:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Escuchar, validar los sentimientos, establecer límites saludables y resolver conflictos con respeto ayuda a desarrollar autoestima, empatía y habilidades para afrontar las dificultades de la vida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bancos centrales: quiénes mantendrían las tasas y cuál podría subirlas",
+      "link": "https://www.prensalibre.com/economia/bancos-centrales-quienes-mantendrian-las-tasas-y-cual-podria-subirlas/",
+      "fecha": "Mon, 26 Oct 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La inflación y la incertidumbre económica marcan las próximas reuniones de las autoridades monetarias, mientras los analistas anticipan posibles ajustes en diciembre."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Presupuesto 2027: Comisión de Finanzas prevé emitir dictamen antes del 10 de noviembre y analiza posibles cambios",
@@ -635,166 +811,6 @@
       "resumen": "El partido Visión con Valores (Viva) celebró su asamblea nacional para proclamar a sus candidatos de cara al próximo proceso electoral."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan a sospechoso de ataque en el que murió el dueño de un gimnasio en Petén",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-presunto-atacante-del-dueno-de-un-gimnasio-en-peten-quien-fallecio-breaking/",
-      "fecha": "Sat, 24 Oct 2026 21:10:50 +0000",
-      "categoria": "Justicia",
-      "resumen": "La orden de captura contra el presunto atacante fue girada el pasado 28 de septiembre por un juez local."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Europa manifiesta por la vivienda, educación y el costo de la vida: qué ocurre en seis países y cuáles son sus demandas",
-      "link": "https://www.prensalibre.com/internacional/europa-manifiesta-por-la-vivienda-educacion-y-el-costo-de-la-vida-que-ocurre-en-seis-paises-y-cuales-son-sus-demandas/",
-      "fecha": "Sat, 24 Oct 2026 21:02:40 +0000",
-      "categoria": "Internacional",
-      "resumen": "El costo de la vida, las dificultades para conseguir vivienda, el deterioro de los servicios públicos y la desconfianza en los gobiernos alimentan una serie de manifestaciones en Europa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuándo regresan los restos de Miguel Ángel Asturias a Guatemala?: fecha, homenajes y lo que se conoce de su monumento funerario",
-      "link": "https://www.prensalibre.com/vida/escenario/cuando-regresan-los-restos-de-miguel-angel-asturias-a-guatemala-fecha-homenajes-y-lo-que-se-conoce-de-su-monumento-funerario/",
-      "fecha": "Sat, 24 Oct 2026 20:28:55 +0000",
-      "categoria": "Escenario",
-      "resumen": "En noviembre, los restos del Premio Nobel de Literatura Miguel Ángel Asturias regresarán a Guatemala, 52 años después de su fallecimiento. Conozca cuándo llegarán al país y la agenda de su retorno."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Extraditan a hombre desde España a Guatemala por agresión sexual",
-      "link": "https://www.prensalibre.com/guatemala/justicia/extraditan-a-hombre-desde-espana-a-guatemala-por-agresion-sexual-breaking/",
-      "fecha": "Sat, 24 Oct 2026 20:22:54 +0000",
-      "categoria": "Justicia",
-      "resumen": "El hombre tenía una alerta roja internacional, por lo que fue capturado en España y extraditado a Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cristian Rico del NU Colombia gana la segunda etapa de la Vuelta a Guatemala 2026",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/cristian-rico-del-nu-colombia-gana-la-segunda-etapa-de-la-vuelta-a-guatemala-2026-breaking/",
-      "fecha": "Sat, 24 Oct 2026 20:18:21 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El colombiano Cristian Rico se impuso en la etapa de 212 kilómetros dándole a NU Colombia su segunda victoria consecutiva de la Vuelta mientras el guatemalteco José Canastuj tomó el liderato de la clasificación general."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Museo de Arte Colonial de Antigua Guatemala reabre con exposición religiosa: ¿qué se sabe de las piezas trasladadas tras los operativos?",
-      "link": "https://www.prensalibre.com/vida/escenario/museo-de-arte-colonial-de-antigua-guatemala-reabre-con-exposicion-religiosa-que-se-sabe-de-las-piezas-trasladadas-tras-los-operativos/",
-      "fecha": "Sat, 24 Oct 2026 20:11:58 +0000",
-      "categoria": "Escenario",
-      "resumen": "Meses después de que se retiraran más de 280 piezas de la colección que resguardaba el Museo de Arte Colonial, el recinto reabre con una exposición de la Hermandad de Jesús Nazareno de la Caída."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Kim Jong-un visitó China? Los temas que abordó con uno de los principales asesores de Xi Jinping",
-      "link": "https://www.prensalibre.com/internacional/por-que-kim-jong-un-visito-china-los-temas-que-abordo-con-uno-de-los-principales-asesores-de-xi-jinping/",
-      "fecha": "Sat, 24 Oct 2026 19:16:11 +0000",
-      "categoria": "Internacional",
-      "resumen": "Kim Jong-un cruzó la frontera hacia China para reunirse con uno de los principales asesores de Xi Jinping. ¿Qué temas abordaron y por qué el encuentro se realizó en Dandong?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos regresos esperados: Pinto y Apaolaza vuelven para el duelo entre Comunicaciones y Antigua",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/dos-regresos-esperados-pinto-y-apaolaza-vuelven-para-el-duelo-entre-comunicaciones-y-antigua-breaking/",
-      "fecha": "Sat, 24 Oct 2026 19:12:20 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El jugador crema José Pinto y el delantero de Antigua Francisco Apaolaza regresan esta noche a las convocatorias de sus respectivos equipos para la jornada 16 del Apertura 2026 tras meses de ausencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Xelajú MC vs. Municipal: siga el minuto a minuto de la jornada 16",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-xelaju-mc-vs-municipal-siga-el-minuto-a-minuto-de-la-jornada-16-breaking/",
-      "fecha": "Sat, 24 Oct 2026 19:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los superchivos reciben este sábado a las 2:00 PM en el estadio Mario Camposeco a los rojos que llegan en un mal momento del torneo con cinco partidos sin poder ganar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinato del director de la Granja Penal Canadá activa alerta por posibles motines en dos cárceles",
-      "link": "https://www.prensalibre.com/guatemala/justicia/asesinato-del-director-de-la-granja-penal-canada-activa-alerta-por-posibles-motines-en-dos-carceles-breaking/",
-      "fecha": "Sat, 24 Oct 2026 18:41:19 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC recibe “alerta roja” por posibles motines en dos cárceles tras asesinato de director de la Granja Penal Canadá."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Niña de 13 años forcejea con un hombre y logra escapar de supuesto secuestro en Florida: el momento quedó grabado en video",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/nina-de-13-anos-forcejea-con-un-hombre-y-logra-escapar-de-supuesto-secuestro-en-florida-el-momento-quedo-grabado-en-video/",
-      "fecha": "Sat, 24 Oct 2026 18:16:28 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Un hombre de 32 años fue arrestado tras el incidente ocurrido en Miramar. Una cámara de vigilancia captó el momento en que la menor forcejeó con el sospechoso y logró huir."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala Sub-15 debuta con victoria 1-0 ante Singapur en la Copa Mundial de la FIFA",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-sub-15-debuta-con-victoria-1-0-ante-singapur-en-la-copa-mundial-de-la-fifa-breaking/",
-      "fecha": "Sat, 24 Oct 2026 18:14:07 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Giancarlo Marroquín anotó el gol de la victoria en el segundo tiempo para que la Bicolor arrancara con el pie derecho en la primera edición de la Copa Mundial y Festival Sub-15 de la FIFA en Bakú Azerbaiyán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinan al director de la Granja Canadá en Escuintla: esto se sabe del ataque armado",
-      "link": "https://www.prensalibre.com/ciudades/guatemala-ciudades/asesinan-al-director-de-la-granja-canada-en-escuintla-esto-se-sabe-del-ataque-armado/",
-      "fecha": "Sat, 24 Oct 2026 18:01:36 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Las autoridades comenzaron una investigación para esclarecer las circunstancias del ataque armado en el que murió José Ariel Barrios Rodríguez, de 41 años, director en funciones de la Granja Modelo de Rehabilitación Canadá, en Escuintla, la noche del viernes 23 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo EE.UU. se ha convertido en una gerontocracia que no representa el perfil de edad del país",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-ee-uu-se-ha-convertido-en-una-gerontocracia-que-no-representa-el-perfil-de-edad-del-pais/",
-      "fecha": "Sat, 24 Oct 2026 17:56:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Un país sin futuro para los jóvenes: ¿por qué los políticos de mayor edad parecen tener un control tan férreo sobre el sistema político estadounidense?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Violencia contra el transporte público en Guatemala: asociación de usuarios contabiliza 92 víctimas mortales",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/violencia-contra-el-transporte-publico-en-guatemala-asociacion-de-usuarios-contabiliza-92-victimas-mortales-breaking/",
-      "fecha": "Sat, 24 Oct 2026 17:20:19 +0000",
-      "categoria": "Sucesos",
-      "resumen": "La Asociación de Usuarios del Transporte Urbano y Extraurbano contabiliza 92 fallecidos y 62 heridos en hechos violentos relacionados con el transporte público en Guatemala durante el 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nayib Bukele llama “satánicas” a las pandillas de Haití tras la desaparición de cuatro soldados salvadoreños",
-      "link": "https://www.prensalibre.com/internacional/nayib-bukele-llama-satanicas-a-las-pandillas-de-haiti-tras-la-desaparicion-de-cuatro-soldados-salvadorenos/",
-      "fecha": "Sat, 24 Oct 2026 16:55:30 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente de El Salvador, Nayib Bukele, respondió a quienes cuestionan la participación de militares salvadoreños en Haití, mientras continúa la búsqueda de cuatro soldados desaparecidos el 18 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Barcelona vs. Real Madrid: esto dice la IA sobre quién ganará el Clásico de LaLiga",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-vs-real-madrid-esto-dice-la-ia-sobre-quien-ganara-el-clasico-de-laliga-breaking/",
-      "fecha": "Sat, 24 Oct 2026 16:44:18 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La inteligencia artificial tiene favorito para el Clásico de este domingo entre Barcelona y Real Madrid en el Camp Nou tras analizar el momento de forma, las bajas y las estadísticas de ambos equipos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Más de 130 arrestos en Francia donde miles de personas salen a las calles a protestar",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/mas-de-130-arrestos-en-francia-donde-miles-de-personas-salen-a-las-calles-a-protestar/",
-      "fecha": "Sat, 24 Oct 2026 16:40:43 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Por segundo sábado consecutivo, miles de personas se han movilizado en varias ciudades de Francia para protestar por el costo de la vida así como también por una mejora en la educación, entre otros motivos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Solórzano Foppa: juez fija fecha para primera declaración de policías detenidos por captura de hermanos Choc Toz",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-solorzano-foppa-juez-fija-fecha-para-primera-declaracion-de-policias-detenidos-por-captura-de-hermanos-choc-toz-breaking/",
-      "fecha": "Sat, 24 Oct 2026 15:59:26 +0000",
-      "categoria": "Justicia",
-      "resumen": "Siete agentes de la PNC, señalados por presuntas irregularidades en la captura de los hermanos Choc Toz, permanecen en las carceletas de la Torre de Tribunales en espera de la audiencia de primera declaración."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Balón de Oro 2026: fecha, hora y dónde ver la premiación en Guatemala",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/balon-de-oro-2026-fecha-hora-y-donde-ver-la-premiacion-en-guatemala-breaking/",
-      "fecha": "Sat, 24 Oct 2026 15:18:28 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La edición número 70 del galardón más prestigioso del fútbol se celebrará este lunes 26 de octubre en Londres con Lamine Yamal, Kylian Mbappé y Harry Kane entre los principales favoritos."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Fecha del retorno de Miguel Ángel Asturias a Guatemala y actividades en su honor",
       "link": "https://www.guatemala.com/noticias/cultura/confirman-fecha-retorno-miguel-angel-asturias-guatemala.html",
@@ -857,22 +873,6 @@
       "fecha": "Mon, 19 Oct 2026 21:43:37 +0000",
       "categoria": "Tecnología",
       "resumen": "Guatemala se ha integrado al Sistema de Alertas de Sismos de Android, una función que alertará unos segundos antes al presentarse un sismo en el país.\nThe post Las alertas de Google por sismos ya se encuentran disponibles en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Frases que demuestran que en la Ciudad de Guatemala somos Buena Gente",
-      "link": "https://www.guatemala.com/noticias/vida/frases-que-demuestran-que-en-la-ciudad-de-guatemala-somos-buena-gente.html",
-      "fecha": "Mon, 19 Oct 2026 18:30:56 +0000",
-      "categoria": "Vida",
-      "resumen": "Acá te dejamos un listado con frases que demuestran que en la ciudad somos buena gente, solidarios y empáticos con quienes nos visitan.\nThe post Frases que demuestran que en la Ciudad de Guatemala somos Buena Gente appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Días cálidos y con lluvia se presentarán del 19 al 23 de octubre 2026 en Guatemala",
-      "link": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-19-al-23-octubre-2026.html",
-      "fecha": "Mon, 19 Oct 2026 15:06:34 +0000",
-      "categoria": "Comunidad",
-      "resumen": "El clima en Guatemala estará marcado por temperaturas de hasta 35°C y lluvias por las tardes y noches. ¡Descubre el pronóstico del Insivumeh aquí!\nThe post Días cálidos y con lluvia se presentarán del 19 al 23 de octubre 2026 en Guatemala appeared first on Guatemala.com."
     }
   ]
 }
