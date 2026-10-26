@@ -1,7 +1,119 @@
 {
-  "actualizado": "2026-10-26T04:33:44.941Z",
+  "actualizado": "2026-10-26T10:53:12.129Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027: Comisión de Finanzas prevé emitir dictamen antes del 10 de noviembre y analiza posibles cambios",
+      "link": "https://www.prensalibre.com/economia/presupuesto-2027-comision-de-finanzas-preve-emitir-dictamen-antes-del-10-de-noviembre-y-analiza-posibles-cambios/",
+      "fecha": "Mon, 26 Oct 2026 09:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Esta semana concluyen las audiencias públicas y la sala legislativa de Finanzas prevé emitir el dictamen con el apoyo del Ministerio de Finanzas para efectuar posibles modificaciones a la iniciativa de presupuesto por Q192 mil 45 millones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entrevista con Luis Lara, gerente del Año 2026: &#8220;La falta de carreteras y puertos podría frenar el crecimiento de Guatemala&#8221;",
+      "link": "https://www.prensalibre.com/economia/entrevista-con-luis-lara-gerente-del-ano-2026-la-falta-de-carreteras-y-puertos-podria-frenar-el-crecimiento-de-guatemala/",
+      "fecha": "Mon, 26 Oct 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Aunque reconoce la estabilidad macroeconómica de Guatemala, Luis Lara, galardonado como Gerente del Año por la Asociación de Gerentes de Guatemala (AGG), considera urgente invertir en infraestructura para evitar un colapso que limite el desarrollo del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Huité: Caso clave queda en manos de la fiscalía distrital",
+      "link": "https://www.prensalibre.com/guatemala/huite-caso-clave-queda-en-manos-de-la-fiscalia-distrital/",
+      "fecha": "Mon, 26 Oct 2026 06:10:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Expertos indican que el análisis de cadáveres y las escenas del crimen debió ser más “robusto” y que, por seguridad, una fiscalía capitalina debió encargarse de la investigación de los crímenes en Huité."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Antes del Día de Difuntos",
+      "link": "https://www.prensalibre.com/opinion/caricatura/antes-del-dia-de-difuntos/",
+      "fecha": "Mon, 26 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La libre expresión es un bastión de la ciudadanía",
+      "link": "https://www.prensalibre.com/opinion/editorial/la-libre-expresion-es-un-bastion-de-la-ciudadania/",
+      "fecha": "Mon, 26 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Es opinar, disentir, buscar respuestas, cuestionar las decisiones públicas y exigir mejoras en el desarrollo comunitario o nacional sin temor a represalias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Riesgos dentro de la libre emisión del pensamiento",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/riesgos-dentro-de-la-libre-emision-del-pensamiento/",
+      "fecha": "Mon, 26 Oct 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Una tarea ciudadana es demostrar claro rechazo a los crímenes políticos por divulgar el pensamiento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "París intenta recuperar la calma, pero los franceses siguen hartos del costo de vida y la crisis política",
+      "link": "https://www.prensalibre.com/internacional/paris-intenta-recuperar-la-calma-pero-los-franceses-siguen-hartos-del-costo-de-vida-y-la-crisis-politica/",
+      "fecha": "Mon, 26 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Comerciantes, estudiantes y trabajadores comparten una sensación de abandono mientras Francia se prepara para nuevas protestas tras los disturbios y saqueos del fin de semana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Evidencia contradice al Mindef respecto a ocho asesinatos en Huité",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/evidencia-contradice-al-mindef-respecto-a-ocho-asesinatos-en-huite/",
+      "fecha": "Mon, 26 Oct 2026 06:05:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Imágenes muestran que parte del comando armado se replegó hacia la capital o la ruta al Atlántico, y no sólo a la brigada militar en Zacapa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Recursos de los Codedes fomentan mayor corrupción",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/recursos-de-los-codedes-fomentan-mayor-corrupcion/",
+      "fecha": "Mon, 26 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Congreso puede mostrar más coherencia"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Meses para aprobar un champú",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/meses-para-aprobar-un-champu/",
+      "fecha": "Mon, 26 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La burocracia encarece los productos, limita la competencia y dificulta la libertad de emprender."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La confianza también produce",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-confianza-tambien-produce/",
+      "fecha": "Mon, 26 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La credibilidad monetaria y la disciplina fiscal influyen en lo que consumimos e invertimos hoy."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Libertad de criterio docente",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/libertad-de-criterio-docente/",
+      "fecha": "Mon, 26 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Muera la tristeza, mueran los que odian."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy lunes 26 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-26-de-octubre-de-2026/",
+      "fecha": "Mon, 26 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ciberseguridad en la construcción: &#8220;Las empresas deben verla como un asunto de continuidad operativa&#8221;",
+      "link": "https://www.prensalibre.com/economia/ciberseguridad-en-la-construccion-las-empresas-deben-verla-como-un-asunto-de-continuidad-operativa/",
+      "fecha": "Mon, 26 Oct 2026 06:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Carlos Villagra, experto de Progreso, explica por qué las empresas constructoras deben incorporar la protección digital como parte de su estrategia de continuidad operativa."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Capturan en Quiché a extraditable acusado de narcotráfico",
@@ -681,118 +793,6 @@
       "fecha": "Sat, 24 Oct 2026 15:18:28 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "La edición número 70 del galardón más prestigioso del fútbol se celebrará este lunes 26 de octubre en Londres con Lamine Yamal, Kylian Mbappé y Harry Kane entre los principales favoritos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Matan a director de la Granja Penal Canadá y PNC indica cómo habría ocurrido el ataque armado",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/matan-a-director-de-la-granja-penal-canada-y-pnc-indica-como-habria-ocurrido-el-ataque-armado-breaking/",
-      "fecha": "Sat, 24 Oct 2026 14:57:16 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Director de la Granja Penal Canadá muere en ataque armado mientras se desplazaba en motocicleta en Escuintla, según la PNC."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Vuelta Ciclística a Guatemala 2026: siga el minuto a minuto de la segunda etapa",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-vuelta-ciclistica-a-guatemala-2026-siga-el-minuto-a-minuto-de-la-segunda-etapa-breaking/",
-      "fecha": "Sat, 24 Oct 2026 14:45:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El colombiano Johan Rubio defenderá el liderato en una segunda etapa de 212 kilómetros que llevará al pelotón desde Morales Izabal hasta San Antonio La Paz El Progreso en una jornada tan exigente como la inaugural."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Crimen contra Solórzano Foppa: agentes capturados señalan intereses políticos y al crimen organizado",
-      "link": "https://www.prensalibre.com/guatemala/justicia/crimen-contra-solorzano-foppa-agentes-capturados-senalan-intereses-politicos-y-al-crimen-organizado-breaking/",
-      "fecha": "Sat, 24 Oct 2026 14:00:21 +0000",
-      "categoria": "Justicia",
-      "resumen": "Agentes capturados por presuntas irregularidades en la detención de los hermanos Choc Toz tras el asesinato de Solórzano Foppa señalan intereses políticos en el caso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La Procesión de las Ánimas: la leyenda de los muertos que vuelven a caminar de noche",
-      "link": "https://www.prensalibre.com/vida/escenario/la-procesion-de-las-animas-la-leyenda-de-los-muertos-que-vuelven-a-caminar-de-noche/",
-      "fecha": "Sat, 24 Oct 2026 14:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Velas, figuras encapuchadas y una procesión silenciosa, los antiguos pobladores tenían una advertencia: nunca aceptes nada de quienes marchan en ella."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemalteco es condenado a cadena perpetua por asesinato de Faith Hedgepeth en Estados Unidos",
-      "link": "https://www.prensalibre.com/guatemala/migrantes/guatemalteco-es-condenado-a-cadena-perpetua-por-asesinato-de-faith-hedgepeth-en-estados-unidos/",
-      "fecha": "Sat, 24 Oct 2026 13:03:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El connacional fue hallado culpable del crimen contra una universitaria de 19 años en Carolina del Norte en 2012."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El presidente Javier Milei y su hermana Karina son sobreseídos por la Justicia argentina en el escándalo de la criptomonada $LIBRA",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/el-presidente-javier-milei-y-su-hermana-karina-son-sobreseidos-por-la-justicia-argentina-en-el-escandalo-de-la-criptomenada-libra/",
-      "fecha": "Sat, 24 Oct 2026 11:56:20 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El mandatario había apoyado en 2025 el lanzamiento de una criptomoneda que luego fracasó. Milei siempre insistió que fue un tema entre privados, sin ninguna intervención del Estado argentino."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso podría reelegir a Luis Contreras el martes con una Junta Directiva casi idéntica a la actual",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-podria-reelegir-a-luis-contreras-el-martes-con-una-junta-directiva-casi-identica-a-la-actual/",
-      "fecha": "Sat, 24 Oct 2026 11:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Congreso tiene previsto elegir el próximo martes a la Junta Directiva que dirigirá el Organismo Legislativo durante el 2027, en medio de las gestiones políticas para definir su integración y de las aspiraciones de Luis Contreras de continuar en la presidencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala 2026: detalles del recorrido de la segunda etapa, que tendrá 212 kilómetros",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-detalles-del-recorrido-de-la-segunda-etapa-que-tendra-212-kilometros/",
-      "fecha": "Sat, 24 Oct 2026 09:00:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Luego de conquistar la etapa inaugural entre Guastatoya y Puerto Barrios, el colombiano Johan Steven Rubio saltará nuevamente a la carretera con la misión de defender el suéter de líder."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arrestan a una persona tras el incendio en el refugio &#8220;Nido del Águila&#8221; de Adolf Hitler",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/arrestan-a-una-persona-tras-el-incendio-en-el-refugio-nido-del-aguila-de-adolf-hitler/",
-      "fecha": "Sat, 24 Oct 2026 07:29:58 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Alrededor de 200 efectivos de emergencia han sido desplegados para combatir el incendio en la residencia alpina del dictador nazi en Alemania."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Más autonomía, resistencia e inteligencia para el usuario moderno",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/mas-autonomia-resistencia-e-inteligencia-para-el-usuario-moderno/",
-      "fecha": "Sat, 24 Oct 2026 06:30:26 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Claro Guatemala fortalece su portafolio con la llegada de la nueva Serie REDMI Note 17, de Xiaomi, una generación de smartphones que redefine la propuesta de valor en la gama media al combinar una autonomía excepcional, altos estándares de durabilidad, capacidades avanzadas de inteligencia artificial y una experiencia de usuario diseñada para mantenerse vigente durante años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Superintendencia de Competencia: Carlos Ortiz responde a los cinco principales desafíos de la Sicom",
-      "link": "https://www.prensalibre.com/economia/superintendencia-de-competencia-carlos-ortiz-responde-a-los-cinco-principales-desafios-de-la-sicom/",
-      "fecha": "Sat, 24 Oct 2026 06:30:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Ante la proximidad del 9 de diciembre, la Sicom trabaja en su estructura institucional, la contratación de personal y las reglas necesarias para investigar y sancionar prácticas anticompetitivas, afirma Carlos Ortiz Ortiz, superintendente de Competencia, quien reconoce los cinco principales retos identificados por expertos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ley de Competencia: los cinco retos de la Sicom antes del 9 de diciembre",
-      "link": "https://www.prensalibre.com/economia/ley-de-competencia-los-cinco-retos-de-la-sicom-antes-del-9-de-diciembre/",
-      "fecha": "Sat, 24 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Con un nuevo superintendente al frente y el plazo del 9 de diciembre cada vez más cerca, la Superintendencia de Competencia debe acelerar su organización, contratar personal y establecer procedimientos para aplicar la ley. Expertos identifican las prioridades y los principales obstáculos que enfrenta la institución."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Halloween chapín",
-      "link": "https://www.prensalibre.com/opinion/caricatura/halloween-chapin/",
-      "fecha": "Sat, 24 Oct 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Auge en inversión es buena noticia y desafío",
-      "link": "https://www.prensalibre.com/opinion/editorial/auge-en-inversion-es-buena-noticia-y-desafio/",
-      "fecha": "Sat, 24 Oct 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "La distribución de los flujos de inversión muestra las fortalezas actuales de la economía."
     },
     {
       "fuente": "Guatemala.com",
