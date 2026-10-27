@@ -1,7 +1,103 @@
 {
-  "actualizado": "2026-10-27T19:57:46.118Z",
+  "actualizado": "2026-10-27T23:42:18.479Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "CC ordena suspender a José de la Peña como presidente de Empornac: ¿quién asumirá el cargo?",
+      "link": "https://www.prensalibre.com/economia/cc-ordena-suspender-a-jose-de-la-pena-como-presidente-de-empornac-quien-asumira-el-cargo/",
+      "fecha": "Tue, 27 Oct 2026 23:20:56 +0000",
+      "categoria": "Economía",
+      "resumen": "La terminal portuaria de Santo Tomás de Castilla en Izabal mantiene sus operaciones de importación y exportación con normalidad, pese a la resolución judicial."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Proyecto espacial de niños guatemaltecos será parte de vuelo de investigación en Francia",
+      "link": "https://www.guatemala.com/noticias/tecnologia/prototipo-nave-espacial-creado-ninos-guatemaltecos-llegara-francia.html",
+      "fecha": "Tue, 27 Oct 2026 23:07:04 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Pamela López, del Club Constelación Quetzal, llevará y probará en Francia el prototipo de nave espacial creado por doce niños guatemaltecos. \nThe post Proyecto espacial de niños guatemaltecos será parte de vuelo de investigación en Francia appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Wilberto Julián Rojas asume como viceministro de Ingresos y Evaluación Fiscal del Minfin",
+      "link": "https://www.prensalibre.com/guatemala/politica/wilberto-julian-rojas-asume-como-viceministro-de-ingresos-y-evaluacion-fiscal-del-minfin-breaking/",
+      "fecha": "Tue, 27 Oct 2026 23:01:20 +0000",
+      "categoria": "Política",
+      "resumen": "Wilberto Julian Rojas asume el Viceministerio de Ingresos y Evaluación Fiscal del Minfin, tras haber ocupado cargos en esa misma cartera, la CGC y Segeplan."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“El Inspector”: la puesta en escena que lleva al teatro una sátira sobre la corrupción, el abuso de poder y las apariencias",
+      "link": "https://www.prensalibre.com/vida/escenario/el-inspector-la-puesta-en-escena-que-lleva-la-corrupcion-el-abuso-de-poder-y-las-apariencias-al-teatro/",
+      "fecha": "Tue, 27 Oct 2026 22:56:31 +0000",
+      "categoria": "Escenario",
+      "resumen": "Ante la inminente llegada del llamado “Inspector”, la élite gobernante de un remoto municipio hará todo lo posible por ocultar sus negligencias. Esta es la trama que presenta la obra."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué Skydance ofrece retiros voluntarios a empleados de Paramount y Warner Bros.?",
+      "link": "https://www.prensalibre.com/vida/escenario/por-que-skydance-ofrece-retiros-voluntarios-a-empleados-de-paramount-y-warner-bros/",
+      "fecha": "Tue, 27 Oct 2026 22:19:27 +0000",
+      "categoria": "Escenario",
+      "resumen": "Skydance ofrece retiros voluntarios antes de una ronda de despidos, en medio de la integración de Paramount y Warner Bros. Discovery y su reestructuración."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De candidato presidencial a prófugo: ¿Flávio Bolsonaro huyó de Brasil hacia Estados Unidos?",
+      "link": "https://www.prensalibre.com/internacional/de-candidato-presidencial-a-profugo-flavio-bolsonaro-huyo-de-brasil-hacia-estados-unidos/",
+      "fecha": "Tue, 27 Oct 2026 22:01:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Flávio Bolsonaro había dicho que entregaría los pasaportes y se defendería de lo que consideró un \"intento de intimidación\", ya que es investigado por presunto lavado de dinero."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mbappé se disculpa con el pueblo chino tras la polémica por un meme de Mao Zedong",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mbappe-se-disculpa-con-el-pueblo-chino-tras-la-polemica-por-un-meme-de-mao-zedong/",
+      "fecha": "Tue, 27 Oct 2026 21:18:10 +0000",
+      "categoria": "Deportes",
+      "resumen": "Kylian Mbappé ofreció disculpas públicas al pueblo chino luego de que unas declaraciones realizadas en una entrevista generaran controversia internacional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fugas, incursiones del narco y el caso Solórzano Foppa: la cronología y hechos que han marcado la seguridad en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/justicia/fugas-incursiones-del-narco-y-el-caso-solorzano-foppa-la-cronologia-y-hechos-que-han-marcado-la-seguridad-en-guatemala/",
+      "fecha": "Tue, 27 Oct 2026 21:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "De las fugas de pandilleros a las incursiones armadas: ¿cómo han evolucionado las alertas sobre el crimen organizado y los controles del Estado en Guatemala?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Avistamiento de ballenas en el Pacífico: cómo vivir la experiencia de conocer a los gigantes del océano",
+      "link": "https://www.prensalibre.com/vida/escenario/avistamiento-de-ballenas-en-el-pacifico-como-vivir-la-experiencia-de-conocer-a-los-gigantes-del-oceano/",
+      "fecha": "Tue, 27 Oct 2026 20:50:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Una aventura en el océano Pacífico permitirá conocer a las ballenas en su hábitat natural durante los primeros avistamientos de la temporada. Conozca cómo participar."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Claro Guatemala y Apple fortalecen su colaboración para ofrecer más opciones de compra del nuevo iPhone 18",
+      "link": "https://www.guatemala.com/noticias/tecnologia/claro-ya-tiene-disponible-el-iphone-18.html",
+      "fecha": "Tue, 27 Oct 2026 20:38:44 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Claro ya tiene disponible el iPhone 18 en Guatemala, con compras al contado, hasta 48 cuotas y Trade In con hasta 50% de descuento.\nThe post Claro Guatemala y Apple fortalecen su colaboración para ofrecer más opciones de compra del nuevo iPhone 18 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala podría registrar 16 frentes fríos: los meses en que las temperaturas caerían hasta los 0 °C",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-podria-registrar-16-frentes-frios-los-meses-en-que-las-temperaturas-caerian-hasta-los-0-c-breaking/",
+      "fecha": "Tue, 27 Oct 2026 20:37:11 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Guatemala podría experimentar dos frentes fríos más que en la temporada anterior. El Insivumeh anticipa descensos de temperatura y posibles efectos en la agricultura. Conozca qué meses y regiones podrían experimentar los mayores descensos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Érick Osoy López y Selvin Solano Galicia asumen altos mandos de la PNC tras destitución de Boteo y Quiché",
+      "link": "https://www.prensalibre.com/guatemala/politica/erick-osoy-lopez-y-selvin-solano-galicia-asumen-altos-mandos-de-la-pnc-tras-destitucion-de-boteo-y-quiche-breaking/",
+      "fecha": "Tue, 27 Oct 2026 20:16:30 +0000",
+      "categoria": "Política",
+      "resumen": "El Ministerio de Gobernación anunció la designación de Érick Osoy López y Selvin Solano Galicia como nuevos altos mandos de la PNC), tras la destitución de David Custodio Boteo y Esvin Jacinto Quiché."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Por qué Trump despidió a Katie Zacharia? Nicki Minaj, su lealtad y la reacción de Karoline Leavitt",
@@ -25,6 +121,14 @@
       "fecha": "Tue, 27 Oct 2026 19:06:51 +0000",
       "categoria": "Justicia",
       "resumen": "La familia de Litzy Cordón busca que se imponga la pena de muerte a Kevin Rivas Cordón, condenado por secuestro y asesinato. Una Sala de Apelaciones revisa la petición."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Festival del Barrilete en Xejuyup del Irtra: fecha, actividades y música para disfrutar en familia",
+      "link": "https://www.prensalibre.com/vida/escenario/festival-del-barrilete-en-xejuyup-del-irtra-fecha-actividades-y-musica-para-disfrutar-en-familia/",
+      "fecha": "Tue, 27 Oct 2026 18:30:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El parque Xejuyup, que ofrece juegos dinámicos y contacto con la naturaleza, celebrará el Festival del Barrilete, una actividad familiar que reúne tradición, arte, música y diversión."
     },
     {
       "fuente": "Prensa Libre",
@@ -52,11 +156,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Negociaciones colocan al bloque Todos en la nueva Directiva que se podría decidir esta tarde",
-      "link": "https://www.prensalibre.com/guatemala/politica/negociaciones-colocan-al-bloque-todos-en-la-nueva-directiva-que-se-podria-decidir-esta-tarde/",
+      "titulo": "Alianza oficialista elige Directiva y abre espacio para la bancada Todos",
+      "link": "https://www.prensalibre.com/guatemala/politica/alianza-oficialista-elige-directiva-y-abre-espacio-para-la-bancada-todos/",
       "fecha": "Tue, 27 Oct 2026 18:10:17 +0000",
       "categoria": "Guatemala",
-      "resumen": "El bloque Todos se suma a la planilla encabezada por Luis Contreras para la Junta Directiva del Congreso del período 2027-2028, prevista para este martes. La posible incorporación de esa bancada, respaldada por el oficialismo, genera preocupación entre diputados de Raíces, mientras continúan las negociaciones para definir los cargos."
+      "resumen": "El bloque Todos se suma a la Directiva del Congreso para el período 2027-2028, con el apoyo de 123 diputados que lo decidieron en la sesión de este martes 27 de octubre."
     },
     {
       "fuente": "Prensa Libre",
@@ -65,6 +169,14 @@
       "fecha": "Tue, 27 Oct 2026 18:09:51 +0000",
       "categoria": "Justicia",
       "resumen": "Depósitos en efectivo, retiros de dinero a los pocos días y transferencias identificadas como pagos de extorsión figuran entre los hallazgos del MP. Las autoridades investigan distintos casos que incluyen operaciones bancarias dentro y fuera de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Meghan Markle regresa a la televisión: la duquesa de Sussex participará en MasterChef Junior",
+      "link": "https://www.prensalibre.com/vida/escenario/meghan-markle-regresa-a-la-television-la-duquesa-de-sussex-participara-en-masterchef-junior/",
+      "fecha": "Tue, 27 Oct 2026 17:09:50 +0000",
+      "categoria": "Escenario",
+      "resumen": "La duquesa de Sussex regresará a la televisión australiana como copresentadora del concurso infantil de cocina. Esto se sabe sobre su participación."
     },
     {
       "fuente": "Prensa Libre",
@@ -755,124 +867,12 @@
       "resumen": "Disfruta diferentes experiencias en Cantón Cultura, una plaza en Zona 4 de Ciudad Guatemala con opciones gastronómicas, un estudio de pilates y más. \nThe post Cantón Cultura, un lugar que une gastronomía, cultura y entretenimiento en Zona 4 appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala 2026 EN VIVO: siga la cuarta etapa entre San Felipe y San Rafael Pie de la Cuesta",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-en-vivo-siga-la-cuarta-etapa-entre-san-felipe-y-san-rafael-pie-de-la-cuesta/",
-      "fecha": "Mon, 26 Oct 2026 14:35:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "San Felipe y San Rafael Pie de la Cuesta serán los puntos de partida y llegada de una jornada llamada a marcar diferencias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala Sub-15 vence a Honduras, cae ante Guinea y avanza en la Copa Mundial y Festival de la Fifa",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-sub-15-vence-a-honduras-cae-ante-guinea-y-avanza-en-la-copa-mundial-y-festival-sub-15-de-la-fifa-breaking/",
-      "fecha": "Mon, 26 Oct 2026 14:20:31 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Bicolor terminó segunda del Grupo P con 10 puntos y ahora competirá por los puestos del 33 al 64 en el certamen que se disputa en Azerbaiyán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala: temperaturas de hasta 35 °C y cuál es el pronóstico de lluvias del 26 al 30 de octubre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-temperaturas-de-hasta-35-c-y-cual-es-el-pronostico-de-lluvias-del-26-al-30-de-octubre-breaking/",
-      "fecha": "Mon, 26 Oct 2026 14:14:15 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh pronostica ambiente cálido y húmedo, así como posibles lluvias dispersas en Guatemala durante la última semana de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Balón de Oro 2026: fecha, hora y dónde ver la premiación en Guatemala",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/balon-de-oro-2026-fecha-hora-y-donde-ver-la-premiacion-en-guatemala-breaking/",
-      "fecha": "Mon, 26 Oct 2026 13:56:20 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La edición número 70 del galardón más prestigioso del fútbol se celebrará este lunes 26 de octubre en Londres con Lamine Yamal, Kylian Mbappé y Harry Kane entre los principales favoritos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El universo del marinero Le Male en la Future Store",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/el-universo-del-marinero-le-male-en-la-future-store/",
-      "fecha": "Mon, 26 Oct 2026 13:49:29 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Fetiche innovando y consintiendo a sus clientes más exigentes, trae a Guatemala el universo Le Male, el marinero de Jean Paul Gaultier, con fragancias caracterizadas por una feminidad extravagante y una masculinidad sexy asumida que deslumbran y atraen con un toque de fantasía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala 2026: estas son las rutas por donde pasará la cuarta etapa entre Retalhuleu y San Marcos",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/vuelta-a-guatemala-2026-estas-son-las-rutas-por-donde-pasara-la-cuarta-etapa-breakin/",
-      "fecha": "Mon, 26 Oct 2026 13:40:49 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La jornada recorrerá 119.3 kilómetros entre San Felipe, Reu, y San Rafael Pie de la Cuesta, San Marcos, donde se anticipa la complicación de rutas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hallan posibles restos humanos envueltos en sábanas y nailon en las zonas 3 y 18 de la capital",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/hallan-posibles-restos-humanos-envueltos-en-sabanas-y-nailon-en-las-zonas-3-y-18-de-la-capital-breaking/",
-      "fecha": "Mon, 26 Oct 2026 13:39:09 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Los bomberos informaron este lunes sobre el hallazgo de posibles restos humanos en las zonas 3 y 18 de la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Apertura 2026: Antigua lidera, pero seis puntos separan la cima del séptimo lugar",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-antigua-lidera-pero-seis-puntos-separan-la-cima-del-septimo-lugar-breaking/",
-      "fecha": "Mon, 26 Oct 2026 13:15:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Municipal, Mixco y Guastatoya acechan al líder con 27 unidades, mientras Xelajú, Marquense y San Pedro se mantienen al alcance."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué es la fotónica y cómo puede lograr que los centros de datos de la IA consuman menos agua y energía",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/que-es-la-fotonica-y-como-puede-lograr-que-los-centros-de-datos-de-la-ia-consuman-menos-agua-y-energia/",
-      "fecha": "Mon, 26 Oct 2026 12:55:34 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Para ahorrar energía y aumentar la capacidad, los centros de datos están pasando del cableado de cobre a la tecnología que utiliza luz."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Múltiple colisión de seis vehículos bloquea el tránsito en ambos sentidos del km 7.8 de la ruta al Atlántico",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/multiple-colision-de-seis-vehiculos-bloquea-el-transito-en-ambos-sentidos-del-km-7-8-de-la-ruta-al-atlantico-breaking/",
-      "fecha": "Mon, 26 Oct 2026 12:25:08 +0000",
-      "categoria": "Sucesos",
-      "resumen": "El paso de vehículos permanece interrumpido en el kilómetro 7.8 de la ruta al Atlántico debido a una colisión múltiple."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo un movimiento estudiantil que nació de una tragedia acabó con 14 años de dominio político de Aleksandar Vučić en Serbia",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-un-movimiento-estudiantil-que-nacio-de-una-tragedia-acabo-con-14-anos-de-dominio-politico-de-aleksandar-vucic-en-serbia/",
-      "fecha": "Mon, 26 Oct 2026 12:20:47 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Ahora, tras ganar las elecciones, el movimiento tendrá que superar su desorganización y nombrar a un primer ministro, para lo cual no hay un candidato claro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inteligencia emocional: el superpoder de las familias armoniosas",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/inteligencia-emocional-el-superpoder-de-las-familias-armoniosas/",
-      "fecha": "Mon, 26 Oct 2026 12:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Escuchar, validar los sentimientos, establecer límites saludables y resolver conflictos con respeto ayuda a desarrollar autoestima, empatía y habilidades para afrontar las dificultades de la vida."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Fecha del retorno de Miguel Ángel Asturias a Guatemala y actividades en su honor",
       "link": "https://www.guatemala.com/noticias/cultura/confirman-fecha-retorno-miguel-angel-asturias-guatemala.html",
       "fecha": "Fri, 23 Oct 2026 23:24:29 +0000",
       "categoria": "Cultura",
       "resumen": "Los restos de Miguel Ángel Asturias retornarán a Guatemala en noviembre 2026. Conoce la agenda oficial anunciada para recibir al autor en el país.\nThe post Fecha del retorno de Miguel Ángel Asturias a Guatemala y actividades en su honor appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Luis Lara, CEO de Banco Industrial, reconocido como Gerente del Año 2026 en Guatemala",
-      "link": "https://www.guatemala.com/noticias/sociedad/luis-lara-grojec-reconocido-gerente-del-ano-2026-guatemala.html",
-      "fecha": "Fri, 23 Oct 2026 19:36:39 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Luis Lara Grojec, CEO de Banco Industrial, fue nombrado como Gerente del Año 2026 por su trayectoria, liderazgo y contribución al desarrollo del país.\nThe post Luis Lara, CEO de Banco Industrial, reconocido como Gerente del Año 2026 en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Clima en Guatemala: Pronostican disminución de lluvias para el 24 y 25 de octubre 2026",
-      "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-24-y-25-octubre-2026.html",
-      "fecha": "Fri, 23 Oct 2026 18:26:23 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Este 24 y 25 de octubre 2026 estará marcado por una reducción de lluvias y altas temperaturas, según el pronóstico del clima en Guatemala. \nThe post Clima en Guatemala: Pronostican disminución de lluvias para el 24 y 25 de octubre 2026 appeared first on Guatemala.com."
     }
   ]
 }
