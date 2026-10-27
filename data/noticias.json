@@ -1,7 +1,199 @@
 {
-  "actualizado": "2026-10-27T14:15:15.616Z",
+  "actualizado": "2026-10-27T19:57:46.118Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué Trump despidió a Katie Zacharia? Nicki Minaj, su lealtad y la reacción de Karoline Leavitt",
+      "link": "https://www.prensalibre.com/internacional/por-que-trump-despidio-a-katie-zacharia-nicki-minaj-su-lealtad-y-la-reaccion-de-karoline-leavitt/",
+      "fecha": "Tue, 27 Oct 2026 19:52:57 +0000",
+      "categoria": "Internacional",
+      "resumen": "El director de comunicaciones de la Casa Blanca sugirió la posibilidad de que la rapera Nicki Minaj se convierta en la nueva secretaria de prensa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Wilson Chonay conquista la etapa reina y queda a 37 segundos del líder de la Vuelta a Guatemala",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/wilson-chonay-conquista-la-etapa-reina-y-queda-a-37-segundos-del-lider-de-la-vuelta-a-guatemala/",
+      "fecha": "Tue, 27 Oct 2026 19:30:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El guatemalteco Wilson Chonay volvió a brillar en la 65 Vuelta Ciclística a Guatemala 2026 al conquistar la exigente etapa reina."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Familia de Litzy Cordón pide pena de muerte contra Kevin Rivas y presenta querella contra jueza que votó en contra de la condena",
+      "link": "https://www.prensalibre.com/guatemala/justicia/familia-de-litzy-cordon-pide-pena-de-muerte-contra-kevin-rivas-y-presenta-querella-contra-jueza-que-voto-en-contra-de-la-condena-breaking/",
+      "fecha": "Tue, 27 Oct 2026 19:06:51 +0000",
+      "categoria": "Justicia",
+      "resumen": "La familia de Litzy Cordón busca que se imponga la pena de muerte a Kevin Rivas Cordón, condenado por secuestro y asesinato. Una Sala de Apelaciones revisa la petición."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Municipal vs. Comunicaciones: fecha, hora y dónde ver el clásico 339 del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/municipal-vs-comunicaciones-fecha-hora-y-donde-ver-el-clasico-339-del-apertura-2026/",
+      "fecha": "Tue, 27 Oct 2026 18:30:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Municipal y Comunicaciones volverán a verse las caras este miércoles en El Trébol, en un duelo marcado por la necesidad de sumar tres puntos y recuperar protagonismo en la recta final del Torneo Apertura 2026."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "1 de noviembre 2026: Conoce los horarios de cementerios públicos y privados en Ciudad Guatemala",
+      "link": "https://www.guatemala.com/noticias/comunidad/horarios-cementerios-1-noviembre-2026-dia-de-todos-los-santos-ciudad-guatemala.html",
+      "fecha": "Tue, 27 Oct 2026 18:16:36 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Conoce los horarios que tendrán los cementerios públicos y privados en la Ciudad de Guatemala este 1 de noviembre de 2026, Día de Todos los Santos.\nThe post 1 de noviembre 2026: Conoce los horarios de cementerios públicos y privados en Ciudad Guatemala appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De 23 inmigrantes ocultos en camionetas a uno muerto bajo custodia del ICE: los casos en Laredo",
+      "link": "https://www.prensalibre.com/internacional/de-23-inmigrantes-ocultos-en-camionetas-a-uno-muerto-bajo-custodia-del-ice-los-casos-en-laredo/",
+      "fecha": "Tue, 27 Oct 2026 18:16:26 +0000",
+      "categoria": "Internacional",
+      "resumen": "Cada migrante trasladado pagó a los contrabandistas entre US$1 mil 500 (Q11 mil) y US$10 mil (Q76 mil) en Honduras, México y Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Negociaciones colocan al bloque Todos en la nueva Directiva que se podría decidir esta tarde",
+      "link": "https://www.prensalibre.com/guatemala/politica/negociaciones-colocan-al-bloque-todos-en-la-nueva-directiva-que-se-podria-decidir-esta-tarde/",
+      "fecha": "Tue, 27 Oct 2026 18:10:17 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El bloque Todos se suma a la planilla encabezada por Luis Contreras para la Junta Directiva del Congreso del período 2027-2028, prevista para este martes. La posible incorporación de esa bancada, respaldada por el oficialismo, genera preocupación entre diputados de Raíces, mientras continúan las negociaciones para definir los cargos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Declaró ingresos de Q2,200 al mes, pero su cuenta registró Q635 mil 600 en tres meses: MP investiga pagos de extorsión",
+      "link": "https://www.prensalibre.com/guatemala/justicia/declaro-ingresos-de-q2200-al-mes-pero-su-cuenta-registro-q635-mil-600-en-tres-meses-mp-investiga-pagos-de-extorsion-breaking/",
+      "fecha": "Tue, 27 Oct 2026 18:09:51 +0000",
+      "categoria": "Justicia",
+      "resumen": "Depósitos en efectivo, retiros de dinero a los pocos días y transferencias identificadas como pagos de extorsión figuran entre los hallazgos del MP. Las autoridades investigan distintos casos que incluyen operaciones bancarias dentro y fuera de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala vs. Canadá: Fedefut confirma los precios de las entradas para el partido de la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-fedefut-confirma-los-precios-de-las-entradas-para-el-partido-de-la-liga-de-naciones/",
+      "fecha": "Tue, 27 Oct 2026 16:44:44 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "A pocos días de que inicie la venta de boletos, la Federación Nacional de Futbol dio a conocer los precios oficiales para el esperado duelo del próximo 13 de noviembre en el estadio El Trébol."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De la fuga al robo de un auto: así escapó de prisión en Tennessee un condenado a cadena perpetua",
+      "link": "https://www.prensalibre.com/internacional/de-la-fuga-al-robo-de-un-auto-asi-escapo-de-prision-en-tennessee-un-condenado-a-cadena-perpetua/",
+      "fecha": "Tue, 27 Oct 2026 16:27:39 +0000",
+      "categoria": "Internacional",
+      "resumen": "Jacob Allen Morley fue condenado a cadena perpetua por el asesinato de su compañero de trabajo en el 2022, cuyo cuerpo fue encontrado en una caja."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelta a Guatemala 2026: accidente de motocicletas en la etapa reina, ¿hubo ciclistas involucrados?",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-accidente-de-motocicletas-en-la-etapa-reina-hubo-ciclistas-involucrados/",
+      "fecha": "Tue, 27 Oct 2026 16:10:40 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La quinta jornada de la Vuelta a Guatemala 2026 comenzó con un percance vial que involucró a dos motoristas en labores de control de tránsito."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Autorizan bono extraordinario único para pensionados del IGSS",
+      "link": "https://www.guatemala.com/noticias/comunidad/igss-entregara-bono-extraordinario-unico-pensionados-octubre-2026.html",
+      "fecha": "Tue, 27 Oct 2026 16:00:13 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Los pensionados del IGSS recibirán un bono extraordinario y único en el marco del 80 aniversario de la institución este 2026. Conoce cuándo se pagará.\nThe post Autorizan bono extraordinario único para pensionados del IGSS appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Puente Corozal: cómo cambiará el paso en el km 30 y qué otras obras se preparan en la CA-9 Norte",
+      "link": "https://www.prensalibre.com/economia/puente-corozal-como-cambiara-el-paso-en-el-km-30-y-que-otras-obras-se-preparan-en-la-ca-9-norte/",
+      "fecha": "Tue, 27 Oct 2026 16:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El puente Corozal permitirá dar continuidad a los cuatro carriles en el km 30 de la carretera al Atlántico. Tras los avances en la construcción de la estructura, ¿qué falta para habilitar el paso vehicular y qué otras obras se proyectan para la carretera CA-9 Norte?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inauguran su Centro de Atención al Cliente 100",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/inauguran-su-centro-de-atencion-al-cliente-100/",
+      "fecha": "Tue, 27 Oct 2026 15:48:00 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Con el objetivo de estar más cerca de sus clientes y brindarles soporte personalizado, Claro inauguró su tienda número 100 en Huehuetenango. Ubicada en el centro comercial Alturas Mall, la nueva tienda permite contratar o gestionar servicios móviles, internet y televisión, comprar dispositivos, pagar facturas y solicitar soporte con personal experto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Christopher Lloyd, de &#8220;Regreso al futuro&#8221;, publica sus memorias y revela su adicción a las drogas y al alcohol",
+      "link": "https://www.prensalibre.com/vida/escenario/christopher-lloyd-de-regreso-al-futuro-publica-sus-memorias-y-revela-su-adiccion-a-las-drogas-y-al-alcohol/",
+      "fecha": "Tue, 27 Oct 2026 15:38:03 +0000",
+      "categoria": "Escenario",
+      "resumen": "El actor estadounidense reveló en sus memorias cómo enfrentó durante años la adicción a las drogas y al alcohol, una lucha que marcó parte de su vida y trayectoria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Komanche y sus polémicas: Una denuncia por posible abuso y un préstamo de miles de dólares",
+      "link": "https://www.prensalibre.com/internacional/el-komanche-y-sus-polemicas-una-denuncia-por-posible-abuso-y-un-prestamo-de-miles-de-dolares/",
+      "fecha": "Tue, 27 Oct 2026 15:18:50 +0000",
+      "categoria": "Internacional",
+      "resumen": "Salió a la luz un video en el que el Komanche solicita de manera inesperada una gran cantidad de dinero prestado durante una transmisión en vivo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO: la Vuelta a Guatemala 2026 afronta su etapa reina con una modificación en la línea de meta",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-la-vuelta-a-guatemala-2026-afronta-su-etapa-reina-con-una-modificacion-en-la-linea-de-meta/",
+      "fecha": "Tue, 27 Oct 2026 15:15:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La alta montaña toma protagonismo este martes en la 65.ª Vuelta Ciclística a Guatemala 2026, con la disputa de la quinta etapa, considerada la etapa reina y llamada a marcar diferencias en la clasificación general."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mingob remueve a David Boteo, director de la PNC, y a Esvin Quiché, subdirector de Operaciones",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mingob-remueve-a-david-boteo-director-de-la-pnc-y-a-esvin-quiche-subdirector-de-operaciones/",
+      "fecha": "Tue, 27 Oct 2026 14:58:23 +0000",
+      "categoria": "Justicia",
+      "resumen": "La salida de David Boteo y Esvin Quiché de la cúpula de la PNC ocurre tras la captura de siete agentes de la Comisaría 13 por presuntas irregularidades en el caso Solórzano Foppa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hallazgo en Puerto Quetzal: localizan armas de fuego y más de 900 municiones en un contenedor",
+      "link": "https://www.prensalibre.com/guatemala/justicia/hallazgo-en-puerto-quetzal-localizan-armas-de-fuego-y-mas-de-900-municiones-en-un-contenedor-breaking/",
+      "fecha": "Tue, 27 Oct 2026 14:30:18 +0000",
+      "categoria": "Justicia",
+      "resumen": "Investigadores incautan armas de fuego y más de 900 municiones en un contenedor de encomiendas en Puerto Quetzal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "IGSS anuncia bono de Q1 mil para pensionados: quiénes lo recibirán, cuándo y si deben hacer algún trámite para obtener el beneficio",
+      "link": "https://www.prensalibre.com/guatemala/igss-anuncia-bono-de-q1-mil-para-pensionados-quienes-lo-recibiran-cuando-y-si-deben-hacer-algun-tramite-para-obtener-el-beneficio/",
+      "fecha": "Tue, 27 Oct 2026 14:19:55 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El IGSS otorgará un bono extraordinario de Q1 mil a pensionados en octubre de 2026. Conozca quiénes recibirán el beneficio, cuándo se hará el depósito y si deben realizar algún trámite."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "iPhone Duo: Apple reconoce fallas en la pantalla interna y ofrece recambios",
+      "link": "https://www.prensalibre.com/vida/tecnologia/iphone-duo-apple-reconoce-fallas-en-la-pantalla-interna-y-ofrece-recambios/",
+      "fecha": "Tue, 27 Oct 2026 14:19:45 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Tras las quejas de usuarios en redes sociales por grietas en la pantalla interna del iPhone Duo, Apple reconoció el problema y ofreció una solución a los afectados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un meme de Mao Zedong desata una polémica entre Mbappé y una empresa china",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/un-meme-de-mao-zedong-desata-una-polemica-entre-mbappe-y-una-empresa-china/",
+      "fecha": "Tue, 27 Oct 2026 14:09:21 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La compañía Dongpeng Beverage Group anunció la finalización inmediata de su acuerdo comercial con Kylian Mbappé, al considerar inapropiadas sus declaraciones sobre un meme que utilizaba su imagen junto a la del exlíder chino Mao Zedong."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sismos en Guatemala: tres temblores se registran en las últimas horas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/sismos-en-guatemala-tres-temblores-se-registran-en-las-ultimas-horas-breaking/",
+      "fecha": "Tue, 27 Oct 2026 13:51:50 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Tres temblores con epicentro en el océano Pacífico fueron registrados en las últimas horas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Récord mundial con el fiambre más grande del mundo",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/record-mundial-con-el-fiambre-mas-grande-del-mundo/",
+      "fecha": "Tue, 27 Oct 2026 13:51:41 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "En Guatemala, noviembre tiene un sabor inconfundible, entre verduras, embutidos, carnes, quesos y recetas que pasan de una generación a otra, el fiambre ocupa un lugar especial en la mesa familiar. Este año, esa tradición alcanzó dimensiones extraordinarias: Toledo preparó un fiambre de más de 4 mil libras y recibió la certificación de Guinness World Records, con lo que llevó uno de los sabores más queridos del país a un escenario internacional."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La innovación de Apple ya está en Guatemala de la mano de iShop",
@@ -9,6 +201,14 @@
       "fecha": "Tue, 27 Oct 2026 13:43:00 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "Los nuevos iPhone 18 Pro y Pro Max llegan con tecnología de última generación, una experiencia de cámara más avanzada y un rendimiento diseñado para ir más allá."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Netanyahu busca mantenerse en el poder en las primeras elecciones en Israel tras los ataques del 7 de octubre",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-busca-mantenerse-en-el-poder-en-las-primeras-elecciones-en-israel-tras-los-ataques-del-7-de-octubre/",
+      "fecha": "Tue, 27 Oct 2026 13:06:03 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El primer ministro israelí enfrenta una cerrada elección frente a Gadi Eisenkot, un exmilitar que encabeza la oposición. Se espera que el legado de los atentados liderados por Hamás el 7 de octubre de 2023 desempeñe un papel fundamental en las urnas."
     },
     {
       "fuente": "Prensa Libre",
@@ -651,190 +851,6 @@
       "resumen": "Escuchar, validar los sentimientos, establecer límites saludables y resolver conflictos con respeto ayuda a desarrollar autoestima, empatía y habilidades para afrontar las dificultades de la vida."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Bancos centrales: quiénes mantendrían las tasas y cuál podría subirlas",
-      "link": "https://www.prensalibre.com/economia/bancos-centrales-quienes-mantendrian-las-tasas-y-cual-podria-subirlas/",
-      "fecha": "Mon, 26 Oct 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La inflación y la incertidumbre económica marcan las próximas reuniones de las autoridades monetarias, mientras los analistas anticipan posibles ajustes en diciembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto 2027: Comisión de Finanzas prevé emitir dictamen antes del 10 de noviembre y analiza posibles cambios",
-      "link": "https://www.prensalibre.com/economia/presupuesto-2027-comision-de-finanzas-preve-emitir-dictamen-antes-del-10-de-noviembre-y-analiza-posibles-cambios/",
-      "fecha": "Mon, 26 Oct 2026 09:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Esta semana concluyen las audiencias públicas y la sala legislativa de Finanzas prevé emitir el dictamen con el apoyo del Ministerio de Finanzas para efectuar posibles modificaciones a la iniciativa de presupuesto por Q192 mil 45 millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Entrevista con Luis Lara, gerente del Año 2026: &#8220;La falta de carreteras y puertos podría frenar el crecimiento de Guatemala&#8221;",
-      "link": "https://www.prensalibre.com/economia/entrevista-con-luis-lara-gerente-del-ano-2026-la-falta-de-carreteras-y-puertos-podria-frenar-el-crecimiento-de-guatemala/",
-      "fecha": "Mon, 26 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Aunque reconoce la estabilidad macroeconómica de Guatemala, Luis Lara, galardonado como Gerente del Año por la Asociación de Gerentes de Guatemala (AGG), considera urgente invertir en infraestructura para evitar un colapso que limite el desarrollo del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Huité: Caso clave queda en manos de la fiscalía distrital",
-      "link": "https://www.prensalibre.com/guatemala/huite-caso-clave-queda-en-manos-de-la-fiscalia-distrital/",
-      "fecha": "Mon, 26 Oct 2026 06:10:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Expertos indican que el análisis de cadáveres y las escenas del crimen debió ser más “robusto” y que, por seguridad, una fiscalía capitalina debió encargarse de la investigación de los crímenes en Huité."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Antes del Día de Difuntos",
-      "link": "https://www.prensalibre.com/opinion/caricatura/antes-del-dia-de-difuntos/",
-      "fecha": "Mon, 26 Oct 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La libre expresión es un bastión de la ciudadanía",
-      "link": "https://www.prensalibre.com/opinion/editorial/la-libre-expresion-es-un-bastion-de-la-ciudadania/",
-      "fecha": "Mon, 26 Oct 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Es opinar, disentir, buscar respuestas, cuestionar las decisiones públicas y exigir mejoras en el desarrollo comunitario o nacional sin temor a represalias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Riesgos dentro de la libre emisión del pensamiento",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/riesgos-dentro-de-la-libre-emision-del-pensamiento/",
-      "fecha": "Mon, 26 Oct 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Una tarea ciudadana es demostrar claro rechazo a los crímenes políticos por divulgar el pensamiento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "París intenta recuperar la calma, pero los franceses siguen hartos del costo de vida y la crisis política",
-      "link": "https://www.prensalibre.com/internacional/paris-intenta-recuperar-la-calma-pero-los-franceses-siguen-hartos-del-costo-de-vida-y-la-crisis-politica/",
-      "fecha": "Mon, 26 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Comerciantes, estudiantes y trabajadores comparten una sensación de abandono mientras Francia se prepara para nuevas protestas tras los disturbios y saqueos del fin de semana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Evidencia contradice al Mindef respecto a ocho asesinatos en Huité",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/evidencia-contradice-al-mindef-respecto-a-ocho-asesinatos-en-huite/",
-      "fecha": "Mon, 26 Oct 2026 06:05:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Imágenes muestran que parte del comando armado se replegó hacia la capital o la ruta al Atlántico, y no sólo a la brigada militar en Zacapa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Recursos de los Codedes fomentan mayor corrupción",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/recursos-de-los-codedes-fomentan-mayor-corrupcion/",
-      "fecha": "Mon, 26 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Congreso puede mostrar más coherencia"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Meses para aprobar un champú",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/meses-para-aprobar-un-champu/",
-      "fecha": "Mon, 26 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La burocracia encarece los productos, limita la competencia y dificulta la libertad de emprender."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La confianza también produce",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-confianza-tambien-produce/",
-      "fecha": "Mon, 26 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La credibilidad monetaria y la disciplina fiscal influyen en lo que consumimos e invertimos hoy."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Libertad de criterio docente",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/libertad-de-criterio-docente/",
-      "fecha": "Mon, 26 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Muera la tristeza, mueran los que odian."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy lunes 26 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-26-de-octubre-de-2026/",
-      "fecha": "Mon, 26 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ciberseguridad en la construcción: &#8220;Las empresas deben verla como un asunto de continuidad operativa&#8221;",
-      "link": "https://www.prensalibre.com/economia/ciberseguridad-en-la-construccion-las-empresas-deben-verla-como-un-asunto-de-continuidad-operativa/",
-      "fecha": "Mon, 26 Oct 2026 06:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Carlos Villagra, experto de Progreso, explica por qué las empresas constructoras deben incorporar la protección digital como parte de su estrategia de continuidad operativa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan en Quiché a extraditable acusado de narcotráfico",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-en-quiche-a-extraditable-acusado-de-narcotrafico-breaking/",
-      "fecha": "Mon, 26 Oct 2026 03:17:50 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC detiene a un hombre requerido por delitos relacionados con el narcotráfico en Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aurora rescata el empate 2-2 ante Suchitepéquez que no logra salir del fondo",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/aurora-rescata-el-empate-2-2-ante-suchitepequez-que-no-logra-salir-del-fondo-breaking/",
-      "fecha": "Mon, 26 Oct 2026 01:49:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los aurinegros fueron por debajo en el marcador pero Marcos Acosta descontó y Héctor Morales igualó desde el penal en lo que fue un empate que casi termina en victoria con un gol anulado en el tiempo añadido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El veterano gobernante de Serbia, Aleksandar Vucic, reconoce la derrota electoral ante un movimiento de protesta liderado por estudiantes",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-veterano-gobernante-de-serbia-aleksandar-vucic-reconoce-la-derrota-electoral-ante-un-movimiento-de-protesta-liderado-por-estudiantes/",
-      "fecha": "Mon, 26 Oct 2026 01:00:52 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El líder populista de derecha, en el poder desde hace 12 años, afirma que es \"evidente\" que su partido ha perdido la votación, considerada un referéndum sobre el futuro del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Noche de los Museos en Guatemala: conozca las cuatro rutas, el mapa y los 31 espacios con entrada gratuita",
-      "link": "https://www.prensalibre.com/vida/escenario/noche-de-los-museos-en-guatemala-conozca-las-cuatro-rutas-el-mapa-y-los-31-espacios-con-entrada-gratuita/",
-      "fecha": "Mon, 26 Oct 2026 00:18:13 +0000",
-      "categoria": "Escenario",
-      "resumen": "La Noche de los Museos ofrece la oportunidad de conocer la riqueza cultural e histórica que resguardan museos y otros espacios de Guatemala. Estos son los lugares participantes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lula consigue la reelección en Brasil tras remontar la ventaja de Flávio Bolsonaro en las encuestas",
-      "link": "https://www.prensalibre.com/internacional/quien-va-ganando-las-elecciones-en-brasil-asi-avanza-el-conteo-de-votos-entre-lula-y-flavio-bolsonaro/",
-      "fecha": "Sun, 25 Oct 2026 23:59:07 +0000",
-      "categoria": "Internacional",
-      "resumen": "Lula logra la reelección en Brasil con el 51.77% de los votos, tras superar a Flávio Bolsonaro, quien había liderado las encuestas. Conozca los resultados de la segunda vuelta presidencial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "San Pedro rescata el empate 2-2 ante Malacateco y se mantiene invicto de local",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/san-pedro-rescata-el-empate-2-2-ante-malacateco-y-se-mantiene-invicto-de-local-breaking/",
-      "fecha": "Sun, 25 Oct 2026 23:08:19 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "San Pedro reaccionó cuando más lo necesitaba y rescató un punto valioso ante los toros de Malacatán en los minutos finales para mantener su invicto de local en el Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fray Augusto Ramírez Monasterio: horario, puntos y mapa del recorrido de la procesión de su reliquia tras la beatificación",
-      "link": "https://www.prensalibre.com/vida/escenario/fray-augusto-ramirez-monasterio-horario-puntos-y-mapa-del-recorrido-de-la-procesion-de-su-reliquia-tras-la-beatificacion/",
-      "fecha": "Sun, 25 Oct 2026 23:05:45 +0000",
-      "categoria": "Escenario",
-      "resumen": "Guatemala se prepara para celebrar la eucaristía de beatificación de fray Augusto Ramírez Monasterio. Como parte de las actividades, se realizará una procesión por Antigua Guatemala. Conozca los detalles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sube el precio del cilindro de gas propano entre Q4 y Q16; es el cuarto aumento en el año",
-      "link": "https://www.prensalibre.com/economia/sube-el-precio-del-cilindro-de-gas-propano-entre-q4-y-q16-es-el-cuarto-aumento-en-el-ano-breaking/",
-      "fecha": "Sun, 25 Oct 2026 22:59:43 +0000",
-      "categoria": "Economía",
-      "resumen": "El Ministerio de Energía y Minas confirma el aumento del precio del cilindro de gas propano."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Fecha del retorno de Miguel Ángel Asturias a Guatemala y actividades en su honor",
       "link": "https://www.guatemala.com/noticias/cultura/confirman-fecha-retorno-miguel-angel-asturias-guatemala.html",
@@ -857,22 +873,6 @@
       "fecha": "Fri, 23 Oct 2026 18:26:23 +0000",
       "categoria": "Comunidad",
       "resumen": "Este 24 y 25 de octubre 2026 estará marcado por una reducción de lluvias y altas temperaturas, según el pronóstico del clima en Guatemala. \nThe post Clima en Guatemala: Pronostican disminución de lluvias para el 24 y 25 de octubre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Documental guatemalteco Selva Maya en Jaque ganó premio en los Wildscreen Panda Awards 2026",
-      "link": "https://www.guatemala.com/noticias/entretenimiento/documental-guatemalteco-selva-maya-en-jaque-gano-wildscreen-panda-awards-2026.html",
-      "fecha": "Fri, 23 Oct 2026 00:53:36 +0000",
-      "categoria": "Entretenimiento",
-      "resumen": "El documental guatemalteco Selva Maya en Jaque, dirigido por Sergio Izquierdo, celebra su triunfo en los Wildscreen Panda Awards 2026.\nThe post Documental guatemalteco Selva Maya en Jaque ganó premio en los Wildscreen Panda Awards 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Beatificación de Fray Augusto Ramírez en Guatemala: detalles de la misa, procesión y rutas de acceso",
-      "link": "https://www.guatemala.com/noticias/comunidad/beatificacion-de-fray-augusto-ramirez-monasterio-detalles-de-la-misa-procesion-y-rutas-de-acceso.html",
-      "fecha": "Fri, 23 Oct 2026 00:23:37 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Descubre detalles de la misa, recorrido de la procesión, ingreso y parqueos para el evento de Beatificación de Fray Augusto Ramírez Monasterio 2026.\nThe post Beatificación de Fray Augusto Ramírez en Guatemala: detalles de la misa, procesión y rutas de acceso appeared first on Guatemala.com."
     }
   ]
 }
