@@ -1,7 +1,39 @@
 {
-  "actualizado": "2026-10-27T07:37:06.130Z",
+  "actualizado": "2026-10-27T14:15:15.616Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La innovación de Apple ya está en Guatemala de la mano de iShop",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-innovacion-de-apple-ya-esta-en-guatemala-de-la-mano-de-ishop/",
+      "fecha": "Tue, 27 Oct 2026 13:43:00 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Los nuevos iPhone 18 Pro y Pro Max llegan con tecnología de última generación, una experiencia de cámara más avanzada y un rendimiento diseñado para ir más allá."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Localizan dos cadáveres en el puente San Cristóbal y reportan complicaciones de tránsito hacia la capital",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/localizan-dos-cadaveres-en-el-puente-san-cristobal-y-reportan-complicaciones-de-transito-hacia-la-capital-breaking/",
+      "fecha": "Tue, 27 Oct 2026 13:00:08 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Los cuerpos de dos personas, envueltos en sábanas, fueron localizados en el puente San Cristóbal, en el tramo que conduce hacia la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Campo Xan: estas son las 13 empresas que solicitaron participar en visita técnica para su cierre",
+      "link": "https://www.prensalibre.com/economia/campo-xan-estas-son-las-13-empresas-que-solicitaron-participar-en-visita-tecnica-para-su-cierre/",
+      "fecha": "Tue, 27 Oct 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Trece compañías solicitaron autorización para participar en la visita técnica obligatoria al campo petrolero Xan, programada del 26 al 30 de octubre, como parte de la licitación para el cierre de 59 pozos. Para el proyecto se estima un presupuesto de Q375 millones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Diseñan soluciones innovadoras para fortalecer la inclusión financiera",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/disenan-soluciones-innovadoras-para-fortalecer-la-inclusion-financiera/",
+      "fecha": "Tue, 27 Oct 2026 08:09:03 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Más de 50 estudiantes universitarios de diversas regiones del país culminaron su participación en el Primer Reto Nacional de Innovación con Impacto Social, organizado por Fundación Bi; un espacio donde diseñaron propuestas enfocadas en fortalecer los grupos de autoahorro comunitario."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Tres hábitos de salud mental que pueden ayudar a controlar la presión arterial",
@@ -801,38 +833,6 @@
       "fecha": "Sun, 25 Oct 2026 22:59:43 +0000",
       "categoria": "Economía",
       "resumen": "El Ministerio de Energía y Minas confirma el aumento del precio del cilindro de gas propano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Real Madrid gana el clásico, rompe la racha del Barcelona y las redes no perdonan",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-gana-el-clasico-rompe-la-racha-del-barcelona-y-las-redes-no-perdonan-breaking/",
-      "fecha": "Sun, 25 Oct 2026 22:43:12 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Mourinho bailando con inteligencia artificial y Cucurella con Lamine Yamal en el bolsillo protagonizan los memes que se burlan de la derrota azulgrana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Suchitepéquez vs. Aurora FC: siga el minuto a minuto de la jornada 16",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-suchitepequez-vs-aurora-fc-siga-el-minuto-a-minuto-de-la-jornada-16-breaking/",
-      "fecha": "Sun, 25 Oct 2026 22:30:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los venados reciben a los aurinegros este domingo a las 5:30 PM en el estadio Carlos Salazar Hijo en un duelo donde Suchitepéquez buscará urgentemente su segunda victoria del torneo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡Golpe merengue! Doblete de Mbappé le da el Clásico al Real Madrid sobre el Barcelona",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/golpe-merengue-doblete-de-mbappe-le-da-el-clasico-al-real-madrid-sobre-el-barcelona-breaking/",
-      "fecha": "Sun, 25 Oct 2026 21:56:16 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Los azulgranas que llegaban invictos al Clásico con nueve victorias consecutivas en LaLiga cayeron por primera vez este domingo en el Camp Nou ante un Real Madrid liderado por Kylian Mbappé."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente de autobús en Barcelona deja 83 heridos: fotos y videos muestran cómo fue el rescate",
-      "link": "https://www.prensalibre.com/internacional/accidente-de-autobus-en-barcelona-deja-83-heridos-fotos-y-videos-muestran-como-fue-el-rescate/",
-      "fecha": "Sun, 25 Oct 2026 21:48:36 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las imágenes difundidas por los Bomberos de Cataluña muestran cómo quedó el autobús que cayó por una pendiente de 20 metros y dejó 83 heridos, siete de ellos graves."
     },
     {
       "fuente": "Guatemala.com",
