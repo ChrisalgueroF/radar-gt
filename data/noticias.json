@@ -1,7 +1,103 @@
 {
-  "actualizado": "2026-10-26T22:30:30.014Z",
+  "actualizado": "2026-10-27T01:55:40.257Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entrenador y exfutbolista muere baleado en centro comercial de Chiquimula; esto revela el informe de la PNC",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/entrenador-y-exfutbolista-muere-baleado-en-centro-comercial-de-chiquimula-esto-revela-el-informe-de-la-pnc-breaking/",
+      "fecha": "Tue, 27 Oct 2026 00:32:46 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Donald Eriberto Valdez, entrenador y exfutbolista, murió baleado en un centro comercial de Chiquimula. Medios locales señalan que trabajó para el Mingob."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué Lionel Messi no asistió al Balón de Oro 2026? La razón de su ausencia",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/por-que-lionel-messi-no-asistio-al-balon-de-oro-2026-la-razon-de-su-ausencia/",
+      "fecha": "Tue, 27 Oct 2026 00:05:19 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "Lionel Messi fue uno de los grandes ausentes en la ceremonia del Balón de Oro 2026, celebrada en Londres. Su decisión llamó la atención del mundo del fútbol."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es el esposo de Xiomara Ovalle Madrid, alcaldesa de Zacapa, que fue condenado por narcotráfico en EE. UU.?",
+      "link": "https://www.prensalibre.com/guatemala/justicia/quien-es-el-esposo-de-xiomara-ovalle-madrid-alcaldesa-de-zacapa-que-fue-condenado-por-narcotrafico-en-ee-uu/",
+      "fecha": "Tue, 27 Oct 2026 00:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Condenado por narcotráfico en EE. UU., Sergio Cifuentes regresó a Guatemala en el 2024 y ahora figura junto a su esposa, la alcaldesa, en proyectos de Zacapa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a hombre que almacenaba un arsenal de rifles, escopetas, pistolas y revólveres en su casa",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-hombre-que-almacenaba-un-arsenal-de-rifles-escopetas-pistolas-y-revolveres-en-su-casa-breaking/",
+      "fecha": "Mon, 26 Oct 2026 23:43:23 +0000",
+      "categoria": "Justicia",
+      "resumen": "Investigadores de la Dipanda capturaron a un hombre que almacenaba armas de fuego sin documentación legal en una vivienda de Patulul, Suchitepéquez."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Charlyn Corral hace historia: el premio que conquistó la mexicana en la gala del Balón de Oro 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/charlyn-corral-hace-historia-el-premio-que-conquisto-la-mexicana-en-la-gala-del-balon-de-oro-2026/",
+      "fecha": "Mon, 26 Oct 2026 23:26:30 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "A sus 35 años, la atacante de Pachuca Femenil recibe uno de los máximos reconocimientos individuales del futbol mundial luego de una campaña repleta de goles y récords."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Insivumeh pronostica 16 frentes fríos en Guatemala durante la temporada 2026-27",
+      "link": "https://www.guatemala.com/noticias/comunidad/temporada-frentes-frios-guatemala-2026-2027.html",
+      "fecha": "Mon, 26 Oct 2026 23:24:08 +0000",
+      "categoria": "Comunidad",
+      "resumen": "La temporada de bajas temperaturas comenzará en noviembre, con el ingreso del primer frente frío a Guatmala, según pronostica el Insivumeh.\nThe post Insivumeh pronostica 16 frentes fríos en Guatemala durante la temporada 2026-27 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién ganó el balón de oro 2026",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/harry-kane-quien-gano-el-balon-de-oro-2026/",
+      "fecha": "Mon, 26 Oct 2026 23:23:21 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "Harry Kane, delantero del Bayern de Múnich y de la selección inglesa, se coronó en Londres con el Balón de Oro, el sexto en la historia de Inglaterra y el primero desde Michael Owen en 2001."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "San Judas Tadeo 2026: cuándo y dónde se celebra en Guatemala, horarios de misas y cierres viales",
+      "link": "https://www.prensalibre.com/vida/escenario/san-judas-tadeo-2026-cuando-y-donde-se-celebra-en-guatemala-horarios-de-misas-y-cierres-viales/",
+      "fecha": "Mon, 26 Oct 2026 23:18:19 +0000",
+      "categoria": "Escenario",
+      "resumen": "El Día de San Judas Tadeo moviliza a cientos de devotos hacia la zona 1 capitalina, donde acuden para hacer peticiones, agradecer favores y participar en las eucaristías."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Harry Kane hace historia y Alexia Putellas recupera el trono en la gala del Balón de Oro 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/harry-kane-hace-historia-y-alexia-putellas-recupera-el-trono-en-la-gala-del-balon-de-oro-2026/",
+      "fecha": "Mon, 26 Oct 2026 22:56:47 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La edición 2026 del Balón de Oro dejó una noche histórica en Londres, donde los premios más prestigiosos del futbol distinguieron a los protagonistas de una temporada brillante."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Anthony Rivers III?: el adolescente de 15 años arrestado por un tiroteo que dejó 12 heridos en Florida",
+      "link": "https://www.prensalibre.com/internacional/quien-es-anthony-rivers-iii-el-adolescente-de-15-anos-arrestado-por-presunto-tiroteo-que-dejo-12-personas-heridas-en-florida/",
+      "fecha": "Mon, 26 Oct 2026 22:51:40 +0000",
+      "categoria": "Internacional",
+      "resumen": "Arrestan a Anthony Rivers III, adolescente de 15 años por presunto tiroteo cerca de la Universidad Florida A&#38;M que dejó 12 heridos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Congreso elegirá a su Junta Directiva y autoridades de Conamigua en la sesión ordinaria de este martes",
+      "link": "https://www.prensalibre.com/guatemala/politica/congreso-elegira-a-su-junta-directiva-y-autoridades-de-conamigua-en-la-sesion-ordinaria-de-este-martes/",
+      "fecha": "Mon, 26 Oct 2026 22:50:16 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Congreso tiene previsto elegir este martes a los integrantes de la Junta Directiva para el período 2027-2028, y a las autoridades de Conamigua para el período 2026-2029, en una sesión que también incluye la discusión de varias iniciativas de ley."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salubristas huyen de hombres armados durante asalto en Villa Nueva mientras entregaban vitaminas a la población",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/salubristas-huyen-de-hombres-armados-durante-asalto-en-villa-nueva-mientras-entregaban-vitaminas-a-la-poblacion-breaking/",
+      "fecha": "Mon, 26 Oct 2026 22:33:21 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Hombres en motocicleta asaltaron a trabajadores del Ministerio de Salud mientras entregaban vitaminas en la colonia Betancourt, zona 4 de Villa Nueva."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Exluchadora de WWE Amber Nova es arrestada: Revelan qué pasó en las pruebas de alcoholemia",
@@ -108,7 +204,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Balón de Oro 2026 EN VIVO: siga la gala de premiación desde Londres",
+      "titulo": "Harry Kane toca la gloria y se queda con el Balón de Oro 2026",
       "link": "https://www.prensalibre.com/deportes/futbol-internacional/balon-de-oro-2026-en-vivo-siga-la-gala-de-premiacion-desde-londres/",
       "fecha": "Mon, 26 Oct 2026 18:53:00 +0000",
       "categoria": "Fútbol Internacional",
@@ -739,94 +835,6 @@
       "resumen": "El portero belga, Thibaut Courtois  fue descartado de última hora por un proceso gripal dejando a Andriy Lunin como titular en el Camp Nou con el Real Madrid que también llega sin Vinícius y tres lesionados."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Localizan a 14 personas desaparecidas en San Pedro Ayampuc: nueve son niños",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/localizan-a-14-personas-desaparecidas-en-san-pedro-ayampuc-nueve-son-ninos-breaking/",
-      "fecha": "Sun, 25 Oct 2026 14:06:32 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Bomberos localizaron en San Pedro Ayampuc a un grupo de personas que había sido reportado como extraviado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Carruaje de la Muerte: la leyenda del misterioso coche que anuncia una desgracia",
-      "link": "https://www.prensalibre.com/vida/escenario/el-carruaje-de-la-muerte-la-leyenda-del-misterioso-coche-que-anuncia-una-desgracia/",
-      "fecha": "Sun, 25 Oct 2026 14:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Las ruedas se escuchan acercarse por una calle vacía. El verdadero miedo comienza cuando el Carruaje de la Muerte se detiene frente a una casa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;De niño me enseñaron a reconocer a los policías encubiertos entre la multitud&#8221;: cómo fue mi infancia huyendo del FBI",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/de-nino-me-ensenaron-a-reconocer-a-los-policias-encubiertos-entre-la-multitud-como-fue-mi-infancia-huyendo-del-fbi/",
-      "fecha": "Sun, 25 Oct 2026 13:11:41 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los padres de Zayd eran miembros de Weather Underground, un grupo radical que buscaba visibilizar la desigualdad y la injusticia racial en EE.UU. colocando explosivos en edificios gubernamentales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala 2026: detalles del recorrido de la tercera etapa entre Antigua y Coatepeque",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-detalles-del-recorrido-de-la-tercera-etapa-entre-antigua-y-coatepeque-breaking/",
-      "fecha": "Sun, 25 Oct 2026 13:00:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "José Canastuj defenderá el liderato de la clasificación general en una tercera etapa de 196.5 kilómetros que llevará al pelotón desde Antigua Guatemala hasta Coatepeque, Quetzaltenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Empleo para guatemaltecos en el extranjero: estos son los cinco países que más trabajadores han contratado en el 2026",
-      "link": "https://www.prensalibre.com/economia/empleo-para-guatemaltecos-en-el-extranjero-estos-son-los-cinco-paises-que-mas-trabajadores-han-contratado-en-el-2026/",
-      "fecha": "Sun, 25 Oct 2026 13:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Seis de cada 10 trabajadores incorporados al Programa de Trabajo Temporal en el Extranjero han sido contratados en Estados Unidos, seguido de España y Canadá, según informó una fuente estatal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muertes por accidentes de tránsito superan a homicidios en 13 departamentos de Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/muertes-accidentes-transito-homicidios-13-departamentos-guatemala-2026/",
-      "fecha": "Sun, 25 Oct 2026 11:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Entre enero y septiembre del 2026, 13 departamentos registraron más muertes viales que homicidios. Las motocicletas concentran gran parte de los fallecimientos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gabriela Gil y Colectiva Enjambre: cómo el juego y la ciencia acompañan a 165 niñas en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/gabriela-gil-y-colectiva-enjambre-como-el-juego-y-la-ciencia-acompanan-a-165-ninas-en-guatemala/",
-      "fecha": "Sun, 25 Oct 2026 11:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Desde el 2024, Colectiva Enjambre ha organizado alrededor de 20 encuentros donde niñas y adolescentes exploran la ciencia, el movimiento y sus emociones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Digitalización de huellas",
-      "link": "https://www.prensalibre.com/opinion/caricatura/digitalizacion-de-huellas/",
-      "fecha": "Sun, 25 Oct 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vidas con arte",
-      "link": "https://www.prensalibre.com/opinion/editorial/vidas-con-arte/",
-      "fecha": "Sun, 25 Oct 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Lamentablemente, la formación artística no necesariamente ha sido una prioridad a lo largo de los gobiernos"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Y nosotros qué les decimos?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/y-nosotros-que-les-decimos/",
-      "fecha": "Sun, 25 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Los problemas de país son demasiado complejos como para pretender que existe una solución inmediata o que las próximas elecciones van a cambiarlo todo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Después de veinticuatro años",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/despues-de-veinticuatro-anos/",
-      "fecha": "Sun, 25 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La pregunta ya no es cuánto dinero recibe el sistema, sino qué capacidad posee para transformar recursos en desarrollo."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Fecha del retorno de Miguel Ángel Asturias a Guatemala y actividades en su honor",
       "link": "https://www.guatemala.com/noticias/cultura/confirman-fecha-retorno-miguel-angel-asturias-guatemala.html",
@@ -865,14 +873,6 @@
       "fecha": "Fri, 23 Oct 2026 00:23:37 +0000",
       "categoria": "Comunidad",
       "resumen": "Descubre detalles de la misa, recorrido de la procesión, ingreso y parqueos para el evento de Beatificación de Fray Augusto Ramírez Monasterio 2026.\nThe post Beatificación de Fray Augusto Ramírez en Guatemala: detalles de la misa, procesión y rutas de acceso appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Moda guatemalteca destacó en Rusia por cuarto año consecutivo",
-      "link": "https://www.guatemala.com/noticias/cultura/moda-guatemalteca-destaco-cumbre-mundial-moda-brics-moscu.html",
-      "fecha": "Thu, 22 Oct 2026 16:53:19 +0000",
-      "categoria": "Cultura",
-      "resumen": "Iniciativas de moda guatemalteca destacan en Moscú, durante la Cumbre Mundial de Moda BRICS+ que reunió la participación de 60 países.\nThe post Moda guatemalteca destacó en Rusia por cuarto año consecutivo appeared first on Guatemala.com."
     }
   ]
 }
