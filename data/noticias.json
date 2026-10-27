@@ -1,7 +1,183 @@
 {
-  "actualizado": "2026-10-27T01:55:40.257Z",
+  "actualizado": "2026-10-27T07:37:06.130Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tres hábitos de salud mental que pueden ayudar a controlar la presión arterial",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/tres-habitos-de-salud-mental-que-pueden-ayudar-a-controlar-la-presion-arterial/",
+      "fecha": "Tue, 27 Oct 2026 07:00:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Conozca cuáles son los tres hábitos sencillos que podrían ayudar a controlar la presión arterial y qué dice la ciencia sobre sus beneficios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Burbuja de inteligencia artificial? Samsung y otros gigantes de los chips ponen a prueba el mercado",
+      "link": "https://www.prensalibre.com/economia/burbuja-de-inteligencia-artificial-samsung-y-otros-gigantes-de-los-chips-ponen-a-prueba-el-mercado/",
+      "fecha": "Tue, 27 Oct 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Los principales fabricantes de chips de memoria presentarán sus resultados financieros en medio de crecientes dudas sobre la rentabilidad de las millonarias inversiones en inteligencia artificial y el riesgo de una burbuja tecnológica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gol de último minuto",
+      "link": "https://www.prensalibre.com/opinion/caricatura/gol-de-ultimo-minuto/",
+      "fecha": "Tue, 27 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "A un mes de matanza, persiste incertidumbre",
+      "link": "https://www.prensalibre.com/opinion/editorial/a-un-mes-de-matanza-persiste-incertidumbre/",
+      "fecha": "Tue, 27 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "La verdad para Huité puede hacer de este caso un precedente ejemplar en beneficio de todo el país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alemania: ¿A quién protege el muro político?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/alemania-a-quien-protege-el-muro-politico/",
+      "fecha": "Tue, 27 Oct 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "También es extremismo levantar un muro político contra el partido que encabeza las preferencias electorales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Netanyahu podría perder las elecciones en Israel y seguir en el poder con el respaldo de Trump",
+      "link": "https://www.prensalibre.com/internacional/netanyahu-podria-perder-las-elecciones-en-israel-y-seguir-en-el-poder-con-el-respaldo-de-trump/",
+      "fecha": "Tue, 27 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Aunque las encuestas sitúan a Gadi Eisenkot por delante de Benjamin Netanyahu, ninguno de los bloques alcanzaría la mayoría parlamentaria. Un gobierno de unidad podría permitir que el actual primer ministro conserve el poder."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Migrantes retornados: uno de cada dos tiene entre 15 y 30 años y vuelven con habilidades en distintos oficios",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/migrantes-retornados-uno-de-cada-dos-tiene-entre-15-y-30-anos-y-vuelven-con-habilidades-en-distintos-oficios/",
+      "fecha": "Tue, 27 Oct 2026 06:05:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Del 1 de enero al 20 de octubre han sido deportados 27 mil 390 guatemaltecos de entre 15 y 30 años, población que forma parte del bono demográfico del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El agua no reconoce fronteras",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-agua-no-reconoce-fronteras/",
+      "fecha": "Tue, 27 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Una oportunidad que Guatemala no puede desperdiciar"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El cálculo económico y el cálculo político",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-calculo-economico-y-el-calculo-politico/",
+      "fecha": "Tue, 27 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La incertidumbre tiene precio: encarece el financiamiento, retrasa proyectos y favorece decisiones de corto plazo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Brasil: remontada histórica",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/brasil-remontada-historica/",
+      "fecha": "Tue, 27 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La esperanza venció al miedo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dañino prejuicio contra el mercado",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/danino-prejuicio-contra-el-mercado/",
+      "fecha": "Tue, 27 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "En defensa del individualismo metodológico"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy martes 27 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-27-de-octubre-de-2026/",
+      "fecha": "Tue, 27 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "BAC: &#8220;La banca digital nos permite llegar a más personas&#8221;",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/bac-la-banca-digital-nos-permite-llegar-a-mas-personas/",
+      "fecha": "Tue, 27 Oct 2026 06:00:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "El CEO de BAC Guatemala analiza la evolución del sector bancario y su apuesta por servicios digitales que faciliten las operaciones, el ahorro y la inversión desde dispositivos móviles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Instagram permitirá videos horizontales: qué es Features y cómo funcionará",
+      "link": "https://www.prensalibre.com/vida/tecnologia/instagram-permitira-videos-horizontales-que-es-features-y-como-funcionara/",
+      "fecha": "Tue, 27 Oct 2026 03:25:18 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Instagram prueba una nueva función llamada Features, que permitirá a los creadores de contenido publicar videos horizontales de hasta 90 minutos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hombres armados irrumpen en venta de comida en Villa Canales y disparan contra comensales: dos muertos y tres heridos",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/hombres-armados-irrumpen-en-venta-de-comida-en-villa-canales-y-disparan-contra-comensales-dos-muertos-y-tres-heridos-breaking/",
+      "fecha": "Tue, 27 Oct 2026 03:00:49 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos personas murieron en un negocio de comida de la zona 1 de Villa Canales y otras tres fueron trasladadas a hospitales con heridas de bala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Agresión contra una mujer en Central Park: qué se sabe del sospechoso y cómo avanza la investigación",
+      "link": "https://www.prensalibre.com/internacional/agresion-contra-una-mujer-en-central-park-que-se-sabe-del-sospechoso-y-como-avanza-la-investigacion/",
+      "fecha": "Tue, 27 Oct 2026 02:38:23 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una mujer de 39 años fue agredida sexualmente y amenazada a mano armada en Central Park, desatando alerta en Nueva York."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El papa León XIV mantiene su gira por América Latina tras una operación por cáncer de pulmón",
+      "link": "https://www.prensalibre.com/internacional/el-papa-leon-xiv-mantiene-su-gira-por-america-latina-tras-una-operacion-por-cancer-de-pulmon/",
+      "fecha": "Tue, 27 Oct 2026 02:14:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Vaticano confirmó que el papa León XIV viajará a Uruguay, Argentina y Perú del 6 al 17 de noviembre, tras una operación por cáncer de pulmón."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Walter Koenig, actor que interpretó a Chekov en “Star Trek”, muere a los 90 años",
+      "link": "https://www.prensalibre.com/vida/escenario/walter-koenig-actor-que-interpreto-a-chekov-en-star-trek-muere-a-los-90-anos/",
+      "fecha": "Tue, 27 Oct 2026 02:07:58 +0000",
+      "categoria": "Escenario",
+      "resumen": "El actor estadounidense falleció tras una trayectoria en el cine y la televisión, en la que destacó por interpretar a Pavel Chekov en la serie y las películas de “Star Trek”."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Ya no pongo la misma cantidad”: cómo afecta el alza del gas a comedores, tortillerías y panaderías en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/ya-no-pongo-la-misma-cantidad-como-afecta-el-alza-del-gas-a-comedores-tortillerias-y-panaderias-en-guatemala/",
+      "fecha": "Tue, 27 Oct 2026 02:07:13 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El cuarto aumento del gas propano en Guatemala eleva los costos de pequeños negocios y golpea el bolsillo de los guatemaltecos. Comerciantes buscan mantener sus precios, aunque algunos ya reducen las porciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos ciclistas muertos en California: cómo ocurrió el atropello durante un recorrido de Halloween",
+      "link": "https://www.prensalibre.com/internacional/dos-ciclistas-muertos-en-california-como-ocurrio-el-atropello-durante-un-recorrido-de-halloween/",
+      "fecha": "Tue, 27 Oct 2026 01:14:33 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un vehículo atropelló a un grupo de ciclistas durante un recorrido de Halloween en California. El accidente dejó dos muertos y varios heridos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Revelan primeros indicios sobre la muerte de El Komanche, streamer salvadoreño que publicó: &#8220;Los días simplemente no mejoran&#8221;",
+      "link": "https://www.prensalibre.com/internacional/revelan-primeros-indicios-sobre-la-muerte-de-el-komanche-streamer-salvadoreno-que-publico-los-dias-simplemente-no-mejoran/",
+      "fecha": "Tue, 27 Oct 2026 00:50:35 +0000",
+      "categoria": "Internacional",
+      "resumen": "El streamer salvadoreño fue hallado sin vida en Monterrey, México, a los 30 años. Mientras las autoridades investigan su muerte, cobran relevancia las declaraciones que hizo sobre sus problemas personales y de salud mental."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ocho consejos para consultar dudas legales con inteligencia artificial y reducir el riesgo de errores",
+      "link": "https://www.prensalibre.com/guatemala/ocho-consejos-para-consultar-dudas-legales-con-inteligencia-artificial-y-reducir-el-riesgo-de-errores/",
+      "fecha": "Tue, 27 Oct 2026 00:44:46 +0000",
+      "categoria": "Guatemala",
+      "resumen": "¿Cómo hacer una consulta legal a la inteligencia artificial? Un experto comparte un formato que puede copiar, adaptar a su caso y utilizar para obtener respuestas más precisas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Entrenador y exfutbolista muere baleado en centro comercial de Chiquimula; esto revela el informe de la PNC",
@@ -657,182 +833,6 @@
       "fecha": "Sun, 25 Oct 2026 21:48:36 +0000",
       "categoria": "Internacional",
       "resumen": "Las imágenes difundidas por los Bomberos de Cataluña muestran cómo quedó el autobús que cayó por una pendiente de 20 metros y dejó 83 heridos, siete de ellos graves."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cobán sorprende a Marquense con una remontada y vence 3-1 en la jornada 16",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/coban-sorprende-a-marquense-con-una-remontada-y-vence-3-1-en-la-jornada-16-breaking/",
-      "fecha": "Sun, 25 Oct 2026 20:57:53 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los príncipes azules fueron por detrás en el marcador tras el gol de Carlos Santos  pero remontaron con goles de Janderson Pereira, Uri Amaral  y Juan Winter para llevarse los tres puntos en el estadio David Cordón Hichos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Motorista no obedece señal de alto, atropella a policía y termina detenido en Escuintla",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-motorista-por-atropellar-a-policia-en-escuintla-breaking/",
-      "fecha": "Sun, 25 Oct 2026 20:39:01 +0000",
-      "categoria": "Justicia",
-      "resumen": "El capturado no respetó la señal de alto que le hizo el agente de la PNC."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Festival Paseo de Catrinas 2026: tradición mexicana, arte y color llenaron el Centro Histórico de Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/festival-paseo-de-catrinas-2026-tradicion-mexicana-arte-y-color-llenaron-el-centro-historico-de-guatemala/",
-      "fecha": "Sun, 25 Oct 2026 20:11:42 +0000",
-      "categoria": "Escenario",
-      "resumen": "El Centro Histórico de Guatemala se llenó de arte y tradición mexicana con la tercera edición del Festival Paseo de Catrinas, que reunió a participantes caracterizados como estas figuras emblemáticas del Día de Muertos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; San Pedro vs. Malacateco: siga el minuto a minuto de la jornada 16",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-san-pedro-vs-malacateco-siga-el-minuto-a-minuto-de-la-jornada-16-breaking/",
-      "fecha": "Sun, 25 Oct 2026 20:10:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los gallos reciben a los toros este domingo a las 3:10 PM en el estadio Municipal Sampedrano en un duelo donde San Pedro buscará sumar de local para mantenerse en la pelea por los primeros lugares del torneo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lula vs. Flávio Bolsonaro: Brasil decide su presidencia con las encuestas en empate técnico",
-      "link": "https://www.prensalibre.com/internacional/lula-vs-flavio-bolsonaro-brasil-decide-su-presidencia-con-las-encuestas-en-empate-tecnico/",
-      "fecha": "Sun, 25 Oct 2026 19:40:08 +0000",
-      "categoria": "Internacional",
-      "resumen": "Brasil decide entre Lula da Silva y Flávio Bolsonaro en una segunda vuelta con empate técnico en las encuestas, denuncias electorales y resultados de votación en el extranjero."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Wilson Chonay de Hino One La Red gana la tercera etapa de la Vuelta a Guatemala 2026",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/wilson-chonay-de-hino-one-la-red-gana-la-tercera-etapa-de-la-vuelta-a-guatemala-breaking/",
-      "fecha": "Sun, 25 Oct 2026 19:32:19 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El ciclista guatemalteco  Wilson Chonay se impuso en un final cerrado tras 196.5 kilómetros entre Antigua y Coatepeque mientras el costarricense Alejandro Granados le arrebata el suéter de líder a José Canastuj."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Barcelona vs. Real Madrid: siga el minuto a minuto del Clásico de LaLiga",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-barcelona-vs-real-madrid-siga-el-minuto-a-minuto-del-clasico-de-laliga-breaking/",
-      "fecha": "Sun, 25 Oct 2026 19:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Los azulgranas líderes invictos reciben al Real Madrid este domingo en el Camp Nou en un Clásico donde los merengues buscarán evitar que el Barcelona se afiance en lo más alto de LaLiga."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Día de Muertos de las Mascotas: cuándo se celebra, cuál es su origen y cómo se conmemora",
-      "link": "https://www.prensalibre.com/vida/escenario/dia-de-muertos-de-las-mascotas-cuando-se-celebra-cual-es-su-origen-y-como-se-conmemora/",
-      "fecha": "Sun, 25 Oct 2026 18:51:27 +0000",
-      "categoria": "Escenario",
-      "resumen": "Las mascotas se han convertido en fieles compañeras de las personas. Por ello, se dedica un día especial a recordar a aquellas que han fallecido. Conozca cuándo se celebra el Día de Muertos de las Mascotas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Disparo y amenazas en el tránsito: video de asalto a piloto en la calzada Roosevelt",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/disparo-y-amenazas-en-el-transito-video-del-intento-de-asalto-a-piloto-en-la-calzada-roosevelt-breaking/",
-      "fecha": "Sun, 25 Oct 2026 18:19:14 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Video captado en la calzada Roosevelt muestra cómo ocurrió un asalto contra un automovilista."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "María Corina Machado vuelve a Venezuela tras 10 meses: la reacción de Trump y lo que aún se desconoce",
-      "link": "https://www.prensalibre.com/internacional/maria-corina-machado-vuelve-a-venezuela-tras-10-meses-la-reaccion-de-trump-y-lo-que-aun-se-desconoce/",
-      "fecha": "Sun, 25 Oct 2026 18:17:10 +0000",
-      "categoria": "Internacional",
-      "resumen": "¿Cómo regresó María Corina Machado a Venezuela después de 10 meses? Su equipo aún no revela los detalles, mientras Trump asegura que no sabía de su retorno y espera que esté a salvo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Marquense vs. Cobán Imperial: siga el minuto a minuto de la jornada 16",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-marquense-vs-coban-imperial-siga-el-minuto-a-minuto-de-la-jornada-16-breaking/",
-      "fecha": "Sun, 25 Oct 2026 18:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los leones reciben a los príncipes azules este domingo a la 1:00 PM en el estadio Marquesa de La Ensenada en el primer partido de una jornada dominical que promete emociones en el Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Restos humanos hallados en Haití: qué dice la fuerza multinacional y por qué Bukele descarta que sean los soldados salvadoreños",
-      "link": "https://www.prensalibre.com/internacional/restos-humanos-hallados-en-haiti-que-dice-la-fuerza-multinacional-y-por-que-bukele-descarta-que-sean-los-soldados-salvadorenos/",
-      "fecha": "Sun, 25 Oct 2026 17:34:22 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una organización humanitaria recuperó restos humanos en Haití tras la desaparición de cuatro militares salvadoreños. El hallazgo provocó declaraciones contrapuestas entre Bukele y la fuerza multinacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "SIP alerta por violencia criminal en Guatemala tras asesinatos de periodistas y Solórzano Foppa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/sip-alerta-por-violencia-criminal-en-guatemala-tras-asesinatos-de-periodistas-y-solorzano-foppa-breaking/",
-      "fecha": "Sun, 25 Oct 2026 17:31:13 +0000",
-      "categoria": "Justicia",
-      "resumen": "La Sociedad Interamericana de Prensa (SIP) alerta sobre la violencia criminal en Guatemala tras los asesinatos de periodistas y de Solórzano Foppa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Noches de Luna en el Zoológico La Aurora: fechas, precios y detalles para descubrir la vida nocturna de los animales",
-      "link": "https://www.prensalibre.com/vida/escenario/noches-de-luna-en-el-zoologico-la-aurora-fechas-precios-y-detalles-para-descubrir-la-vida-nocturna-de-los-animales/",
-      "fecha": "Sun, 25 Oct 2026 17:20:19 +0000",
-      "categoria": "Escenario",
-      "resumen": "Bajo la luz de la luna, niños y adultos podrán vivir una experiencia única en el Zoológico La Aurora y descubrir la vida nocturna de los animales que habitan en el recinto. Estos son los detalles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién ganará el Balón de Oro 2026? Este es el jugador con más méritos según la IA",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/quien-ganara-el-balon-de-oro-2026-este-es-el-jugador-con-mas-meritos-segun-la-ia-breaking/",
-      "fecha": "Sun, 25 Oct 2026 17:10:48 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La Inteligencia Artificial evaluó rendimiento, títulos y actuación mundialista y tiene un veredicto claro sobre quiénes merecen el Balón de Oro este 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala Sub-15 goleó a Samoa en la Copa Mundial y buscará el liderato del grupo ante Honduras",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-sub-15-goleo-a-samoa-en-la-copa-mundial-y-buscara-el-liderato-del-grupo-ante-honduras-breaking/",
-      "fecha": "Sun, 25 Oct 2026 17:09:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Bicolor aplastó 10-0 a Samoa Americana con un repóker de Luis Sosa y empató 1-1 ante Canadá en lo que los deja peleando por el liderato del grupo antes del duelo ante Honduras esta noche."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo una mansión de California se convirtió en la &#8220;casa de los horrores&#8221;, en la que se investiga el abuso de 14 niños surrogados",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-una-mansion-de-california-se-convirtio-en-la-casa-de-los-horrores-en-la-que-se-investiga-el-abuso-de-14-ninos-surrogados/",
-      "fecha": "Sun, 25 Oct 2026 17:04:16 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Silvia Zhang y Guojun Xuan están siendo acusados de maltrato infantil por las condiciones y violencia contra una docena de niños que tenían en su mansión del este de Los Ángeles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tiroteo en Florida deja 11 heridos de bala, entre ellos seis menores, cerca de un estadio universitario",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/tiroteo-en-florida-deja-11-heridos-de-bala-entre-ellos-seis-menores-cerca-de-un-estadio-universitario/",
-      "fecha": "Sun, 25 Oct 2026 16:33:44 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Lo que comenzó como una jornada de futbol americano universitario en Tallahassee, Florida, terminó con un tiroteo que dejó 11 heridos de bala. La Policía investiga lo ocurrido y aún no reporta capturas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Carrera San Martín 2026: participantes se unen por la inclusión de personas con síndrome de Down",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/carrera-san-martin-2026-participantes-se-unen-por-la-inclusion-de-personas-con-sindrome-de-down-breaking/",
-      "fecha": "Sun, 25 Oct 2026 16:10:54 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Carrera organizada por San Martín beneficia a personas con síndrome de Down atendidas por la Fundación Margarita Tejada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Vuelta Ciclística a Guatemala 2026: siga la tercera etapa entre Antigua y Coatepeque",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-vuelta-ciclistica-a-guatemala-2026-siga-la-tercera-etapa-entre-antigua-y-coatepeque-breaking/",
-      "fecha": "Sun, 25 Oct 2026 14:50:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "José Canastuj defenderá el liderato de la clasificación general sobre el colombiano Cristian Rico en una tercera etapa de 196.5 kilómetros entre Antigua Guatemala y Coatepeque Quetzaltenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Temblores en Guatemala: Insivumeh reporta tres sismos este domingo 25 de octubre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/temblores-en-guatemala-insivumeh-reporta-tres-sismos-este-domingo-25-de-octubre-breaking/",
-      "fecha": "Sun, 25 Oct 2026 14:41:47 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh informó sobre tres temblores registrados este domingo y detalló la ubicación de sus epicentros."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Courtois es baja de última hora en el Real Madrid para el Clásico y Lunin irá de titular",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/courtois-es-baja-de-ultima-hora-en-el-real-madrid-para-el-clasico-y-lunin-ira-de-titular-breaking/",
-      "fecha": "Sun, 25 Oct 2026 14:07:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El portero belga, Thibaut Courtois  fue descartado de última hora por un proceso gripal dejando a Andriy Lunin como titular en el Camp Nou con el Real Madrid que también llega sin Vinícius y tres lesionados."
     },
     {
       "fuente": "Guatemala.com",
