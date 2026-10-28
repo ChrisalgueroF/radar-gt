@@ -1,7 +1,135 @@
 {
-  "actualizado": "2026-10-27T23:42:18.479Z",
+  "actualizado": "2026-10-28T05:00:01.513Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Avanza proceso de extinción de dominio de 11 bienes vinculados con Roxana Baldetti y el MP busca que pasen al Estado",
+      "link": "https://www.prensalibre.com/guatemala/justicia/avanza-proceso-de-extincion-de-dominio-de-11-bienes-vinculados-con-roxana-baldetti-y-el-mp-busca-que-pasen-al-estado-breaking/",
+      "fecha": "Wed, 28 Oct 2026 04:24:04 +0000",
+      "categoria": "Justicia",
+      "resumen": "El MP avanza en el proceso de extinción de dominio de 11 bienes vinculados con Roxana Baldetti, entre inmuebles, vehículos y cuentas bancarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¡De infarto! Tampa Bay remonta en la entrada 12 y evita la barrida ante los Cerveceros",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/historico-los-cerveceros-conquistan-su-primera-serie-mundial-breaking/",
+      "fecha": "Wed, 28 Oct 2026 04:21:27 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "Los Rays vencieron 4-3 a los Cerveceros de Milwaukee y alargaron la Serie Mundial, que favorece 3-1 al equipo de Wisconsin."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque armado en puesto de comida deja un hombre y una mujer muertos en la colonia La Palmita",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-puesto-de-comida-deja-un-hombre-y-una-mujer-muertos-en-la-colonia-la-palmita-breaking/",
+      "fecha": "Wed, 28 Oct 2026 03:43:03 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Un hombre y una mujer murieron en un ataque armado en un puesto de comida de la zona 5 capitalina. Una de las hipótesis apunta a un posible caso de extorsión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Luna llena del Castor del 2026: por qué se llama así y cuándo iluminará el cielo en noviembre",
+      "link": "https://www.prensalibre.com/vida/escenario/luna-llena-del-castor-del-2026-por-que-se-llama-asi-y-cuando-iluminara-el-cielo-en-noviembre/",
+      "fecha": "Wed, 28 Oct 2026 03:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Noviembre traerá una de las lunas llenas más esperadas del año: la llamada Luna del Castor. ¿Cuándo podrá observarse y cuál es el origen de este nombre?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fiambre 2026: conozca los precios de los ingredientes y los secretos de una receta familiar que mantiene viva la tradición guatemalteca",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/fiambre-2026-conozca-los-precios-de-los-ingredientes-y-los-secretos-de-una-receta-familiar-que-mantiene-viva-la-tradicion-guatemalteca/",
+      "fecha": "Wed, 28 Oct 2026 02:32:20 +0000",
+      "categoria": "Comunitario",
+      "resumen": "A pocos días del Día de Todos los Santos, los mercados se llenan de colores y sabores para preparar el tradicional fiambre. Conozca cuánto cuestan sus ingredientes y cuáles representan un mayor gasto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Tiene entre Q1 mil y Q10 mil para emprender? Siete técnicas para evaluar una idea de negocio antes de invertir",
+      "link": "https://www.prensalibre.com/economia/tiene-entre-q1-mil-y-q10-mil-para-emprender-siete-tecnicas-para-evaluar-una-idea-de-negocio-antes-de-invertir/",
+      "fecha": "Wed, 28 Oct 2026 02:18:49 +0000",
+      "categoria": "Economía",
+      "resumen": "Más de la mitad de los emprendimientos en Guatemala comienza con Q10 mil o menos. Conozca siete técnicas para identificar oportunidades de negocio, mejorar su idea y evaluar si puede generar ganancias antes de arriesgar sus ahorros."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así funciona el CACCO, la nueva cárcel de Costa Rica inspirada en el modelo de Bukele: capacidad y seguridad",
+      "link": "https://www.prensalibre.com/internacional/asi-funciona-el-cacco-la-nueva-carcel-de-costa-rica-inspirada-en-el-modelo-de-bukele-capacidad-y-seguridad/",
+      "fecha": "Wed, 28 Oct 2026 02:14:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "Costa Rica inauguró el CACCO, su primera megacárcel estilo Bukele, con el traslado de los primeros 123 reos de alta peligrosidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Siete policías siguen en carceletas de Tribunales porque juez aún no determina su situación jurídica",
+      "link": "https://www.prensalibre.com/guatemala/justicia/siete-policias-siguen-en-carceletas-de-tribunales-porque-juez-aun-no-determina-su-situacion-juridica-breaking/",
+      "fecha": "Wed, 28 Oct 2026 01:52:19 +0000",
+      "categoria": "Justicia",
+      "resumen": "Los siete policías capturados por presuntas irregularidades en la detención de los hermanos Choc siguen en carceletas de la Torre de Tribunales, luego de que su audiencia de primera declaración fuera suspendida ."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién lidera las elecciones en Israel? Así van los resultados",
+      "link": "https://www.prensalibre.com/internacional/quien-lidera-las-elecciones-en-israel-asi-van-los-resultados/",
+      "fecha": "Wed, 28 Oct 2026 01:39:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "El escrutinio de las elecciones en Israel avanza y los primeros resultados perfilan la disputa entre Netanyahu y sus rivales por el control del Gobierno."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "People elige a Noah Wyle, actor de The Pitt, como el hombre más sexy del mundo en el 2026",
+      "link": "https://www.prensalibre.com/vida/escenario/people-elige-a-noah-wyle-actor-de-the-pitt-como-el-hombre-mas-sexy-del-mundo-en-el-2026/",
+      "fecha": "Wed, 28 Oct 2026 01:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "De ser una estrella de televisión por su papel en The Pitt a convertirse en un galán, luego de que la revista People lo nombrara el hombre más sexy del mundo en el 2026. Esto dijo el actor sobre el título."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Habrá una disculpa pública para los hermanos Choc? Esto respondió el presidente Arévalo",
+      "link": "https://www.prensalibre.com/guatemala/politica/habra-una-disculpa-publica-para-los-hermanos-choc-esto-respondio-el-presidente-arevalo-breaking/",
+      "fecha": "Wed, 28 Oct 2026 00:50:16 +0000",
+      "categoria": "Política",
+      "resumen": "El presidente Bernardo Arévalo afirmó que el Gobierno está dispuesto a ofrecer una disculpa pública a los hermanos Rigoberto y Daniel Zaqueo Choc Toz, detenidos por la PNC y liberados por falta de pruebas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salario mínimo 2027: Comisión Nacional del Salario concluye discusión sin acuerdo entre los tres sectores",
+      "link": "https://www.prensalibre.com/economia/comision-nacional-del-salario-concluye-discusion-del-salario-minimo-para-el-2027-sin-acuerdo-entre-los-tres-sectores/",
+      "fecha": "Wed, 28 Oct 2026 00:34:33 +0000",
+      "categoria": "Economía",
+      "resumen": "El Gobierno propone un aumento salarial de entre el 4% y el 7%; los trabajadores piden el 10% y los empleadores plantean un incremento de entre el 3% y el 4%, según las fórmulas propuestas por cada sector. Sin embargo, no se logró un acuerdo en la Comisión Nacional del Salario (CNS)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Hagámoslo el estado 51”: qué dijo Trump sobre Venezuela y de poner un gobernador en lugar de presidente",
+      "link": "https://www.prensalibre.com/internacional/hagamoslo-el-estado-51-que-dijo-trump-sobre-venezuela-y-de-poner-un-gobernador-en-lugar-de-presidente/",
+      "fecha": "Wed, 28 Oct 2026 00:30:09 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump propuso que Venezuela sea el estado 51 de EE. UU. y que sus ciudadanos elijan un gobernador en lugar de un presidente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Me han enviado como regalo un cargamento&#8221;: Por qué Trump recibirá un millón de barriles de petróleo de Venezuela",
+      "link": "https://www.prensalibre.com/internacional/me-han-enviado-como-regalo-un-cargamento-por-que-trump-recibira-un-millon-de-barriles-de-petroleo-de-venezuela/",
+      "fecha": "Tue, 27 Oct 2026 23:52:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "Donald Trump anuncia que Estados Unidos recibirá un millón de barriles de petróleo venezolano, en medio de esfuerzos por reducir el precio de combustibles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ley de MetroRiel se aprueba de urgencia nacional con el apoyo de 134 diputados",
+      "link": "https://www.prensalibre.com/guatemala/politica/ley-de-metroriel-se-aprueba-de-urgencia-nacional-con-el-apoyo-de-134-diputados/",
+      "fecha": "Tue, 27 Oct 2026 23:40:17 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Con el respaldo de 134 diputados, el Congreso de la República aprobó el Decreto 24-2026, relacionado con el proyecto MetroRiel, una iniciativa que busca impulsar el transporte ferroviario en el área metropolitana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Super Bowl LXI: Jay-Z fue elegido para encabezar el espectáculo de medio tiempo del 2027",
+      "link": "https://www.prensalibre.com/vida/escenario/super-bowl-lxi-jay-z-fue-elegido-para-encabezar-el-espectaculo-de-medio-tiempo-del-2027/",
+      "fecha": "Tue, 27 Oct 2026 23:40:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El rapero Jay-Z llegará al escenario del SoFi Stadium, en Los Ángeles, para poner el toque musical en el espectáculo de medio tiempo del Super Bowl LXI de Apple Music del 2027. Esto se conoce de la elección y del evento."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "CC ordena suspender a José de la Peña como presidente de Empornac: ¿quién asumirá el cargo?",
@@ -707,52 +835,12 @@
       "resumen": "Bolsonaro es investigado en procedimientos del Supremo, mientras que la Policía investiga posibles delitos de lavado de dinero, evasión de divisas y corrupción."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "El &#8220;ejército digital&#8221; de 10 millones de personas en WhatsApp que ayudó a Lula a lograr una victoria histórica",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/el-ejercito-digital-de-10-millones-de-personas-en-whatsapp-que-ayudo-a-lula-a-lograr-una-victoria-historica/",
-      "fecha": "Mon, 26 Oct 2026 19:11:36 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Mientras las encuestas apuntaban a la derrota, un canal de WhatsApp ayudó a convertir el entusiasmo en línea en votos para Lula."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sara Curruchich cierra gira de más de 220 conciertos en 20 países y prepara su tercer disco inspirado en la poesía de Luis de Lión",
-      "link": "https://www.prensalibre.com/vida/escenario/sara-curruchich-cierra-gira-de-mas-de-220-conciertos-en-20-paises-y-prepara-su-tercer-disco-inspirado-en-la-poesia-de-luis-de-lion/",
-      "fecha": "Mon, 26 Oct 2026 19:07:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantautora guatemalteca de origen kaqchikel Sara Curruchich anunció una pausa en sus presentaciones para concentrarse en una nueva producción musical que combinará sonidos acústicos, ritmos de los pueblos originarios y elementos digitales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Harry Kane toca la gloria y se queda con el Balón de Oro 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/balon-de-oro-2026-en-vivo-siga-la-gala-de-premiacion-desde-londres/",
-      "fecha": "Mon, 26 Oct 2026 18:53:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Londres se viste de gala este lunes para conocer al nuevo Balón de Oro 2026, en una edición marcada por el relevo generacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jhonatan Chaves gana la cuarta etapa de la Vuelta a Guatemala 2026; Granados mantiene liderato y Canastuj el mejor guatemalteco",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/jhonatan-chaves-gana-la-cuarta-etapa-de-la-vuelta-a-guatemala-2026/",
-      "fecha": "Mon, 26 Oct 2026 18:41:51 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Alejandro Granados conserva el primer lugar de la clasificación general, mientras José David Canastuj continúa como el mejor guatemalteco de la competencia."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Exámenes de admisión 2027 al Conservatorio Nacional de Música «Germán Alcántara»",
       "link": "https://www.guatemala.com/noticias/sociedad/examenes-admision-2027-conservatorio-nacional-de-musica-german-alcantara.html",
       "fecha": "Mon, 26 Oct 2026 18:38:55 +0000",
       "categoria": "Sociedad",
       "resumen": "El Conservatorio Nacional de Música «Germán Alcántara» realizará sus exámenes de admisión para personas de 7 a 25 años en octubre y noviembre 2026. \nThe post Exámenes de admisión 2027 al Conservatorio Nacional de Música «Germán Alcántara» appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mbappé, Lamine Yamal y Kane: la publicación que genera dudas antes del Balón de Oro",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mbappe-lamine-yamal-y-kane-la-publicacion-que-genera-dudas-antes-del-balon-de-oro/",
-      "fecha": "Mon, 26 Oct 2026 18:36:59 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La aparente filtración de tres artículos en el sitio oficial del Balón de Oro desató rumores sobre los posibles finalistas de la edición 2026, a pocas horas de la gala."
     },
     {
       "fuente": "Guatemala.com",
@@ -763,100 +851,12 @@
       "resumen": "Mario Cordero Ávila gana el Premio Elena Poniatowska 2026 con Fiebre de frontera, novela sobre migración, entre más de 700 obras participantes. \nThe post Mario Cordero Ávila gana el Premio Elena Poniatowska 2026 con su obra «Fiebre de frontera» appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Lula gana en Brasil y frena el avance de Trump en América Latina: Así cambia el escenario político",
-      "link": "https://www.prensalibre.com/internacional/lula-gana-en-brasil-y-frena-el-avance-de-trump-en-america-latina-asi-cambia-el-escenario-politico/",
-      "fecha": "Mon, 26 Oct 2026 18:00:15 +0000",
-      "categoria": "Internacional",
-      "resumen": "La mayor economía de Latinoamérica se aleja de la ola de gobiernos de derecha en la región y se mantiene como el principal bastión de la izquierda."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presidente del Banguat: Cacif pide al presidente Arévalo elegir un perfil técnico y con experiencia",
-      "link": "https://www.prensalibre.com/economia/presidente-del-banguat-cacif-pide-al-presidente-arevalo-elegir-un-perfil-tecnico-y-con-experiencia/",
-      "fecha": "Mon, 26 Oct 2026 18:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El sector privado organizado está a la expectativa del nuevo nombramiento para la presidencia del Banguat y de la Junta Monetaria, por lo que solicita la designación de una persona con perfil técnico y amplia experiencia en la institución para dirigir la política monetaria, cambiaria y crediticia del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente en ruta al Atlántico: caos vial persiste nueve horas después de colisión múltiple",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/accidente-en-ruta-al-atlantico-caos-vial-persiste-nueve-horas-despues-de-colision-multiple-breaking/",
-      "fecha": "Mon, 26 Oct 2026 17:41:16 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La PMT informa de una alta concentración de vehículos en ambos sentidos de la ruta al Atlántico, debido al accidente ocurrido en el kilómetro 7.8."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jerry Rivera en Guatemala 2027: Fecha, lugar y otros detalles del concierto dedicado a los salseros de corazón",
-      "link": "https://www.prensalibre.com/vida/escenario/jerry-rivera-en-guatemala-2027-fecha-lugar-y-otros-detalles-del-concierto-dedicado-a-los-salseros-de-corazon/",
-      "fecha": "Mon, 26 Oct 2026 17:36:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El cantante puertorriqueño ofrecerá un concierto en Guatemala para reunir a los amantes de la salsa en una noche de romance, baile y éxitos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Solórzano Foppa: Juzgado Tercero Penal desarrollará audiencia de  agentes de la PNC por captura de hermanos Choc Toz",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-solorzano-foppa-suspenden-audiencia-de-siete-agentes-de-la-pnc-por-captura-de-hermanos-choc-toz-breaking/",
-      "fecha": "Mon, 26 Oct 2026 16:39:51 +0000",
-      "categoria": "Justicia",
-      "resumen": "El juzgado de turno suspendió la audiencia de primera declaración de los agentes de la Policía Nacional Civil (PNC) capturados por supuestas irregularidades en la detención de los hermanos Choc Toz. La audiencia se desarrollará ahora en el Juzgado Tercero Penal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "The One About Matthew Perry: cuándo se estrena la docuserie del actor de Friends y dónde verla en Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/the-one-about-matthew-perry-cuando-se-estrena-la-docuserie-del-actor-de-friends-y-donde-verla-en-guatemala/",
-      "fecha": "Mon, 26 Oct 2026 16:23:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "A tres años de la muerte de Matthew Perry, conocido por dar vida a Chandler Bing en la comedia Friends, se estrenará un documental sobre su vida. Esto se conoce sobre el estreno y dónde verlo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Es el BOAT el nuevo Super Balón de Oro? Qué se sabe del premio y cuándo se conocerá al ganador",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/es-el-boat-el-nuevo-super-balon-de-oro-que-se-sabe-del-premio-y-cuando-se-conocera-al-ganador/",
-      "fecha": "Mon, 26 Oct 2026 16:20:53 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El BOAT reúne a los futbolistas que han ganado el Balón de Oro dos o más veces y busca conocer cuál de ellos encarna mejor el legado del galardón."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "¿Cómo estará el clima en Guatemala la última semana de octubre 2026?",
       "link": "https://www.guatemala.com/noticias/comunidad/pronostico-insivumeh-clima-guatemala-26-al-30-octubre-2026.html",
       "fecha": "Mon, 26 Oct 2026 15:56:44 +0000",
       "categoria": "Comunidad",
       "resumen": "Disminución de lluvias y viento frío marcarán las condiciones del clima en Guatemala del 26 al 30 de octubre 2026, según pronóstico del Insivumeh.\nThe post ¿Cómo estará el clima en Guatemala la última semana de octubre 2026? appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Balón de Oro 2026: candidatos, nominados y premios que se entregarán en Londres",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/balon-de-oro-2026-candidatos-nominados-y-premios-que-se-entregaran-en-londres/",
-      "fecha": "Mon, 26 Oct 2026 15:28:10 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La gala más esperada del futbol mundial premiará a una nueva figura en una elección cargada de expectativa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Falleció Eric Bauza, actor que dio voz al Pato Lucas y a Bugs Bunny, a los 46 años: ¿qué se sabe de la causa de su muerte?",
-      "link": "https://www.prensalibre.com/vida/escenario/fallecio-eric-bauza-actor-que-dio-voz-a-personajes-como-el-pato-lucas-y-bugs-bunny-a-los-46-anos-que-se-sabe-de-la-causa-de-muerte/",
-      "fecha": "Mon, 26 Oct 2026 15:15:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Eric Bauza, conocido por ser la voz moderna de algunos personajes de los Looney Tunes, falleció a los 46 años. Esto se sabe sobre la causa de muerte del ganador del Emmy."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿De qué murió El Komanche? Las incógnitas sobre el fallecimiento del streamer salvadoreño",
-      "link": "https://www.prensalibre.com/internacional/de-que-murio-el-komanche-las-incognitas-sobre-el-fallecimiento-del-streamer-salvadoreno/",
-      "fecha": "Mon, 26 Oct 2026 15:01:06 +0000",
-      "categoria": "Internacional",
-      "resumen": "\"El bullying a cualquier escala no es un juego\", expresó el representante de El Komanche, un creador de contenido salvadoreño que tenía más de 895 mil seguidores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuáles fueron las cinco claves de la derrota del Barcelona frente al Real Madrid?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cuales-fueron-las-cinco-claves-de-la-derrota-del-barcelona-frente-al-real-madrid/",
-      "fecha": "Mon, 26 Oct 2026 14:59:02 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Tras 23 victorias consecutivas como local, el Barcelona perdió su invicto al caer 2-1 frente al Real Madrid. La neutralización de sus principales figuras y los problemas defensivos marcaron una noche amarga para el conjunto catalán."
     },
     {
       "fuente": "Guatemala.com",
