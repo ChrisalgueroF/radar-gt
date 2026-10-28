@@ -1,7 +1,215 @@
 {
-  "actualizado": "2026-10-28T11:15:25.015Z",
+  "actualizado": "2026-10-28T18:11:53.613Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cadena perpetua en Honduras: Las nuevas penas contra pandilleros que asesinen a policías y jueces",
+      "link": "https://www.prensalibre.com/internacional/cadena-perpetua-en-honduras-las-nuevas-penas-contra-pandilleros-que-asesinen-a-policias-y-jueces/",
+      "fecha": "Wed, 28 Oct 2026 17:04:29 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las reformas se suman a las medidas de endurecimiento del régimen penitenciario, orientadas a reforzar el control sobre las personas privadas de libertad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Netanyahu y Eisenkot enfrentan un difícil camino hacia el poder tras ninguno alcanzar una mayoría para formar gobierno",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/netanyahu-y-eisenkot-enfrentan-un-dificil-camino-hacia-el-poder-tras-ninguno-alcanzar-una-mayoria-para-formar-gobierno/",
+      "fecha": "Wed, 28 Oct 2026 16:57:35 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los dos bloques principales no parecen tener los escaños suficientes para formar el próximo gobierno sin depender de los partidos minoritarios, incluyendo los árabes que obtuvieron un resultado récord en las elecciones de Israel."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Harry Potter regresa a Hogwarts: la nueva serie llega 25 años después de su estreno en el cine",
+      "link": "https://www.prensalibre.com/vida/escenario/harry-potter-regresa-a-hogwarts-la-nueva-serie-llega-25-anos-despues-de-su-estreno-en-el-cine/",
+      "fecha": "Wed, 28 Oct 2026 16:51:56 +0000",
+      "categoria": "Escenario",
+      "resumen": "En el 2001, Harry Potter y la piedra filosofal llevó a la pantalla grande la historia de un joven mago y el destino que lo esperaba en Hogwarts. Veinticinco años después, este universo regresará con una nueva serie de HBO."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hugo Beteta renuncia como embajador de Guatemala en EE. UU.; Julio Saavedra será su sucesor, según la Cancillería",
+      "link": "https://www.prensalibre.com/guatemala/politica/hugo-beteta-renuncia-como-embajador-de-guatemala-en-ee-uu-julio-saavedra-sera-su-sucesor-segun-la-cancilleria-breaking/",
+      "fecha": "Wed, 28 Oct 2026 16:49:29 +0000",
+      "categoria": "Política",
+      "resumen": "La Cancillería informó que Hugo Beteta renunció como embajador de Guatemala en Estados Unidos. Julio Saavedra, actual procurador general de la Nación, será su sucesor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“No desconfiamos del arbitraje”: Amarini Villatoro habla antes de la semifinal de vuelta contra Olimpia",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/no-desconfiamos-del-arbitraje-amarini-villatoro-habla-antes-de-la-semifinal-de-vuelta-contra-olimpia/",
+      "fecha": "Wed, 28 Oct 2026 16:20:13 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El estratega guatemalteco confía en que el Cartaginés mantenga la concentración y defienda la ventaja obtenida en la ida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ley del MetroRiel en Guatemala: ¿qué permite el régimen excepcional de contratación aprobado por el Congreso?",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/ley-del-metroriel-en-guatemala-que-permite-el-regimen-excepcional-de-contratacion-aprobado-por-el-congreso/",
+      "fecha": "Wed, 28 Oct 2026 16:05:38 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Diputados cuestionaron la aprobación de urgencia nacional de la Ley del MetroRiel por las excepciones a los controles de contratación pública y la falta de debate."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Sofía Vergara y Dan Reynolds son pareja? El encuentro que desata rumores de romance",
+      "link": "https://www.prensalibre.com/vida/escenario/sofia-vergara-y-dan-reynolds-son-pareja-el-encuentro-que-desata-rumores-de-romance/",
+      "fecha": "Wed, 28 Oct 2026 16:00:48 +0000",
+      "categoria": "Escenario",
+      "resumen": "Tras su ruptura con Minka Kelly, el vocalista de Imagine Dragons, Dan Reynolds, fue vinculado sentimentalmente con la actriz Sofía Vergara. Un encuentro entre ambos despertó rumores de romance."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Muere guatemalteco de 43 años bajo custodia del ICE en California: ya son 30 los fallecidos este año",
+      "link": "https://www.prensalibre.com/internacional/muere-guatemalteco-de-43-anos-bajo-custodia-del-ice-en-california-ya-son-30-los-fallecidos-este-ano/",
+      "fecha": "Wed, 28 Oct 2026 15:46:43 +0000",
+      "categoria": "Internacional",
+      "resumen": "El guatemalteco Roberto Jiménez Gutiérrez, de 43 años, falleció mientras se encontraba bajo la custodia del ICE en el Centro de Detención de Otay Mesa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Las estrellas se alinean&#8221;: Los Ángeles 2028 presenta el lema de sus Juegos Olímpicos",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/las-estrellas-se-alinean-los-angeles-2028-presenta-el-lema-de-sus-juegos-olimpicos/",
+      "fecha": "Wed, 28 Oct 2026 15:32:53 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "Los Juegos Olímpicos y Paralímpicos de Los Ángeles 2028 revelaron este miércoles su lema oficial, “Las estrellas se alinean”."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP revela cómo un notario habría utilizado a personas fallecidas para despojar de propiedades a sus víctimas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mp-revela-como-un-notario-habria-utilizado-a-personas-fallecidas-para-despojar-de-propiedades-a-sus-victimas-breaking/",
+      "fecha": "Wed, 28 Oct 2026 15:32:14 +0000",
+      "categoria": "Justicia",
+      "resumen": "Notario queda ligado a proceso penal y en prisión preventiva por el supuesto despojo de bienes inmuebles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Imágenes muestran a Flávio Bolsonaro aterrizando en Miami luego de su derrota en las elecciones de Brasil",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/imagenes-muestran-a-flavio-bolsonaro-aterrizando-en-miami-luego-de-su-derrota-en-las-elecciones-de-brasil/",
+      "fecha": "Wed, 28 Oct 2026 15:19:11 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El político de 45 años llegó a la ciudad de Florida en una aeronave privada, tres días después de su derrota en las elecciones presidenciales de Brasil y de asegurar que le fue requerido su pasaporte."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO: La sexta etapa de la Vuelta a Guatemala pone a prueba al líder; siga aquí el minuto a minuto",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-la-sexta-etapa-de-la-vuelta-a-guatemala-pone-a-prueba-al-lider-siga-aqui-el-minuto-a-minuto/",
+      "fecha": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "Sexta etapa de la Vuelta a Guatemala 2026: recorrido de 147 kilómetros y minuto a minuto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Premio Artista del Año 2026 entrega sus galardones y rinde tributo a la UP",
+      "link": "https://www.prensalibre.com/vida/escenario/premio-artista-del-ano-2026-entrega-sus-galardones-y-rinde-tributo-a-la-up/",
+      "fecha": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "En el marco de la conmemoración del Día del Artista Nacional, se celebró la 46 edición de la gala en la que se reconoce el talento tanto de artistas consagrados como de las jóvenes promesas en diversas ramas del arte."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos accidentes de autopatrullas de la PNC en menos de 24 horas: el más reciente ocurrió este miércoles en Colomba",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-accidentes-de-autopatrullas-de-la-pnc-en-menos-de-24-horas-el-mas-reciente-ocurrio-este-miercoles-en-colomba-breaking/",
+      "fecha": "Wed, 28 Oct 2026 14:39:04 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Agentes de la Policía Nacional Civil (PNC) sufren un accidente de tránsito este 28 de octubre en el caserío La Joya, Colomba, Quetzaltenango."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "La Licenciatura de UVG que combina marketing, análisis de datos y creatividad en industrias como la moda, el deporte y la tecnología",
+      "link": "https://www.guatemala.com/noticias/sociedad/licenciatura-en-international-marketing-and-business-analytics-uvg.html",
+      "fecha": "Wed, 28 Oct 2026 14:20:28 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Descubre la Licenciatura en International Marketing and Business Analytics, la única carrera que combina marketing, tecnología y análisis de datos.\nThe post La Licenciatura de UVG que combina marketing, análisis de datos y creatividad en industrias como la moda, el deporte y la tecnología appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Al menos 64 muertos tras choque de trenes en España: Lo que se sabe del accidente ferroviario",
+      "link": "https://www.prensalibre.com/internacional/al-menos-64-muertos-tras-choque-de-trenes-en-espana-lo-que-se-sabe-del-accidente-ferroviario/",
+      "fecha": "Wed, 28 Oct 2026 14:01:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "Este trágico accidente, que causó la muerte de al menos 64 personas y dejó decenas de heridos, es el segundo desastre ocurrido este año en la red ferroviaria de alta velocidad española."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Choque de trenes en España: Guatemala confirma que no hay guatemaltecos entre las víctimas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/choque-de-trenes-en-espana-guatemala-confirma-que-no-hay-guatemaltecos-entre-las-victimas-breaking/",
+      "fecha": "Wed, 28 Oct 2026 13:47:03 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Al menos 64 personas murieron en un accidente ferroviario ocurrido este miércoles en España. Guatemala descarta, por el momento, que haya guatemaltecos entre los afectados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Se reanudarán las transmisiones de LaLiga en China tras las disculpas del Real Madrid?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/se-reanudaran-las-transmisiones-de-laliga-en-china-tras-las-disculpas-del-real-madrid/",
+      "fecha": "Wed, 28 Oct 2026 13:26:50 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Las autoridades de la televisión estatal china confirmaron haber recibido las disculpas del Real Madrid por las declaraciones de Kylian Mbappé."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bernardo Arévalo veta reformas a la prisión preventiva en Guatemala y devuelve el decreto al Congreso",
+      "link": "https://www.prensalibre.com/guatemala/justicia/bernardo-arevalo-veta-reformas-a-la-prision-preventiva-en-guatemala-y-devuelve-el-decreto-al-congreso-breaking/",
+      "fecha": "Wed, 28 Oct 2026 13:11:07 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Ejecutivo explica en el Diario Oficial por qué vetó las reformas a la prisión preventiva en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Municipal vs. Comunicaciones: el sublíder y el penúltimo se enfrentan en un clásico de urgencias",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/municipal-vs-comunicaciones-el-sublider-y-el-penultimo-se-enfrentan-en-un-clasico-de-urgencias-breaking/",
+      "fecha": "Wed, 28 Oct 2026 13:02:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los rojos acumulan seis jornadas sin ganar y los cremas buscan su segundo triunfo consecutivo para acercarse a los puestos de clasificación del Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ciberseguridad en Guatemala: 6 de cada 10 pymes frenan sus negocios por temor al fraude digital",
+      "link": "https://www.prensalibre.com/economia/ciberseguridad-en-guatemala-6-de-cada-10-pymes-frenan-sus-negocios-por-temor-al-fraude-digital/",
+      "fecha": "Wed, 28 Oct 2026 12:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Un estudio de Mastercard revela que seis de cada 10 pymes guatemaltecas han frenado su digitalización por temor al fraude y los ciberataques."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mueren decenas de personas al chocar dos trenes de alta velocidad en España",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/mueren-decenas-de-personas-al-chocar-dos-trenes-de-alta-velocidad-en-espana-2/",
+      "fecha": "Wed, 28 Oct 2026 12:10:39 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El presidente del gobierno español, Pedro Sánchez, se declaró \"conmocionado\" por el grave accidente ferroviario y dijo estar en contacto permanente con el ministro de Transportes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mueren decenas de personas al chocar dos trenes de alta velocidad en España",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/mueren-decenas-de-personas-al-chocar-dos-trenes-de-alta-velocidad-en-espana/",
+      "fecha": "Wed, 28 Oct 2026 12:10:39 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El presidente del gobierno español, Pedro Sánchez, se declaró \"conmocionado\" por el grave accidente ferroviario y dijo estar en contacto permanente con el ministro de Transportes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo se prepara el caldillo para el fiambre en Guatemala: receta y consejos de una chef",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/como-se-prepara-el-caldillo-para-el-fiambre-en-guatemala-receta-y-consejos-de-una-chef/",
+      "fecha": "Wed, 28 Oct 2026 12:00:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Ingredientes, preparación y consejos de una chef para elaborar el caldillo del fiambre y darle más sabor al platillo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Al menos 30 muertos y decenas de heridos en un choque de trenes de alta velocidad en España",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/al-menos-30-muertos-y-decenas-de-heridos-en-un-choque-de-trenes-de-alta-velocidad-en-espana/",
+      "fecha": "Wed, 28 Oct 2026 11:33:57 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El accidente ocurrió en la localidad de Urda, en Toledo. El gobierno español teme que haya más fallecidos y sospecha de un error humano."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Día de San Judas Tadeo en Guatemala: estas son las calles cerradas en zona 1 y los cambios en el Transmetro este 28 de octubre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/dia-de-san-judas-tadeo-en-guatemala-estas-son-las-calles-cerradas-en-zona-1-y-los-cambios-en-el-transmetro-este-28-de-octubre-breaking/",
+      "fecha": "Wed, 28 Oct 2026 11:28:22 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Fieles llegan al templo de La Merced para conmemorar a San Judas Tadeo, mientras los cierres viales y cambios en el transporte afectan la movilidad en la zona 1."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Ted Bundy suma otra víctima: resuelven crimen de hace 52 años y crece lista de muertes atribuidas al asesino en serie",
@@ -20,19 +228,19 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Vuelta a Guatemala 2026: recorrido de la sexta etapa, en la que el colombiano Cristian Rico defiende el liderato",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-recorrido-de-la-sexta-etapa-en-la-que-el-colombiano-cristian-rico-defiende-el-liderato/",
+      "fecha": "Wed, 28 Oct 2026 10:00:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La sexta etapa de la 65 Vuelta a Guatemala 2026 presenta un recorrido montañoso que promete emociones de principio a fin."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "David Custodio Boteo es destituido de la PNC: así evolucionaron los homicidios y las extorsiones durante su gestión",
       "link": "https://www.prensalibre.com/guatemala/david-custodio-boteo-es-destituido-de-la-pnc-asi-evolucionaron-los-homicidios-y-las-extorsiones-durante-su-gestion/",
       "fecha": "Wed, 28 Oct 2026 10:00:00 +0000",
       "categoria": "Guatemala",
       "resumen": "El relevo de David Custodio Boteo en la PNC ocurre en un escenario de cambios en los indicadores de seguridad y cuestionamientos a la institución."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala 2026: recorrido de la sexta etapa, en la que el colombiano Cristian Rico defiende el liderato",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-recorrido-de-la-sexta-etapa-en-la-que-el-colombiano-cristian-rico-defiende-el-liderato/",
-      "fecha": "Wed, 28 Oct 2026 09:00:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La sexta etapa de la 65 Vuelta a Guatemala 2026 presenta un recorrido montañoso que promete emociones de principio a fin."
     },
     {
       "fuente": "Prensa Libre",
@@ -149,9 +357,9 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Luna llena del Castor del 2026: por qué se llama así y cuándo iluminará el cielo en noviembre",
-      "link": "https://www.prensalibre.com/vida/escenario/luna-llena-del-castor-del-2026-por-que-se-llama-asi-y-cuando-iluminara-el-cielo-en-noviembre/",
+      "link": "https://www.prensalibre.com/vida/ciencia/luna-llena-del-castor-del-2026-por-que-se-llama-asi-y-cuando-iluminara-el-cielo-en-noviembre/",
       "fecha": "Wed, 28 Oct 2026 03:00:00 +0000",
-      "categoria": "Escenario",
+      "categoria": "Ciencia",
       "resumen": "Noviembre traerá una de las lunas llenas más esperadas del año: la llamada Luna del Castor. ¿Cuándo podrá observarse y cuál es el origen de este nombre?"
     },
     {
@@ -627,212 +835,12 @@
       "resumen": "La verdad para Huité puede hacer de este caso un precedente ejemplar en beneficio de todo el país."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Alemania: ¿A quién protege el muro político?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/alemania-a-quien-protege-el-muro-politico/",
-      "fecha": "Tue, 27 Oct 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "También es extremismo levantar un muro político contra el partido que encabeza las preferencias electorales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Netanyahu podría perder las elecciones en Israel y seguir en el poder con el respaldo de Trump",
-      "link": "https://www.prensalibre.com/internacional/netanyahu-podria-perder-las-elecciones-en-israel-y-seguir-en-el-poder-con-el-respaldo-de-trump/",
-      "fecha": "Tue, 27 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Aunque las encuestas sitúan a Gadi Eisenkot por delante de Benjamin Netanyahu, ninguno de los bloques alcanzaría la mayoría parlamentaria. Un gobierno de unidad podría permitir que el actual primer ministro conserve el poder."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Migrantes retornados: uno de cada dos tiene entre 15 y 30 años y vuelven con habilidades en distintos oficios",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/migrantes-retornados-uno-de-cada-dos-tiene-entre-15-y-30-anos-y-vuelven-con-habilidades-en-distintos-oficios/",
-      "fecha": "Tue, 27 Oct 2026 06:05:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Del 1 de enero al 20 de octubre han sido deportados 27 mil 390 guatemaltecos de entre 15 y 30 años, población que forma parte del bono demográfico del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El agua no reconoce fronteras",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-agua-no-reconoce-fronteras/",
-      "fecha": "Tue, 27 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Una oportunidad que Guatemala no puede desperdiciar"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El cálculo económico y el cálculo político",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-calculo-economico-y-el-calculo-politico/",
-      "fecha": "Tue, 27 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La incertidumbre tiene precio: encarece el financiamiento, retrasa proyectos y favorece decisiones de corto plazo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Brasil: remontada histórica",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/brasil-remontada-historica/",
-      "fecha": "Tue, 27 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La esperanza venció al miedo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dañino prejuicio contra el mercado",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/danino-prejuicio-contra-el-mercado/",
-      "fecha": "Tue, 27 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "En defensa del individualismo metodológico"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy martes 27 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-27-de-octubre-de-2026/",
-      "fecha": "Tue, 27 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "BAC: &#8220;La banca digital nos permite llegar a más personas&#8221;",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/bac-la-banca-digital-nos-permite-llegar-a-mas-personas/",
-      "fecha": "Tue, 27 Oct 2026 06:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "El CEO de BAC Guatemala analiza la evolución del sector bancario y su apuesta por servicios digitales que faciliten las operaciones, el ahorro y la inversión desde dispositivos móviles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Instagram permitirá videos horizontales: qué es Features y cómo funcionará",
-      "link": "https://www.prensalibre.com/vida/tecnologia/instagram-permitira-videos-horizontales-que-es-features-y-como-funcionara/",
-      "fecha": "Tue, 27 Oct 2026 03:25:18 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Instagram prueba una nueva función llamada Features, que permitirá a los creadores de contenido publicar videos horizontales de hasta 90 minutos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hombres armados irrumpen en venta de comida en Villa Canales y disparan contra comensales: dos muertos y tres heridos",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/hombres-armados-irrumpen-en-venta-de-comida-en-villa-canales-y-disparan-contra-comensales-dos-muertos-y-tres-heridos-breaking/",
-      "fecha": "Tue, 27 Oct 2026 03:00:49 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Dos personas murieron en un negocio de comida de la zona 1 de Villa Canales y otras tres fueron trasladadas a hospitales con heridas de bala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Agresión contra una mujer en Central Park: qué se sabe del sospechoso y cómo avanza la investigación",
-      "link": "https://www.prensalibre.com/internacional/agresion-contra-una-mujer-en-central-park-que-se-sabe-del-sospechoso-y-como-avanza-la-investigacion/",
-      "fecha": "Tue, 27 Oct 2026 02:38:23 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una mujer de 39 años fue agredida sexualmente y amenazada a mano armada en Central Park, desatando alerta en Nueva York."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El papa León XIV mantiene su gira por América Latina tras una operación por cáncer de pulmón",
-      "link": "https://www.prensalibre.com/internacional/el-papa-leon-xiv-mantiene-su-gira-por-america-latina-tras-una-operacion-por-cancer-de-pulmon/",
-      "fecha": "Tue, 27 Oct 2026 02:14:08 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Vaticano confirmó que el papa León XIV viajará a Uruguay, Argentina y Perú del 6 al 17 de noviembre, tras una operación por cáncer de pulmón."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Walter Koenig, actor que interpretó a Chekov en “Star Trek”, muere a los 90 años",
-      "link": "https://www.prensalibre.com/vida/escenario/walter-koenig-actor-que-interpreto-a-chekov-en-star-trek-muere-a-los-90-anos/",
-      "fecha": "Tue, 27 Oct 2026 02:07:58 +0000",
-      "categoria": "Escenario",
-      "resumen": "El actor estadounidense falleció tras una trayectoria en el cine y la televisión, en la que destacó por interpretar a Pavel Chekov en la serie y las películas de “Star Trek”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Ya no pongo la misma cantidad”: cómo afecta el alza del gas a comedores, tortillerías y panaderías en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/ya-no-pongo-la-misma-cantidad-como-afecta-el-alza-del-gas-a-comedores-tortillerias-y-panaderias-en-guatemala/",
-      "fecha": "Tue, 27 Oct 2026 02:07:13 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El cuarto aumento del gas propano en Guatemala eleva los costos de pequeños negocios y golpea el bolsillo de los guatemaltecos. Comerciantes buscan mantener sus precios, aunque algunos ya reducen las porciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos ciclistas muertos en California: cómo ocurrió el atropello durante un recorrido de Halloween",
-      "link": "https://www.prensalibre.com/internacional/dos-ciclistas-muertos-en-california-como-ocurrio-el-atropello-durante-un-recorrido-de-halloween/",
-      "fecha": "Tue, 27 Oct 2026 01:14:33 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un vehículo atropelló a un grupo de ciclistas durante un recorrido de Halloween en California. El accidente dejó dos muertos y varios heridos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Revelan primeros indicios sobre la muerte de El Komanche, streamer salvadoreño que publicó: &#8220;Los días simplemente no mejoran&#8221;",
-      "link": "https://www.prensalibre.com/internacional/revelan-primeros-indicios-sobre-la-muerte-de-el-komanche-streamer-salvadoreno-que-publico-los-dias-simplemente-no-mejoran/",
-      "fecha": "Tue, 27 Oct 2026 00:50:35 +0000",
-      "categoria": "Internacional",
-      "resumen": "El streamer salvadoreño fue hallado sin vida en Monterrey, México, a los 30 años. Mientras las autoridades investigan su muerte, cobran relevancia las declaraciones que hizo sobre sus problemas personales y de salud mental."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ocho consejos para consultar dudas legales con inteligencia artificial y reducir el riesgo de errores",
-      "link": "https://www.prensalibre.com/guatemala/ocho-consejos-para-consultar-dudas-legales-con-inteligencia-artificial-y-reducir-el-riesgo-de-errores/",
-      "fecha": "Tue, 27 Oct 2026 00:44:46 +0000",
-      "categoria": "Guatemala",
-      "resumen": "¿Cómo hacer una consulta legal a la inteligencia artificial? Un experto comparte un formato que puede copiar, adaptar a su caso y utilizar para obtener respuestas más precisas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Entrenador y exfutbolista muere baleado en centro comercial de Chiquimula; esto revela el informe de la PNC",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/entrenador-y-exfutbolista-muere-baleado-en-centro-comercial-de-chiquimula-esto-revela-el-informe-de-la-pnc-breaking/",
-      "fecha": "Tue, 27 Oct 2026 00:32:46 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Donald Eriberto Valdez, entrenador y exfutbolista, murió baleado en un centro comercial de Chiquimula. Medios locales señalan que trabajó para el Mingob."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Lionel Messi no asistió al Balón de Oro 2026? La razón de su ausencia",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/por-que-lionel-messi-no-asistio-al-balon-de-oro-2026-la-razon-de-su-ausencia/",
-      "fecha": "Tue, 27 Oct 2026 00:05:19 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Lionel Messi fue uno de los grandes ausentes en la ceremonia del Balón de Oro 2026, celebrada en Londres. Su decisión llamó la atención del mundo del fútbol."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es el esposo de Xiomara Ovalle Madrid, alcaldesa de Zacapa, que fue condenado por narcotráfico en EE. UU.?",
-      "link": "https://www.prensalibre.com/guatemala/justicia/quien-es-el-esposo-de-xiomara-ovalle-madrid-alcaldesa-de-zacapa-que-fue-condenado-por-narcotrafico-en-ee-uu/",
-      "fecha": "Tue, 27 Oct 2026 00:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Condenado por narcotráfico en EE. UU., Sergio Cifuentes regresó a Guatemala en el 2024 y ahora figura junto a su esposa, la alcaldesa, en proyectos de Zacapa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan a hombre que almacenaba un arsenal de rifles, escopetas, pistolas y revólveres en su casa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-hombre-que-almacenaba-un-arsenal-de-rifles-escopetas-pistolas-y-revolveres-en-su-casa-breaking/",
-      "fecha": "Mon, 26 Oct 2026 23:43:23 +0000",
-      "categoria": "Justicia",
-      "resumen": "Investigadores de la Dipanda capturaron a un hombre que almacenaba armas de fuego sin documentación legal en una vivienda de Patulul, Suchitepéquez."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Charlyn Corral hace historia: el premio que conquistó la mexicana en la gala del Balón de Oro 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/charlyn-corral-hace-historia-el-premio-que-conquisto-la-mexicana-en-la-gala-del-balon-de-oro-2026/",
-      "fecha": "Mon, 26 Oct 2026 23:26:30 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "A sus 35 años, la atacante de Pachuca Femenil recibe uno de los máximos reconocimientos individuales del futbol mundial luego de una campaña repleta de goles y récords."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Insivumeh pronostica 16 frentes fríos en Guatemala durante la temporada 2026-27",
       "link": "https://www.guatemala.com/noticias/comunidad/temporada-frentes-frios-guatemala-2026-2027.html",
       "fecha": "Mon, 26 Oct 2026 23:24:08 +0000",
       "categoria": "Comunidad",
       "resumen": "La temporada de bajas temperaturas comenzará en noviembre, con el ingreso del primer frente frío a Guatmala, según pronostica el Insivumeh.\nThe post Insivumeh pronostica 16 frentes fríos en Guatemala durante la temporada 2026-27 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién ganó el balón de oro 2026",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/harry-kane-quien-gano-el-balon-de-oro-2026/",
-      "fecha": "Mon, 26 Oct 2026 23:23:21 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Harry Kane, delantero del Bayern de Múnich y de la selección inglesa, se coronó en Londres con el Balón de Oro, el sexto en la historia de Inglaterra y el primero desde Michael Owen en 2001."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "San Judas Tadeo 2026: cuándo y dónde se celebra en Guatemala, horarios de misas y cierres viales",
-      "link": "https://www.prensalibre.com/vida/escenario/san-judas-tadeo-2026-cuando-y-donde-se-celebra-en-guatemala-horarios-de-misas-y-cierres-viales/",
-      "fecha": "Mon, 26 Oct 2026 23:18:19 +0000",
-      "categoria": "Escenario",
-      "resumen": "El Día de San Judas Tadeo moviliza a cientos de devotos hacia la zona 1 capitalina, donde acuden para hacer peticiones, agradecer favores y participar en las eucaristías."
     },
     {
       "fuente": "Guatemala.com",
@@ -865,14 +873,6 @@
       "fecha": "Mon, 26 Oct 2026 14:43:13 +0000",
       "categoria": "Sociedad",
       "resumen": "Disfruta diferentes experiencias en Cantón Cultura, una plaza en Zona 4 de Ciudad Guatemala con opciones gastronómicas, un estudio de pilates y más. \nThe post Cantón Cultura, un lugar que une gastronomía, cultura y entretenimiento en Zona 4 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Fecha del retorno de Miguel Ángel Asturias a Guatemala y actividades en su honor",
-      "link": "https://www.guatemala.com/noticias/cultura/confirman-fecha-retorno-miguel-angel-asturias-guatemala.html",
-      "fecha": "Fri, 23 Oct 2026 23:24:29 +0000",
-      "categoria": "Cultura",
-      "resumen": "Los restos de Miguel Ángel Asturias retornarán a Guatemala en noviembre 2026. Conoce la agenda oficial anunciada para recibir al autor en el país.\nThe post Fecha del retorno de Miguel Ángel Asturias a Guatemala y actividades en su honor appeared first on Guatemala.com."
     }
   ]
 }
