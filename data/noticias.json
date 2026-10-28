@@ -1,7 +1,127 @@
 {
-  "actualizado": "2026-10-28T05:00:01.513Z",
+  "actualizado": "2026-10-28T11:15:25.015Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ted Bundy suma otra víctima: resuelven crimen de hace 52 años y crece lista de muertes atribuidas al asesino en serie",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/ted-bundy-suma-otra-victima-resuelven-crimen-de-hace-52-anos-y-crece-lista-de-muertes-atribuidas-al-asesino-en-serie/",
+      "fecha": "Wed, 28 Oct 2026 10:00:00 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Una investigación genética permitió esclarecer el asesinato de Melissa Ann Smith, ocurrido en Utah en 1974. Las autoridades explicaron cómo una prueba conservada por décadas permitió identificar al responsable."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fenómenos astronómicos de noviembre de 2026: conjunción de Marte y Júpiter, lluvia de meteoros y Luna llena del Castor",
+      "link": "https://www.prensalibre.com/vida/ciencia/fenomenos-astronomicos-de-noviembre-de-2026-conjuncion-de-marte-y-jupiter-lluvia-de-meteoros-y-luna-llena-del-castor/",
+      "fecha": "Wed, 28 Oct 2026 10:00:00 +0000",
+      "categoria": "Ciencia",
+      "resumen": "Durante noviembre, el cielo ofrecerá diversos fenómenos astronómicos para los amantes de la observación, entre ellos una lluvia de meteoros. Conozca el calendario del mes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "David Custodio Boteo es destituido de la PNC: así evolucionaron los homicidios y las extorsiones durante su gestión",
+      "link": "https://www.prensalibre.com/guatemala/david-custodio-boteo-es-destituido-de-la-pnc-asi-evolucionaron-los-homicidios-y-las-extorsiones-durante-su-gestion/",
+      "fecha": "Wed, 28 Oct 2026 10:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El relevo de David Custodio Boteo en la PNC ocurre en un escenario de cambios en los indicadores de seguridad y cuestionamientos a la institución."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelta a Guatemala 2026: recorrido de la sexta etapa, en la que el colombiano Cristian Rico defiende el liderato",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-recorrido-de-la-sexta-etapa-en-la-que-el-colombiano-cristian-rico-defiende-el-liderato/",
+      "fecha": "Wed, 28 Oct 2026 09:00:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La sexta etapa de la 65 Vuelta a Guatemala 2026 presenta un recorrido montañoso que promete emociones de principio a fin."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Banguat: confianza en la economía baja a 54.38 puntos en octubre, ¿qué factores explican la caída?",
+      "link": "https://www.prensalibre.com/economia/banguat-confianza-en-la-economia-baja-a-54-38-puntos-en-octubre-que-factores-explican-la-caida/",
+      "fecha": "Wed, 28 Oct 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El índice de confianza en la economía registró una leve disminución en octubre. Entre los factores que pudieron haber influido figuran la percepción de inseguridad, el período poselectoral y las fluctuaciones en los precios de los productos energéticos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Acusados&#8230; y sin custodio",
+      "link": "https://www.prensalibre.com/opinion/caricatura/acusados-y-sin-custodio/",
+      "fecha": "Wed, 28 Oct 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Destituyen al alto mando de la Policía ¿Y ahora qué?",
+      "link": "https://www.prensalibre.com/opinion/editorial/destituyen-al-alto-mando-de-la-policia-y-ahora-que/",
+      "fecha": "Wed, 28 Oct 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "La razón de ser de su cargo y misión era una sola: garantizar la seguridad pública de los ciudadanos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Victoria de Lula obliga a cambios ideológicos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/victoria-de-lula-obliga-a-cambios-ideologicos/",
+      "fecha": "Wed, 28 Oct 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La elección en Brasil demuestra la necesidad de buscar posiciones ajenas al fundamentalismo económico-político."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Brasil investiga posible financiamiento extranjero de la campaña de Flávio Bolsonaro y vínculos con grupo ligado a JD Vance",
+      "link": "https://www.prensalibre.com/internacional/brasil-investiga-posible-financiamiento-extranjero-de-la-campana-de-flavio-bolsonaro-y-vinculos-con-grupo-ligado-a-jd-vance/",
+      "fecha": "Wed, 28 Oct 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "La Policía Federal investigará si la campaña de Flávio Bolsonaro recibió apoyo extranjero ilegal y posibles vínculos con Rockbridge Network, cofundada por J.D. Vance."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué estoy aprendiendo de Sudáfrica?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/que-estoy-aprendiendo-de-sudafrica/",
+      "fecha": "Wed, 28 Oct 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Nos toca desaprender y reaprender unos de otros con una nueva narrativa mucho más potente, digna e intencional, conectada a futuros deseables."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gobierno en la picota",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/gobierno-en-la-picota/",
+      "fecha": "Wed, 28 Oct 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Es una pena ser testigos del continuo deterioro del actual gobierno."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Daños y pérdidas al medio ambiente en 2010",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/danos-y-perdidas-al-medio-ambiente-en-2010/",
+      "fecha": "Wed, 28 Oct 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Daños causados por  la erupción del volcán de Pacaya, las  tormentas Ágatha, Alex, Frank y depresión tropical 11-E"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La niñez alza la voz frente al desafío climático",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-ninez-alza-la-voz-frente-al-desafio-climatico/",
+      "fecha": "Wed, 28 Oct 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Niñas y niños proponen soluciones reales ante los efectos del cambio climático."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Joviel Acevedo desiste de negociar el pacto colectivo del magisterio con las actuales autoridades del Mineduc",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/steg-desiste-de-negociar-el-pacto-colectivo-del-magisterio-con-las-actuales-autoridades-del-mineduc/",
+      "fecha": "Wed, 28 Oct 2026 06:01:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Joviel Acevedo, dirigente del STEG, señala que esperarán al “nuevo gobierno” para retomar la negociación del pacto colectivo del magisterio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy miércoles 28 de octubre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-28-de-octubre-de-2026/",
+      "fecha": "Wed, 28 Oct 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Avanza proceso de extinción de dominio de 11 bienes vinculados con Roxana Baldetti y el MP busca que pasen al Estado",
@@ -713,126 +833,6 @@
       "fecha": "Mon, 26 Oct 2026 23:18:19 +0000",
       "categoria": "Escenario",
       "resumen": "El Día de San Judas Tadeo moviliza a cientos de devotos hacia la zona 1 capitalina, donde acuden para hacer peticiones, agradecer favores y participar en las eucaristías."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Harry Kane hace historia y Alexia Putellas recupera el trono en la gala del Balón de Oro 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/harry-kane-hace-historia-y-alexia-putellas-recupera-el-trono-en-la-gala-del-balon-de-oro-2026/",
-      "fecha": "Mon, 26 Oct 2026 22:56:47 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La edición 2026 del Balón de Oro dejó una noche histórica en Londres, donde los premios más prestigiosos del futbol distinguieron a los protagonistas de una temporada brillante."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Anthony Rivers III?: el adolescente de 15 años arrestado por un tiroteo que dejó 12 heridos en Florida",
-      "link": "https://www.prensalibre.com/internacional/quien-es-anthony-rivers-iii-el-adolescente-de-15-anos-arrestado-por-presunto-tiroteo-que-dejo-12-personas-heridas-en-florida/",
-      "fecha": "Mon, 26 Oct 2026 22:51:40 +0000",
-      "categoria": "Internacional",
-      "resumen": "Arrestan a Anthony Rivers III, adolescente de 15 años por presunto tiroteo cerca de la Universidad Florida A&#38;M que dejó 12 heridos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso elegirá a su Junta Directiva y autoridades de Conamigua en la sesión ordinaria de este martes",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-elegira-a-su-junta-directiva-y-autoridades-de-conamigua-en-la-sesion-ordinaria-de-este-martes/",
-      "fecha": "Mon, 26 Oct 2026 22:50:16 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Congreso tiene previsto elegir este martes a los integrantes de la Junta Directiva para el período 2027-2028, y a las autoridades de Conamigua para el período 2026-2029, en una sesión que también incluye la discusión de varias iniciativas de ley."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Salubristas huyen de hombres armados durante asalto en Villa Nueva mientras entregaban vitaminas a la población",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/salubristas-huyen-de-hombres-armados-durante-asalto-en-villa-nueva-mientras-entregaban-vitaminas-a-la-poblacion-breaking/",
-      "fecha": "Mon, 26 Oct 2026 22:33:21 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Hombres en motocicleta asaltaron a trabajadores del Ministerio de Salud mientras entregaban vitaminas en la colonia Betancourt, zona 4 de Villa Nueva."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Exluchadora de WWE Amber Nova es arrestada: Revelan qué pasó en las pruebas de alcoholemia",
-      "link": "https://www.prensalibre.com/internacional/exluchadora-de-wwe-amber-nova-es-arrestada-revelan-que-paso-en-las-pruebas-de-alcoholemia/",
-      "fecha": "Mon, 26 Oct 2026 22:23:50 +0000",
-      "categoria": "Internacional",
-      "resumen": "Amber Nova, conocida por sus apariciones en WWE, fue arrestada en Florida y enfrenta acusaciones por conducir bajo los efectos del alcohol."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Exposición “La vida de fray Augusto” llegará a Antigua Guatemala antes de su beatificación",
-      "link": "https://www.prensalibre.com/vida/escenario/exposicion-la-vida-de-fray-augusto-llegara-a-antigua-guatemala-antes-de-su-beatificacion/",
-      "fecha": "Mon, 26 Oct 2026 21:31:09 +0000",
-      "categoria": "Escenario",
-      "resumen": "La vida del próximo beato, fray Augusto Ramírez Monasterio, podrá conocerse a través de una exposición de algunas de sus pertenencias que resguarda la postulación de su causa. Esto se sabe de los objetos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Trump ofrece una recompensa de US$1 millón por denunciar fraude electoral?",
-      "link": "https://www.prensalibre.com/internacional/por-que-trump-ofrece-una-recompensa-de-us1-millon-por-denunciar-fraude-electoral/",
-      "fecha": "Mon, 26 Oct 2026 21:29:08 +0000",
-      "categoria": "Internacional",
-      "resumen": "Donald Trump ofrece US$1 millón a quienes denuncien fraude en elecciones pasadas o en los comicios de noviembre, tras la detención y condena de los responsables."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vigilia por la Paz 2026: fecha, horario, invitados y detalles de la tradicional noche de oración en Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/vigilia-por-la-paz-2026-fecha-horario-invitados-y-detalles-de-la-tradicional-noche-de-oracion-en-guatemala/",
-      "fecha": "Mon, 26 Oct 2026 21:22:27 +0000",
-      "categoria": "Escenario",
-      "resumen": "Son By Four figura entre los invitados internacionales de la 43.ª edición de la Vigilia Centroamericana por la Paz, que se celebrará este fin de semana en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Pamela Rivas: vivienda vinculada a Xiomara Ovalle, alcaldesa de Zacapa, figuraba entre los inmuebles que juez ordenó allanar",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-pamela-rivas-vivienda-vinculada-a-xiomara-ovalle-alcaldesa-de-zacapa-figuraba-entre-los-inmuebles-que-juez-ordeno-allanar/",
-      "fecha": "Mon, 26 Oct 2026 20:52:02 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La vivienda vinculada a Xiomara Ovalle, alcaldesa de Zacapa, figuraba entre los inmuebles incluidos en la investigación por la desaparición de Pamela Rivas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estudio revela cómo el jugo de arándano puro sin azúcar podría ayudar a reducir las bacterias relacionadas con las caries",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/estudio-revela-como-el-jugo-de-arandano-puro-sin-azucar-podria-ayudar-a-reducir-las-bacterias-relacionadas-con-las-caries/",
-      "fecha": "Mon, 26 Oct 2026 20:45:24 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "El consumo de jugo de arándano sin azúcar podría ayudar a reducir las bacterias relacionadas con las caries, según un estudio realizado con adultos y niños. Conozca los posibles beneficios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aplazan primera declaración de siete policías señalados por irregularidades en la captura de los hermanos Choc",
-      "link": "https://www.prensalibre.com/guatemala/justicia/aplazan-primera-declaracion-de-siete-policias-senalados-por-irregularidades-en-la-captura-de-los-hermanos-choc-breaking/",
-      "fecha": "Mon, 26 Oct 2026 20:15:51 +0000",
-      "categoria": "Justicia",
-      "resumen": "Los siete agentes de la PNC capturados por supuestas irregularidades en la detención de los hermanos Choc siguen sin rendir su primera declaración."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién era el famoso streamer salvadoreño Komanche y qué se sabe de su muerte en México a los 30 años",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/quien-era-el-famoso-streamer-salvadoreno-komanche-y-que-se-sabe-de-su-muerte-en-mexico-a-los-30-anos/",
-      "fecha": "Mon, 26 Oct 2026 19:58:15 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El reconocido y polémico streamer fue hallado sin vida en su casa en Monterrey."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "5 ministerios gastan más de la mitad del presupuesto en  trabajadores temporales",
-      "link": "https://www.prensalibre.com/economia/5-ministerios-gastan-mas-de-la-mitad-del-presupuesto-en-trabajadores-temporales/",
-      "fecha": "Mon, 26 Oct 2026 19:51:28 +0000",
-      "categoria": "Economía",
-      "resumen": "El proyecto del Presupuesto 2027 aumenta en Q470.5 millones los recursos para el reglón 029. Fundesa advierte del riesgo de cubrir funciones permanentes con contratos que no establecen relación laboral."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Halloween en bicicleta: fecha, hora y lugar del BiciTour de disfraces 2026 en la ciudad de Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/halloween-en-bicicleta-fecha-hora-y-lugar-del-bicitour-de-disfraces-2026-en-la-ciudad-de-guatemala/",
-      "fecha": "Mon, 26 Oct 2026 19:40:31 +0000",
-      "categoria": "Escenario",
-      "resumen": "El BiciTour de disfraces 2026 recorrerá la ciudad de Guatemala. Conozca el horario, punto de reunión y cómo participar en este recorrido sobre ruedas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De la derrota a la posible confiscación de su pasaporte: ¿Qué ocurre con Bolsonaro en Brasil?",
-      "link": "https://www.prensalibre.com/internacional/de-la-derrota-a-la-posible-confiscacion-de-su-pasaporte-que-ocurre-con-bolsonaro-en-brasil/",
-      "fecha": "Mon, 26 Oct 2026 19:24:29 +0000",
-      "categoria": "Internacional",
-      "resumen": "Bolsonaro es investigado en procedimientos del Supremo, mientras que la Policía investiga posibles delitos de lavado de dinero, evasión de divisas y corrupción."
     },
     {
       "fuente": "Guatemala.com",
