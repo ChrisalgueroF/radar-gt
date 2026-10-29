@@ -1,7 +1,183 @@
 {
-  "actualizado": "2026-10-28T23:02:46.881Z",
+  "actualizado": "2026-10-29T05:13:24.525Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¡El clásico se pinta rojo! Municipal remonta, golea a Comunicaciones y desata la fiesta en El Trébol",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/el-clasico-se-pinta-rojo-municipal-remonta-golea-a-comunicaciones-y-desata-la-fiesta-en-el-trebol-breaking/",
+      "fecha": "Thu, 29 Oct 2026 04:08:04 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los escarlatas vinieron de atrás para vencer 3-1 a su archirrival, con un doblete del Flaco Martínez y un gol de Aubrey David."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Muere Cuauhtémoc Cárdenas a los 92 años, figura histórica de la izquierda mexicana y fundador del PRD",
+      "link": "https://www.prensalibre.com/internacional/muere-cuauhtemoc-cardenas-a-los-92-anos-figura-historica-de-la-izquierda-mexicana-y-fundador-del-prd-breaking/",
+      "fecha": "Thu, 29 Oct 2026 04:03:37 +0000",
+      "categoria": "Internacional",
+      "resumen": "Cuauhtémoc Cárdenas Solórzano, figura histórica de la izquierda mexicana y fundador del PRD, falleció a los 92 años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una llamada entre Bukele y el primer ministro de Haití: los detalles de la conversación",
+      "link": "https://www.prensalibre.com/internacional/una-llamada-entre-bukele-y-el-primer-ministro-de-haiti-los-detalles-de-la-conversacion-breaking/",
+      "fecha": "Thu, 29 Oct 2026 03:42:01 +0000",
+      "categoria": "Internacional",
+      "resumen": "Nayib Bukele y Alix Didier Fils-Aimé sostuvieron una llamada telefónica 10 días después de una emboscada contra militares salvadoreños en Haití."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nombran a Ana Luisa Folgar como jefa de la IVE y tendrá a su cargo el seguimiento de casos de lavado de dinero",
+      "link": "https://www.prensalibre.com/economia/nombran-a-ana-luisa-folgar-como-jefa-de-la-ive-y-tendra-a-su-cargo-el-seguimiento-de-casos-de-lavado-de-dinero-breaking/",
+      "fecha": "Thu, 29 Oct 2026 03:26:59 +0000",
+      "categoria": "Economía",
+      "resumen": "Ana Luisa Folgar fue nombrada jefa de la Intendencia de Verificación Especial, donde tendrá a su cargo el seguimiento de casos de lavado de dinero y financiamiento del terrorismo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¡Histórico! Los Cerveceros conquistan su primera Serie Mundial",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/historico-los-cerveceros-conquistan-su-primera-serie-mundial-breaking-2/",
+      "fecha": "Thu, 29 Oct 2026 03:15:15 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "Milwaukee venció 4-1 a Tampa Bay en el quinto juego y conquistó el título de las Grandes Ligas, después de una serie en la que los Rays evitaron la barrida con un dramático triunfo en 12 entradas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿De qué murió Barbara Barrie? Esto es lo que se sabe sobre el fallecimiento de la actriz nominada al Óscar",
+      "link": "https://www.prensalibre.com/vida/escenario/de-que-murio-barbara-barrie-esto-es-lo-que-se-sabe-sobre-el-fallecimiento-de-la-actriz-nominada-al-oscar/",
+      "fecha": "Thu, 29 Oct 2026 03:07:10 +0000",
+      "categoria": "Escenario",
+      "resumen": "A sus 95 años, muere la actriz Barbara Barrie. Esto es lo que reveló su familia sobre el caso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cae la victimización en Guatemala, pero crecen la extorsión y la desconfianza para denunciar",
+      "link": "https://www.prensalibre.com/guatemala/cae-la-victimizacion-en-guatemala-pero-crecen-la-extorsion-y-la-desconfianza-para-denunciar/",
+      "fecha": "Thu, 29 Oct 2026 03:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Aunque la victimización directa bajó al 15.9%, el 60.6% de los delitos no se denuncian y 1 de cada 5 víctimas sufre extorsión, reveló el Cien."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jose Rubén Zamora amplía denuncia por amenazas contra su familia desde redes sociales",
+      "link": "https://www.prensalibre.com/guatemala/justicia/jose-ruben-zamora-amplia-denuncia-por-amenazas-contra-su-familia-desde-redes-sociales-breaking/",
+      "fecha": "Thu, 29 Oct 2026 02:14:35 +0000",
+      "categoria": "Justicia",
+      "resumen": "El periodista Jose Rubén Zamora Marroquín amplió su denuncia ante el MP por presuntas amenazas contra su familia, que atribuye a una red de acoso digital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aurora golpea en Santa Lucía y derrota a Malacateco con goles de Héctor Morales y Víctor Urías",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/aurora-golpea-en-santa-lucia-y-derrota-a-malacateco-con-goles-de-hector-morales-y-victor-urias-breaking/",
+      "fecha": "Thu, 29 Oct 2026 02:05:43 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El conjunto aurinegro aprovechó sus oportunidades para llevarse los tres puntos de visita. Morales llegó a 11 anotaciones y se consolida como máximo goleador del Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Apple presenta su primera MacBook Pro con pantalla táctil: estas son sus novedades",
+      "link": "https://www.prensalibre.com/vida/tecnologia/apple-presenta-su-primera-macbook-pro-con-pantalla-tactil-estas-son-sus-novedades/",
+      "fecha": "Thu, 29 Oct 2026 01:30:00 +0000",
+      "categoria": "Tecnología",
+      "resumen": "La primera laptop de Apple con pantalla táctil saldrá al mercado en los próximos días. El equipo será más ligero, incorporará inteligencia artificial y ofrecerá mayor duración de batería."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elías Antonio Saca sale de prisión tras cumplir su condena: ¿qué pasará con sus bienes y las multas millonarias?",
+      "link": "https://www.prensalibre.com/internacional/elias-antonio-saca-sale-de-prision-tras-cumplir-su-condena-que-pasara-con-sus-bienes-y-las-multas-millonarias/",
+      "fecha": "Thu, 29 Oct 2026 01:16:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "El expresidente Antonio Saca recuperó su libertad tras cumplir 10 años de prisión, pero aún enfrenta obligaciones económicas por casos de corrupción."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Municipal vs. Comunicaciones: el clásico 339 enfrenta a rojos y cremas en momentos opuestos",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-municipal-vs-comunicaciones-el-clasico-339-enfrenta-a-rojos-y-cremas-en-momentos-opuestos-breaking/",
+      "fecha": "Thu, 29 Oct 2026 01:15:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Municipal busca romper su racha de seis jornadas sin ganar, mientras Comunicaciones intenta sumar su segundo triunfo consecutivo para acercarse a la zona de clasificación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Reanude con marcha normal&#8221;: qué dicen las grabaciones de las llamadas entre el operador y los maquinistas de los trenes que chocaron en España",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/reanude-con-marcha-normal-que-dicen-las-grabaciones-de-las-llamadas-entre-el-operador-y-los-maquinistas-de-los-trenes-que-chocaron-en-espana/",
+      "fecha": "Thu, 29 Oct 2026 01:06:06 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las autoridades están investigando las causas del choque que dejó al menos 68 muertos en España. Grabaciones de las conversaciones entre maquinistas y el control en Madrid ofrecen algunas pistas de lo ocurrido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mingob enfrenta dificultades para contratar 500 cámaras corporales para la PNC antes de que finalice el 2026",
+      "link": "https://www.prensalibre.com/guatemala/politica/mingob-enfrenta-dificultades-para-contratar-500-camaras-corporales-para-la-pnc-antes-de-que-finalice-el-2026/",
+      "fecha": "Thu, 29 Oct 2026 01:05:43 +0000",
+      "categoria": "Política",
+      "resumen": "El Mingob enfrenta dificultades para contratar 500 cámaras corporales para la PNC por Q20 millones, debido a los plazos de licitación y los requerimientos tecnológicos del proyecto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Noche de Velas del 2026: San Gaspar Vivar celebrará la séptima edición de una noche dedicada a los deseos; fecha y origen del evento",
+      "link": "https://www.prensalibre.com/vida/escenario/noche-de-velas-del-2026-san-gaspar-vivar-celebrara-la-septima-edicion-de-una-noche-dedicada-a-los-deseos-fecha-y-origen-del-evento/",
+      "fecha": "Thu, 29 Oct 2026 01:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Bajo la luz de las velas y en un lugar que resguarda historia y comunidad, se realizará la séptima edición de la Noche de Velas. Conozca su origen y simbolismo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Turismo mundial 2025: Guatemala crece 7.2% en gasto y expertos señalan los retos para competir",
+      "link": "https://www.prensalibre.com/economia/turismo-mundial-2025-guatemala-crece-7-2-en-gasto-y-expertos-senalan-los-retos-para-competir/",
+      "fecha": "Thu, 29 Oct 2026 01:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El turismo mundial se acelera y Guatemala muestra resultados favorables, pero aún tiene desafíos para competir con otros destinos. ¿Dónde están las oportunidades y qué necesita mejorar el país para aprovecharlas?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Violencia en el área metropolitana: seis ataques armados dejan tres muertos y cuatro heridos",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/violencia-en-el-area-metropolitana-seis-ataques-armados-dejan-tres-muertos-y-cuatro-heridos-breaking/",
+      "fecha": "Thu, 29 Oct 2026 00:33:16 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Seis ataques armados registrados este miércoles 28 de octubre en cinco zonas de la capital y en San José Pinula dejaron tres muertos y cuatro heridos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Flávio Bolsonaro denuncia el &#8220;robo&#8221; de las elecciones sin aportar pruebas y agradece a Milei y Trump por su salida de Brasil hacia EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/flavio-bolsonaro-denuncia-el-robo-de-las-elecciones-sin-aportar-pruebas-y-agradece-a-milei-y-trump-por-su-salida-de-brasil-hacia-ee-uu/",
+      "fecha": "Thu, 29 Oct 2026 00:21:44 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En una carta publicada en su cuenta de X, el senador Flávio Bolsonaro cuestionó los recientes resultados electorales y arremetió contra la justicia de Brasil."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tránsito en Centroamérica: ¿qué ciudades son las más afectadas y qué lugar ocupa Guatemala?",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/transito-en-centroamerica-que-ciudades-son-las-mas-afectadas-y-que-lugar-ocupa-guatemala/",
+      "fecha": "Thu, 29 Oct 2026 00:00:58 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El congestionamiento vial plantea nuevos desafíos para Centroamérica. Conozca qué revela un estudio reciente sobre la movilidad en la región."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "The One About Matthew Perry: las revelaciones de la docuserie sobre el actor que dio vida a Chandler Bing en Friends",
+      "link": "https://www.prensalibre.com/vida/escenario/the-one-about-matthew-perry-las-revelaciones-de-la-docuserie-sobre-el-actor-que-dio-vida-a-chandler-bing-en-friends/",
+      "fecha": "Thu, 29 Oct 2026 00:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Mientras su éxito crecía gracias a su personaje Chandler Bing en Friends, el actor libraba una batalla contra las adicciones durante las últimas temporadas de la serie. Estas son algunas de las revelaciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Estamos entre la vida y la muerte”: fiscal secuestrado por pobladores en Quiché pide ayuda al MP",
+      "link": "https://www.prensalibre.com/guatemala/justicia/estamos-entre-la-vida-y-la-muerte-fiscal-secuestrado-por-pobladores-en-quiche-pide-ayuda-al-mp/",
+      "fecha": "Wed, 28 Oct 2026 23:28:35 +0000",
+      "categoria": "Guatemala",
+      "resumen": "“Por favor, respondan\", advierte un fiscal en Quiché.  Un grupo de vecinos  retiene a unos 30 fiscales del MP y agentes de a PNC tras incautación de mercadería de contrabando."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quiénes son &#8220;La Patrona&#8221; y &#8220;Pau&#8221;? Los mexicanos capturados en Colombia por alianzas con el Cártel Jalisco y el Clan del Golfo",
+      "link": "https://www.prensalibre.com/internacional/quienes-son-la-patrona-y-pau-los-mexicanos-capturados-en-colombia-por-alianzas-con-el-cartel-jalisco-y-el-clan-del-golfo/",
+      "fecha": "Wed, 28 Oct 2026 23:06:28 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una operación conjunta entre la Policía de Colombia y el FBI permitió capturar a dos mexicanos señalados de vincular al Clan del Golfo con el CJNG."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO: Malacateco vs. Aurora FC; siga el partido de la jornada 17 del Apertura 2026",
@@ -9,6 +185,22 @@
       "fecha": "Wed, 28 Oct 2026 23:00:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "La jornada 17 del Torneo Apertura 2026 continúa este miércoles en el estadio Santa Lucía, donde Malacateco recibirá a Aurora FC."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cobán Imperial vence 2-1 a Suchitepéquez con diez jugadores en el Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/coban-imperial-vence-2-1-a-suchitepequez-con-diez-jugadores-en-el-apertura-2026/",
+      "fecha": "Wed, 28 Oct 2026 22:59:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Cobán Imperial mostró carácter y se impuso 2-1 a Suchitepéquez en el estadio José Ángel Rossi, pese a jugar toda la segunda mitad con diez futbolistas."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Bancos de Guatemala tendrán asueto el 2 de noviembre 2026",
+      "link": "https://www.guatemala.com/noticias/comunidad/bancos-guatemala-cerraran-2-noviembre-2026-asueto-dia-de-todos-los-santos.html",
+      "fecha": "Wed, 28 Oct 2026 22:57:54 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Bancos del país trasladarán el asueto del Día de Todos los Santos al lunes 2 de noviembre de 2026, por lo que pausarán sus labores durante el día. \nThe post Bancos de Guatemala tendrán asueto el 2 de noviembre 2026 appeared first on Guatemala.com."
     },
     {
       "fuente": "Prensa Libre",
@@ -73,6 +265,14 @@
       "fecha": "Wed, 28 Oct 2026 20:21:22 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "Gracias a una alianza que ha transformado muchos rincones del país entre la Iglesia de Jesucristo de los Santos de los Últimos Días y la Fundación Sergio Paiz Andrade (Funsepa), San Jerónimo, Baja Verapaz, se convierte en el Municipio Digital número 22 de Guatemala y el quinto impulsado por la alianza."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La confianza en la marca los lleva a disfrutar de la mejor movilidad",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-confianza-en-la-marca-los-lleva-a-disfrutar-de-la-mejor-movilidad/",
+      "fecha": "Wed, 28 Oct 2026 20:08:00 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Sikamotors cierra con broche de oro su participación en el AutoShow 2026 y agradece la preferencia del público guatemalteco con el sorteo y entrega de dos vehículos cero kilómetros, el SUV Suzuki Fronx y el elegante sedán Changan V3."
     },
     {
       "fuente": "Prensa Libre",
@@ -619,124 +819,12 @@
       "resumen": "De ser una estrella de televisión por su papel en The Pitt a convertirse en un galán, luego de que la revista People lo nombrara el hombre más sexy del mundo en el 2026. Esto dijo el actor sobre el título."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Habrá una disculpa pública para los hermanos Choc? Esto respondió el presidente Arévalo",
-      "link": "https://www.prensalibre.com/guatemala/politica/habra-una-disculpa-publica-para-los-hermanos-choc-esto-respondio-el-presidente-arevalo-breaking/",
-      "fecha": "Wed, 28 Oct 2026 00:50:16 +0000",
-      "categoria": "Política",
-      "resumen": "El presidente Bernardo Arévalo afirmó que el Gobierno está dispuesto a ofrecer una disculpa pública a los hermanos Rigoberto y Daniel Zaqueo Choc Toz, detenidos por la PNC y liberados por falta de pruebas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Salario mínimo 2027: Comisión Nacional del Salario concluye discusión sin acuerdo entre los tres sectores",
-      "link": "https://www.prensalibre.com/economia/comision-nacional-del-salario-concluye-discusion-del-salario-minimo-para-el-2027-sin-acuerdo-entre-los-tres-sectores/",
-      "fecha": "Wed, 28 Oct 2026 00:34:33 +0000",
-      "categoria": "Economía",
-      "resumen": "El Gobierno propone un aumento salarial de entre el 4% y el 7%; los trabajadores piden el 10% y los empleadores plantean un incremento de entre el 3% y el 4%, según las fórmulas propuestas por cada sector. Sin embargo, no se logró un acuerdo en la Comisión Nacional del Salario (CNS)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Hagámoslo el estado 51”: qué dijo Trump sobre Venezuela y de poner un gobernador en lugar de presidente",
-      "link": "https://www.prensalibre.com/internacional/hagamoslo-el-estado-51-que-dijo-trump-sobre-venezuela-y-de-poner-un-gobernador-en-lugar-de-presidente/",
-      "fecha": "Wed, 28 Oct 2026 00:30:09 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump propuso que Venezuela sea el estado 51 de EE. UU. y que sus ciudadanos elijan un gobernador en lugar de un presidente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Me han enviado como regalo un cargamento&#8221;: Por qué Trump recibirá un millón de barriles de petróleo de Venezuela",
-      "link": "https://www.prensalibre.com/internacional/me-han-enviado-como-regalo-un-cargamento-por-que-trump-recibira-un-millon-de-barriles-de-petroleo-de-venezuela/",
-      "fecha": "Tue, 27 Oct 2026 23:52:08 +0000",
-      "categoria": "Internacional",
-      "resumen": "Donald Trump anuncia que Estados Unidos recibirá un millón de barriles de petróleo venezolano, en medio de esfuerzos por reducir el precio de combustibles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ley de MetroRiel se aprueba de urgencia nacional con el apoyo de 134 diputados",
-      "link": "https://www.prensalibre.com/guatemala/politica/ley-de-metroriel-se-aprueba-de-urgencia-nacional-con-el-apoyo-de-134-diputados/",
-      "fecha": "Tue, 27 Oct 2026 23:40:17 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Con el respaldo de 134 diputados, el Congreso de la República aprobó el Decreto 24-2026, relacionado con el proyecto MetroRiel, una iniciativa que busca impulsar el transporte ferroviario en el área metropolitana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Super Bowl LXI: Jay-Z fue elegido para encabezar el espectáculo de medio tiempo del 2027",
-      "link": "https://www.prensalibre.com/vida/escenario/super-bowl-lxi-jay-z-fue-elegido-para-encabezar-el-espectaculo-de-medio-tiempo-del-2027/",
-      "fecha": "Tue, 27 Oct 2026 23:40:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El rapero Jay-Z llegará al escenario del SoFi Stadium, en Los Ángeles, para poner el toque musical en el espectáculo de medio tiempo del Super Bowl LXI de Apple Music del 2027. Esto se conoce de la elección y del evento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "CC ordena suspender a José de la Peña como presidente de Empornac: ¿quién asumirá el cargo?",
-      "link": "https://www.prensalibre.com/economia/cc-ordena-suspender-a-jose-de-la-pena-como-presidente-de-empornac-quien-asumira-el-cargo/",
-      "fecha": "Tue, 27 Oct 2026 23:20:56 +0000",
-      "categoria": "Economía",
-      "resumen": "La terminal portuaria de Santo Tomás de Castilla en Izabal mantiene sus operaciones de importación y exportación con normalidad, pese a la resolución judicial."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Proyecto espacial de niños guatemaltecos será parte de vuelo de investigación en Francia",
       "link": "https://www.guatemala.com/noticias/tecnologia/prototipo-nave-espacial-creado-ninos-guatemaltecos-llegara-francia.html",
       "fecha": "Tue, 27 Oct 2026 23:07:04 +0000",
       "categoria": "Tecnología",
       "resumen": "Pamela López, del Club Constelación Quetzal, llevará y probará en Francia el prototipo de nave espacial creado por doce niños guatemaltecos. \nThe post Proyecto espacial de niños guatemaltecos será parte de vuelo de investigación en Francia appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Wilberto Julián Rojas asume como viceministro de Ingresos y Evaluación Fiscal del Minfin",
-      "link": "https://www.prensalibre.com/guatemala/politica/wilberto-julian-rojas-asume-como-viceministro-de-ingresos-y-evaluacion-fiscal-del-minfin-breaking/",
-      "fecha": "Tue, 27 Oct 2026 23:01:20 +0000",
-      "categoria": "Política",
-      "resumen": "Wilberto Julian Rojas asume el Viceministerio de Ingresos y Evaluación Fiscal del Minfin, tras haber ocupado cargos en esa misma cartera, la CGC y Segeplan."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“El Inspector”: la puesta en escena que lleva al teatro una sátira sobre la corrupción, el abuso de poder y las apariencias",
-      "link": "https://www.prensalibre.com/vida/escenario/el-inspector-la-puesta-en-escena-que-lleva-la-corrupcion-el-abuso-de-poder-y-las-apariencias-al-teatro/",
-      "fecha": "Tue, 27 Oct 2026 22:56:31 +0000",
-      "categoria": "Escenario",
-      "resumen": "Ante la inminente llegada del llamado “Inspector”, la élite gobernante de un remoto municipio hará todo lo posible por ocultar sus negligencias. Esta es la trama que presenta la obra."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Skydance ofrece retiros voluntarios a empleados de Paramount y Warner Bros.?",
-      "link": "https://www.prensalibre.com/vida/escenario/por-que-skydance-ofrece-retiros-voluntarios-a-empleados-de-paramount-y-warner-bros/",
-      "fecha": "Tue, 27 Oct 2026 22:19:27 +0000",
-      "categoria": "Escenario",
-      "resumen": "Skydance ofrece retiros voluntarios antes de una ronda de despidos, en medio de la integración de Paramount y Warner Bros. Discovery y su reestructuración."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De candidato presidencial a prófugo: ¿Flávio Bolsonaro huyó de Brasil hacia Estados Unidos?",
-      "link": "https://www.prensalibre.com/internacional/de-candidato-presidencial-a-profugo-flavio-bolsonaro-huyo-de-brasil-hacia-estados-unidos/",
-      "fecha": "Tue, 27 Oct 2026 22:01:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Flávio Bolsonaro había dicho que entregaría los pasaportes y se defendería de lo que consideró un \"intento de intimidación\", ya que es investigado por presunto lavado de dinero."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mbappé se disculpa con el pueblo chino tras la polémica por un meme de Mao Zedong",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mbappe-se-disculpa-con-el-pueblo-chino-tras-la-polemica-por-un-meme-de-mao-zedong/",
-      "fecha": "Tue, 27 Oct 2026 21:18:10 +0000",
-      "categoria": "Deportes",
-      "resumen": "Kylian Mbappé ofreció disculpas públicas al pueblo chino luego de que unas declaraciones realizadas en una entrevista generaran controversia internacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fugas, incursiones del narco y el caso Solórzano Foppa: la cronología y hechos que han marcado la seguridad en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/justicia/fugas-incursiones-del-narco-y-el-caso-solorzano-foppa-la-cronologia-y-hechos-que-han-marcado-la-seguridad-en-guatemala/",
-      "fecha": "Tue, 27 Oct 2026 21:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "De las fugas de pandilleros a las incursiones armadas: ¿cómo han evolucionado las alertas sobre el crimen organizado y los controles del Estado en Guatemala?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Avistamiento de ballenas en el Pacífico: cómo vivir la experiencia de conocer a los gigantes del océano",
-      "link": "https://www.prensalibre.com/vida/escenario/avistamiento-de-ballenas-en-el-pacifico-como-vivir-la-experiencia-de-conocer-a-los-gigantes-del-oceano/",
-      "fecha": "Tue, 27 Oct 2026 20:50:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Una aventura en el océano Pacífico permitirá conocer a las ballenas en su hábitat natural durante los primeros avistamientos de la temporada. Conozca cómo participar."
     },
     {
       "fuente": "Guatemala.com",
@@ -747,92 +835,12 @@
       "resumen": "Claro ya tiene disponible el iPhone 18 en Guatemala, con compras al contado, hasta 48 cuotas y Trade In con hasta 50% de descuento.\nThe post Claro Guatemala y Apple fortalecen su colaboración para ofrecer más opciones de compra del nuevo iPhone 18 appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala podría registrar 16 frentes fríos: los meses en que las temperaturas caerían hasta los 0 °C",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-podria-registrar-16-frentes-frios-los-meses-en-que-las-temperaturas-caerian-hasta-los-0-c-breaking/",
-      "fecha": "Tue, 27 Oct 2026 20:37:11 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Guatemala podría experimentar dos frentes fríos más que en la temporada anterior. El Insivumeh anticipa descensos de temperatura y posibles efectos en la agricultura. Conozca qué meses y regiones podrían experimentar los mayores descensos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Érick Osoy López y Selvin Solano Galicia asumen altos mandos de la PNC tras destitución de Boteo y Quiché",
-      "link": "https://www.prensalibre.com/guatemala/politica/erick-osoy-lopez-y-selvin-solano-galicia-asumen-altos-mandos-de-la-pnc-tras-destitucion-de-boteo-y-quiche-breaking/",
-      "fecha": "Tue, 27 Oct 2026 20:16:30 +0000",
-      "categoria": "Política",
-      "resumen": "El Ministerio de Gobernación anunció la designación de Érick Osoy López y Selvin Solano Galicia como nuevos altos mandos de la PNC), tras la destitución de David Custodio Boteo y Esvin Jacinto Quiché."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Trump despidió a Katie Zacharia? Nicki Minaj, su lealtad y la reacción de Karoline Leavitt",
-      "link": "https://www.prensalibre.com/internacional/por-que-trump-despidio-a-katie-zacharia-nicki-minaj-su-lealtad-y-la-reaccion-de-karoline-leavitt/",
-      "fecha": "Tue, 27 Oct 2026 19:52:57 +0000",
-      "categoria": "Internacional",
-      "resumen": "El director de comunicaciones de la Casa Blanca sugirió la posibilidad de que la rapera Nicki Minaj se convierta en la nueva secretaria de prensa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Wilson Chonay conquista la etapa reina y queda a 37 segundos del líder de la Vuelta a Guatemala",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/wilson-chonay-conquista-la-etapa-reina-y-queda-a-37-segundos-del-lider-de-la-vuelta-a-guatemala/",
-      "fecha": "Tue, 27 Oct 2026 19:30:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El guatemalteco Wilson Chonay volvió a brillar en la 65 Vuelta Ciclística a Guatemala 2026 al conquistar la exigente etapa reina."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Familia de Litzy Cordón pide pena de muerte contra Kevin Rivas y presenta querella contra jueza que votó en contra de la condena",
-      "link": "https://www.prensalibre.com/guatemala/justicia/familia-de-litzy-cordon-pide-pena-de-muerte-contra-kevin-rivas-y-presenta-querella-contra-jueza-que-voto-en-contra-de-la-condena-breaking/",
-      "fecha": "Tue, 27 Oct 2026 19:06:51 +0000",
-      "categoria": "Justicia",
-      "resumen": "La familia de Litzy Cordón busca que se imponga la pena de muerte a Kevin Rivas Cordón, condenado por secuestro y asesinato. Una Sala de Apelaciones revisa la petición."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Festival del Barrilete en Xejuyup del Irtra: fecha, actividades y música para disfrutar en familia",
-      "link": "https://www.prensalibre.com/vida/escenario/festival-del-barrilete-en-xejuyup-del-irtra-fecha-actividades-y-musica-para-disfrutar-en-familia/",
-      "fecha": "Tue, 27 Oct 2026 18:30:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El parque Xejuyup, que ofrece juegos dinámicos y contacto con la naturaleza, celebrará el Festival del Barrilete, una actividad familiar que reúne tradición, arte, música y diversión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Municipal vs. Comunicaciones: fecha, hora y dónde ver el clásico 339 del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/municipal-vs-comunicaciones-fecha-hora-y-donde-ver-el-clasico-339-del-apertura-2026/",
-      "fecha": "Tue, 27 Oct 2026 18:30:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Municipal y Comunicaciones volverán a verse las caras este miércoles en El Trébol, en un duelo marcado por la necesidad de sumar tres puntos y recuperar protagonismo en la recta final del Torneo Apertura 2026."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "1 de noviembre 2026: Conoce los horarios de cementerios públicos y privados en Ciudad Guatemala",
       "link": "https://www.guatemala.com/noticias/comunidad/horarios-cementerios-1-noviembre-2026-dia-de-todos-los-santos-ciudad-guatemala.html",
       "fecha": "Tue, 27 Oct 2026 18:16:36 +0000",
       "categoria": "Comunidad",
       "resumen": "Conoce los horarios que tendrán los cementerios públicos y privados en la Ciudad de Guatemala este 1 de noviembre de 2026, Día de Todos los Santos.\nThe post 1 de noviembre 2026: Conoce los horarios de cementerios públicos y privados en Ciudad Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De 23 inmigrantes ocultos en camionetas a uno muerto bajo custodia del ICE: los casos en Laredo",
-      "link": "https://www.prensalibre.com/internacional/de-23-inmigrantes-ocultos-en-camionetas-a-uno-muerto-bajo-custodia-del-ice-los-casos-en-laredo/",
-      "fecha": "Tue, 27 Oct 2026 18:16:26 +0000",
-      "categoria": "Internacional",
-      "resumen": "Cada migrante trasladado pagó a los contrabandistas entre US$1 mil 500 (Q11 mil) y US$10 mil (Q76 mil) en Honduras, México y Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Alianza oficialista elige Directiva y abre espacio para la bancada Todos",
-      "link": "https://www.prensalibre.com/guatemala/politica/alianza-oficialista-elige-directiva-y-abre-espacio-para-la-bancada-todos/",
-      "fecha": "Tue, 27 Oct 2026 18:10:17 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El bloque Todos se suma a la Directiva del Congreso para el período 2027-2028, con el apoyo de 123 diputados que lo decidieron en la sesión de este martes 27 de octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Declaró ingresos de Q2,200 al mes, pero su cuenta registró Q635 mil 600 en tres meses: MP investiga pagos de extorsión",
-      "link": "https://www.prensalibre.com/guatemala/justicia/declaro-ingresos-de-q2200-al-mes-pero-su-cuenta-registro-q635-mil-600-en-tres-meses-mp-investiga-pagos-de-extorsion-breaking/",
-      "fecha": "Tue, 27 Oct 2026 18:09:51 +0000",
-      "categoria": "Justicia",
-      "resumen": "Depósitos en efectivo, retiros de dinero a los pocos días y transferencias identificadas como pagos de extorsión figuran entre los hallazgos del MP. Las autoridades investigan distintos casos que incluyen operaciones bancarias dentro y fuera de Guatemala."
     },
     {
       "fuente": "Guatemala.com",
@@ -865,14 +873,6 @@
       "fecha": "Mon, 26 Oct 2026 18:21:09 +0000",
       "categoria": "Cultura",
       "resumen": "Mario Cordero Ávila gana el Premio Elena Poniatowska 2026 con Fiebre de frontera, novela sobre migración, entre más de 700 obras participantes. \nThe post Mario Cordero Ávila gana el Premio Elena Poniatowska 2026 con su obra «Fiebre de frontera» appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "¿Cómo estará el clima en Guatemala la última semana de octubre 2026?",
-      "link": "https://www.guatemala.com/noticias/comunidad/pronostico-insivumeh-clima-guatemala-26-al-30-octubre-2026.html",
-      "fecha": "Mon, 26 Oct 2026 15:56:44 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Disminución de lluvias y viento frío marcarán las condiciones del clima en Guatemala del 26 al 30 de octubre 2026, según pronóstico del Insivumeh.\nThe post ¿Cómo estará el clima en Guatemala la última semana de octubre 2026? appeared first on Guatemala.com."
     }
   ]
 }
