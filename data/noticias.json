@@ -1,7 +1,183 @@
 {
-  "actualizado": "2026-10-29T12:40:03.192Z",
+  "actualizado": "2026-10-29T18:52:56.732Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tratamiento de largo plazo y atención multidisciplinaria, claves para enfrentar obesidad",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/tratamiento-de-largo-plazo-y-atencion-multidisciplinaria-claves-para-enfrentar-obesidad/",
+      "fecha": "Thu, 29 Oct 2026 18:37:32 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "El tratamiento de largo plazo y el acompañamiento multidisciplinario a los pacientes, son claves para enfrentar la obesidad, una enfermedad crónica que afecta a millones de personas en el mundo, dijo a EFE el gerente médico de la farmacéutica Adium para Centroamérica y el Caribe, Víctor Nolasco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Accidente en la Cumbre de Alaska marca la séptima etapa de la Vuelta a Guatemala: esto se sabe",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/accidente-en-la-cumbre-de-alaska-marca-la-septima-etapa-de-la-vuelta-a-guatemala-esto-se-sabe/",
+      "fecha": "Thu, 29 Oct 2026 18:30:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La séptima etapa de la 65 Vuelta Ciclística a Guatemala 2026 volvió a verse marcada por un accidente, luego de que varios corredores sufrieran una fuerte caída en el sector de Cumbre de Alaska."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Xi realiza la mayor purga en la historia de su gobierno y le exige &#8220;disciplina&#8221; a su partido en China",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/xi-realiza-la-mayor-purga-en-la-historia-de-su-gobierno-y-le-exige-disciplina-a-su-partido-en-china/",
+      "fecha": "Thu, 29 Oct 2026 18:20:03 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Según los analistas, la campaña anticorrupción de Xi se ha convertido en \"un esfuerzo por consolidar y mantener la autoridad\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mujer vendió inmueble ajeno para comprar casas y un carro: recibe 19 años de prisión y multa millonaria",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mujer-vendio-inmueble-ajeno-para-comprar-casas-y-un-carro-recibe-19-anos-de-prision-y-multa-millonaria-breaking/",
+      "fecha": "Thu, 29 Oct 2026 18:13:01 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Ministerio Público informó que cuatro personas fueron condenadas por estafa, entre ellas una mujer a quien el juez le impuso una multa millonaria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Belinda aparece irreconocible en Beliween 2026: así fue el disfraz que sorprendió a sus invitados",
+      "link": "https://www.prensalibre.com/vida/escenario/belinda-aparece-irreconocible-en-beliween-2026-asi-fue-el-disfraz-que-sorprendio-a-sus-invitados/",
+      "fecha": "Thu, 29 Oct 2026 18:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La tradicional fiesta de Halloween de Belinda se convirtió en todo un espectáculo cuando la artista apareció con un peculiar disfraz “de otro planeta”."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La intervención de Bukele en Haití genera críticas: Advierten que los militares no garantizarán la paz",
+      "link": "https://www.prensalibre.com/internacional/la-intervencion-de-bukele-en-haiti-genera-criticas-advierten-que-los-militares-no-garantizaran-la-paz/",
+      "fecha": "Thu, 29 Oct 2026 17:30:52 +0000",
+      "categoria": "Internacional",
+      "resumen": "La desaparición de los militares salvadoreños provocó una respuesta de Bukele, quien ha enviado 2 mil soldados a Haití para rescatarlos, aunque la cifra aumenta a diario."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a tres guatemaltecos y cuatro salvadoreños con cargamento de droga en El Salvador",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-tres-guatemaltecos-y-cuatro-salvadorenos-con-cargamento-de-droga-en-el-salvador-breaking/",
+      "fecha": "Thu, 29 Oct 2026 17:11:37 +0000",
+      "categoria": "Justicia",
+      "resumen": "Las autoridades salvadoreñas brindaron detalles sobre el decomiso de droga y la captura de siete personas, entre ellas tres guatemaltecos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO: Deportivo Mixco vs. Xelajú MC por la jornada 17 del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-deportivo-mixco-vs-xelaju-mc-por-la-jornada-17-del-apertura-2026/",
+      "fecha": "Thu, 29 Oct 2026 17:07:40 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Deportivo Mixco recibe a Xelajú MC en un duelo clave de la jornada 17 del Torneo Apertura 2026. Los chicharroneros buscan hacerse fuertes en casa para mantenerse en la pelea por los primeros puestos del campeonato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cierre parcial en paso a desnivel Tecún Umán por obras del AeroMetro: esto debe saber",
+      "link": "https://www.prensalibre.com/guatemala/cierre-parcial-en-paso-a-desnivel-tecun-uman-por-obras-del-aerometro-esto-debe-saber/",
+      "fecha": "Thu, 29 Oct 2026 16:48:12 +0000",
+      "categoria": "Guatemala",
+      "resumen": "A partir del 2 de noviembre se cerrará un carril en la zona 9 durante tres semanas por la instalación de una viga de la nueva red de transporte."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones 2027: TSE explica por qué habilitará más de 4 mil centros de votación y aumentarán las juntas electorales",
+      "link": "https://www.prensalibre.com/guatemala/politica/elecciones-2027-tse-explica-por-que-habilitara-mas-de-4-mil-centros-de-votacion-y-aumentaran-las-juntas-electorales-breaking/",
+      "fecha": "Thu, 29 Oct 2026 16:15:47 +0000",
+      "categoria": "Política",
+      "resumen": "Durante una reunión con representantes de partidos políticos, el Tribunal Supremo Electoral  informó sobre los avances en la preparación del proceso electoral de 2027 en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amarini Villatoro y Cartaginés hacen historia: Goles, declaraciones y polémica contra Olimpia",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/amarini-villatoro-y-cartagines-hacen-historia-goles-declaraciones-y-polemica-contra-olimpia/",
+      "fecha": "Thu, 29 Oct 2026 16:11:32 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La discusión comenzó cuando un periodista costarricense cuestionó al técnico del Olimpia por la eliminación de su equipo a manos de Amarini Villatoro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Altar de muertos de la Embajada de México también honra a guatemaltecos",
+      "link": "https://www.prensalibre.com/vida/escenario/altar-de-muertos-de-la-embajada-de-mexico-tambien-honra-a-guatemaltecos/",
+      "fecha": "Thu, 29 Oct 2026 16:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Aunque en esta ocasión el espacio lleva el nombre \"Nuestras mujeres\", también se recordó a figuras, tanto hombres como mujeres, destacadas del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una mano revisada con el FVS desata la polémica en el triunfo de Municipal: ¿qué gestos hizo Steven Robles después del partido?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/una-mano-revisada-con-el-fvs-desata-la-polemica-en-el-triunfo-de-municipal-que-gestos-hizo-steven-robles-despues-del-partido/",
+      "fecha": "Thu, 29 Oct 2026 15:27:26 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Municipal remontó y derrotó 3-1 a Comunicaciones en El Trébol, pero la jugada que derivó en el empate se convirtió en el centro de la discusión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los gráficos que muestran cómo ha cambiado la migración en EE.UU. en la era Trump",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-graficos-que-muestran-como-ha-cambiado-la-migracion-en-ee-uu-en-la-era-trump/",
+      "fecha": "Thu, 29 Oct 2026 15:19:52 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Trump prometió mano dura contra la inmigración. ¿Qué dicen los datos de sus políticas?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amarini Villatoro: “Estoy orgulloso de mi equipo”, tras clasificar a otra final centroamericana",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/amarini-villatoro-estoy-orgulloso-de-mi-equipo-tras-clasificar-a-otra-final-centroamericana-breaking/",
+      "fecha": "Thu, 29 Oct 2026 15:07:33 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El técnico guatemalteco llevó al Cartaginés a la final tras eliminar al Olimpia y buscará conquistar el título regional, como ya lo intentó con Xelajú en 2025."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Séptima etapa de la Vuelta a Guatemala 2026: Cristian Rico defiende el suéter amarillo",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-septima-etapa-de-la-vuelta-a-guatemala-2026-cristian-rico-defiende-el-sueter-amarillo/",
+      "fecha": "Thu, 29 Oct 2026 15:04:31 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La batalla por el suéter amarillo entra en una fase decisiva este jueves con la disputa de la séptima etapa de la Vuelta a Guatemala 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Obligados a arrodillarse y amenazados con quemarlos vivos: MP revela detalles de retención en Quiché",
+      "link": "https://www.prensalibre.com/guatemala/justicia/obligados-a-arrodillarse-y-amenazados-con-quemarlos-vivos-mp-revela-detalles-de-retencion-en-quiche-breaking/",
+      "fecha": "Thu, 29 Oct 2026 14:47:22 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Ministerio Público (MP) informó sobre el estado de salud de los fiscales y agentes de la Policía Nacional Civil (PNC) que fueron retenidos en Chichicastenango, Quiché."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Robó US$760 mil en diamantes y se los tragó durante un interrogatorio: Así fue descubierto",
+      "link": "https://www.prensalibre.com/internacional/robo-us760-mil-en-diamantes-y-se-los-trago-durante-un-interrogatorio-asi-fue-descubierto/",
+      "fecha": "Thu, 29 Oct 2026 14:41:15 +0000",
+      "categoria": "Internacional",
+      "resumen": "Durante el procedimiento, los agentes de la Patrulla de Carreteras de Florida observaron que Jaythan Gilder tenía objetos en la boca e intentaba tragárselos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Maquillaje de catrina 2026: cómo se realiza, cuánto cuesta y qué técnicas se utilizan",
+      "link": "https://www.prensalibre.com/vida/escenario/maquillaje-de-catrina-2026-como-se-realiza-cuanto-cuesta-y-que-tecnicas-se-utilizan/",
+      "fecha": "Thu, 29 Oct 2026 14:15:12 +0000",
+      "categoria": "Escenario",
+      "resumen": "El maquillaje de catrina es una tradición mexicana que también cobra vida en Guatemala cada noviembre. Conozca en este video todos los detalles para realizarlo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Videos: así fueron los goles de Municipal ante Comunicaciones en el clásico 339",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/videos-asi-fueron-los-goles-de-municipal-ante-comunicaciones-en-el-clasico-339/",
+      "fecha": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Cuando más lo necesitaba, Municipal volvió al triunfo y lo hizo ante su máximo rival. Los escarlatas remontaron un marcador adverso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataques armados en Guatemala este 29 de octubre dejan una mujer fallecida y cinco heridos",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataques-armados-en-guatemala-este-29-de-octubre-dejan-una-mujer-fallecida-y-cinco-heridos-breaking/",
+      "fecha": "Thu, 29 Oct 2026 13:06:26 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Los cuerpos de socorro informaron que una mujer falleció y cinco personas resultaron heridas en tres ataques armados registrados en distintos puntos de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Canelo Álvarez vs. Christian Mbilli: cuándo es la pelea, a qué hora y dónde ver en Guatemala",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/canelo-alvarez-vs-christian-mbilli-cuando-es-la-pelea-a-que-hora-y-donde-ver-en-guatemala/",
+      "fecha": "Thu, 29 Oct 2026 13:04:00 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "El mexicano enfrentará al campeón francés en Riad, Arabia Saudita, por el título mundial supermediano del Consejo Mundial de Boxeo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Marihuana escondida en rollos de tela: así fue el decomiso de droga en Escuintla",
@@ -436,11 +612,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Pobladores retienen a fiscales del MP y agentes de la PNC en Quiché y exigen liberar a dos capturados",
+      "titulo": "MP confirma liberación de fiscales y agentes de la PNC retenidos por pobladores en Quiché",
       "link": "https://www.prensalibre.com/guatemala/comunitario/pobladores-retienen-a-fiscales-del-mp-y-agentes-de-la-pnc-en-quiche-y-exigen-liberar-a-dos-capturados-breaking/",
       "fecha": "Wed, 28 Oct 2026 20:08:00 +0000",
       "categoria": "Comunitario",
-      "resumen": "El MP confirmó la retención de fiscales y policías en Chichicastenango, Quiché. Reportes preliminares señalan que pobladores exigen liberar a dos capturados."
+      "resumen": "El MP confirmó la liberación de fiscales y policías en Chichicastenango, Quiché. Reportes preliminares señalan que pobladores exigían liberar a dos capturados."
     },
     {
       "fuente": "Prensa Libre",
@@ -635,188 +811,12 @@
       "resumen": "El guatemalteco Roberto Jiménez Gutiérrez, de 43 años, falleció mientras se encontraba bajo la custodia del ICE en el Centro de Detención de Otay Mesa."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Las estrellas se alinean&#8221;: Los Ángeles 2028 presenta el lema de sus Juegos Olímpicos",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/las-estrellas-se-alinean-los-angeles-2028-presenta-el-lema-de-sus-juegos-olimpicos/",
-      "fecha": "Wed, 28 Oct 2026 15:32:53 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Los Juegos Olímpicos y Paralímpicos de Los Ángeles 2028 revelaron este miércoles su lema oficial, “Las estrellas se alinean”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MP revela cómo un notario habría utilizado a personas fallecidas para despojar de propiedades a sus víctimas",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mp-revela-como-un-notario-habria-utilizado-a-personas-fallecidas-para-despojar-de-propiedades-a-sus-victimas-breaking/",
-      "fecha": "Wed, 28 Oct 2026 15:32:14 +0000",
-      "categoria": "Justicia",
-      "resumen": "Notario queda ligado a proceso penal y en prisión preventiva por el supuesto despojo de bienes inmuebles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Imágenes muestran a Flávio Bolsonaro aterrizando en Miami luego de su derrota en las elecciones de Brasil",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/imagenes-muestran-a-flavio-bolsonaro-aterrizando-en-miami-luego-de-su-derrota-en-las-elecciones-de-brasil/",
-      "fecha": "Wed, 28 Oct 2026 15:19:11 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El político de 45 años llegó a la ciudad de Florida en una aeronave privada, tres días después de su derrota en las elecciones presidenciales de Brasil y de asegurar que le fue requerido su pasaporte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO: La sexta etapa de la Vuelta a Guatemala pone a prueba al líder; siga aquí el minuto a minuto",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-la-sexta-etapa-de-la-vuelta-a-guatemala-pone-a-prueba-al-lider-siga-aqui-el-minuto-a-minuto/",
-      "fecha": "Wed, 28 Oct 2026 15:00:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Sexta etapa de la Vuelta a Guatemala 2026: recorrido de 147 kilómetros y minuto a minuto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Premio Artista del Año 2026 entrega sus galardones y rinde tributo a la UP",
-      "link": "https://www.prensalibre.com/vida/escenario/premio-artista-del-ano-2026-entrega-sus-galardones-y-rinde-tributo-a-la-up/",
-      "fecha": "Wed, 28 Oct 2026 15:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "En el marco de la conmemoración del Día del Artista Nacional, se celebró la 46 edición de la gala en la que se reconoce el talento tanto de artistas consagrados como de las jóvenes promesas en diversas ramas del arte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos accidentes de autopatrullas de la PNC en menos de 24 horas: el más reciente ocurrió este miércoles en Colomba",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-accidentes-de-autopatrullas-de-la-pnc-en-menos-de-24-horas-el-mas-reciente-ocurrio-este-miercoles-en-colomba-breaking/",
-      "fecha": "Wed, 28 Oct 2026 14:39:04 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Agentes de la Policía Nacional Civil (PNC) sufren un accidente de tránsito este 28 de octubre en el caserío La Joya, Colomba, Quetzaltenango."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "La Licenciatura de UVG que combina marketing, análisis de datos y creatividad en industrias como la moda, el deporte y la tecnología",
       "link": "https://www.guatemala.com/noticias/sociedad/licenciatura-en-international-marketing-and-business-analytics-uvg.html",
       "fecha": "Wed, 28 Oct 2026 14:20:28 +0000",
       "categoria": "Sociedad",
       "resumen": "Descubre la Licenciatura en International Marketing and Business Analytics, la única carrera que combina marketing, tecnología y análisis de datos.\nThe post La Licenciatura de UVG que combina marketing, análisis de datos y creatividad en industrias como la moda, el deporte y la tecnología appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Al menos 64 muertos tras choque de trenes en España: Lo que se sabe del accidente ferroviario",
-      "link": "https://www.prensalibre.com/internacional/al-menos-64-muertos-tras-choque-de-trenes-en-espana-lo-que-se-sabe-del-accidente-ferroviario/",
-      "fecha": "Wed, 28 Oct 2026 14:01:08 +0000",
-      "categoria": "Internacional",
-      "resumen": "Este trágico accidente, que causó la muerte de al menos 64 personas y dejó decenas de heridos, es el segundo desastre ocurrido este año en la red ferroviaria de alta velocidad española."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Choque de trenes en España: Guatemala confirma que no hay guatemaltecos entre las víctimas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/choque-de-trenes-en-espana-guatemala-confirma-que-no-hay-guatemaltecos-entre-las-victimas-breaking/",
-      "fecha": "Wed, 28 Oct 2026 13:47:03 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Al menos 64 personas murieron en un accidente ferroviario ocurrido este miércoles en España. Guatemala descarta, por el momento, que haya guatemaltecos entre los afectados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Se reanudarán las transmisiones de LaLiga en China tras las disculpas del Real Madrid?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/se-reanudaran-las-transmisiones-de-laliga-en-china-tras-las-disculpas-del-real-madrid/",
-      "fecha": "Wed, 28 Oct 2026 13:26:50 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Las autoridades de la televisión estatal china confirmaron haber recibido las disculpas del Real Madrid por las declaraciones de Kylian Mbappé."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bernardo Arévalo veta reformas a la prisión preventiva en Guatemala y devuelve el decreto al Congreso",
-      "link": "https://www.prensalibre.com/guatemala/justicia/bernardo-arevalo-veta-reformas-a-la-prision-preventiva-en-guatemala-y-devuelve-el-decreto-al-congreso-breaking/",
-      "fecha": "Wed, 28 Oct 2026 13:11:07 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ejecutivo explica en el Diario Oficial por qué vetó las reformas a la prisión preventiva en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Municipal vs. Comunicaciones: el sublíder y el penúltimo se enfrentan en un clásico de urgencias",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/municipal-vs-comunicaciones-el-sublider-y-el-penultimo-se-enfrentan-en-un-clasico-de-urgencias-breaking/",
-      "fecha": "Wed, 28 Oct 2026 13:02:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los rojos acumulan seis jornadas sin ganar y los cremas buscan su segundo triunfo consecutivo para acercarse a los puestos de clasificación del Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ciberseguridad en Guatemala: 6 de cada 10 pymes frenan sus negocios por temor al fraude digital",
-      "link": "https://www.prensalibre.com/economia/ciberseguridad-en-guatemala-6-de-cada-10-pymes-frenan-sus-negocios-por-temor-al-fraude-digital/",
-      "fecha": "Wed, 28 Oct 2026 12:30:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Un estudio de Mastercard revela que seis de cada 10 pymes guatemaltecas han frenado su digitalización por temor al fraude y los ciberataques."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mueren decenas de personas al chocar dos trenes de alta velocidad en España",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/mueren-decenas-de-personas-al-chocar-dos-trenes-de-alta-velocidad-en-espana-2/",
-      "fecha": "Wed, 28 Oct 2026 12:10:39 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El presidente del gobierno español, Pedro Sánchez, se declaró \"conmocionado\" por el grave accidente ferroviario y dijo estar en contacto permanente con el ministro de Transportes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mueren decenas de personas al chocar dos trenes de alta velocidad en España",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/mueren-decenas-de-personas-al-chocar-dos-trenes-de-alta-velocidad-en-espana/",
-      "fecha": "Wed, 28 Oct 2026 12:10:39 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El presidente del gobierno español, Pedro Sánchez, se declaró \"conmocionado\" por el grave accidente ferroviario y dijo estar en contacto permanente con el ministro de Transportes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo se prepara el caldillo para el fiambre en Guatemala: receta y consejos de una chef",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/como-se-prepara-el-caldillo-para-el-fiambre-en-guatemala-receta-y-consejos-de-una-chef/",
-      "fecha": "Wed, 28 Oct 2026 12:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Ingredientes, preparación y consejos de una chef para elaborar el caldillo del fiambre y darle más sabor al platillo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Al menos 30 muertos y decenas de heridos en un choque de trenes de alta velocidad en España",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/al-menos-30-muertos-y-decenas-de-heridos-en-un-choque-de-trenes-de-alta-velocidad-en-espana/",
-      "fecha": "Wed, 28 Oct 2026 11:33:57 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El accidente ocurrió en la localidad de Urda, en Toledo. El gobierno español teme que haya más fallecidos y sospecha de un error humano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Día de San Judas Tadeo en Guatemala: estas son las calles cerradas en zona 1 y los cambios en el Transmetro este 28 de octubre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/dia-de-san-judas-tadeo-en-guatemala-estas-son-las-calles-cerradas-en-zona-1-y-los-cambios-en-el-transmetro-este-28-de-octubre-breaking/",
-      "fecha": "Wed, 28 Oct 2026 11:28:22 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Fieles llegan al templo de La Merced para conmemorar a San Judas Tadeo, mientras los cierres viales y cambios en el transporte afectan la movilidad en la zona 1."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ted Bundy suma otra víctima: resuelven crimen de hace 52 años y crece lista de muertes atribuidas al asesino en serie",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/ted-bundy-suma-otra-victima-resuelven-crimen-de-hace-52-anos-y-crece-lista-de-muertes-atribuidas-al-asesino-en-serie/",
-      "fecha": "Wed, 28 Oct 2026 10:00:00 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Una investigación genética permitió esclarecer el asesinato de Melissa Ann Smith, ocurrido en Utah en 1974. Las autoridades explicaron cómo una prueba conservada por décadas permitió identificar al responsable."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fenómenos astronómicos de noviembre de 2026: conjunción de Marte y Júpiter, lluvia de meteoros y Luna llena del Castor",
-      "link": "https://www.prensalibre.com/vida/ciencia/fenomenos-astronomicos-de-noviembre-de-2026-conjuncion-de-marte-y-jupiter-lluvia-de-meteoros-y-luna-llena-del-castor/",
-      "fecha": "Wed, 28 Oct 2026 10:00:00 +0000",
-      "categoria": "Ciencia",
-      "resumen": "Durante noviembre, el cielo ofrecerá diversos fenómenos astronómicos para los amantes de la observación, entre ellos una lluvia de meteoros. Conozca el calendario del mes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala 2026: recorrido de la sexta etapa, en la que el colombiano Cristian Rico defiende el liderato",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-recorrido-de-la-sexta-etapa-en-la-que-el-colombiano-cristian-rico-defiende-el-liderato/",
-      "fecha": "Wed, 28 Oct 2026 10:00:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La sexta etapa de la 65 Vuelta a Guatemala 2026 presenta un recorrido montañoso que promete emociones de principio a fin."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "David Custodio Boteo es destituido de la PNC: así evolucionaron los homicidios y las extorsiones durante su gestión",
-      "link": "https://www.prensalibre.com/guatemala/david-custodio-boteo-es-destituido-de-la-pnc-asi-evolucionaron-los-homicidios-y-las-extorsiones-durante-su-gestion/",
-      "fecha": "Wed, 28 Oct 2026 10:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El relevo de David Custodio Boteo en la PNC ocurre en un escenario de cambios en los indicadores de seguridad y cuestionamientos a la institución."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Banguat: confianza en la economía baja a 54.38 puntos en octubre, ¿qué factores explican la caída?",
-      "link": "https://www.prensalibre.com/economia/banguat-confianza-en-la-economia-baja-a-54-38-puntos-en-octubre-que-factores-explican-la-caida/",
-      "fecha": "Wed, 28 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El índice de confianza en la economía registró una leve disminución en octubre. Entre los factores que pudieron haber influido figuran la percepción de inseguridad, el período poselectoral y las fluctuaciones en los precios de los productos energéticos."
     },
     {
       "fuente": "Guatemala.com",
