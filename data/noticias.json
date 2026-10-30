@@ -1,7 +1,191 @@
 {
-  "actualizado": "2026-10-30T12:31:07.987Z",
+  "actualizado": "2026-10-30T18:29:44.844Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Se puede replicar el modelo Bukele en Perú? La discusión sobre seguridad y gestión penitenciaria",
+      "link": "https://www.prensalibre.com/internacional/se-puede-replicar-el-modelo-bukele-en-peru-la-discusion-sobre-seguridad-y-gestion-penitenciaria/",
+      "fecha": "Fri, 30 Oct 2026 18:00:11 +0000",
+      "categoria": "Internacional",
+      "resumen": "Fujimori anunció la construcción de una cárcel para internos de alta peligrosidad que tendrá características similares a las del Cecot, gracias a las sugerencias de Bukele."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Léster Martínez viaja a Riad para observar la pelea de Canelo vs Mbilli por el título del CMB",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/lester-martinez-viaja-a-riad-para-observar-la-pelea-de-canelo-por-el-titulo-del-cmb-breaking/",
+      "fecha": "Fri, 30 Oct 2026 17:58:53 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El campeón interino supermediano del CMB y su entrenador, Esaú Diéguez, analizarán de cerca a dos posibles rivales para el guatemalteco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones 2027: TSE investiga cambios irregulares de residencia electoral ante riesgo de conflictos en 101 municipios",
+      "link": "https://www.prensalibre.com/guatemala/politica/elecciones-2027-tse-investiga-cambios-irregulares-de-residencia-electoral-ante-riesgo-de-conflictos-en-101-municipios/",
+      "fecha": "Fri, 30 Oct 2026 17:50:06 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El magistrado Quelvin Jiménez afirmó en Prensa Libre Radio que el Tribunal revisa miles de expedientes y que varios casos ya fueron trasladados al Ministerio Público."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Tomé la decisión equivocada&#8221;, le dijo a la BBC la atleta que defecó durante una competencia de Hyrox",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/tome-la-decision-equivocada-le-dijo-a-la-bbc-la-atleta-que-defeco-durante-una-competencia-de-hyrox/",
+      "fecha": "Fri, 30 Oct 2026 17:49:35 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En su primera entrevista desde el incidente, Joanna Wietrzyk le dijo a la BBC que asume la responsabilidad, pero que no merecía una reacción tan severa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuál era la fortuna de Patrick Stewart?: el patrimonio que dejó la estrella de &#8220;X-Men&#8221; y &#8220;Star Trek&#8221; tras su muerte a los 86 años",
+      "link": "https://www.prensalibre.com/vida/escenario/cual-era-la-fortuna-de-patrick-stewart-el-patrimonio-que-dejo-la-estrella-de-x-men-y-star-trek-tras-su-muerte-a-los-86-anos/",
+      "fecha": "Fri, 30 Oct 2026 17:35:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Uno de los actores más reconocidos de Hollywood por su papel en X-Men falleció a los 86 años tras enfrentar una enfermedad neurodegenerativa. Este es el patrimonio que habría acumulado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a presunto sicario vinculado con muertes de exjuez y director de cárcel en Escuintla",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-presunto-sicario-vinculado-con-muertes-de-exjuez-y-director-de-carcel-en-escuintla/",
+      "fecha": "Fri, 30 Oct 2026 16:50:40 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El seguimiento de la Unidad de Videoforense de la PNC a los movimientos de un vehículo permitió identificar y capturar a un presunto sicario en Escuintla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Celebran 58 años construyendo hogares en Guatemala",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/celebran-58-anos-construyendo-hogares-en-guatemala/",
+      "fecha": "Fri, 30 Oct 2026 16:45:17 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Distribuidora Mariscal, empresa guatemalteca especializada en pisos, loza sanitaria y acabados de construcción, conmemora su aniversario con una trayectoria marcada por la expansión de su red de tiendas al interior del país y nuevos proyectos logísticos para atender a todo el territorio nacional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Dónde ver Canelo Álvarez vs. Christian Mbilli? Fecha, horario y transmisión en México y EE. UU.",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/donde-ver-canelo-alvarez-vs-christian-mbilli-fecha-horario-y-transmision-en-mexico-y-ee-uu/",
+      "fecha": "Fri, 30 Oct 2026 16:23:02 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "En Riad, con varias horas de diferencia respecto de América, Canelo regresa al cuadrilátero después de 13 meses de ausencia en busca de recuperar su corona."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tabla de posiciones del Torneo Apertura 2026: así quedó la Liga Nacional tras la jornada 17",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/tabla-de-posiciones-del-torneo-apertura-2026-asi-quedo-la-liga-nacional-tras-la-jornada-17/",
+      "fecha": "Fri, 30 Oct 2026 16:16:23 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Con Antigua GFC en la cima y una cerrada lucha por los últimos cupos a la fase final, el Torneo Apertura 2026 vive una etapa crucial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones en EE.UU.: cómo influye la dura política migratoria de Trump en el bastión latino republicano del sur de Florida",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/elecciones-en-ee-uu-como-influye-la-dura-politica-migratoria-de-trump-en-el-bastion-latino-republicano-del-sur-de-florida/",
+      "fecha": "Fri, 30 Oct 2026 16:02:58 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "De la mano de Donald Trump, los republicanos han ido ganando mayor representación en el sur de Florida durante los últimos 10 años. Sin embargo, la impopularidad de Trump en 2026 arroja dudas sobre la capacidad de los conservadores de mantener estos apoyos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO: la montaña pone a prueba a los favoritos; siga la cronoescalada de la Vuelta a Guatemala",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-la-montana-pone-a-prueba-a-los-favoritos-siga-la-cronoescalada-de-la-vuelta-a-guatemala/",
+      "fecha": "Fri, 30 Oct 2026 15:31:18 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La 65 Vuelta Ciclística a Guatemala 2026 vive este viernes una jornada decisiva con la disputa de la octava etapa, una cronoescalada individual de 22.6 kilómetros que pondrá a prueba a los principales aspirantes al título."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;No ha habido un solo momento desde esa noche en el que no sienta dolor&#8221;: Christa Pike en su primera declaración desde la fallida ejecución",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/no-ha-habido-un-solo-momento-desde-esa-noche-en-el-que-no-sienta-dolor-christa-pike-en-su-primera-declaracion-desde-la-fallida-ejecucion/",
+      "fecha": "Fri, 30 Oct 2026 14:56:56 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Esta es la primera declaración pública de Pike desde que sobrevivió a un intento de ejecución mediante inyección letal en septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clima en Guatemala para el 31 de octubre y 1 de noviembre: dónde hará frío y qué regiones tendrán calor",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-para-el-31-de-octubre-y-1-de-noviembre-donde-hara-frio-y-que-regiones-tendran-calor-breaking/",
+      "fecha": "Fri, 30 Oct 2026 14:56:16 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh informa qué regiones de Guatemala registrarán las temperaturas más bajas el 31 de octubre y el 1 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala apela sanción de Concacaf y revela qué pasará con el aforo ante Canadá",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-apela-sancion-y-detalla-que-pasara-con-boletos-contra-canada-breaking/",
+      "fecha": "Fri, 30 Oct 2026 14:39:52 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Fedefut busca cumplir con la restricción del estadio sin reducir las entradas disponibles para los aficionados y asumirá multa impuesta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP confirma que ejecuta allanamientos por el asesinato de Juan Francisco Solórzano Foppa",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mp-confirma-que-ejecuta-allanamientos-por-el-asesinato-de-juan-francisco-solorzano-foppa-breaking/",
+      "fecha": "Fri, 30 Oct 2026 14:14:17 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Ministerio Público afirma que  efectúa al menos 16 allanamientos en la ciudad de Guatemala como parte de la investigación del asesinato de Juan Francisco Solórzano Foppa. La mayoría de las diligencias se lleva a cabo en la zona 13."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La Catrina más alta del mundo llega al Zócalo de la Ciudad de México: ¿hasta cuándo podrá visitarla?",
+      "link": "https://www.prensalibre.com/internacional/la-catrina-mas-alta-del-mundo-llega-al-zocalo-de-la-ciudad-de-mexico-hasta-cuando-podra-visitarla/",
+      "fecha": "Fri, 30 Oct 2026 14:07:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "El acceso al público es gratuito las 24 horas, mientras que la catrina de 34 metros encabeza la Ofrenda Monumental por el Día de Muertos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Barcelona busca levantarse tras el clásico: las bajas y dudas de Hansi Flick ante el Alavés",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-busca-levantarse-tras-el-clasico-las-bajas-y-dudas-de-hansi-flick-ante-el-alaves/",
+      "fecha": "Fri, 30 Oct 2026 14:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Barcelona buscará reencontrarse con la victoria y mantener el liderato de LaLiga cuando reciba al Alavés, en un duelo marcado por las bajas defensivas y la presión de dejar atrás las recientes derrotas ante Real Madrid y PSG."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Habrá agentes del ICE en las urnas durante las elecciones de EE. UU? Esto es lo que sabemos",
+      "link": "https://www.prensalibre.com/internacional/habra-agentes-del-ice-en-las-urnas-durante-las-elecciones-de-ee-uu-esto-es-lo-que-sabemos/",
+      "fecha": "Fri, 30 Oct 2026 13:06:22 +0000",
+      "categoria": "Internacional",
+      "resumen": "La posibilidad de que el ICE esté presente en los centros de votación generó temor entre los electores ante el riesgo de que los agentes intimiden a los votantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jorge Vega se une al Spartak-Moscú y recibe la bienvenida de su nuevo equipo de gimnasia en Rusia",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/jorge-vega-se-une-al-spartak-moscu-y-recibe-la-bienvenida-de-su-nuevo-equipo-de-gimnasia-en-rusia-breaking/",
+      "fecha": "Fri, 30 Oct 2026 13:04:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El gimnasta guatemalteco debutará el 1 de noviembre en la Liga Premier de Gimnasia, con el club ruso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Turismo en Guatemala crece 26% en dos años y ahora apuesta por El Camino del Tiempo, una ruta inspirada en el Camino de Santiago de España",
+      "link": "https://www.prensalibre.com/economia/turismo-en-guatemala-crece-26-en-dos-anos-y-ahora-apuesta-por-el-camino-del-tiempo-una-ruta-inspirada-en-el-camino-de-santiago-de-espana/",
+      "fecha": "Fri, 30 Oct 2026 13:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Guatemala prepara El Camino del Tiempo, una nueva ruta turística en Quiché que combinará senderismo, espiritualidad maya, historia colonial y gastronomía. El proyecto, impulsado por el Inguat, el recorrido permitirá a los visitantes conocer el patrimonio cultural y natural de la región."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hackeo a la empresa Binance afecta US$6.300 millones en activos digitales, en el mayor robo de criptomonedas conocido (y con impacto en América Latina)",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/hackeo-a-la-empresa-binance-afecta-us6-300-millones-en-activos-digitales-en-el-mayor-robo-de-criptomonedas-conocido-y-con-impacto-en-america-latina/",
+      "fecha": "Fri, 30 Oct 2026 12:56:22 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Dos empresas de análisis han atribuido el incidente a una unidad de piratería informática norcoreana llamada TraderTraitor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a hombre que presuntamente cobraba Q4 mil por trámites municipales con documentos falsos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-hombre-que-presuntamente-cobraba-q4-mil-por-tramites-municipales-con-documentos-falsos-breaking/",
+      "fecha": "Fri, 30 Oct 2026 12:54:38 +0000",
+      "categoria": "Justicia",
+      "resumen": "Hombre capturado en la zona 6 presuntamente utilizaba documentos falsos con sellos y logotipos para efectuar trámites municipales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Ejecutivo concede asueto a los empleados públicos el lunes 2 de noviembre por el Día de Todos los Santos",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/el-ejecutivo-concede-asueto-a-los-empleados-publicos-el-lunes-2-de-noviembre-por-el-dia-de-todos-los-santos-breaking/",
+      "fecha": "Fri, 30 Oct 2026 12:14:47 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Los servidores públicos tendrán asueto con goce de salario el 2 de noviembre con motivo del Día de Todos los Santos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Películas para recordar a los seres queridos en el Día de los Difuntos: seis historias conmovedoras disponibles en streaming",
@@ -372,6 +556,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Cuál fue la posible causa del choque de trenes de alta velocidad que deja al menos 69 muertos en España",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/cual-fue-la-posible-causa-del-choque-de-trenes-de-alta-velocidad-que-deja-al-menos-69-muertos-en-espana/",
+      "fecha": "Thu, 29 Oct 2026 20:25:19 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El gobierno apunta a un \"error humano\" como causa del segundo siniestro con decenas de muertos en los trenes españoles en menos de un año."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Ultiman a tres integrantes de una familia en Coatepeque durante jornada de violencia que deja seis muertos",
       "link": "https://www.prensalibre.com/guatemala/sucesos/ultiman-a-tres-integrantes-de-una-familia-en-coatepeque-durante-jornada-de-violencia-que-deja-seis-muertos-breaking/",
       "fecha": "Thu, 29 Oct 2026 20:21:26 +0000",
@@ -609,198 +801,6 @@
       "fecha": "Thu, 29 Oct 2026 13:06:26 +0000",
       "categoria": "Sucesos",
       "resumen": "Los cuerpos de socorro informaron que una mujer falleció y cinco personas resultaron heridas en tres ataques armados registrados en distintos puntos de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Canelo Álvarez vs. Christian Mbilli: cuándo es la pelea, a qué hora y dónde ver en Guatemala",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/canelo-alvarez-vs-christian-mbilli-cuando-es-la-pelea-a-que-hora-y-donde-ver-en-guatemala/",
-      "fecha": "Thu, 29 Oct 2026 13:04:00 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "El mexicano enfrentará al campeón francés en Riad, Arabia Saudita, por el título mundial supermediano del Consejo Mundial de Boxeo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Marihuana escondida en rollos de tela: así fue el decomiso de droga en Escuintla",
-      "link": "https://www.prensalibre.com/guatemala/justicia/marihuana-escondida-en-rollos-de-tela-asi-fue-el-decomiso-de-droga-en-escuintla-breaking/",
-      "fecha": "Thu, 29 Oct 2026 12:22:31 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC decomisa más de 800 bolsas de marihuana ocultas en rollos de tela abandonados a la orilla de un camino de terracería en Escuintla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué ver en Disney Plus en noviembre del 2026: estrenos y fechas de lanzamiento",
-      "link": "https://www.prensalibre.com/vida/escenario/que-ver-en-disney-plus-en-noviembre-del-2026-estrenos-y-fechas-de-lanzamiento/",
-      "fecha": "Thu, 29 Oct 2026 12:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Disney Plus presenta sus estrenos de noviembre del 2026, con nuevas temporadas, series y episodios finales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos sismos en 40 minutos este 29 de octubre: ¿dónde se registraron los temblores de magnitud 4.1 y 4.2?",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-29-de-octubre-de-2026-en-guatemala-breaking/",
-      "fecha": "Thu, 29 Oct 2026 11:05:40 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Dos temblores se registraron durante la madrugada de este 29 de octubre, con apenas 40 minutos de diferencia. Conozca qué magnitudes alcanzaron y dónde se localizaron sus epicentros."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Salario mínimo 2027: cuánto aumentaría el monto mensual según las propuestas del Gobierno, empleadores y trabajadores",
-      "link": "https://www.prensalibre.com/economia/salario-minimo-2027-cuanto-aumentaria-el-monto-mensual-segun-las-propuestas-del-gobierno-empleadores-y-trabajadores/",
-      "fecha": "Thu, 29 Oct 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Los sectores explican las razones de sus propuestas para el salario mínimo del 2027. ¿A cuánto ascendería el sueldo mensual según cada porcentaje de incremento y quién tendrá la decisión final?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estrenos de Netflix en noviembre del 2026: series y películas para pasar del terror a la comedia",
-      "link": "https://www.prensalibre.com/vida/escenario/estrenos-de-netflix-en-noviembre-del-2026-series-y-peliculas-para-pasar-del-terror-a-la-comedia/",
-      "fecha": "Thu, 29 Oct 2026 10:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Conozca los tráilers y las sinopsis de las series y películas que llegarán a Netflix durante noviembre del 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta Ciclística a Guatemala 2026: así será el recorrido de la séptima etapa",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-ciclistica-a-guatemala-2026-asi-sera-el-recorrido-de-la-septima-etapa/",
-      "fecha": "Thu, 29 Oct 2026 10:00:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La 65 Vuelta a Guatemala 2026 entra en una fase decisiva con la séptima etapa entre La Esperanza y Piedra María Tecún, donde el líder Cristian Rico defenderá el suéter amarillo ante el ataque de sus rivales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala necesita más líneas de transmisión eléctrica, pero permisos y cobros municipales retrasan las obras",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/guatemala-necesita-mas-lineas-de-transmision-electrica-pero-permisos-y-cobros-municipales-retrasan-las-obras/",
-      "fecha": "Thu, 29 Oct 2026 10:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Los permisos municipales, los cobros y los derechos de paso retrasan la ampliación de la red de transmisión eléctrica, mientras crece la demanda de energía en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Seguridad por Halloween y el Día de Todos los Santos: estos son los lugares que tendrán mayor vigilancia de la PNC",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/seguridad-por-halloween-y-el-dia-de-todos-los-santos-estos-son-los-lugares-que-tendran-mayor-vigilancia-de-la-pnc/",
-      "fecha": "Thu, 29 Oct 2026 08:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La PNC suspenderá los descansos de sus agentes y reforzará la seguridad en cementerios, rutas de acceso y actividades de Halloween y barriletes gigantes durante el fin de semana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Plazas, salarios, becas y dietas: los cuestionamientos que rodean a la CDAG y al COG",
-      "link": "https://www.prensalibre.com/guatemala/plazas-salarios-becas-y-dietas-los-cuestionamientos-que-rodean-a-la-cdag-y-al-cog/",
-      "fecha": "Thu, 29 Oct 2026 06:13:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Familiares contratados con altos salarios, hijos de dirigentes beneficiados con becas y dietas onerosas por participación en sesiones del Conader, son algunos de los hechos cuestionados hacia la dirección de las máximas autoridades del deporte federado del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto 2027 de Q192 mil millones: sector privado cuestiona aumento de la deuda y pide cambios al Congreso",
-      "link": "https://www.prensalibre.com/economia/presupuesto-2027-de-q192-mil-millones-sector-privado-cuestiona-aumento-de-la-deuda-y-pide-cambios-al-congreso/",
-      "fecha": "Thu, 29 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La discusión del proyecto de presupuesto para el 2027, presentado por el Ejecutivo por Q192 mil millones, entrará en su fase final. Ante el incremento del monto y del endeudamiento previsto, el sector privado organizado instó al Congreso a efectuar una revisión exhaustiva de la propuesta antes de su aprobación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Reprobado",
-      "link": "https://www.prensalibre.com/opinion/caricatura/reprobado/",
-      "fecha": "Thu, 29 Oct 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "TSE llega a un semestre y debe marcar límites",
-      "link": "https://www.prensalibre.com/opinion/editorial/tse-llega-a-un-semestre-y-debe-marcar-limites/",
-      "fecha": "Thu, 29 Oct 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Hasta la fecha siguen sin resolución pública las más de 150 denuncias de campaña anticipada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Después de la Cicig, la reforma judicial",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/despues-de-la-cicig-la-reforma-judicial/",
-      "fecha": "Thu, 29 Oct 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La Cicig, como actor calificado e imparcial, lanzó una bomba en la Guatemala de la impunidad, el silencio y el miedo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Departamento de Justicia de Trump intensifica acciones contra sus adversarios antes de las elecciones en EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/departamento-de-justicia-de-trump-intensifica-acciones-contra-sus-adversarios-antes-de-las-elecciones-en-ee-uu/",
-      "fecha": "Thu, 29 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "A días de las elecciones legislativas, el Departamento de Justicia impulsa procesos contra críticos de Trump y enfrenta cuestionamientos por posibles motivaciones políticas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lula gana y Brasil paga",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/lula-gana-y-brasil-paga/",
-      "fecha": "Thu, 29 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Lula no podrá avanzar en su agenda socialista porque debe negociar con los partidos conservadores y de centro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La política: de la vocación al negocio",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-politica-de-la-vocacion-al-negocio/",
-      "fecha": "Thu, 29 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Nos formaron creyendo que había dos mundos, uno era el de los ideales, otro el de los negocios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un hilo conductor",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/un-hilo-conductor/",
-      "fecha": "Thu, 29 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Algunas coincidencias bizarras"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los arrendamientos o alquileres",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/los-arrendamientos-o-alquileres/",
-      "fecha": "Thu, 29 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La persona individual que arrenda bienes inmuebles no tiene obligación de llevar contabilidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy jueves 29 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-29-de-octubre-de-2026/",
-      "fecha": "Thu, 29 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡El guatemalteco Amarini Villatoro lo hace de nuevo! A la final de la Copa Centroamericana con Cartaginés",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-guatemalteco-amarini-villatoro-lo-hace-de-nuevo-a-la-final-de-la-copa-centroamericana-con-cartagines-breaking/",
-      "fecha": "Thu, 29 Oct 2026 04:43:16 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El técnico guatemalteco y su equipo eliminaron al Olimpia de Honduras tras empatar 2-2 en la vuelta y vencer en el marcador global 3-2."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡El clásico se pinta rojo! Municipal remonta, golea a Comunicaciones y desata la fiesta en El Trébol",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/el-clasico-se-pinta-rojo-municipal-remonta-golea-a-comunicaciones-y-desata-la-fiesta-en-el-trebol-breaking/",
-      "fecha": "Thu, 29 Oct 2026 04:08:04 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los escarlatas vinieron de atrás para vencer 3-1 a su archirrival, con un doblete del Flaco Martínez y un gol de Aubrey David."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muere Cuauhtémoc Cárdenas a los 92 años, figura histórica de la izquierda mexicana y fundador del PRD",
-      "link": "https://www.prensalibre.com/internacional/muere-cuauhtemoc-cardenas-a-los-92-anos-figura-historica-de-la-izquierda-mexicana-y-fundador-del-prd-breaking/",
-      "fecha": "Thu, 29 Oct 2026 04:03:37 +0000",
-      "categoria": "Internacional",
-      "resumen": "Cuauhtémoc Cárdenas Solórzano, figura histórica de la izquierda mexicana y fundador del PRD, falleció a los 92 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una llamada entre Bukele y el primer ministro de Haití: los detalles de la conversación",
-      "link": "https://www.prensalibre.com/internacional/una-llamada-entre-bukele-y-el-primer-ministro-de-haiti-los-detalles-de-la-conversacion-breaking/",
-      "fecha": "Thu, 29 Oct 2026 03:42:01 +0000",
-      "categoria": "Internacional",
-      "resumen": "Nayib Bukele y Alix Didier Fils-Aimé sostuvieron una llamada telefónica 10 días después de una emboscada contra militares salvadoreños en Haití."
     },
     {
       "fuente": "Guatemala.com",
