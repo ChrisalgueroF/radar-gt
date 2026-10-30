@@ -1,7 +1,143 @@
 {
-  "actualizado": "2026-10-29T23:10:47.381Z",
+  "actualizado": "2026-10-30T05:12:55.415Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Eres repugnante&#8221;: Trump arremete contra periodista que relacionó la cancelación de un mitin con su estado de salud",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/eres-repugnante-trump-arremete-contra-periodista-que-relaciono-la-cancelacion-de-un-mitin-con-su-estado-de-salud/",
+      "fecha": "Fri, 30 Oct 2026 04:11:06 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Donald Trump llamó \"repugnante\" a un periodista de Reuters que le preguntó si la cancelación de un mitin en Kansas estaba relacionada con su estado de salud."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Texas vive una ofensiva migratoria del gobierno de Trump que deja 4 mil 170 detenidos en 10 días",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/texas-vive-una-ofensiva-migratoria-del-gobierno-de-trump-que-deja-4-mil-170-detenidos-en-10-dias/",
+      "fecha": "Fri, 30 Oct 2026 03:06:38 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "El Gobierno de Donald Trump detuvo a 4 mil 170 migrantes durante un operativo de 10 días en Texas, donde agentes del ICE arrestaron a personas en situación migratoria irregular."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Antigua GFC vence a San Pedro y recupera el liderato del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/antigua-gfc-vence-a-san-pedro-y-recupera-el-liderato-del-apertura-2026-breaking/",
+      "fecha": "Fri, 30 Oct 2026 02:54:30 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El conjunto colonial venció 1-0 a San Pedro en el estadio Pensativo, llegó a 32 puntos y volvió a colocarse en la cima del Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Galardón Nacional a la Exportación 2026: Fogel es reconocida como Exportador del Año",
+      "link": "https://www.prensalibre.com/economia/galardon-nacional-a-la-exportacion-2026-fogel-es-reconocida-como-exportador-del-ano/",
+      "fecha": "Fri, 30 Oct 2026 02:46:39 +0000",
+      "categoria": "Economía",
+      "resumen": "Empresas de distintos sectores exportadores participaron en la competencia por el Galardón Nacional a la Exportación 2026, organizado por la Asociación Guatemalteca de Exportadores (Agexport), de las cuales seis fueron seleccionadas como finalistas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Magistrados del OJ aprueban bono que ellos mismos recibirán y costará unos Q24 millones",
+      "link": "https://www.prensalibre.com/guatemala/politica/magistrados-del-oj-aprueban-bono-que-ellos-mismos-recibiran-y-costara-unos-q24-millones/",
+      "fecha": "Fri, 30 Oct 2026 02:04:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Organismo Judicial desembolsará un bono extraordinario de Q2 mil a la totalidad de sus empleados y funcionarios, incluidos los magistrados de la Corte Suprema de Justicia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La gran fiesta de velocidad y entretenimiento en Los Volvanes",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-gran-fiesta-de-velocidad-y-entretenimiento-en-los-volvanes/",
+      "fecha": "Fri, 30 Oct 2026 02:02:17 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "El domingo 8 de noviembre en el Autódromo Los Volcanes, el Campeonato Nacional de Automovilismo cerrará una emocionante temporada con la final del Gran Premio UNO Lubs, a partir de las 8:30 de la mañana, además habrá una exhibición de superautos y sorteos de “hot laps” para el público asistente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Reformas a la prisión preventiva volverán al Congreso el 3 de noviembre y diputados evaluarán las objeciones del Ejecutivo",
+      "link": "https://www.prensalibre.com/guatemala/politica/reformas-a-la-prision-preventiva-volveran-al-congreso-el-3-de-noviembre-y-diputados-evaluaran-las-objeciones-del-ejecutivo/",
+      "fecha": "Fri, 30 Oct 2026 01:19:09 +0000",
+      "categoria": "Política",
+      "resumen": "El Congreso retomará el 3 de noviembre la discusión de las reformas a la prisión preventiva, tras el veto presidencial al Decreto 23-2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO: Marquense recibe a Guastatoya en el cierre de la jornada 17; siga el minuto a minuto",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-marquense-recibe-a-guastatoya-en-el-cierre-de-la-jornada-17-siga-el-minuto-a-minuto-breaking/",
+      "fecha": "Fri, 30 Oct 2026 01:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La jornada 17 del Torneo Apertura 2026 llega a su fin este jueves con el enfrentamiento entre Marquense y Guastatoya, dos equipos que necesitan sumar para fortalecer sus aspiraciones en la recta final de la fase de clasificación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO: Especial Leyendas de Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/en-vivo-especial-leyendas-de-guatemala/",
+      "fecha": "Fri, 30 Oct 2026 01:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Prensa Libre presenta una noche de misterio y tradición con las leyendas guatemaltecas narradas en directo por el cuentacuentos Víctor Paz."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Calabazas gigantes, disfraces y dulces: cómo fue el Halloween de los Trump en la Casa Blanca",
+      "link": "https://www.prensalibre.com/internacional/calabazas-gigantes-disfraces-y-dulces-como-fue-el-halloween-de-los-trump-en-la-casa-blanca/",
+      "fecha": "Fri, 30 Oct 2026 00:58:35 +0000",
+      "categoria": "Internacional",
+      "resumen": "Donald y Melania Trump celebraron Halloween en la Casa Blanca con miles de invitados, disfraces, calabazas gigantes, dulces y una decoración especial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La oposición condena a Netanyahu por acusar a Qatar de interferir en las elecciones de Israel a favor de los partidos árabes",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-oposicion-condena-a-netanyahu-por-acusar-a-qatar-de-interferir-en-las-elecciones-de-israel-a-favor-de-los-partidos-arabes/",
+      "fecha": "Fri, 30 Oct 2026 00:50:37 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El partido Likud del primer ministro denunció injerencias extranjeras y dijo que los partidos liderados por árabes \"robaron\" las elecciones después de que su coalición perdiera la mayoría."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inauguran su sexta sede en Guatemala para más de 900 posiciones",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/inauguran-su-sexta-sede-en-guatemala-para-mas-de-900-posiciones/",
+      "fecha": "Fri, 30 Oct 2026 00:47:07 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "En el Centro Comercial Miraflores, zona 11 de la Ciudad de Guatemala, TELUS Digital inauguró un nuevo centro de operaciones, esta apertura amplía la infraestructura de la compañía en el país y responde a la necesidad de contar con una sede más cercana para una parte importante de su equipo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bukele asegura que no busca invadir Haití: ¿cuál es el verdadero objetivo de la operación militar?",
+      "link": "https://www.prensalibre.com/internacional/bukele-asegura-que-no-busca-invadir-haiti-cual-es-el-verdadero-objetivo-de-la-operacion-militar/",
+      "fecha": "Fri, 30 Oct 2026 00:39:21 +0000",
+      "categoria": "Internacional",
+      "resumen": "Bukele explicó por qué El Salvador desplegó más de 2 mil soldados en Haití y cuál es el propósito de la operación tras la desaparición de cuatro militares."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Suministros &#038; Alimentos inauguró Centro de Distribución en Villa Nueva",
+      "link": "https://www.guatemala.com/noticias/sociedad/inauguran-complejo-industrial-centro-de-distribucion-suministros-alimentos-villa-nueva.html",
+      "fecha": "Fri, 30 Oct 2026 00:27:14 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Alimentos &#038; Suministros inauguró la primera fase de su nuevo Complejo Industrial en Villa Nueva, que combina tecnología, eficiencia y sostenibilidad.\nThe post Suministros & Alimentos inauguró Centro de Distribución en Villa Nueva appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO: Antigua GFC busca recuperar el liderato ante San Pedro; siga el minuto a minuto",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-antigua-gfc-busca-recuperar-el-liderato-ante-san-pedro-siga-el-minuto-a-minuto/",
+      "fecha": "Fri, 30 Oct 2026 00:07:57 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Antigua GFC busca reencontrarse con el triunfo esta noche cuando enfrente a San Pedro en el estadio Pensativo, en un duelo clave para sus aspiraciones de seguir en la lucha por el liderato del Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Los juegos del hambre&#8221; regresan: Jennifer Lawrence, Josh Hutcherson y Woody Harrelson retomarán sus papeles en la nueva película",
+      "link": "https://www.prensalibre.com/vida/escenario/los-juegos-del-hambre-regresan-jennifer-lawrence-josh-hutcherson-y-woody-harrelson-retomaran-sus-papeles-en-la-nueva-pelicula/",
+      "fecha": "Fri, 30 Oct 2026 00:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Actores del elenco original volverán a interpretar a sus personajes en la nueva entrega de “Los juegos del hambre: Amanecer en la cosecha”."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MetroRiel requeriría una inversión de hasta US$1 mil millones",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/metroriel-requeriria-una-inversion-de-hasta-us1-mil-millones/",
+      "fecha": "Thu, 29 Oct 2026 23:45:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Las autoridades prevén que las obras del MetroRiel, que busca mejorar el transporte de pasajeros en el área metropolitana, comiencen en el 2027, aunque todavía deben concretarse aspectos técnicos y financieros."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Valentín Elizalde tendrá un documental en HBO Max: fecha de estreno y detalles de la producción que llega a 20 años de su muerte",
@@ -667,140 +803,12 @@
       "resumen": "Una operación conjunta entre la Policía de Colombia y el FBI permitió capturar a dos mexicanos señalados de vincular al Clan del Golfo con el CJNG."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO: Malacateco vs. Aurora FC; siga el partido de la jornada 17 del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-malacateco-vs-aurora-fc-siga-el-partido-de-la-jornada-17-del-apertura-2026/",
-      "fecha": "Wed, 28 Oct 2026 23:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La jornada 17 del Torneo Apertura 2026 continúa este miércoles en el estadio Santa Lucía, donde Malacateco recibirá a Aurora FC."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cobán Imperial vence 2-1 a Suchitepéquez con diez jugadores en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/coban-imperial-vence-2-1-a-suchitepequez-con-diez-jugadores-en-el-apertura-2026/",
-      "fecha": "Wed, 28 Oct 2026 22:59:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Cobán Imperial mostró carácter y se impuso 2-1 a Suchitepéquez en el estadio José Ángel Rossi, pese a jugar toda la segunda mitad con diez futbolistas."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Bancos de Guatemala tendrán asueto el 2 de noviembre 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/bancos-guatemala-cerraran-2-noviembre-2026-asueto-dia-de-todos-los-santos.html",
       "fecha": "Wed, 28 Oct 2026 22:57:54 +0000",
       "categoria": "Comunidad",
       "resumen": "Bancos del país trasladarán el asueto del Día de Todos los Santos al lunes 2 de noviembre de 2026, por lo que pausarán sus labores durante el día. \nThe post Bancos de Guatemala tendrán asueto el 2 de noviembre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quiénes son Erick Osoy y Selvin Solano, los nuevos mandos de la PNC tras la destitución de Boteo y Quiché?",
-      "link": "https://www.prensalibre.com/guatemala/justicia/quienes-son-erick-osoy-y-selvin-solano-los-nuevos-mandos-de-la-pnc-tras-la-destitucion-de-boteo-y-quiche/",
-      "fecha": "Wed, 28 Oct 2026 22:30:46 +0000",
-      "categoria": "Guatemala",
-      "resumen": "¿Qué se conoce de los nuevos jefes de la PNC y de sus trayectorias dentro de la institución?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Choque de trenes en España deja 68 muertos: Qué se sabe del accidente y sus posibles causas",
-      "link": "https://www.prensalibre.com/internacional/choque-de-trenes-en-espana-deja-68-muertos-que-se-sabe-del-accidente-y-sus-posibles-causas/",
-      "fecha": "Wed, 28 Oct 2026 22:14:25 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente español, Pedro Sánchez, aseguró desde el lugar del siniestro que se va \"a llegar hasta el final\" para conocer las causas del accidente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los pasajeros de un crucero de lujo quedan varados en Camboya por el aumento del precio del combustible",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/los-pasajeros-de-un-crucero-de-lujo-quedan-varados-en-camboya-por-el-aumento-del-precio-del-combustible/",
-      "fecha": "Wed, 28 Oct 2026 22:09:35 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El crucero Villa Vie Odyssey suspendió su viaje y está en contacto con los pasajeros para gestionar el desembarque y encontrarles \"alojamiento temporal\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala Salsa Congress 2026: talleres, competencias y shows de salsa y bachata",
-      "link": "https://www.prensalibre.com/vida/escenario/guatemala-salsa-congress-2026-talleres-competencias-y-shows-de-salsa-y-bachata/",
-      "fecha": "Wed, 28 Oct 2026 22:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El evento reunirá a bailarines nacionales e internacionales durante cinco días de talleres, competencias, espectáculos y fiestas al ritmo de la salsa y la bachata."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Siempre a la vanguardia de la moda y del gusto de los guatemaltecos",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/siempre-a-la-vanguardia-de-la-moda-y-del-gusto-de-los-guatemaltecos/",
-      "fecha": "Wed, 28 Oct 2026 21:49:41 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "En el mundo de la belleza, hay una marca que conecta con un público emancipado, sofisticado y consciente, fundado en 1993 de la singular visión de Miuccia Prada, Miu Miu; y ahora Perfumerías Fetiche trae todo su universo a Guatemala con el lanzamiento de su nueva fragancia Miutine."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "TSE presenta mesa interinstitucional para coordinar la seguridad de las elecciones de 2027",
-      "link": "https://www.prensalibre.com/guatemala/tse-presenta-mesa-interinstitucional-para-coordinar-la-seguridad-de-las-elecciones-de-2027/",
-      "fecha": "Wed, 28 Oct 2026 21:02:23 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El TSE presentó la Mesa Interinstitucional de Seguridad Electoral para coordinar acciones de prevención y respuesta ante posibles riesgos durante las elecciones generales de 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Sentimos un impacto muy fuerte y salimos despedidos por los aires&#8221;: los sobrevivientes relatan el choque de trenes en España que deja al menos 68 muertos",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/sentimos-un-impacto-muy-fuerte-y-salimos-despedidos-por-los-aires-los-sobrevivientes-relatan-el-choque-de-trenes-en-espana-que-deja-al-menos-68-muertos/",
-      "fecha": "Wed, 28 Oct 2026 20:32:05 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La conmoción, el dolor, la solidaridad y la indignación se extienden entre los pasajeros de los trenes de la tragedia ferroviaria en España."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "San Jerónimo se convierte en el quinto Municipio Digital",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/san-jeronimo-se-convierte-en-el-quinto-municipio-digital/",
-      "fecha": "Wed, 28 Oct 2026 20:21:22 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Gracias a una alianza que ha transformado muchos rincones del país entre la Iglesia de Jesucristo de los Santos de los Últimos Días y la Fundación Sergio Paiz Andrade (Funsepa), San Jerónimo, Baja Verapaz, se convierte en el Municipio Digital número 22 de Guatemala y el quinto impulsado por la alianza."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La confianza en la marca los lleva a disfrutar de la mejor movilidad",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-confianza-en-la-marca-los-lleva-a-disfrutar-de-la-mejor-movilidad/",
-      "fecha": "Wed, 28 Oct 2026 20:08:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Sikamotors cierra con broche de oro su participación en el AutoShow 2026 y agradece la preferencia del público guatemalteco con el sorteo y entrega de dos vehículos cero kilómetros, el SUV Suzuki Fronx y el elegante sedán Changan V3."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MP confirma liberación de fiscales y agentes de la PNC retenidos por pobladores en Quiché",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/pobladores-retienen-a-fiscales-del-mp-y-agentes-de-la-pnc-en-quiche-y-exigen-liberar-a-dos-capturados-breaking/",
-      "fecha": "Wed, 28 Oct 2026 20:08:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El MP confirmó la liberación de fiscales y policías en Chichicastenango, Quiché. Reportes preliminares señalan que pobladores exigían liberar a dos capturados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO: Cobán Imperial recibe a Suchitepéquez en la jornada 17; siga aquí el minuto a minuto",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-coban-imperial-recibe-a-suchitepequez-en-la-jornada-17-siga-aqui-el-minuto-a-minuto/",
-      "fecha": "Wed, 28 Oct 2026 20:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La jornada 17 del Torneo Apertura 2026 se pone en marcha este miércoles con un atractivo duelo en el estadio José Ángel Rossi, donde Cobán Imperial recibe a Suchitepéquez."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Teatro gratis en Chiquimula: 22 puestas en escena durante nueve días en noviembre del 2026",
-      "link": "https://www.prensalibre.com/vida/escenario/teatro-gratis-en-chiquimula-22-puestas-en-escena-durante-nueve-dias-en-noviembre-del-2026/",
-      "fecha": "Wed, 28 Oct 2026 20:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Artistas de 18 departamentos llenarán de arte Chiquimula con más de 20 propuestas teatrales para reír, llorar y reflexionar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Entre hilos, arte e imaginación, una gran historia cobra vida.",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/entre-hilos-arte-e-imaginacion-una-gran-historia-cobra-vida/",
-      "fecha": "Wed, 28 Oct 2026 19:33:10 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Por primera vez en Guatemala se presenta una obra de teatro para marionetas (títeres de hilos) basada en el libro El Principito, de Antoine de Saint-Exupéry, en el Teatro de Cámara de Hotel Casa Santo Domingo. En una versión que apoya la teoría de cómo el escritor francés pudo haberse inspirado en los paisajes del lago de Atitlán y La Antigua Guatemala para escribir su libro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Guatemala será una prueba de fuego hostil”: ¿Qué dice la prensa de Canadá sobre la Bicolor?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-sera-una-prueba-de-fuego-hostil-que-dice-la-prensa-de-canada-sobre-la-bicolor/",
-      "fecha": "Wed, 28 Oct 2026 19:27:24 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los medios deportivos de Canadá enfatizan que el partido en Guatemala será \"una prueba de fuego sumamente hostil y complicada para la escuadra canadiense\"."
     },
     {
       "fuente": "Guatemala.com",
@@ -865,14 +873,6 @@
       "fecha": "Mon, 26 Oct 2026 18:38:55 +0000",
       "categoria": "Sociedad",
       "resumen": "El Conservatorio Nacional de Música «Germán Alcántara» realizará sus exámenes de admisión para personas de 7 a 25 años en octubre y noviembre 2026. \nThe post Exámenes de admisión 2027 al Conservatorio Nacional de Música «Germán Alcántara» appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Mario Cordero Ávila gana el Premio Elena Poniatowska 2026 con su obra «Fiebre de frontera»",
-      "link": "https://www.guatemala.com/noticias/cultura/mario-cordero-avila.html",
-      "fecha": "Mon, 26 Oct 2026 18:21:09 +0000",
-      "categoria": "Cultura",
-      "resumen": "Mario Cordero Ávila gana el Premio Elena Poniatowska 2026 con Fiebre de frontera, novela sobre migración, entre más de 700 obras participantes. \nThe post Mario Cordero Ávila gana el Premio Elena Poniatowska 2026 con su obra «Fiebre de frontera» appeared first on Guatemala.com."
     }
   ]
 }
