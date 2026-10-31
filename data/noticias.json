@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-10-31T19:49:58.887Z",
+  "actualizado": "2026-10-31T23:14:54.039Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Canelo vence a Mbilli por decisión unánime; Léster Martínez más cerca que nunca",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/canelo-vence-a-mbilli-por-decision-unanime-lester-martinez-mas-cerca-que-nunca-breaking/",
+      "fecha": "Sat, 31 Oct 2026 22:57:00 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "Canelo recuperó el título supermediano del CMB en Riad al vencer por decisión unánime al invicto Mbilli en su regreso al ring, ante la presencia del guatemalteco Léster Martínez, que ahora ve más cerca la pelea que sueña."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Festival de las Flores 2026 en Antigua Guatemala: Las Flores Trail Run, desfile de carros y actividades imperdibles para noviembre",
+      "link": "https://www.prensalibre.com/vida/escenario/festival-de-las-flores-2026-en-antigua-guatemala-las-flores-trail-run-desfile-de-carros-y-actividades-imperdibles-para-noviembre/",
+      "fecha": "Sat, 31 Oct 2026 22:40:08 +0000",
+      "categoria": "Escenario",
+      "resumen": "Durante el Mes de las Flores, Antigua Guatemala contará con diversas actividades como antesala del décimo Festival de las Flores. Conozca el calendario de eventos y las fechas para disfrutar de esta celebración."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Barcelona golea 6-1 al Alavés y responde a su semana negra con dobletes de Raphinha y Yamal",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-golea-6-1-al-alaves-y-responde-a-su-semana-negra-con-dobletes-de-raphinha-y-yamal-breaking/",
+      "fecha": "Sat, 31 Oct 2026 22:01:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Barcelona se reencontró con la victoria en el Camp Nou, liderada por  Raphinha y Yamal, y recuperó el liderato de LaLiga tras sus caídas ante el PSG y el Real Madrid."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Yo no pinto gordas&#8221;: qué hay detrás del estilo único del célebre artista colombiano Fernando Botero",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/yo-no-pinto-gordas-que-hay-detras-del-estilo-unico-del-celebre-artista-colombiano-fernando-botero/",
+      "fecha": "Sat, 31 Oct 2026 21:51:11 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las alegres pinturas del artista colombiano Fernando Botero reinterpretan algunas de las obras más icónicas y célebres de la historia del arte europeo. ¿Qué revela su singular visión sobre la historia del arte y el lugar que ocupa América Latina en ella?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Festival de Barriletes Gigantes de Fraijanes: tradición, arte, personajes de leyendas y gastronomía se reúnen en el municipio",
+      "link": "https://www.prensalibre.com/vida/escenario/festival-de-barriletes-gigantes-de-fraijanes-tradicion-arte-personajes-de-leyendas-y-gastronomia-se-reunen-en-el-municipio/",
+      "fecha": "Sat, 31 Oct 2026 21:13:56 +0000",
+      "categoria": "Escenario",
+      "resumen": "Entre la tradición de los barriletes gigantes y la gastronomía típica, como el fiambre, Fraijanes celebra su Festival de Barriletes Gigantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jugadores de Municipal sorprenden con sus disfraces de Halloween",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/jugadores-de-municipal-sorprenden-con-sus-disfraces-de-halloween-breaking/",
+      "fecha": "Sat, 31 Oct 2026 19:52:50 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los rojos de Municipal cambiaron el uniforme por disfraces y le dieron un toque terrorífico a su entrenamiento de este sábado 31 de octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Familia de Melisa Palacios pide investigar transmisión de Bonilla desde prisión durante fiesta de 15 años",
+      "link": "https://www.prensalibre.com/guatemala/justicia/familia-de-melisa-palacios-pide-investigar-transmision-de-bonilla-desde-prision-durante-fiesta-de-15-anos/",
+      "fecha": "Sat, 31 Oct 2026 19:38:07 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La familia pide investigar la salida de María Fernanda Bonilla a un centro médico y una transmisión que habría hecho en prisión, en la que interactuó con una persona que estuvo en una fiesta de quince años en Chiquimula."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; Barcelona vs. Alavés: siga el minuto a minuto de la jornada 11 de LaLiga",
@@ -9,6 +65,14 @@
       "fecha": "Sat, 31 Oct 2026 19:15:00 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Los azulgranas buscan reponerse de su derrota en el Clásico y recuperar el liderato que el Atlético de Madrid tomó momentáneamente esta mañana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Barriletes de papel de china: guía paso a paso para elaborar uno en casa y su simbolismo en esta época",
+      "link": "https://www.prensalibre.com/vida/escenario/barriletes-de-papel-de-china-guia-paso-a-paso-para-elaborar-uno-en-casa-y-su-simbolismo-en-esta-epoca/",
+      "fecha": "Sat, 31 Oct 2026 19:08:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con papel de china de colores y materiales sencillos, puede elaborar un barrilete casero ideal para volar y disfrutar en familia. Conozca los pasos para crear uno y compartir una actividad llena de tradición."
     },
     {
       "fuente": "Prensa Libre",
@@ -753,70 +817,6 @@
       "fecha": "Fri, 30 Oct 2026 12:54:38 +0000",
       "categoria": "Justicia",
       "resumen": "Hombre capturado en la zona 6 presuntamente utilizaba documentos falsos con sellos y logotipos para efectuar trámites municipales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Ejecutivo concede asueto a los empleados públicos el lunes 2 de noviembre por el Día de Todos los Santos",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/el-ejecutivo-concede-asueto-a-los-empleados-publicos-el-lunes-2-de-noviembre-por-el-dia-de-todos-los-santos-breaking/",
-      "fecha": "Fri, 30 Oct 2026 12:14:47 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los servidores públicos tendrán asueto con goce de salario el 2 de noviembre con motivo del Día de Todos los Santos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Películas para recordar a los seres queridos en el Día de los Difuntos: seis historias conmovedoras disponibles en streaming",
-      "link": "https://www.prensalibre.com/vida/escenario/peliculas-para-recordar-a-los-seres-queridos-en-el-dia-de-los-difuntos-seis-historias-conmovedoras-disponibles-en-streaming/",
-      "fecha": "Fri, 30 Oct 2026 12:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Estas películas disponibles en las plataformas de streaming invitan a recordar a los seres queridos que han fallecido y a reflexionar sobre el amor, la pérdida y la memoria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "AeroMetro en imágenes: así lucirán sus estaciones y el complejo central de El Trébol",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/aerometro-en-imagenes-asi-luciran-sus-estaciones-y-el-complejo-central-de-el-trebol/",
-      "fecha": "Fri, 30 Oct 2026 12:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Las imágenes digitales revelan la propuesta arquitectónica y diseño final de las primeras cuatro estaciones de la Línea 1, sus accesos peatonales y la interconexión con el Transmetro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos temblores durante la madrugada de este 30 de octubre: uno frente a El Salvador y otro en Santa Rosa, Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-30-de-octubre-de-2026-en-guatemala-breaking/",
-      "fecha": "Fri, 30 Oct 2026 11:04:13 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La madrugada de este viernes 30 de octubre estuvo marcada por dos movimientos sísmicos en la región. El Insivumeh informó sobre los epicentros, las magnitudes y la profundidad de ambos temblores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Halloween 2026: las películas de terror mejor valoradas en Netflix y otras plataformas de streaming",
-      "link": "https://www.prensalibre.com/vida/escenario/halloween-2026-las-peliculas-de-terror-mejor-valoradas-en-netflix-y-otras-plataformas-de-streaming/",
-      "fecha": "Fri, 30 Oct 2026 11:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Si todavía no tiene planes para Halloween, estas películas le garantizarán una jornada de terror sin salir de casa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Desnutrición aguda causa la muerte de un niño por semana en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/desnutricion-aguda-causa-la-muerte-de-un-nino-por-semana-en-guatemala/",
-      "fecha": "Fri, 30 Oct 2026 10:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El reporte del Ministerio de Salud indica que hasta el 17 de octubre último han fallecido 42 niños menores de cinco años por desnutrición aguda."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala 2026: así será el exigente recorrido de la octava etapa",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-asi-sera-el-exigente-recorrido-de-la-octava-etapa/",
-      "fecha": "Fri, 30 Oct 2026 10:00:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La 65 Vuelta Ciclística a Guatemala 2026 afronta este viernes una etapa clave con una exigente cronoescalada hacia Pamezabal, donde Cristian Rico defenderá el liderato ante el acecho de los corredores nacionales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sabores de noviembre: cuánto cuesta el pan de muerto en Guatemala, cómo se prepara y qué significa esta tradición mexicana",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/sabores-de-noviembre-cuanto-cuesta-el-pan-de-muerto-en-guatemala-como-se-prepara-y-que-significa-esta-tradicion-mexicana/",
-      "fecha": "Fri, 30 Oct 2026 08:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Con aromas de naranja, canela y jengibre, el pan de muerto gana espacio entre los sabores de noviembre en Guatemala. Conozca cómo se elabora, qué simboliza y cuánto cuesta esta tradición de origen mexicano."
     },
     {
       "fuente": "Guatemala.com",
