@@ -1,10 +1,138 @@
 {
-  "actualizado": "2026-10-30T22:52:52.427Z",
+  "actualizado": "2026-10-31T02:10:23.282Z",
   "total": 109,
   "noticias": [
     {
       "fuente": "Prensa Libre",
-      "titulo": "Nuevo formulario para viajar a Estados Unidos: tres puntos clave sobre su vigencia, presentación física o digital y qué pasa si no lo lleva",
+      "titulo": "Investigan muerte de menor por heridas de bala en Ciudad Peronia y capturan a cuatro personas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/investigan-muerte-de-menor-por-heridas-de-bala-en-ciudad-peronia-y-capturan-a-cuatro-personas-breaking/",
+      "fecha": "Sat, 31 Oct 2026 02:03:01 +0000",
+      "categoria": "Justicia",
+      "resumen": "Cuatro personas fueron capturadas durante ocho allanamientos en Ciudad Peronia, Villa Nueva, y la zona 11 capitalina, como parte de una investigación por la muerte de un menor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Condenan en EE. UU. al Rey del Mar, señalado como cabecilla de una red de narcotráfico vinculada al esposo de la alcaldesa de Zacapa",
+      "link": "https://www.prensalibre.com/guatemala/justicia/condenan-en-ee-uu-al-rey-del-mar-senalado-como-cabecilla-de-una-red-de-narcotrafico-vinculada-al-esposo-de-la-alcaldesa-de-zacapa/",
+      "fecha": "Sat, 31 Oct 2026 02:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Rey del Mar coordinaba el traslado de cocaína por el océano Pacífico, desde Sudamérica hacia Guatemala y México, para enviarla después a Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fusiles de asalto, municiones y droga: PNC descubre presunto reducto de estructuras criminales en Ciudad Peronia",
+      "link": "https://www.prensalibre.com/guatemala/justicia/fusiles-de-asalto-municiones-y-droga-pnc-descubre-presunto-reducto-de-estructuras-criminales-en-ciudad-peronia-breaking/",
+      "fecha": "Sat, 31 Oct 2026 01:32:16 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC localizó cuatro fusiles de asalto AK-47, más de 100 municiones y droga en una vivienda de Ciudad Peronia, que presuntamente era utilizada por estructuras criminales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Sanar no es lo mismo que estar bien&#8221;: Christa Pike habla por primera vez tras sobrevivir a la inyección letal",
+      "link": "https://www.prensalibre.com/internacional/sanar-no-es-lo-mismo-que-estar-bien-christa-pike-habla-por-primera-vez-tras-sobrevivir-a-la-inyeccion-letal/",
+      "fecha": "Sat, 31 Oct 2026 01:14:06 +0000",
+      "categoria": "Internacional",
+      "resumen": "A un mes de sobrevivir a una inyección letal, Christa Pike rompió el silencio y detalló los dolores físicos y emocionales que padece."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ian McKellen dedica emotivas palabras a Patrick Stewart tras su fallecimiento: era alguien en “quien confiar, admirar y, en mi caso, amar”",
+      "link": "https://www.prensalibre.com/vida/escenario/ian-mckellen-dedica-emotivas-palabras-a-patrick-stewart-tras-su-fallecimiento-era-alguien-en-quien-confiar-admirar-y-en-mi-caso-amar/",
+      "fecha": "Sat, 31 Oct 2026 01:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Tras una larga amistad y proyectos en los que compartieron escenario, Ian McKellen, recordado por interpretar a Magneto, dedicó un emotivo mensaje de despedida a Patrick Stewart."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El beat como homenaje a la creatividad en todas sus formas",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/el-beat-como-homenaje-a-la-creatividad-en-todas-sus-formas/",
+      "fecha": "Sat, 31 Oct 2026 00:37:31 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Este mes Perfumerías Fetiche nos transporta al universo The Creative Collection, de HALLOWEEN Perfumes, una línea de fragancias que celebra la magia interior, la buena vibra y el beat donde cada aroma se convierte en un lienzo invisible, una expresión artística que revela tu esencia más auténtica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué fue el experimento Stanford y por qué causa polémica que Netflix haga un &#8220;reality&#8221; carcelario basado en él",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-fue-el-experimento-stanford-y-por-que-causa-polemica-que-netflix-haga-un-reality-carcelario-basado-en-el/",
+      "fecha": "Sat, 31 Oct 2026 00:22:03 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El servicio de streaming ha convertido el controvertido estudio de 1971 del psicólogo estadounidense Philip Zimbardo en una serie de telerrealidad de seis episodios, reavivando un antiguo debate y suscitando nuevas preguntas sobre la frontera entre la ciencia y el entretenimiento."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Servicios Empresariales de INTECAP: asesorías para pequeños empresarios y emprendedores en Guatemala",
+      "link": "https://www.guatemala.com/noticias/sociedad/servicios-empresariales-intecap-pequenos-empresarios-emprendedores.html",
+      "fecha": "Sat, 31 Oct 2026 00:09:08 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Conoce los Servicios Empresariales de INTECAP para pequeños empresarios y emprendedores en Guatemala, con asesorías técnicas, capacitación y más.\nThe post Servicios Empresariales de INTECAP: asesorías para pequeños empresarios y emprendedores en Guatemala appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Habrá asueto el 2 de noviembre en Guatemala?: quiénes podrán disfrutar del descanso y del puente por el Día de Todos los Santos",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/habra-asueto-el-2-de-noviembre-en-guatemala-quienes-podran-disfrutar-del-descanso-y-del-puente-por-el-dia-de-todos-los-santos/",
+      "fecha": "Fri, 30 Oct 2026 23:53:51 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Entre fiambre, barriletes gigantes y visitas a los diversos cementerios del país, los guatemaltecos vivirán este 1 de noviembre una jornada de tradición, pero ¿quiénes podrán disfrutar del puente por el asueto?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Halloween y Día de Todos los Santos: 689 capturas en el 2025 y los delitos por los que podrían detenerlo durante las celebraciones",
+      "link": "https://www.prensalibre.com/guatemala/justicia/halloween-y-dia-de-todos-los-santos-689-capturas-en-el-2025-y-los-delitos-por-los-que-podrian-detenerlo-durante-las-celebraciones/",
+      "fecha": "Fri, 30 Oct 2026 23:53:35 +0000",
+      "categoria": "Justicia",
+      "resumen": "Halloween y el Día de Todos los Santos reúnen a miles de personas en fiestas y cementerios, pero algunas conductas pueden terminar en una detención. La PNC revela antecedentes del 2025 y advierte sobre los riesgos de este año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. tilda de &#8220;narcoquinceañera&#8221; fiesta de hija de alcaldesa de Zacapa y señala a su cuñado, &#8220;Haroldito&#8221;, por narcotráfico",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ee-uu-tilda-de-narcoquinceanera-fiesta-de-hija-de-alcaldesa-de-zacapa-y-senala-a-su-cunado-haroldito-por-narcotrafico-breaking/",
+      "fecha": "Fri, 30 Oct 2026 23:38:39 +0000",
+      "categoria": "Justicia",
+      "resumen": "EE. UU. calificó de \"narcoquinceañera\" la celebración de 15 años de la hija de Xiomara Ovalle, alcaldesa de Zacapa, y recordó que su cuñado, Haroldo Lorenzana , “Haroldito”, es requerido por la justicia estadounidense por narcotráfico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Inés Gómez Mont y por qué la justicia mexicana la buscaba desde hace años?",
+      "link": "https://www.prensalibre.com/internacional/quien-es-ines-gomez-mont-y-por-que-la-justicia-mexicana-la-buscaba-desde-hace-anos/",
+      "fecha": "Fri, 30 Oct 2026 23:33:56 +0000",
+      "categoria": "Internacional",
+      "resumen": "Inés Gómez Mont fue detenida en Miami. La exconductora de TV enfrenta acusaciones en México, mientras las autoridades avanzan en los trámites para su extradición."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Razones por las que somos la Ciudad de la Buena Gente",
+      "link": "https://www.guatemala.com/noticias/sociedad/razones-por-las-que-somos-ciudad-buena-gente.html",
+      "fecha": "Fri, 30 Oct 2026 23:14:37 +0000",
+      "categoria": "Sociedad",
+      "resumen": "La Ciudad de Guatemala está llena de Buena Gente que, con pequeñas acciones, llenan de alegría y calidez la vida de vecinos y visitantes. \nThe post Razones por las que somos la Ciudad de la Buena Gente appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Militares salvadoreños desaparecidos en Haití: qué se sabe del operativo con helicópteros y vehículos blindados ordenado por Bukele",
+      "link": "https://www.prensalibre.com/internacional/militares-salvadorenos-desaparecidos-en-haiti-que-se-sabe-del-operativo-con-helicopteros-y-vehiculos-blindados-ordenado-por-bukele/",
+      "fecha": "Fri, 30 Oct 2026 23:09:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "Nayib Bukele ordenó enviar helicópteros y vehículos blindados a Haití para buscar a cuatro militares salvadoreños desaparecidos tras una emboscada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Rodada del Terror” bajo advertencia policial: PNC anuncia operativos y posibles capturas en Halloween",
+      "link": "https://www.prensalibre.com/guatemala/rodada-del-terror-bajo-advertencia-policial-pnc-anuncia-operativos-y-posibles-capturas-en-halloween-breaking/",
+      "fecha": "Fri, 30 Oct 2026 22:59:24 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La PNC va tras participantes de la “Rodada del Terror” por Halloween y advierte de operativos en todo el país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Barrilete de Miguel Ángel Asturias en Sumpango: dónde se exhibirá, horarios y cuándo regresará a Guatemala el Nobel de Literatura",
+      "link": "https://www.prensalibre.com/vida/escenario/barrilete-de-miguel-angel-asturias-en-sumpango-donde-se-exhibira-horarios-y-cuando-regresara-a-guatemala-el-nobel-de-literatura/",
+      "fecha": "Fri, 30 Oct 2026 22:40:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El escritor guatemalteco Miguel Ángel Asturias será homenajeado durante el Festival de Barriletes Gigantes, en el marco del Día de Todos los Santos. Conozca los detalles del tributo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nuevo formulario para ingresar a Estados Unidos: tres puntos clave sobre su vigencia, presentación física o digital y qué pasa si no lo lleva",
       "link": "https://www.prensalibre.com/guatemala/comunitario/nuevo-formulario-para-viajar-a-estados-unidos-tres-puntos-clave-sobre-su-vigencia-presentacion-fisica-o-digital-y-que-pasa-si-no-lo-lleva/",
       "fecha": "Fri, 30 Oct 2026 22:18:58 +0000",
       "categoria": "Comunitario",
@@ -25,6 +153,14 @@
       "fecha": "Fri, 30 Oct 2026 21:58:57 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Aunque su principal mercado es Brasil, en Argentina y Venezuela la plataforma se ha convertido en un refugio de estabilidad en medio del cambiante panorama económico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Anuncian cierres y operativos en el Periférico por Halloween, Día de Todos los Santos y la Vuelta Ciclística",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/anuncian-cierres-y-operativos-en-el-periferico-por-halloween-dia-de-todos-los-santos-y-la-vuelta-ciclistica/",
+      "fecha": "Fri, 30 Oct 2026 21:34:12 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Los controles de alcoholemia comenzarán este viernes 30 de octubre, mientras que el domingo 1 de noviembre habrá restricciones de circulación por la Vuelta Ciclística y operativos en los cementerios de la capital."
     },
     {
       "fuente": "Prensa Libre",
@@ -256,7 +392,7 @@
       "link": "https://www.prensalibre.com/guatemala/justicia/mp-confirma-que-ejecuta-allanamientos-por-el-asesinato-de-juan-francisco-solorzano-foppa-breaking/",
       "fecha": "Fri, 30 Oct 2026 14:14:17 +0000",
       "categoria": "Justicia",
-      "resumen": "El Ministerio Público afirma que  efectúa al menos 16 allanamientos en la ciudad de Guatemala como parte de la investigación del asesinato de Juan Francisco Solórzano Foppa. La mayoría de las diligencias se lleva a cabo en la zona 13."
+      "resumen": "El Ministerio Público afirma que efectúa al menos 16 allanamientos en la ciudad de Guatemala como parte de la investigación del asesinato de Juan Francisco Solórzano Foppa. La mayoría de las diligencias se lleva a cabo en la zona 13."
     },
     {
       "fuente": "Prensa Libre",
@@ -691,126 +827,6 @@
       "resumen": "El presidente del gobierno español, Pedro Sánchez, se declaró \"conmocionado\" por el grave accidente ferroviario y dijo estar en contacto permanente con el ministro de Transportes."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuál fue la posible causa del choque de trenes de alta velocidad que deja al menos 69 muertos en España",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/cual-fue-la-posible-causa-del-choque-de-trenes-de-alta-velocidad-que-deja-al-menos-69-muertos-en-espana/",
-      "fecha": "Thu, 29 Oct 2026 20:25:19 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El gobierno apunta a un \"error humano\" como causa del segundo siniestro con decenas de muertos en los trenes españoles en menos de un año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ultiman a tres integrantes de una familia en Coatepeque durante jornada de violencia que deja seis muertos",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ultiman-a-tres-integrantes-de-una-familia-en-coatepeque-durante-jornada-de-violencia-que-deja-seis-muertos-breaking/",
-      "fecha": "Thu, 29 Oct 2026 20:21:26 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Una pareja y el hijo de la mujer fueron atacados a balazos en una vivienda en Coatepeque, Quetzaltenango. Otros hechos armados se registraron en Mixco, Villa Nueva, la capital y Chimaltenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De la experimentación con IA a la transformación empresarial",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/de-la-experimentacion-con-ia-a-la-transformacion-empresarial/",
-      "fecha": "Thu, 29 Oct 2026 20:19:24 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "La inteligencia artificial (IA) comienza a tomar protagonismo como pasar de experimentar con IA a incorporarla de manera estratégica, segura y escalable para generar resultados reales en las organizaciones. Este fue el eje central del Microsoft Experience Day 2026, organizado por la Asociación de Gerentes de Guatemala (AGG), con el patrocinio de Microsoft y la participación de empresas de tecnología, que presentan soluciones vinculadas con los temas abordados durante la jornada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Patrick Stewart, actor de Star Trek y Marvel, muere a los 86 años: su familia revela las causas de su muerte y cómo vivió sus últimos momentos",
-      "link": "https://www.prensalibre.com/vida/escenario/patrick-stewart-actor-de-star-trek-y-marvel-muere-a-los-86-anos-su-familia-revela-las-causas-de-su-muerte-y-como-vivio-sus-ultimos-momentos/",
-      "fecha": "Thu, 29 Oct 2026 20:11:47 +0000",
-      "categoria": "Escenario",
-      "resumen": "Recordado por interpretar al capitán Jean-Luc Picard y al profesor Charles Xavier, Patrick Stewart murió después de más de seis décadas de trayectoria artística."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡Al estilo vaquero! Competencia de barbacoa ahumada ofrecerá actividades para toda la familia",
-      "link": "https://www.prensalibre.com/vida/escenario/al-estilo-vaquero-competencia-de-barbacoa-ahumada-ofrecera-actividades-para-toda-la-familia/",
-      "fecha": "Thu, 29 Oct 2026 20:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La novena edición del Smoked Barbecue Championship 2026 pondrá a prueba las habilidades de los equipos de ahumadores, mientras los visitantes disfrutarán del resultado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué quieren los votantes latinos y cuáles son los ocho estados que pueden definir las elecciones?",
-      "link": "https://www.prensalibre.com/internacional/que-quieren-los-votantes-latinos-y-cuales-son-los-ocho-estados-que-pueden-definir-las-elecciones/",
-      "fecha": "Thu, 29 Oct 2026 19:20:29 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Latino Donor Collaborative (LDC) indicó que la población latina en los Estados Unidos está conformada por unos 70 millones de personas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El costarricense Sergio Arias conquista la séptima etapa de la Vuelta Ciclística a Guatemala 2026",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/el-costarricense-sergio-arias-conquista-la-septima-etapa-de-la-vuelta-ciclistica-a-guatemala-2026/",
-      "fecha": "Thu, 29 Oct 2026 19:16:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La séptima jornada de la Vuelta a Guatemala puso a prueba al pelotón en la montaña, con Sergio Arias como ganador del día y Cristian Rico firme en el liderato."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "3 gráficos que explican cómo sucedió el accidente de trenes en España",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/3-graficos-que-explican-como-sucedio-el-accidente-de-trenes-en-espana/",
-      "fecha": "Thu, 29 Oct 2026 19:05:57 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Un fallo informático y un tren a casi 200 km/h en una vía ocupada. Así ocurrió el peor accidente ferroviario de España en más de una década."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De un decomiso a la devolución de mercadería: testigo cuenta cómo fue la retención en Chichicastenango, Quiché",
-      "link": "https://www.prensalibre.com/guatemala/justicia/de-un-decomiso-a-la-devolucion-de-mercaderia-testigo-cuenta-como-fue-la-retencion-en-chichicastenango-quiche/",
-      "fecha": "Thu, 29 Oct 2026 19:02:58 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Así fue el operativo fallido contra el contrabando del MP, la PNC y la SAT en Chichicastenango, que terminó con fiscales retenidos y la devolución de mercadería incautada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Deportivo Mixco y Xelajú MC no se hacen daño y reparten puntos en el estadio Santo Domingo de Guzmán",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/deportivo-mixco-y-xelaju-mc-no-se-hacen-dano-y-reparten-puntos-en-el-estadio-santo-domingo-de-guzman/",
-      "fecha": "Thu, 29 Oct 2026 18:59:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "En un encuentro cargado de incidencias, Deportivo Mixco y Xelajú MC igualaron 0-0 por la jornada 17 del Torneo Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tratamiento de largo plazo y atención multidisciplinaria, claves para enfrentar obesidad",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/tratamiento-de-largo-plazo-y-atencion-multidisciplinaria-claves-para-enfrentar-obesidad/",
-      "fecha": "Thu, 29 Oct 2026 18:37:32 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "El tratamiento de largo plazo y el acompañamiento multidisciplinario a los pacientes, son claves para enfrentar la obesidad, una enfermedad crónica que afecta a millones de personas en el mundo, dijo a EFE el gerente médico de la farmacéutica Adium para Centroamérica y el Caribe, Víctor Nolasco."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente en la Cumbre de Alaska marca la séptima etapa de la Vuelta a Guatemala: esto se sabe",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/accidente-en-la-cumbre-de-alaska-marca-la-septima-etapa-de-la-vuelta-a-guatemala-esto-se-sabe/",
-      "fecha": "Thu, 29 Oct 2026 18:30:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La séptima etapa de la 65 Vuelta Ciclística a Guatemala 2026 volvió a verse marcada por un accidente, luego de que varios corredores sufrieran una fuerte caída en el sector de Cumbre de Alaska."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Xi realiza la mayor purga en la historia de su gobierno y le exige &#8220;disciplina&#8221; a su partido en China",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/xi-realiza-la-mayor-purga-en-la-historia-de-su-gobierno-y-le-exige-disciplina-a-su-partido-en-china/",
-      "fecha": "Thu, 29 Oct 2026 18:20:03 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Según los analistas, la campaña anticorrupción de Xi se ha convertido en \"un esfuerzo por consolidar y mantener la autoridad\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mujer vendió inmueble ajeno para comprar casas y un carro: recibe 19 años de prisión y multa millonaria",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mujer-vendio-inmueble-ajeno-para-comprar-casas-y-un-carro-recibe-19-anos-de-prision-y-multa-millonaria-breaking/",
-      "fecha": "Thu, 29 Oct 2026 18:13:01 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ministerio Público informó que cuatro personas fueron condenadas por estafa, entre ellas una mujer a quien el juez le impuso una multa millonaria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Belinda aparece irreconocible en Beliween 2026: así fue el disfraz que sorprendió a sus invitados",
-      "link": "https://www.prensalibre.com/vida/escenario/belinda-aparece-irreconocible-en-beliween-2026-asi-fue-el-disfraz-que-sorprendio-a-sus-invitados/",
-      "fecha": "Thu, 29 Oct 2026 18:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La tradicional fiesta de Halloween de Belinda se convirtió en todo un espectáculo cuando la artista apareció con un peculiar disfraz “de otro planeta”."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Bancos de Guatemala tendrán asueto el 2 de noviembre 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/bancos-guatemala-cerraran-2-noviembre-2026-asueto-dia-de-todos-los-santos.html",
@@ -857,22 +873,6 @@
       "fecha": "Tue, 27 Oct 2026 18:16:36 +0000",
       "categoria": "Comunidad",
       "resumen": "Conoce los horarios que tendrán los cementerios públicos y privados en la Ciudad de Guatemala este 1 de noviembre de 2026, Día de Todos los Santos.\nThe post 1 de noviembre 2026: Conoce los horarios de cementerios públicos y privados en Ciudad Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Autorizan bono extraordinario único para pensionados del IGSS",
-      "link": "https://www.guatemala.com/noticias/comunidad/igss-entregara-bono-extraordinario-unico-pensionados-octubre-2026.html",
-      "fecha": "Tue, 27 Oct 2026 16:00:13 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Los pensionados del IGSS recibirán un bono extraordinario y único en el marco del 80 aniversario de la institución este 2026. Conoce cuándo se pagará.\nThe post Autorizan bono extraordinario único para pensionados del IGSS appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Insivumeh pronostica 16 frentes fríos en Guatemala durante la temporada 2026-27",
-      "link": "https://www.guatemala.com/noticias/comunidad/temporada-frentes-frios-guatemala-2026-2027.html",
-      "fecha": "Mon, 26 Oct 2026 23:24:08 +0000",
-      "categoria": "Comunidad",
-      "resumen": "La temporada de bajas temperaturas comenzará en noviembre, con el ingreso del primer frente frío a Guatmala, según pronostica el Insivumeh.\nThe post Insivumeh pronostica 16 frentes fríos en Guatemala durante la temporada 2026-27 appeared first on Guatemala.com."
     }
   ]
 }
