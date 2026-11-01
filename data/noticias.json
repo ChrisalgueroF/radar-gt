@@ -1,7 +1,103 @@
 {
-  "actualizado": "2026-11-01T05:26:07.568Z",
+  "actualizado": "2026-11-01T12:58:30.516Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelta a Guatemala 2026: este es el recorrido de la décima etapa, en el Anillo Periférico",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-este-es-el-recorrido-de-la-decima-etapa-en-el-anillo-periferico-breaking/",
+      "fecha": "Sun, 01 Nov 2026 12:30:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La 65 Vuelta Ciclística a Guatemala cierra este domingo 1 de noviembre con una etapa de 121.3 kilómetros en terreno llano en la ciudad capital. Jhonatan Chávez defenderá el liderato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/por-que-trump-se-enfrenta-al-mismo-problema-economico-que-hundio-a-biden/",
+      "fecha": "Sun, 01 Nov 2026 11:54:38 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Donald Trump llega a las elecciones de mitad de mandato en Estados Unidos con un problema similar al del expresidente demócrata."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Nos abandonaron en bolsas cuando éramos bebés y décadas después descubrimos que éramos hermanos&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/nos-abandonaron-en-bolsas-cuando-eramos-bebes-y-decadas-despues-descubrimos-que-eramos-hermanos/",
+      "fecha": "Sun, 01 Nov 2026 11:09:15 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "David McBride pasó años buscando a su madre tras ser abandonado cuando era un bebé. En su lugar, encontró a una hermana y un hermano."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones en Estados Unidos: por qué sus resultados importan a Guatemala y qué podría cambiar",
+      "link": "https://www.prensalibre.com/internacional/elecciones-en-estados-unidos-por-que-sus-resultados-importan-a-guatemala-y-que-podria-cambiar/",
+      "fecha": "Sun, 01 Nov 2026 11:00:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las elecciones en Estados Unidos ponen bajo la lupa el futuro de las políticas migratorias, el comercio bilateral y los recursos económicos que llegan a Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones en EE. UU.: qué puede pasar con el poder de Donald Trump si los republicanos pierden el control del Congreso",
+      "link": "https://www.prensalibre.com/internacional/elecciones-en-ee-uu-que-puede-pasar-con-el-poder-de-donald-trump-si-los-republicanos-pierden-el-control-del-congreso/",
+      "fecha": "Sun, 01 Nov 2026 10:00:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Los estadounidenses están convocados a las urnas para renovar la Cámara de Representantes y una parte del Senado. ¿Qué es lo que está en juego para la Casa Blanca con estas elecciones?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En la mira",
+      "link": "https://www.prensalibre.com/opinion/caricatura/en-la-mira-2/",
+      "fecha": "Sun, 01 Nov 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Memorial y llamado",
+      "link": "https://www.prensalibre.com/opinion/editorial/memorial-y-llamado/",
+      "fecha": "Sun, 01 Nov 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Los políticos también pueden aportar mucho a la verdadera cultura de vida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "América Latina, irrelevante en la ONU",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/america-latina-irrelevante-en-la-onu/",
+      "fecha": "Sun, 01 Nov 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "América Latina llega en este contexto fragmentada, disminuida e irrelevante en su incidencia global."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las pandillas cambiaron de negocio",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/las-pandillas-cambiaron-de-negocio/",
+      "fecha": "Sun, 01 Nov 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El narcomenudeo ofrece ingresos adicionales que pueden fortalecer a las organizaciones criminales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El poder de Trump, a las urnas",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-poder-de-trump-a-las-urnas/",
+      "fecha": "Sun, 01 Nov 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Si este martes los demócratas no recuperan importantes espacios, ellos lo sentirán como una derrota."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Otro paso adelante",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/otro-paso-adelante/",
+      "fecha": "Sun, 01 Nov 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El proyecto del Metro Riel finalmente no es un discurso, sino una realidad que debemos apoyar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy domingo 1 de noviembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-domingo-1-de-noviembre-de-2026/",
+      "fecha": "Sun, 01 Nov 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Accidente entre microbús y picop deja 18 heridos en la ruta Interamericana y afecta el tránsito en Chimaltenango",
@@ -721,102 +817,6 @@
       "fecha": "Fri, 30 Oct 2026 17:50:06 +0000",
       "categoria": "Guatemala",
       "resumen": "El magistrado Quelvin Jiménez afirmó en Prensa Libre Radio que el Tribunal revisa miles de expedientes y que varios casos ya fueron trasladados al Ministerio Público."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Tomé la decisión equivocada&#8221;, le dijo a la BBC la atleta que defecó durante una competencia de Hyrox",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/tome-la-decision-equivocada-le-dijo-a-la-bbc-la-atleta-que-defeco-durante-una-competencia-de-hyrox/",
-      "fecha": "Fri, 30 Oct 2026 17:49:35 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En su primera entrevista desde el incidente, Joanna Wietrzyk le dijo a la BBC que asume la responsabilidad, pero que no merecía una reacción tan severa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuál era la fortuna de Patrick Stewart?: el patrimonio que dejó la estrella de &#8220;X-Men&#8221; y &#8220;Star Trek&#8221; tras su muerte a los 86 años",
-      "link": "https://www.prensalibre.com/vida/escenario/cual-era-la-fortuna-de-patrick-stewart-el-patrimonio-que-dejo-la-estrella-de-x-men-y-star-trek-tras-su-muerte-a-los-86-anos/",
-      "fecha": "Fri, 30 Oct 2026 17:35:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Uno de los actores más reconocidos de Hollywood por su papel en X-Men falleció a los 86 años tras enfrentar una enfermedad neurodegenerativa. Este es el patrimonio que habría acumulado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan a presunto sicario vinculado con muertes de exjuez y director de cárcel en Escuintla",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-presunto-sicario-vinculado-con-muertes-de-exjuez-y-director-de-carcel-en-escuintla/",
-      "fecha": "Fri, 30 Oct 2026 16:50:40 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El seguimiento de la Unidad de Videoforense de la PNC a los movimientos de un vehículo permitió identificar y capturar a un presunto sicario en Escuintla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Celebran 58 años construyendo hogares en Guatemala",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/celebran-58-anos-construyendo-hogares-en-guatemala/",
-      "fecha": "Fri, 30 Oct 2026 16:45:17 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Distribuidora Mariscal, empresa guatemalteca especializada en pisos, loza sanitaria y acabados de construcción, conmemora su aniversario con una trayectoria marcada por la expansión de su red de tiendas al interior del país y nuevos proyectos logísticos para atender a todo el territorio nacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Dónde ver Canelo Álvarez vs. Christian Mbilli? Fecha, horario y transmisión en México y EE. UU.",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/donde-ver-canelo-alvarez-vs-christian-mbilli-fecha-horario-y-transmision-en-mexico-y-ee-uu/",
-      "fecha": "Fri, 30 Oct 2026 16:23:02 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "En Riad, con varias horas de diferencia respecto de América, Canelo regresa al cuadrilátero después de 13 meses de ausencia en busca de recuperar su corona."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tabla de posiciones del Torneo Apertura 2026: así quedó la Liga Nacional tras la jornada 17",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/tabla-de-posiciones-del-torneo-apertura-2026-asi-quedo-la-liga-nacional-tras-la-jornada-17/",
-      "fecha": "Fri, 30 Oct 2026 16:16:23 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Con Antigua GFC en la cima y una cerrada lucha por los últimos cupos a la fase final, el Torneo Apertura 2026 vive una etapa crucial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones en EE.UU.: cómo influye la dura política migratoria de Trump en el bastión latino republicano del sur de Florida",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/elecciones-en-ee-uu-como-influye-la-dura-politica-migratoria-de-trump-en-el-bastion-latino-republicano-del-sur-de-florida/",
-      "fecha": "Fri, 30 Oct 2026 16:02:58 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "De la mano de Donald Trump, los republicanos han ido ganando mayor representación en el sur de Florida durante los últimos 10 años. Sin embargo, la impopularidad de Trump en 2026 arroja dudas sobre la capacidad de los conservadores de mantener estos apoyos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO: la montaña pone a prueba a los favoritos; siga la cronoescalada de la Vuelta a Guatemala",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-la-montana-pone-a-prueba-a-los-favoritos-siga-la-cronoescalada-de-la-vuelta-a-guatemala/",
-      "fecha": "Fri, 30 Oct 2026 15:31:18 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La 65 Vuelta Ciclística a Guatemala 2026 vive este viernes una jornada decisiva con la disputa de la octava etapa, una cronoescalada individual de 22.6 kilómetros que pondrá a prueba a los principales aspirantes al título."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;No ha habido un solo momento desde esa noche en el que no sienta dolor&#8221;: Christa Pike en su primera declaración desde la fallida ejecución",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/no-ha-habido-un-solo-momento-desde-esa-noche-en-el-que-no-sienta-dolor-christa-pike-en-su-primera-declaracion-desde-la-fallida-ejecucion/",
-      "fecha": "Fri, 30 Oct 2026 14:56:56 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Esta es la primera declaración pública de Pike desde que sobrevivió a un intento de ejecución mediante inyección letal en septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala para el 31 de octubre y 1 de noviembre: dónde hará frío y qué regiones tendrán calor",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-para-el-31-de-octubre-y-1-de-noviembre-donde-hara-frio-y-que-regiones-tendran-calor-breaking/",
-      "fecha": "Fri, 30 Oct 2026 14:56:16 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh informa qué regiones de Guatemala registrarán las temperaturas más bajas el 31 de octubre y el 1 de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala apela sanción de Concacaf y revela qué pasará con el aforo ante Canadá",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-apela-sancion-y-detalla-que-pasara-con-boletos-contra-canada-breaking/",
-      "fecha": "Fri, 30 Oct 2026 14:39:52 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Fedefut busca cumplir con la restricción del estadio sin reducir las entradas disponibles para los aficionados y asumirá multa impuesta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MP confirma que ejecuta allanamientos por el asesinato de Juan Francisco Solórzano Foppa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mp-confirma-que-ejecuta-allanamientos-por-el-asesinato-de-juan-francisco-solorzano-foppa-breaking/",
-      "fecha": "Fri, 30 Oct 2026 14:14:17 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ministerio Público afirma que efectúa al menos 16 allanamientos en la ciudad de Guatemala como parte de la investigación del asesinato de Juan Francisco Solórzano Foppa. La mayoría de las diligencias se lleva a cabo en la zona 13."
     },
     {
       "fuente": "Guatemala.com",
