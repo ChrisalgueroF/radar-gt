@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-11-01T12:58:30.516Z",
+  "actualizado": "2026-11-01T18:23:02.423Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; San Pedro vs. Municipal: siga el minuto a minuto de la jornada 18",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-san-pedro-fc-vs-municipal-siga-el-minuto-a-minuto-de-la-jornada-18-breaking/",
+      "fecha": "Sun, 01 Nov 2026 18:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los gallos reciben a los escarlatas este domingo a las 3:00 PM en el estadio Municipal de San Pedro, en un partido en el que Municipal buscará mantener la presión sobre el líder."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inde solicita Q1 mil millones del presupuesto del Estado del 2027 para subsidiar la tarifa social de energía eléctrica que beneficia a 2.3 millones de hogares",
+      "link": "https://www.prensalibre.com/economia/inde-solicita-q1-mil-millones-del-presupuesto-del-estado-del-2027-para-subsidiar-la-tarifa-social-de-energia-electrica-que-beneficia-a-2-3-millones-de-hogares/",
+      "fecha": "Sun, 01 Nov 2026 17:49:14 +0000",
+      "categoria": "Economía",
+      "resumen": "El Inde solicitó al Congreso de la República  que le apruebe Q1 mil millones del presupuesto del Estado del 2027 para cubrir el subsidio a la tarifa social de energía eléctrica durante ese año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mbappé, Bellingham y Diomande guían la goleada del Real Madrid 3-0 al Racing de Santander",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mbappe-bellingham-y-diomande-guian-la-goleada-del-real-madrid-3-0-al-racing-breaking/",
+      "fecha": "Sun, 01 Nov 2026 17:12:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Real Madrid venció 3-0 al Racing de Santander en El Sardinero con tres goles en el primer tiempo, y llega a 27 puntos para mantenerse tercero en LaLiga por debajo del Barcelona y Atlético de Madrid."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Aurora FC vs. Antigua GFC: siga el minuto a minuto de la jornada 18",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-aurora-fc-vs-antigua-gfc-siga-el-minuto-a-minuto-de-la-jornada-17-breaking/",
+      "fecha": "Sun, 01 Nov 2026 16:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los aurinegros reciben al líder Antigua este domingo a las 11:00 AM en el estadio Cementos Progreso en el partido que abre la jornada 18 del torneo Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Vuelta a Guatemala 2026: siga la décima y última etapa en el Anillo Periférico",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-vuelta-a-guatemala-2026-siga-la-decima-y-ultima-etapa-en-el-anillo-periferico-breaking/",
+      "fecha": "Sun, 01 Nov 2026 15:40:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El colombiano Jhonatan Chávez, del NU Colombia, saldrá como líder en la última etapa de la Vuelta a Guatemala, una jornada de 121.3 kilómetros en terreno llano en la que defenderá su ventaja para coronarse campeón."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Racing de Santander vs. Real Madrid: siga la jornada 11 de LaLiga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-racing-de-santander-vs-real-madrid-siga-la-jornada-11-de-laliga-breaking/",
+      "fecha": "Sun, 01 Nov 2026 14:15:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Los merengues visitan El Sardinero con Courtois de regreso para la jornada 11 de LaLiga y buscan no despegarse de Atlético y Barcelona, que ganaron ayer."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Antes de que corran los caballos: lo que ocurre durante un año para celebrar el Juego de Gallos",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/antes-de-que-corran-los-caballos-lo-que-ocurre-durante-un-ano-para-celebrar-el-juego-de-gallos/",
+      "fecha": "Sun, 01 Nov 2026 13:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Migrantes, capitanes y familias preparan durante meses el Juego de Gallos en Todos Santos Cuchumatán, una tradición maya mam que trasciende el 1 de noviembre."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Vuelta a Guatemala 2026: este es el recorrido de la décima etapa, en el Anillo Periférico",
@@ -761,62 +817,6 @@
       "fecha": "Fri, 30 Oct 2026 19:00:00 +0000",
       "categoria": "Escenario",
       "resumen": "Sumpango, Sacatepéquez, es una de las cunas de la tradición de los barriletes gigantes, una expresión cultural con la que se honra a los seres queridos fallecidos y se busca establecer una comunicación simbólica con ellos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Se agotaron las entradas para el encuentro entre Guatemala y Canadá? Esto se sabe sobre la venta de boletos",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/se-agotaron-las-entradas-para-el-encuentro-entre-guatemala-y-canada-esto-se-sabe-sobre-la-venta-de-boletos/",
-      "fecha": "Fri, 30 Oct 2026 18:55:24 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La expectativa por ver a la Selección Nacional frente a Canadá quedó reflejada en la venta de boletos, que registró una demanda masiva desde su apertura este viernes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tarifas de energía eléctrica en Guatemala: estos serán los precios hasta enero del 2027",
-      "link": "https://www.prensalibre.com/economia/tarifas-de-energia-electrica-en-guatemala-estos-seran-los-precios-hasta-enero-del-2027/",
-      "fecha": "Fri, 30 Oct 2026 18:30:26 +0000",
-      "categoria": "Economía",
-      "resumen": "Las tarifas sociales y no sociales de EEGSA y Energuate permanecerán estables durante los próximos tres meses, pese a las presiones por factores climáticos, inflacionarios y geopolíticos, informó la Comisión Nacional de Energía Eléctrica (CNEE)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala 2026: Yesid Pira gana la cronoescalada y Jhonatan Chávez es nuevo líder",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-yesid-pira-gana-la-cronoescalada-y-jhonatan-chavez-es-nuevo-lider/",
-      "fecha": "Fri, 30 Oct 2026 18:30:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La cronoescalada de la octava etapa sacudió la clasificación general de la 65 Vuelta a Guatemala 2026, con triunfo de Yesid Pira y el ascenso de Jhonatan Chávez al liderato."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Taiwán entrega 20 camiones a Guatemala y el Mides revela cómo serán utilizados",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/taiwan-entrega-20-camiones-a-guatemala-y-el-mides-revela-como-seran-utilizados-breaking/",
-      "fecha": "Fri, 30 Oct 2026 18:10:16 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Taiwán dona a Guatemala una flotilla de camiones que, según el Mides, será utilizada en proyectos en comunidades rurales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Se puede replicar el modelo Bukele en Perú? La discusión sobre seguridad y gestión penitenciaria",
-      "link": "https://www.prensalibre.com/internacional/se-puede-replicar-el-modelo-bukele-en-peru-la-discusion-sobre-seguridad-y-gestion-penitenciaria/",
-      "fecha": "Fri, 30 Oct 2026 18:00:11 +0000",
-      "categoria": "Internacional",
-      "resumen": "Fujimori anunció la construcción de una cárcel para internos de alta peligrosidad que tendrá características similares a las del Cecot, gracias a las sugerencias de Bukele."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Canelo vs Mbilli: el guatemalteco Léster Martínez viaja a Riad para la pelea por el título del CMB",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/lester-martinez-viaja-a-riad-para-observar-la-pelea-de-canelo-por-el-titulo-del-cmb-breaking/",
-      "fecha": "Fri, 30 Oct 2026 17:58:53 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El campeón interino supermediano del CMB y su entrenador, Esaú Diéguez, analizarán de cerca a dos posibles rivales para el guatemalteco."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones 2027: TSE investiga cambios irregulares de residencia electoral ante riesgo de conflictos en 101 municipios",
-      "link": "https://www.prensalibre.com/guatemala/politica/elecciones-2027-tse-investiga-cambios-irregulares-de-residencia-electoral-ante-riesgo-de-conflictos-en-101-municipios/",
-      "fecha": "Fri, 30 Oct 2026 17:50:06 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El magistrado Quelvin Jiménez afirmó en Prensa Libre Radio que el Tribunal revisa miles de expedientes y que varios casos ya fueron trasladados al Ministerio Público."
     },
     {
       "fuente": "Guatemala.com",
