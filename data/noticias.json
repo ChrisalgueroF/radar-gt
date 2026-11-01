@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-11-01T18:23:02.423Z",
+  "actualizado": "2026-11-01T22:38:58.816Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Guastatoya vs. Cobán Imperial: siga el minuto a minuto de la jornada 18",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guastatoya-vs-coban-imperial-siga-el-minuto-a-minuto-de-la-jornada-18-breaking/",
+      "fecha": "Sun, 01 Nov 2026 22:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los pecho amarillo reciben a los príncipes azules este domingo a las 5:00 PM en el estadio David Cordón Hichos, en un duelo en el que ambos necesitan sumar para sus objetivos en el torneo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Videos muestran accidente de avión en Florida: nueve muertos, un cráter y supuesto audio de momentos antes del impacto",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/videos-muestran-accidente-de-avion-en-florida-nueve-muertos-un-crater-y-supuesto-audio-de-momentos-antes-del-impacto/",
+      "fecha": "Sun, 01 Nov 2026 21:36:27 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Un Learjet 60 se precipitó cerca de viviendas en Palm Beach cuando viajaba de Texas a las Bahamas. Las imágenes captan el impacto, el incendio y los daños que obligaron a cerrar una carretera."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“It’s Time”: Mariah Carey reinventa su tradicional anuncio para dar la bienvenida a la temporada navideña",
+      "link": "https://www.prensalibre.com/vida/escenario/its-time-mariah-carey-reinventa-su-tradicional-anuncio-para-dar-la-bienvenida-a-la-temporada-navidena/",
+      "fecha": "Sun, 01 Nov 2026 20:09:23 +0000",
+      "categoria": "Escenario",
+      "resumen": "Como ya es tradición, Mariah Carey anuncia la llegada de la temporada navideña con un video al ritmo de All I Want for Christmas Is You. Así es la nueva versión de su esperado “It’s Time”."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Hombres disfrazados de reos utilizan patrulla de la PNC para grabar durante Halloween",
+      "link": "https://www.prensalibre.com/guatemala/justicia/video-hombres-disfrazados-de-reos-utilizan-patrulla-de-la-pnc-para-grabar-durante-halloween/",
+      "fecha": "Sun, 01 Nov 2026 19:45:09 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Un video difundido en TikTok muestra a dos hombres disfrazados de reos mientras bailan dentro de una patrulla de la Policía Nacional Civil (PNC), durante las celebraciones de Halloween. El Ministerio de Gobernación anunció que verificará la autenticidad de la grabación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los coloniales no ceden: Antigua derrota 2-0 a Aurora y se consolida como líder del torneo",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/los-coloniales-no-ceden-antigua-derrota-2-0-a-aurora-y-se-consolida-como-lider-del-torneo-breaking/",
+      "fecha": "Sun, 01 Nov 2026 19:07:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los panzas verdes ganaron de visita en el Cementos Progreso con goles de José Espinoza y Juan Francisco Apaolaza, y se afianzan en la cima del Apertura 2026 tras la jornada 18."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entre colores, memoria y tradición: Santiago Sacatepéquez y Sumpango celebran los festivales de barriletes gigantes este 1 de noviembre",
+      "link": "https://www.prensalibre.com/vida/escenario/entre-colores-memoria-y-tradicion-santiago-sacatepequez-y-sumpango-celebran-los-festivales-de-barriletes-gigantes-este-1-de-noviembre/",
+      "fecha": "Sun, 01 Nov 2026 19:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Una tradición que une generaciones se celebra este 1 de noviembre con los festivales de barriletes gigantes, donde el color y el arte mantienen vivo el legado familiar y cultural."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jhonatan Cháves, de NU Colombia, se corona campeón de la Vuelta a Guatemala 2026",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/jhonatan-chaves-de-nu-colombia-se-corona-campeon-de-la-vuelta-a-guatemala-2026-breaking/",
+      "fecha": "Sun, 01 Nov 2026 18:42:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El colombiano Jhonatan Cháves aseguró el suéter amarillo en una décima etapa tranquila en el Anillo Periférico y cerró diez días de competencia conquistando el título de la 65 edición de la Vuelta a Guatemala 2026."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; San Pedro vs. Municipal: siga el minuto a minuto de la jornada 18",
@@ -25,6 +81,22 @@
       "fecha": "Sun, 01 Nov 2026 17:12:00 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "El Real Madrid venció 3-0 al Racing de Santander en El Sardinero con tres goles en el primer tiempo, y llega a 27 puntos para mantenerse tercero en LaLiga por debajo del Barcelona y Atlético de Madrid."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "PNC intensifica controles para prevenir incidentes durante celebraciones del Día de Todos los Santos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-intensifica-controles-para-prevenir-incidentes-durante-celebraciones-del-dia-de-todos-los-santos/",
+      "fecha": "Sun, 01 Nov 2026 17:10:24 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Agentes de la Policía Nacional Civil (PNC) efectuaron patrullajes y controles en diferentes sectores del país durante la noche de Halloween, con el propósito de prevenir hechos delictivos, carreras no autorizadas y otros incidentes. Las acciones continúan este domingo 1 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video del Desfile de Fieros 2026: así se vive la tradición en Villa Nueva",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/video-del-desfile-de-fieros-2026-asi-se-vive-la-tradicion-en-villa-nueva/",
+      "fecha": "Sun, 01 Nov 2026 16:39:58 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Más de 3 mil 600 participantes y alrededor de 80 grupos recorren las calles de Villa Nueva este 1 de noviembre, en una tradición que cumple 21 años como Patrimonio Cultural."
     },
     {
       "fuente": "Prensa Libre",
@@ -739,84 +811,12 @@
       "resumen": "El economista cuenta con más de 25 años de trayectoria en la banca central, ha ocupado cargos directivos en el Banguat y representado a Centroamérica ante el Banco Interamericano de Desarrollo (BID). Conozca su formación académica y experiencia profesional."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "De Guatemala a China y Hong Kong: Así operaba la red financiera investigada por lavado de dinero",
-      "link": "https://www.prensalibre.com/guatemala/justicia/de-guatemala-a-china-y-hong-kong-asi-operaba-la-red-financiera-investigada-por-lavado-de-dinero/",
-      "fecha": "Fri, 30 Oct 2026 21:05:47 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ministerio Público y la Policía Nacional Civil determinaron que las transacciones ilícitas se dirigieron mayoritariamente a China y Hong Kong."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Disparan contra motorista en las inmediaciones del Campo Marte y lo trasladan herido al IGSS",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/disparan-contra-motorista-en-las-inmediaciones-del-campo-marte-y-lo-trasladan-herido-al-igss-breaking/",
-      "fecha": "Fri, 30 Oct 2026 21:04:30 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un joven de 19 años resultó herido de bala cuando se desplazaba en motocicleta por la zona 5 capitalina, en las inmediaciones del Campo Marte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala anuncia lista convocados para enfrentar a Canadá en la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-anuncia-sus-convocados-para-enfrentar-a-canada-en-la-liga-de-naciones-breaking/",
-      "fecha": "Fri, 30 Oct 2026 20:47:34 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Selección Nacional combina futbolistas de la Liga Nacional y legionarios para afrontar una exigente serie ante Canadá, con el objetivo de avanzar en la Liga de Naciones de la Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Festival de Barriletes Gigantes de Santiago Sacatepéquez 2026: actividades, tradición y logística para celebrar 127 años de historia",
-      "link": "https://www.prensalibre.com/vida/escenario/festival-de-barriletes-gigantes-de-santiago-sacatepequez-2026-actividades-tradicion-y-logistica-para-celebrar-127-anos-de-historia/",
-      "fecha": "Fri, 30 Oct 2026 20:42:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La tradición ancestral de los barriletes gigantes reunirá diversas actividades en Santiago Sacatepéquez, donde estas coloridas creaciones volverán a llenar el cielo. Esta es la agenda."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Precios irresistibles, amplio surtido y beneficios para sus clientes",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/precios-irresistibles-amplio-surtido-y-beneficios-para-sus-clientes/",
-      "fecha": "Fri, 30 Oct 2026 20:25:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Ya arrancó la cuenta regresiva para Navidad y fin de año, con la llegada de la temporada Black Walmart, que será un recorrido de varias semanas en las que los clientes y público en general deberán estar muy pendientes de los precios irresistibles, amplio surtido, excelentes opciones de financiamiento y total conveniencia para comprar tanto en las tiendas físicas como en línea."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Perry reconoce las historias que hacen del fiambre una tradición familiar en Guatemala",
       "link": "https://www.guatemala.com/noticias/sociedad/perry-reconoce-las-historias-que-hacen-del-fiambre-una-tradicion-familiar.html",
       "fecha": "Fri, 30 Oct 2026 20:07:21 +0000",
       "categoria": "Sociedad",
       "resumen": "Perry reconoce las historias, recetas y tradiciones familiares que se construyen alrededor del fiambre en Guatemala antes de llegar a la mesa.\nThe post Perry reconoce las historias que hacen del fiambre una tradición familiar en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hackeo a Binance: ¿Qué se sabe del robo de US$6 mil 300 millones y cómo afecta a bitcoin?",
-      "link": "https://www.prensalibre.com/internacional/hackeo-a-binance-que-se-sabe-del-robo-de-us6-mil-300-millones-y-como-afecta-a-bitcoin/",
-      "fecha": "Fri, 30 Oct 2026 20:01:01 +0000",
-      "categoria": "Internacional",
-      "resumen": "Binance solicitó la colaboración de compañías especializadas en el rastreo de transacciones, y las primeras investigaciones apuntan a Corea del Norte como posible responsable."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Eddy Roberto Carpio Sam es nombrado presidente del Banguat: perfil, trayectoria y desafíos",
-      "link": "https://www.prensalibre.com/economia/eddy-roberto-carpio-sam-es-nombrado-presidente-del-banguat-perfil-trayectoria-y-desafios-breaking/",
-      "fecha": "Fri, 30 Oct 2026 19:28:20 +0000",
-      "categoria": "Economía",
-      "resumen": "El economista Eddy Roberto Carpio Sam fue nombrado presidente del Banco de Guatemala (Banguat) y de la Junta Monetaria (JM) para un período de cuatro años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién puede estar detrás del robo de US$6.300 millones a Binance y por qué se sospecha de Corea del Norte",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/quien-puede-estar-detras-del-robo-de-us6-300-millones-a-binance-y-por-que-se-sospecha-de-corea-del-norte/",
-      "fecha": "Fri, 30 Oct 2026 19:21:02 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Binance sufrió lo que podría ser el mayor hackeo de criptomonedas de la historia. Esto es lo que sabemos hasta ahora."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Barriletes gigantes de Sumpango, Sacatepéquez: horarios, actividades y detalles del evento que reúne cultura, tradición y legado",
-      "link": "https://www.prensalibre.com/vida/escenario/barriletes-gigantes-de-sumpango-sacatepequez-horarios-actividades-y-detalles-del-evento-que-reune-cultura-tradicion-y-legado/",
-      "fecha": "Fri, 30 Oct 2026 19:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Sumpango, Sacatepéquez, es una de las cunas de la tradición de los barriletes gigantes, una expresión cultural con la que se honra a los seres queridos fallecidos y se busca establecer una comunicación simbólica con ellos."
     },
     {
       "fuente": "Guatemala.com",
