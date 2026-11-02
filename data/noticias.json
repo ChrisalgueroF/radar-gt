@@ -1,7 +1,71 @@
 {
-  "actualizado": "2026-11-01T22:38:58.816Z",
+  "actualizado": "2026-11-02T02:14:24.933Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cobán sorprende a Guastatoya y gana 2-1 en el David Cordón Hichos",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/coban-sorprende-a-guastatoya-y-gana-2-1-en-el-david-cordon-hichos-breaking/",
+      "fecha": "Mon, 02 Nov 2026 02:02:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Juan Winter y Janderson Pereira marcaron para darle la victoria a los Príncipes Azules, pese al empate parcial de José Almanza, y dejaron a Guastatoya sin puntos en su casa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las elecciones de EE.UU. pueden redefinir el margen de acción de Trump en Latinoamérica",
+      "link": "https://www.prensalibre.com/internacional/las-elecciones-de-ee-uu-pueden-redefinir-el-margen-de-accion-de-trump-en-latinoamerica/",
+      "fecha": "Mon, 02 Nov 2026 01:19:39 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las elecciones de medio mandato de Estados Unidos de este martes pueden redefinir el margen de maniobra del presidente Donald Trump en Latinoamérica, desde la política de presión sobre Cuba y Venezuela hasta las disputas comerciales con México y Brasil y los compromisos con los Gobiernos aliados de Washington."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entre flores, música y recuerdos: así vivieron los guatemaltecos el Día de Todos los Santos en el Cementerio General",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/entre-flores-musica-y-recuerdos-asi-vivieron-los-guatemaltecos-el-dia-de-todos-los-santos-en-el-cementerio-general/",
+      "fecha": "Mon, 02 Nov 2026 01:15:04 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Cementerio General, ubicado en la zona 3 de la capital, fue uno de los espacios que recibió a cientos de guatemaltecos que llegaron para honrar y recordar a sus seres queridos durante el Día de Todos los Santos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Comunicaciones vs. Mixco: siga el minuto a minuto de la jornada 18",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-comunicaciones-vs-mixco-siga-el-minuto-a-minuto-de-la-jornada-18-breaking/",
+      "fecha": "Mon, 02 Nov 2026 01:15:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los cremas reciben a los chicharroneros este domingo a las 8:00 PM en el estadio Cementos Progreso, en un duelo en el que Comunicaciones necesita sumar para salir de los últimos lugares."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Violencia armada deja cinco fallecidos y tres heridos durante el fin de semana",
+      "link": "https://www.prensalibre.com/guatemala/justicia/violencia-armada-deja-cinco-fallecidos-y-tres-heridos-durante-el-fin-de-semana/",
+      "fecha": "Mon, 02 Nov 2026 01:01:54 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Cinco personas fallecieron y tres resultaron heridas en una serie de ataques armados reportados durante el fin de semana. Los hechos ocurrieron en Mixco, la capital, Escuintla, Palencia y Zacapa, según información de los cuerpos de socorro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Era como si cayera un misil&#8221;: 9 muertos al estrellarse un avión privado en un vecindario de Florida",
+      "link": "https://www.prensalibre.com/guatemala/era-como-si-cayera-un-misil-9-muertos-al-estrellarse-un-avion-privado-en-un-vecindario-de-florida/",
+      "fecha": "Mon, 02 Nov 2026 00:06:29 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La aeronave privada se estrelló en el condado de Palm Beach, Florida. Imágenes captadas por los residentes mostraban al jet cayendo a gran velocidad antes de estrellarse."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos personas resultan heridas por caída de barriletes gigantes durante festival en Sumpango",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-personas-resultan-heridas-por-caida-de-barriletes-gigantes-durante-festival-en-sumpango/",
+      "fecha": "Sun, 01 Nov 2026 23:54:12 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Una de las víctimas fue trasladada al Hospital Regional de Chimaltenango, mientras que la otra recibió atención en el lugar. Los incidentes ocurrieron durante las celebraciones del Día de Todos los Santos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¡Invicto en casa! San Pedro vence 1-0 a Municipal con gol de Germán Águila",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/invicto-en-casa-san-pedro-vence-1-0-a-municipal-con-gol-de-german-aguila-breaking/",
+      "fecha": "Sun, 01 Nov 2026 23:02:59 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Germán Águila apareció de cabeza en el segundo tiempo y los gallos siguen invictos en su estadio, mientras Municipal cede terreno ante el líder del torneo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; Guastatoya vs. Cobán Imperial: siga el minuto a minuto de la jornada 18",
@@ -745,70 +809,6 @@
       "fecha": "Fri, 30 Oct 2026 23:09:45 +0000",
       "categoria": "Internacional",
       "resumen": "Nayib Bukele ordenó enviar helicópteros y vehículos blindados a Haití para buscar a cuatro militares salvadoreños desaparecidos tras una emboscada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Rodada del Terror” bajo advertencia policial: PNC anuncia operativos y posibles capturas en Halloween",
-      "link": "https://www.prensalibre.com/guatemala/rodada-del-terror-bajo-advertencia-policial-pnc-anuncia-operativos-y-posibles-capturas-en-halloween-breaking/",
-      "fecha": "Fri, 30 Oct 2026 22:59:24 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La PNC va tras participantes de la “Rodada del Terror” por Halloween y advierte de operativos en todo el país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Barrilete de Miguel Ángel Asturias en Sumpango: dónde se exhibirá, horarios y cuándo regresará a Guatemala el Nobel de Literatura",
-      "link": "https://www.prensalibre.com/vida/escenario/barrilete-de-miguel-angel-asturias-en-sumpango-donde-se-exhibira-horarios-y-cuando-regresara-a-guatemala-el-nobel-de-literatura/",
-      "fecha": "Fri, 30 Oct 2026 22:40:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El escritor guatemalteco Miguel Ángel Asturias será homenajeado durante el Festival de Barriletes Gigantes, en el marco del Día de Todos los Santos. Conozca los detalles del tributo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Luis Lara Grojec galardonado como Gerente del Año 2026 por la AGG",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/luis-lara-grojec-galardonado-como-gerente-del-ano-2026-por-la-agg/",
-      "fecha": "Fri, 30 Oct 2026 22:38:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Por su destacada trayectoria, liderazgo y contribución al fortalecimiento del sector financiero y al desarrollo empresarial de Guatemala, Luis Lara Grojec, gerente general y director corporativo de Banco Industrial, recibió el reconocimiento Gerente del Año 2026, otorgado por la Asociación de Gerentes de Guatemala (AGG)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nuevo formulario para ingresar a Estados Unidos: tres puntos clave sobre su vigencia, presentación física o digital y qué pasa si no lo lleva",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/nuevo-formulario-para-viajar-a-estados-unidos-tres-puntos-clave-sobre-su-vigencia-presentacion-fisica-o-digital-y-que-pasa-si-no-lo-lleva/",
-      "fecha": "Fri, 30 Oct 2026 22:18:58 +0000",
-      "categoria": "Comunitario",
-      "resumen": "A partir del 3 de noviembre, quienes viajen desde Guatemala hacia Estados Unidos deberán cumplir con un nuevo requisito sanitario antes de abordar. ¿Hasta cuándo será obligatorio, se podrá presentar en papel o digitalmente y qué ocurre si el pasajero no lo lleva? Conozca los tres puntos clave para evitar contratiempos en el aeropuerto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Papa León XIV vota en las elecciones de EE. UU.: por qué su participación es inédita",
-      "link": "https://www.prensalibre.com/internacional/papa-leon-xiv-vota-en-las-elecciones-de-ee-uu-por-que-su-participacion-es-inedita/",
-      "fecha": "Fri, 30 Oct 2026 22:03:11 +0000",
-      "categoria": "Internacional",
-      "resumen": "El papa León XIV participó por correo en las elecciones de medio mandato de EE. UU., un hecho inédito que confirmó la oficina de prensa del Vaticano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuán relevante es Binance en América Latina y cómo el hackeo de US$6.300 millones afecta a sus usuarios en la región",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/cuan-relevante-es-binance-en-america-latina-y-como-el-hackeo-de-us6-300-millones-afecta-a-sus-usuarios-en-la-region/",
-      "fecha": "Fri, 30 Oct 2026 21:58:57 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Aunque su principal mercado es Brasil, en Argentina y Venezuela la plataforma se ha convertido en un refugio de estabilidad en medio del cambiante panorama económico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Anuncian cierres y operativos en el Periférico por Halloween, Día de Todos los Santos y la Vuelta Ciclística",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/anuncian-cierres-y-operativos-en-el-periferico-por-halloween-dia-de-todos-los-santos-y-la-vuelta-ciclistica/",
-      "fecha": "Fri, 30 Oct 2026 21:34:12 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los controles de alcoholemia comenzarán este viernes 30 de octubre, mientras que el domingo 1 de noviembre habrá restricciones de circulación por la Vuelta Ciclística y operativos en los cementerios de la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Eddy Roberto Carpio Sam, el nuevo presidente del Banco de Guatemala?",
-      "link": "https://www.prensalibre.com/economia/quien-es-eddy-roberto-carpio-sam-el-nuevo-presidente-del-banco-de-guatemala/",
-      "fecha": "Fri, 30 Oct 2026 21:26:37 +0000",
-      "categoria": "Economía",
-      "resumen": "El economista cuenta con más de 25 años de trayectoria en la banca central, ha ocupado cargos directivos en el Banguat y representado a Centroamérica ante el Banco Interamericano de Desarrollo (BID). Conozca su formación académica y experiencia profesional."
     },
     {
       "fuente": "Guatemala.com",
