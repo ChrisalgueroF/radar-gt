@@ -1,7 +1,255 @@
 {
-  "actualizado": "2026-11-02T10:47:03.505Z",
+  "actualizado": "2026-11-02T20:41:17.998Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Imágenes impactantes de la tragedia en México: avioneta cae poco después de despegar y deja dos muertos",
+      "link": "https://www.prensalibre.com/internacional/tragedia-en-mexico-avioneta-se-desploma-apenas-un-minuto-despues-de-despegar-y-deja-dos-personas-muertas-breaking/",
+      "fecha": "Mon, 02 Nov 2026 19:59:21 +0000",
+      "categoria": "Internacional",
+      "resumen": "Dos personas murieron al desplomarse una avioneta poco después de despegar del aeropuerto de Pachuca, en Hidalgo, México."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones intermedias de Estados Unidos: ¿Qué día son y por qué son importantes para Trump?",
+      "link": "https://www.prensalibre.com/internacional/elecciones-intermedias-de-estados-unidos-que-dia-son-y-por-que-son-importantes-para-trump/",
+      "fecha": "Mon, 02 Nov 2026 19:31:16 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las elecciones intermedias marcarán el inicio de la carrera presidencial del 2028, en la que el presidente Donald Trump ya no podrá participar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién era Nathalia Gadelha Filgueiras, la copiloto de 20 años que murió en el accidente aéreo de Florida",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/quien-era-nathalia-gadelha-filgueiras-la-copiloto-de-20-anos-que-murio-en-el-accidente-aereo-de-florida-breaking/",
+      "fecha": "Mon, 02 Nov 2026 19:17:46 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "¿Qué se sabe de Nathalia Gadelha Filgueiras, la joven copiloto que murió en el accidente aéreo ocurrido en Florida, que dejó nueve víctimas, y qué detalles han trascendido sobre su vida y trayectoria?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuál es el próximo asueto en Guatemala?: calendario de los últimos descansos para los trabajadores",
+      "link": "https://www.prensalibre.com/vida/escenario/cual-es-el-proximo-asueto-en-guatemala-calendario-de-los-ultimos-descansos-para-los-trabajadores/",
+      "fecha": "Mon, 02 Nov 2026 19:10:13 +0000",
+      "categoria": "Escenario",
+      "resumen": "Guatemala inicia los últimos dos meses del año, período que contempla los últimos asuetos reconocidos por el Código de Trabajo. Conozca las fechas de descanso para los trabajadores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Reconoces a las mejores empresas para laborar en el país",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/reconoces-a-las-mejores-empresas-para-laborar-en-el-pais/",
+      "fecha": "Mon, 02 Nov 2026 19:05:09 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "La bolsa de empleos que desde 2001 conecta a los mejores candidatos de la región con las oportunidades laborales de las empresas líderes en Centroamérica y República Dominicana, Tecoloco, realizó el Galardón EMAT 2026, un evento que premia y reconoce a las mejores empresas para trabajar en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Calendario de adviento 2026 en Guatemala",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/calendario-de-adviento-2026-en-guatemala/",
+      "fecha": "Mon, 02 Nov 2026 18:59:55 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Más que una cuenta regresiva, en este período de tiempo se pueden reforzar las convicciones, compartir los valores y disfrutar de las tradiciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Diputado David Illescas admite participar en una trifulca y portar arma de fuego dentro de un estadio",
+      "link": "https://www.prensalibre.com/guatemala/politica/diputado-david-illescas-admite-participar-en-una-trifulca-y-portar-armar-de-fuego-dentro-de-un-estadio/",
+      "fecha": "Mon, 02 Nov 2026 18:41:54 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El congresista que forma parte del nuevo partido político Raíces indica que es la seguridad del estadio quien no le prohibió ingresar con un arma de fuego."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Me encantaría volver a presentarme”: Trump habla de sus aspiraciones para el 2028",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/trump-insiste-en-que-le-gustaria-competir-por-la-presidencia-de-estados-unidos-en-el-2028/",
+      "fecha": "Mon, 02 Nov 2026 18:25:41 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "El presidente Donald Trump aseguró que le encantaría buscar un tercer mandato presidencial en el 2028, aunque reconoció que la Constitución se lo impide."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Lionel Messi y Cristiano Ronaldo figuran entre los candidatos al equipo ideal 2025-2026?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lionel-messi-y-cristiano-ronaldo-figuran-entre-los-candidatos-al-equipo-ideal-2025-2026/",
+      "fecha": "Mon, 02 Nov 2026 18:15:54 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Messi, Cristiano Ronaldo y seis españoles destacan entre los 26 finalistas al mejor once del mundo de la temporada 2025-2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuándo podría reabrir Irán el estrecho de Ormuz? Esta es su propuesta a Estados Unidos",
+      "link": "https://www.prensalibre.com/internacional/cuando-podria-reabrir-iran-el-estrecho-de-ormuz-esta-es-su-propuesta-a-estados-unidos/",
+      "fecha": "Mon, 02 Nov 2026 17:44:08 +0000",
+      "categoria": "Internacional",
+      "resumen": "La propuesta se apoya en un plan de siete pasos elaborado por Irán, cuyo objetivo es reabrir el estrecho de Ormuz y poner fin al bloqueo naval estadounidense."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Médico y empleada municipal, entre los capturados por irregularidades en caso de menor fallecido en Ciudad Peronia",
+      "link": "https://www.prensalibre.com/guatemala/justicia/medico-y-empleada-municipal-entre-los-capturados-por-irregularidades-en-caso-de-menor-fallecido-en-ciudad-peronia/",
+      "fecha": "Mon, 02 Nov 2026 17:43:50 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El médico habría hecho constar que el menor murió por causas naturales, pero la investigación determinó que falleció por heridas de arma de fuego."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vacaciones escolares en Guatemala 2026: 5 actividades para hacer en casa con niños y adolescentes",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/vacaciones-escolares-en-guatemala-2026-5-actividades-para-hacer-en-casa-con-ninos-y-adolescentes/",
+      "fecha": "Mon, 02 Nov 2026 17:26:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Este es un tiempo de descanso, pero también de exploración de habilidades, destrezas e intereses."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Primera División: fechas, horarios y estadios de los cuartos de final del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/primera-division-fechas-horarios-y-estadios-de-los-cuartos-de-final-del-apertura-2026/",
+      "fecha": "Mon, 02 Nov 2026 16:59:36 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los cuartos de final del Apertura 2026 ya tienen fechas y horarios definidos, con ocho clubes en busca de seguir en carrera por el título."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más de 700 mil quetzales costará el seguro médico de Mazariegos y otros directivos de la Usac",
+      "link": "https://www.prensalibre.com/guatemala/mas-de-700-mil-quetzales-costara-el-seguro-medico-de-mazariegos-y-otros-directivos-de-la-usac/",
+      "fecha": "Mon, 02 Nov 2026 16:55:49 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El beneficio contempla al rector Walter Mazariegos y el resto de integrantes del Consejo Superior Universitario, además de decanos y directores de centros universitarios y escuelas no facultativas, de acuerdo con las bases del proceso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Champions League: calendario completo de la cuarta jornada y horarios de Guatemala",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/champions-league-calendario-completo-de-la-cuarta-jornada-y-horarios-de-guatemala/",
+      "fecha": "Mon, 02 Nov 2026 16:20:05 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La cuarta fecha de la Champions League podría comenzar a definir a los primeros candidatos para avanzar de forma directa a los octavos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué pasará con Inés Gómez Mont tras su detención en Florida? Esto se sabe de su situación",
+      "link": "https://www.prensalibre.com/internacional/que-pasara-con-ines-gomez-mont-tras-su-detencion-en-florida-esto-se-sabe-de-su-situacion/",
+      "fecha": "Mon, 02 Nov 2026 16:14:31 +0000",
+      "categoria": "Internacional",
+      "resumen": "Uno de los aspectos que más llaman la atención del caso son las posibles sanciones que contemplan las leyes mexicanas por los delitos que se le atribuyen a Inés Gómez Mont."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Investigan un posible ciberataque que afecta los refrigeradores de supermercados en 7 países europeos y causa pérdidas millonarias",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/investigan-un-posible-ciberataque-que-afecta-los-refrigeradores-de-supermercados-en-7-paises-europeos-y-causa-perdidas-millonarias/",
+      "fecha": "Mon, 02 Nov 2026 15:39:56 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Según los informes, la temperatura de los congeladores en varias tiendas de toda Europa llegó a alcanzar los 50°C."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué es el adviento y cuándo comienza en el 2026?",
+      "link": "https://www.prensalibre.com/vida/escenario/que-es-el-adviento-y-cuando-comienza-en-el-2026/",
+      "fecha": "Mon, 02 Nov 2026 15:27:08 +0000",
+      "categoria": "Escenario",
+      "resumen": "El período que antecede a la Navidad tiene un significado para la Iglesia católica e incluye actos litúrgicos específicos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Torneo Apertura 2026: así quedó la tabla de posiciones después de los primeros partidos de la jornada 18",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/torneo-apertura-2026-asi-quedo-la-tabla-de-posiciones-despues-de-los-primeros-partidos-de-la-jornada-18/",
+      "fecha": "Mon, 02 Nov 2026 15:24:22 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La jornada 18 favoreció a Antigua GFC, que ganó como visitante y estiró su ventaja en la cima tras los tropiezos de sus perseguidores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Messi vuelve a brillar con un gol y una asistencia en el triunfo del Inter Miami",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-messi-vuelve-a-brillar-con-un-gol-y-una-asistencia-en-el-triunfo-del-inter-miami/",
+      "fecha": "Mon, 02 Nov 2026 15:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Con gol y asistencia de Lionel Messi, Inter Miami remontó ante New England Revolution y aseguró su boleto a la próxima Copa de Campeones de la Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nuevas herramientas de aprendizaje para estudiantes y docentes del país",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/nuevas-herramientas-de-aprendizaje-para-estudiantes-y-docentes-del-pais/",
+      "fecha": "Mon, 02 Nov 2026 14:55:40 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Como parte de su compromiso con el desarrollo sostenible de Guatemala y con el objetivo de generar más oportunidades para las nuevas generaciones, InterBanco, en alianza con la Fundación Sergio Paiz Andrade (Funsepa), incorpora a Pueblo Nuevo, Suchitepéquez a su red de Municipios Digitales, beneficiando directamente a 2,089 estudiantes y 132 docentes mediante herramientas tecnológicas que promueven una educación más innovadora e inclusiva."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Aplicará Haití el modelo de Bukele? El cabecilla de las pandillas pide un diálogo de paz con la ONU",
+      "link": "https://www.prensalibre.com/internacional/aplicara-haiti-el-modelo-de-bukele-el-cabecilla-de-las-pandillas-pide-un-dialogo-de-paz-con-la-onu/",
+      "fecha": "Mon, 02 Nov 2026 14:51:48 +0000",
+      "categoria": "Internacional",
+      "resumen": "El cabecilla de una de las principales bandas armadas haitianas afirmó que las amenazas de Bukele contra las pandillas criminales pueden provocar un aumento de la violencia."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Insivumeh pronostica temperaturas de 2 a 4°C en algunas regiones de Guatemala para esta semana",
+      "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-2-al-6-de-noviembre-2026.html",
+      "fecha": "Mon, 02 Nov 2026 14:38:10 +0000",
+      "categoria": "Comunidad",
+      "resumen": "La temporada fría continúa estableciéndose en Guatemala. Del 2 al 6 de noviembre de 2026, se pronostican temperaturas de 2 a 4°C en algunas regiones.\nThe post Insivumeh pronostica temperaturas de 2 a 4°C en algunas regiones de Guatemala para esta semana appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trata de personas, extorsión y homicidio: PNC reporta capturas por varios delitos en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/justicia/trata-de-personas-extorsion-y-homicidio-pnc-reporta-capturas-por-varios-delitos-en-guatemala-breaking/",
+      "fecha": "Mon, 02 Nov 2026 14:32:00 +0000",
+      "categoria": "Justicia",
+      "resumen": "La Policía Nacional Civil informó de capturas por distintos delitos en al menos cuatro departamentos del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Comunicaciones tiene que estar en los lugares más altos”: el mensaje de Roberto Montoya",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-tiene-que-estar-en-los-lugares-mas-altos-el-mensaje-de-roberto-montoya/",
+      "fecha": "Mon, 02 Nov 2026 14:25:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "“Vamos por los 12 puntos que quedan”, aseguró Roberto Montoya tras la remontada de Comunicaciones frente a Mixco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Cerró la frontera, pero vivimos peor&#8221;: el descontento de los votantes latinos que le dieron a Trump un histórico apoyo en el sur de Texas",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/cerro-la-frontera-pero-vivimos-peor-el-descontento-de-los-votantes-latinos-que-le-dieron-a-trump-un-historico-apoyo-en-el-sur-de-texas/",
+      "fecha": "Mon, 02 Nov 2026 14:09:58 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Trump logró en 2024 un apoyo histórico en el Valle del Río Grande, una región fronteriza con México que no había elegido a un republicano para la Casa Blanca en más de tres décadas. Hoy las encuestas las encabezan los demócratas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clima en Guatemala: calor de hasta 37 °C y frío en otras regiones marcarán esta semana, según el Insivumeh",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-calor-de-hasta-37-c-y-frio-en-otras-regiones-marcaran-esta-semana-segun-el-insivumeh-breaking/",
+      "fecha": "Mon, 02 Nov 2026 13:23:56 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Las lluvias tienden a disminuir en Guatemala, mientras que se prevén temperaturas cálidas en algunas regiones y frías en otras, según el Insivumeh."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Temblores este 2 de noviembre: dónde se registraron los sismos de magnitudes 3.1 y 4",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/temblores-este-2-de-noviembre-donde-se-registraron-los-sismos-de-magnitudes-3-1-y-4-breaking/",
+      "fecha": "Mon, 02 Nov 2026 12:25:37 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh reportó dos temblores con epicentros en distintos puntos este 2 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Corrieron inspirados por una buena causa",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/corrieron-inspirados-por-una-buena-causa/",
+      "fecha": "Mon, 02 Nov 2026 12:13:00 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "San Martín realizó la 13.ª edición de su carrera, donde miles de apasionados por el atletismo llegaron para compartir con amigos, familiares y colegas recorriendo distancias de 5K y 10K, con el objetivo de vivir una experiencia que celebra el esfuerzo individual y demuestra cómo el deporte puede contribuir a transformar vidas a beneficio de la Fundación Margarita Tejada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Prepare esta práctica receta de pechuga glaseada",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/prepare-esta-practica-receta-de-pechuga-glaseada/",
+      "fecha": "Mon, 02 Nov 2026 12:00:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "La técnica del glaseado consiste en preparar una salsa, espesarla, reducirla y aplicarla ligeramente a la proteína durante la cocción, para crear una superficie caramelizada, sabrosa y atractiva."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Abandono de cadáveres en Mixco: capturan a dos personas e incautan armas de fuego y prendas de vestir",
+      "link": "https://www.prensalibre.com/guatemala/justicia/abandono-de-cadaveres-en-mixco-capturan-a-dos-personas-e-incautan-armas-de-fuego-y-prendas-de-vestir-breaking/",
+      "fecha": "Mon, 02 Nov 2026 11:04:31 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Ministerio Público informó sobre la captura de dos personas en el marco de investigaciones relacionadas con el abandono de cadáveres en Mixco."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "STEG convoca a maestros a la Plaza de la Constitución para el 3 de noviembre y estas son las propuestas que plantean",
@@ -244,7 +492,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Entre colores, memoria y tradición: Santiago Sacatepéquez y Sumpango celebran los festivales de barriletes gigantes este 1 de noviembre",
+      "titulo": "Entre colores, memoria y tradición: Santiago y Sumpango Sacatepéquez celebran los festivales de barriletes gigantes este 1 de noviembre",
       "link": "https://www.prensalibre.com/vida/escenario/entre-colores-memoria-y-tradicion-santiago-sacatepequez-y-sumpango-celebran-los-festivales-de-barriletes-gigantes-este-1-de-noviembre/",
       "fecha": "Sun, 01 Nov 2026 19:00:00 +0000",
       "categoria": "Escenario",
@@ -555,246 +803,6 @@
       "resumen": "Con papel de china de colores y materiales sencillos, puede elaborar un barrilete casero ideal para volar y disfrutar en familia. Conozca los pasos para crear uno y compartir una actividad llena de tradición."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Refugiados ucranianos se reúnen con sus familias luego de estar años atrapados en territorio ocupado por Rusia",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/refugiados-ucranianos-se-reunen-con-sus-familias-luego-de-estar-anos-atrapados-en-territorio-ocupado-por-rusia/",
-      "fecha": "Sat, 31 Oct 2026 18:57:43 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Los habitantes de Oleshky se habían quedado sin comida, agua ni electricidad, y muchos recurrieron a cocinar hierbas de sus huertos para sobrevivir."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El mexicano José Muñiz, de Canel’s Java, gana la novena etapa de la Vuelta a Guatemala 2026",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/el-mexicano-jose-muniz-de-canels-java-gana-la-novena-etapa-de-la-vuelta-a-guatemala-2026-breaking/",
-      "fecha": "Sat, 31 Oct 2026 18:49:56 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El mexicano José Ramón Muñiz se impuso al guatemalteco Henry Sam en un final cerrado, en una jornada marcada por la neutralización de la carrera, mientras Jhonatan Chávez defiende el liderato  a un día del cierre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Grandes aliadas cuando se utilizan con planificación",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/grandes-aliadas-cuando-se-utilizan-con-planificacion/",
-      "fecha": "Sat, 31 Oct 2026 18:10:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Para algunas personas, las tarjetas de crédito son una herramienta de conveniencia y seguridad financiera. Sin embargo, para otras, son sinónimo de deudas difíciles de manejar. La diferencia no está en la tarjeta, sino en la forma en que se utiliza. Por tal motivo, BAC brinda unos consejos financieros para mantener tu salud financiera."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala 2026: Intenso tráfico en Chimaltenango obliga a neutralizar la novena etapa",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/intenso-trafico-en-chimaltenango-obliga-a-neutralizar-la-novena-etapa-de-la-vuelta-a-guatemala-breaking/",
-      "fecha": "Sat, 31 Oct 2026 18:03:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El tráfico en la entrada a Chimaltenango obligó a detener la carrera cerca del kilómetro 110 del recorrido y molestó a los ciclistas, que esperan un cambio de ruta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Noche de los Museos 2026: qué lugares visitar gratis, direcciones, parqueos y recomendaciones",
-      "link": "https://www.prensalibre.com/vida/escenario/noche-de-los-museos-2026-que-lugares-visitar-gratis-direcciones-parqueos-y-recomendaciones/",
-      "fecha": "Sat, 31 Oct 2026 17:28:53 +0000",
-      "categoria": "Escenario",
-      "resumen": "Por una noche, diversos espacios que resguardan la historia abrirán sus puertas para que los guatemaltecos descubran su patrimonio de una manera diferente. Conozca los lugares que participarán en esta edición."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala agota los 5 mil 800 boletos para enfrentar a Canadá en El Trébol en cuartos de final de la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-agota-los-5-mil-800-boletos-para-enfrentar-a-canada-en-el-trebol-breaking/",
-      "fecha": "Sat, 31 Oct 2026 17:13:45 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La afición respondió para el duelo de la Liga de Naciones, que tendrá un aforo reducido por sanción de Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala dice presente en la élite del boxeo: Léster Martínez está en Riad para la pelea entre Canelo y Mbilli y comparte postales exclusivas",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/lester-martinez-guatemala-riad-canelo-mbilli-postales-exclusivas-breaking/",
-      "fecha": "Sat, 31 Oct 2026 17:07:39 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El campeón interino del CMB viajó junto a su entrenador, Esaú Diéguez, para presenciar el combate entre Canelo Álvarez y Christian Mbilli."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos militares resultan heridos en puesto de observación entre Ixchiguán y Tajumulco",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/dos-militares-resultan-heridos-en-puesto-de-observacion-entre-ixchiguan-y-tajumulco/",
-      "fecha": "Sat, 31 Oct 2026 17:01:07 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Ejército relacionó el incidente con las disputas territoriales entre grupos armados ilegales entre Ixchiguán y Tajumulco, San Marcos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Canelo vs. Mbilli: Léster Martínez, en primera fila en Riad, espera a su próximo rival",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/canelo-vs-mbilli-lester-martinez-en-primera-fila-en-riad-espera-a-su-proximo-rival-breaking/",
-      "fecha": "Sat, 31 Oct 2026 16:05:00 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "El guatemalteco Léster Martínez, campeón interino del CMB, viajó a Arabia Saudita para ver de cerca la pelea de este sábado que puede definir su camino hacia el título mundial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Declaración de viajero SAT: desde cuándo podrá ingresar US$2 mil en compras del extranjero sin impuestos y en qué casos deberá declarar",
-      "link": "https://www.prensalibre.com/economia/declaracion-de-viajero-sat-desde-cuando-podra-ingresar-us2-mil-en-compras-del-extranjero-sin-impuestos-y-en-que-casos-debera-declarar/",
-      "fecha": "Sat, 31 Oct 2026 16:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Los cambios en las reglas aduaneras permitirán a los viajeros ingresar más compras del extranjero sin pagar impuestos, pero el beneficio tendrá condiciones y la eliminación de la declaración de viajero SAT no significará el fin de los controles. ¿Qué deberán tener en cuenta antes de viajar?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Con frescura prolongada para celebrar la temporada Navideña",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/con-frescura-prolongada-para-celebrar-la-temporada-navidena/",
-      "fecha": "Sat, 31 Oct 2026 15:51:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "La empresa con más de 100 años de experiencia en la fabricación de productos para la limpieza y cuidado de la ropa, Industria La Popular (ILP), desea que las familias guatemaltecas tengan unas “Felices Fiestas”, así como lo indica el nombre de su nueva colección de edición limitada de fin de año que reúne a Zagaz, Espumil y Olimpo para llenar los hogares guatemaltecos de frescura, aromas modernos y momentos alegres para compartir."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Vuelta a Guatemala 2026: siga la novena etapa entre Sololá y Ciudad Vieja",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-vuelta-a-guatemala-2026-siga-la-novena-etapa-entre-solola-y-ciudad-vieja-breaking/",
-      "fecha": "Sat, 31 Oct 2026 14:50:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "Jhonatan Chaves defenderá el liderato en una novena etapa de 139.1 kilómetros que definirá al campeón de la montaña, a una sola jornada del cierre en el Anillo Periférico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Puente Pinula: alcalde habilita el paso pese a tres advertencias de cierre de la Conred",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/puente-pinula-alcalde-habilita-el-paso-pese-a-tres-advertencias-de-cierre-de-la-conred/",
-      "fecha": "Sat, 31 Oct 2026 14:42:55 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El alcalde de San Miguel Petapa, Mynor Morales, habilitó nuevamente el paso por el puente Pinula, pero la Conred insiste en mantenerlo cerrado y este sábado ha emitido una tercera advertencia por los riesgos de utilizar la estructura."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué creer que la IA tiene conciencia y sentimientos puede ser catastrófico",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/por-que-creer-que-la-ia-tiene-conciencia-y-sentimientos-puede-ser-catastrofico/",
-      "fecha": "Sat, 31 Oct 2026 13:50:06 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Algunos de los líderes tecnológicos más poderosos están tratando la IA como si tuviera sentimientos. Eso podría tener consecuencias profundas para nuestro mundo y para tu seguridad personal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo se comunican los perros para poder entenderlos?",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/como-se-comunican-los-perros-para-poder-entenderlos/",
-      "fecha": "Sat, 31 Oct 2026 12:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "¿Cómo saber si nuestro perro está estresado, alegre o enojado? Simple: prestando atención a la forma en que mueve la cola, orejas, ojos o blefos -labios-, mediante los cuales manifiesta diversidad de emociones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala 2026: este es el recorrido de la novena etapa, de Sololá a Ciudad Vieja",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-este-es-el-recorrido-de-la-novena-etapa-de-solola-a-ciudad-vieja/",
-      "fecha": "Sat, 31 Oct 2026 10:00:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La emoción continúa en la 65 Vuelta a Guatemala 2026 con la disputa de la novena y penúltima etapa. Jhonatan Chávez defenderá el liderato."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Eddy Carpio Sam asume el Banguat: sectores piden independencia y continuidad de la política monetaria",
-      "link": "https://www.prensalibre.com/economia/eddy-carpio-sam-asume-el-banguat-sectores-piden-independencia-y-continuidad-de-la-politica-monetaria/",
-      "fecha": "Sat, 31 Oct 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Mantener la independencia y autonomía del Banco de Guatemala (Banguat) y de la Junta Monetaria es la principal coincidencia entre diversos sectores tras la designación de Eddy Roberto Carpio Sam al frente de la banca central. Coinciden en que su principal desafío será preservar la estabilidad macroeconómica del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rodadas del terror",
-      "link": "https://www.prensalibre.com/opinion/caricatura/rodadas-del-terror/",
-      "fecha": "Sat, 31 Oct 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Boato de 15 años atrajo atención hasta de EE. UU.",
-      "link": "https://www.prensalibre.com/opinion/editorial/boato-de-15-anos-atrajo-atencion-hasta-de-ee-uu/",
-      "fecha": "Sat, 31 Oct 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "El tema de fondo es que la fiesta atrajo la atención de la Embajada de Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nuevos mandos de la PNC enfrentan varios retos para recuperar la confianza de la ciudadanía, afirman analistas",
-      "link": "https://www.prensalibre.com/guatemala/justicia/nuevos-mandos-de-la-pnc-enfrentan-varios-retos-para-recuperar-la-confianza-de-la-ciudadania-afirman-analistas/",
-      "fecha": "Sat, 31 Oct 2026 06:05:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Érick Rolando Osoy López y Selvin Solano Galicia asumieron el mando en la Policía Nacional Civil (PNC), en un contexto marcado por cuestionamientos a la institución, investigaciones internas, y la exigencia de fortalecer la confianza de la población en las fuerzas de seguridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Demócratas apuestan por el costo de vida para recuperar la Cámara de Representantes de EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/democratas-apuestan-por-el-costo-de-vida-para-recuperar-la-camara-de-representantes-de-ee-uu/",
-      "fecha": "Sat, 31 Oct 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los demócratas necesitan tres escaños adicionales para obtener la mayoría, mientras una encuesta revela mayor confianza ciudadana en su manejo de la economía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Más que agradar, se debe adherir a las normas",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/mas-que-agradar-se-debe-adherir-a-las-normas/",
-      "fecha": "Sat, 31 Oct 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Las normas que sustentamos deberían ser entendidas como asuntos no negociables."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fray Augusto: ayudar a un campesino le costó la vida",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/fray-augusto-ayudar-a-un-campesino-le-costo-la-vida/",
-      "fecha": "Sat, 31 Oct 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Fray Augusto Ramírez Monasterio escuchó a un campesino perseguido y decidió ayudarlo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala se prepara para evento mundial en Turquía",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/guatemala-se-prepara-para-evento-mundial-en-turquia/",
-      "fecha": "Sat, 31 Oct 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "COP31: de los compromisos a la implementación"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La historia la escriben los vencedores",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-historia-la-escriben-los-vencedores/",
-      "fecha": "Sat, 31 Oct 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "De la gesta revolucionaria de 1944 han pasado 82 años y seguimos en el mismo atraso que pretendió superar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cinco instituciones de salud solicitan aumentos de presupuesto que suman Q190 millones para el 2027",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/cinco-instituciones-de-salud-solicitan-aumentos-de-presupuesto-que-suman-q190-millones-para-el-2027/",
-      "fecha": "Sat, 31 Oct 2026 06:01:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Cinco instituciones que apoyan al Ministerio de Salud en la atención especializada de pacientes solicitan un incremento en el presupuesto del 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy sábado 31 de octubre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-31-de-octubre-de-2026/",
-      "fecha": "Sat, 31 Oct 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuando el Estado pierde su autoridad",
-      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/cuando-el-estado-pierde-su-autoridad/",
-      "fecha": "Sat, 31 Oct 2026 06:00:00 +0000",
-      "categoria": "Plumas invitadas",
-      "resumen": "Un Estado que no puede proteger a sus propios funcionarios difícilmente puede garantizar la seguridad, la libertad y los derechos de sus ciudadanos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Investigación BBC: los saboteadores rusos que atentan desde dentro del país para ayudar a Ucrania frente a Putin",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/investigacion-bbc-los-saboteadores-rusos-que-atentan-desde-dentro-del-pais-para-ayudar-a-ucrania-frente-a-putin/",
-      "fecha": "Sat, 31 Oct 2026 04:59:18 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Dos hombres relatan el trabajo que, según dicen, han estado realizando desde Rusia para apoyar a la inteligencia ucraniana durante la guerra."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. alerta sobre posibles atentados contra puentes e instalaciones portuarias en Honduras",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/ee-uu-alerta-sobre-posibles-atentados-contra-puentes-e-instalaciones-portuarias-en-honduras/",
-      "fecha": "Sat, 31 Oct 2026 03:33:43 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "La Embajada de Estados Unidos en Honduras recomendó evitar Puerto Cortés durante el fin de semana, ante posibles atentados contra puentes e instalaciones portuarias."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Servicios Empresariales de INTECAP: asesorías para pequeños empresarios y emprendedores en Guatemala",
       "link": "https://www.guatemala.com/noticias/sociedad/servicios-empresariales-intecap-pequenos-empresarios-emprendedores.html",
@@ -865,14 +873,6 @@
       "fecha": "Tue, 27 Oct 2026 20:38:44 +0000",
       "categoria": "Tecnología",
       "resumen": "Claro ya tiene disponible el iPhone 18 en Guatemala, con compras al contado, hasta 48 cuotas y Trade In con hasta 50% de descuento.\nThe post Claro Guatemala y Apple fortalecen su colaboración para ofrecer más opciones de compra del nuevo iPhone 18 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "1 de noviembre 2026: Conoce los horarios de cementerios públicos y privados en Ciudad Guatemala",
-      "link": "https://www.guatemala.com/noticias/comunidad/horarios-cementerios-1-noviembre-2026-dia-de-todos-los-santos-ciudad-guatemala.html",
-      "fecha": "Tue, 27 Oct 2026 18:16:36 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Conoce los horarios que tendrán los cementerios públicos y privados en la Ciudad de Guatemala este 1 de noviembre de 2026, Día de Todos los Santos.\nThe post 1 de noviembre 2026: Conoce los horarios de cementerios públicos y privados en Ciudad Guatemala appeared first on Guatemala.com."
     }
   ]
 }
