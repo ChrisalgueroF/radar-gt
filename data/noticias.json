@@ -1,7 +1,143 @@
 {
-  "actualizado": "2026-11-03T02:50:16.718Z",
+  "actualizado": "2026-11-03T10:39:03.181Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Festival de las Pascuas 2026: San Miguel Dueñas se llenará de color, gastronomía, música y espíritu navideño",
+      "link": "https://www.prensalibre.com/vida/escenario/festival-de-las-pascuas-2026-san-miguel-duenas-se-llenara-de-color-gastronomia-musica-y-espiritu-navideno/",
+      "fecha": "Tue, 03 Nov 2026 10:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con el objetivo de promover y resaltar el trabajo de los productores locales, San Miguel Dueñas celebrará una nueva edición del Festival de las Pascuas. Conozca los detalles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Elecciones de medio término en EE. UU.: así se desarrolla la jornada de votaciones este 3 de noviembre",
+      "link": "https://www.prensalibre.com/internacional/en-vivo-elecciones-de-medio-termino-en-ee-uu-asi-se-desarrolla-la-jornada-de-votaciones-este-3-de-noviembre/",
+      "fecha": "Tue, 03 Nov 2026 10:00:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Estados Unidos renueva parte del Congreso en unas elecciones que pondrán a prueba el respaldo a Trump y definirán el control de ambas cámaras."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alimentación escolar que exige el STEG absorbería la mitad del presupuesto que pide el Mineduc para el 2027",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/alimentacion-escolar-que-exige-el-steg-absorberia-la-mitad-del-presupuesto-que-pide-el-mineduc-para-el-2027/",
+      "fecha": "Tue, 03 Nov 2026 10:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El sindicato de Joviel Acevedo volverá a las calles este martes 3 de noviembre para exigir que la cuota de alimentación escolar suba a Q25 por estudiante."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cixsa: &#8220;Las demoras en puertos han elevado un 20% los costos&#8221;",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/cixsa-las-demoras-en-puertos-han-elevado-un-20-los-costos/",
+      "fecha": "Tue, 03 Nov 2026 10:00:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "La llegada a Estados Unidos abre una nueva etapa para el grupo, que apuesta por la genética avícola en un mercado de mayor escala. Sin embargo, su director general, Enrique Font, señala desafíos logísticos de país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE.UU. lanza &#8220;ataques defensivos&#8221; contra Irán antes de las elecciones de medio mandato",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ee-uu-lanza-ataques-defensivos-contra-iran-antes-de-las-elecciones-de-medio-mandato/",
+      "fecha": "Tue, 03 Nov 2026 07:53:17 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Funcionarios estadounidenses describieron los ataques en la isla de Qeshm como limitados y defensivos, según la CBS, socio de la BBC en Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Celulares en cárceles: Congreso conocerá iniciativa que propone nuevos delitos y sanciones",
+      "link": "https://www.prensalibre.com/guatemala/politica/celulares-en-carceles-congreso-conocera-iniciativa-que-propone-nuevos-delitos-y-sanciones/",
+      "fecha": "Tue, 03 Nov 2026 06:12:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Con dictamen favorable de la Comisión de Gobernación, la iniciativa propone penas de hasta 10 años por facilitar comunicaciones ilícitas en cárceles y obliga a las telefónicas a bloquear señales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El café guatemalteco rompe récord de ingresos: qué impulsó las exportaciones y qué viene para 2027",
+      "link": "https://www.prensalibre.com/economia/el-cafe-guatemalteco-rompe-record-de-ingresos-que-impulso-las-exportaciones-y-que-viene-para-2027/",
+      "fecha": "Tue, 03 Nov 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Las exportaciones de café de Guatemala alcanzaron cifras récord tanto en divisas como en volumen durante la cosecha 2025-2026. El precio promedio del quintal rondó los US$300, según una fuente oficial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Se inician preparativos",
+      "link": "https://www.prensalibre.com/opinion/caricatura/se-inician-preparativos/",
+      "fecha": "Tue, 03 Nov 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sospechoso fallo de sala de Petén sin juicio",
+      "link": "https://www.prensalibre.com/opinion/editorial/sospechoso-fallo-de-sala-de-peten-sin-juicio/",
+      "fecha": "Tue, 03 Nov 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "En estos casos no hay espacio para afinidades, y menos para tratar de argumentar supuestos sesgos ideológicos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El reto de la educación: aprender a resolver problemas",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-reto-de-la-educacion-aprender-a-resolver-problemas/",
+      "fecha": "Tue, 03 Nov 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Enseñar a repetir respuestas memorizadas resulta absurdo cuando el mundo está cambiando las preguntas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones intermedias en Estados Unidos 2026: cinco preguntas clave para la votación del 3 de noviembre",
+      "link": "https://www.prensalibre.com/internacional/elecciones-intermedias-en-estados-unidos-2026-cinco-preguntas-clave-para-la-votacion-del-3-de-noviembre/",
+      "fecha": "Tue, 03 Nov 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "La contienda por el Senado en Maine, el financiamiento de multimillonarios y las posibles impugnaciones electorales figuran entre los asuntos que generan incertidumbre en las elecciones en Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inteligencia artificial: por dónde empezar",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/inteligencia-artificial-por-donde-empezar/",
+      "fecha": "Tue, 03 Nov 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Aprender a usar estas herramientas puede ayudarnos a resolver dudas cotidianas y acompañar mejor a nuestros hijos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El miedo a Washington",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-miedo-a-washington/",
+      "fecha": "Tue, 03 Nov 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "¿Cuántos candidatos están realmente preocupados por la posibilidad de enfrentar restricciones migratorias, investigaciones financieras o sanciones estadounidenses?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La tecnología sale de la pantalla",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/la-tecnologia-sale-de-la-pantalla/",
+      "fecha": "Tue, 03 Nov 2026 06:02:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "La pregunta decisiva será qué debe transformar una empresa por dentro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿En qué momento olvidamos a la escuela de Salamanca?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/en-que-momento-olvidamos-a-la-escuela-de-salamanca/",
+      "fecha": "Tue, 03 Nov 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "¿Qué aportan los escolásticos a nuevas generaciones?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy martes 3 de noviembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-3-de-noviembre-de-2026/",
+      "fecha": "Tue, 03 Nov 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos casos de delincuencia contra motoristas en Escuintla: uno escapa de un asalto y una pareja pierde su moto",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-hechos-contra-motoristas-en-escuintla-uno-escapa-de-un-asalto-y-una-pareja-pierde-su-motocicleta/",
+      "fecha": "Tue, 03 Nov 2026 03:42:08 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos videos difundidos en redes sociales muestran un robo y un presunto intento de asalto contra motoristas en la ruta de Cocales hacia Santa Lucía Cotzumalguapa."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Ataque de EE. UU. contra Irán: qué se sabe de la operación militar en la isla de Qeshm",
@@ -673,142 +809,6 @@
       "fecha": "Sun, 01 Nov 2026 19:00:00 +0000",
       "categoria": "Escenario",
       "resumen": "Una tradición que une generaciones se celebra este 1 de noviembre con los festivales de barriletes gigantes, donde el color y el arte mantienen vivo el legado familiar y cultural."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jhonatan Cháves, de NU Colombia, se corona campeón de la Vuelta a Guatemala 2026",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/jhonatan-chaves-de-nu-colombia-se-corona-campeon-de-la-vuelta-a-guatemala-2026-breaking/",
-      "fecha": "Sun, 01 Nov 2026 18:42:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El colombiano Jhonatan Cháves aseguró el suéter amarillo en una décima etapa tranquila en el Anillo Periférico y cerró diez días de competencia conquistando el título de la 65 edición de la Vuelta a Guatemala 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; San Pedro vs. Municipal: siga el minuto a minuto de la jornada 18",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-san-pedro-fc-vs-municipal-siga-el-minuto-a-minuto-de-la-jornada-18-breaking/",
-      "fecha": "Sun, 01 Nov 2026 18:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los gallos reciben a los escarlatas este domingo a las 3:00 PM en el estadio Municipal de San Pedro, en un partido en el que Municipal buscará mantener la presión sobre el líder."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inde solicita Q1 mil millones del presupuesto del Estado del 2027 para subsidiar la tarifa social de energía eléctrica que beneficia a 2.3 millones de hogares",
-      "link": "https://www.prensalibre.com/economia/inde-solicita-q1-mil-millones-del-presupuesto-del-estado-del-2027-para-subsidiar-la-tarifa-social-de-energia-electrica-que-beneficia-a-2-3-millones-de-hogares/",
-      "fecha": "Sun, 01 Nov 2026 17:49:14 +0000",
-      "categoria": "Economía",
-      "resumen": "El Inde solicitó al Congreso de la República  que le apruebe Q1 mil millones del presupuesto del Estado del 2027 para cubrir el subsidio a la tarifa social de energía eléctrica durante ese año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mbappé, Bellingham y Diomande guían la goleada del Real Madrid 3-0 al Racing de Santander",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mbappe-bellingham-y-diomande-guian-la-goleada-del-real-madrid-3-0-al-racing-breaking/",
-      "fecha": "Sun, 01 Nov 2026 17:12:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Real Madrid venció 3-0 al Racing de Santander en El Sardinero con tres goles en el primer tiempo, y llega a 27 puntos para mantenerse tercero en LaLiga por debajo del Barcelona y Atlético de Madrid."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC intensifica controles para prevenir incidentes durante celebraciones del Día de Todos los Santos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-intensifica-controles-para-prevenir-incidentes-durante-celebraciones-del-dia-de-todos-los-santos/",
-      "fecha": "Sun, 01 Nov 2026 17:10:24 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Agentes de la Policía Nacional Civil (PNC) efectuaron patrullajes y controles en diferentes sectores del país durante la noche de Halloween, con el propósito de prevenir hechos delictivos, carreras no autorizadas y otros incidentes. Las acciones continúan este domingo 1 de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video del Desfile de Fieros 2026: así se vive la tradición en Villa Nueva",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/video-del-desfile-de-fieros-2026-asi-se-vive-la-tradicion-en-villa-nueva/",
-      "fecha": "Sun, 01 Nov 2026 16:39:58 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Más de 3 mil 600 participantes y alrededor de 80 grupos recorren las calles de Villa Nueva este 1 de noviembre, en una tradición que cumple 21 años como Patrimonio Cultural."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Aurora FC vs. Antigua GFC: siga el minuto a minuto de la jornada 18",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-aurora-fc-vs-antigua-gfc-siga-el-minuto-a-minuto-de-la-jornada-17-breaking/",
-      "fecha": "Sun, 01 Nov 2026 16:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los aurinegros reciben al líder Antigua este domingo a las 11:00 AM en el estadio Cementos Progreso en el partido que abre la jornada 18 del torneo Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Vuelta a Guatemala 2026: siga la décima y última etapa en el Anillo Periférico",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/en-vivo-vuelta-a-guatemala-2026-siga-la-decima-y-ultima-etapa-en-el-anillo-periferico-breaking/",
-      "fecha": "Sun, 01 Nov 2026 15:40:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El colombiano Jhonatan Chávez, del NU Colombia, saldrá como líder en la última etapa de la Vuelta a Guatemala, una jornada de 121.3 kilómetros en terreno llano en la que defenderá su ventaja para coronarse campeón."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Racing de Santander vs. Real Madrid: siga la jornada 11 de LaLiga",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-racing-de-santander-vs-real-madrid-siga-la-jornada-11-de-laliga-breaking/",
-      "fecha": "Sun, 01 Nov 2026 14:15:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Los merengues visitan El Sardinero con Courtois de regreso para la jornada 11 de LaLiga y buscan no despegarse de Atlético y Barcelona, que ganaron ayer."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Antes de que corran los caballos: lo que ocurre durante un año para celebrar el Juego de Gallos",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/antes-de-que-corran-los-caballos-lo-que-ocurre-durante-un-ano-para-celebrar-el-juego-de-gallos/",
-      "fecha": "Sun, 01 Nov 2026 13:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Migrantes, capitanes y familias preparan durante meses el Juego de Gallos en Todos Santos Cuchumatán, una tradición maya mam que trasciende el 1 de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelta a Guatemala 2026: este es el recorrido de la décima etapa, en el Anillo Periférico",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/vuelta-a-guatemala-2026-este-es-el-recorrido-de-la-decima-etapa-en-el-anillo-periferico-breaking/",
-      "fecha": "Sun, 01 Nov 2026 12:30:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La 65 Vuelta Ciclística a Guatemala cierra este domingo 1 de noviembre con una etapa de 121.3 kilómetros en terreno llano en la ciudad capital. Jhonatan Chávez defenderá el liderato."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/por-que-trump-se-enfrenta-al-mismo-problema-economico-que-hundio-a-biden/",
-      "fecha": "Sun, 01 Nov 2026 11:54:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Donald Trump llega a las elecciones de mitad de mandato en Estados Unidos con un problema similar al del expresidente demócrata."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Nos abandonaron en bolsas cuando éramos bebés y décadas después descubrimos que éramos hermanos&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/nos-abandonaron-en-bolsas-cuando-eramos-bebes-y-decadas-despues-descubrimos-que-eramos-hermanos/",
-      "fecha": "Sun, 01 Nov 2026 11:09:15 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "David McBride pasó años buscando a su madre tras ser abandonado cuando era un bebé. En su lugar, encontró a una hermana y un hermano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones en Estados Unidos: por qué sus resultados importan a Guatemala y qué podría cambiar",
-      "link": "https://www.prensalibre.com/internacional/elecciones-en-estados-unidos-por-que-sus-resultados-importan-a-guatemala-y-que-podria-cambiar/",
-      "fecha": "Sun, 01 Nov 2026 11:00:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las elecciones en Estados Unidos ponen bajo la lupa el futuro de las políticas migratorias, el comercio bilateral y los recursos económicos que llegan a Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones en EE. UU.: qué puede pasar con el poder de Donald Trump si los republicanos pierden el control del Congreso",
-      "link": "https://www.prensalibre.com/internacional/elecciones-en-ee-uu-que-puede-pasar-con-el-poder-de-donald-trump-si-los-republicanos-pierden-el-control-del-congreso/",
-      "fecha": "Sun, 01 Nov 2026 10:00:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los estadounidenses están convocados a las urnas para renovar la Cámara de Representantes y una parte del Senado. ¿Qué es lo que está en juego para la Casa Blanca con estas elecciones?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En la mira",
-      "link": "https://www.prensalibre.com/opinion/caricatura/en-la-mira-2/",
-      "fecha": "Sun, 01 Nov 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Memorial y llamado",
-      "link": "https://www.prensalibre.com/opinion/editorial/memorial-y-llamado/",
-      "fecha": "Sun, 01 Nov 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Los políticos también pueden aportar mucho a la verdadera cultura de vida."
     },
     {
       "fuente": "Guatemala.com",
