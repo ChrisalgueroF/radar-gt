@@ -1,7 +1,239 @@
 {
-  "actualizado": "2026-11-03T10:39:03.181Z",
+  "actualizado": "2026-11-03T18:18:48.123Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Accidente en el set de &#8220;The Batman Part II&#039;&#8221; detuvo el rodaje: el Batimóvil atropelló a un actor, ¿qué se sabe?",
+      "link": "https://www.prensalibre.com/vida/escenario/accidente-en-el-set-de-the-batman-part-ii-detuvo-el-rodaje-el-batimovil-atropello-a-un-actor-que-se-sabe/",
+      "fecha": "Tue, 03 Nov 2026 17:58:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El incidente ha sido tratado con discreción y no se ha identificado al miembro del elenco que habría sido atendido en un hospital."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Nuevo requisito que deben cumplir los guatemaltecos para viajar a Estados Unidos en noviembre de 2026",
+      "link": "https://www.guatemala.com/noticias/comunidad/nuevo-requisito-que-deben-cumplir-los-guatemaltecos-para-viajar-a-estados-unidos-desde-noviembre-de-2026.html",
+      "fecha": "Tue, 03 Nov 2026 17:23:14 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Conoce el nuevo requisito para viajar a Estados Unidos: los pasajeros deberán declarar que no estuvieron en la RDC durante 21 días.\nThe post Nuevo requisito que deben cumplir los guatemaltecos para viajar a Estados Unidos en noviembre de 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Justin Timberlake revelará todos sus secretos en una docuserie: ¿dónde y cuándo se estrenará?",
+      "link": "https://www.prensalibre.com/vida/escenario/justin-timberlake-revelara-todos-sus-secretos-en-una-docuserie-donde-y-cuando-se-estrenara/",
+      "fecha": "Tue, 03 Nov 2026 17:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El cantante y actor dará a conocer detalles acerca de sus episodios más escandalosos, incluido el vivido junto a Janet Jackson."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Joviel Acevedo declara al STEG en asamblea permanente y lanza advertencia electoral a diputados",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/joviel-acevedo-declara-al-steg-en-asamblea-permanente-y-lanza-advertencia-electoral-a-diputados/",
+      "fecha": "Tue, 03 Nov 2026 16:50:41 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Joviel Acevedo presentó más de un millón de firmas que, según el sindicato, respaldan sus demandas y advirtió a los diputados sobre las elecciones del 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Canadá cita a todas sus figuras: anuncia su convocatoria para enfrentar a Guatemala en la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/canada-cita-a-todas-sus-figuras-anuncia-su-convocatoria-para-enfrentar-a-guatemala-en-la-liga-de-naciones-breaking/",
+      "fecha": "Tue, 03 Nov 2026 16:34:27 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Con sus principales referentes incluidos, Canadá anunció la nómina para la serie ante Guatemala por un boleto al Final Four de la Liga de Naciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Me voy a encontrar una nueva familia&#8221;: Britney Spears acusa a su hermana y a su exesposo de maltratarla",
+      "link": "https://www.prensalibre.com/vida/escenario/me-voy-a-encontrar-una-nueva-familia-britney-spears-acusa-a-su-hermana-y-a-su-exesposo-de-maltratarla/",
+      "fecha": "Tue, 03 Nov 2026 16:30:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante estadounidense asegura que tanto Jamie Lynn Spears como el padre de sus hijos, Kevin Federline, la trataron como a una esclava."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ley antilavado: SIB define los cargos públicos que dan condición de persona expuesta políticamente",
+      "link": "https://www.prensalibre.com/economia/ley-antilavado-sib-define-los-cargos-publicos-que-dan-condicion-de-persona-expuesta-politicamente/",
+      "fecha": "Tue, 03 Nov 2026 16:26:26 +0000",
+      "categoria": "Economía",
+      "resumen": "La resolución 1799-2026 organiza el listado en 11 secciones y establece quiénes estarán sujetos a medidas adicionales de debida diligencia conforme a la nueva ley antilavado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuál sería la sanción para Jesús Owono tras el incidente con Jesús de Miguel?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cual-seria-la-sancion-para-jesus-owono-tras-el-incidente-con-jesus-de-miguel/",
+      "fecha": "Tue, 03 Nov 2026 16:15:19 +0000",
+      "categoria": "Deportes",
+      "resumen": "El futbol español permanece consternado mientras la RFEF evalúa la sanción que recibirá Jesús Owono tras el trágico incidente ocurrido ante el Tenerife."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Médico y empleada municipal, ligados a proceso por muerte de menor baleado registrada como natural en Ciudad Peronia",
+      "link": "https://www.prensalibre.com/guatemala/justicia/medico-y-empleada-municipal-ligados-a-proceso-por-muerte-de-menor-baleado-registrada-como-natural-en-ciudad-peronia/",
+      "fecha": "Tue, 03 Nov 2026 16:13:43 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Cuatro personas quedaron ligadas a proceso por presuntas irregularidades para ocultar la muerte violenta de un menor en Ciudad Peronia. Ningún sospechoso fue a prisión preventiva."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "UNO Plus en Guatemala, la plataforma que ofrece puntos, premios y promociones",
+      "link": "https://www.guatemala.com/noticias/tecnologia/nueva-plataforma-uno-plus-guatemala.html",
+      "fecha": "Tue, 03 Nov 2026 16:12:57 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Descubre cómo funciona UNO Plus en Guatemala, cómo acumular puntos y participar para ganar un año de combustible gratis esta Navidad.\nThe post UNO Plus en Guatemala, la plataforma que ofrece puntos, premios y promociones appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quiénes fueron los jugadores que murieron por accidentes en una cancha de futbol?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/quienes-fueron-los-jugadores-que-murieron-por-accidentes-en-una-cancha-de-futbol/",
+      "fecha": "Tue, 03 Nov 2026 16:02:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La muerte del delantero del CD Tenerife, Jesús de Miguel, tras sufrir un fuerte golpe durante un partido ante el FC Andorra, reavivó el recuerdo de otros futbolistas que perdieron la vida como consecuencia de impactos sufridos en pleno encuentro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Narcotráfico en Guatemala: así operaba la red vinculada a Sergio Cifuentes, esposo de la alcaldesa de Zacapa, y otros 17 narcos",
+      "link": "https://www.prensalibre.com/guatemala/narcotrafico-en-guatemala-asi-operaba-la-red-vinculada-a-sergio-cifuentes-esposo-de-la-alcaldesa-de-zacapa-y-otros-17-narcos/",
+      "fecha": "Tue, 03 Nov 2026 16:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El esposo de la alcaldesa de Zacapa y  el hombre conocidio como el Rey del Mar, señalado como líder de una red que traficaba cocaína por el océano Pacífico, figuran entre los condenados en EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La COPA ENERGUATE entra en su etapa decisiva para conocer a los campeones",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-copa-energuate-entra-en-su-etapa-decisiva-para-conocer-a-los-campeones/",
+      "fecha": "Tue, 03 Nov 2026 15:51:58 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Miles de participantes han demostrado su talento, disciplina y pasión por el fútbol en la COPA ENERGUATE 2026, dentro las categorías Sub-10 masculina, Sub-14 masculina y Sub-14 femenina. Ahora los equipos clasificados comenzarán la esperada fase regional, que reunirá a los mejores representantes de cada municipio en la búsqueda de un lugar en la gran final nacional, programada para el 3 de diciembre en la Ciudad de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Shakira llega de emergencia a Colombia: su padre habría sido hospitalizado nuevamente",
+      "link": "https://www.prensalibre.com/vida/escenario/shakira-llega-de-emergencia-a-colombia-su-padre-habria-sido-hospitalizado-nuevamente/",
+      "fecha": "Tue, 03 Nov 2026 15:42:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "William Mebarak, de 95 años habría sufrido una recaída de salud  y la cantante acudió a su país natal a acompañar a su familia"
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "ENERGUATE acompaña el desarrollo de Guatemala con la modernización de su red eléctrica",
+      "link": "https://www.guatemala.com/noticias/sociedad/energuate-moderniza-red-electrica-acompanar-crecimiento-guatemala.html",
+      "fecha": "Tue, 03 Nov 2026 15:24:02 +0000",
+      "categoria": "Sociedad",
+      "resumen": "ENERGUATE moderniza su red eléctrica para atender el crecimiento de la demanda y prepararse para los desafíos del futuro. \nThe post ENERGUATE acompaña el desarrollo de Guatemala con la modernización de su red eléctrica appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ejército de Bukele lanza ofensiva contra bandas criminales en Haití: qué pandillas buscan desmantelar",
+      "link": "https://www.prensalibre.com/internacional/ejercito-de-bukele-lanza-ofensiva-contra-bandas-criminales-en-haiti-que-pandillas-buscan-desmantelar-breaking/",
+      "fecha": "Tue, 03 Nov 2026 15:05:53 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Ejército de El Salvador lanzó su primera gran operación en Haití para desmantelar las pandillas señaladas como responsables de la desaparición de cuatro soldados salvadoreños."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Policía revela más detalles sobre la muerte de un agente en la Academia de la PNC",
+      "link": "https://www.prensalibre.com/guatemala/justicia/policia-revela-mas-detalles-sobre-la-muerte-de-un-agente-en-la-academia-de-la-pnc/",
+      "fecha": "Tue, 03 Nov 2026 15:05:51 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Dos informes de la PNC revelan detalles sobre la muerte del agente Walter Isaías Alvarado Oxlaj, hallado con lesiones en un área de la Academia de la Policía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El fallecimiento de Jesús de Miguel recuerda uno de los episodios más dolorosos del futbol guatemalteco",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-fallecimiento-de-jesus-de-miguel-recuerda-uno-de-los-episodios-mas-dolorosos-del-futbol-guatemalteco/",
+      "fecha": "Tue, 03 Nov 2026 14:54:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El fallecimiento de Jesús de Miguel en España  tras un fuerte choque durante un encuentro oficial trae a la memoria un episodio que conmocionó al balompié guatemalteco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Peregrinación histórica: Jesús Nazareno de la Caída recorre los antiguos templos de Antigua Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/peregrinacion-historica-jesus-nazareno-de-la-caida-recorre-los-antiguos-templos-de-antigua-guatemala/",
+      "fecha": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Jesús Nazareno de la Caída realiza una peregrinación por los antiguos templos de Antigua Guatemala, un recorrido que continuará durante noviembre. Conozca los templos que visitará y las fechas de los traslados procesionales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Muere Jesús de Miguel, delantero del CD Tenerife: ¿qué le ocurrió durante el partido?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/muere-jesus-de-miguel-delantero-del-cd-tenerife-que-le-ocurrio-durante-el-partido-breaking/",
+      "fecha": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La muerte de Jesús de Miguel, delantero del Tenerife, conmociona al futbol español tras el incidente sufrido en el duelo frente al Andorra."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE.UU. acude a las urnas en unas elecciones de medio mandato cruciales para el futuro del gobierno de Trump",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ee-uu-acude-a-las-urnas-en-unas-elecciones-de-medio-mandato-cruciales-para-el-futuro-del-gobierno-de-trump/",
+      "fecha": "Tue, 03 Nov 2026 13:49:12 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Millones de votantes en los 50 estados del país eligen a los miembros de la Cámara de Representantes. También está en juego un tercio de escaños del Senado. Se trata de comicios clave para el presidente, que podría perder el control del Congreso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Temblor en Guatemala hoy 3 de noviembre: Insivumeh reporta sismo de magnitud 3.3 y revela el epicentro",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-en-guatemala-hoy-3-de-noviembre-insivumeh-reporta-sismo-de-magnitud-3-3-y-revela-el-epicentro-breaking/",
+      "fecha": "Tue, 03 Nov 2026 13:31:54 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh dio detalles sobre el temblor registrado en Guatemala este martes 3 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El legado musical de Manuel de Falla en un concierto que reúne talento guatemalteco y español",
+      "link": "https://www.prensalibre.com/vida/escenario/el-legado-musical-de-manuel-de-falla-en-un-concierto-que-reune-talento-guatemalteco-y-espanol/",
+      "fecha": "Tue, 03 Nov 2026 13:23:27 +0000",
+      "categoria": "Escenario",
+      "resumen": "La pianista española Juana Ramos se une a un ensamble de intérpretes guatemaltecos en la galería de la Fundación Paiz para cerrar el ciclo Talento español,  del Centro Cultural de España."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Wilson Chonay: de pensar en el retiro a conquistar el podio de la Vuelta a Guatemala",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/wilson-chonay-de-pensar-en-el-retiro-a-conquistar-el-podio-de-la-vuelta-a-guatemala-breaking/",
+      "fecha": "Tue, 03 Nov 2026 13:03:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "A sus 23 años, estuvo cerca de abandonar el ciclismo por las caídas y las lesiones. La Vuelta le devolvió la confianza y confirmó su talento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué (ahora sí) los demócratas pueden lograr en Texas un triunfo trascendental tras décadas de derrotas",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-ahora-si-los-democratas-pueden-lograr-en-texas-un-triunfo-trascendental-tras-decadas-de-derrotas/",
+      "fecha": "Tue, 03 Nov 2026 12:40:23 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La pelea por el Senado en Texas va mucho más allá del control del Congreso. Te explicamos los motivos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump asegura que EE. UU. controla Venezuela: qué dijo sobre el petróleo y las reservas mundiales",
+      "link": "https://www.prensalibre.com/internacional/donald-trump-afirma-que-ee-uu-tiene-control-total-sobre-venezuela-y-50-del-petroleo-mundial/",
+      "fecha": "Tue, 03 Nov 2026 11:38:21 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump asegura que Washington controla Venezuela y afirma que, al sumar las reservas petroleras de Estados Unidos y Venezuela, estas superan el 50 % de las reservas mundiales de petróleo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Muere Jesús de Miguel, futbolista del Tenerife español, tras un choque en el campo de juego con un arquero rival",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/muere-jesus-de-miguel-futbolista-del-tenerife-espanol-tras-un-choque-en-el-campo-de-juego-con-un-arquero-rival/",
+      "fecha": "Tue, 03 Nov 2026 11:06:41 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El delantero del Tenerife, Jesús de Miguel, falleció, este martes, tras sufrir una lesión grave durante un partido de segunda división española, el lunes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala busca convertir su talento creativo en nuevas oportunidades de exportación",
+      "link": "https://www.prensalibre.com/economia/guatemala-busca-convertir-su-talento-creativo-en-nuevas-oportunidades-de-exportacion/",
+      "fecha": "Tue, 03 Nov 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Las exportaciones de servicios creativos acumulan cinco años consecutivos de crecimiento. El sector busca aprovechar la inteligencia artificial, el mercadeo y el talento especializado para ampliar sus negocios en el exterior."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¡Barcelona, bajo presión! El invicto Aston Villa de Emery pone a prueba la reacción azulgrana",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-bajo-presion-el-invicto-aston-villa-de-emery-pone-a-prueba-la-reaccion-azulgrana-breaking/",
+      "fecha": "Tue, 03 Nov 2026 10:53:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Los azulgranas necesitan ganar en casa para mantenerse entre los ocho mejores de la Liga de Campeones de Europa."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Festival de las Pascuas 2026: San Miguel Dueñas se llenará de color, gastronomía, música y espíritu navideño",
@@ -603,214 +835,6 @@
       "resumen": "Pese a los indicios del MP sobre cajas con fusiles sacadas del Comando Aéreo del Norte, en Petén, a cambio de dinero y fallas de seguridad, se cerró el caso contra tres militares."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Factura petrolera de Guatemala sube 46.4% y revela un cambio en el consumo de gasolinas regular y superior",
-      "link": "https://www.prensalibre.com/economia/factura-petrolera-de-guatemala-sube-46-4-y-revela-un-cambio-en-el-consumo-de-gasolinas-regular-y-superior/",
-      "fecha": "Mon, 02 Nov 2026 06:08:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La factura petrolera, o monto por importación de combustibles, aumentó US$1 mil 537.5 millones en el acumulado de enero a septiembre del 2026, respecto del mismo período del 2025."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Puente Petapa",
-      "link": "https://www.prensalibre.com/opinion/caricatura/puente-petapa/",
-      "fecha": "Mon, 02 Nov 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Martes de decisión ciudadana en EE. UU.",
-      "link": "https://www.prensalibre.com/opinion/editorial/martes-de-decision-ciudadana-en-ee-uu/",
-      "fecha": "Mon, 02 Nov 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Cualesquiera sean los resultados, será clave la madurez política para aceptarlos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una nueva guerra con Irán pondría en riesgo los avances de EE. UU. en el estrecho de Ormuz",
-      "link": "https://www.prensalibre.com/internacional/una-nueva-guerra-con-iran-pondria-en-riesgo-los-avances-de-ee-uu-en-el-estrecho-de-ormuz/",
-      "fecha": "Mon, 02 Nov 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las exportaciones petroleras por Ormuz alcanzaron el 80% del nivel previo a la guerra, mientras ataques iraníes impactaron al menos 25 barcos durante octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ayuda por sequía: el criterio de Conred que excluye a familias en inseguridad alimentaria",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/ayuda-por-sequia-el-criterio-de-conred-que-excluye-a-familias-en-inseguridad-alimentaria/",
-      "fecha": "Mon, 02 Nov 2026 06:05:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Conred prevé entregar 689 mil 822 raciones de alimentos a familias que perdieron sus cosechas por la sequía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EEUU: Influencia global de la elección intermedia",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/eeuu-influencia-global-de-la-eleccion-intermedia/",
-      "fecha": "Mon, 02 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Los problemas, por aparte, no son causados por la afiliación partidista sino por la personalidad de quienes participan."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Grado de inversión como gran objetivo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/grado-de-inversion-como-gran-objetivo/",
-      "fecha": "Mon, 02 Nov 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Guatemala podría lograrlo en un corto plazo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala tiene miedo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/guatemala-tiene-miedo/",
-      "fecha": "Mon, 02 Nov 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Vivir bajo amenaza y desconfiar de quienes deben protegernos tiene un costo para toda la sociedad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Seguridad ciudadana y economía familiar",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/seguridad-ciudadana-y-economia-familiar/",
-      "fecha": "Mon, 02 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Un año más tarde de la fuga de los 20 reos se da el asesinato del exfiscal Solórzano Foppa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy lunes 2 de noviembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-2-de-noviembre-de-2026/",
-      "fecha": "Mon, 02 Nov 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Democracia o despotismo?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/democracia-o-despotismo/",
-      "fecha": "Mon, 02 Nov 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Solo a través de un genuino Estado democrático de derecho se podrá sanear la justicia oficial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comunicaciones remonta y vence 3-1 a Mixco para sumar un triunfo vital en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-remonta-y-vence-3-1-a-mixco-para-sumar-un-triunfo-vital-en-el-apertura-2026-breaking/",
-      "fecha": "Mon, 02 Nov 2026 03:54:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Dewinder Bradley, Dairon Reyes y Erick Lemus marcaron para darle la vuelta al partido a los Cremas, que dejaron sin puntos a Mixco en el estadio Cementos Progreso y le dan un respiro a Comunicaciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cobán sorprende a Guastatoya y gana 2-1 en el David Cordón Hichos",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/coban-sorprende-a-guastatoya-y-gana-2-1-en-el-david-cordon-hichos-breaking/",
-      "fecha": "Mon, 02 Nov 2026 02:02:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Juan Winter y Janderson Pereira marcaron para darle la victoria a los Príncipes Azules, pese al empate parcial de José Almanza, y dejaron a Guastatoya sin puntos en su casa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las elecciones de EE.UU. pueden redefinir el margen de acción de Trump en Latinoamérica",
-      "link": "https://www.prensalibre.com/internacional/las-elecciones-de-ee-uu-pueden-redefinir-el-margen-de-accion-de-trump-en-latinoamerica/",
-      "fecha": "Mon, 02 Nov 2026 01:19:39 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las elecciones de medio mandato de Estados Unidos de este martes pueden redefinir el margen de maniobra del presidente Donald Trump en Latinoamérica, desde la política de presión sobre Cuba y Venezuela hasta las disputas comerciales con México y Brasil y los compromisos con los Gobiernos aliados de Washington."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Entre flores, música y recuerdos: así vivieron los guatemaltecos el Día de Todos los Santos en el Cementerio General",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/entre-flores-musica-y-recuerdos-asi-vivieron-los-guatemaltecos-el-dia-de-todos-los-santos-en-el-cementerio-general/",
-      "fecha": "Mon, 02 Nov 2026 01:15:04 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Cementerio General, ubicado en la zona 3 de la capital, fue uno de los espacios que recibió a cientos de guatemaltecos que llegaron para honrar y recordar a sus seres queridos durante el Día de Todos los Santos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Comunicaciones vs. Mixco: siga el minuto a minuto de la jornada 18",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-comunicaciones-vs-mixco-siga-el-minuto-a-minuto-de-la-jornada-18-breaking/",
-      "fecha": "Mon, 02 Nov 2026 01:15:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los cremas reciben a los chicharroneros este domingo a las 8:00 PM en el estadio Cementos Progreso, en un duelo en el que Comunicaciones necesita sumar para salir de los últimos lugares."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Violencia armada deja cinco fallecidos y tres heridos durante el fin de semana",
-      "link": "https://www.prensalibre.com/guatemala/justicia/violencia-armada-deja-cinco-fallecidos-y-tres-heridos-durante-el-fin-de-semana/",
-      "fecha": "Mon, 02 Nov 2026 01:01:54 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Cinco personas fallecieron y tres resultaron heridas en una serie de ataques armados reportados durante el fin de semana. Los hechos ocurrieron en Mixco, la capital, Escuintla, Palencia y Zacapa, según información de los cuerpos de socorro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Era como si cayera un misil&#8221;: 9 muertos al estrellarse un avión privado en un vecindario de Florida",
-      "link": "https://www.prensalibre.com/guatemala/era-como-si-cayera-un-misil-9-muertos-al-estrellarse-un-avion-privado-en-un-vecindario-de-florida/",
-      "fecha": "Mon, 02 Nov 2026 00:06:29 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La aeronave privada se estrelló en el condado de Palm Beach, Florida. Imágenes captadas por los residentes mostraban al jet cayendo a gran velocidad antes de estrellarse."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos personas resultan heridas por caída de barriletes gigantes durante festival en Sumpango",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-personas-resultan-heridas-por-caida-de-barriletes-gigantes-durante-festival-en-sumpango/",
-      "fecha": "Sun, 01 Nov 2026 23:54:12 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Una de las víctimas fue trasladada al Hospital Regional de Chimaltenango, mientras que la otra recibió atención en el lugar. Los incidentes ocurrieron durante las celebraciones del Día de Todos los Santos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡Invicto en casa! San Pedro vence 1-0 a Municipal con gol de Germán Águila",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/invicto-en-casa-san-pedro-vence-1-0-a-municipal-con-gol-de-german-aguila-breaking/",
-      "fecha": "Sun, 01 Nov 2026 23:02:59 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Germán Águila apareció de cabeza en el segundo tiempo y los gallos siguen invictos en su estadio, mientras Municipal cede terreno ante el líder del torneo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Guastatoya vs. Cobán Imperial: siga el minuto a minuto de la jornada 18",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guastatoya-vs-coban-imperial-siga-el-minuto-a-minuto-de-la-jornada-18-breaking/",
-      "fecha": "Sun, 01 Nov 2026 22:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los pecho amarillo reciben a los príncipes azules este domingo a las 5:00 PM en el estadio David Cordón Hichos, en un duelo en el que ambos necesitan sumar para sus objetivos en el torneo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Videos muestran accidente de avión en Florida: nueve muertos, un cráter y supuesto audio de momentos antes del impacto",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/videos-muestran-accidente-de-avion-en-florida-nueve-muertos-un-crater-y-supuesto-audio-de-momentos-antes-del-impacto/",
-      "fecha": "Sun, 01 Nov 2026 21:36:27 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Un Learjet 60 se precipitó cerca de viviendas en Palm Beach cuando viajaba de Texas a las Bahamas. Las imágenes captan el impacto, el incendio y los daños que obligaron a cerrar una carretera."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“It’s Time”: Mariah Carey reinventa su tradicional anuncio para dar la bienvenida a la temporada navideña",
-      "link": "https://www.prensalibre.com/vida/escenario/its-time-mariah-carey-reinventa-su-tradicional-anuncio-para-dar-la-bienvenida-a-la-temporada-navidena/",
-      "fecha": "Sun, 01 Nov 2026 20:09:23 +0000",
-      "categoria": "Escenario",
-      "resumen": "Como ya es tradición, Mariah Carey anuncia la llegada de la temporada navideña con un video al ritmo de All I Want for Christmas Is You. Así es la nueva versión de su esperado “It’s Time”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video: Hombres disfrazados de reos utilizan patrulla de la PNC para grabar durante Halloween",
-      "link": "https://www.prensalibre.com/guatemala/justicia/video-hombres-disfrazados-de-reos-utilizan-patrulla-de-la-pnc-para-grabar-durante-halloween/",
-      "fecha": "Sun, 01 Nov 2026 19:45:09 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Un video difundido en TikTok muestra a dos hombres disfrazados de reos mientras bailan dentro de una patrulla de la Policía Nacional Civil (PNC), durante las celebraciones de Halloween. El Ministerio de Gobernación anunció que verificará la autenticidad de la grabación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los coloniales no ceden: Antigua derrota 2-0 a Aurora y se consolida como líder del torneo",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/los-coloniales-no-ceden-antigua-derrota-2-0-a-aurora-y-se-consolida-como-lider-del-torneo-breaking/",
-      "fecha": "Sun, 01 Nov 2026 19:07:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los panzas verdes ganaron de visita en el Cementos Progreso con goles de José Espinoza y Juan Francisco Apaolaza, y se afianzan en la cima del Apertura 2026 tras la jornada 18."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Entre colores, memoria y tradición: Santiago y Sumpango Sacatepéquez celebran los festivales de barriletes gigantes este 1 de noviembre",
-      "link": "https://www.prensalibre.com/vida/escenario/entre-colores-memoria-y-tradicion-santiago-sacatepequez-y-sumpango-celebran-los-festivales-de-barriletes-gigantes-este-1-de-noviembre/",
-      "fecha": "Sun, 01 Nov 2026 19:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Una tradición que une generaciones se celebra este 1 de noviembre con los festivales de barriletes gigantes, donde el color y el arte mantienen vivo el legado familiar y cultural."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Servicios Empresariales de INTECAP: asesorías para pequeños empresarios y emprendedores en Guatemala",
       "link": "https://www.guatemala.com/noticias/sociedad/servicios-empresariales-intecap-pequenos-empresarios-emprendedores.html",
@@ -849,30 +873,6 @@
       "fecha": "Wed, 28 Oct 2026 22:57:54 +0000",
       "categoria": "Comunidad",
       "resumen": "Bancos del país trasladarán el asueto del Día de Todos los Santos al lunes 2 de noviembre de 2026, por lo que pausarán sus labores durante el día. \nThe post Bancos de Guatemala tendrán asueto el 2 de noviembre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Cierres el 1 de noviembre 2026 en el Cementerio General y el Periférico",
-      "link": "https://www.guatemala.com/noticias/comunidad/cierres-vehiculares-ciudad-guatemala-1-noviembre-2026-dia-de-todos-los-santos-y-vuelta-guatemala.html",
-      "fecha": "Wed, 28 Oct 2026 18:25:56 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Se implementarán cierres en el Cementerio General y el Periférico el 1 de noviembre de 2026 por el Día de Todos los Santos y la Vuelta Ciclística.\nThe post Cierres el 1 de noviembre 2026 en el Cementerio General y el Periférico appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "La Licenciatura de UVG que combina marketing, análisis de datos y creatividad en industrias como la moda, el deporte y la tecnología",
-      "link": "https://www.guatemala.com/noticias/sociedad/licenciatura-en-international-marketing-and-business-analytics-uvg.html",
-      "fecha": "Wed, 28 Oct 2026 14:20:28 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Descubre la Licenciatura en International Marketing and Business Analytics, la única carrera que combina marketing, tecnología y análisis de datos.\nThe post La Licenciatura de UVG que combina marketing, análisis de datos y creatividad en industrias como la moda, el deporte y la tecnología appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Proyecto espacial de niños guatemaltecos será parte de vuelo de investigación en Francia",
-      "link": "https://www.guatemala.com/noticias/tecnologia/prototipo-nave-espacial-creado-ninos-guatemaltecos-llegara-francia.html",
-      "fecha": "Tue, 27 Oct 2026 23:07:04 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Pamela López, del Club Constelación Quetzal, llevará y probará en Francia el prototipo de nave espacial creado por doce niños guatemaltecos. \nThe post Proyecto espacial de niños guatemaltecos será parte de vuelo de investigación en Francia appeared first on Guatemala.com."
     }
   ]
 }
