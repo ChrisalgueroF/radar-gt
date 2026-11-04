@@ -1,7 +1,231 @@
 {
-  "actualizado": "2026-11-04T14:06:52.924Z",
+  "actualizado": "2026-11-04T21:10:33.065Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“The One About Matthew Perry”: la hermana del actor revela la emergencia médica que lo llevó a un coma en el 2018",
+      "link": "https://www.prensalibre.com/vida/escenario/the-one-about-matthew-perry-la-hermana-del-actor-revela-la-emergencia-medica-que-lo-llevo-a-un-coma-en-el-2018/",
+      "fecha": "Wed, 04 Nov 2026 21:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La docuserie sobre la vida de Matthew Perry revela cómo una emergencia médica que sufrió en el 2018 estuvo a punto de costarle la vida. Su hermana recuerda cómo vivieron aquel momento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones intermedias en Florida, Texas y California: Así quedaron los resultados en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/elecciones-intermedias-en-florida-texas-y-california-asi-quedaron-los-resultados-en-ee-uu/",
+      "fecha": "Wed, 04 Nov 2026 20:11:59 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las elecciones reconfiguraron el mapa político estadounidense, con resultados históricos y un avance contundente de los demócratas en Texas y California."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El papa León XIV y Bob Dylan: un encuentro histórico e intercambio de regalos",
+      "link": "https://www.prensalibre.com/vida/escenario/el-papa-leon-xiv-y-bob-dylan-un-encuentro-historico-e-intercambio-de-regalos/",
+      "fecha": "Wed, 04 Nov 2026 20:08:12 +0000",
+      "categoria": "Escenario",
+      "resumen": "Saludos e intercambio de regalos fue lo que hubo durante la reunión del mítico músico y el líder de la Iglesia católica."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Revelan detalles del Festival Navideño de la Ciudad, Mapping y otras actividades de la época",
+      "link": "https://www.guatemala.com/noticias/entretenimiento/festival-navideno-ciudad-guatemala-2026-fechas-atracciones-y-mas.html",
+      "fecha": "Wed, 04 Nov 2026 20:02:17 +0000",
+      "categoria": "Entretenimiento",
+      "resumen": "Revelan detalles del Festival Navideño, mapping, bazares y actividades de la época en el Mapa en Relieve y la Ciudad de Guatemala para este 2026.\nThe post Revelan detalles del Festival Navideño de la Ciudad, Mapping y otras actividades de la época appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Así fue el golazo de Federico Valverde al minuto 90+2 que le dio una agónica victoria al Real Madrid",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-asi-fue-el-golazo-de-federico-valverde-al-minuto-902-que-le-dio-una-agonica-victoria-al-real-madrid/",
+      "fecha": "Wed, 04 Nov 2026 19:55:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Federico Valverde rescata al Real Madrid en el descuento y sella un sufrido triunfo 3-2 ante el AEK de Atenas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“MrBeast Lab”: cuánto costó, quiénes participan y de qué trata la serie animada que MrBeast estrenó en YouTube",
+      "link": "https://www.prensalibre.com/vida/escenario/mrbeast-lab-cuanto-costo-quienes-participan-y-de-que-trata-la-serie-animada-que-mrbeast-estreno-en-youtube/",
+      "fecha": "Wed, 04 Nov 2026 19:23:16 +0000",
+      "categoria": "Escenario",
+      "resumen": "El youtuber MrBeast presentó su nueva serie animada MrBeast Lab, que llevará al público a una aventura llena de acción. El proyecto reunió a más de 200 artistas de distintos países para dar vida a esta producción."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jude Bellingham rompe récord de Iker Casillas en la Champions League con el Real Madrid",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/jude-bellingham-rompe-record-de-iker-casillas-en-la-champions-league-con-el-real-madrid/",
+      "fecha": "Wed, 04 Nov 2026 19:12:45 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "A sus 23 años, Jude Bellingham añade otro récord a su carrera al convertirse en el jugador más joven en disputar 60 partidos en la Liga de Campeones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;El archivo del Gran Lengua&#8221;: exposición revela manuscritos, cartas, fotografías y documentos inéditos de Miguel Ángel Asturias",
+      "link": "https://www.prensalibre.com/vida/escenario/el-archivo-del-gran-lengua-exposicion-revela-manuscritos-cartas-fotografias-y-documentos-ineditos-de-miguel-angel-asturias/",
+      "fecha": "Wed, 04 Nov 2026 19:11:54 +0000",
+      "categoria": "Escenario",
+      "resumen": "El Palacio Nacional de la Cultura alberga la nueva muestra con documentos inéditos que revelan otros aspectos de la vida y trayectoria del Premio Nobel de Literatura."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Selección de Guatemala: ¿Quiénes son las principales figuras de Canadá convocadas para enfrentar a la Bicolor?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-quienes-son-las-principales-figuras-de-canada-convocadas-para-enfrentar-a-la-bicolor/",
+      "fecha": "Wed, 04 Nov 2026 19:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Experiencia, talento europeo y una generación consolidada. Así se presenta Canadá para la serie contra Guatemala en los cuartos de final de la Liga de Naciones, una eliminatoria que pondrá en juego el boleto al Final Four y la clasificación directa a la Copa Oro 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Roxana Baldetti busca acogerse a la aceptación de cargos en el caso Cooptación del Estado y deberá regresar a prisión",
+      "link": "https://www.prensalibre.com/guatemala/justicia/roxana-baldetti-busca-acogerse-a-la-aceptacion-de-cargos-en-el-caso-cooptacion-del-estado-y-debera-regresar-a-prision-breaking/",
+      "fecha": "Wed, 04 Nov 2026 18:40:33 +0000",
+      "categoria": "Justicia",
+      "resumen": "La exvicepresidenta Roxana Baldetti solicitó someterse al procedimiento especial de aceptación de cargos en el caso Cooptación del Estado, mientras que un juez ordenó su regreso a prisión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Están siendo los días más difíciles de mi vida&#8221;: la desconsolada carta del portero Owono tras el encontronazo que causó la muerte al jugador Jesús de Miguel",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/estan-siendo-los-dias-mas-dificiles-de-mi-vida-la-desconsolada-carta-del-portero-owono-tras-el-encontronazo-que-causo-la-muerte-al-jugador-jesus-de-miguel/",
+      "fecha": "Wed, 04 Nov 2026 18:09:49 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El portero del Andorra asegura que vive \"los días más difíciles\" de su vida tras la muerte del delantero del Tenerife y que afrontará \"lo que venga con todo el respeto\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De cantar “Desvelado” a ganar un escaño en el Congreso: Bobby Pulido hace historia en Texas",
+      "link": "https://www.prensalibre.com/internacional/de-cantar-desvelado-a-ganar-un-escano-en-el-congreso-bobby-pulido-hace-historia-en-texas/",
+      "fecha": "Wed, 04 Nov 2026 17:56:38 +0000",
+      "categoria": "Internacional",
+      "resumen": "La victoria de Bobby Pulido en las elecciones intermedias de Estados Unidos representa un cambio en el panorama político del sur de Texas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién es Bobby Pulido, la estrella de la música tejana que devolvió a los demócratas un condado de Texas fronterizo con México",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-bobby-pulido-la-estrella-de-la-musica-tejana-que-devolvio-a-los-democratas-un-condado-de-texas-fronterizo-con-mexico/",
+      "fecha": "Wed, 04 Nov 2026 17:56:25 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Su triunfo se suma a la ola que este martes llevó a los demócratas a hacerse con el control de ambas cámaras del Congreso de Estados Unidos y dejó victorias clave en Texas, incluidas la de Gina Hinojosa como gobernadora y James Talarico como senador."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El papa León XIV recibe a Bob Dylan en el Vaticano",
+      "link": "https://www.prensalibre.com/vida/escenario/el-papa-leon-xiv-recibe-a-bob-dylan-en-el-vaticano/",
+      "fecha": "Wed, 04 Nov 2026 17:38:24 +0000",
+      "categoria": "Escenario",
+      "resumen": "El papa León XIV se reunió este 4 de noviembre en el Palacio Apostólico del Vaticano con el cantautor estadounidense y premio nobel de Literatura Bob Dylan, que se encuentra en Italia por su gira europea."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "5 razones que explican la derrota abrumadora del Partido Republicano en las elecciones de mitad de mandato en EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/5-razones-que-explican-la-derrota-abrumadora-del-partido-republicano-en-las-elecciones-de-mitad-de-mandato-en-ee-uu/",
+      "fecha": "Wed, 04 Nov 2026 17:20:33 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Desde votantes furiosos hasta un presidente impopular, te explicamos por qué los estadounidenses en zonas tradicionalmente republicanas optaron por los demócratas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Accidente en la Autopista Palín-Escuintla deja un fallecido: video muestra cómo ocurrió el percance",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-en-la-autopista-palin-escuintla-deja-un-fallecido-videos-muestran-como-quedaron-los-vehiculos-breaking/",
+      "fecha": "Wed, 04 Nov 2026 17:04:45 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Una persona murió y varios vehículos quedaron destruidos en una colisión múltiple en el km 54 de la autopista Palín-Escuintla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Eligieron distorsionar lo que vivimos”: integrantes de Timbiriche cuestionan la serie por alterar sus vivencias y revictimizar a Sasha Sokol",
+      "link": "https://www.prensalibre.com/vida/escenario/eligieron-distorsionar-lo-que-vivimos-integrantes-de-timbiriche-cuestionan-la-serie-por-alterar-sus-vivencias-y-revictimizar-a-sasha-sokol/",
+      "fecha": "Wed, 04 Nov 2026 17:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Tras el estreno de la serie Timbiriche, los integrantes del grupo musical alzaron la voz para señalar que sus vivencias fueron distorsionadas. Además, cuestionaron la forma en que se aborda la historia de Sasha Sokol."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Paso a desnivel de Metrocentro, Villa Nueva, abrirá en noviembre: estas son las rutas que facilitará",
+      "link": "https://www.prensalibre.com/economia/paso-a-desnivel-de-metrocentro-villa-nueva-abrira-en-noviembre-estas-son-las-rutas-que-facilitara/",
+      "fecha": "Wed, 04 Nov 2026 17:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El paso a desnivel de la zona 4 de Villa Nueva se encuentra en su fase final y la Municipalidad prevé entregarlo durante la segunda semana de noviembre de 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jesús Owono rompe el silencio tras la muerte de Jesús de Miguel: &#8220;Son los días más difíciles de mi vida&#8221;",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/jesus-owono-rompe-el-silencio-tras-la-muerte-de-jesus-de-miguel-son-los-dias-mas-dificiles-de-mi-vida/",
+      "fecha": "Wed, 04 Nov 2026 16:51:33 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El portero del FC Andorra, Jesús Owono, admite atravesar los días más difíciles de su vida tras el fallecimiento del delantero Jesús de Miguel."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "AEK de Atenas vs. Real Madrid EN VIVO: siga el minuto a minuto del partido de la cuarta jornada",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/aek-de-atenas-vs-real-madrid-en-vivo-siga-el-minuto-a-minuto-del-partido-de-la-cuarta-jornada/",
+      "fecha": "Wed, 04 Nov 2026 16:45:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Real Madrid visita este miércoles al AEK de Atenas con la mira puesta en sumar una nueva victoria en la fase de liga de la Champions League."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Maná celebrará sus 40 años con un concierto gratuito a través de YouTube",
+      "link": "https://www.prensalibre.com/vida/escenario/mana-celebrara-sus-40-anos-con-un-concierto-gratuito-a-traves-de-youtube/",
+      "fecha": "Wed, 04 Nov 2026 16:40:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La banda mexicana, que se formó en 1986  y que ha vendido más de 50 millones de discos, celebra su aniversario con esa producción."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Esto es un desastre&#8221;: republicanos indignados culpan a Trump de la estrepitosa derrota en las elecciones de mitad de mandato",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/esto-es-un-desastre-republicanos-indignados-culpan-a-trump-de-la-estrepitosa-derrota-en-las-elecciones-de-mitad-de-mandato/",
+      "fecha": "Wed, 04 Nov 2026 16:31:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Algunos republicanos declararon a la BBC que el enfoque del presidente en su legado y su indiferencia ante las preocupaciones de los votantes los perjudicaron."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Accidente en Villa Nueva: Video capta momento en que tráiler choca contra locales",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-en-villa-nueva-video-capta-momento-en-que-trailer-choca-contra-locales-breaking/",
+      "fecha": "Wed, 04 Nov 2026 16:12:46 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Cámara capta el momento en que tráiler choca contra locales comerciales en mercado de Villa Nueva."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asesinato de Solórzano Foppa, fugas e incursiones reavivan alertas sobre controles y posible infiltración en fuerzas de seguridad",
+      "link": "https://www.prensalibre.com/guatemala/asesinato-de-solorzano-foppa-fugas-e-incursiones-reavivan-alertas-sobre-controles-y-posible-infiltracion-en-fuerzas-de-seguridad/",
+      "fecha": "Wed, 04 Nov 2026 16:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Las irregularidades en la actuación de siete policías tras el asesinato del exfiscal y otros hechos recientes llevan a especialistas a analizar las fallas de control y los riesgos de infiltración del crimen en las instituciones de seguridad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Piratas del Caribe”: Johnny Depp revela qué condiciones pondría para regresar como Jack Sparrow en una sexta película",
+      "link": "https://www.prensalibre.com/vida/escenario/piratas-del-caribe-johnny-depp-revela-que-condiciones-pondria-para-regresar-como-jack-sparrow-en-una-sexta-pelicula/",
+      "fecha": "Wed, 04 Nov 2026 15:42:18 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con su icónico personaje de Jack Sparrow, Johnny Depp conquistó al público en la saga cinematográfica Piratas del Caribe, una franquicia a la que podría regresar para protagonizar una sexta entrega."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cómo quedaron las elecciones intermedias en EE. UU? Resultados del Congreso y gobernadores",
+      "link": "https://www.prensalibre.com/internacional/como-quedaron-las-elecciones-intermedias-en-ee-uu-resultados-del-congreso-y-gobernadores/",
+      "fecha": "Wed, 04 Nov 2026 15:37:39 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Partido Demócrata arrebató el control del Congreso al Partido Republicano y ganó gobernaciones clave en distintas partes de Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Rodri se lesiona y deja al Barcelona con una baja importante antes de enfrentar al Atlético de Madrid",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/rodri-se-lesiona-y-deja-al-barcelona-con-una-baja-importante-antes-de-enfrentar-al-atletico-de-madrid/",
+      "fecha": "Wed, 04 Nov 2026 15:34:35 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Rodri queda fuera del duelo ante el Atlético de Madrid por una lesión en el bíceps femoral, una ausencia sensible para el Barcelona en un momento clave de la temporada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo afirma que la agenda de temas comunes con EE. UU. no cambiará tras las elecciones de medio mandato",
+      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-afirma-que-la-agenda-de-temas-comunes-con-ee-uu-no-cambiara-tras-las-elecciones-de-medio-mandato-breaking/",
+      "fecha": "Wed, 04 Nov 2026 15:32:13 +0000",
+      "categoria": "Política",
+      "resumen": "El presidente de Guatemala, Bernardo Arévalo, destaca la agenda de temas comunes con EE. UU. y afirma que hay buena comunicación con el Gobierno estadounidense."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Gina Hinojosa y Xavier Becerra: Los latinos que ganaron las gobernaciones de Texas y California",
@@ -212,19 +436,19 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Elecciones de medio término en Estados Unidos: demócratas arrebatan a republicanos la Cámara de Representantes",
+      "titulo": "Elecciones de medio término en EE. UU: El Partido Demócrata recuperó el control de la Cámara de Representantes",
       "link": "https://www.prensalibre.com/internacional/elecciones-de-medio-termino-en-estados-unidos-democratas-arrebatan-a-republicanos-la-camara-de-representantes/",
       "fecha": "Wed, 04 Nov 2026 04:01:55 +0000",
       "categoria": "Internacional",
-      "resumen": "Los demócratas recuperan el control de la Cámara de Representantes, según proyecciones de CNN y NBC, mientras avanza el conteo de votos en Estados Unidos."
+      "resumen": "El Partido Demócrata recuperó el control de la Cámara de Representantes al superar el umbral de los 218 escaños requeridos para alcanzar la mayoría."
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Resultados de las gobernaciones en las elecciones de medio término en EE. UU.: Keisha Lance Bottoms y Byron Donalds hacen historia",
+      "titulo": "Resultados de las gobernaciones en las elecciones de EE. UU: Un histórico triunfo para el Partido Demócrata",
       "link": "https://www.prensalibre.com/internacional/resultados-de-las-gobernaciones-en-las-elecciones-de-medio-termino-en-ee-uu-keisha-lance-bottoms-y-byron-donalds-hacen-historia/",
       "fecha": "Wed, 04 Nov 2026 03:24:03 +0000",
       "categoria": "Internacional",
-      "resumen": "Georgia vuelve a manos demócratas tras casi tres décadas, mientras Florida mantiene el control republicano. Ambos gobernadores electos asumirán sus cargos en enero de 2027."
+      "resumen": "El Partido Demócrata reconfiguró el mapa político estatal de EE. UU. al arrebatarles a los republicanos el control de la mayoría de las gubernaturas."
     },
     {
       "fuente": "Prensa Libre",
@@ -308,11 +532,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Elecciones de medio término en Estados Unidos: demócratas ganan el control del Senado tras victorias en Iowa y Kansas",
+      "titulo": "Elecciones de medio término en Estados Unidos: El Partido Demócrata recuperó el control del Senado",
       "link": "https://www.prensalibre.com/internacional/elecciones-de-medio-termino-en-estados-unidos-como-avanza-el-conteo-de-votos-en-el-senado/",
       "fecha": "Wed, 04 Nov 2026 01:23:05 +0000",
       "categoria": "Internacional",
-      "resumen": "Los demócratas recuperan el control del Senado de Estados Unidos tras arrebatar escaños republicanos en Iowa y Kansas, según proyecciones de cadenas estadounidenses citadas por la agencia EFE."
+      "resumen": "El Partido Demócrata recuperó el control del Senado estadounidense tras un severo voto de castigo al mandatario republicano Donald Trump."
     },
     {
       "fuente": "Prensa Libre",
@@ -587,76 +811,12 @@
       "resumen": "La Selección de Guatemala inició su preparación para enfrentar a Canadá en los cuartos de final de la Liga de Naciones de Concacaf, con el objetivo de avanzar al Final Four y clasificar a la Copa Oro 2027."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente en el set de &#8220;The Batman Part II&#039;&#8221; detuvo el rodaje: el Batimóvil atropelló a un actor, ¿qué se sabe?",
-      "link": "https://www.prensalibre.com/vida/escenario/accidente-en-el-set-de-the-batman-part-ii-detuvo-el-rodaje-el-batimovil-atropello-a-un-actor-que-se-sabe/",
-      "fecha": "Tue, 03 Nov 2026 17:58:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El incidente ha sido tratado con discreción y no se ha identificado al miembro del elenco que habría sido atendido en un hospital."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Nuevo requisito que deben cumplir los guatemaltecos para viajar a Estados Unidos en noviembre de 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/nuevo-requisito-que-deben-cumplir-los-guatemaltecos-para-viajar-a-estados-unidos-desde-noviembre-de-2026.html",
       "fecha": "Tue, 03 Nov 2026 17:23:14 +0000",
       "categoria": "Comunidad",
       "resumen": "Conoce el nuevo requisito para viajar a Estados Unidos: los pasajeros deberán declarar que no estuvieron en la RDC durante 21 días.\nThe post Nuevo requisito que deben cumplir los guatemaltecos para viajar a Estados Unidos en noviembre de 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Justin Timberlake revelará todos sus secretos en una docuserie: ¿dónde y cuándo se estrenará?",
-      "link": "https://www.prensalibre.com/vida/escenario/justin-timberlake-revelara-todos-sus-secretos-en-una-docuserie-donde-y-cuando-se-estrenara/",
-      "fecha": "Tue, 03 Nov 2026 17:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El cantante y actor dará a conocer detalles acerca de sus episodios más escandalosos, incluido el vivido junto a Janet Jackson."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Joviel Acevedo declara al STEG en asamblea permanente y lanza advertencia electoral a diputados",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/joviel-acevedo-declara-al-steg-en-asamblea-permanente-y-lanza-advertencia-electoral-a-diputados/",
-      "fecha": "Tue, 03 Nov 2026 16:50:41 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Joviel Acevedo presentó más de un millón de firmas que, según el sindicato, respaldan sus demandas y advirtió a los diputados sobre las elecciones del 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Canadá cita a todas sus figuras: anuncia su convocatoria para enfrentar a Guatemala en la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/canada-cita-a-todas-sus-figuras-anuncia-su-convocatoria-para-enfrentar-a-guatemala-en-la-liga-de-naciones-breaking/",
-      "fecha": "Tue, 03 Nov 2026 16:34:27 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Con sus principales referentes incluidos, Canadá anunció la nómina para la serie ante Guatemala por un boleto al Final Four de la Liga de Naciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Me voy a encontrar una nueva familia&#8221;: Britney Spears acusa a su hermana y a su exesposo de maltratarla",
-      "link": "https://www.prensalibre.com/vida/escenario/me-voy-a-encontrar-una-nueva-familia-britney-spears-acusa-a-su-hermana-y-a-su-exesposo-de-maltratarla/",
-      "fecha": "Tue, 03 Nov 2026 16:30:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante estadounidense asegura que tanto Jamie Lynn Spears como el padre de sus hijos, Kevin Federline, la trataron como a una esclava."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ley antilavado: SIB define los cargos públicos que dan condición de persona expuesta políticamente",
-      "link": "https://www.prensalibre.com/economia/ley-antilavado-sib-define-los-cargos-publicos-que-dan-condicion-de-persona-expuesta-politicamente/",
-      "fecha": "Tue, 03 Nov 2026 16:26:26 +0000",
-      "categoria": "Economía",
-      "resumen": "La resolución 1799-2026 organiza el listado en 11 secciones y establece quiénes estarán sujetos a medidas adicionales de debida diligencia conforme a la nueva ley antilavado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuál sería la sanción para Jesús Owono tras el incidente con Jesús de Miguel?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cual-seria-la-sancion-para-jesus-owono-tras-el-incidente-con-jesus-de-miguel/",
-      "fecha": "Tue, 03 Nov 2026 16:15:19 +0000",
-      "categoria": "Deportes",
-      "resumen": "El futbol español permanece consternado mientras la RFEF evalúa la sanción que recibirá Jesús Owono tras el trágico incidente ocurrido ante el Tenerife."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Médico y empleada municipal, ligados a proceso por muerte de menor baleado registrada como natural en Ciudad Peronia",
-      "link": "https://www.prensalibre.com/guatemala/justicia/medico-y-empleada-municipal-ligados-a-proceso-por-muerte-de-menor-baleado-registrada-como-natural-en-ciudad-peronia/",
-      "fecha": "Tue, 03 Nov 2026 16:13:43 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Cuatro personas quedaron ligadas a proceso por presuntas irregularidades para ocultar la muerte violenta de un menor en Ciudad Peronia. Ningún sospechoso fue a prisión preventiva."
     },
     {
       "fuente": "Guatemala.com",
@@ -667,164 +827,12 @@
       "resumen": "Descubre cómo funciona UNO Plus en Guatemala, cómo acumular puntos y participar para ganar un año de combustible gratis esta Navidad.\nThe post UNO Plus en Guatemala, la plataforma que ofrece puntos, premios y promociones appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quiénes fueron los jugadores que murieron por accidentes en una cancha de futbol?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/quienes-fueron-los-jugadores-que-murieron-por-accidentes-en-una-cancha-de-futbol/",
-      "fecha": "Tue, 03 Nov 2026 16:02:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La muerte del delantero del CD Tenerife, Jesús de Miguel, tras sufrir un fuerte golpe durante un partido ante el FC Andorra, reavivó el recuerdo de otros futbolistas que perdieron la vida como consecuencia de impactos sufridos en pleno encuentro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Narcotráfico en Guatemala: así operaba la red vinculada a Sergio Cifuentes, esposo de la alcaldesa de Zacapa, y otros 17 narcos",
-      "link": "https://www.prensalibre.com/guatemala/narcotrafico-en-guatemala-asi-operaba-la-red-vinculada-a-sergio-cifuentes-esposo-de-la-alcaldesa-de-zacapa-y-otros-17-narcos/",
-      "fecha": "Tue, 03 Nov 2026 16:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El esposo de la alcaldesa de Zacapa y  el hombre conocido como el Rey del Mar, señalado como líder de una red que traficaba cocaína por el océano Pacífico, figuran entre los condenados en EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La COPA ENERGUATE entra en su etapa decisiva para conocer a los campeones",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-copa-energuate-entra-en-su-etapa-decisiva-para-conocer-a-los-campeones/",
-      "fecha": "Tue, 03 Nov 2026 15:51:58 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Miles de participantes han demostrado su talento, disciplina y pasión por el fútbol en la COPA ENERGUATE 2026, dentro las categorías Sub-10 masculina, Sub-14 masculina y Sub-14 femenina. Ahora los equipos clasificados comenzarán la esperada fase regional, que reunirá a los mejores representantes de cada municipio en la búsqueda de un lugar en la gran final nacional, programada para el 3 de diciembre en la Ciudad de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Shakira llega de emergencia a Colombia: su padre habría sido hospitalizado nuevamente",
-      "link": "https://www.prensalibre.com/vida/escenario/shakira-llega-de-emergencia-a-colombia-su-padre-habria-sido-hospitalizado-nuevamente/",
-      "fecha": "Tue, 03 Nov 2026 15:42:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "William Mebarak, de 95 años habría sufrido una recaída de salud  y la cantante acudió a su país natal a acompañar a su familia"
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "ENERGUATE acompaña el desarrollo de Guatemala con la modernización de su red eléctrica",
       "link": "https://www.guatemala.com/noticias/sociedad/energuate-moderniza-red-electrica-acompanar-crecimiento-guatemala.html",
       "fecha": "Tue, 03 Nov 2026 15:24:02 +0000",
       "categoria": "Sociedad",
       "resumen": "ENERGUATE moderniza su red eléctrica para atender el crecimiento de la demanda y prepararse para los desafíos del futuro. \nThe post ENERGUATE acompaña el desarrollo de Guatemala con la modernización de su red eléctrica appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ejército de Bukele lanza ofensiva contra bandas criminales en Haití: qué pandillas buscan desmantelar",
-      "link": "https://www.prensalibre.com/internacional/ejercito-de-bukele-lanza-ofensiva-contra-bandas-criminales-en-haiti-que-pandillas-buscan-desmantelar-breaking/",
-      "fecha": "Tue, 03 Nov 2026 15:05:53 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Ejército de El Salvador lanzó su primera gran operación en Haití para desmantelar las pandillas señaladas como responsables de la desaparición de cuatro soldados salvadoreños."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Policía revela más detalles sobre la muerte de un agente en la Academia de la PNC",
-      "link": "https://www.prensalibre.com/guatemala/justicia/policia-revela-mas-detalles-sobre-la-muerte-de-un-agente-en-la-academia-de-la-pnc/",
-      "fecha": "Tue, 03 Nov 2026 15:05:51 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Dos informes de la PNC revelan detalles sobre la muerte del agente Walter Isaías Alvarado Oxlaj, hallado con lesiones en un área de la Academia de la Policía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El fallecimiento de Jesús de Miguel recuerda uno de los episodios más dolorosos del futbol guatemalteco",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-fallecimiento-de-jesus-de-miguel-recuerda-uno-de-los-episodios-mas-dolorosos-del-futbol-guatemalteco/",
-      "fecha": "Tue, 03 Nov 2026 14:54:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El fallecimiento de Jesús de Miguel en España  tras un fuerte choque durante un encuentro oficial trae a la memoria un episodio que conmocionó al balompié guatemalteco."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Peregrinación histórica: Jesús Nazareno de la Caída recorre los antiguos templos de Antigua Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/peregrinacion-historica-jesus-nazareno-de-la-caida-recorre-los-antiguos-templos-de-antigua-guatemala/",
-      "fecha": "Tue, 03 Nov 2026 14:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Jesús Nazareno de la Caída realiza una peregrinación por los antiguos templos de Antigua Guatemala, un recorrido que continuará durante noviembre. Conozca los templos que visitará y las fechas de los traslados procesionales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muere Jesús de Miguel, delantero del CD Tenerife: ¿qué le ocurrió durante el partido?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/muere-jesus-de-miguel-delantero-del-cd-tenerife-que-le-ocurrio-durante-el-partido-breaking/",
-      "fecha": "Tue, 03 Nov 2026 14:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La muerte de Jesús de Miguel, delantero del Tenerife, conmociona al futbol español tras el incidente sufrido en el duelo frente al Andorra."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE.UU. acude a las urnas en unas elecciones de medio mandato cruciales para el futuro del gobierno de Trump",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ee-uu-acude-a-las-urnas-en-unas-elecciones-de-medio-mandato-cruciales-para-el-futuro-del-gobierno-de-trump/",
-      "fecha": "Tue, 03 Nov 2026 13:49:12 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Millones de votantes en los 50 estados del país eligen a los miembros de la Cámara de Representantes. También está en juego un tercio de escaños del Senado. Se trata de comicios clave para el presidente, que podría perder el control del Congreso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Temblor en Guatemala hoy 3 de noviembre: Insivumeh reporta sismo de magnitud 3.3 y revela el epicentro",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-en-guatemala-hoy-3-de-noviembre-insivumeh-reporta-sismo-de-magnitud-3-3-y-revela-el-epicentro-breaking/",
-      "fecha": "Tue, 03 Nov 2026 13:31:54 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh dio detalles sobre el temblor registrado en Guatemala este martes 3 de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El legado musical de Manuel de Falla en un concierto que reúne talento guatemalteco y español",
-      "link": "https://www.prensalibre.com/vida/escenario/el-legado-musical-de-manuel-de-falla-en-un-concierto-que-reune-talento-guatemalteco-y-espanol/",
-      "fecha": "Tue, 03 Nov 2026 13:23:27 +0000",
-      "categoria": "Escenario",
-      "resumen": "La pianista española Juana Ramos se une a un ensamble de intérpretes guatemaltecos en la galería de la Fundación Paiz para cerrar el ciclo Talento español,  del Centro Cultural de España."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Wilson Chonay: de pensar en el retiro a conquistar el podio de la Vuelta a Guatemala",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/wilson-chonay-de-pensar-en-el-retiro-a-conquistar-el-podio-de-la-vuelta-a-guatemala-breaking/",
-      "fecha": "Tue, 03 Nov 2026 13:03:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "A sus 23 años, estuvo cerca de abandonar el ciclismo por las caídas y las lesiones. La Vuelta le devolvió la confianza y confirmó su talento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué (ahora sí) los demócratas pueden lograr en Texas un triunfo trascendental tras décadas de derrotas",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-ahora-si-los-democratas-pueden-lograr-en-texas-un-triunfo-trascendental-tras-decadas-de-derrotas/",
-      "fecha": "Tue, 03 Nov 2026 12:40:23 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La pelea por el Senado en Texas va mucho más allá del control del Congreso. Te explicamos los motivos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump asegura que EE. UU. controla Venezuela: qué dijo sobre el petróleo y las reservas mundiales",
-      "link": "https://www.prensalibre.com/internacional/donald-trump-afirma-que-ee-uu-tiene-control-total-sobre-venezuela-y-50-del-petroleo-mundial/",
-      "fecha": "Tue, 03 Nov 2026 11:38:21 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump asegura que Washington controla Venezuela y afirma que, al sumar las reservas petroleras de Estados Unidos y Venezuela, estas superan el 50 % de las reservas mundiales de petróleo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muere Jesús de Miguel, futbolista del Tenerife español, tras un choque en el campo de juego con un arquero rival",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/muere-jesus-de-miguel-futbolista-del-tenerife-espanol-tras-un-choque-en-el-campo-de-juego-con-un-arquero-rival/",
-      "fecha": "Tue, 03 Nov 2026 11:06:41 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El delantero del Tenerife, Jesús de Miguel, falleció, este martes, tras sufrir una lesión grave durante un partido de segunda división española, el lunes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala busca convertir su talento creativo en nuevas oportunidades de exportación",
-      "link": "https://www.prensalibre.com/economia/guatemala-busca-convertir-su-talento-creativo-en-nuevas-oportunidades-de-exportacion/",
-      "fecha": "Tue, 03 Nov 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Las exportaciones de servicios creativos acumulan cinco años consecutivos de crecimiento. El sector busca aprovechar la inteligencia artificial, el mercadeo y el talento especializado para ampliar sus negocios en el exterior."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡Barcelona, bajo presión! El invicto Aston Villa de Emery pone a prueba la reacción azulgrana",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-bajo-presion-el-invicto-aston-villa-de-emery-pone-a-prueba-la-reaccion-azulgrana-breaking/",
-      "fecha": "Tue, 03 Nov 2026 10:53:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Los azulgranas necesitan ganar en casa para mantenerse entre los ocho mejores de la Liga de Campeones de Europa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Festival de las Pascuas 2026: San Miguel Dueñas se llenará de color, gastronomía, música y espíritu navideño",
-      "link": "https://www.prensalibre.com/vida/escenario/festival-de-las-pascuas-2026-san-miguel-duenas-se-llenara-de-color-gastronomia-musica-y-espiritu-navideno/",
-      "fecha": "Tue, 03 Nov 2026 10:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Con el objetivo de promover y resaltar el trabajo de los productores locales, San Miguel Dueñas celebrará una nueva edición del Festival de las Pascuas. Conozca los detalles."
     },
     {
       "fuente": "Guatemala.com",
@@ -865,14 +873,6 @@
       "fecha": "Fri, 30 Oct 2026 20:07:21 +0000",
       "categoria": "Sociedad",
       "resumen": "Perry reconoce las historias, recetas y tradiciones familiares que se construyen alrededor del fiambre en Guatemala antes de llegar a la mesa.\nThe post Perry reconoce las historias que hacen del fiambre una tradición familiar en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Suministros &#038; Alimentos inauguró Centro de Distribución en Villa Nueva",
-      "link": "https://www.guatemala.com/noticias/sociedad/inauguran-complejo-industrial-centro-de-distribucion-suministros-alimentos-villa-nueva.html",
-      "fecha": "Fri, 30 Oct 2026 00:27:14 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Alimentos &#038; Suministros inauguró la primera fase de su nuevo Complejo Industrial en Villa Nueva, que combina tecnología, eficiencia y sostenibilidad.\nThe post Suministros & Alimentos inauguró Centro de Distribución en Villa Nueva appeared first on Guatemala.com."
     }
   ]
 }
