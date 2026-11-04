@@ -1,7 +1,159 @@
 {
-  "actualizado": "2026-11-03T23:54:58.351Z",
+  "actualizado": "2026-11-04T05:43:18.164Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones de medio término en Estados Unidos: demócratas arrebatan a republicanos la Cámara de Representantes",
+      "link": "https://www.prensalibre.com/internacional/elecciones-de-medio-termino-en-estados-unidos-democratas-arrebatan-a-republicanos-la-camara-de-representantes/",
+      "fecha": "Wed, 04 Nov 2026 04:01:55 +0000",
+      "categoria": "Internacional",
+      "resumen": "Los demócratas recuperan el control de la Cámara de Representantes, según proyecciones de CNN y NBC, mientras avanza el conteo de votos en Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Resultados de las gobernaciones en las elecciones de medio término en EE. UU.: Keisha Lance Bottoms y Byron Donalds hacen historia",
+      "link": "https://www.prensalibre.com/internacional/resultados-de-las-gobernaciones-en-las-elecciones-de-medio-termino-en-ee-uu-keisha-lance-bottoms-y-byron-donalds-hacen-historia/",
+      "fecha": "Wed, 04 Nov 2026 03:24:03 +0000",
+      "categoria": "Internacional",
+      "resumen": "Georgia vuelve a manos demócratas tras casi tres décadas, mientras Florida mantiene el control republicano. Ambos gobernadores electos asumirán sus cargos en enero de 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataques armados dejan dos mujeres muertas y otras dos heridas en distintos puntos del país",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataques-armados-dejan-dos-mujeres-muertas-y-otras-dos-heridas-en-distintos-puntos-del-pais-breaking/",
+      "fecha": "Wed, 04 Nov 2026 03:05:35 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos mujeres murieron y otras dos resultaron heridas en dos ataques armados ocurridos en Colomba, Quetzaltenango, y Escuintla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Mickey’s Home Alone”: fecha de estreno, tráiler y de qué trata el especial navideño de Mickey y Pluto",
+      "link": "https://www.prensalibre.com/vida/escenario/mickeys-home-alone-fecha-de-estreno-trailer-y-de-que-trata-el-especial-navideno-de-mickey-y-pluto/",
+      "fecha": "Wed, 04 Nov 2026 03:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Disney presentará una nueva versión de Home Alone, esta vez con Mickey y su fiel amigo Pluto en una aventura navideña llena de música, risas y dos villanos. Esto se conoce."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así fue la fuga de Jacob Allen Morley: escapó de una prisión, robó una camioneta y permaneció prófugo más de una semana",
+      "link": "https://www.prensalibre.com/internacional/asi-fue-la-fuga-de-jacob-allen-morley-escapo-de-una-prision-robo-una-camioneta-y-permanecio-profugo-mas-de-una-semana/",
+      "fecha": "Wed, 04 Nov 2026 02:57:30 +0000",
+      "categoria": "Internacional",
+      "resumen": "Jacob Allen Morley escapó de una prisión en Tennessee, robó una camioneta y permaneció prófugo más de una semana antes de ser recapturado en Misuri."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Ciudad Peronia: cuatro ligados a proceso por muerte de menor baleado y presunto encubrimiento de su deceso",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-ciudad-peronia-cuatro-ligados-a-proceso-por-muerte-de-menor-baleado-y-presunto-encubrimiento-de-su-deceso/",
+      "fecha": "Wed, 04 Nov 2026 02:45:22 +0000",
+      "categoria": "Justicia",
+      "resumen": "Un médico y una empleada municipal figuran entre los cuatro procesados por la muerte de un menor baleado en Ciudad Peronia. El caso genera interrogantes sobre la presunta alteración de la causa del fallecimiento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De hombres para hombres en una noche para sentir, conectar y evolucionar",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/de-hombres-para-hombres-en-una-noche-para-sentir-conectar-y-evolucionar/",
+      "fecha": "Wed, 04 Nov 2026 02:24:31 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Con el propósito de abrir una conversación donde se contarán experiencias y se compartirán herramientas para abordar los desafíos emocionales, Hombres Todo Terreno celebrará el próximo 19 de noviembre, el Dia Internacional del Hombre, con una cena especial dedicada a promover una masculinidad sana, auténtica y emocionalmente consciente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Detienen en Texas a “El Estilista de las Estrellas”, guatemalteco que trabaja con Emma Coronel y otras celebridades",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/detienen-en-texas-a-el-estilista-de-las-estrellas-guatemalteco-que-trabaja-con-emma-coronel-y-otras-celebridades-breaking/",
+      "fecha": "Wed, 04 Nov 2026 02:17:19 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "El guatemalteco Sergio Arévalo, conocido como “El Estilista de las Estrellas” por trabajar con Emma Coronel y otras celebridades, fue detenido por agentes de ICE en Texas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Tony Montana, hermano de El Mencho, y por qué aceptó una pena de 20 años de prisión en EE. UU.?",
+      "link": "https://www.prensalibre.com/internacional/quien-es-tony-montana-hermano-de-el-mencho-y-por-que-acepto-una-pena-de-20-anos-de-prision-en-ee-uu/",
+      "fecha": "Wed, 04 Nov 2026 02:15:09 +0000",
+      "categoria": "Internacional",
+      "resumen": "Tony Montana, hermano de El Mencho, aceptó una pena de 20 años de prisión en Estados Unidos. Conozca los detalles del acuerdo y qué sigue en su caso judicial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salazón Hot Dog Festival chefs de la región reinventarán el hot dog con propuestas de alta cocina",
+      "link": "https://www.prensalibre.com/vida/escenario/salazon-hot-dog-festival-chefs-de-la-region-reinventaran-el-hot-dog-con-propuestas-de-alta-cocina/",
+      "fecha": "Wed, 04 Nov 2026 02:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con una propuesta gastronómica que busca transformar el hot dog en un platillo de alta cocina, llega el Salazón Hot Dog Festival, un evento que reunirá a chefs de la región y amantes de la gastronomía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cucharas plásticas afiladas, arma cortante de vidrio y aguja de alambre: los primeros decomisos en el Cacco de Costa Rica",
+      "link": "https://www.prensalibre.com/internacional/cucharas-plasticas-afiladas-arma-cortante-de-vidrio-y-aguja-de-alambre-los-primeros-decomisos-en-el-cacco-de-costa-rica/",
+      "fecha": "Wed, 04 Nov 2026 01:35:53 +0000",
+      "categoria": "Internacional",
+      "resumen": "La nueva cárcel de máxima seguridad de Costa Rica registra sus primeros decomisos: cucharas afiladas, un arma de vidrio y una aguja de alambre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Donald Trump se prepara para gobernar sin el Congreso? Qué pasaría si los demócratas ganan",
+      "link": "https://www.prensalibre.com/internacional/donald-trump-se-prepara-para-gobernar-sin-el-congreso-que-pasaria-si-los-democratas-ganan/",
+      "fecha": "Wed, 04 Nov 2026 01:31:19 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente Donald Trump enfrenta una votación que podría modificar el equilibrio de poder en EE. UU. durante los últimos dos años de su mandato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones de medio término en Estados Unidos: demócratas ganan el control del Senado tras victorias en Iowa y Kansas",
+      "link": "https://www.prensalibre.com/internacional/elecciones-de-medio-termino-en-estados-unidos-como-avanza-el-conteo-de-votos-en-el-senado/",
+      "fecha": "Wed, 04 Nov 2026 01:23:05 +0000",
+      "categoria": "Internacional",
+      "resumen": "Los demócratas recuperan el control del Senado de Estados Unidos tras arrebatar escaños republicanos en Iowa y Kansas, según proyecciones de cadenas estadounidenses citadas por la agencia EFE."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Violencia cobra la vida de dos guatemaltecos en Maryland; Policía descarta relación entre casos",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/violencia-cobra-la-vida-de-dos-guatemaltecos-en-maryland-policia-descarta-relacion-entre-casos-breaking/",
+      "fecha": "Wed, 04 Nov 2026 01:19:49 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Dos guatemaltecos murieron en hechos violentos en el condado de Prince George, Maryland, Estados Unidos. Uno fue baleado en un parque y el otro murió apuñalado en una vivienda."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quiénes eran Rachael Reed y Charmi Fehr, las empresarias de Roatán que murieron en el accidente aéreo en Florida?",
+      "link": "https://www.prensalibre.com/internacional/quienes-eran-rachael-reed-y-charmi-fehr-las-empresarias-de-roatan-que-murieron-en-el-accidente-aereo-en-florida/",
+      "fecha": "Wed, 04 Nov 2026 01:08:11 +0000",
+      "categoria": "Internacional",
+      "resumen": "Rachael Reed y Charmi Fehr, propietarias de un hotel en Roatán, murieron en un accidente aéreo en Florida. Conozca quiénes eran y con quiénes viajaban."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Podría enfrentar cargos penales Jesús Owono por el incidente con Jesús de Miguel?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/podria-enfrentar-cargos-penales-jesus-owono-por-el-incidente-con-jesus-de-miguel/",
+      "fecha": "Wed, 04 Nov 2026 01:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La Justicia española abrió diligencias para esclarecer el fallecimiento de Jesús de Miguel, quien murió tras un accidente ocurrido en los minutos finales del duelo ante el Andorra."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones en EE.UU.: empiezan a llegar los primeros resultados de unos comicios vistos como un referendo a Trump",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/elecciones-en-ee-uu-empiezan-a-llegar-los-primeros-resultados-de-unos-comicios-vistos-como-un-referendo-a-trump/",
+      "fecha": "Wed, 04 Nov 2026 00:07:39 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Estados Unidos elige a los miembros de toda la Cámara de Representantes y a un tercio del Senado en unas elecciones que marcarán los dos últimos años de mandato del presidente Donald Trump."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Embajada de Estados Unidos inaugura la 13 edición del American Week en la Universidad del Valle",
+      "link": "https://www.guatemala.com/noticias/sociedad/celebran-lazos-guatemala-y-estados-unidos-13-edicion-american-week-uvg.html",
+      "fecha": "Tue, 03 Nov 2026 23:56:34 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Inauguraron la American Week 2026, una semana que celebra los lazos entre Estados Unidos y Guatemala con actividades en la Universidad del Valle.\nThe post Embajada de Estados Unidos inaugura la 13 edición del American Week en la Universidad del Valle appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué se estrelló el Learjet 60 en Florida? El hielo, los controles de vuelo y el factor humano bajo análisis",
+      "link": "https://www.prensalibre.com/internacional/por-que-se-estrello-el-learjet-60-en-florida-el-hielo-los-controles-de-vuelo-y-el-factor-humano-bajo-analisis/",
+      "fecha": "Tue, 03 Nov 2026 23:53:42 +0000",
+      "categoria": "Internacional",
+      "resumen": "El hielo en las alas, una falla en los controles y el error humano son las tres hipótesis que se investigan sobre el accidente del Learjet 60 en Florida."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Festival Árbol Gallo 2026: fechas, horarios y lugares donde se inaugurarán los árboles navideños en Guatemala",
@@ -41,6 +193,14 @@
       "fecha": "Tue, 03 Nov 2026 22:59:00 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "Xelajú MC impuso condiciones en casa y venció 2-0 a Marquense para escalar al tercer puesto del Torneo Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Comprende la lucha que libramos”: por qué el primer ministro de Haití agradeció a Bukele",
+      "link": "https://www.prensalibre.com/internacional/comprende-la-lucha-que-libramos-por-que-el-primer-ministro-de-haiti-agradecio-a-bukele/",
+      "fecha": "Tue, 03 Nov 2026 22:56:05 +0000",
+      "categoria": "Internacional",
+      "resumen": "El primer ministro de Haití agradeció a Nayib Bukele por su apoyo contra las bandas criminales y destacó la experiencia de El Salvador en seguridad."
     },
     {
       "fuente": "Prensa Libre",
@@ -84,6 +244,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Diputados de Vamos, VIVA y UNE acuden a convocatoria del STEG y Joviel Acevedo habla de su peso electoral para el 2027: ¿qué dijeron?",
+      "link": "https://www.prensalibre.com/guatemala/politica/diputados-de-vamos-viva-y-une-acuden-a-convocatoria-del-steg-y-joviel-acevedo-habla-de-su-peso-electoral-para-el-2027-que-dijeron/",
+      "fecha": "Tue, 03 Nov 2026 21:18:12 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Nueve diputados de tres bancadas y un exlegislador acudieron a la concentración del sindicato de maestros. Mientras los congresistas ofrecieron impulsar sus demandas, Joviel Acevedo anunció que orientará a docentes y padres de familia de cara a las elecciones generales del 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Inacif determina la causa de muerte de un policía hallado sin vida en la Academia de la PNC",
       "link": "https://www.prensalibre.com/guatemala/justicia/inacif-determina-la-causa-de-muerte-de-un-policia-hallado-sin-vida-en-la-academia-de-la-pnc/",
       "fecha": "Tue, 03 Nov 2026 21:18:10 +0000",
@@ -104,7 +272,7 @@
       "link": "https://www.prensalibre.com/guatemala/politica/diputados-buscaran-apoyo-para-aprobar-de-urgencia-nacional-la-ley-de-ciberseguridad/",
       "fecha": "Tue, 03 Nov 2026 20:55:30 +0000",
       "categoria": "Guatemala",
-      "resumen": "Existe un paquete de enmiendas que debilita las penas a delitos cibernéticos como originalmente recomendó la Comisión de Asuntos de Seguridad Nacional."
+      "resumen": "La nueva ley fue aprobada con 121 votos a favor y solo 10 votos en contra,  convirtiéndose en el decreto legislativo 26-2026."
     },
     {
       "fuente": "Prensa Libre",
@@ -436,11 +604,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Elecciones intermedias de EE. UU: EN VIVO &#124; Cierran los primeros colegios electorales y comienzan los recuentos",
+      "titulo": "Elecciones EE. UU.: EN VIVO &#124; Trump acepta la victoria demócrata y se muestra dispuesto a negociar con la nueva mayoría del Congreso",
       "link": "https://www.prensalibre.com/internacional/en-vivo-elecciones-de-medio-termino-en-ee-uu-asi-se-desarrolla-la-jornada-de-votaciones-este-3-de-noviembre/",
       "fecha": "Tue, 03 Nov 2026 10:00:00 +0000",
       "categoria": "Internacional",
-      "resumen": "Los centros de votación en Indiana y Kentucky fueron los primeros en cerrar y comenzar el recuento de votos de las elecciones de medio mandato."
+      "resumen": "La oposición demócrata arrebató a los republicanos el control de la Cámara de Representantes, lo que le permitirá ejercer de contrapeso a la agenda de Trump."
     },
     {
       "fuente": "Prensa Libre",
@@ -659,172 +827,12 @@
       "resumen": "La PNC reportó decenas de capturas durante los operativos de seguridad por Halloween y el Día de Todos los Santos."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué ocurrió en Moss Landing? El tiroteo en California que dejó dos muertos y dos heridos",
-      "link": "https://www.prensalibre.com/internacional/que-ocurrio-en-moss-landing-el-tiroteo-en-california-que-dejo-dos-muertos-y-dos-heridos/",
-      "fecha": "Mon, 02 Nov 2026 23:47:12 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un tiroteo en Moss Landing, California, dejó dos personas fallecidas y dos heridas. Las autoridades descartaron una amenaza activa en la zona."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muestra Retrospectiva 2026: Cine Patrimonial de Guatemala reunirá siete películas guatemaltecas en una serie de proyecciones",
-      "link": "https://www.prensalibre.com/vida/escenario/muestra-retrospectiva-2026-cine-patrimonial-de-guatemala-reunira-siete-peliculas-guatemaltecas-en-una-serie-de-proyecciones/",
-      "fecha": "Mon, 02 Nov 2026 23:23:41 +0000",
-      "categoria": "Escenario",
-      "resumen": "El patrimonio cinematográfico de Guatemala podrá redescubrirse durante la Muestra Retrospectiva de Cine Patrimonial, que reunirá siete películas para acercar al público a distintas etapas de la historia audiovisual del país."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Todo lo que debes saber sobre los asuetos de Navidad y Año Nuevo en Guatemala 2026",
       "link": "https://www.guatemala.com/noticias/sociedad/navidad-ano-nuevo-asuetos-de-fin-de-ano-guatemala-2026.html",
       "fecha": "Mon, 02 Nov 2026 23:16:03 +0000",
       "categoria": "Sociedad",
       "resumen": "Los últimos asuetos del 2026 en Guatemala llegarán en diciembre con Navidad y Año Nuevo. Descubre cuándo se gozarán y si habrá fin de semana largo.\nThe post Todo lo que debes saber sobre los asuetos de Navidad y Año Nuevo en Guatemala 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Juez envía a juicio a 33 pandilleros de la MS por el secuestro de tres personas durante un motín",
-      "link": "https://www.prensalibre.com/guatemala/justicia/juez-envia-a-juicio-a-33-pandilleros-de-la-ms-por-el-secuestro-de-tres-personas-durante-un-motin-breaking/",
-      "fecha": "Mon, 02 Nov 2026 23:00:59 +0000",
-      "categoria": "Justicia",
-      "resumen": "Treinta y tres presuntos integrantes de la Mara Salvatrucha enfrentarán juicio por el secuestro de tres trabajadores durante un motín ocurrido en agosto del 2025."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“¡Vamos a morir!”: revelan audios del desesperado llamado de la piloto antes del accidente en Florida",
-      "link": "https://www.prensalibre.com/internacional/vamos-a-morir-revelan-audios-del-desesperado-llamado-de-la-piloto-antes-del-accidente-en-florida/",
-      "fecha": "Mon, 02 Nov 2026 22:35:40 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las grabaciones revelan el dramático llamado de emergencia de la piloto, quien alertó sobre la rápida pérdida de altura del avión antes de estrellarse en Florida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ciclo escolar 2026: 4 maneras divertidas de aprovechar las vacaciones escolares en Guatemala",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/ciclo-escolar-2026-4-maneras-divertidas-de-aprovechar-las-vacaciones-escolares-en-guatemala/",
-      "fecha": "Mon, 02 Nov 2026 21:51:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Hay actividades que pueden marcar la diferencia entre la pérdida de tiempo y la obtención de experiencias inolvidables."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video de Halloween con falsos reos en una autopatrulla: PNC identifica a los agentes que tenían asignada la unidad",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/video-de-halloween-pone-en-aprietos-a-agentes-de-la-pnc-identifican-autopatrulla-y-policias-que-podrian-ser-suspendidos-sin-salario-breaking/",
-      "fecha": "Mon, 02 Nov 2026 21:45:41 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La PNC identificó a los agentes que tenían a su cargo la autopatrulla utilizada por dos hombres disfrazados de reos para grabar un video de Halloween."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gasolinas bajan hasta Q3.82 en Guatemala: estos son los precios al 2 de noviembre",
-      "link": "https://www.prensalibre.com/economia/gasolinas-bajan-hasta-q3-82-en-guatemala-estos-son-los-precios-al-2-de-noviembre/",
-      "fecha": "Mon, 02 Nov 2026 21:34:31 +0000",
-      "categoria": "Economía",
-      "resumen": "A un mes de la entrada en vigor del Decreto 22-2026, las gasolinas acumulan bajas de hasta Q3.82 por galón en Guatemala, mientras que el diésel registra una reducción de Q0.19."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jake Paul anuncia su regreso al boxeo: ¿Cuándo será la pelea ante el excampeón de kickboxing?",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/jake-paul-anuncia-su-regreso-al-boxeo-cuando-sera-la-pelea-ante-el-excampeon-de-kickboxing/",
-      "fecha": "Mon, 02 Nov 2026 21:30:51 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Jake Paul enfrentará a quien es considerado uno de los mejores pesos wélter de la historia del kickboxing y tiene una destacada trayectoria en las artes marciales mixtas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Las Flores Trail Run”: una experiencia deportiva de 5 y 10 kilómetros entre paisajes naturales, previo al Festival de las Flores",
-      "link": "https://www.prensalibre.com/vida/escenario/las-flores-trail-run-una-experiencia-deportiva-de-5-y-10-kilometros-entre-paisajes-naturales-durante-el-festival-de-las-flores/",
-      "fecha": "Mon, 02 Nov 2026 21:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Entre las actividades del Festival de las Flores en Antigua Guatemala destaca Las Flores Trail Run, una carrera de 5 y 10 kilómetros que invita a los participantes a correr en la naturaleza."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Imágenes impactantes de la tragedia en México: avioneta cae poco después de despegar y deja dos muertos",
-      "link": "https://www.prensalibre.com/internacional/tragedia-en-mexico-avioneta-se-desploma-apenas-un-minuto-despues-de-despegar-y-deja-dos-personas-muertas-breaking/",
-      "fecha": "Mon, 02 Nov 2026 19:59:21 +0000",
-      "categoria": "Internacional",
-      "resumen": "Dos personas murieron al desplomarse una avioneta poco después de despegar del aeropuerto de Pachuca, en Hidalgo, México."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones intermedias de Estados Unidos: ¿Qué día son y por qué son importantes para Trump?",
-      "link": "https://www.prensalibre.com/internacional/elecciones-intermedias-de-estados-unidos-que-dia-son-y-por-que-son-importantes-para-trump/",
-      "fecha": "Mon, 02 Nov 2026 19:31:16 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las elecciones intermedias marcarán el inicio de la carrera presidencial del 2028, en la que el presidente Donald Trump ya no podrá participar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién era Nathalia Gadelha Filgueiras, la copiloto de 20 años que murió en el accidente aéreo de Florida",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/quien-era-nathalia-gadelha-filgueiras-la-copiloto-de-20-anos-que-murio-en-el-accidente-aereo-de-florida-breaking/",
-      "fecha": "Mon, 02 Nov 2026 19:17:46 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "¿Qué se sabe de Nathalia Gadelha Filgueiras, la joven copiloto que murió en el accidente aéreo ocurrido en Florida, que dejó nueve víctimas, y qué detalles han trascendido sobre su vida y trayectoria?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuál es el próximo asueto en Guatemala?: calendario de los últimos descansos para los trabajadores",
-      "link": "https://www.prensalibre.com/vida/escenario/cual-es-el-proximo-asueto-en-guatemala-calendario-de-los-ultimos-descansos-para-los-trabajadores/",
-      "fecha": "Mon, 02 Nov 2026 19:10:13 +0000",
-      "categoria": "Escenario",
-      "resumen": "Guatemala inicia los últimos dos meses del año, período que contempla los últimos asuetos reconocidos por el Código de Trabajo. Conozca las fechas de descanso para los trabajadores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Reconoces a las mejores empresas para laborar en el país",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/reconoces-a-las-mejores-empresas-para-laborar-en-el-pais/",
-      "fecha": "Mon, 02 Nov 2026 19:05:09 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "La bolsa de empleos que desde 2001 conecta a los mejores candidatos de la región con las oportunidades laborales de las empresas líderes en Centroamérica y República Dominicana, Tecoloco, realizó el Galardón EMAT 2026, un evento que premia y reconoce a las mejores empresas para trabajar en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Calendario de adviento 2026 en Guatemala",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/calendario-de-adviento-2026-en-guatemala/",
-      "fecha": "Mon, 02 Nov 2026 18:59:55 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Más que una cuenta regresiva, en este período de tiempo se pueden reforzar las convicciones, compartir los valores y disfrutar de las tradiciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Diputado David Illescas admite participar en una trifulca y portar arma de fuego dentro de un estadio",
-      "link": "https://www.prensalibre.com/guatemala/politica/diputado-david-illescas-admite-participar-en-una-trifulca-y-portar-armar-de-fuego-dentro-de-un-estadio/",
-      "fecha": "Mon, 02 Nov 2026 18:41:54 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El congresista que forma parte del nuevo partido político Raíces indica que es la seguridad del estadio quien no le prohibió ingresar con un arma de fuego."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Me encantaría volver a presentarme”: Trump habla de sus aspiraciones para el 2028",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/trump-insiste-en-que-le-gustaria-competir-por-la-presidencia-de-estados-unidos-en-el-2028/",
-      "fecha": "Mon, 02 Nov 2026 18:25:41 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "El presidente Donald Trump aseguró que le encantaría buscar un tercer mandato presidencial en el 2028, aunque reconoció que la Constitución se lo impide."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Lionel Messi y Cristiano Ronaldo figuran entre los candidatos al equipo ideal 2025-2026?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lionel-messi-y-cristiano-ronaldo-figuran-entre-los-candidatos-al-equipo-ideal-2025-2026/",
-      "fecha": "Mon, 02 Nov 2026 18:15:54 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Messi, Cristiano Ronaldo y seis españoles destacan entre los 26 finalistas al mejor once del mundo de la temporada 2025-2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuándo podría reabrir Irán el estrecho de Ormuz? Esta es su propuesta a Estados Unidos",
-      "link": "https://www.prensalibre.com/internacional/cuando-podria-reabrir-iran-el-estrecho-de-ormuz-esta-es-su-propuesta-a-estados-unidos/",
-      "fecha": "Mon, 02 Nov 2026 17:44:08 +0000",
-      "categoria": "Internacional",
-      "resumen": "La propuesta se apoya en un plan de siete pasos elaborado por Irán, cuyo objetivo es reabrir el estrecho de Ormuz y poner fin al bloqueo naval estadounidense."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Médico y empleada municipal, entre los capturados por irregularidades en caso de menor fallecido en Ciudad Peronia",
-      "link": "https://www.prensalibre.com/guatemala/justicia/medico-y-empleada-municipal-entre-los-capturados-por-irregularidades-en-caso-de-menor-fallecido-en-ciudad-peronia/",
-      "fecha": "Mon, 02 Nov 2026 17:43:50 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El médico habría hecho constar que el menor murió por causas naturales, pero la investigación determinó que falleció por heridas de arma de fuego."
     },
     {
       "fuente": "Guatemala.com",
@@ -865,14 +873,6 @@
       "fecha": "Fri, 30 Oct 2026 00:27:14 +0000",
       "categoria": "Sociedad",
       "resumen": "Alimentos &#038; Suministros inauguró la primera fase de su nuevo Complejo Industrial en Villa Nueva, que combina tecnología, eficiencia y sostenibilidad.\nThe post Suministros & Alimentos inauguró Centro de Distribución en Villa Nueva appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Bancos de Guatemala tendrán asueto el 2 de noviembre 2026",
-      "link": "https://www.guatemala.com/noticias/comunidad/bancos-guatemala-cerraran-2-noviembre-2026-asueto-dia-de-todos-los-santos.html",
-      "fecha": "Wed, 28 Oct 2026 22:57:54 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Bancos del país trasladarán el asueto del Día de Todos los Santos al lunes 2 de noviembre de 2026, por lo que pausarán sus labores durante el día. \nThe post Bancos de Guatemala tendrán asueto el 2 de noviembre 2026 appeared first on Guatemala.com."
     }
   ]
 }
