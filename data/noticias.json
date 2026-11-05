@@ -1,7 +1,199 @@
 {
-  "actualizado": "2026-11-05T10:36:51.979Z",
+  "actualizado": "2026-11-05T18:37:04.508Z",
   "total": 107,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Banguat registra nuevos cambios en su cuerpo gerencial en menos de un mes",
+      "link": "https://www.prensalibre.com/economia/banguat-registra-nuevos-cambios-en-su-cuerpo-gerencial-en-menos-de-un-mes/",
+      "fecha": "Thu, 05 Nov 2026 18:29:14 +0000",
+      "categoria": "Economía",
+      "resumen": "Herberth Solórzano Somoza fue designado gerente general del Banco de Guatemala, mientras que Juan Carlos Castañeda Fuentes asumió la gerencia económica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Noche de leyendas de Guatemala”: fecha y cómo obtener entradas para el evento en el Palacio Nacional de la Cultura",
+      "link": "https://www.prensalibre.com/vida/escenario/noche-de-leyendas-de-guatemala-fecha-y-como-obtener-las-entradas-para-el-evento-que-revive-la-tradicion-oral/",
+      "fecha": "Thu, 05 Nov 2026 18:08:18 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con una puesta en escena que recrea la tradición oral guatemalteca y conmemora el retorno de los restos del escritor Miguel Ángel Asturias al país, llega una nueva edición de Noche de leyendas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cristiano Ronaldo vs. Messi: ¿Quién dejó mejores números con su selección tras años de historia?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-vs-messi-quien-dejo-mejores-numeros-con-su-seleccion-tras-anos-de-historia/",
+      "fecha": "Thu, 05 Nov 2026 17:44:04 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La eterna discusión entre Lionel Messi y Cristiano Ronaldo ha llegado a su capítulo final con el cierre de sus respectivas carreras internacionales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Barriletes gigantes de Guatemala: fecha, hora y participantes del conversatorio sobre su tradición ancestral",
+      "link": "https://www.prensalibre.com/vida/escenario/barriletes-gigantes-de-guatemala-fecha-hora-y-participantes-del-conversatorio-sobre-su-tradicion/",
+      "fecha": "Thu, 05 Nov 2026 17:28:55 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con el propósito de dar a conocer las historias de quienes preservan el conocimiento y la tradición de elaborar barriletes gigantes, el Instituto Guatemalteco de Turismo invita a un conversatorio con creadores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Santiago Peña renuncia como presidente de Paraguay por la crisis de Ueno Bank",
+      "link": "https://www.prensalibre.com/guatemala/santiago-pena-renuncia-como-presidente-de-paraguay-por-la-crisis-de-ueno-bank/",
+      "fecha": "Thu, 05 Nov 2026 17:27:57 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El presidente de Paraguay dimitió este jueves en medio de la crisis desatada por la intervención de Ueno Bank. El Parlamento estaba en pleno proceso para su juicio político."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Santiago Peña renuncia a presidencia de Paraguay arrastrado por crisis tras el cierre de Ueno Bank",
+      "link": "https://www.prensalibre.com/internacional/santiago-pena-renuncia-a-presidencia-de-paraguay-arrastrado-por-crisis-tras-el-cierre-de-ueno-bank-breaking/",
+      "fecha": "Thu, 05 Nov 2026 17:11:57 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente de Paraguay, Santiago Peña, renunció en medio de la crisis desatada en ese país por la intervención de Ueno Bank."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Festival &#8220;A Cielo Abierto&#8221;: más de 20 actividades gratuitas y al aire libre en el Centro Cultural Miguel Ángel Asturias",
+      "link": "https://www.prensalibre.com/vida/escenario/festival-a-cielo-abierto-mas-de-20-actividades-gratuitas-y-al-aire-libre-en-el-centro-cultural-miguel-angel-asturias/",
+      "fecha": "Thu, 05 Nov 2026 17:04:09 +0000",
+      "categoria": "Escenario",
+      "resumen": "Las plazas y espacios abiertos del Centro Cultural Miguel Ángel Asturias acogerán diversas actividades artísticas, culturales, deportivas y recreativas para toda la familia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cristiano Ronaldo y sus números de leyenda con Portugal: cuántos goles, partidos y títulos consiguió",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-y-sus-numeros-de-leyenda-con-portugal-cuantos-goles-partidos-y-titulos-consiguio/",
+      "fecha": "Thu, 05 Nov 2026 17:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Portugal dice adiós a su capitán histórico tras el retiro internacional de Cristiano Ronaldo, máximo goleador del futbol de selecciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tour de cine francés vuelve a Guatemala: siete películas se lucirán en la 24 edición de la muestra",
+      "link": "https://www.prensalibre.com/vida/escenario/tour-de-cine-frances-vuelve-a-guatemala-siete-peliculas-se-luciran-en-la-24-edicion-de-la-muestra/",
+      "fecha": "Thu, 05 Nov 2026 16:30:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La muestra que se presentará en Guatemala incluye obras del séptimo arte francés con temas variados y actuales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Poder Ciudadano retira propuesta de reformas constitucionales del Congreso tras denunciar amenazas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/poder-ciudadano-retira-propuesta-de-reformas-constitucionales-del-congreso-tras-denunciar-amenazas-breaking/",
+      "fecha": "Thu, 05 Nov 2026 16:27:37 +0000",
+      "categoria": "Justicia",
+      "resumen": "Movimiento Poder Ciudadano explica por qué retiró del Congreso la propuesta de reformas constitucionales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inundaciones en Estados Unidos: Florida declara estado de emergencia por la influencia de El Niño",
+      "link": "https://www.prensalibre.com/internacional/inundaciones-en-estados-unidos-florida-declara-estado-de-emergencia-por-la-influencia-de-el-nino/",
+      "fecha": "Thu, 05 Nov 2026 16:03:04 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las agencias describieron la presencia de una vaguada de onda corta que se extendía desde el noreste del golfo de México hasta el valle del río Misuri."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los Caradura: las tres estructuras vinculadas con robos a blindados, sicariato y narcotráfico en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/justicia/los-caradura-las-tres-estructuras-vinculadas-con-robos-a-blindados-sicariato-y-narcotrafico-en-guatemala/",
+      "fecha": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los Mexicanos, Los Taxistas del Viejo y un grupo de sicarios de San Marcos habrían operado para Los Caradura, según investigaciones del MP."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos leyendas, 13 Balones de Oro y una despedida: el final de la era Messi-Cristiano Ronaldo",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/dos-leyendas-13-balones-de-oro-y-una-despedida-el-final-de-la-era-messi-cristiano-ronaldo/",
+      "fecha": "Thu, 05 Nov 2026 15:26:51 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Con el retiro de Lionel Messi de Argentina y la despedida de Cristiano Ronaldo de Portugal, el futbol internacional pone fin a una de las rivalidades más grandes de todos los tiempos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque armado en La Reformita: dos hombres de unos 18 años mueren y una mujer resulta herida",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-la-reformita-dos-hombres-de-unos-18-anos-mueren-y-una-mujer-resulta-herida-breaking/",
+      "fecha": "Thu, 05 Nov 2026 14:27:43 +0000",
+      "categoria": "Sucesos",
+      "resumen": "La colonia La Reformita, zona 12, fue escenario de un ataque armado que dejó dos personas muertas y una herida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Portugal pierde a Cristiano Ronaldo: el impacto comercial que anticipa un experto",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/portugal-pierde-a-cristiano-ronaldo-el-impacto-comercial-que-anticipa-un-experto/",
+      "fecha": "Thu, 05 Nov 2026 13:33:22 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La salida de Cristiano Ronaldo de Portugal marca el fin de una era y deja a la selección sin su mayor referente comercial e internacional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Con pancartas y fotografías de André, familiares exigen justicia por bebé atropellado en Salcajá",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-andre-en-salcaja-10-reprogramaciones-y-casi-un-ano-de-espera-audiencia-por-bebe-atropellado-se-aplaza-hasta-2027/",
+      "fecha": "Thu, 05 Nov 2026 13:29:51 +0000",
+      "categoria": "Justicia",
+      "resumen": "La familia de André, un bebé de cinco meses que murió atropellado en Salcajá, denuncia constantes retrasos judiciales. La audiencia volvió a suspenderse y fue trasladada al 20 de enero del 2027, mientras su madre exige justicia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Temblores en Santa Rosa: Insivumeh explica qué ocurre y dónde se concentra la actividad sísmica",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/temblores-en-santa-rosa-insivumeh-explica-que-ocurre-y-donde-se-concentra-la-actividad-sismica-breaking/",
+      "fecha": "Thu, 05 Nov 2026 13:27:44 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh detalló que la actividad sísmica ha registrado magnitudes bajas y profundidades reducidas en Santa Rosa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Léster Martínez vs. Canelo Álvarez: el posible camino hacia una pelea por el título mundial",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/lester-martinez-y-canelo-alvarez-el-posible-camino-hacia-una-pelea-por-el-titulo-mundial-breaking/",
+      "fecha": "Thu, 05 Nov 2026 13:04:00 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El guatemalteco es campeón interino del CMB y mantiene la ilusión de disputar el cinturón absoluto de las 168 libras."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cristiano Ronaldo anuncia su retiro de la selección de Portugal: así fue su emotivo anuncio",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-anuncia-su-retiro-de-la-seleccion-de-portugal-asi-fue-su-emotivo-anuncio/",
+      "fecha": "Thu, 05 Nov 2026 12:54:49 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El máximo referente del futbol portugués, Cristiano Ronaldo, cierra un ciclo inolvidable con su selección tras más de dos décadas de carrera internacional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El vicepresidente JD Vance, en la cuerda floja con Trump tras su feroz crítica por la derrota republicana en las elecciones",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-vicepresidente-jd-vance-en-la-cuerda-floja-con-trump-tras-su-feroz-critica-por-la-derrota-republicana-en-las-elecciones/",
+      "fecha": "Thu, 05 Nov 2026 11:51:27 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La contundente valoración que hizo el vicepresidente de la derrota electoral republicana marcó una de las rupturas más marcadas con un presidente en ejercicio en la historia reciente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Ha llegado el día de devolver la camiseta número 7&#8221;: Cristiano Ronaldo anuncia su retiro de la selección de Portugal",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ha-llegado-el-dia-de-devolver-la-camiseta-numero-7-cristiano-ronaldo-anuncia-su-retiro-de-la-seleccion-de-portugal/",
+      "fecha": "Thu, 05 Nov 2026 11:20:39 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El delantero de 41 años es considerado el mejor jugador en la historia de su país, además de ser el mayor goleador histórico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Minería en Guatemala vuelve a crecer tras tres trimestres de caída: los retos para atraer inversión",
+      "link": "https://www.prensalibre.com/economia/mineria-en-guatemala-vuelve-a-crecer-tras-tres-trimestres-de-caida-los-retos-para-atraer-inversion/",
+      "fecha": "Thu, 05 Nov 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El sector de explotación de minas y canteras muestra señales de recuperación durante el 2026, en un contexto en el que la industria impulsa una iniciativa para sistematizar las buenas prácticas de la actividad minera, presentada durante el Congreso Nacional de Minería."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Biografía de Miguel Ángel Asturias Rosales: una vida de letras, diplomacia y familia",
+      "link": "https://www.prensalibre.com/vida/escenario/biografia-de-miguel-angel-asturias-rosales-una-vida-de-letras-diplomacia-y-familia/",
+      "fecha": "Thu, 05 Nov 2026 11:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "En poco menos de 75 años, el ganador del Premio Nobel de Literatura de 1967 recorrió el mundo gracias a su talento literario y a su compromiso con sus convicciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Minex atendió a 97 guatemaltecos en Polonia, pero no tiene registros de contrataciones privadas",
+      "link": "https://www.prensalibre.com/internacional/minex-atendio-a-97-guatemaltecos-en-polonia-pero-no-tiene-registros-de-contrataciones-privadas/",
+      "fecha": "Thu, 05 Nov 2026 11:00:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Cancillería reporta 97 guatemaltecos atendidos desde 2022 y 86 consultas laborales recientes, pero afirma que no posee registros de contrataciones privadas hacia Polonia."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Por qué la Fiscalía de Chile pide 22 años de cárcel para Jorge Valdivia, exfigura de la selección chilena?",
@@ -164,11 +356,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Dos motines se registran en Renovación 1 y El Boquerón; reos toman como rehenes a guardias del SP",
+      "titulo": "Renovación 1 y El Boquerón registran motines: esto se sabe sobre la situación de los guardias penitenciarios",
       "link": "https://www.prensalibre.com/guatemala/sucesos/reos-de-renovacion-1-se-amotinan-y-toman-como-rehenes-a-guardias-del-sistema-penitenciario-breaking/",
       "fecha": "Thu, 05 Nov 2026 02:25:54 +0000",
       "categoria": "Sucesos",
-      "resumen": "Dos motines se registran en las cárceles Renovación 1 y El Boquerón. En el primero, privados de libertad tomaron como rehenes a guardias del Sistema Penitenciario."
+      "resumen": "Dos motines fueron reportados en las cárceles Renovación 1 y El Boquerón. En el primero, privados de libertad habrían tomado como rehenes a guardias del Sistema Penitenciario."
     },
     {
       "fuente": "Prensa Libre",
@@ -601,198 +793,6 @@
       "fecha": "Wed, 04 Nov 2026 12:00:00 +0000",
       "categoria": "Escenario",
       "resumen": "El Museo de la Universidad de San Carlos abrirá sus puertas para celebrar la Noche de los Museos, con una agenda de actividades culturales y artísticas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tráiler pierde el control y se estrella contra varios locales comerciales de un mercado en Villa Nueva",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/trailer-pierde-el-control-y-se-estrella-contra-varios-locales-comerciales-de-un-mercado-en-villa-nueva-breaking/",
-      "fecha": "Wed, 04 Nov 2026 11:19:11 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Accidente de tráiler causa daños en 12 locales comerciales de un mercado de la zona 1 de Villa Nueva."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Trump publicó una gorra con la palabra &#8220;VETO&#8221; tras las derrotas republicanas en las elecciones de EE. UU.?",
-      "link": "https://www.prensalibre.com/internacional/elecciones-de-medio-termino-en-estados-unidos-trump-responde-con-una-gorra-que-dice-veto/",
-      "fecha": "Wed, 04 Nov 2026 11:00:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Donald Trump publicó una gorra con la palabra \"VETO\" en la red Truth Social y responsabilizó al gobernador de Texas por la derrota republicana en ese estado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;El Steg está en un momento muy bajo de credibilidad&#8221;: María del Carmen Aceña",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/el-steg-esta-en-un-momento-muy-bajo-de-credibilidad-maria-del-carmen-acena/",
-      "fecha": "Wed, 04 Nov 2026 10:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La exministra de Educación, María del Carmen Aceña, señaló que aumentar a Q25 la alimentación escolar no mejorará el aprendizaje de los estudiantes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Real Madrid visita al AEK de Atenas: hora y dónde ver el partido de Champions League",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-visita-al-aek-de-atenas-hora-y-donde-ver-el-partido-de-champions-league/",
-      "fecha": "Wed, 04 Nov 2026 10:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Real Madrid visita este miércoles al AEK de Atenas con la misión de mantener el paso perfecto en la Champions League."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fray Augusto Ramírez Monasterio: la historia del franciscano que sufrió el martirio por proteger el secreto de confesión",
-      "link": "https://www.prensalibre.com/vida/escenario/fray-augusto-ramirez-monasterio-la-historia-del-franciscano-que-sufrio-el-martirio-por-proteger-el-secreto-de-confesion/",
-      "fecha": "Wed, 04 Nov 2026 10:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Firme en su convicción, fray Augusto Ramírez Monasterio protegió con su vida el secreto de confesión. A 43 años de su asesinato, la comunidad católica se reunirá para celebrar la eucaristía de su beatificación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;No lo considero un revés para mí&#8221;: la reacción de Trump tras el aplastante triunfo de los demócratas en el Congreso",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/no-lo-considero-un-reves-para-mi-la-reaccion-de-trump-tras-el-aplastante-triunfo-de-los-democratas-en-el-congreso/",
-      "fecha": "Wed, 04 Nov 2026 09:54:50 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Trump atribuyó la responsabilidad directamente a los propios candidatos republicanos, aunque reconoció que los elevados precios de la gasolina influyeron en el resultado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién Gina Hinojosa, la demócrata de ascendencia mexicana que será la primera latina en gobernar la conservadora Texas",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-gina-hinojosa-la-democrata-de-ascendencia-mexicana-que-sera-la-primera-latina-en-gobernar-la-conservadora-texas/",
-      "fecha": "Wed, 04 Nov 2026 08:29:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La legisladora estatal derrotó a Greg Abbott, uno de los gobernadores republicanos más destacados del país y fiel aliado del presidente Donald Trump."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Convenio que fortalece la resiliencia climática",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/convenio-que-fortalece-la-resiliencia-climatica/",
-      "fecha": "Wed, 04 Nov 2026 08:28:48 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "El Banco Centroamericano de Integración Económica (BCIE) y el Banco de Desarrollo Rural (BANRURAL) suscribieron un convenio de asistencia técnica no reembolsable para apoyar la gestión climática de la entidad financiera guatemalteca."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo viaja a España en medio de crisis en Guatemala: analistas cuestionan beneficios de la visita",
-      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-viaja-a-espana-en-medio-de-crisis-en-guatemala-analistas-cuestionan-beneficios-de-la-visita/",
-      "fecha": "Wed, 04 Nov 2026 07:16:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Entre tensiones políticas, problemas de seguridad y asuntos pendientes para su Gobierno, el presidente Bernardo Arévalo viaja a España para participar en la XXX Cumbre Iberoamericana de Jefes de Estado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "5 victorias que muestran la magnitud del histórico triunfo demócrata en las elecciones de mitad de mandato en EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/5-victorias-que-muestran-la-magnitud-del-historico-triunfo-democrata-en-las-elecciones-de-mitad-de-mandato-en-ee-uu/",
-      "fecha": "Wed, 04 Nov 2026 06:40:19 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La votación de este martes rompió rachas longevas para los republicanos, en un caso casi centenaria."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Que se publiquen los reglamentos del seguro social obligatorio vehicular",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/que-se-publiquen-los-reglamentos-del-seguro-social-obligatorio-vehicular/",
-      "fecha": "Wed, 04 Nov 2026 06:28:11 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "La Alianza Guatemalteca por Guatemala, plataforma de más de 489 organizaciones de víctimas, agrícolas y campesinas, transportistas, autoridades indígenas y otras en todo el país, realiza una movilización nacional para que el Presidente Bernardo Arévalo vuelva a publicar los Reglamentos GUATE para GUATE del seguro social obligatorio vehicular."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nueva ley antilavado: estos son los funcionarios y familiares sujetos a controles financieros reforzados",
-      "link": "https://www.prensalibre.com/economia/nueva-ley-antilavado-estos-son-los-funcionarios-y-familiares-sujetos-a-controles-financieros-reforzados/",
-      "fecha": "Wed, 04 Nov 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La Superintendencia de Bancos (SIB) publicó el primer listado de personas expuestas políticamente (PEP) tras la entrada en vigor de la nueva ley antilavado. El documento incluye diversos cargos del sector público y define los perfiles de quienes están comprendidos en esta categoría."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Occidente, relativismo y wokismo",
-      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/occidente-relativismo-y-wokismo/",
-      "fecha": "Wed, 04 Nov 2026 06:08:00 +0000",
-      "categoria": "Plumas invitadas",
-      "resumen": "Una sociedad que pierde la confianza en sus raíces, se vuelve incapaz de valorar su propia identidad y queda desarmada ante los desafíos del futuro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La despedida",
-      "link": "https://www.prensalibre.com/opinion/caricatura/la-despedida-2/",
-      "fecha": "Wed, 04 Nov 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Giro en el escenario político de EE. UU.",
-      "link": "https://www.prensalibre.com/opinion/editorial/giro-en-el-escenario-politico-de-ee-uu/",
-      "fecha": "Wed, 04 Nov 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "El panorama total se irá aclarando para los dos últimos años de Trump en el poder, pero para ambos partidos debe quedar claro que el electorado está cambiando."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Demócratas recuperan el Senado y el Congreso",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/no-fue-posible-conocer-resultados-definitivos/",
-      "fecha": "Wed, 04 Nov 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Más jóvenes votaron, se gastó más dinero de toda la historia, la campaña fue feroz, pero hay espacio para sorpresas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo dejará el mundo de depender del petróleo? Brasil propone una hoja de ruta para la próxima década",
-      "link": "https://www.prensalibre.com/internacional/como-dejara-el-mundo-de-depender-del-petroleo-brasil-propone-una-hoja-de-ruta-para-la-proxima-decada/",
-      "fecha": "Wed, 04 Nov 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Brasil plantea una hoja de ruta de tres fases para que los países reduzcan su dependencia del petróleo, el gas y el carbón y aceleren la transición energética mundial hacia el 2035."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Presupuesto y las bombas de tiempo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-presupuesto-y-las-bombas-de-tiempo/",
-      "fecha": "Wed, 04 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La ausencia o la debilidad de un gobierno ocasiona, como efecto espejo, la ausencia o debilidad de oposición política."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Devenir del Banguat",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/devenir-del-banguat/",
-      "fecha": "Wed, 04 Nov 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La Constitución de 1985 y la reforma de 1994 sentaron las bases de un mayor respetoa la autonomía de la banca central."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El año del triunfo del Partido Patriota",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-ano-del-triunfo-del-partido-patriota/",
-      "fecha": "Wed, 04 Nov 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Curiosamente, los billetes de Q200 no han tenido  una aceptación generalizada de 2011 a 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Puede no importarnos la movilidad?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/puede-no-importarnos-la-movilidad/",
-      "fecha": "Wed, 04 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Se trata de construir acuerdos alrededor de algo que nos une: el derecho de las personas a desplazarse con seguridad y dignidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy miércoles 4 de noviembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-4-de-noviembre-de-2026/",
-      "fecha": "Wed, 04 Nov 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones de medio término en EE. UU: El Partido Demócrata recuperó el control de la Cámara de Representantes",
-      "link": "https://www.prensalibre.com/internacional/elecciones-de-medio-termino-en-estados-unidos-democratas-arrebatan-a-republicanos-la-camara-de-representantes/",
-      "fecha": "Wed, 04 Nov 2026 04:01:55 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Partido Demócrata recuperó el control de la Cámara de Representantes al superar el umbral de los 218 escaños requeridos para alcanzar la mayoría."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Resultados de las gobernaciones en las elecciones de EE. UU: Un histórico triunfo para el Partido Demócrata",
-      "link": "https://www.prensalibre.com/internacional/resultados-de-las-gobernaciones-en-las-elecciones-de-medio-termino-en-ee-uu-keisha-lance-bottoms-y-byron-donalds-hacen-historia/",
-      "fecha": "Wed, 04 Nov 2026 03:24:03 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Partido Demócrata reconfiguró el mapa político estatal de EE. UU. al arrebatarles a los republicanos el control de la mayoría de las gubernaturas."
     },
     {
       "fuente": "Guatemala.com",
