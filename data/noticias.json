@@ -1,7 +1,159 @@
 {
-  "actualizado": "2026-11-05T18:37:04.508Z",
+  "actualizado": "2026-11-05T23:59:31.983Z",
   "total": 107,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Accidente aéreo en San Juan Sacatepéquez: avioneta se estrella en una zona agrícola",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-aereo-en-san-juan-sacatepequez-avioneta-se-estrella-en-una-zona-agricola-breaking/",
+      "fecha": "Thu, 05 Nov 2026 23:14:09 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Una avioneta se estrelló en una zona de cultivos de la comunidad Lo De Zet, en San Juan Sacatepéquez, Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Esa no es la disculpa que ordenó el tribunal”: Sasha Sokol acusa a Luis de Llano de incumplir la sentencia tras publicar un video",
+      "link": "https://www.prensalibre.com/vida/escenario/esa-no-es-la-disculpa-que-ordeno-el-tribunal-sasha-sokol-acusa-a-luis-de-llano-de-incumplir-la-sentencia-tras-publicar-un-video/",
+      "fecha": "Thu, 05 Nov 2026 23:07:21 +0000",
+      "categoria": "Escenario",
+      "resumen": "Luego de que el productor Luis de Llano publicara un video en el que ofrece disculpas públicas a Sasha Sokol, la cantante señaló que el mensaje no cumple con lo establecido por el tribunal."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Parqueos para asistir a la Noche de los Museos 2026 en Guatemala",
+      "link": "https://www.guatemala.com/noticias/comunidad/noche-de-los-museos-2026-en-guatemala-parqueos.html",
+      "fecha": "Thu, 05 Nov 2026 22:23:08 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Conoce las tarifas de los parqueos cercanos a los establecimientos participantes en la Noche de los Museos 2026 en la Ciudad de Guatemala.\nThe post Parqueos para asistir a la Noche de los Museos 2026 en Guatemala appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fraude bancario en EE. UU: Cómo una red habría vulnerado cuentas con saldos de U$373 millones",
+      "link": "https://www.prensalibre.com/internacional/fraude-bancario-en-ee-uu-como-una-red-habria-vulnerado-cuentas-con-saldos-de-u373-millones/",
+      "fecha": "Thu, 05 Nov 2026 21:57:56 +0000",
+      "categoria": "Internacional",
+      "resumen": "Este caso podría haber afectado a víctimas en casi todo el territorio de los Estados Unidos e involucra cuentas vinculadas con US$373 millones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "CC ordena al Congreso verificar la legitimidad de las firmas de las propuestas de reformas a la Constitución",
+      "link": "https://www.prensalibre.com/guatemala/politica/cc-ordena-al-congreso-verificar-la-legitimidad-de-las-firmas-de-las-propuestas-de-reformas-a-la-constitucion/",
+      "fecha": "Thu, 05 Nov 2026 21:47:01 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Congreso tiene que habilitar un espacio para que ciudadanos verifiquen sus datos y si hay irregularidades ordena que se denuncie a los que pidieron las firmas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Motines en Renovación 1 y El Boquerón habrían sido coordinados desde las cárceles; SP asegura que no negoció con reos",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/motines-en-renovacion-1-y-el-boqueron-habrian-sido-coordinados-desde-las-carceles-sp-asegura-que-no-negocio-con-reos-breaking/",
+      "fecha": "Thu, 05 Nov 2026 21:44:18 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Sistema Penitenciario no descarta que los motines en Renovación 1 y El Boquerón fueran coordinados desde el interior de las cárceles mediante teléfonos celulares."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos ataques armados dejan dos muertos y se reportan cierres viales en zonas 12 y 13",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-ataques-armados-dejan-dos-muertos-y-se-reportan-cierres-viales-en-zonas-12-y-13/",
+      "fecha": "Thu, 05 Nov 2026 21:31:55 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Un hombre murió baleado en la conexión de la calzada Aguilar Batres hacia el bulevar Liberación, mientras que un motorista falleció en la colonia La Libertad 1, zona 13. Ambos hechos afectaron la circulación vehicular."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“The Legend of Zelda: Ocarina of Time” regresa con un remake para Nintendo Switch 2: así renace el clásico de 1998",
+      "link": "https://www.prensalibre.com/vida/tecnologia/the-legend-of-zelda-ocarina-of-time-regresa-con-un-remake-para-nintendo-switch-2-asi-renace-el-clasico-de-1998/",
+      "fecha": "Thu, 05 Nov 2026 21:26:49 +0000",
+      "categoria": "Tecnología",
+      "resumen": "Nintendo trae de vuelta a Link para llevar a los aficionados a los videojuegos a una nueva aventura en Switch 2, como parte de la celebración de la saga. Conozca los detalles de su regreso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Centros de llamadas buscan expandirse fuera de la capital: estos son los diez lugares con mayor potencial",
+      "link": "https://www.prensalibre.com/economia/centros-de-llamadas-buscan-expandirse-fuera-de-la-capital-estos-son-los-diez-lugares-con-mayor-potencial/",
+      "fecha": "Thu, 05 Nov 2026 21:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Un estudio de la Asociación Guatemalteca de Exportadores (Agexport) identificó diez zonas del país con potencial para atraer inversiones en centros de llamadas, a partir de un análisis de 323 municipios que evaluó talento laboral, dominio del inglés, conectividad e infraestructura."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Tráfico en Guatemala por actividades de fin de año 2026",
+      "link": "https://www.guatemala.com/noticias/comunidad/trafico-guatemala-2026-actividades-fin-de-ano.html",
+      "fecha": "Thu, 05 Nov 2026 20:54:13 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Entérate de las actividades de fin de año que podrían generar tráfico en distintas zonas de la Ciudad de Guatemala entre noviembre y diciembre 2026.\nThe post Tráfico en Guatemala por actividades de fin de año 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Ryan Wedding: qué se sabe del juez mexicano acusado de recibir US$2 millones en sobornos",
+      "link": "https://www.prensalibre.com/internacional/caso-ryan-wedding-que-se-sabe-del-juez-mexicano-acusado-de-recibir-us2-millones-en-sobornos/",
+      "fecha": "Thu, 05 Nov 2026 20:52:52 +0000",
+      "categoria": "Internacional",
+      "resumen": "Detienen en Colombia a juez mexicano acusado de recibir US$2 millones en sobornos para favorecer a la red de narcotráfico de Ryan Wedding."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De California a Maryland: Dos mujeres de origen guatemalteco ganan en las elecciones de EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/de-california-a-maryland-dos-mujeres-de-origen-guatemalteco-ganan-en-las-elecciones-de-ee-uu/",
+      "fecha": "Thu, 05 Nov 2026 20:30:55 +0000",
+      "categoria": "Internacional",
+      "resumen": "Karla Silvestre y Sade Elhawary representan dos trayectorias distintas en Estados Unidos, pero comparten una conexión con sus raíces guatemaltecas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Circo entrega siete tigres de Bengala que serán trasladados a un santuario de vida silvestre en Sudáfrica",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/circo-entrega-siete-tigres-de-bengala-que-seran-trasladados-a-un-santuario-de-vida-silvestre-en-sudafrica-breaking/",
+      "fecha": "Thu, 05 Nov 2026 20:11:03 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Siete tigres de Bengala que permanecían en un circo serán trasladados a un santuario de Animal Defenders International, en Sudáfrica, luego de que fueran entregados voluntariamente a la Unidad de Bienestar Animal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Hermano&#8221;: La canción de Santana y Natalia Lafourcade que envía un mensaje de empatía y reconciliación a la humanidad",
+      "link": "https://www.prensalibre.com/vida/escenario/hermano-la-cancion-de-santana-y-natalia-lafourcade-que-envia-un-mensaje-de-empatia-y-reconciliacion-a-la-humanidad/",
+      "fecha": "Thu, 05 Nov 2026 19:39:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La leyenda global del rock Carlos Santana y Natalia Lafourcade, unieron sus voces en “Hermano”, tema que presentan como una reflexión profunda, emotiva y vulnerable sobre el estado emocional y social del mundo actual."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Guatemala, llegó nuestro momento”: el mensaje de Chayanne antes de su concierto, posible repertorio, horarios de ingreso y parqueos",
+      "link": "https://www.prensalibre.com/vida/escenario/guatemala-llego-nuestro-momento-el-mensaje-de-chayanne-antes-de-su-concierto-posible-repertorio-horarios-de-ingreso-y-parqueos/",
+      "fecha": "Thu, 05 Nov 2026 19:38:31 +0000",
+      "categoria": "Escenario",
+      "resumen": "El cantante puertorriqueño Chayanne llegará a Guatemala con su gira Bailemos Otra Vez, un concierto en el que pondrá a bailar y emocionará al público con sus grandes éxitos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Trump destituirá a Pete Hegseth? El secretario de Guerra enfrenta críticas tras las elecciones",
+      "link": "https://www.prensalibre.com/internacional/trump-destituira-a-pete-hegseth-el-secretario-de-guerra-enfrenta-criticas-tras-las-elecciones/",
+      "fecha": "Thu, 05 Nov 2026 19:14:49 +0000",
+      "categoria": "Internacional",
+      "resumen": "A Pete Hegseth lo acusan de seguir defendiendo la guerra en Irán pese a los escasos indicios de que los bombardeos hayan acercado a Teherán a la rendición."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Design Week Guatemala 2026: cinco experiencias para explorar el diseño guatemalteco",
+      "link": "https://www.prensalibre.com/vida/escenario/design-week-guatemala-2026-cinco-experiencias-para-explorar-el-diseno-guatemalteco/",
+      "fecha": "Thu, 05 Nov 2026 18:58:47 +0000",
+      "categoria": "Escenario",
+      "resumen": "Un evento que reúne arquitectura, arte y diseño en cinco experiencias que se desarrollan en distintos puntos de la ciudad. Conozca todos los detalles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Copa Oro 2027: cuál es el nuevo formato, las fechas y cómo puede clasificar la Selección de Guatemala",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/copa-oro-2027-cual-es-el-nuevo-formato-las-fechas-y-como-puede-clasificar-la-seleccion-de-guatemala/",
+      "fecha": "Thu, 05 Nov 2026 18:45:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Concacaf confirma cambios en la Copa Oro y Guatemala afronta una ruta que puede llevarla de forma directa al certamen regional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sala de Apelaciones absuelve a tres exdiputados y anula condenas por caso Asalto al Ministerio de Salud",
+      "link": "https://www.prensalibre.com/guatemala/justicia/sala-de-apelaciones-absuelve-a-tres-exdiputados-y-anula-condenas-por-caso-asalto-al-ministerio-de-salud-breaking/",
+      "fecha": "Thu, 05 Nov 2026 18:44:33 +0000",
+      "categoria": "Justicia",
+      "resumen": "Una sala de Apelaciones de Mayor Riesgo absolvió a tres exdiputados y revocó las condenas que recibieron por tráfico de influencias en el caso Asalto al Ministerio de Salud."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Banguat registra nuevos cambios en su cuerpo gerencial en menos de un mes",
@@ -20,11 +172,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Gasolinas en Guatemala: bajan los precios durante la semana y esto costará el galón el 6 de noviembre",
+      "link": "https://www.prensalibre.com/economia/gasolinas-en-guatemala-bajan-los-precios-durante-la-semana-y-esto-costara-el-galon-el-6-de-noviembre/",
+      "fecha": "Thu, 05 Nov 2026 18:00:46 +0000",
+      "categoria": "Economía",
+      "resumen": "Los precios de los combustibles continúan a la baja en Guatemala. Durante la primera semana de noviembre, el diésel y las gasolinas registraron nuevas reducciones y cerrarán el viernes 6 con precios más bajos, según el monitoreo del MEM."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Cristiano Ronaldo vs. Messi: ¿Quién dejó mejores números con su selección tras años de historia?",
       "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-vs-messi-quien-dejo-mejores-numeros-con-su-seleccion-tras-anos-de-historia/",
       "fecha": "Thu, 05 Nov 2026 17:44:04 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "La eterna discusión entre Lionel Messi y Cristiano Ronaldo ha llegado a su capítulo final con el cierre de sus respectivas carreras internacionales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En diez días, la MS retuvo tres veces a guardias penitenciarios, admite Mingob",
+      "link": "https://www.prensalibre.com/guatemala/justicia/en-diez-dias-la-ms-retuvo-tres-veces-a-guardias-penitenciarios-admite-mingob/",
+      "fecha": "Thu, 05 Nov 2026 17:40:40 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los incidentes ocurrieron el 25 de octubre y el 4 de noviembre en Renovación 1 y El Boquerón. Gobernación reconoce que hubo coacción, pero no violencia física."
     },
     {
       "fuente": "Prensa Libre",
@@ -37,9 +205,9 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Santiago Peña renuncia como presidente de Paraguay por la crisis de Ueno Bank",
-      "link": "https://www.prensalibre.com/guatemala/santiago-pena-renuncia-como-presidente-de-paraguay-por-la-crisis-de-ueno-bank/",
+      "link": "https://www.prensalibre.com/internacional/santiago-pena-renuncia-como-presidente-de-paraguay-por-la-crisis-de-ueno-bank/",
       "fecha": "Thu, 05 Nov 2026 17:27:57 +0000",
-      "categoria": "Guatemala",
+      "categoria": "Internacional",
       "resumen": "El presidente de Paraguay dimitió este jueves en medio de la crisis desatada por la intervención de Ueno Bank. El Parlamento estaba en pleno proceso para su juicio político."
     },
     {
@@ -643,158 +811,6 @@
       "resumen": "Su triunfo se suma a la ola que este martes llevó a los demócratas a hacerse con el control de ambas cámaras del Congreso de Estados Unidos y dejó victorias clave en Texas, incluidas la de Gina Hinojosa como gobernadora y James Talarico como senador."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "El papa León XIV recibe a Bob Dylan en el Vaticano",
-      "link": "https://www.prensalibre.com/vida/escenario/el-papa-leon-xiv-recibe-a-bob-dylan-en-el-vaticano/",
-      "fecha": "Wed, 04 Nov 2026 17:38:24 +0000",
-      "categoria": "Escenario",
-      "resumen": "El papa León XIV se reunió este 4 de noviembre en el Palacio Apostólico del Vaticano con el cantautor estadounidense y premio nobel de Literatura Bob Dylan, que se encuentra en Italia por su gira europea."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "5 razones que explican la derrota abrumadora del Partido Republicano en las elecciones de mitad de mandato en EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/5-razones-que-explican-la-derrota-abrumadora-del-partido-republicano-en-las-elecciones-de-mitad-de-mandato-en-ee-uu/",
-      "fecha": "Wed, 04 Nov 2026 17:20:33 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Desde votantes furiosos hasta un presidente impopular, te explicamos por qué los estadounidenses en zonas tradicionalmente republicanas optaron por los demócratas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente en la Autopista Palín-Escuintla deja un fallecido: video muestra cómo ocurrió el percance",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-en-la-autopista-palin-escuintla-deja-un-fallecido-videos-muestran-como-quedaron-los-vehiculos-breaking/",
-      "fecha": "Wed, 04 Nov 2026 17:04:45 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Una persona murió y varios vehículos quedaron destruidos en una colisión múltiple en el km 54 de la autopista Palín-Escuintla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Eligieron distorsionar lo que vivimos”: integrantes de Timbiriche cuestionan la serie por alterar sus vivencias y revictimizar a Sasha Sokol",
-      "link": "https://www.prensalibre.com/vida/escenario/eligieron-distorsionar-lo-que-vivimos-integrantes-de-timbiriche-cuestionan-la-serie-por-alterar-sus-vivencias-y-revictimizar-a-sasha-sokol/",
-      "fecha": "Wed, 04 Nov 2026 17:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Tras el estreno de la serie Timbiriche, los integrantes del grupo musical alzaron la voz para señalar que sus vivencias fueron distorsionadas. Además, cuestionaron la forma en que se aborda la historia de Sasha Sokol."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Paso a desnivel de Metrocentro, Villa Nueva, abrirá en noviembre: estas son las rutas que facilitará",
-      "link": "https://www.prensalibre.com/economia/paso-a-desnivel-de-metrocentro-villa-nueva-abrira-en-noviembre-estas-son-las-rutas-que-facilitara/",
-      "fecha": "Wed, 04 Nov 2026 17:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El paso a desnivel de la zona 4 de Villa Nueva se encuentra en su fase final y la Municipalidad prevé entregarlo durante la segunda semana de noviembre de 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jesús Owono rompe el silencio tras la muerte de Jesús de Miguel: &#8220;Son los días más difíciles de mi vida&#8221;",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/jesus-owono-rompe-el-silencio-tras-la-muerte-de-jesus-de-miguel-son-los-dias-mas-dificiles-de-mi-vida/",
-      "fecha": "Wed, 04 Nov 2026 16:51:33 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El portero del FC Andorra, Jesús Owono, admite atravesar los días más difíciles de su vida tras el fallecimiento del delantero Jesús de Miguel."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "AEK de Atenas vs. Real Madrid EN VIVO: siga el minuto a minuto del partido de la cuarta jornada",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/aek-de-atenas-vs-real-madrid-en-vivo-siga-el-minuto-a-minuto-del-partido-de-la-cuarta-jornada/",
-      "fecha": "Wed, 04 Nov 2026 16:45:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Real Madrid visita este miércoles al AEK de Atenas con la mira puesta en sumar una nueva victoria en la fase de liga de la Champions League."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Maná celebrará sus 40 años con un concierto gratuito a través de YouTube",
-      "link": "https://www.prensalibre.com/vida/escenario/mana-celebrara-sus-40-anos-con-un-concierto-gratuito-a-traves-de-youtube/",
-      "fecha": "Wed, 04 Nov 2026 16:40:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La banda mexicana, que se formó en 1986  y que ha vendido más de 50 millones de discos, celebra su aniversario con esa producción."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Esto es un desastre&#8221;: republicanos indignados culpan a Trump de la estrepitosa derrota en las elecciones de mitad de mandato",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/esto-es-un-desastre-republicanos-indignados-culpan-a-trump-de-la-estrepitosa-derrota-en-las-elecciones-de-mitad-de-mandato/",
-      "fecha": "Wed, 04 Nov 2026 16:31:16 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Algunos republicanos declararon a la BBC que el enfoque del presidente en su legado y su indiferencia ante las preocupaciones de los votantes los perjudicaron."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente en Villa Nueva: Video capta momento en que tráiler choca contra locales",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-en-villa-nueva-video-capta-momento-en-que-trailer-choca-contra-locales-breaking/",
-      "fecha": "Wed, 04 Nov 2026 16:12:46 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Cámara capta el momento en que tráiler choca contra locales comerciales en mercado de Villa Nueva."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinato de Solórzano Foppa, fugas e incursiones reavivan alertas sobre controles y posible infiltración en fuerzas de seguridad",
-      "link": "https://www.prensalibre.com/guatemala/asesinato-de-solorzano-foppa-fugas-e-incursiones-reavivan-alertas-sobre-controles-y-posible-infiltracion-en-fuerzas-de-seguridad/",
-      "fecha": "Wed, 04 Nov 2026 16:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Las irregularidades en la actuación de siete policías tras el asesinato del exfiscal y otros hechos recientes llevan a especialistas a analizar las fallas de control y los riesgos de infiltración del crimen en las instituciones de seguridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Piratas del Caribe”: Johnny Depp revela qué condiciones pondría para regresar como Jack Sparrow en una sexta película",
-      "link": "https://www.prensalibre.com/vida/escenario/piratas-del-caribe-johnny-depp-revela-que-condiciones-pondria-para-regresar-como-jack-sparrow-en-una-sexta-pelicula/",
-      "fecha": "Wed, 04 Nov 2026 15:42:18 +0000",
-      "categoria": "Escenario",
-      "resumen": "Con su icónico personaje de Jack Sparrow, Johnny Depp conquistó al público en la saga cinematográfica Piratas del Caribe, una franquicia a la que podría regresar para protagonizar una sexta entrega."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo quedaron las elecciones intermedias en EE. UU? Resultados del Congreso y gobernadores",
-      "link": "https://www.prensalibre.com/internacional/como-quedaron-las-elecciones-intermedias-en-ee-uu-resultados-del-congreso-y-gobernadores/",
-      "fecha": "Wed, 04 Nov 2026 15:37:39 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Partido Demócrata arrebató el control del Congreso al Partido Republicano y ganó gobernaciones clave en distintas partes de Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rodri se lesiona y deja al Barcelona con una baja importante antes de enfrentar al Atlético de Madrid",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/rodri-se-lesiona-y-deja-al-barcelona-con-una-baja-importante-antes-de-enfrentar-al-atletico-de-madrid/",
-      "fecha": "Wed, 04 Nov 2026 15:34:35 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Rodri queda fuera del duelo ante el Atlético de Madrid por una lesión en el bíceps femoral, una ausencia sensible para el Barcelona en un momento clave de la temporada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo afirma que la agenda de temas comunes con EE. UU. no cambiará tras las elecciones de medio mandato",
-      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-afirma-que-la-agenda-de-temas-comunes-con-ee-uu-no-cambiara-tras-las-elecciones-de-medio-mandato-breaking/",
-      "fecha": "Wed, 04 Nov 2026 15:32:13 +0000",
-      "categoria": "Política",
-      "resumen": "El presidente de Guatemala, Bernardo Arévalo, destaca la agenda de temas comunes con EE. UU. y afirma que hay buena comunicación con el Gobierno estadounidense."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gina Hinojosa y Xavier Becerra: Los latinos que ganaron las gobernaciones de Texas y California",
-      "link": "https://www.prensalibre.com/internacional/gina-hinojosa-y-xavier-becerra-los-latinos-que-ganaron-las-gobernaciones-de-texas-y-california/",
-      "fecha": "Wed, 04 Nov 2026 13:55:29 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los demócratas de origen latino derrotaron a los republicanos, se convirtieron en el rostro del cambio político en EE. UU. y arremetieron contra la falta de control en las redadas del ICE."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Héctor Morales vive su primera convocatoria mientras Guatemala se prepara para enfrentar a Canadá",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/hector-morales-vive-su-primera-convocatoria-mientras-guatemala-se-prepara-para-enfrentar-a-canada-breaking/",
-      "fecha": "Wed, 04 Nov 2026 13:04:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El delantero busca convencer a Luis Fernando Tena y ganarse un lugar en la convocatoria para los cuartos de final de la Liga de Naciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Insivumeh registra tres temblores con epicentro en Santa Rosa: ¿de qué magnitud fueron?",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/insivumeh-registra-tres-temblores-con-epicentro-en-santa-rosa-de-que-magnitud-fueron-breaking/",
-      "fecha": "Wed, 04 Nov 2026 12:42:56 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Tres temblores con epicentro en Santa Rosa han sido registrados por el Insivumeh en las últimas horas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Noche de los Museos 2026: teatro, talleres y actividades artísticas en el Museo de la Universidad de San Carlos",
-      "link": "https://www.prensalibre.com/vida/escenario/noche-de-los-museos-2026-teatro-talleres-y-actividades-artisticas-en-el-museo-de-la-universidad-de-san-carlos/",
-      "fecha": "Wed, 04 Nov 2026 12:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El Museo de la Universidad de San Carlos abrirá sus puertas para celebrar la Noche de los Museos, con una agenda de actividades culturales y artísticas."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Embajada de Estados Unidos inaugura la 13 edición del American Week en la Universidad del Valle",
       "link": "https://www.guatemala.com/noticias/sociedad/celebran-lazos-guatemala-y-estados-unidos-13-edicion-american-week-uvg.html",
@@ -841,22 +857,6 @@
       "fecha": "Mon, 02 Nov 2026 14:38:10 +0000",
       "categoria": "Comunidad",
       "resumen": "La temporada fría continúa estableciéndose en Guatemala. Del 2 al 6 de noviembre de 2026, se pronostican temperaturas de 2 a 4°C en algunas regiones.\nThe post Insivumeh pronostica temperaturas de 2 a 4°C en algunas regiones de Guatemala para esta semana appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Servicios Empresariales de INTECAP: asesorías para pequeños empresarios y emprendedores en Guatemala",
-      "link": "https://www.guatemala.com/noticias/sociedad/servicios-empresariales-intecap-pequenos-empresarios-emprendedores.html",
-      "fecha": "Sat, 31 Oct 2026 00:09:08 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Conoce los Servicios Empresariales de INTECAP para pequeños empresarios y emprendedores en Guatemala, con asesorías técnicas, capacitación y más.\nThe post Servicios Empresariales de INTECAP: asesorías para pequeños empresarios y emprendedores en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Razones por las que somos la Ciudad de la Buena Gente",
-      "link": "https://www.guatemala.com/noticias/sociedad/razones-por-las-que-somos-ciudad-buena-gente.html",
-      "fecha": "Fri, 30 Oct 2026 23:14:37 +0000",
-      "categoria": "Sociedad",
-      "resumen": "La Ciudad de Guatemala está llena de Buena Gente que, con pequeñas acciones, llenan de alegría y calidez la vida de vecinos y visitantes. \nThe post Razones por las que somos la Ciudad de la Buena Gente appeared first on Guatemala.com."
     }
   ]
 }
