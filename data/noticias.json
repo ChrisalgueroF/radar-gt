@@ -1,7 +1,151 @@
 {
-  "actualizado": "2026-11-06T14:53:24.276Z",
+  "actualizado": "2026-11-06T20:46:23.610Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Shakira, P!nk y Lady Gaga, entre las candidatas al Salón de la Fama de Compositores",
+      "link": "https://www.prensalibre.com/vida/escenario/shakira-pnk-y-lady-gaga-entre-las-candidatas-al-salon-de-la-fama-de-compositores/",
+      "fecha": "Fri, 06 Nov 2026 20:01:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La competencia es dura, porque veintiséis compositores o equipos de compositores compiten por solo seis lugares en la Clase de 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga Nacional: ¿Qué equipos ya cumplieron los 1,200 minutos juveniles en el Apertura 2026?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-que-equipos-ya-cumplieron-los-1200-minutos-juveniles-en-el-apertura-2026/",
+      "fecha": "Fri, 06 Nov 2026 19:55:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "A cuatro jornadas del cierre de la fase regular, Antigua GFC y Xelajú MC ya alcanzaron la cuota reglamentaria de minutos para jugadores juveniles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Roxana Baldetti incumple orden de regresar a prisión por el caso Cooptación del Estado y juez apercibe al SP",
+      "link": "https://www.prensalibre.com/guatemala/justicia/roxana-baldetti-incumple-orden-de-regresar-a-prision-por-el-caso-cooptacion-del-estado-y-juez-apercibe-al-sp-breaking/",
+      "fecha": "Fri, 06 Nov 2026 19:52:25 +0000",
+      "categoria": "Justicia",
+      "resumen": "La exvicepresidenta Roxana Baldetti sigue en su vivienda pese a la orden judicial de regresar a prisión por el caso Cooptación del Estado, en el que pretende someterse al procedimiento especial de aceptación de cargos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump nombra a Stephen Miller, el &#8220;arquitecto&#8221; de su política migratoria, como nuevo jefe de gabinete de la Casa Blanca",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-nombra-a-stephen-miller-el-arquitecto-de-su-politica-migratoria-como-nuevo-jefe-de-gabinete-de-la-casa-blanca/",
+      "fecha": "Fri, 06 Nov 2026 19:50:30 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En una publicación en Truth Social, Trump señaló que Susie Wiles, a quien sucederá Miller, hizo un trabajo \"sobresaliente\" y que pasará a formar parte de la \"Operación política de Trump\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Calendario lunar noviembre 2026: ¿Cuándo será la Luna llena y qué días conviene cortarse el pelo?",
+      "link": "https://www.prensalibre.com/internacional/calendario-lunar-noviembre-2026-cuando-sera-la-luna-llena-y-que-dias-conviene-cortarse-el-pelo/",
+      "fecha": "Fri, 06 Nov 2026 19:42:25 +0000",
+      "categoria": "Internacional",
+      "resumen": "El calendario lunar ofrece distintas fechas para quienes acostumbran organizar sus cortes de pelo según las fases de la Luna, una tradición que mantiene vigencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a cuatro presuntos integrantes de &#8220;los Tazmanias&#8221;, estructura criminal que operaba en Amatitlán",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-cuatro-presuntos-integrantes-de-los-tazmanias-estructura-criminal-que-operaba-en-amatitlan/",
+      "fecha": "Fri, 06 Nov 2026 18:54:01 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La investigación contra una estructura criminal que operaba en Amatitlán habría comenzado tras un ataque armado en enero de 2026, que permitió  identificar a sus presuntos integrantes, entre ellos, un agente de la PNC."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Interfer 2026 espera recibir 375 mil visitantes y generar 6 mil empleos y acá compartimos fechas y horarios del evento",
+      "link": "https://www.prensalibre.com/economia/interfer-2026-espera-recibir-375-mil-visitantes-y-generar-6-mil-empleos-y-aca-compartimos-fechas-y-horarios-del-evento/",
+      "fecha": "Fri, 06 Nov 2026 18:20:21 +0000",
+      "categoria": "Economía",
+      "resumen": "Con más de 600 espacios comerciales, actividades navideñas y conciertos, Interfer 2026 prepara una nueva edición en la que proyecta miles de visitantes y oportunidades laborales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Papa León XIV inicia su gira por Latinoamérica: Los países que visitará y su recorrido día por día",
+      "link": "https://www.prensalibre.com/internacional/el-papa-leon-xiv-inicia-su-gira-por-latinoamerica-los-paises-que-visitara-y-su-recorrido-dia-por-dia/",
+      "fecha": "Fri, 06 Nov 2026 18:06:17 +0000",
+      "categoria": "Internacional",
+      "resumen": "El papa León XIV tiene previsto realizar catorce vuelos, incluidos dos en helicóptero; pronunciar 36 discursos y participar en más de 50 actos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Atlético de Madrid y Barcelona se juegan el liderato: día, hora y dónde ver el partido en Guatemala",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/atletico-de-madrid-y-barcelona-se-juegan-el-liderato-dia-hora-y-donde-ver-el-partido-en-guatemala/",
+      "fecha": "Fri, 06 Nov 2026 17:56:47 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Barcelona y Atlético de Madrid protagonizan este domingo un choque clave por el liderato de LaLiga en el estadio Metropolitano, con ambos equipos separados por mínimos márgenes en la clasificación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Comunicaciones está contra las cuerdas: los cuatro partidos que definirán su futuro en el Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-esta-contra-las-cuerdas-los-cuatro-partidos-que-definiran-su-futuro-en-el-apertura-2026/",
+      "fecha": "Fri, 06 Nov 2026 16:24:48 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los cremas afrontan su primera de cuatro finales este fin de semana en San Marcos, donde buscarán tres puntos vitales ante Marquense."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué lo provocó? Los detalles del buque que sufrió una explosión al salir del estrecho de Ormuz",
+      "link": "https://www.prensalibre.com/internacional/que-lo-provoco-los-detalles-del-buque-que-sufrio-una-explosion-al-salir-del-estrecho-de-ormuz/",
+      "fecha": "Fri, 06 Nov 2026 16:15:39 +0000",
+      "categoria": "Internacional",
+      "resumen": "La UKMTO dio detalles del buque cisterna que sufrió una explosión a 16 millas náuticas al este de Omán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Looney Tunes se inspira en &#8220;La gran estafa&#8221; para su nueva película",
+      "link": "https://www.prensalibre.com/vida/escenario/looney-tunes-se-inspira-en-la-gran-estafa-para-su-nueva-pelicula/",
+      "fecha": "Fri, 06 Nov 2026 15:56:19 +0000",
+      "categoria": "Escenario",
+      "resumen": "Warner Brothers hace una apuesta e involucra a sus famosos personajes en una trama llena de mafia y humor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Clima en Guatemala: Insivumeh anticipa días cálidos y noches frías para este fin de semana",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-insivumeh-anticipa-dias-calidos-y-noches-frias-para-este-fin-de-semana-breaking/",
+      "fecha": "Fri, 06 Nov 2026 15:49:29 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh compartió las temperaturas máximas y mínimas previstas para algunas regiones de Guatemala durante el fin de semana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De qué se acusa a Santiago Peña, el presidente de Paraguay que se enfrenta a un juicio político tras la crisis de Ueno Bank",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/de-que-se-acusa-a-santiago-pena-el-presidente-de-paraguay-que-se-enfrenta-a-un-juicio-politico-tras-la-crisis-de-ueno-bank/",
+      "fecha": "Fri, 06 Nov 2026 15:44:42 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La oposición acusa al Santiago Peña de conflicto de intereses por sus vínculos con el grupo propietario de Ueno Bank y cuestiona posibles beneficios económicos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿El mayor decomiso en 45 años? Operación Poseidón incauta casi 105 armas en Colombia",
+      "link": "https://www.prensalibre.com/internacional/el-mayor-decomiso-en-45-anos-operacion-poseidon-incauta-casi-105-armas-en-colombia/",
+      "fecha": "Fri, 06 Nov 2026 15:27:17 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente colombiano Abelardo de la Espriella advirtió a los narcoterroristas que no permitirá que sigan armándose para sembrar el terror."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué se sabe sobre la nueva acusación por presunto abuso sexual contra Vadhir Derbez? Abogado brinda declaraciones",
+      "link": "https://www.prensalibre.com/vida/escenario/que-se-sabe-sobre-la-nueva-acusacion-por-presunto-abuso-sexual-contra-vadhir-derbez-abogado-brinda-declaraciones/",
+      "fecha": "Fri, 06 Nov 2026 15:22:23 +0000",
+      "categoria": "Escenario",
+      "resumen": "Esta es la segunda denuncia contra el hijo de Eugenio Derbez, quien en abril fue señalado por una modelo estadounidense."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Clima en Guatemala: pronóstico para el fin de semana del 7 y 8 de noviembre 2026",
+      "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-7-y-8-noviembre-2026.html",
+      "fecha": "Fri, 06 Nov 2026 15:12:21 +0000",
+      "categoria": "Comunidad",
+      "resumen": "¿Lloverá? ¿Habrá calor? Descubre aquí cómo estará el clima en Guatemala este 7 y 8 de noviembre de 2026, el primer fin de semana del mes. \nThe post Clima en Guatemala: pronóstico para el fin de semana del 7 y 8 de noviembre 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Viceministra de Hospitales renuncia y Salud solicita informe por supuesto caso de nepotismo",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/viceministra-de-hospitales-renuncia-y-salud-solicita-informe-por-supuesto-caso-de-nepotismo-breaking/",
+      "fecha": "Fri, 06 Nov 2026 14:51:43 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Ministerio de Salud solicitó un informe circunstanciado al Hospital Roosevelt tras la renuncia de la viceministra de Hospitales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Luis Benítez Alcántara: quién es el juez mexicano detenido por presuntos nexos con el narcotráfico",
@@ -9,6 +153,14 @@
       "fecha": "Fri, 06 Nov 2026 14:33:48 +0000",
       "categoria": "Internacional",
       "resumen": "Benítez presuntamente recibió un soborno de US$2 millones a cambio de ordenar la liberación de Ryan Wedding, un narcotraficante canadiense."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Adria Arjona recibe el premio &#8220;WIF Max Mara Face of the Future 2026&#8221;",
+      "link": "https://www.prensalibre.com/vida/escenario/adria-arjona-recibe-el-premio-wif-max-mara-face-of-the-future-2026/",
+      "fecha": "Fri, 06 Nov 2026 14:15:32 +0000",
+      "categoria": "Escenario",
+      "resumen": "La actriz es reconocida como una de las más prometedoras intérpretes por la marca que exalta el talento de mujeres que no solo tienen éxito en el cine, sino que inspiran a otras a alcanzar sus metas."
     },
     {
       "fuente": "Prensa Libre",
@@ -41,6 +193,14 @@
       "fecha": "Fri, 06 Nov 2026 12:51:50 +0000",
       "categoria": "Comunitario",
       "resumen": "Un hombre y su madre fueron rescatados tras sufrir un accidente en el kilómetro 13 de la ruta al Pacífico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tendencias de moda, fits y propuestas de estilo para la temporada navideña",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/tendencias-de-moda-fits-y-propuestas-de-estilo-para-la-temporada-navidena/",
+      "fecha": "Fri, 06 Nov 2026 12:21:00 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "El segundo nivel de SIMAN Miraflores se convirtió en la pasarela modas donde se presentó el Fashion Talk by Siman, un evento dirigido a los clientes de CREDISIMAN y tarjetahabientes, donde disfrutaron de una experiencia de moda y tendencias junto al estratega de imagen Carlos Eduardo Paredes, Gerente de Desarrollo de Productos y Estratega de Imagen. Durante el encuentro, la marca también anunció su esperada Preventa CREDISIMAN, que se llevará a cabo del 20 al 22 de noviembre."
     },
     {
       "fuente": "Prensa Libre",
@@ -659,158 +819,6 @@
       "resumen": "La modernización de aeródromos, la seguridad aérea y la reforma aeronáutica buscan ampliar la conectividad, mientras el sector privado espera avances legislativos en el primer trimestre del 2027."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Juntos Cambiando Vidas&#8221;: Fundación Juan Bautista Gutiérrez suma 644 becas universitarias desde el 2020 y entrega el primer galardón de &#8220;Becado de Honor&#8221;",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/juntos-cambiando-vidas-fundacion-juan-bautista-gutierrez-suma-644-becas-universitarias-desde-el-2020-y-entrega-el-primer-galardon-de-becado-de-honor/",
-      "fecha": "Thu, 05 Nov 2026 08:43:51 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "La Fundación Juan Bautista Gutiérrez entregó 53 nuevas becas universitarias a jóvenes guatemaltecos con excelencia académica y recursos económicos limitados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Puentes tenían daños desde hace casi tres años, pero Caminos adjudicó obras por emergencia",
-      "link": "https://www.prensalibre.com/guatemala/politica/puentes-tenian-danos-desde-hace-casi-tres-anos-pero-caminos-adjudico-obras-por-emergencia/",
-      "fecha": "Thu, 05 Nov 2026 06:12:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Dirección General de Caminos adjudicó la construcción de tres puentes mediante procesos cuya selección de empresas genera dudas, mientras funcionarios justifican las condiciones en que se efectuaron las contrataciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Zafra azucarera 2026-2027 en Guatemala: Asazgua prevé una baja en la producción por efectos de fenómeno de El Niño",
-      "link": "https://www.prensalibre.com/economia/zafra-azucarera-2026-2027-en-guatemala-asazgua-preve-una-baja-en-la-produccion-por-efectos-de-fenomeno-de-el-nino/",
-      "fecha": "Thu, 05 Nov 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La producción de azúcar aumentó 11% en la temporada 2025-2026, pero el sector anticipa una reducción en la nueva zafra 2026-2027 que inicia en noviembre, debido a la disminución de las lluvias y el incremento de las temperaturas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Coz de burro",
-      "link": "https://www.prensalibre.com/opinion/caricatura/coz-de-burro/",
-      "fecha": "Thu, 05 Nov 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ley de Ciberseguridad enciende alertas luego de su apresurada aprobación en el Congreso",
-      "link": "https://www.prensalibre.com/guatemala/politica/ley-de-ciberseguridad-enciende-alertas-luego-de-su-apresurada-aprobacion-en-el-congreso/",
-      "fecha": "Thu, 05 Nov 2026 06:06:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La lectura inicial de algunos analistas consultados, apunta a que el proyecto fue debilitado al reducir las penas de los nuevos delitos, junto al riesgo de posible criminalización."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asedio criminal en CA-2 oriente y occidente",
-      "link": "https://www.prensalibre.com/opinion/editorial/asedio-criminal-en-ca-2-oriente-y-occidente/",
-      "fecha": "Thu, 05 Nov 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Es necesario que la fuerza policial transforme estrategias de dudosa utilidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El 38% de los fondos para alimentos destinados a familias afectadas por la sequía se utilizará en logística",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/el-38-de-los-fondos-para-alimentos-destinados-a-familias-afectadas-por-la-sequia-se-utilizara-en-logistica/",
-      "fecha": "Thu, 05 Nov 2026 06:05:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Conred entregó Q500 millones al PMA para comprar raciones de alimentos destinadas a agricultores afectados por la sequía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones de medio término en Estados Unidos: quiénes ganaron y perdieron en 2026",
-      "link": "https://www.prensalibre.com/internacional/elecciones-de-medio-termino-en-estados-unidos-quienes-ganaron-y-perdieron-en-2026/",
-      "fecha": "Thu, 05 Nov 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los resultados dejaron cambios en las gobernaciones, derrotas para candidatos respaldados por multimillonarios y victorias demócratas en distritos rediseñados para favorecer a los republicanos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El silencio como método",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-silencio-como-metodo/",
-      "fecha": "Thu, 05 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "No se trata solo de denunciar, sabiendo que nos enfrentamos a un sistema de justicia que, generalmente, revictimiza a las víctimas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La factura de Trump",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-factura-de-trump/",
-      "fecha": "Thu, 05 Nov 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La democracia limitada es importante para evitar el abuso del poder contra los ciudadanos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Derecho Administrativo. ¿Para qué sirve?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-derecho-administrativo-para-que-sirve/",
-      "fecha": "Thu, 05 Nov 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La administración pública es un fenómeno complejo y muy sofisticado; no puede desarrollarse sin un marco jurídico adecuado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cinco señales tempranas de cataratas que pueden aparecer entre los 40 y los 50 años",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/cinco-senales-tempranas-de-cataratas-que-pueden-aparecer-entre-los-40-y-los-50-anos/",
-      "fecha": "Thu, 05 Nov 2026 06:01:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Los expertos señalan que las cataratas suelen comenzar a formarse entre los 40 y los 50 años, cuando las proteínas de los ojos empiezan a descomponerse y provocan la opacidad del cristalino."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El agotado orden de la vieja Europa",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-agotado-orden-de-la-vieja-europa/",
-      "fecha": "Thu, 05 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Grupos “oprimidos y desposeídos” hacen causa común."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy jueves 5 de noviembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-5-de-noviembre-de-2026/",
-      "fecha": "Thu, 05 Nov 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un nuevo horizonte para la globalización",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/un-nuevo-horizonte-para-la-globalizacion/",
-      "fecha": "Thu, 05 Nov 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Un área en la que la IA está teniendo un impacto notable es en la logística."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Préstamo aeroportuario pondrá a prueba capacidad de Guatemala para atraer más vuelos",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/prestamo-aeroportuario-pondra-a-prueba-capacidad-de-guatemala-para-atraer-mas-vuelos/",
-      "fecha": "Thu, 05 Nov 2026 06:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Fondos del Banco Mundial por US$250 millones deberá acompañarse de mejoras operativas, reformas legales y demanda suficiente para traducirse en nuevas rutas aéreas, según representantes del sector aeroportuario."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;La derrota de Trump limita su poder interno, pero no necesariamente su influencia en el mundo&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-derrota-de-trump-limita-su-poder-interno-pero-no-necesariamente-su-influencia-en-el-mundo/",
-      "fecha": "Thu, 05 Nov 2026 03:51:55 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Con los decepcionantes resultados de las elecciones de medio mandato, el presidente Trump va a querer demostrar que todavía puede sacudir al mundo, escribe el editor internacional de la BBC."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asador Etxebarri de España lidera la lista de los 50 mejores restaurantes del mundo",
-      "link": "https://www.prensalibre.com/vida/escenario/asador-etxebarri-de-espana-lidera-la-lista-de-los-50-mejores-restaurantes-del-mundo/",
-      "fecha": "Thu, 05 Nov 2026 02:57:15 +0000",
-      "categoria": "Escenario",
-      "resumen": "Durante la gala celebrada en Lima, Perú, se dieron a conocer los más destacados lugares para comer en el planeta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Renovación 1 y El Boquerón registran motines: esto se sabe sobre la situación de los guardias penitenciarios",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/reos-de-renovacion-1-se-amotinan-y-toman-como-rehenes-a-guardias-del-sistema-penitenciario-breaking/",
-      "fecha": "Thu, 05 Nov 2026 02:25:54 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Dos motines fueron reportados en las cárceles Renovación 1 y El Boquerón. En el primero, privados de libertad habrían tomado como rehenes a guardias del Sistema Penitenciario."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Inicia retorno de Miguel Ángel Asturias a Guatemala con la entrega de sus cenizas en París",
       "link": "https://www.guatemala.com/noticias/cultura/francia-entrego-cenizas-miguel-angel-asturias-a-su-familia-para-retorno-guatemala.html",
@@ -865,14 +873,6 @@
       "fecha": "Mon, 02 Nov 2026 23:16:03 +0000",
       "categoria": "Sociedad",
       "resumen": "Los últimos asuetos del 2026 en Guatemala llegarán en diciembre con Navidad y Año Nuevo. Descubre cuándo se gozarán y si habrá fin de semana largo.\nThe post Todo lo que debes saber sobre los asuetos de Navidad y Año Nuevo en Guatemala 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Insivumeh pronostica temperaturas de 2 a 4°C en algunas regiones de Guatemala para esta semana",
-      "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-2-al-6-de-noviembre-2026.html",
-      "fecha": "Mon, 02 Nov 2026 14:38:10 +0000",
-      "categoria": "Comunidad",
-      "resumen": "La temporada fría continúa estableciéndose en Guatemala. Del 2 al 6 de noviembre de 2026, se pronostican temperaturas de 2 a 4°C en algunas regiones.\nThe post Insivumeh pronostica temperaturas de 2 a 4°C en algunas regiones de Guatemala para esta semana appeared first on Guatemala.com."
     }
   ]
 }
