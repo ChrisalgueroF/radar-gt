@@ -1,7 +1,87 @@
 {
-  "actualizado": "2026-11-06T06:26:11.915Z",
+  "actualizado": "2026-11-06T14:53:24.276Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Luis Benítez Alcántara: quién es el juez mexicano detenido por presuntos nexos con el narcotráfico",
+      "link": "https://www.prensalibre.com/internacional/luis-benitez-alcantara-quien-es-el-juez-mexicano-detenido-por-presuntos-nexos-con-el-narcotrafico/",
+      "fecha": "Fri, 06 Nov 2026 14:33:48 +0000",
+      "categoria": "Internacional",
+      "resumen": "Benítez presuntamente recibió un soborno de US$2 millones a cambio de ordenar la liberación de Ryan Wedding, un narcotraficante canadiense."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Portugal inicia una nueva era sin Cristiano Ronaldo: estos son los 28 convocados y quién será su nuevo capitán",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/portugal-inicia-una-nueva-era-sin-cristiano-ronaldo-estos-son-los-28-convocados-y-quien-sera-su-nuevo-capitan/",
+      "fecha": "Fri, 06 Nov 2026 13:52:05 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Portugal inicia una nueva era sin Cristiano Ronaldo: Jorge Jesus convocó a 28 jugadores para la Liga de Naciones y nombró a Bernardo Silva como nuevo capitán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué Municipal no disputará este fin de semana su partido de la jornada 19 del Apertura 2026 frente a Aurora?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/por-que-municipal-no-disputara-este-fin-de-semana-su-partido-de-la-jornada-19-del-apertura-2026-frente-a-aurora/",
+      "fecha": "Fri, 06 Nov 2026 13:01:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Liga Nacional de Guatemala afronta este fin de semana la jornada 19 del Torneo Apertura 2026 con cinco partidos cruciales en la recta final por la clasificación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Congreso de Paraguay debate el futuro del presidente Santiago Peña tras la crisis de Ueno Bank. Sigue las últimas noticias",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/el-congreso-de-paraguay-debate-el-futuro-del-presidente-santiago-pena-tras-la-crisis-de-ueno-bank-sigue-las-ultimas-noticias/",
+      "fecha": "Fri, 06 Nov 2026 12:54:25 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El Senado de Paraguay reanudó el juicio político al presidente Santiago Peña, quien fue convocado al Congreso para presentar su defensa este viernes. Sin embargo, Peña pidió una prórroga de 72 horas para preparar su alegato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Joven fue a recoger a su madre a un restaurante y ambos cayeron a una hondonada porque la motocicleta se quedó sin frenos",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/joven-fue-a-recoger-a-su-madre-a-un-restaurante-y-ambos-cayeron-a-una-hondonada-porque-la-motocicleta-se-quedo-sin-frenos-breaking/",
+      "fecha": "Fri, 06 Nov 2026 12:51:50 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Un hombre y su madre fueron rescatados tras sufrir un accidente en el kilómetro 13 de la ruta al Pacífico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más de Q24 mil, droga y municiones: lo que encontró la PNC durante un allanamiento en Colomba",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mas-de-q24-mil-droga-y-municiones-lo-que-encontro-la-pnc-durante-un-allanamiento-en-colomba-breaking/",
+      "fecha": "Fri, 06 Nov 2026 11:39:23 +0000",
+      "categoria": "Justicia",
+      "resumen": "La Policía Nacional Civil capturó a un hombre en Colomba, Quetzaltenango, y le decomisó dinero e ilícitos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién es Santiago Peña, el economista al que el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer)",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/quien-es-santiago-pena-el-economista-al-que-el-poderoso-horacio-cartes-encumbro-a-la-presidencia-de-paraguay-y-al-que-ahora-dejo-caer/",
+      "fecha": "Fri, 06 Nov 2026 10:28:43 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Tres años después de asumir el poder, Santiago Peña terminó arrastrado por la crisis desatada tras la intervención del Ueno Bank."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Beatificación de fray Augusto Ramírez Monasterio: claves para asistir, transmisión en vivo y mapa del recorrido de su reliquia",
+      "link": "https://www.prensalibre.com/vida/escenario/beatificacion-de-fray-augusto-ramirez-monasterio-claves-para-asistir-transmision-en-vivo-y-mapa-del-recorrido-de-su-reliquia/",
+      "fecha": "Fri, 06 Nov 2026 10:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Guatemala celebrará la eucaristía en la que se oficializará la beatificación de fray Augusto Ramírez Monasterio, que incluirá un recorrido por Antigua Guatemala. Conozca los datos clave para asistir."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cristiano Ronaldo y Jorge Jesus: cronología del conflicto que precedió al retiro de Portugal",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-y-jorge-jesus-cronologia-del-conflicto-que-precedio-al-retiro-de-portugal/",
+      "fecha": "Fri, 06 Nov 2026 10:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Cristiano Ronaldo deja la Selección de Portugal tras un mes de desencuentros con Jorge Jesus que marcaron sus últimos días en el combinado luso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estas son modificaciones viales menores aplicadas en la capital en unas 8 zonas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/estas-son-modificaciones-viales-menores-aplicadas-en-la-capital-en-unas-8-zonas/",
+      "fecha": "Fri, 06 Nov 2026 10:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Emetra reporta 46 modificaciones viales menores ejecutadas y otras 26 en curso. La institución sostiene que las medidas mantienen su efectividad, aunque algunas requieren ajustes."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "WOLA y HRW condenan asesinatos en Huité, Zacapa",
@@ -729,86 +809,6 @@
       "fecha": "Thu, 05 Nov 2026 02:25:54 +0000",
       "categoria": "Sucesos",
       "resumen": "Dos motines fueron reportados en las cárceles Renovación 1 y El Boquerón. En el primero, privados de libertad habrían tomado como rehenes a guardias del Sistema Penitenciario."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muere María Alicia Delgado de &#8220;Cero en Conducta&#8221;:¿Cuál fue la causa de su fallecimiento?",
-      "link": "https://www.prensalibre.com/vida/escenario/muere-maria-alicia-delgado-de-cero-en-conductacual-fue-la-causa-de-su-fallecimiento/",
-      "fecha": "Thu, 05 Nov 2026 02:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La actriz mexicana que también estelarizó series como \"Derbez en cuando\" y \"La rosa de Guadalupe\" murió a los 77 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Formulario CDC para viajar a Estados Unidos: así reciben las aerolíneas que salen de Guatemala la declaración sanitaria",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/formulario-cdc-para-viajar-a-estados-unidos-asi-reciben-las-aerolineas-que-salen-de-guatemala-la-declaracion-sanitaria/",
-      "fecha": "Thu, 05 Nov 2026 01:48:08 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Los guatemaltecos que viajen a Estados Unidos deben presentar una declaración sanitaria de los CDC. Estas son las modalidades que utilizan las aerolíneas que operan desde Guatemala para recopilar el nuevo formulario."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Organizaciones denuncian un trasfondo político en asesinato de Juan Francisco Solórzano Foppa",
-      "link": "https://www.prensalibre.com/guatemala/justicia/organizaciones-denuncian-un-trasfondo-politico-en-asesinato-de-juan-francisco-solorzano-foppa/",
-      "fecha": "Thu, 05 Nov 2026 01:37:49 +0000",
-      "categoria": "Justicia",
-      "resumen": "Organizaciones sociales de Guatemala denuncian un posible trasfondo político en el asesinato del exfiscal anticorrupción Juan Francisco Solórzano Foppa y exigen que las autoridades esclarezcan el crimen."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué sectores generan más empleo en Guatemala y cuáles pagan mejores salarios?",
-      "link": "https://www.prensalibre.com/economia/que-sectores-generan-mas-empleo-en-guatemala-y-cuales-pagan-mejores-salarios/",
-      "fecha": "Thu, 05 Nov 2026 01:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El Informe del Empleador 2025, elaborado por el Ministerio de Trabajo, revela diferencias salariales entre las actividades económicas. La manufactura, el comercio y los servicios administrativos concentran más de la mitad de los trabajadores reportados, pero otros sectores ofrecen mejores remuneraciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mourinho explica la actuación de Vinícius y las rotaciones del Real Madrid en Champions",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mourinho-explica-la-actuacion-de-vinicius-y-las-rotaciones-del-real-madrid-en-champions/",
-      "fecha": "Thu, 05 Nov 2026 01:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Mourinho respaldó a Vinícius Júnior después del triunfo 3-2 frente al AEK de Atenas y subrayó la calidad de una plantilla que le ofrece múltiples alternativas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Empresarios iberoamericanos reciben Premio Enrique V. Iglesias de manos del rey de España",
-      "link": "https://www.prensalibre.com/internacional/empresarios-iberoamericanos-reciben-premio-enrique-v-iglesias-de-manos-del-rey-de-espana/",
-      "fecha": "Thu, 05 Nov 2026 00:37:59 +0000",
-      "categoria": "Internacional",
-      "resumen": "El guatemalteco Dionisio Gutiérrez y el brasileño André Esteves recibieron el Premio Enrique V. Iglesias de manos del rey Felipe VI en Madrid."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Más de Q28 mil de multa: DGT sanciona al propietario del tráiler que volcó en el mercado de Villa Nueva",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/mas-de-q28-mil-de-multa-dgt-sanciona-al-propietario-del-trailer-que-volco-en-el-mercado-de-villa-nueva-breaking/",
-      "fecha": "Thu, 05 Nov 2026 00:33:28 +0000",
-      "categoria": "Sucesos",
-      "resumen": "La DGT multó con Q28,015.96 al propietario del tráiler que volcó en el mercado de Villa Nueva por no contar con un sistema limitador de velocidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Premio Nobel de Economía 2019 recibirá homenaje por parte de la UVG",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/premio-nobel-de-economia-2019-recibira-homenaje-por-parte-de-la-uvg/",
-      "fecha": "Thu, 05 Nov 2026 00:19:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "En el marco de su 60 aniversario, Universidad del Valle de Guatemala (UVG) otorgará el 5 de noviembre de 2026 un Doctorado Honoris Causa en Educación a Esther Duﬂo, Premio Nobel de Economía 2019 y profesora de la Fundación Lemann en Economía en la Universidad de Zúrich. Se reconocerá así la trayectoria de una economista cuyo trabajo comparte el objetivo de generar conocimiento que ayude a mejorar las condiciones de vida de las personas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC recibe 20 patrullas, 12 motocicletas y tecnología para identificar drogas y combatir el narcotráfico en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-recibe-20-patrullas-12-motocicletas-y-tecnologia-para-identificar-drogas-y-combatir-el-narcotrafico-en-guatemala/",
-      "fecha": "Thu, 05 Nov 2026 00:08:46 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ministerio de Gobernación entregó vehículos a la unidad antinarcótica de la PNC, mientras que Canadá y Naciones Unidas aportaron equipos especializados para identificar drogas y sustancias químicas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La debacle de las elecciones de medio mandato debilita a Trump, pero por ahora aún conserva poder",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-debacle-de-las-elecciones-de-medio-mandato-debilita-a-trump-pero-por-ahora-aun-conserva-poder/",
-      "fecha": "Wed, 04 Nov 2026 23:47:40 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Trump ha transmitido mensajes contradictorios sobre su posible trato con los demócratas en el Congreso tras la contundente derrota de su partido. Pero no ha dudado en decir que ejercerá todo el poder que tenga."
     },
     {
       "fuente": "Guatemala.com",
