@@ -1,7 +1,207 @@
 {
-  "actualizado": "2026-11-05T23:59:31.983Z",
-  "total": 107,
+  "actualizado": "2026-11-06T06:26:11.915Z",
+  "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "WOLA y HRW condenan asesinatos en Huité, Zacapa",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/wola-y-hrw-condenan-asesinatos-en-huite-zacapa/",
+      "fecha": "Fri, 06 Nov 2026 06:15:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Las organizaciones internacionales calificaron como alarmantes los hechos en ese municipio de Zacapa y, como una muestra de debilidad institucional, la falta de respuestas oficiales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Edgar Ortiz, de Poder Ciudadano: “El clima de violencia busca silenciar las voces que piensan distinto”",
+      "link": "https://www.prensalibre.com/guatemala/politica/edgar-ortiz-de-poder-ciudadano-el-clima-de-violencia-busca-silenciar-las-voces-que-piensan-distinto/",
+      "fecha": "Fri, 06 Nov 2026 06:12:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La organización civil que dirige el constitucionalista Ortiz anunció que se separan de la propuesta de reformas constitucionales por amenazas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Chixoy se recupera y bajan los combustibles en Guatemala: ¿cuánto durará el alivio energético?",
+      "link": "https://www.prensalibre.com/economia/chixoy-se-recupera-y-bajan-los-combustibles-en-guatemala-cuanto-durara-el-alivio-energetico/",
+      "fecha": "Fri, 06 Nov 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La recuperación del embalse de Chixoy y la baja de los combustibles ofrecen un alivio energético, aunque persisten riesgos para el 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De firmas",
+      "link": "https://www.prensalibre.com/opinion/caricatura/de-firmas/",
+      "fecha": "Fri, 06 Nov 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quiénes se benefician con los motines de reos?",
+      "link": "https://www.prensalibre.com/opinion/editorial/quienes-se-benefician-con-los-motines-de-reos/",
+      "fecha": "Fri, 06 Nov 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "No son un secreto los rumores sobre posibles vínculos politiqueros e intereses conexos con las estructuras delictivas que operan desde las prisiones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027: bonos, aumentos y pensiones presionan el gasto público",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/presupuesto-2027-bonos-aumentos-y-pensiones-presionan-el-gasto-publico/",
+      "fecha": "Fri, 06 Nov 2026 06:05:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Salubristas, exsoldados y maestros ejercen presión hacia el Congreso, exigiendo beneficios que ponen en riesgo la integración del plan de gastos para el próximo año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La situación en el Pentágono se tensa tras la guerra contra Irán, que condena al Partido Republicano tras las elecciones",
+      "link": "https://www.prensalibre.com/internacional/la-situacion-en-el-pentagono-se-tensa-tras-la-guerra-contra-iran-que-condena-al-partido-republicano-tras-las-elecciones/",
+      "fecha": "Fri, 06 Nov 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "La evaluación primaria establece que la guerra contra Irán sería una de las causas por las cuales el Partido Republicano perdió las elecciones en el Congreso de EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mareo de los demócratas y desánimo republicano",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/mareo-de-los-democratas-y-desanimo-republicano/",
+      "fecha": "Fri, 06 Nov 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Es adecuado considerar la importancia de esta primera semana posterior a la elección y a los resultados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué saben los gobiernos que nosotros no?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/que-saben-los-gobiernos-que-nosotros-no/",
+      "fecha": "Fri, 06 Nov 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Mientras Washington se disputa el poder, el resto del mundo paga la factura en la gasolinera y en la mesa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La justicia bajo el asedio de las mafias",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-justicia-bajo-el-asedio-de-las-mafias/",
+      "fecha": "Fri, 06 Nov 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Las estructuras de impunidad utilizan el recurso del miedo para evitar la reforma de sector justicia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién no estaba en la boleta?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/quien-no-estaba-en-la-boleta/",
+      "fecha": "Fri, 06 Nov 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El voto latino fue uno de los que inclinó la balanza junto con los jóvenes. En el 2024, buena parte de ese electorado apoyó a los republicanos; esta vez, cerca del 60 por ciento votó por los demócratas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy viernes 6 de noviembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-viernes-6-de-noviembre-de-2026/",
+      "fecha": "Fri, 06 Nov 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miedo a liberar la propuesta política",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/miedo-a-liberar-la-propuesta-politica/",
+      "fecha": "Fri, 06 Nov 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Debiera haber libertad a los partidos para presentar sus programas de gobierno."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Russell Brand, expareja de Katy Perry, es declarado culpable de violación y tres cargos de agresión sexual: ¿cuándo recibirá su sentencia?",
+      "link": "https://www.prensalibre.com/vida/escenario/russell-brand-expareja-de-katy-perry-es-declarado-culpable-de-violacion-y-tres-cargos-de-agresion-sexual-cuando-recibira-su-sentencia/",
+      "fecha": "Fri, 06 Nov 2026 03:49:36 +0000",
+      "categoria": "Escenario",
+      "resumen": "Tras un juicio en Londres, el actor británico Russell Brand fue declarado culpable de un cargo de violación y tres de agresión sexual. Qué cargos enfrentó y cuándo recibirá su condena?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Adultos mayores pueden recibir Q500 mensuales: quiénes pueden inscribirse al PAM y cuáles son los requisitos",
+      "link": "https://www.prensalibre.com/economia/adultos-mayores-pueden-recibir-q500-mensuales-quienes-pueden-inscribirse-al-pam-y-cuales-son-los-requisitos/",
+      "fecha": "Fri, 06 Nov 2026 03:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El PAM ofrece Q500 mensuales a adultos mayores en pobreza extrema. ¿Quiénes pueden solicitarlo y qué requisitos deben cumplir para recibir el aporte?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nithya Raman y el efecto Mamdani: las claves del ascenso de la nueva alcaldesa de Los Ángeles",
+      "link": "https://www.prensalibre.com/internacional/nithya-raman-y-el-efecto-mamdani-las-claves-del-ascenso-de-la-nueva-alcaldesa-de-los-angeles/",
+      "fecha": "Fri, 06 Nov 2026 02:55:38 +0000",
+      "categoria": "Internacional",
+      "resumen": "Nithya Raman llega a la alcaldía de Los Ángeles tras derrotar a Karen Bass, en un ascenso que refleja el avance progresista impulsado por el efecto Mamdani."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aislamiento sísmico: Guatemala y Japón comparten conocimientos para enfrentar los temblores",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/aislamiento-sismico-guatemala-y-japon-comparten-conocimientos-para-enfrentar-los-temblores/",
+      "fecha": "Fri, 06 Nov 2026 02:41:45 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Guatemala y Japón intercambian conocimientos y tecnología para fortalecer la seguridad de las edificaciones ante los temblores, mediante experiencias sobre aislamiento sísmico y protección de infraestructura."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Carlos “el Pescado” Ruiz está en Guatemala y un mensaje suyo despierta interrogantes sobre su futuro",
+      "link": "https://www.prensalibre.com/deportes/carlos-el-pescado-ruiz-esta-en-guatemala-y-un-mensaje-suyo-despierta-interrogantes-sobre-su-futuro/",
+      "fecha": "Fri, 06 Nov 2026 02:37:55 +0000",
+      "categoria": "Deportes",
+      "resumen": "El máximo goleador histórico de la Selección Nacional compartió un video de su visita a Guatemala, en el que muestra paisajes, calles y gastronomía. Su mensaje final llama la atención luego de que meses atrás expresara su interés en presidir la Fedefut."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Coatepeque, Fraijanes y Copalera toman ventaja en los cuartos de final de la Primera División",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/coatepeque-fraijanes-y-copalera-toman-ventaja-en-los-cuartos-de-final-de-la-primera-division-breaking/",
+      "fecha": "Fri, 06 Nov 2026 02:22:20 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los tres equipos ganaron sus partidos de ida, mientras que Sayaxché y Mictlán dejaron abierta su eliminatoria con un empate sin goles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cárceles de Guatemala: celulares, motines y corrupción, los problemas que dificultan recuperar el control",
+      "link": "https://www.prensalibre.com/guatemala/justicia/carceles-de-guatemala-celulares-motines-y-corrupcion-los-problemas-que-dificultan-recuperar-el-control/",
+      "fecha": "Fri, 06 Nov 2026 02:02:28 +0000",
+      "categoria": "Justicia",
+      "resumen": "El hacinamiento, las extorsiones y los recientes motines ponen a prueba el control de las cárceles de Guatemala. Mientras las autoridades prometen recuperar la seguridad, persisten dudas sobre el bloqueo de señales telefónicas y la rehabilitación de los reclusos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aplazan audiencia de Camilo Calvo por asesinato de su padre, el exviceministro Jorge Calvo",
+      "link": "https://www.prensalibre.com/guatemala/justicia/aplazan-audiencia-de-camilo-calvo-por-el-asesinato-de-su-padre-el-exviceministro-jorge-calvo-breaking/",
+      "fecha": "Fri, 06 Nov 2026 01:53:27 +0000",
+      "categoria": "Justicia",
+      "resumen": "La audiencia de etapa intermedia de Camilo Roberto Calvo Leiva, sindicado de parricidio por la muerte de su padre, fue aplazada porque el Sistema Penitenciario no lo trasladó a la Torre de Tribunales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Se acabará la pena de muerte en California? La decisión de Gavin Newsom que cambiaría la condena de 548 reclusos",
+      "link": "https://www.prensalibre.com/internacional/se-acabara-la-pena-de-muerte-en-california-la-decision-de-gavin-newsom-que-cambiaria-la-condena-de-548-reclusos/",
+      "fecha": "Fri, 06 Nov 2026 01:40:28 +0000",
+      "categoria": "Internacional",
+      "resumen": "Gavin Newsom propone conmutar las condenas de muerte de 548 presos en California y sustituirlas por cadena perpetua sin posibilidad de libertad condicional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Es un sueño hecho realidad”: Héctor Morales habla de su convocatoria a la selección de Guatemala",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/es-un-sueno-hecho-realidad-hector-morales-habla-de-su-convocatoria-a-la-seleccion-de-guatemala/",
+      "fecha": "Fri, 06 Nov 2026 01:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Héctor Morales y el sueño de vestir la camisola de Guatemala: así vivió su primer llamado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan de nuevo a alias El Tigre, presunto exintegrante de Los Zetas, por delitos de narcotráfico",
+      "link": "https://www.prensalibre.com/guatemala/justicia/recapturan-a-alias-el-tigre-presunto-exintegrante-de-los-zetas-por-delitos-de-narcotrafico-breaking/",
+      "fecha": "Fri, 06 Nov 2026 00:48:56 +0000",
+      "categoria": "Justicia",
+      "resumen": "Alias “El Tigre” fue capturado en Cobán por delitos relacionados con el narcotráfico. El presunto exintegrante de Los Zetas ya había sido extraditado a Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Me costó mucho resolverlo”: Scarlett Johansson revela las dificultades que enfrentó para interpretar a su personaje en The Batman II",
+      "link": "https://www.prensalibre.com/vida/escenario/me-costo-mucho-resolverlo-scarlett-johansson-revela-las-dificultades-que-enfrento-para-interpretar-a-su-personaje-en-the-batman-ii/",
+      "fecha": "Fri, 06 Nov 2026 00:28:22 +0000",
+      "categoria": "Escenario",
+      "resumen": "La actriz, conocida por interpretar a Black Widow en las películas de Avengers, llegará a la pantalla grande con The Batman II, junto a Robert Pattinson. Esto se sabe sobre su personaje."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Accidente aéreo en San Juan Sacatepéquez: avioneta se estrella en una zona agrícola",
@@ -260,7 +460,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Los Caradura: las tres estructuras vinculadas con robos a blindados, sicariato y narcotráfico en Guatemala",
+      "titulo": "Los Caradura estarían coordinando a tres estructuras vinculadas con robos a blindados, sicariato y narcotráfico",
       "link": "https://www.prensalibre.com/guatemala/justicia/los-caradura-las-tres-estructuras-vinculadas-con-robos-a-blindados-sicariato-y-narcotrafico-en-guatemala/",
       "fecha": "Thu, 05 Nov 2026 16:00:00 +0000",
       "categoria": "Guatemala",
@@ -611,30 +811,6 @@
       "resumen": "Trump ha transmitido mensajes contradictorios sobre su posible trato con los demócratas en el Congreso tras la contundente derrota de su partido. Pero no ha dudado en decir que ejercerá todo el poder que tenga."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Una balacera, dos víctimas y una cevichería: los detalles del ataque armado en Pinares del Norte",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/una-balacera-dos-victimas-y-una-cevicheria-los-detalles-del-ataque-armado-en-pinares-del-norte-breaking/",
-      "fecha": "Wed, 04 Nov 2026 23:30:42 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un hombre de 65 años y una mujer de 26 murieron baleados en una cevichería en Pinares del Norte, zona 18 de la capital."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Naruto dará el salto del manga al live-action: quién dirigirá la película, qué se sabe del elenco y cuándo inicia el rodaje",
-      "link": "https://www.prensalibre.com/vida/escenario/naruto-dara-el-salto-del-manga-al-live-action-quien-dirigira-la-pelicula-que-se-sabe-del-elenco-y-cuando-inicia-el-rodaje/",
-      "fecha": "Wed, 04 Nov 2026 23:11:36 +0000",
-      "categoria": "Escenario",
-      "resumen": "El joven ninja de Konoha que sueña con convertirse en Hokage llegará a la pantalla grande con una adaptación de acción real de Naruto, que estará bajo la dirección del encargado de Spider-Man: Brand New Day."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Crisis bancaria en Paraguay: cierre de Ueno Bank desata pedido de juicio político contra Santiago Peña",
-      "link": "https://www.prensalibre.com/economia/crisis-bancaria-en-paraguay-cierre-de-ueno-bank-desata-pedido-de-juicio-politico-contra-santiago-pena/",
-      "fecha": "Wed, 04 Nov 2026 22:30:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La intervención de Ueno Bank, con 2.9 millones de clientes, provocó renuncias en el Banco Central, la detención de ocho directivos y una crisis política que alcanza al Gobierno paraguayo."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Inicia retorno de Miguel Ángel Asturias a Guatemala con la entrega de sus cenizas en París",
       "link": "https://www.guatemala.com/noticias/cultura/francia-entrego-cenizas-miguel-angel-asturias-a-su-familia-para-retorno-guatemala.html",
@@ -643,172 +819,12 @@
       "resumen": "Familiares de Miguel Ángel Asturias recibieron las cenizas del autor para su retorno a Guatemala en un homenaje especial celebrado en París.\nThe post Inicia retorno de Miguel Ángel Asturias a Guatemala con la entrega de sus cenizas en París appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Recusan a juez del caso Los Calavera, vinculados con la muerte de dos directivos de un hospital privado de la zona 10",
-      "link": "https://www.prensalibre.com/guatemala/justicia/recusan-a-juez-del-caso-los-calavera-vinculados-con-la-muerte-de-dos-directivos-de-un-hospital-privado-de-la-zona-10/",
-      "fecha": "Wed, 04 Nov 2026 22:10:01 +0000",
-      "categoria": "Justicia",
-      "resumen": "El abogado Alejandro Arriaza recusó al juez Edy Otoniel De León, quien conoce el caso Los Calavera, por presuntamente haber externado opinión sobre el proceso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones en EE. UU. 2026: Norma Torres y Delia Ramírez, las dos mujeres de origen guatemalteco que ganan la reelección al Congreso",
-      "link": "https://www.prensalibre.com/internacional/elecciones-en-ee-uu-2026-norma-torres-y-delia-ramirez-las-dos-mujeres-de-origen-guatemalteco-que-ganan-la-reeleccion-al-congreso/",
-      "fecha": "Wed, 04 Nov 2026 22:03:35 +0000",
-      "categoria": "Internacional",
-      "resumen": "Norma Torres, nacida en Guatemala, y Delia Ramírez, hija de inmigrantes guatemaltecos, conservaron sus escaños en California e Illinois. Ambas son demócratas y tienen una trayectoria vinculada con las comunidades migrantes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones en EE. UU: ¿Quiénes son los latinos que llegarán al Congreso y a las gobernaciones?",
-      "link": "https://www.prensalibre.com/internacional/elecciones-en-ee-uu-quienes-son-los-latinos-que-llegaran-al-congreso-y-a-las-gobernaciones/",
-      "fecha": "Wed, 04 Nov 2026 21:59:31 +0000",
-      "categoria": "Internacional",
-      "resumen": "Entre las nuevas figuras latinas que formarán parte del Congreso estadounidense destacan algunas que fueron clave en las elecciones intermedias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Netflix estrenará &#8220;Palacio&#8221;, una serie colombiana inspirada en hechos reales dirigida por el guatemalteco Jayro Bustamante",
-      "link": "https://www.prensalibre.com/vida/escenario/netflix-estrenara-palacio-una-serie-colombiana-inspirada-en-hechos-reales-dirigida-por-el-guatemalteco-jayro-bustamante/",
-      "fecha": "Wed, 04 Nov 2026 21:55:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "\"Palacio\" es una ficción inspirada en hechos reales y de conocimiento público ocurridos en 1985 en Colombia. Jayro Bustamante, Edgar Nito y Samir Oliveros dirigieron la producción, que Netflix estrenará el 6 de noviembre del 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cárceles de Guatemala enfrentan hacinamiento del 350% y director del SP dice que no cederá ante pandillas",
-      "link": "https://www.prensalibre.com/guatemala/justicia/carceles-de-guatemala-enfrentan-hacinamiento-del-350-y-director-del-sp-dice-que-no-cedera-ante-pandillas/",
-      "fecha": "Wed, 04 Nov 2026 21:12:33 +0000",
-      "categoria": "Justicia",
-      "resumen": "Con un hacinamiento superior al 350%, las cárceles de Guatemala enfrentan problemas de seguridad, corrupción y extorsiones. El director del SP explica los retos para recuperar el control de las prisiones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“The One About Matthew Perry”: la hermana del actor revela la emergencia médica que lo llevó a un coma en el 2018",
-      "link": "https://www.prensalibre.com/vida/escenario/the-one-about-matthew-perry-la-hermana-del-actor-revela-la-emergencia-medica-que-lo-llevo-a-un-coma-en-el-2018/",
-      "fecha": "Wed, 04 Nov 2026 21:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La docuserie sobre la vida de Matthew Perry revela cómo una emergencia médica que sufrió en el 2018 estuvo a punto de costarle la vida. Su hermana recuerda cómo vivieron aquel momento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ley Marco de Ciberseguridad en Guatemala: qué delitos contempla, cuáles son las penas y cuándo entrará en vigor",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ley-marco-de-ciberseguridad-en-guatemala-que-delitos-contempla-cuales-son-las-penas-y-cuando-entrara-en-vigor/",
-      "fecha": "Wed, 04 Nov 2026 20:56:25 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La nueva ley de ciberseguridad, Decreto 22-2026, incorpora delitos informáticos y penas de prisión, pero ¿qué conductas sanciona y cuándo comenzarán a aplicarse sus disposiciones?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Petróleo a la baja y Wall Street al alza: ¿qué cambió tras las elecciones de medio término?",
-      "link": "https://www.prensalibre.com/economia/petroleo-a-la-baja-y-wall-street-al-alza-que-cambio-tras-las-elecciones-de-medio-termino/",
-      "fecha": "Wed, 04 Nov 2026 20:53:29 +0000",
-      "categoria": "Economía",
-      "resumen": "Las bolsas europeas y Wall Street registraron fuertes ganancias, mientras que el petróleo cayó más del 8%, después de que los demócratas recuperaran el control del Congreso estadounidense."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones intermedias en Florida, Texas y California: Así quedaron los resultados en EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/elecciones-intermedias-en-florida-texas-y-california-asi-quedaron-los-resultados-en-ee-uu/",
-      "fecha": "Wed, 04 Nov 2026 20:11:59 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las elecciones reconfiguraron el mapa político estadounidense, con resultados históricos y un avance contundente de los demócratas en Texas y California."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El papa León XIV y Bob Dylan: un encuentro histórico e intercambio de regalos",
-      "link": "https://www.prensalibre.com/vida/escenario/el-papa-leon-xiv-y-bob-dylan-un-encuentro-historico-e-intercambio-de-regalos/",
-      "fecha": "Wed, 04 Nov 2026 20:08:12 +0000",
-      "categoria": "Escenario",
-      "resumen": "Saludos e intercambio de regalos fue lo que hubo durante la reunión del mítico músico y el líder de la Iglesia católica."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Revelan detalles del Festival Navideño de la Ciudad, Mapping y otras actividades de la época",
       "link": "https://www.guatemala.com/noticias/entretenimiento/festival-navideno-ciudad-guatemala-2026-fechas-atracciones-y-mas.html",
       "fecha": "Wed, 04 Nov 2026 20:02:17 +0000",
       "categoria": "Entretenimiento",
       "resumen": "Revelan detalles del Festival Navideño, mapping, bazares y actividades de la época en el Mapa en Relieve y la Ciudad de Guatemala para este 2026.\nThe post Revelan detalles del Festival Navideño de la Ciudad, Mapping y otras actividades de la época appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video: Así fue el golazo de Federico Valverde al minuto 90+2 que le dio una agónica victoria al Real Madrid",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-asi-fue-el-golazo-de-federico-valverde-al-minuto-902-que-le-dio-una-agonica-victoria-al-real-madrid/",
-      "fecha": "Wed, 04 Nov 2026 19:55:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Federico Valverde rescata al Real Madrid en el descuento y sella un sufrido triunfo 3-2 ante el AEK de Atenas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“MrBeast Lab”: cuánto costó, quiénes participan y de qué trata la serie animada que MrBeast estrenó en YouTube",
-      "link": "https://www.prensalibre.com/vida/escenario/mrbeast-lab-cuanto-costo-quienes-participan-y-de-que-trata-la-serie-animada-que-mrbeast-estreno-en-youtube/",
-      "fecha": "Wed, 04 Nov 2026 19:23:16 +0000",
-      "categoria": "Escenario",
-      "resumen": "El youtuber MrBeast presentó su nueva serie animada MrBeast Lab, que llevará al público a una aventura llena de acción. El proyecto reunió a más de 200 artistas de distintos países para dar vida a esta producción."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jude Bellingham rompe récord de Iker Casillas en la Champions League con el Real Madrid",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/jude-bellingham-rompe-record-de-iker-casillas-en-la-champions-league-con-el-real-madrid/",
-      "fecha": "Wed, 04 Nov 2026 19:12:45 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "A sus 23 años, Jude Bellingham añade otro récord a su carrera al convertirse en el jugador más joven en disputar 60 partidos en la Liga de Campeones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;El archivo del Gran Lengua&#8221;: exposición revela manuscritos, cartas, fotografías y documentos inéditos de Miguel Ángel Asturias",
-      "link": "https://www.prensalibre.com/vida/escenario/el-archivo-del-gran-lengua-exposicion-revela-manuscritos-cartas-fotografias-y-documentos-ineditos-de-miguel-angel-asturias/",
-      "fecha": "Wed, 04 Nov 2026 19:11:54 +0000",
-      "categoria": "Escenario",
-      "resumen": "El Palacio Nacional de la Cultura alberga la nueva muestra con documentos inéditos que revelan otros aspectos de la vida y trayectoria del Premio Nobel de Literatura."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Selección de Guatemala: ¿Quiénes son las principales figuras de Canadá convocadas para enfrentar a la Bicolor?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-quienes-son-las-principales-figuras-de-canada-convocadas-para-enfrentar-a-la-bicolor/",
-      "fecha": "Wed, 04 Nov 2026 19:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Experiencia, talento europeo y una generación consolidada. Así se presenta Canadá para la serie contra Guatemala en los cuartos de final de la Liga de Naciones, una eliminatoria que pondrá en juego el boleto al Final Four y la clasificación directa a la Copa Oro 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Intento de asalto a blindado en Taxisco: rastrean 6 vehículos y posible nexo con el narco",
-      "link": "https://www.prensalibre.com/guatemala/justicia/intento-de-asalto-a-blindado-en-taxisco-rastrean-6-vehiculos-y-posible-nexo-con-el-narco/",
-      "fecha": "Wed, 04 Nov 2026 18:51:11 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Investigadores sospechan que un grupo de narcotraficantes estaría detrás del intento de asalto a un vehículo blindado en la ruta a Taxisco, Santa Rosa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Roxana Baldetti busca acogerse a la aceptación de cargos en el caso Cooptación del Estado y deberá regresar a prisión",
-      "link": "https://www.prensalibre.com/guatemala/justicia/roxana-baldetti-busca-acogerse-a-la-aceptacion-de-cargos-en-el-caso-cooptacion-del-estado-y-debera-regresar-a-prision-breaking/",
-      "fecha": "Wed, 04 Nov 2026 18:40:33 +0000",
-      "categoria": "Justicia",
-      "resumen": "La exvicepresidenta Roxana Baldetti solicitó someterse al procedimiento especial de aceptación de cargos en el caso Cooptación del Estado, mientras que un juez ordenó su regreso a prisión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Están siendo los días más difíciles de mi vida&#8221;: la desconsolada carta del portero Owono tras el encontronazo que causó la muerte al jugador Jesús de Miguel",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/estan-siendo-los-dias-mas-dificiles-de-mi-vida-la-desconsolada-carta-del-portero-owono-tras-el-encontronazo-que-causo-la-muerte-al-jugador-jesus-de-miguel/",
-      "fecha": "Wed, 04 Nov 2026 18:09:49 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El portero del Andorra asegura que vive \"los días más difíciles\" de su vida tras la muerte del delantero del Tenerife y que afrontará \"lo que venga con todo el respeto\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De cantar “Desvelado” a ganar un escaño en el Congreso: Bobby Pulido hace historia en Texas",
-      "link": "https://www.prensalibre.com/internacional/de-cantar-desvelado-a-ganar-un-escano-en-el-congreso-bobby-pulido-hace-historia-en-texas/",
-      "fecha": "Wed, 04 Nov 2026 17:56:38 +0000",
-      "categoria": "Internacional",
-      "resumen": "La victoria de Bobby Pulido en las elecciones intermedias de Estados Unidos representa un cambio en el panorama político del sur de Texas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién es Bobby Pulido, la estrella de la música tejana que devolvió a los demócratas un condado de Texas fronterizo con México",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-bobby-pulido-la-estrella-de-la-musica-tejana-que-devolvio-a-los-democratas-un-condado-de-texas-fronterizo-con-mexico/",
-      "fecha": "Wed, 04 Nov 2026 17:56:25 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Su triunfo se suma a la ola que este martes llevó a los demócratas a hacerse con el control de ambas cámaras del Congreso de Estados Unidos y dejó victorias clave en Texas, incluidas la de Gina Hinojosa como gobernadora y James Talarico como senador."
     },
     {
       "fuente": "Guatemala.com",
