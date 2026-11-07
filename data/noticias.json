@@ -1,7 +1,159 @@
 {
-  "actualizado": "2026-11-06T20:46:23.610Z",
+  "actualizado": "2026-11-07T00:46:49.611Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La moto de Batman se subastará. ¿Cuánto dinero se necesita para comprarla?",
+      "link": "https://www.prensalibre.com/vida/escenario/la-moto-de-batman-se-subastara-cuanto-dinero-se-necesita-para-comprarla/",
+      "fecha": "Sat, 07 Nov 2026 00:30:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Uno de los icónicos vehículos del personaje de acción será adquirido por quien ofrezca la cantidad más alta en la puja que ya comenzó digitalmente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Serán compensados&#8221;: las palabras de Pedro Alliana, nuevo presidente de Paraguay, tras la destitución de Peña",
+      "link": "https://www.prensalibre.com/internacional/seran-compensados-las-palabras-de-pedro-alliana-nuevo-presidente-de-paraguay-tras-la-destitucion-de-pena/",
+      "fecha": "Sat, 07 Nov 2026 00:13:11 +0000",
+      "categoria": "Internacional",
+      "resumen": "Este 6 de noviembre Pedro Alliana, hasta hoy vicepresidente de Paraguay, fue juramentado ante el Congreso como nuevo presidente, poco después de la destitución de Santiago Peña."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque armado contra el diputado Julio Portillo deja tres muertos, dos de ellos agentes de la PNC",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-contra-el-diputado-julio-portillo-deja-tres-muertos-dos-de-ellos-agentes-de-la-pnc-breaking/",
+      "fecha": "Sat, 07 Nov 2026 00:09:29 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos agentes de la PNC y un escolta murieron en un ataque armado contra el diputado Julio Portillo en Río Hondo, Zacapa. El parlamentario salió."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alemania y Guatemala fortalecen sus relaciones comerciales: empresarios apuestan por aumentar las exportaciones de café y plantas ornamentales",
+      "link": "https://www.prensalibre.com/economia/alemania-y-guatemala-fortalecen-sus-relaciones-comerciales-empresarios-apuestan-por-aumentar-las-exportaciones-de-cafe-y-plantas-ornamentales/",
+      "fecha": "Sat, 07 Nov 2026 00:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Las relaciones comerciales, de negocios e inversión entre Guatemala y Alemania atraviesan un momento favorable, pese al contexto económico global, y las perspectivas apuntan a un incremento de estos flujos, según directivos de la Cámara de Comercio e Industria Guatemalteco-Alemana (DGK)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué pasará con Santiago Peña, expresidente de Paraguay, tras ser detenido luego de destituir al cargo",
+      "link": "https://www.prensalibre.com/internacional/que-pasara-con-santiago-pena-expresidente-de-paraguay-tras-ser-detenido-luego-de-destituir-al-cargo/",
+      "fecha": "Fri, 06 Nov 2026 23:56:33 +0000",
+      "categoria": "Internacional",
+      "resumen": "La Policía Nacional de Paraguay informó que el expresidente Santiago Peña fue detenido en su domicilio tras una orden emitida por la fiscalía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Litzy Cordón: magistrados confirman condena de 70 años de prisión contra Kevin Rivas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-litzy-cordon-magistrados-confirman-condena-de-70-anos-de-prision-contra-kevin-rivas-breaking/",
+      "fecha": "Fri, 06 Nov 2026 23:39:41 +0000",
+      "categoria": "Justicia",
+      "resumen": "Magistrados confirmaron la condena de 70 años de prisión contra Kevin Rivas por el secuestro y asesinato de su prima Litzy Cordón. La familia de la víctima solicitó que se impusiera la pena de muerte."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entre sonrisas y sueños cumplidos, nueve voceadores de Prensa Libre celebran su graduación de bachillerato",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/entre-sonrisas-y-suenos-cumplidos-nueve-voceadores-de-prensa-libre-celebran-su-graduacion-de-bachillerato/",
+      "fecha": "Fri, 06 Nov 2026 23:32:47 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Escuela de Voceadores de Prensa Libre celebró la graduación de su decimocuarta promoción de bachilleres en Ciencias y Letras por Madurez. Las historias de esfuerzo y perseverancia marcaron una jornada llena de emoción y orgullo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Son tantos los recuerdos que tengo de Guatemala linda&#8221;: Chayanne agradece el apoyo en el país y arranca suspiros durante un concierto en la capital",
+      "link": "https://www.prensalibre.com/vida/escenario/chayanne-concierto-guatemala-2026-bailemos-otra-vez-tour/",
+      "fecha": "Fri, 06 Nov 2026 23:24:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El ícono del pop latino hizo un repaso por sus éxitos durante el concierto que ofreció el 5 de noviembre en Guatemala, como parte de \"Bailemos otra vez Tour\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De los semilleros de Fundación Bi a los Juegos Olímpicos de la Juventud",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/de-los-semilleros-de-fundacion-bi-a-los-juegos-olimpicos-de-la-juventud/",
+      "fecha": "Fri, 06 Nov 2026 23:10:50 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Cuando el talento y los sueños encuentran oportunidad, no hay obstáculo para detenerlos, así se define la vida de Brithany Soberanis, la gimnasta de 14 años que este 8 de noviembre representará a Guatemala en la prueba de Todo Evento (All-Around) durante los Juegos Olímpicos de la Juventud en Dakar 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Boris Brejcha dejará los escenarios en 2028: ¿qué motiva su adiós?",
+      "link": "https://www.prensalibre.com/vida/escenario/boris-brejcha-dejara-los-escenarios-en-2028-que-motiva-su-adios/",
+      "fecha": "Fri, 06 Nov 2026 23:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Tras dos décadas de carrera, el artista reconocido  mundialmente por su máscara de Joker veneciano dejará la música."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Convocan a votación para elegir el emblema de Quetzal-2, el segundo satélite guatemalteco",
+      "link": "https://www.prensalibre.com/vida/tecnologia/convocan-a-votacion-para-elegir-el-emblema-de-quetzal-2-el-segundo-satelite-guatemalteco/",
+      "fecha": "Fri, 06 Nov 2026 22:07:12 +0000",
+      "categoria": "Tecnología",
+      "resumen": "El segundo satélite de Guatemala, Quetzal-2, se prepara para llegar al espacio en el 2028, y los guatemaltecos pueden ser parte de su historia, al votar en línea por su diseño favorito, entre tres propuestas que fueron elegidas para participar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Latin Grammy 2026: la Academia de la Música confirma homenajes a José Alfredo Jiménez y a Willie Colón",
+      "link": "https://www.prensalibre.com/vida/escenario/latin-grammy-2026-la-academia-de-musica-confirma-homenajes-a-jose-alfredo-jimenez-y-a-willie-colon/",
+      "fecha": "Fri, 06 Nov 2026 22:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "\"El Rey de la Canción Ranchera\" y el legendario cantautor y trombonista estadounidense de origen puertorriqueño recibirán tributos póstumos en la gala del 12 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tragedia frente al mercado El Gallito: vehículo atropella a cuatro mujeres y una de ellas muere",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/tragedia-frente-al-mercado-el-gallito-vehiculo-atropella-a-cuatro-mujeres-y-una-de-ellas-muere-breaking/",
+      "fecha": "Fri, 06 Nov 2026 21:57:51 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Una mujer murió y otras tres resultaron heridas de gravedad luego de que un vehículo las atropellara frente al mercado El Gallito, en Bárcena, Villa Nueva."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién es Miguel Vázquez, el banquero milenial y atleta en el centro de la crisis de Paraguay",
+      "link": "https://www.prensalibre.com/guatemala/quien-es-miguel-vazquez-el-banquero-milenial-y-atleta-en-el-centro-de-la-crisis-de-paraguay/",
+      "fecha": "Fri, 06 Nov 2026 21:48:06 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Vásquez es el accionista mayoritario del Grupo Vásquez, empresa dueña de Ueno Bank en Paraguay"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Viceministerio del Deporte prevé dejar sin ejecutar más de Q114 millones al cierre de 2026",
+      "link": "https://www.prensalibre.com/guatemala/viceministerio-del-deporte-preve-dejar-sin-ejecutar-mas-de-q114-millones-al-cierre-de-2026/",
+      "fecha": "Fri, 06 Nov 2026 21:42:07 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La cifra, confirmada por las propias autoridades en el Congreso, generó cuestionamientos ante las condiciones de los parques deportivos, los cuales carecen de sistemas de videovigilancia o de servicios básicos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Canelo Álvarez vs. Lester Martínez: esto se sabe sobre una posible pelea entre ambos boxeadores",
+      "link": "https://www.prensalibre.com/deportes/canelo-alvarez-vs-lester-martinez-esto-se-sabe-sobre-una-posible-pelea-entre-ambos-boxeadores/",
+      "fecha": "Fri, 06 Nov 2026 21:40:15 +0000",
+      "categoria": "Deportes",
+      "resumen": "La pelea entre el mexicano Saúl Álvarez y el guatemalteco Lester Martínez podría realizarse en febrero o marzo del 2027 en Riad, Arabia Saudita."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué el padre de Meghan Markle recibió libertad bajo fianza tras ser arrestado por agentes del FBI",
+      "link": "https://www.prensalibre.com/internacional/por-que-el-padre-de-meghan-markle-recibio-libertad-bajo-fianza-tras-ser-arrestado-por-agentes-del-fbi/",
+      "fecha": "Fri, 06 Nov 2026 21:33:41 +0000",
+      "categoria": "Internacional",
+      "resumen": "Thomas Markle, de 82 años, fue arrestado por agentes del FBI en la localidad de Lakeland por un supuesto cargo de posesión de pornografía infantil."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién es Stephen Miller, el arquitecto de la dura política migratoria de Trump designado nuevo jefe de gabinete de la Casa Blanca",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-stephen-miller-el-arquitecto-de-la-dura-politica-migratoria-de-trump-designado-nuevo-jefe-de-gabinete-de-la-casa-blanca/",
+      "fecha": "Fri, 06 Nov 2026 21:23:22 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El ideólogo ultraconservador y uno de los asesores más leales de Trump gana poder en la Casa Blanca después de la derrota republicana en las elecciones de medio mandato"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién es Stephen Miller, el polémico asesor de Trump ascendido a jefe de Gabinete",
+      "link": "https://www.prensalibre.com/internacional/quien-es-stephen-miller-el-polemico-asesor-de-trump-ascendido-a-jefe-de-gabinete/",
+      "fecha": "Fri, 06 Nov 2026 21:02:20 +0000",
+      "categoria": "Internacional",
+      "resumen": "Stephen Miller asumirá el puesto de jefe de Gabinete de EE. UU. a partir del lunes 9 de noviembre, según Trump en un mensaje en sus redes sociales."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Shakira, P!nk y Lady Gaga, entre las candidatas al Salón de la Fama de Compositores",
@@ -44,6 +196,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Una Navidad de Película en la ciudad que lo tiene todo",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-navidad-de-pelicula-en-la-ciudad-que-lo-tiene-todo/",
+      "fecha": "Fri, 06 Nov 2026 19:40:00 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Ciudad Cayalá celebra sus XV años invitando a los guatemaltecos a compartir experiencias que conectan generaciones, fortalecen tradiciones y crean recuerdos que perduran más allá de la temporada navideña, que arranca mañana con la encendida de su gigantesco árbol en la plaza central."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Capturan a cuatro presuntos integrantes de &#8220;los Tazmanias&#8221;, estructura criminal que operaba en Amatitlán",
       "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-cuatro-presuntos-integrantes-de-los-tazmanias-estructura-criminal-que-operaba-en-amatitlan/",
       "fecha": "Fri, 06 Nov 2026 18:54:01 +0000",
@@ -73,6 +233,14 @@
       "fecha": "Fri, 06 Nov 2026 17:56:47 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Barcelona y Atlético de Madrid protagonizan este domingo un choque clave por el liderato de LaLiga en el estadio Metropolitano, con ambos equipos separados por mínimos márgenes en la clasificación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Nadie podrá destruirlo&#8221; Por qué Trump declaró el Despacho Oval como un monumento nacional",
+      "link": "https://www.prensalibre.com/internacional/nadie-podra-destruirlo-por-que-trump-declaro-el-despacho-oval-como-un-monumento-nacional/",
+      "fecha": "Fri, 06 Nov 2026 17:04:54 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump firmó el 5 de noviembre una orden ejecutiva que declara al Despacho Oval de la Casa Blanca como un monumento nacional."
     },
     {
       "fuente": "Prensa Libre",
@@ -532,6 +700,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Guatemala registra récord de remesas familiares en octubre del 2026 y acumula US$22 mil 484.9 millones en el año",
+      "link": "https://www.prensalibre.com/economia/guatemala-registra-record-de-remesas-familiares-en-octubre-del-2026-y-acumula-us22-mil-489-millones-en-el-ano/",
+      "fecha": "Thu, 05 Nov 2026 20:40:47 +0000",
+      "categoria": "Economía",
+      "resumen": "A menos de 60 días de que concluya el 2026, las remesas familiares enviadas por migrantes guatemaltecos aumentaron 5.3% en comparación con el mismo período del 2025, según informó el Banco de Guatemala (Banguat)."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "De California a Maryland: Dos mujeres de origen guatemalteco ganan en las elecciones de EE. UU.",
       "link": "https://www.prensalibre.com/internacional/de-california-a-maryland-dos-mujeres-de-origen-guatemalteco-ganan-en-las-elecciones-de-ee-uu/",
       "fecha": "Thu, 05 Nov 2026 20:30:55 +0000",
@@ -641,182 +817,6 @@
       "fecha": "Thu, 05 Nov 2026 17:28:55 +0000",
       "categoria": "Escenario",
       "resumen": "Con el propósito de dar a conocer las historias de quienes preservan el conocimiento y la tradición de elaborar barriletes gigantes, el Instituto Guatemalteco de Turismo invita a un conversatorio con creadores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Santiago Peña renuncia como presidente de Paraguay por la crisis de Ueno Bank",
-      "link": "https://www.prensalibre.com/internacional/santiago-pena-renuncia-como-presidente-de-paraguay-por-la-crisis-de-ueno-bank/",
-      "fecha": "Thu, 05 Nov 2026 17:27:57 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente de Paraguay dimitió este jueves en medio de la crisis desatada por la intervención de Ueno Bank. El Parlamento estaba en pleno proceso para su juicio político."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Santiago Peña renuncia a presidencia de Paraguay arrastrado por crisis tras el cierre de Ueno Bank",
-      "link": "https://www.prensalibre.com/internacional/santiago-pena-renuncia-a-presidencia-de-paraguay-arrastrado-por-crisis-tras-el-cierre-de-ueno-bank-breaking/",
-      "fecha": "Thu, 05 Nov 2026 17:11:57 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente de Paraguay, Santiago Peña, renunció en medio de la crisis desatada en ese país por la intervención de Ueno Bank."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Festival &#8220;A Cielo Abierto&#8221;: más de 20 actividades gratuitas y al aire libre en el Centro Cultural Miguel Ángel Asturias",
-      "link": "https://www.prensalibre.com/vida/escenario/festival-a-cielo-abierto-mas-de-20-actividades-gratuitas-y-al-aire-libre-en-el-centro-cultural-miguel-angel-asturias/",
-      "fecha": "Thu, 05 Nov 2026 17:04:09 +0000",
-      "categoria": "Escenario",
-      "resumen": "Las plazas y espacios abiertos del Centro Cultural Miguel Ángel Asturias acogerán diversas actividades artísticas, culturales, deportivas y recreativas para toda la familia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cristiano Ronaldo y sus números de leyenda con Portugal: cuántos goles, partidos y títulos consiguió",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-y-sus-numeros-de-leyenda-con-portugal-cuantos-goles-partidos-y-titulos-consiguio/",
-      "fecha": "Thu, 05 Nov 2026 17:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Portugal dice adiós a su capitán histórico tras el retiro internacional de Cristiano Ronaldo, máximo goleador del futbol de selecciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tour de cine francés vuelve a Guatemala: siete películas se lucirán en la 24 edición de la muestra",
-      "link": "https://www.prensalibre.com/vida/escenario/tour-de-cine-frances-vuelve-a-guatemala-siete-peliculas-se-luciran-en-la-24-edicion-de-la-muestra/",
-      "fecha": "Thu, 05 Nov 2026 16:30:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La muestra que se presentará en Guatemala incluye obras del séptimo arte francés con temas variados y actuales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Poder Ciudadano retira propuesta de reformas constitucionales del Congreso tras denunciar amenazas",
-      "link": "https://www.prensalibre.com/guatemala/justicia/poder-ciudadano-retira-propuesta-de-reformas-constitucionales-del-congreso-tras-denunciar-amenazas-breaking/",
-      "fecha": "Thu, 05 Nov 2026 16:27:37 +0000",
-      "categoria": "Justicia",
-      "resumen": "Movimiento Poder Ciudadano explica por qué retiró del Congreso la propuesta de reformas constitucionales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inundaciones en Estados Unidos: Florida declara estado de emergencia por la influencia de El Niño",
-      "link": "https://www.prensalibre.com/internacional/inundaciones-en-estados-unidos-florida-declara-estado-de-emergencia-por-la-influencia-de-el-nino/",
-      "fecha": "Thu, 05 Nov 2026 16:03:04 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las agencias describieron la presencia de una vaguada de onda corta que se extendía desde el noreste del golfo de México hasta el valle del río Misuri."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los Caradura estarían coordinando a tres estructuras vinculadas con robos a blindados, sicariato y narcotráfico",
-      "link": "https://www.prensalibre.com/guatemala/justicia/los-caradura-las-tres-estructuras-vinculadas-con-robos-a-blindados-sicariato-y-narcotrafico-en-guatemala/",
-      "fecha": "Thu, 05 Nov 2026 16:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Los Mexicanos, Los Taxistas del Viejo y un grupo de sicarios de San Marcos habrían operado para Los Caradura, según investigaciones del MP."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos leyendas, 13 Balones de Oro y una despedida: el final de la era Messi-Cristiano Ronaldo",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/dos-leyendas-13-balones-de-oro-y-una-despedida-el-final-de-la-era-messi-cristiano-ronaldo/",
-      "fecha": "Thu, 05 Nov 2026 15:26:51 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Con el retiro de Lionel Messi de Argentina y la despedida de Cristiano Ronaldo de Portugal, el futbol internacional pone fin a una de las rivalidades más grandes de todos los tiempos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ataque armado en La Reformita: dos hombres de unos 18 años mueren y una mujer resulta herida",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-la-reformita-dos-hombres-de-unos-18-anos-mueren-y-una-mujer-resulta-herida-breaking/",
-      "fecha": "Thu, 05 Nov 2026 14:27:43 +0000",
-      "categoria": "Sucesos",
-      "resumen": "La colonia La Reformita, zona 12, fue escenario de un ataque armado que dejó dos personas muertas y una herida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Portugal pierde a Cristiano Ronaldo: el impacto comercial que anticipa un experto",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/portugal-pierde-a-cristiano-ronaldo-el-impacto-comercial-que-anticipa-un-experto/",
-      "fecha": "Thu, 05 Nov 2026 13:33:22 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La salida de Cristiano Ronaldo de Portugal marca el fin de una era y deja a la selección sin su mayor referente comercial e internacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Con pancartas y fotografías de André, familiares exigen justicia por bebé atropellado en Salcajá",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-andre-en-salcaja-10-reprogramaciones-y-casi-un-ano-de-espera-audiencia-por-bebe-atropellado-se-aplaza-hasta-2027/",
-      "fecha": "Thu, 05 Nov 2026 13:29:51 +0000",
-      "categoria": "Justicia",
-      "resumen": "La familia de André, un bebé de cinco meses que murió atropellado en Salcajá, denuncia constantes retrasos judiciales. La audiencia volvió a suspenderse y fue trasladada al 20 de enero del 2027, mientras su madre exige justicia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Temblores en Santa Rosa: Insivumeh explica qué ocurre y dónde se concentra la actividad sísmica",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/temblores-en-santa-rosa-insivumeh-explica-que-ocurre-y-donde-se-concentra-la-actividad-sismica-breaking/",
-      "fecha": "Thu, 05 Nov 2026 13:27:44 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh detalló que la actividad sísmica ha registrado magnitudes bajas y profundidades reducidas en Santa Rosa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Léster Martínez vs. Canelo Álvarez: el posible camino hacia una pelea por el título mundial",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/lester-martinez-y-canelo-alvarez-el-posible-camino-hacia-una-pelea-por-el-titulo-mundial-breaking/",
-      "fecha": "Thu, 05 Nov 2026 13:04:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El guatemalteco es campeón interino del CMB y mantiene la ilusión de disputar el cinturón absoluto de las 168 libras."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cristiano Ronaldo anuncia su retiro de la selección de Portugal: así fue su emotivo anuncio",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-anuncia-su-retiro-de-la-seleccion-de-portugal-asi-fue-su-emotivo-anuncio/",
-      "fecha": "Thu, 05 Nov 2026 12:54:49 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El máximo referente del futbol portugués, Cristiano Ronaldo, cierra un ciclo inolvidable con su selección tras más de dos décadas de carrera internacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El vicepresidente JD Vance, en la cuerda floja con Trump tras su feroz crítica por la derrota republicana en las elecciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-vicepresidente-jd-vance-en-la-cuerda-floja-con-trump-tras-su-feroz-critica-por-la-derrota-republicana-en-las-elecciones/",
-      "fecha": "Thu, 05 Nov 2026 11:51:27 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La contundente valoración que hizo el vicepresidente de la derrota electoral republicana marcó una de las rupturas más marcadas con un presidente en ejercicio en la historia reciente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Ha llegado el día de devolver la camiseta número 7&#8221;: Cristiano Ronaldo anuncia su retiro de la selección de Portugal",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ha-llegado-el-dia-de-devolver-la-camiseta-numero-7-cristiano-ronaldo-anuncia-su-retiro-de-la-seleccion-de-portugal/",
-      "fecha": "Thu, 05 Nov 2026 11:20:39 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El delantero de 41 años es considerado el mejor jugador en la historia de su país, además de ser el mayor goleador histórico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Minería en Guatemala vuelve a crecer tras tres trimestres de caída: los retos para atraer inversión",
-      "link": "https://www.prensalibre.com/economia/mineria-en-guatemala-vuelve-a-crecer-tras-tres-trimestres-de-caida-los-retos-para-atraer-inversion/",
-      "fecha": "Thu, 05 Nov 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El sector de explotación de minas y canteras muestra señales de recuperación durante el 2026, en un contexto en el que la industria impulsa una iniciativa para sistematizar las buenas prácticas de la actividad minera, presentada durante el Congreso Nacional de Minería."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Biografía de Miguel Ángel Asturias Rosales: una vida de letras, diplomacia y familia",
-      "link": "https://www.prensalibre.com/vida/escenario/biografia-de-miguel-angel-asturias-rosales-una-vida-de-letras-diplomacia-y-familia/",
-      "fecha": "Thu, 05 Nov 2026 11:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "En poco menos de 75 años, el ganador del Premio Nobel de Literatura de 1967 recorrió el mundo gracias a su talento literario y a su compromiso con sus convicciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Minex atendió a 97 guatemaltecos en Polonia, pero no tiene registros de contrataciones privadas",
-      "link": "https://www.prensalibre.com/internacional/minex-atendio-a-97-guatemaltecos-en-polonia-pero-no-tiene-registros-de-contrataciones-privadas/",
-      "fecha": "Thu, 05 Nov 2026 11:00:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Cancillería reporta 97 guatemaltecos atendidos desde 2022 y 86 consultas laborales recientes, pero afirma que no posee registros de contrataciones privadas hacia Polonia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué la Fiscalía de Chile pide 22 años de cárcel para Jorge Valdivia, exfigura de la selección chilena?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/por-que-la-fiscalia-de-chile-pide-22-anos-de-carcel-para-jorge-valdivia-exfigura-de-la-seleccion-chilena/",
-      "fecha": "Thu, 05 Nov 2026 10:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El exseleccionado chileno Jorge Valdivia enfrenta una petición de 22 años de cárcel."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué necesita Guatemala para tener más vuelos nacionales?",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/que-necesita-guatemala-para-tener-mas-vuelos-nacionales/",
-      "fecha": "Thu, 05 Nov 2026 10:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "La modernización de aeródromos, la seguridad aérea y la reforma aeronáutica buscan ampliar la conectividad, mientras el sector privado espera avances legislativos en el primer trimestre del 2027."
     },
     {
       "fuente": "Guatemala.com",
