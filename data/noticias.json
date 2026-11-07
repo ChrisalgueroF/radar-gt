@@ -1,7 +1,111 @@
 {
-  "actualizado": "2026-11-07T18:34:32.746Z",
+  "actualizado": "2026-11-07T22:35:55.760Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asesinato de diputado y tres policías vuelve a poner en evidencia la violencia que afecta a Zacapa",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/asesinato-de-diputado-y-tres-policias-vuelve-a-poner-en-evidencia-la-violencia-que-afecta-a-zacapa/",
+      "fecha": "Sat, 07 Nov 2026 22:00:03 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Zacapa ocupa el cuarto lugar entre los departamentos con las tasas de homicidios más altas de Guatemala. El asesinato del diputado Julio Portillo vuelve a poner la atención en la violencia que afecta al departamento."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bukele y Haití: entre cuestionamientos y manifestaciones que respaldan el despliegue de soldados de El Salvador",
+      "link": "https://www.prensalibre.com/internacional/bukele-y-haiti-entre-cuestionamientos-y-manifestaciones-que-respaldan-el-despliegue-de-soldados-de-el-salvador/",
+      "fecha": "Sat, 07 Nov 2026 21:30:26 +0000",
+      "categoria": "Internacional",
+      "resumen": "Miles de personas marcharon en Puerto Príncipe, Jérémie y Belladère para pedir que las tropas de El Salvador no detengan su ofensiva contra las pandillas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Quizás una más”: Crawford abre la puerta a su regreso y ya hay tres rivales en la mesa",
+      "link": "https://www.prensalibre.com/deportes/deporte-internacional/quizas-una-mas-crawford-abre-la-puerta-a-su-regreso-y-ya-hay-tres-rivales-en-la-mesa-breaking/",
+      "fecha": "Sat, 07 Nov 2026 21:15:00 +0000",
+      "categoria": "Deporte Internacional",
+      "resumen": "Terence Crawford habló sobre Canelo Álvarez y dejó abierta la posibilidad de volver al ring una vez más, con Mayweather, Ryan García o la revancha con el mexicano como nombres en el aire."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Mixco vs. San Pedro: siga el minuto a minuto de la jornada 19",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-mixco-vs-san-pedro-siga-el-minuto-a-minuto-de-la-jornada-19-breaking/",
+      "fecha": "Sat, 07 Nov 2026 20:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los chicharroneros reciben a los gallos en el estadio Santo Domingo de Guzmán, en un duelo de equipos que pelean por meterse en la zona alta de la tabla a cuatro jornadas del cierre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP procesa escena en donde fue atacado el diputado Julio Portillo y tres policías",
+      "link": "https://www.prensalibre.com/guatemala/mp-procesa-escena-en-donde-fue-atacado-el-diputado-julio-portillo-y-tres-policias/",
+      "fecha": "Sat, 07 Nov 2026 19:50:23 +0000",
+      "categoria": "Guatemala",
+      "resumen": "¿Quiénes participaron en el ataque contra Julio Portillo? El MP investiga el atentado y mantendrá bajo reserva información."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De Huité a Río Hondo: los ataques armados en Zacapa y las cifras de homicidios año con año",
+      "link": "https://www.prensalibre.com/guatemala/justicia/de-huite-a-rio-hondo-los-ataques-armados-en-zacapa-y-las-cifras-de-casos-ano-con-ano/",
+      "fecha": "Sat, 07 Nov 2026 19:30:40 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Zacapa suma 792 homicidios desde el 2019. Este año, la violencia incluye ataques contra un concejal, una masacre en Huité y el crimen de un diputado y tres policías."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Videos: el show &#8220;sorpresa&#8221; de Maluma en un aeropuerto de Miami para presentar su gira mundial",
+      "link": "https://www.prensalibre.com/vida/escenario/videos-el-show-sorpresa-de-maluma-en-un-aeropuerto-de-miami-para-presentar-su-gira-mundial/",
+      "fecha": "Sat, 07 Nov 2026 19:27:04 +0000",
+      "categoria": "Escenario",
+      "resumen": "Maluma se volvió viral tras dar un concierto sorpresa en el aeropuerto de Miami y anuncia su próxima gira mundial en 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué es una beatificación?",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/que-es-una-beatificacion/",
+      "fecha": "Sat, 07 Nov 2026 19:26:39 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Conozca en qué consiste la beatificación, cuál es la diferencia entre ser “beato” y ser “santo” y cuál es el camino hacia la santidad que se sigue en la Iglesia Católica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién es Kozo Tashima, el japonés que compite contra Infantino por la presidencia de la FIFA?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/quien-es-kozo-tashima-el-japones-que-compite-contra-infantino-por-la-presidencia-de-la-fifa-breaking/",
+      "fecha": "Sat, 07 Nov 2026 19:03:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El dirigente de 68 años, Kozo Tashima, anunció que competirá en las elecciones de 2027 contra el suizo Gianni Infantino, que dirige el organismo desde 2016 y busca quedarse hasta 2031."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Valencia vs. Real Madrid: siga el minuto a minuto de la jornada 12 de LaLiga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-valencia-vs-real-madrid-siga-el-minuto-a-minuto-de-la-jornada-12-de-laliga-breaking/",
+      "fecha": "Sat, 07 Nov 2026 19:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Los merengues visitan Mestalla a las 2:00 PM, tres días después de jugar en Atenas y ante un Valencia que lucha por salir del descenso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Don Omar en Guatemala 2027: revelan fecha del concierto que el artista dará por su gira mundial",
+      "link": "https://www.prensalibre.com/vida/escenario/don-omar-en-guatemala-2027-revelan-fecha-del-concierto-que-el-artista-dara-por-su-gira-mundial/",
+      "fecha": "Sat, 07 Nov 2026 18:20:23 +0000",
+      "categoria": "Escenario",
+      "resumen": "La página oficial del artista Don Omar anunció la fecha de su concierto en Guatemala para 2027, como parte de su gira \"The Last King\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Marvin Esaú Rivas Castañeda sustituirá a Julio Portillo en el Congreso, pero no respondería a Cabal o a la UNE",
+      "link": "https://www.prensalibre.com/guatemala/politica/marvin-esau-rivas-castaneda-sustituira-a-julio-portillo-en-el-congreso-pero-no-responderia-a-cabal-o-a-la-une/",
+      "fecha": "Sat, 07 Nov 2026 18:14:30 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El diputado Julio Portillo falleció este viernes 6 de noviembre junto a tres agentes de la PNC cuando fueron atacados a balazos en Río Hondo, Zacapa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué varios países piden tener lista la mochila de las 72 horas, incluido Guatemala y qué debe contener",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/por-que-varios-paises-piden-tener-lista-la-mochila-de-las-72-horas-incluido-guatemala-y-que-debe-contener/",
+      "fecha": "Sat, 07 Nov 2026 17:53:39 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Más de 50 países han recomendado preparar kits de emergencia ante distintos escenarios de riesgo. Guatemala también promueve la mochila de las 72 horas y la Conred explica qué debe contener y por qué es importante tenerla lista."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Plata para Guatemala en Dakar 2026: Cristián Tejada brilla en el salto ecuestre",
@@ -100,11 +204,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "EN VIVO: ¡Guatemala tiene nuevo beato! Fray Augusto Ramírez Monasterio",
+      "titulo": "EN VIVO: ¡Guatemala tiene nuevo beato!  Augusto Ramírez Monasterio, presbítero",
       "link": "https://www.prensalibre.com/vida/escenario/en-vivo-beatificacion-de-fray-augusto-ramirez-monasterio/",
       "fecha": "Sat, 07 Nov 2026 11:59:30 +0000",
       "categoria": "Escenario",
-      "resumen": "Este sábado se celebra la ceremonia en la finca Florencia y una procesión en la Antigua por la beatificación de fray Augusto Ramírez Monasterio."
+      "resumen": "Este sábado se celebró la ceremonia de beatificación en la finca Florencia y una procesión recorrió  la Antigua Guatemala con una reliquia del beato Augusto Ramírez Monasterio, la cual quedó expuesta en el templo de San Francisco El Grande para veneración."
     },
     {
       "fuente": "Prensa Libre",
@@ -697,110 +801,6 @@
       "fecha": "Fri, 06 Nov 2026 11:39:23 +0000",
       "categoria": "Justicia",
       "resumen": "La Policía Nacional Civil capturó a un hombre en Colomba, Quetzaltenango, y le decomisó dinero e ilícitos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién es Santiago Peña, el economista al que el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer)",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/quien-es-santiago-pena-el-economista-al-que-el-poderoso-horacio-cartes-encumbro-a-la-presidencia-de-paraguay-y-al-que-ahora-dejo-caer/",
-      "fecha": "Fri, 06 Nov 2026 10:28:43 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Tres años después de asumir el poder, Santiago Peña terminó arrastrado por la crisis desatada tras la intervención del Ueno Bank."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Beatificación de fray Augusto Ramírez Monasterio: claves para asistir, transmisión en vivo y mapa del recorrido de su reliquia",
-      "link": "https://www.prensalibre.com/vida/escenario/beatificacion-de-fray-augusto-ramirez-monasterio-claves-para-asistir-transmision-en-vivo-y-mapa-del-recorrido-de-su-reliquia/",
-      "fecha": "Fri, 06 Nov 2026 10:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Guatemala celebrará la eucaristía en la que se oficializará la beatificación de fray Augusto Ramírez Monasterio, que incluirá un recorrido por Antigua Guatemala. Conozca los datos clave para asistir."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cristiano Ronaldo y Jorge Jesus: cronología del conflicto que precedió al retiro de Portugal",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-y-jorge-jesus-cronologia-del-conflicto-que-precedio-al-retiro-de-portugal/",
-      "fecha": "Fri, 06 Nov 2026 10:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Cristiano Ronaldo deja la Selección de Portugal tras un mes de desencuentros con Jorge Jesus que marcaron sus últimos días en el combinado luso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estas son modificaciones viales menores aplicadas en la capital en unas 8 zonas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/estas-son-modificaciones-viales-menores-aplicadas-en-la-capital-en-unas-8-zonas/",
-      "fecha": "Fri, 06 Nov 2026 10:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Emetra reporta 46 modificaciones viales menores ejecutadas y otras 26 en curso. La institución sostiene que las medidas mantienen su efectividad, aunque algunas requieren ajustes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "WOLA y HRW condenan asesinatos en Huité, Zacapa",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/wola-y-hrw-condenan-asesinatos-en-huite-zacapa/",
-      "fecha": "Fri, 06 Nov 2026 06:15:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Las organizaciones internacionales calificaron como alarmantes los hechos en ese municipio de Zacapa y, como una muestra de debilidad institucional, la falta de respuestas oficiales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Edgar Ortiz, de Poder Ciudadano: “El clima de violencia busca silenciar las voces que piensan distinto”",
-      "link": "https://www.prensalibre.com/guatemala/politica/edgar-ortiz-de-poder-ciudadano-el-clima-de-violencia-busca-silenciar-las-voces-que-piensan-distinto/",
-      "fecha": "Fri, 06 Nov 2026 06:12:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La organización civil que dirige el constitucionalista Ortiz anunció que se separan de la propuesta de reformas constitucionales por amenazas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Chixoy se recupera y bajan los combustibles en Guatemala: ¿cuánto durará el alivio energético?",
-      "link": "https://www.prensalibre.com/economia/chixoy-se-recupera-y-bajan-los-combustibles-en-guatemala-cuanto-durara-el-alivio-energetico/",
-      "fecha": "Fri, 06 Nov 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La recuperación del embalse de Chixoy y la baja de los combustibles ofrecen un alivio energético, aunque persisten riesgos para el 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De firmas",
-      "link": "https://www.prensalibre.com/opinion/caricatura/de-firmas/",
-      "fecha": "Fri, 06 Nov 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quiénes se benefician con los motines de reos?",
-      "link": "https://www.prensalibre.com/opinion/editorial/quienes-se-benefician-con-los-motines-de-reos/",
-      "fecha": "Fri, 06 Nov 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "No son un secreto los rumores sobre posibles vínculos politiqueros e intereses conexos con las estructuras delictivas que operan desde las prisiones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto 2027: bonos, aumentos y pensiones presionan el gasto público",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/presupuesto-2027-bonos-aumentos-y-pensiones-presionan-el-gasto-publico/",
-      "fecha": "Fri, 06 Nov 2026 06:05:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Salubristas, exsoldados y maestros ejercen presión hacia el Congreso, exigiendo beneficios que ponen en riesgo la integración del plan de gastos para el próximo año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La situación en el Pentágono se tensa tras la guerra contra Irán, que condena al Partido Republicano tras las elecciones",
-      "link": "https://www.prensalibre.com/internacional/la-situacion-en-el-pentagono-se-tensa-tras-la-guerra-contra-iran-que-condena-al-partido-republicano-tras-las-elecciones/",
-      "fecha": "Fri, 06 Nov 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "La evaluación primaria establece que la guerra contra Irán sería una de las causas por las cuales el Partido Republicano perdió las elecciones en el Congreso de EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mareo de los demócratas y desánimo republicano",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/mareo-de-los-democratas-y-desanimo-republicano/",
-      "fecha": "Fri, 06 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Es adecuado considerar la importancia de esta primera semana posterior a la elección y a los resultados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué saben los gobiernos que nosotros no?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/que-saben-los-gobiernos-que-nosotros-no/",
-      "fecha": "Fri, 06 Nov 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Mientras Washington se disputa el poder, el resto del mundo paga la factura en la gasolinera y en la mesa."
     },
     {
       "fuente": "Guatemala.com",
