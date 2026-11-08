@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-11-08T10:01:26.514Z",
+  "actualizado": "2026-11-08T16:57:45.969Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sam Altman y ChatGPT: India supera a EE. UU. en usuarios y la IA llega a las aerolíneas de América",
+      "link": "https://www.prensalibre.com/internacional/sam-altman-y-chatgpt-india-supera-a-ee-uu-en-usuarios-y-la-ia-llega-a-las-aerolineas-de-america/",
+      "fecha": "Sun, 08 Nov 2026 16:28:14 +0000",
+      "categoria": "Internacional",
+      "resumen": "Sam Altman dijo que los países con economías de crecimiento más rápido reciben mejor la inteligencia artificial que las economías más desarrolladas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Orgullo guatemalteco: Jorge Vega avanza a la final de gimnasia con el Spartak-Moscú en la liga de Rusia",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/orgullo-guatemalteco-jorge-vega-avanza-a-la-final-de-gimnasia-con-el-spartak-moscu-en-la-liga-de-rusia-breaking/",
+      "fecha": "Sun, 08 Nov 2026 16:27:56 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El equipo ruso superó las semifinales y disputará el título de la Liga Premier el próximo 6 de diciembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Rosario Central festejó por error un título que Boca terminó ganando en los últimos minutos",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-rosario-central-festejo-por-error-un-titulo-que-boca-termino-ganando-en-los-ultimos-minutos-breaking/",
+      "fecha": "Sun, 08 Nov 2026 16:19:12 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Los jugadores y aficionados de Rosario Central celebraron un gol que nunca existió, mientras en la Bombonera Boca ganaba 1-0 con un tanto de Enner Valencia y se quedaba con la Tabla Anual."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Botín de Oro vuelve a ser de Messi: 26 goles y un récord que nadie había logrado en la MLS",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-botin-de-oro-vuelve-a-ser-de-messi-26-goles-y-un-record-que-nadie-habia-logrado-en-la-mls-breaking/",
+      "fecha": "Sun, 08 Nov 2026 15:45:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Lionel Messi hizo historia al convertirse en el primer jugador en ganar el Botín de Oro de la MLS dos años seguidos, tras superar a Petar Musa y Sam Surridge, y ahora aspira a su tercer premio al Jugador Más Valioso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bomberos localizan restos humanos en la zona 19 capitalina",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/bomberos-localizan-restos-humanos-en-la-zona-19-capitalina/",
+      "fecha": "Sun, 08 Nov 2026 15:02:08 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Paramédicos informaron sobre la localización de restos humanos que fueron dejados entre una bolsa plástica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aumenta precio del gas propano este domingo 8 de noviembre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/aumenta-precio-del-gas-propano-este-domingo-8-de-noviembre/",
+      "fecha": "Sun, 08 Nov 2026 14:19:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El costo del cilindro de gas propano reporta un incremento, según la información proporcionada por las distribuidoras en sus redes sociales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nueva Santa Rosa y Aguacatán clasifican a semifinales de la Primera División tras remontada y goleada",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/nueva-santa-rosa-y-aguacatan-clasifican-a-semifinales-de-la-primera-division-tras-remontada-y-goleada-breaking/",
+      "fecha": "Sun, 08 Nov 2026 13:28:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Nicolás Grasso marcó un golazo para sellar la clasificación de Nueva Santa Rosa ante Coatepeque, mientras Aguacatán goleó 4-0 a Juventud Copalera."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataques contra Solórzano Foppa y Portillo exponen debilidades en seguridad en antesala electoral, afirman analistas",
+      "link": "https://www.prensalibre.com/guatemala/politica/muerte-de-solorzano-foppa-y-portillo-exponen-debilidades-del-gobierno-en-seguridad-a-meses-de-las-elecciones-2027-afirman-analistas/",
+      "fecha": "Sun, 08 Nov 2026 13:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los dos personajes políticos al momento de los ataques tenían seguridad pública, pero fueron rebasados por sicarios que siguen sin ser localizados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Perico’s Moto Club: más de cuatro décadas de rodadas y apoyo social en Xela",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/pericos-moto-club-mas-de-cuatro-decadas-de-rodadas-y-apoyo-social-en-xela/",
+      "fecha": "Sun, 08 Nov 2026 12:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Motociclistas de Quetzaltenango organizan recorridos para recaudar fondos y entregar alimentos, equipo e insumos a bomberos, hospitales, guarderías y hogares de ancianos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“La clave está en no buscar una solución mágica”: qué necesita Guatemala para reducir la pobreza, según una Nobel de Economía",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/la-clave-esta-en-no-buscar-una-solucion-magica-que-necesita-guatemala-para-reducir-la-pobreza-segun-una-nobel-de-economia/",
+      "fecha": "Sun, 08 Nov 2026 11:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "En entrevista con Esther Duflo, ganadora del Nobel de Economía 2019, la economista propone evaluar las políticas sociales, probar soluciones contra la pobreza e invertir en la juventud, para transformar el futuro de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tener un segundo trabajo en Guatemala: cómo se reparten el tiempo y los ingresos más de 700 mil personas",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/tener-un-segundo-trabajo-en-guatemala-como-se-reparten-el-tiempo-y-los-ingresos-mas-de-700-mil-personas/",
+      "fecha": "Sun, 08 Nov 2026 11:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Según la Encuesta Nacional de Empleo e Ingresos Continua (Eneic), más de 700 mil guatemaltecos reportaron una segunda actividad laboral en cada trimestre del 2025."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Epicentro",
@@ -705,94 +793,6 @@
       "fecha": "Fri, 06 Nov 2026 21:48:06 +0000",
       "categoria": "Guatemala",
       "resumen": "Vásquez es el accionista mayoritario del Grupo Vásquez, empresa dueña de Ueno Bank en Paraguay"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Viceministerio del Deporte prevé dejar sin ejecutar más de Q114 millones al cierre de 2026",
-      "link": "https://www.prensalibre.com/guatemala/viceministerio-del-deporte-preve-dejar-sin-ejecutar-mas-de-q114-millones-al-cierre-de-2026/",
-      "fecha": "Fri, 06 Nov 2026 21:42:07 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La cifra, confirmada por las propias autoridades en el Congreso, generó cuestionamientos ante las condiciones de los parques deportivos, los cuales carecen de sistemas de videovigilancia o de servicios básicos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Canelo Álvarez vs. Lester Martínez: esto se sabe sobre una posible pelea entre ambos boxeadores",
-      "link": "https://www.prensalibre.com/deportes/canelo-alvarez-vs-lester-martinez-esto-se-sabe-sobre-una-posible-pelea-entre-ambos-boxeadores/",
-      "fecha": "Fri, 06 Nov 2026 21:40:15 +0000",
-      "categoria": "Deportes",
-      "resumen": "La pelea entre el mexicano Saúl Álvarez y el guatemalteco Lester Martínez podría realizarse en febrero o marzo del 2027 en Riad, Arabia Saudita."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué el padre de Meghan Markle recibió libertad bajo fianza tras ser arrestado por agentes del FBI",
-      "link": "https://www.prensalibre.com/internacional/por-que-el-padre-de-meghan-markle-recibio-libertad-bajo-fianza-tras-ser-arrestado-por-agentes-del-fbi/",
-      "fecha": "Fri, 06 Nov 2026 21:33:41 +0000",
-      "categoria": "Internacional",
-      "resumen": "Thomas Markle, de 82 años, fue arrestado por agentes del FBI en la localidad de Lakeland por un supuesto cargo de posesión de pornografía infantil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién es Stephen Miller, el arquitecto de la dura política migratoria de Trump designado nuevo jefe de gabinete de la Casa Blanca",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-stephen-miller-el-arquitecto-de-la-dura-politica-migratoria-de-trump-designado-nuevo-jefe-de-gabinete-de-la-casa-blanca/",
-      "fecha": "Fri, 06 Nov 2026 21:23:22 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El ideólogo ultraconservador y uno de los asesores más leales de Trump gana poder en la Casa Blanca después de la derrota republicana en las elecciones de medio mandato"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién es Stephen Miller, el polémico asesor de Trump ascendido a jefe de Gabinete",
-      "link": "https://www.prensalibre.com/internacional/quien-es-stephen-miller-el-polemico-asesor-de-trump-ascendido-a-jefe-de-gabinete/",
-      "fecha": "Fri, 06 Nov 2026 21:02:20 +0000",
-      "categoria": "Internacional",
-      "resumen": "Stephen Miller asumirá el puesto de jefe de Gabinete de EE. UU. a partir del lunes 9 de noviembre, según Trump en un mensaje en sus redes sociales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Variedad de zapatos, ropa, juguetes y miscelánea",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/variedad-de-zapatos-ropa-juguetes-y-miscelanea/",
-      "fecha": "Fri, 06 Nov 2026 20:03:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Con una propuesta comercial que combina variedad, productos americanos importados como zapatos, ropa, juguetes y artículos de miscelánea, a precios accesibles para toda la familia, Paca Premium Store abrió sus puertas en la Avenida Ferrocarril, 2-31, zona 5, Chiquimula, Chiquimula."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Shakira, P!nk y Lady Gaga, entre las candidatas al Salón de la Fama de Compositores",
-      "link": "https://www.prensalibre.com/vida/escenario/shakira-pnk-y-lady-gaga-entre-las-candidatas-al-salon-de-la-fama-de-compositores/",
-      "fecha": "Fri, 06 Nov 2026 20:01:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La competencia es dura, porque veintiséis compositores o equipos de compositores compiten por solo seis lugares en la Clase de 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga Nacional: ¿Qué equipos ya cumplieron los 1,200 minutos juveniles en el Apertura 2026?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-que-equipos-ya-cumplieron-los-1200-minutos-juveniles-en-el-apertura-2026/",
-      "fecha": "Fri, 06 Nov 2026 19:55:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "A cuatro jornadas del cierre de la fase regular, Antigua GFC y Xelajú MC ya alcanzaron la cuota reglamentaria de minutos para jugadores juveniles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Roxana Baldetti incumple orden de regresar a prisión por el caso Cooptación del Estado y juez apercibe al SP",
-      "link": "https://www.prensalibre.com/guatemala/justicia/roxana-baldetti-incumple-orden-de-regresar-a-prision-por-el-caso-cooptacion-del-estado-y-juez-apercibe-al-sp-breaking/",
-      "fecha": "Fri, 06 Nov 2026 19:52:25 +0000",
-      "categoria": "Justicia",
-      "resumen": "La exvicepresidenta Roxana Baldetti sigue en su vivienda pese a la orden judicial de regresar a prisión por el caso Cooptación del Estado, en el que pretende someterse al procedimiento especial de aceptación de cargos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump nombra a Stephen Miller, el &#8220;arquitecto&#8221; de su política migratoria, como nuevo jefe de gabinete de la Casa Blanca",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-nombra-a-stephen-miller-el-arquitecto-de-su-politica-migratoria-como-nuevo-jefe-de-gabinete-de-la-casa-blanca/",
-      "fecha": "Fri, 06 Nov 2026 19:50:30 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En una publicación en Truth Social, Trump señaló que Susie Wiles, a quien sucederá Miller, hizo un trabajo \"sobresaliente\" y que pasará a formar parte de la \"Operación política de Trump\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Calendario lunar noviembre 2026: ¿Cuándo será la Luna llena y qué días conviene cortarse el pelo?",
-      "link": "https://www.prensalibre.com/internacional/calendario-lunar-noviembre-2026-cuando-sera-la-luna-llena-y-que-dias-conviene-cortarse-el-pelo/",
-      "fecha": "Fri, 06 Nov 2026 19:42:25 +0000",
-      "categoria": "Internacional",
-      "resumen": "El calendario lunar ofrece distintas fechas para quienes acostumbran organizar sus cortes de pelo según las fases de la Luna, una tradición que mantiene vigencia."
     },
     {
       "fuente": "Guatemala.com",
