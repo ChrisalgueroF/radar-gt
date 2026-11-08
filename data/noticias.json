@@ -1,7 +1,87 @@
 {
-  "actualizado": "2026-11-08T02:12:11.233Z",
+  "actualizado": "2026-11-08T10:01:26.514Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Epicentro",
+      "link": "https://www.prensalibre.com/opinion/caricatura/epicentro/",
+      "fecha": "Sun, 08 Nov 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Supremo testimonio",
+      "link": "https://www.prensalibre.com/opinion/editorial/supremo-testimonio/",
+      "fecha": "Sun, 08 Nov 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Es una coincidencia providencial que esta ceremonia ocurra en el mismo año en que se conmemoran los 800 años de la muerte de San Francisco de Asís, cuyo hábito abrazó el ahora beato Augusto Ramírez Monasterio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los hijos del Quijote",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/los-hijos-del-quijote/",
+      "fecha": "Sun, 08 Nov 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "“Por la libertad, así como por la honra, se puede y debe aventurar la vida”."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuando la experiencia destruye talento",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/cuando-la-experiencia-destruye-talento/",
+      "fecha": "Sun, 08 Nov 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La mayor contradicción laboral consiste en exigir experiencia para tareas sin futuro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Con reglas de ajedrez a una pelea de navajas",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/con-reglas-de-ajedrez-a-una-pelea-de-navajas/",
+      "fecha": "Sun, 08 Nov 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La marea azul apela a los indecisos. Miller y compañía prefieren enardecer a su base."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Implosión",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/implosion/",
+      "fecha": "Sun, 08 Nov 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La derrota de los republicanos con miras a las elecciones del 2028 y cómo esto afecta a Guatemala"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy domingo 8 de noviembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-domingo-8-de-noviembre-de-2026/",
+      "fecha": "Sun, 08 Nov 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Marquense falla dos penales y Comunicaciones aprovecha para ganar 2-0 de visita",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/marquense-falla-dos-penales-y-comunicaciones-aprovecha-para-ganar-2-0-de-visita-breaking/",
+      "fecha": "Sun, 08 Nov 2026 04:01:16 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Paolo Dantaz abrió con un zurdazo al ángulo y Nelso García selló con un golazo desde media cancha, en una noche en la que los leones se vieron frustrados al errar dos penales que les propinó la derrota en su casa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Corte Interamericana cierra caso por las últimas ejecuciones mediante fusilamiento en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/justicia/corte-interamericana-cierra-caso-por-las-ultimas-ejecuciones-mediante-fusilamiento-en-guatemala-breaking/",
+      "fecha": "Sun, 08 Nov 2026 02:47:03 +0000",
+      "categoria": "Justicia",
+      "resumen": "Guatemala cumplió con las reparaciones ordenadas por las violaciones de derechos humanos cometidas contra dos condenados a muerte, cuyo fusilamiento fue transmitido por televisión en 1996."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jorge Vega, con el Spartak-Moscú, busca avanzar a la final de la Liga Premier de Gimnasia de Rusia",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/jorge-vega-con-el-spartak-moscu-busca-avanzar-a-la-final-de-la-liga-premier-de-gimnasia-de-rusia/",
+      "fecha": "Sun, 08 Nov 2026 02:44:52 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El guatemalteco aportó para que su equipo terminara líder y este domingo buscará el pase a la final."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Cacif exige esclarecer con prontitud el ataque armado en el que murieron el diputado Julio Portillo y tres policías",
@@ -713,86 +793,6 @@
       "fecha": "Fri, 06 Nov 2026 19:42:25 +0000",
       "categoria": "Internacional",
       "resumen": "El calendario lunar ofrece distintas fechas para quienes acostumbran organizar sus cortes de pelo según las fases de la Luna, una tradición que mantiene vigencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una Navidad de Película en la ciudad que lo tiene todo",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-navidad-de-pelicula-en-la-ciudad-que-lo-tiene-todo/",
-      "fecha": "Fri, 06 Nov 2026 19:40:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Ciudad Cayalá celebra sus XV años invitando a los guatemaltecos a compartir experiencias que conectan generaciones, fortalecen tradiciones y crean recuerdos que perduran más allá de la temporada navideña, que arranca mañana con la encendida de su gigantesco árbol en la plaza central."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Capturan a cuatro presuntos integrantes de &#8220;los Tazmanias&#8221;, estructura criminal que operaba en Amatitlán",
-      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-cuatro-presuntos-integrantes-de-los-tazmanias-estructura-criminal-que-operaba-en-amatitlan/",
-      "fecha": "Fri, 06 Nov 2026 18:54:01 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La investigación contra una estructura criminal que operaba en Amatitlán habría comenzado tras un ataque armado en enero de 2026, que permitió  identificar a sus presuntos integrantes, entre ellos, un agente de la PNC."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Interfer 2026 espera recibir 375 mil visitantes y generar 6 mil empleos y acá compartimos fechas y horarios del evento",
-      "link": "https://www.prensalibre.com/economia/interfer-2026-espera-recibir-375-mil-visitantes-y-generar-6-mil-empleos-y-aca-compartimos-fechas-y-horarios-del-evento/",
-      "fecha": "Fri, 06 Nov 2026 18:20:21 +0000",
-      "categoria": "Economía",
-      "resumen": "Con más de 600 espacios comerciales, actividades navideñas y conciertos, Interfer 2026 prepara una nueva edición en la que proyecta miles de visitantes y oportunidades laborales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Papa León XIV inicia su gira por Latinoamérica: Los países que visitará y su recorrido día por día",
-      "link": "https://www.prensalibre.com/internacional/el-papa-leon-xiv-inicia-su-gira-por-latinoamerica-los-paises-que-visitara-y-su-recorrido-dia-por-dia/",
-      "fecha": "Fri, 06 Nov 2026 18:06:17 +0000",
-      "categoria": "Internacional",
-      "resumen": "El papa León XIV tiene previsto realizar catorce vuelos, incluidos dos en helicóptero; pronunciar 36 discursos y participar en más de 50 actos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Atlético de Madrid y Barcelona se juegan el liderato: día, hora y dónde ver el partido en Guatemala",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/atletico-de-madrid-y-barcelona-se-juegan-el-liderato-dia-hora-y-donde-ver-el-partido-en-guatemala/",
-      "fecha": "Fri, 06 Nov 2026 17:56:47 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Barcelona y Atlético de Madrid protagonizan este domingo un choque clave por el liderato de LaLiga en el estadio Metropolitano, con ambos equipos separados por mínimos márgenes en la clasificación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Nadie podrá destruirlo&#8221; Por qué Trump declaró el Despacho Oval como un monumento nacional",
-      "link": "https://www.prensalibre.com/internacional/nadie-podra-destruirlo-por-que-trump-declaro-el-despacho-oval-como-un-monumento-nacional/",
-      "fecha": "Fri, 06 Nov 2026 17:04:54 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump firmó el 5 de noviembre una orden ejecutiva que declara al Despacho Oval de la Casa Blanca como un monumento nacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comunicaciones está contra las cuerdas: los cuatro partidos que definirán su futuro en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-esta-contra-las-cuerdas-los-cuatro-partidos-que-definiran-su-futuro-en-el-apertura-2026/",
-      "fecha": "Fri, 06 Nov 2026 16:24:48 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los cremas afrontan su primera de cuatro finales este fin de semana en San Marcos, donde buscarán tres puntos vitales ante Marquense."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué lo provocó? Los detalles del buque que sufrió una explosión al salir del estrecho de Ormuz",
-      "link": "https://www.prensalibre.com/internacional/que-lo-provoco-los-detalles-del-buque-que-sufrio-una-explosion-al-salir-del-estrecho-de-ormuz/",
-      "fecha": "Fri, 06 Nov 2026 16:15:39 +0000",
-      "categoria": "Internacional",
-      "resumen": "La UKMTO dio detalles del buque cisterna que sufrió una explosión a 16 millas náuticas al este de Omán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Looney Tunes se inspira en &#8220;La gran estafa&#8221; para su nueva película",
-      "link": "https://www.prensalibre.com/vida/escenario/looney-tunes-se-inspira-en-la-gran-estafa-para-su-nueva-pelicula/",
-      "fecha": "Fri, 06 Nov 2026 15:56:19 +0000",
-      "categoria": "Escenario",
-      "resumen": "Warner Brothers hace una apuesta e involucra a sus famosos personajes en una trama llena de mafia y humor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clima en Guatemala: Insivumeh anticipa días cálidos y noches frías para este fin de semana",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/clima-en-guatemala-insivumeh-anticipa-dias-calidos-y-noches-frias-para-este-fin-de-semana-breaking/",
-      "fecha": "Fri, 06 Nov 2026 15:49:29 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh compartió las temperaturas máximas y mínimas previstas para algunas regiones de Guatemala durante el fin de semana."
     },
     {
       "fuente": "Guatemala.com",
