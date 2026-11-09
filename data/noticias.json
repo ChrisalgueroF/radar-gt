@@ -1,7 +1,151 @@
 {
-  "actualizado": "2026-11-08T21:03:25.713Z",
+  "actualizado": "2026-11-09T01:31:54.161Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Joven apuñalada mientras entrenaba para el Maratón de Nueva York salva cuatro vidas con sus órganos",
+      "link": "https://www.prensalibre.com/internacional/joven-apunalada-mientras-entrenaba-para-el-maraton-de-nueva-york-salva-cuatro-vidas-con-sus-organos/",
+      "fecha": "Mon, 09 Nov 2026 00:45:56 +0000",
+      "categoria": "Internacional",
+      "resumen": "Katie Suárez, de 28 años, murió tras ser apuñalada mientras corría en Brooklyn, pero la donación de sus órganos permitió salvar cuatro vidas mediante trasplantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Música, humor y espíritu navideño: así vivieron los suscriptores de Prensa Libre &#8220;Los fantasmas de Scrooge&#8221;",
+      "link": "https://www.prensalibre.com/vida/escenario/musica-humor-y-espiritu-navideno-asi-vivieron-los-suscriptores-de-prensa-libre-los-fantasmas-de-scrooge/",
+      "fecha": "Mon, 09 Nov 2026 00:45:04 +0000",
+      "categoria": "Escenario",
+      "resumen": "Cerca de 300 personas disfrutaron de una función especial de teatro que marcó el inicio de la temporada navideña, con una historia llena de magia, música y emoción."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo preparar una receta de filete de pescado en salsa beurre blanc",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/como-preparar-una-receta-de-filete-de-pescado-en-salsa-beurre-blanc/",
+      "fecha": "Mon, 09 Nov 2026 00:30:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Prepare este delicioso platillo utilizando la técnica beurre monté, que consiste en  emulsionar  mantequilla  para obtener una exquisita salsa cremosa, estable y deliciosa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Convocan a votación para elegir el emblema de Quetzal-2, el segundo satélite guatemalteco",
+      "link": "https://www.prensalibre.com/vida/tecnologia/convocan-a-votacion-para-elegir-el-emblema-de-quetzal-2-el-segundo-satelite-guatemalteco/",
+      "fecha": "Mon, 09 Nov 2026 00:00:00 +0000",
+      "categoria": "Tecnología",
+      "resumen": "El segundo satélite de Guatemala, Quetzal-2, se prepara para llegar al espacio en el 2028, y los guatemaltecos pueden ser parte de su historia, al votar en línea por su diseño favorito, entre tres propuestas que fueron elegidas para participar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala vs. Canadá: Puntos clave sobre los cuartos de final de la Liga de Naciones 2026-27",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-puntos-clave-sobre-los-cuartos-de-final-de-la-liga-de-naciones-2026-27/",
+      "fecha": "Sun, 08 Nov 2026 23:40:15 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El compromiso que se disputará en el recinto deportivo de la zona 7 capitalina marcará el estreno de la Bicolor en los cuartos de final de la Liga de Naciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cómo huir del algoritmo en plena campaña electoral? 6 recomendaciones (apoyadas en la&#160;ciencia)",
+      "link": "https://www.prensalibre.com/vida/ciencia/como-huir-del-algoritmo-en-plena-campana-electoral-6-recomendaciones-apoyadas-en-la-ciencia/",
+      "fecha": "Sun, 08 Nov 2026 23:35:07 +0000",
+      "categoria": "Ciencia",
+      "resumen": "La psicología social ofrece algunas herramientas que podemos incorporar a la vida cotidiana para combatir los propios sesgos, mejorar la relación con la tecnología y aprender a convivir con quienes piensan diferente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los objetos personales de Diana de Gales desentierran su historia en una exposición en Los Ángeles",
+      "link": "https://www.prensalibre.com/vida/escenario/los-objetos-personales-de-diana-de-gales-desentierran-su-historia-en-una-exposicion-en-los-angeles/",
+      "fecha": "Sun, 08 Nov 2026 23:14:49 +0000",
+      "categoria": "Escenario",
+      "resumen": "La muestra presenta la evolución de su estilo y  es fruto de más de una década de minucioso trabajo de archivo, investigación y restauración de maniquíes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Informes internos del ICE documentan fallas médicas en 23 casos de migrantes fallecidos bajo custodia",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/informes-internos-del-ice-documentan-fallas-medicas-en-23-casos-de-migrantes-fallecidos-bajo-custodia/",
+      "fecha": "Sun, 08 Nov 2026 23:05:11 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Una investigación del San Francisco Chronicle reveló que el ICE identificó fallas en la atención médica de 23 de los 29 inmigrantes cuyas muertes bajo custodia fueron examinadas en Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Antigua GFC vs. Malacateco: siga el minuto a minuto de la jornada 19",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-antigua-gfc-vs-malacateco-siga-el-minuto-a-minuto-de-la-jornada-19-breaking/",
+      "fecha": "Sun, 08 Nov 2026 23:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Antigua GFC, líder del Apertura 2026, recibe hoy a las 6:00 PM a un Malacateco que buscará puntos urgentemente en el estadio Pensativo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Xelajú MC vence 1-0 en su visita a Cobán Imperial con un penal en el tiempo añadido",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/coban-imperial-y-xelaju-mc-empatan-sin-goles-en-la-jornada-19-del-apertura-2026-breaking/",
+      "fecha": "Sun, 08 Nov 2026 22:57:04 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Steven Cárdenas convirtió la pena máxima al minuto 99, tras una falta de Thales Moreira, y los Superchivos se llevaron los tres puntos ante los Príncipes Azules en su visita."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Les prometieron trabajo en Estados Unidos, pero terminaron reclutados por el Cartel del Golfo",
+      "link": "https://www.prensalibre.com/guatemala/les-prometieron-trabajo-en-estados-unidos-pero-terminaron-reclutados-por-el-cartel-del-golfo/",
+      "fecha": "Sun, 08 Nov 2026 22:38:05 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Campesinos y excombatientes de Nicaragua viajaron a México engañados con ofertas de trabajo y terminaron reclutados por el Cartel del Golfo, entre amenazas y violencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hombre que mató a su madre porque creía que estaba poseída fue sentenciado a cadena perpetua",
+      "link": "https://www.prensalibre.com/internacional/hombre-que-mato-a-su-madre-porque-creia-que-estaba-poseida-fue-sentenciado-a-cadena-perpetua/",
+      "fecha": "Sun, 08 Nov 2026 22:34:16 +0000",
+      "categoria": "Internacional",
+      "resumen": "Ronald Kirk, de 38 años, fue sentenciado a cadena perpetua, con posibilidad de obtener la libertad condicional después de 25 años, por matar a tiros a su madre, Rosa Leyva, en la vivienda que compartían en Oregón, Estados Unidos, en el 2024."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nvidia abre una investigación sobre la relación de su director ejecutivo con una presunta espía china",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/nvidia-abre-una-investigacion-sobre-la-relacion-de-su-director-ejecutivo-con-una-presunta-espia-china/",
+      "fecha": "Sun, 08 Nov 2026 22:27:39 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Jensen Huang admitió haber sido \"infiel\" a su esposa y afirmó que cooperará con la investigación de seguridad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cinco accidentes de motocicleta dejan dos muertos y ocho heridos, incluidos dos menores",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/cinco-accidentes-de-motocicleta-dejan-dos-muertos-y-ocho-heridos-incluidos-dos-menores-breaking/",
+      "fecha": "Sun, 08 Nov 2026 22:00:57 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos personas murieron y ocho resultaron heridas en cinco accidentes de motocicleta reportados en distintos puntos de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Congreso y los temas que tiene pendientes antes de que finalice el 2026",
+      "link": "https://www.prensalibre.com/guatemala/politica/que-temas-tienen-pendientes-los-diputados-antes-de-que-termine-el-2026/",
+      "fecha": "Sun, 08 Nov 2026 22:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El próximo 30 de noviembre concluye el segundo periodo de sesiones ordinarias y comienza el receso para los 160 diputados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Barcelona remonta en el Metropolitano y se reafirma como líder de LaLiga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-remonta-en-el-metropolitano-y-se-reafirma-como-lider-de-laliga-breaking/",
+      "fecha": "Sun, 08 Nov 2026 21:55:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Fermín López fue el gran protagonista de la remontada azulgrana en el Metropolitano: con sus dos goles, el Barcelona mantiene el liderato de LaLiga con tres puntos de ventaja sobre el Real Madrid."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De las detenciones al bloqueo de ambulancias: la presencia de ICE que desató protestas en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/de-las-detenciones-al-bloqueo-de-ambulancias-la-presencia-de-ice-que-desato-protestas-en-ee-uu/",
+      "fecha": "Sun, 08 Nov 2026 21:33:35 +0000",
+      "categoria": "Internacional",
+      "resumen": "La protesta congregó a activistas comunitarios y a la alcaldesa electa Nithya Raman, quien condenó la presencia federal en el hospital de Los Ángeles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De Mercedes Sosa a Alicia Azurdia: una noche para recordar a las musas de Latinoamérica",
+      "link": "https://www.prensalibre.com/vida/escenario/de-mercedes-sosa-a-alicia-azurdia-una-noche-para-recordar-a-las-musas-de-latinoamerica/",
+      "fecha": "Sun, 08 Nov 2026 21:26:53 +0000",
+      "categoria": "Escenario",
+      "resumen": "Una noche para recordar a Alicia Azurdia con un homenaje especial y disfrutar de la música de Mercedes Sosa, Chavela Vargas, Violeta Parra y Chabuca Granda en la voz de Meli Donis."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Ejército de EE.UU. crea un grupo para impedir que Irán transporte armas por tierra",
@@ -9,6 +153,14 @@
       "fecha": "Sun, 08 Nov 2026 20:34:03 +0000",
       "categoria": "Internacional",
       "resumen": "El comandante de Centcom, el almirante Brad Cooper, sostuvo que el nuevo equipo \"limitará aún más la capacidad de Irán para financiar el terrorismo\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Navidad 2026 en Guatemala: calendario de actividades y encendido de árboles en noviembre",
+      "link": "https://www.prensalibre.com/vida/escenario/navidad-2026-en-guatemala-calendario-de-actividades-y-encendido-de-arboles-en-noviembre/",
+      "fecha": "Sun, 08 Nov 2026 20:32:32 +0000",
+      "categoria": "Escenario",
+      "resumen": "En noviembre comienzan las actividades y festividades relacionadas a la Navidad, acá hacemos un recuento de estas actividades en los próximos días."
     },
     {
       "fuente": "Guatemala.com",
@@ -25,6 +177,14 @@
       "fecha": "Sun, 08 Nov 2026 20:13:06 +0000",
       "categoria": "Escenario",
       "resumen": "En 2026, el Festival de las Flores celebra en noviembre su décimo aniversario en Antigua Guatemala bajo el concepto de la Ciudad Floreciente, e invita a turistas nacionales y extranjeros a celebrar un fin de semana lleno de arte y naturaleza."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cartaginés de Amarini Villatoro golea 4-2 a Escorpiones y retoma el liderato en Costa Rica",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/cartagines-de-amarini-villatoro-golea-4-2-a-escorpiones-y-retoma-el-liderato-en-costa-rica-breaking/",
+      "fecha": "Sun, 08 Nov 2026 20:11:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Con una goleada que lo consolida como el líder del torneo costarricense, el equipo del guatemalteco Amarini Villatoro suma 31 puntos y busca el pase directo a la final."
     },
     {
       "fuente": "Prensa Libre",
@@ -641,166 +801,6 @@
       "fecha": "Sat, 07 Nov 2026 06:10:00 +0000",
       "categoria": "Economía",
       "resumen": "La embajadora de la República Federal de Alemania, Friederike Hellner, aseguró que Guatemala es un socio estratégico, con más de 200 años de relaciones comerciales y una creciente demanda de productos agrícolas, maquinaria y equipo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Referente latinoamericano de agilidad empresarial",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/referente-latinoamericano-de-agilidad-empresarial/",
-      "fecha": "Sat, 07 Nov 2026 06:07:24 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Ciudad Cayalá se convirtió en la primera organización de Latinoamérica en recibir la distinción Leading Global Agile Enterprise de Scrum Inc., entregado por J.J. Sutherland, CEO de Scrum Inc., a Héctor Leal, CEO de Grupo Cayalá; tras un proceso de transformación que en 18 meses ha fortalecido sus tiempos de ejecución, eficiencia operativa y experiencia del cliente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos tristes tigres",
-      "link": "https://www.prensalibre.com/opinion/caricatura/dos-tristes-tigres/",
-      "fecha": "Sat, 07 Nov 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Algo hay que hacer en la autopista a Escuintla",
-      "link": "https://www.prensalibre.com/opinion/editorial/algo-hay-que-hacer-en-la-autopista-a-escuintla/",
-      "fecha": "Sat, 07 Nov 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "En la autopista Palín-Escuintla se han suscitado este año al menos cinco accidentes graves."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Partido Republicano busca alejarse de Donald Trump tras derrota electoral, pero enfrenta obstáculos",
-      "link": "https://www.prensalibre.com/internacional/partido-republicano-busca-alejarse-de-donald-trump-tras-derrota-electoral-pero-enfrenta-obstaculos/",
-      "fecha": "Sat, 07 Nov 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Tras la derrota electoral en Estados Unidos, sectores republicanos plantean un cambio de rumbo, mientras Donald Trump conserva poder sobre las bases y las primarias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los trabajos bien hechos nos dan credibilidad",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/los-trabajos-bien-hechos-nos-dan-credibilidad/",
-      "fecha": "Sat, 07 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Mucho de lo que nosotros podemos olvidar los demás lo recuerdan de un modo permanente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Beato Augusto Rafael",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/beato-augusto-rafael/",
-      "fecha": "Sat, 07 Nov 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Un sacerdote sabe que lo que una persona le revele en conciencia en la confesión o en una consulta espiritual es asunto sagrado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala rumbo a Turquía, a la COP31",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/guatemala-rumbo-a-turquia-a-la-cop31/",
-      "fecha": "Sat, 07 Nov 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Uno de los asuntos cruciales será lograr que los países desarrollados conviertan sus compromisos en acciones concretas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rafael Pérez de León, arquitecto pluritemporal",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/rafael-perez-de-leon-arquitecto-pluritemporal/",
-      "fecha": "Sat, 07 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Rafael Pérez de León (1896-1958) pertenece a la llamada Generación de 1920."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy sábado 7 de noviembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-7-de-noviembre-de-2026/",
-      "fecha": "Sat, 07 Nov 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La terquedad de la memoria",
-      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/la-terquedad-de-la-memoria/",
-      "fecha": "Sat, 07 Nov 2026 06:00:00 +0000",
-      "categoria": "Plumas invitadas",
-      "resumen": "Los enormes barriletes engalanan el paisaje y llenan el espacio de colores y algarabía."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Diputado Julio Portillo sufrió múltiples heridas de bala en el rostro y el cráneo, revela el Hospital de Zacapa",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/diputado-julio-portillo-sufrio-multiples-heridas-de-bala-en-el-rostro-y-el-craneo-revela-el-hospital-de-zacapa-breaking/",
-      "fecha": "Sat, 07 Nov 2026 05:47:04 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Autoridades del Hospital Regional de Zacapa revelaron que el diputado Julio César Portillo Paz sufrió múltiples heridas de bala, principalmente en el rostro y el cráneo, que y provocaron su fallecimiento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién era Julio Portillo, el diputado que murió tras emboscada en Zacapa junto a tres policías?",
-      "link": "https://www.prensalibre.com/guatemala/politica/quien-era-julio-portillo-el-diputado-que-murio-tras-emboscada-en-zacapa-junto-a-tres-policias-breaking/",
-      "fecha": "Sat, 07 Nov 2026 05:23:14 +0000",
-      "categoria": "Política",
-      "resumen": "El diputado Julio Portillo murió tras un ataque armado en Zacapa, en el que también fallecieron tres policías. Conozca su trayectoria política, los partidos a los que perteneció y los señalamientos que enfrentó."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por segundo año consecutivo el Mejor Banco de Guatemala",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/por-segundo-ano-consecutivo-el-mejor-banco-de-guatemala/",
-      "fecha": "Sat, 07 Nov 2026 04:14:47 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Por su destacado desempeño financiero, su innovación en servicios financieros y su contribución al fortalecimiento del sistema financiero y al desarrollo económico y social del país, BANRURAL fue reconocido por segundo año consecutivo como el Mejor Banco de Guatemala 2026 por la revista internacional LatinFinance."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guastatoya no perdona y golea a Suchitepéquez para escalar al segundo puesto del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guastatoya-no-perdona-y-golea-a-suchitepequez-para-escalar-al-segundo-puesto-del-apertura-2026-breaking/",
-      "fecha": "Sat, 07 Nov 2026 04:03:59 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El conjunto pecho amarillo rompió una racha de seis partidos sin ganar al imponerse 4-0 en el estadio David Cordón Hichos, mientras los venados continúan en el último lugar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Identifican a los agentes de la PNC que murieron durante el ataque armado contra el diputado Julio Portillo en Zacapa",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/identifican-a-los-agentes-de-la-pnc-que-murieron-durante-el-ataque-armado-contra-el-diputado-julio-portillo-en-zacapa-breaking/",
-      "fecha": "Sat, 07 Nov 2026 03:38:23 +0000",
-      "categoria": "Sucesos",
-      "resumen": "La presidenta en funciones, Kerin Herrera, reveló los nombres de los tres agentes de la PNC que murieron durante el ataque armado contra la caravana del diputado Julio César Portillo, en Zacapa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las obras de Miguel Ángel Asturias que marcaron su legado literario",
-      "link": "https://www.prensalibre.com/vida/escenario/las-obras-de-miguel-angel-asturias-que-marcaron-su-legado-literario/",
-      "fecha": "Sat, 07 Nov 2026 02:07:50 +0000",
-      "categoria": "Escenario",
-      "resumen": "Miguel Ángel Asturias, Premio Nobel de Literatura de 1967, dejó un amplio legado literario. Conozca algunas de sus obras más destacadas, entre novelas, poemas, cuentos y otras publicaciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Other Worlds: A Stranger Things Adventure&#8221; la nueva precuela que Netflix prepara",
-      "link": "https://www.prensalibre.com/vida/escenario/other-worlds-a-stranger-things-adventure-la-nueva-precuela-que-netflix-prepara/",
-      "fecha": "Sat, 07 Nov 2026 01:45:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Se trata del cuarto proyecto ambientado en el universo Stranger Things desde que finalizó la serie original a finales del año pasado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cómo se encuentra Mon Laferte después de recibir un golpe en el rostro?",
-      "link": "https://www.prensalibre.com/vida/escenario/como-se-encuentra-mon-laferte-despues-de-recibir-un-golpe-en-el-rostro/",
-      "fecha": "Sat, 07 Nov 2026 01:14:55 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante chilena fue lastimada con un celular durante un concierto en Las Vegas, Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arrestan a inmigrante venezolano armado cerca de la Casa Blanca que amenazaba con atentar contra Trump, según las autoridades",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/arrestan-a-inmigrante-venezolano-armado-cerca-de-la-casa-blanca-que-amenazaba-con-atentar-contra-trump-segun-las-autoridades/",
-      "fecha": "Sat, 07 Nov 2026 01:02:08 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "\"Cuando lo confrontaron, el hombre dijo que escuchaba voces en su cabeza que le ordenaban viajar a Washington DC para matar al presidente Trump\", informó el Departamento de Seguridad Nacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En vivo: Guastatoya vs. Suchitepéquez, sigue el minuto a minuto del encuentro por la fecha 19 del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guastatoya-vs-suchitepequez-sigue-el-minuto-a-minuto-del-encuentro-por-la-fecha-19-del-apertura-2026/",
-      "fecha": "Sat, 07 Nov 2026 01:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La  jornada 19 del Apertura 2026 se pone en marcha este viernes con el duelo entre Guastatoya y Suchitepéquez en el estadio David Cordón Hichos."
     },
     {
       "fuente": "Guatemala.com",
