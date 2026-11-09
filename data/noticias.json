@@ -1,7 +1,143 @@
 {
-  "actualizado": "2026-11-09T01:31:54.161Z",
+  "actualizado": "2026-11-09T09:29:08.301Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Covial llega a la recta final del 2026 con apenas el 13.85% de su meta vial",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/covial-llega-a-la-recta-final-del-2026-con-apenas-el-14-32-de-su-meta-vial/",
+      "fecha": "Mon, 09 Nov 2026 06:20:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "A menos de dos meses de que concluya el 2026, la Dirección General de Caminos (Caminos) y la Unidad Ejecutora de Conservación Vial (Covial) registran una ejecución presupuestaria inferior al 60%, con más de Q2 mil 41 millones sin utilizar y varias obras viales que podrían quedar inconclusas al finalizar el año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Elecciones 2027: Al menos 13 partidos presentarán a candidatos presidenciales antes de terminar el año",
+      "link": "https://www.prensalibre.com/guatemala/politica/elecciones-2027-al-menos-13-partidos-presentaran-a-candidatos-presidenciales-antes-de-terminar-el-ano/",
+      "fecha": "Mon, 09 Nov 2026 06:12:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Analistas apuntan que los candidatos presidenciales enfocarán su oferta de campaña en replicar la política de seguridad de Nayib Bukele de El Salvador."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entrevista con Carlos Ortiz Ortiz: Sicom busca más recursos para investigar prácticas anticompetitivas en el 2027",
+      "link": "https://www.prensalibre.com/economia/entrevista-con-carlos-ortiz-ortiz-sicom-busca-mas-recursos-para-investigar-practicas-anticompetitivas-en-el-2027/",
+      "fecha": "Mon, 09 Nov 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La Superintendencia de Competencia busca fortalecer su presupuesto y equipos técnicos para comenzar a investigar prácticas anticompetitivas en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Exigencias",
+      "link": "https://www.prensalibre.com/opinion/caricatura/exigencias-2/",
+      "fecha": "Mon, 09 Nov 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asesinato de diputado suma presión al Ejecutivo",
+      "link": "https://www.prensalibre.com/opinion/editorial/asesinato-de-diputado-suma-presion-al-ejecutivo/",
+      "fecha": "Mon, 09 Nov 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "De cara al próximo proceso electoral, este grave suceso agrega una fuerte dosis de incertidumbre y temor a la posibilidad de más violencia, por pugnas de poder y cuotas de dominio político, no solo en Zacapa, sino en otras regiones del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Solo 10% de la población ha vivido un terremoto",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/solo-10-de-la-poblacion-ha-vivido-un-terremoto/",
+      "fecha": "Mon, 09 Nov 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Los numerosos sismos de estas semanas demuestran la proximidad de un terremoto como el del 4 de febrero de 1976."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ucrania espera más apoyo de EE. UU. tras victoria demócrata, mientras Trump negocia con Putin",
+      "link": "https://www.prensalibre.com/internacional/ucrania-espera-mas-apoyo-de-ee-uu-tras-victoria-democrata-mientras-trump-negocia-con-putin/",
+      "fecha": "Mon, 09 Nov 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Volodímir Zelenski confía en obtener más ayuda militar y financiera del Congreso estadounidense, aunque las decisiones diplomáticas siguen en manos del presidente Donald Trump."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ciberseguridad que deja vacíos jurídicos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/ciberseguridad-que-deja-vacios-juridicos/",
+      "fecha": "Mon, 09 Nov 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Una ley que no da certeza es mejor vetarla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "No al Presupuesto 2027",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/no-al-presupuesto-2027/",
+      "fecha": "Mon, 09 Nov 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El proyecto aumenta el gasto y la deuda sin aclarar qué servicios mejorarán para la población."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Para qué los consejos de Desarrollo?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/para-que-los-consejos-de-desarrollo/",
+      "fecha": "Mon, 09 Nov 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El valor de una obra se comprueba cuando se va el contratista."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ambiente para los extremismos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/ambiente-para-los-extremismos/",
+      "fecha": "Mon, 09 Nov 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La coercibilidad de la ley ha dado paso a los atajos a la ley."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy lunes 9 de noviembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-9-de-noviembre-de-2026/",
+      "fecha": "Mon, 09 Nov 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las imágenes satelitales que muestran importantes obras de construcción cerca de las bases de misiles de Irán",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-imagenes-satelitales-que-muestran-importantes-obras-de-construccion-cerca-de-las-bases-de-misiles-de-iran/",
+      "fecha": "Mon, 09 Nov 2026 04:11:47 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las imágenes satelitales tomadas en noviembre sugieren indicios de excavaciones y nuevas construcciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "León XIV reclama justicia social en Argentina y pone el foco en los sectores vulnerables ante las políticas de Milei",
+      "link": "https://www.prensalibre.com/internacional/leon-xiv-reclama-justicia-social-en-argentina-y-pone-el-foco-en-los-sectores-vulnerables-ante-las-politicas-de-milei/",
+      "fecha": "Mon, 09 Nov 2026 02:34:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "El papa León XIV pidió justicia social y mayor protección para los sectores vulnerables durante su visita a Argentina, en un mensaje que contrasta con las políticas de ajuste económico de Javier Milei."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¡Líder absoluto! Antigua vence 2-0 a Malacateco y mantiene el paso firme en el Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/lider-absoluto-antigua-vence-2-0-a-malacateco-y-mantiene-el-paso-firme-en-el-apertura-2026-breaking/",
+      "fecha": "Mon, 09 Nov 2026 01:57:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Con goles de Agustín Maziero y Juan Francisco Apaolaza, los coloniales vencieron a los toros en el estadio Pensativo y se mantienen en solitario en la cima del Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump califica de “gigantesco paso atrás” la derrota republicana en el Congreso y promete regresar con más fuerza",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/trump-califica-de-gigantesco-paso-atras-la-derrota-republicana-en-el-congreso-y-promete-regresar-con-mas-fuerza/",
+      "fecha": "Mon, 09 Nov 2026 01:34:15 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Donald Trump criticó los resultados de las elecciones legislativas del 3 de noviembre, en las que los demócratas lograron el control del Congreso, y prometió una recuperación de su partido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una mujer lo atrajo con engaños y un hombre lo torturó: así fue el ataque contra un adulto mayor en Estados Unidos",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/una-mujer-lo-atrajo-con-enganos-y-un-hombre-lo-torturo-asi-fue-el-ataque-contra-un-adulto-mayor-en-estados-unidos/",
+      "fecha": "Mon, 09 Nov 2026 01:26:12 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Un hombre de 81 años fue víctima de un ataque en Maryland, donde dos personas presuntamente planificaron retenerlo y obligarlo a revelar la combinación de una caja fuerte."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Joven apuñalada mientras entrenaba para el Maratón de Nueva York salva cuatro vidas con sus órganos",
@@ -665,142 +801,6 @@
       "fecha": "Sat, 07 Nov 2026 17:53:39 +0000",
       "categoria": "Comunitario",
       "resumen": "Más de 50 países han recomendado preparar kits de emergencia ante distintos escenarios de riesgo. Guatemala también promueve la mochila de las 72 horas y la Conred explica qué debe contener y por qué es importante tenerla lista."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Plata para Guatemala en Dakar 2026: Cristián Tejada brilla en el salto ecuestre",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/plata-para-guatemala-en-dakar-2026-cristian-tejada-brilla-en-el-salto-ecuestre-breaking/",
-      "fecha": "Sat, 07 Nov 2026 17:11:16 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El jinete guatemalteco de 17 años ganó plata por equipos y se posicionó como cuarto mejor del mundo. La delegación nacional aún tiene competencias en gimnasia, boxeo y marcha hasta el 13 de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala celebra la beatificación de fray Augusto Ramírez Monasterio, 43 años después de su martirio",
-      "link": "https://www.prensalibre.com/vida/escenario/guatemala-celebra-la-beatificacion-de-fray-augusto-ramirez-monasterio-43-anos-despues-de-su-martirio/",
-      "fecha": "Sat, 07 Nov 2026 17:07:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La Iglesia católica proclamó beato al sacerdote franciscano fray Augusto Rafael Ramírez Monasterio, asesinado el 7 de noviembre de 1983 por mantenerse fiel a su compromiso sacerdotal y proteger el secreto de confesión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Julio Portillo: helicóptero con capacidad de vuelo nocturno llegó a Zacapa, pero no pudo trasladar al diputado",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-julio-portillo-helicoptero-con-capacidad-de-vuelo-nocturno-llego-a-zacapa-pero-no-pudo-trasladar-al-diputado/",
-      "fecha": "Sat, 07 Nov 2026 17:05:18 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Un helicóptero llegó a Zacapa para trasladar al diputado Julio Portillo a la capital, pero por la gravedad de las heridas no fue posible. El hospital continúa bajo resguardo de la PNC."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga Nacional: los equipos con más bajas por la Selección antes del cierre del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-los-equipos-con-mas-bajas-por-la-seleccion-antes-del-cierre-del-apertura-2026-breaking/",
-      "fecha": "Sat, 07 Nov 2026 16:27:02 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Municipal, con siete convocados, y Antigua GFC, con cinco, son los clubes que más jugadores aportan a la Selección para enfrentar a Canadá, en el tramo final de la clasificación del torneo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presidente Bernardo Arévalo repudia en redes sociales la muerte del diputado Julio Portillo y de tres agentes de la PNC",
-      "link": "https://www.prensalibre.com/guatemala/politica/presidente-bernardo-arevalo-repudia-en-redes-sociales-la-muerte-del-diputado-julio-portillo-y-de-tres-agentes-de-la-pnc/",
-      "fecha": "Sat, 07 Nov 2026 16:19:02 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Algunos usuarios que han comentado la publicación del presidente critican la manera en que la administración de Arévalo maneja los temas de seguridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Con la elección de Stephen Miller como jefe de gabinete, Trump se prepara para una batalla",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/con-la-eleccion-de-stephen-miller-como-jefe-de-gabinete-trump-se-prepara-para-una-batalla/",
-      "fecha": "Sat, 07 Nov 2026 16:09:23 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El nombramiento de Miller, un ferviente partidista leal, como nuevo jefe de gabinete del presidente estadounidense, probablemente provocará enfrentamientos con el Congreso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es &#8220;el Tigre&#8221; y cuáles son sus vínculos con los Zetas y el narcotráfico en Guatemala?",
-      "link": "https://www.prensalibre.com/guatemala/quien-es-el-tigre-y-cuales-son-sus-vinculos-con-los-zetas-y-el-narcotrafico-en-guatemala/",
-      "fecha": "Sat, 07 Nov 2026 16:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Los antecedente del guatemalteco Horst Walther Overdick, quien ha sido capturado nuevamente por vínculos con el narcotráfico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Julio Portillo: videos muestran escena del crimen con cuatro vehículos y más de 50 indicios balísticos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-julio-portillo-videos-muestran-escena-del-crimen-con-cuatro-vehiculos-y-mas-de-50-indicios-balisticos/",
-      "fecha": "Sat, 07 Nov 2026 15:30:27 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Videos muestran cómo fiscales procesan la escena del ataque contra el diputado Julio Portillo, donde hallaron más de 50 indicios balísticos. La PNC confirmó  que se usaron fusiles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los videos de la aparición &#8220;sorpresa&#8221; de Ricardo Arjona en un parque de Mérida, Yucatán",
-      "link": "https://www.prensalibre.com/vida/escenario/los-videos-de-la-aparicion-sorpresa-de-ricardo-arjona-en-un-parque-de-merida-yucatan/",
-      "fecha": "Sat, 07 Nov 2026 15:00:32 +0000",
-      "categoria": "Escenario",
-      "resumen": "Ricardo Arjona se volvió viral en redes al aparecer junto a otros músicos en el parque San Juan en Mérida, Yucatán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC captura a cuarto presunto integrante de la banda “Los Tigres”, vinculada a Horst Walter Overdick alias “El Tigre”",
-      "link": "https://www.prensalibre.com/guatemala/justicia/pnc-captura-a-cuarto-presunto-integrante-de-la-banda-los-tigres-vinculada-a-horst-walter-overdick-alias-el-tigre/",
-      "fecha": "Sat, 07 Nov 2026 14:40:34 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El nuevo detenido fue identificado como Yishini “N” de 49 años y se presume que su rol dentro de la estructura criminal era coordinar la entrega de droga."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mundial 2030: Fifa visita los estadios de Portugal y revisa los preparativos del torneo",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mundial-2030-fifa-visita-los-estadios-de-portugal-y-revisa-los-preparativos-del-torneo/",
-      "fecha": "Sat, 07 Nov 2026 13:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La Fifa concluyó su ronda de inspecciones en Portugal como parte de los preparativos para el Mundial 2030, recorriendo los estadios Do Dragão, José Alvalade y Da Luz, sedes que albergarán encuentros del torneo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cultura adjudica más de Q714 mil en atención y transporte para muestra teatral en Chiquimula",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/cultura-adjudica-mas-de-q714-mil-en-atencion-y-transporte-para-muestra-teatral-en-chiquimula/",
-      "fecha": "Sat, 07 Nov 2026 13:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La contratación de hospedaje y alimentación se adjudicó directamente luego de que el proceso de selección no recibiera ofertas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO: ¡Guatemala tiene nuevo beato!  Augusto Ramírez Monasterio, presbítero",
-      "link": "https://www.prensalibre.com/vida/escenario/en-vivo-beatificacion-de-fray-augusto-ramirez-monasterio/",
-      "fecha": "Sat, 07 Nov 2026 11:59:30 +0000",
-      "categoria": "Escenario",
-      "resumen": "Este sábado se celebró la ceremonia de beatificación en la finca Florencia y una procesión recorrió  la Antigua Guatemala con una reliquia del beato Augusto Ramírez Monasterio, la cual quedó expuesta en el templo de San Francisco El Grande para veneración."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué pasó en la isla noruega que quiso abolir el tiempo",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/que-paso-en-la-isla-noruega-que-quiso-abolir-el-tiempo/",
-      "fecha": "Sat, 07 Nov 2026 10:59:59 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Siete años después de que un extraño plan para abolir el tiempo acaparara los titulares, ¿cómo es realmente la vida en esta remota isla del Ártico?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Más de 3,500 estudiantes fortalecen su compromiso con el Lago de Atitlán",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/mas-de-3500-estudiantes-fortalecen-su-compromiso-con-el-lago-de-atitlan/",
-      "fecha": "Sat, 07 Nov 2026 07:47:39 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "El programa “Educando para Conservar”, una iniciativa de educación ambiental contextualizada que busca promover la protección del Lago de Atitlán y la conservación de los recursos naturales y culturales de Sololá, concluyó exitosamente el ciclo 2026 beneficiando a 3,514 estudiantes, 171 docentes y directores y 50 centros educativos de los niveles de primaria, básico y diversificado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Verificar las firmas de las solicitudes de reformas a la Constitución dividen criterios legales",
-      "link": "https://www.prensalibre.com/guatemala/politica/verificar-las-firmas-de-las-solicitudes-de-reformas-a-la-constitucion-dividen-criterios-legales/",
-      "fecha": "Sat, 07 Nov 2026 06:20:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La CC ordenó al Congreso verificar que cada nombre y firma en las peticiones sea legible, que se trate de ciudadanos empadronados, y que los datos sean de personas vivas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala y Alemania: embajadora destaca comercio, inversiones y demanda de trabajadores",
-      "link": "https://www.prensalibre.com/economia/guatemala-y-alemania-embajadora-destaca-comercio-inversiones-y-demanda-de-trabajadores/",
-      "fecha": "Sat, 07 Nov 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La embajadora de la República Federal de Alemania, Friederike Hellner, aseguró que Guatemala es un socio estratégico, con más de 200 años de relaciones comerciales y una creciente demanda de productos agrícolas, maquinaria y equipo."
     },
     {
       "fuente": "Guatemala.com",
