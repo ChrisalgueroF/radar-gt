@@ -1,7 +1,199 @@
 {
-  "actualizado": "2026-11-10T12:21:59.924Z",
+  "actualizado": "2026-11-10T20:22:08.794Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De California hasta Jalisco: Así terminó la búsqueda de &#8220;Beto el Mexa&#8221;, objetivo del FBI",
+      "link": "https://www.prensalibre.com/internacional/de-california-hasta-jalisco-asi-termino-la-busqueda-de-beto-el-mexa-objetivo-del-fbi/",
+      "fecha": "Tue, 10 Nov 2026 19:52:28 +0000",
+      "categoria": "Internacional",
+      "resumen": "\"Beto el Mexa\" presuntamente confundió al padre de trillizos con un ladrón de vehículos y lo atacó en California junto con otros dos presuntos cómplices."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Los gigantes no existen” llega a la Sala de Cine del Centro Cultural de España en Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/los-gigantes-no-existen-llega-a-la-sala-de-cine-del-centro-cultural-de-espana-en-guatemala/",
+      "fecha": "Tue, 10 Nov 2026 18:18:23 +0000",
+      "categoria": "Escenario",
+      "resumen": "La película relata la historia de un niño que vive un drama durante la guerra y los dilemas morales que se mueven a su alrededor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Se lo hicieron a Donald Trump y fracasaron”: Pete Hegseth rechaza el intento de destitución",
+      "link": "https://www.prensalibre.com/internacional/se-lo-hicieron-a-donald-trump-y-fracasaron-pete-hegseth-rechaza-el-intento-de-destitucion/",
+      "fecha": "Tue, 10 Nov 2026 18:15:59 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las acusaciones incluyen la conducción de la guerra contra Irán sin autorización, las operaciones en Yemen y la captura de Maduro en Venezuela."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Estoy muy preocupado porque no tengo noticias de mi dinero&#8221;: los millones de paraguayos afectados por la crisis del Ueno Bank que aún esperan la devolución de sus ahorros",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/estoy-muy-preocupado-porque-no-tengo-noticias-de-mi-dinero-los-millones-de-paraguayos-afectados-por-la-crisis-del-ueno-bank-que-aun-esperan-la-devolucion-de-sus-ahorros/",
+      "fecha": "Tue, 10 Nov 2026 18:01:12 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las autoridades aseguran que ya han devuelto sus ahorros a muchos de los clientes de Ueno Bank, pero todavía quedan grandes cantidades por reembolsar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "CC suspende provisionalmente la instalación de limitadores de velocidad en Guatemala y la DGT anuncia acciones legales",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/cc-suspende-provisionalmente-la-instalacion-de-limitadores-de-velocidad-en-guatemala-y-la-dgt-anuncia-acciones-legales-breaking/",
+      "fecha": "Tue, 10 Nov 2026 17:16:45 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Según la Dirección General de Transportes, más de 35 mil vehículos en Guatemala cuentan con el sistema limitador de velocidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Agua Mágica: tribunal autoriza a Roxana Baldetti el uso de dispositivo de control telemático",
+      "link": "https://www.prensalibre.com/guatemala/caso-agua-magica-tribunal-autoriza-a-roxana-baldetti-el-uso-de-dispositivo-de-control-telematico-breaking/",
+      "fecha": "Tue, 10 Nov 2026 16:38:31 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Tribunal autoriza control telemático a Baldetti en el caso Agua Mágica, pero un juez le revoca el permiso para permanecer en su residencia por otro proceso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De pastor a detenido por presuntos vínculos con la Mara 18: El caso que se investiga en Honduras",
+      "link": "https://www.prensalibre.com/internacional/de-pastor-a-detenido-por-presuntos-vinculos-con-la-mara-18-el-caso-que-se-investiga-en-honduras/",
+      "fecha": "Tue, 10 Nov 2026 16:34:22 +0000",
+      "categoria": "Internacional",
+      "resumen": "El sospechoso presuntamente utilizaba su apariencia de pastor evangélico como fachada para ocultar sus vínculos delictivos con la mara Barrio 18."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hijo de Arnold Schwarzenegger y de madre guatemalteca destaca en su primera competencia profesional de culturismo natural",
+      "link": "https://www.prensalibre.com/vida/escenario/hijo-de-arnold-schwarzenegger-y-de-madre-guatemalteca-destaca-en-su-primera-competencia-profesional-de-culturismo-natural/",
+      "fecha": "Tue, 10 Nov 2026 16:16:48 +0000",
+      "categoria": "Escenario",
+      "resumen": "El joven atleta clasificó entre los cinco mejores de su categoría y recordó el impulso que le ha dado su padre, Arnold Schwarzenegger, en esta disciplina."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué Canadá concentra a sus estrellas en México antes de visitar a Guatemala en la Liga de Naciones?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/por-que-canada-concentra-a-sus-estrellas-en-mexico-antes-de-visitar-a-guatemala-en-la-liga-de-naciones-breaking/",
+      "fecha": "Tue, 10 Nov 2026 16:07:40 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Alphonso Davies, Jonathan David y Tajon Buchanan ya se encuentran a pocos kilómetros de territorio guatemalteco, donde preparan su estrategia para los cuartos de final."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Amenazas de Irán? Por qué EE. UU. retiró sus aviones de una base británica",
+      "link": "https://www.prensalibre.com/internacional/amenazas-de-iran-por-que-ee-uu-retiro-sus-aviones-de-una-base-britanica/",
+      "fecha": "Tue, 10 Nov 2026 15:58:32 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un reportaje de The Wall Street Journal informó que EE. UU. retiró varios de sus aviones de una base aérea de Inglaterra debido a una amenaza de Irán."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "El Zoológico La Aurora busca voluntarios para este 2026",
+      "link": "https://www.guatemala.com/noticias/sociedad/voluntariado-zoologico-la-aurora-2026-inscripciones.html",
+      "fecha": "Tue, 10 Nov 2026 15:58:25 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Ya abrieron las inscripciones al voluntariado en el Zoológico La Aurora 2026, un programa para aprender sobre los animales y la conservación.\nThe post El Zoológico La Aurora busca voluntarios para este 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Identifican a presuntos sicarios por el asesinato de Lesly Lucrecia Pulex, de 18 años, tras allanamientos contra el Barrio 18",
+      "link": "https://www.prensalibre.com/guatemala/justicia/identifican-a-presuntos-sicarios-por-el-asesinato-de-lesly-lucrecia-pulex-de-18-anos-tras-allanamientos-contra-el-barrio-18/",
+      "fecha": "Tue, 10 Nov 2026 15:35:23 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Allanan viviendas del asentamiento Candelaria y las colonias El Limón y Juana de Arco, vinculadas con \"El Inquieto\" y \"Lobo\", investigados por el asesinato de la joven."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El guatemalteco Amarini Villatoro protagoniza emotivo video de Cartaginés para llenar su casa en la final de la Copa Centroamericana",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/amarini-villatoro-video-cartagines-final-copa-centroamericana-breaking/",
+      "fecha": "Tue, 10 Nov 2026 15:14:01 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "\"Esta casa se llena con nuestra afición\" y \"Nuestra casa es azul\" son parte del mensaje con el que el guatemalteco busca movilizar a los aficionados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Insivumeh registra temblor de magnitud 5.2 este 10 de noviembre en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-10-de-noviembre-de-2026-en-guatemala-breaking/",
+      "fecha": "Tue, 10 Nov 2026 15:08:54 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Insivumeh reporta temblor en Guatemala este martes 10 de noviembre. Sismo fue sensible en varios puntos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP y PNC investigan a Los Coyotes y Los Mamás por robos, sicariato y narcotráfico",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mp-y-pnc-investigan-a-los-coyotes-y-los-mamas-por-robos-sicariato-y-narcotrafico/",
+      "fecha": "Tue, 10 Nov 2026 15:05:19 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Una denuncia por el robo de un vehículo en Cobán: así habría comenzado la investigación contra más de 40 sospechosos  a quienes las autoridades buscan capturar este martes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga de Naciones de la Concacaf: ¿Qué necesita Guatemala para poder clasificar a las semifinales?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-de-naciones-de-la-concacaf-que-necesita-guatemala-para-poder-clasificar-a-las-semifinales/",
+      "fecha": "Tue, 10 Nov 2026 14:25:29 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Además de buscar la clasificación a las semifinales de la competición, Guatemala y Canadá lucharán por un boleto directo para la Copa Oro 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Localizan a un hombre muerto dentro de un taxi en la zona 19: esto se sabe del hallazgo y el cierre vial",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/localizan-a-un-hombre-muerto-dentro-de-un-taxi-en-la-zona-19-esto-se-sabe-del-hallazgo-y-el-cierre-vial-breaking/",
+      "fecha": "Tue, 10 Nov 2026 14:23:01 +0000",
+      "categoria": "Sucesos",
+      "resumen": "La PMT informa del cierre vial tras el hallazgo de un cadáver en un taxi en la zona 19."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miguel Ángel Asturias, el hombre: el abuelo cómplice e inspirador",
+      "link": "https://www.prensalibre.com/revista-d/asturias-el-hombre-el-abuelo-complice-e-inspirador/",
+      "fecha": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "categoria": "Revista D",
+      "resumen": "Sandino Asturias fue el único nieto al que Miguel Ángel Asturias conoció, pero Miguel Ángel y Rodrigo también portan su legado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué México recauda tan pocos impuestos (y cómo financia su creciente Estado de bienestar)",
+      "link": "https://www.prensalibre.com/guatemala/por-que-mexico-recauda-tan-pocos-impuestos-y-como-financia-su-creciente-estado-de-bienestar/",
+      "fecha": "Tue, 10 Nov 2026 13:52:31 +0000",
+      "categoria": "Guatemala",
+      "resumen": "México es de los países que menos recauda impuestos en América Latina, pero el gasto público es un motor de su consumo interno y arma clave contra la pobreza. Análisis de las “anomalías fiscales” mexicanas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué se sabe del regreso de Vincent Kompany al Bayern Múnich tras sufrir meningitis?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/que-se-sabe-del-regreso-de-vincent-kompany-al-bayern-munich-tras-sufrir-meningitis/",
+      "fecha": "Tue, 10 Nov 2026 13:48:52 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El técnico del Bayern Múnich, Vincent Kompany, vuelve a la ciudad deportiva del club bávaro como parte de su proceso de recuperación tras haber sido hospitalizado por meningitis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Xela en lienzos&#8221;: exposición de 30 artistas quetzaltecos llega a la capital",
+      "link": "https://www.prensalibre.com/vida/escenario/xela-en-lienzos-exposicion-de-30-artistas-quetzaltecos-llega-a-la-capital/",
+      "fecha": "Tue, 10 Nov 2026 13:42:39 +0000",
+      "categoria": "Escenario",
+      "resumen": "La exposición \"Xela en lienzos\" reúne obras de 30 artistas visuales y estará abierta al público en el Inguat, con entrada gratuita."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inflación en Guatemala: por qué bajó a 4.38% en octubre, pese al aumento del precio del gas propano",
+      "link": "https://www.prensalibre.com/economia/inflacion-en-guatemala-por-que-bajo-a-4-38-en-octubre-pese-al-aumento-del-precio-del-gas-propano/",
+      "fecha": "Tue, 10 Nov 2026 13:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "precio de la libra de gas licuado de petróleo (GLP) aumentó 40% entre enero y noviembre del 2026 y fue uno de los productos que incidieron al alza en la inflación de octubre, según el Instituto Nacional de Estadística (INE)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a “Mosh”, yerno de “el Botas” y señalado por EE. UU. como operador de Los Huistas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-mosh-yerno-de-el-botas-y-senalado-por-ee-uu-como-operador-de-los-huistas/",
+      "fecha": "Tue, 10 Nov 2026 13:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Axel Bladimir Montejo Sáenz, alias “Mosh”, yerno de “el Botas”, fue capturado. EE. UU. lo señala como lugartenientes  de Los Huistas en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Panamá vs. Curazao: las siete claves de una serie que también define un boleto a la Copa Oro",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/panama-vs-curazao-las-siete-claves-de-una-serie-que-tambien-define-un-boleto-a-la-copa-oro/",
+      "fecha": "Tue, 10 Nov 2026 13:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Panamá y Curazao se enfrentan por un boleto al Final Four de la Liga de Naciones de Concacaf 2026-2027, en una serie que reúne a dos selecciones mundialistas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Miguel Ángel Asturias, el hombre de familia",
@@ -396,6 +588,14 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Décadas de accidentes fatales: ¿Qué debe cambiar en Guatemala? &#124; El Antecedente",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/decadas-de-accidentes-fatales-que-debe-cambiar-en-guatemala-el-antecedente/",
+      "fecha": "Mon, 09 Nov 2026 20:30:01 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "Infraestructura y legislación deben evolucionar con el crecimiento del parque vehicular en el país. Experto urge política pública para un tema que ven 30 instituciones pero sin un ente rector."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Trump busca una reunión con Putin y Xi Jinping en China: Irán y el desarme nuclear, entre los temas",
       "link": "https://www.prensalibre.com/internacional/trump-busca-una-reunion-con-putin-y-xi-jinping-en-china-iran-y-el-desarme-nuclear-entre-los-temas/",
       "fecha": "Mon, 09 Nov 2026 19:47:15 +0000",
@@ -627,198 +827,6 @@
       "resumen": "Propuesta busca limitar los pagos excesivos a funcionarios por concepto de dietas y gastos de representación."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Estancadas inversiones por Q200 millones en expansión eléctrica por falta de permisos",
-      "link": "https://www.prensalibre.com/economia/estancadas-inversiones-por-q200-millones-en-expansion-electrica-por-falta-de-permisos/",
-      "fecha": "Mon, 09 Nov 2026 10:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "EEGSA advierte que los procesos regulatorios y los plazos para adquirir equipo dificultan la ampliación de la infraestructura eléctrica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Siente que vive en automático? Claves para recuperar el sentido y el propósito de cada día",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/siente-que-vive-en-automatico-claves-para-recuperar-el-sentido-y-el-proposito-de-cada-dia/",
-      "fecha": "Mon, 09 Nov 2026 10:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Encontrar propósito en la vida cotidiana no depende solo de mantener la motivación, sino también de valorar el esfuerzo diario y recordar el sentido de las pequeñas acciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Covial llega a la recta final del 2026 con apenas el 13.85% de su meta vial",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/covial-llega-a-la-recta-final-del-2026-con-apenas-el-14-32-de-su-meta-vial/",
-      "fecha": "Mon, 09 Nov 2026 06:20:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "A menos de dos meses de que concluya el 2026, la Dirección General de Caminos (Caminos) y la Unidad Ejecutora de Conservación Vial (Covial) registran una ejecución presupuestaria inferior al 60%, con más de Q2 mil 41 millones sin utilizar y varias obras viales que podrían quedar inconclusas al finalizar el año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones 2027: Al menos 13 partidos presentarán a candidatos presidenciales antes de terminar el año",
-      "link": "https://www.prensalibre.com/guatemala/politica/elecciones-2027-al-menos-13-partidos-presentaran-a-candidatos-presidenciales-antes-de-terminar-el-ano/",
-      "fecha": "Mon, 09 Nov 2026 06:12:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Analistas apuntan que los candidatos presidenciales enfocarán su oferta de campaña en replicar la política de seguridad de Nayib Bukele de El Salvador."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Entrevista con Carlos Ortiz Ortiz: Sicom busca más recursos para investigar prácticas anticompetitivas en el 2027",
-      "link": "https://www.prensalibre.com/economia/entrevista-con-carlos-ortiz-ortiz-sicom-busca-mas-recursos-para-investigar-practicas-anticompetitivas-en-el-2027/",
-      "fecha": "Mon, 09 Nov 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La Superintendencia de Competencia busca fortalecer su presupuesto y equipos técnicos para comenzar a investigar prácticas anticompetitivas en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Exigencias",
-      "link": "https://www.prensalibre.com/opinion/caricatura/exigencias-2/",
-      "fecha": "Mon, 09 Nov 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinato de diputado suma presión al Ejecutivo",
-      "link": "https://www.prensalibre.com/opinion/editorial/asesinato-de-diputado-suma-presion-al-ejecutivo/",
-      "fecha": "Mon, 09 Nov 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "De cara al próximo proceso electoral, este grave suceso agrega una fuerte dosis de incertidumbre y temor a la posibilidad de más violencia, por pugnas de poder y cuotas de dominio político, no solo en Zacapa, sino en otras regiones del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Solo 10% de la población ha vivido un terremoto",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/solo-10-de-la-poblacion-ha-vivido-un-terremoto/",
-      "fecha": "Mon, 09 Nov 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Los numerosos sismos de estas semanas demuestran la proximidad de un terremoto como el del 4 de febrero de 1976."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ucrania espera más apoyo de EE. UU. tras victoria demócrata, mientras Trump negocia con Putin",
-      "link": "https://www.prensalibre.com/internacional/ucrania-espera-mas-apoyo-de-ee-uu-tras-victoria-democrata-mientras-trump-negocia-con-putin/",
-      "fecha": "Mon, 09 Nov 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Volodímir Zelenski confía en obtener más ayuda militar y financiera del Congreso estadounidense, aunque las decisiones diplomáticas siguen en manos del presidente Donald Trump."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ciberseguridad que deja vacíos jurídicos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/ciberseguridad-que-deja-vacios-juridicos/",
-      "fecha": "Mon, 09 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Una ley que no da certeza es mejor vetarla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "No al Presupuesto 2027",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/no-al-presupuesto-2027/",
-      "fecha": "Mon, 09 Nov 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El proyecto aumenta el gasto y la deuda sin aclarar qué servicios mejorarán para la población."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Para qué los consejos de Desarrollo?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/para-que-los-consejos-de-desarrollo/",
-      "fecha": "Mon, 09 Nov 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El valor de una obra se comprueba cuando se va el contratista."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ambiente para los extremismos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/ambiente-para-los-extremismos/",
-      "fecha": "Mon, 09 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La coercibilidad de la ley ha dado paso a los atajos a la ley."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy lunes 9 de noviembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-9-de-noviembre-de-2026/",
-      "fecha": "Mon, 09 Nov 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las imágenes satelitales que muestran importantes obras de construcción cerca de las bases de misiles de Irán",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/las-imagenes-satelitales-que-muestran-importantes-obras-de-construccion-cerca-de-las-bases-de-misiles-de-iran/",
-      "fecha": "Mon, 09 Nov 2026 04:11:47 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las imágenes satelitales tomadas en noviembre sugieren indicios de excavaciones y nuevas construcciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "León XIV reclama justicia social en Argentina y pone el foco en los sectores vulnerables ante las políticas de Milei",
-      "link": "https://www.prensalibre.com/internacional/leon-xiv-reclama-justicia-social-en-argentina-y-pone-el-foco-en-los-sectores-vulnerables-ante-las-politicas-de-milei/",
-      "fecha": "Mon, 09 Nov 2026 02:34:45 +0000",
-      "categoria": "Internacional",
-      "resumen": "El papa León XIV pidió justicia social y mayor protección para los sectores vulnerables durante su visita a Argentina, en un mensaje que contrasta con las políticas de ajuste económico de Javier Milei."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¡Líder absoluto! Antigua vence 2-0 a Malacateco y mantiene el paso firme en el Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/lider-absoluto-antigua-vence-2-0-a-malacateco-y-mantiene-el-paso-firme-en-el-apertura-2026-breaking/",
-      "fecha": "Mon, 09 Nov 2026 01:57:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Con goles de Agustín Maziero y Juan Francisco Apaolaza, los coloniales vencieron a los toros en el estadio Pensativo y se mantienen en solitario en la cima del Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump califica de “gigantesco paso atrás” la derrota republicana en el Congreso y promete regresar con más fuerza",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/trump-califica-de-gigantesco-paso-atras-la-derrota-republicana-en-el-congreso-y-promete-regresar-con-mas-fuerza/",
-      "fecha": "Mon, 09 Nov 2026 01:34:15 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Donald Trump criticó los resultados de las elecciones legislativas del 3 de noviembre, en las que los demócratas lograron el control del Congreso, y prometió una recuperación de su partido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una mujer lo atrajo con engaños y un hombre lo torturó: así fue el ataque contra un adulto mayor en Estados Unidos",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/una-mujer-lo-atrajo-con-enganos-y-un-hombre-lo-torturo-asi-fue-el-ataque-contra-un-adulto-mayor-en-estados-unidos/",
-      "fecha": "Mon, 09 Nov 2026 01:26:12 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Un hombre de 81 años fue víctima de un ataque en Maryland, donde dos personas presuntamente planificaron retenerlo y obligarlo a revelar la combinación de una caja fuerte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Joven apuñalada mientras entrenaba para el Maratón de Nueva York salva cuatro vidas con sus órganos",
-      "link": "https://www.prensalibre.com/internacional/joven-apunalada-mientras-entrenaba-para-el-maraton-de-nueva-york-salva-cuatro-vidas-con-sus-organos/",
-      "fecha": "Mon, 09 Nov 2026 00:45:56 +0000",
-      "categoria": "Internacional",
-      "resumen": "Katie Suárez, de 28 años, murió tras ser apuñalada mientras corría en Brooklyn, pero la donación de sus órganos permitió salvar cuatro vidas mediante trasplantes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Música, humor y espíritu navideño: así vivieron los suscriptores de Prensa Libre &#8220;Los fantasmas de Scrooge&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/musica-humor-y-espiritu-navideno-asi-vivieron-los-suscriptores-de-prensa-libre-los-fantasmas-de-scrooge/",
-      "fecha": "Mon, 09 Nov 2026 00:45:04 +0000",
-      "categoria": "Escenario",
-      "resumen": "Cerca de 300 personas disfrutaron de una función especial de teatro que marcó el inicio de la temporada navideña, con una historia llena de magia, música y emoción."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo preparar una receta de filete de pescado en salsa beurre blanc",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/como-preparar-una-receta-de-filete-de-pescado-en-salsa-beurre-blanc/",
-      "fecha": "Mon, 09 Nov 2026 00:30:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Prepare este delicioso platillo utilizando la técnica beurre monté, que consiste en  emulsionar  mantequilla  para obtener una exquisita salsa cremosa, estable y deliciosa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Convocan a votación para elegir el emblema de Quetzal-2, el segundo satélite guatemalteco",
-      "link": "https://www.prensalibre.com/vida/tecnologia/convocan-a-votacion-para-elegir-el-emblema-de-quetzal-2-el-segundo-satelite-guatemalteco/",
-      "fecha": "Mon, 09 Nov 2026 00:00:00 +0000",
-      "categoria": "Tecnología",
-      "resumen": "El segundo satélite de Guatemala, Quetzal-2, se prepara para llegar al espacio en el 2028, y los guatemaltecos pueden ser parte de su historia, al votar en línea por su diseño favorito, entre tres propuestas que fueron elegidas para participar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala vs. Canadá: Puntos clave sobre los cuartos de final de la Liga de Naciones 2026-27",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-puntos-clave-sobre-los-cuartos-de-final-de-la-liga-de-naciones-2026-27/",
-      "fecha": "Sun, 08 Nov 2026 23:40:15 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El compromiso que se disputará en el recinto deportivo de la zona 7 capitalina marcará el estreno de la Bicolor en los cuartos de final de la Liga de Naciones."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Adelina Castillo se encuentra en Puerto Rico representando a Guatemala en Miss Universe 2026",
       "link": "https://www.guatemala.com/noticias/sociedad/adelina-castillo-encuentra-puerto-rico-participar-miss-universe-2026.html",
@@ -865,14 +873,6 @@
       "fecha": "Wed, 04 Nov 2026 20:02:17 +0000",
       "categoria": "Entretenimiento",
       "resumen": "Revelan detalles del Festival Navideño, mapping, bazares y actividades de la época en el Mapa en Relieve y la Ciudad de Guatemala para este 2026.\nThe post Revelan detalles del Festival Navideño de la Ciudad, Mapping y otras actividades de la época appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Embajada de Estados Unidos inaugura la 13 edición del American Week en la Universidad del Valle",
-      "link": "https://www.guatemala.com/noticias/sociedad/celebran-lazos-guatemala-y-estados-unidos-13-edicion-american-week-uvg.html",
-      "fecha": "Tue, 03 Nov 2026 23:56:34 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Inauguraron la American Week 2026, una semana que celebra los lazos entre Estados Unidos y Guatemala con actividades en la Universidad del Valle.\nThe post Embajada de Estados Unidos inaugura la 13 edición del American Week en la Universidad del Valle appeared first on Guatemala.com."
     }
   ]
 }
