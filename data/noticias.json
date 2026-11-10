@@ -1,7 +1,215 @@
 {
-  "actualizado": "2026-11-09T20:33:34.511Z",
+  "actualizado": "2026-11-10T03:19:35.750Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inauguran nuevo Centro de Canje en Santa Cruz del Quiché",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/inauguran-nuevo-centro-de-canje-en-santa-cruz-del-quiche/",
+      "fecha": "Tue, 10 Nov 2026 02:40:18 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Zeta Gas continúa premiando la preferencia y fidelidad de sus usuarios en Guatemala, con su programa de lealtad Zeta Premia, ahora acerca sus beneficios a más usuarios con la inauguración de un nuevo Centro de Canje en el Centro Comercial Los Celajes, kilómetro 165.5, aldea Chicorral, tercer nivel, local 305, que ofrece instalaciones más amplias y una ubicación estratégica para brindar una experiencia más cómoda y una mayor variedad de productos a sus clientes y usuarios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Drones de la PNC: el primer resultado del plan piloto tras la captura de un presunto asaltante",
+      "link": "https://www.prensalibre.com/guatemala/justicia/drones-de-la-pnc-el-primer-resultado-del-plan-piloto-tras-la-captura-de-un-presunto-asaltante/",
+      "fecha": "Tue, 10 Nov 2026 02:30:52 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC reportó la primera captura con apoyo de drones en la zona 7 capitalina, donde fue localizado un hombre señalado de asaltar a una mujer de 70 años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una celebración diseñada para compartir, celebrar y agradecer",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-celebracion-disenada-para-compartir-celebrar-y-agradecer/",
+      "fecha": "Tue, 10 Nov 2026 02:01:55 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Cerveza Gallo invita a las familias guatemaltecas a reunirse este sábado 14 de noviembre a partir de las 7:00 de la noche en Plaza Obelisco, así como en 33 localidades más a nivel nacional, para disfrutar de un espectáculo que combinará música y luces, en el tradicional Festival Árbol Gallo 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué James Gunn y Peter Safran dejarán la dirección de DC Studios y quién tomará su lugar?",
+      "link": "https://www.prensalibre.com/vida/escenario/por-que-james-gunn-y-peter-safran-dejaran-la-direccion-de-dc-studios-y-quien-tomara-su-lugar/",
+      "fecha": "Tue, 10 Nov 2026 01:47:41 +0000",
+      "categoria": "Escenario",
+      "resumen": "Skydance anunció la salida de James Gunn y Peter Safran de la dirección de DC Studios y nombró a un nuevo responsable para liderar el universo de superhéroes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "William Balz Gallardo se declara culpable en caso Edificio MP y deberá hacer servicio comunitario en Emetra",
+      "link": "https://www.prensalibre.com/guatemala/justicia/william-balz-gallardo-se-declara-culpable-en-caso-edificio-mp-y-debera-hacer-servicio-comunitario-en-emetra-breaking/",
+      "fecha": "Tue, 10 Nov 2026 01:45:40 +0000",
+      "categoria": "Justicia",
+      "resumen": "William Balz Gallardo se declaró culpable de testaferrato en el caso Edificio MP y fue condenado a cuatro años de prisión conmutables. También deberá cumplir 40 horas de trabajo comunitario en Emetra."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Agexport anuncia feria de empleo con más de mil plazas y 300 becas de inglés: cómo participar",
+      "link": "https://www.prensalibre.com/economia/agexport-anuncia-feria-de-empleo-con-mas-de-mil-plazas-y-300-becas-de-ingles-como-participar/",
+      "fecha": "Tue, 10 Nov 2026 01:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La feria laboral, organizada por el Sector de Contact Center &#38; BPO de Agexport, reunirá a 15 empresas que ofrecerán salarios de hasta Q8 mil mensuales, oportunidades para personas sin experiencia y becas de inglés. Conozca los requisitos, la fecha y cómo inscribirse."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Charlie Kirk: cuándo será el juicio contra Tyler Robinson y por qué podría recibir la pena de muerte",
+      "link": "https://www.prensalibre.com/internacional/caso-charlie-kirk-cuando-sera-el-juicio-contra-tyler-robinson-y-por-que-podria-recibir-la-pena-de-muerte/",
+      "fecha": "Tue, 10 Nov 2026 01:20:31 +0000",
+      "categoria": "Internacional",
+      "resumen": "El juicio contra Tyler Robinson, acusado de asesinar a Charlie Kirk, comenzará en junio de 2028 y podría enfrentar la pena de muerte."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué la infidelidad del jefe de Nvidia con una supesta espía china tendrá repercusiones en EE.UU. y más allá",
+      "link": "https://www.prensalibre.com/guatemala/por-que-la-infidelidad-del-jefe-de-nvidia-con-una-supesta-espia-china-tendra-repercusiones-en-ee-uu-y-mas-alla/",
+      "fecha": "Tue, 10 Nov 2026 01:15:17 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Jensen Huang, director de Nvidia, está siendo investigado por su propia empresa por una relación extramatrimonial con una mujer señalada como una espía china."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Precio del galón de gasolina en Guatemala: se reporta nuevas bajas en el promedio del MEM y estaciones",
+      "link": "https://www.prensalibre.com/economia/precio-del-galon-de-gasolina-en-guatemala-se-reporta-nuevas-bajas-en-el-promedio-del-mem-y-estaciones/",
+      "fecha": "Tue, 10 Nov 2026 01:14:57 +0000",
+      "categoria": "Economía",
+      "resumen": "Los precios de referencia del MEM muestran nuevas reducciones en el diésel y las gasolinas. Sin embargo, algunas estaciones registran precios por debajo de esos promedios, según usuarios que compartieron sus datos con Prensa Libre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dana White y Trump: qué ocurrió con la propuesta para convertir al jefe de la UFC en portavoz de la Casa Blanca",
+      "link": "https://www.prensalibre.com/internacional/dana-white-y-trump-que-ocurrio-con-la-propuesta-para-convertir-al-jefe-de-la-ufc-en-portavoz-de-la-casa-blanca/",
+      "fecha": "Tue, 10 Nov 2026 01:08:29 +0000",
+      "categoria": "Internacional",
+      "resumen": "Donald Trump ofreció al presidente de la UFC, Dana White, ser portavoz de la Casa Blanca, pero el empresario rechazó la propuesta y explicó sus razones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Retorno de Miguel Ángel Asturias: Palacio Nacional de la Cultura abrirá sus puertas para las honras fúnebres",
+      "link": "https://www.prensalibre.com/vida/escenario/retorno-de-miguel-angel-asturias-palacio-nacional-de-la-cultura-abrira-sus-puertas-para-las-honras-funebres/",
+      "fecha": "Tue, 10 Nov 2026 00:42:16 +0000",
+      "categoria": "Escenario",
+      "resumen": "A 52 años de su fallecimiento en Europa, los restos del Premio Nobel de Literatura Miguel Ángel Asturias retornarán a Guatemala para ser inhumados. Conozca las actividades abiertas al público para recibirlos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tigres del circo: por qué están en cuarentena, qué hace el Maga para su resguardo y cuándo podrán viajar a África",
+      "link": "https://www.prensalibre.com/guatemala/justicia/tigres-del-circo-por-que-estan-en-cuarentena-que-hace-el-maga-para-su-resguardo-y-cuando-podran-viajar-a-africa/",
+      "fecha": "Tue, 10 Nov 2026 00:28:30 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los siete tigres propiedad de un circo están bajo resguardo del la UBA, pero su traslado a Sudáfrica enfrenta varios desafíos. Una tigresa embarazada, dos ejemplares  están sin registrar y una condición judicial incumplida forman parte de este caso. ¿Qué pasará ahora con los felinos y cuándo podrán viajar?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Disparan contra ocupantes de un vehículo de transporte por aplicación en la zona 18: tres heridos y dos menores ilesos",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/disparan-contra-ocupantes-de-un-vehiculo-de-transporte-por-aplicacion-en-la-zona-18-tres-heridos-y-dos-menores-ilesos-breaking/",
+      "fecha": "Tue, 10 Nov 2026 00:17:02 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Tres personas resultaron heridas y dos menores salieron ilesos de un ataque armado contra los ocupantes de un vehículo en la zona 18. El incidente provocó complicaciones de tránsito en la ruta al Atlántico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Adam Driver interpretará a Mister Sinister en la nueva película de X-Men de Marvel",
+      "link": "https://www.prensalibre.com/vida/escenario/adam-driver-interpretara-a-mister-sinister-en-la-nueva-pelicula-de-x-men-de-marvel/",
+      "fecha": "Tue, 10 Nov 2026 00:01:44 +0000",
+      "categoria": "Escenario",
+      "resumen": "El actor estadounidense revela por qué aceptó sumarse a Marvel en el reinicio de X-Men. Esto dijo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Congreso conocerá 10 objeciones a la Ley de Ciberseguridad y se prepara para aprobar la ley de cine de urgencia nacional",
+      "link": "https://www.prensalibre.com/guatemala/politica/congreso-conocera-10-objeciones-a-la-ley-de-ciberseguridad-y-se-prepara-para-aprobar-la-ley-de-cine-de-urgencia-nacional/",
+      "fecha": "Tue, 10 Nov 2026 00:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "En la sesión en la que fue aprobada la nueva ley bajo el decreto 26-2026 fue cuestionada por ser impulsada de urgencia, con enmiendas sin consenso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Shakira confirma concierto en Guatemala para el 2027: la loba traerá su gira Las Mujeres Ya No Lloran World Tour",
+      "link": "https://www.prensalibre.com/vida/escenario/shakira-confirma-concierto-en-guatemala-para-el-2027-la-loba-traera-su-gira-las-mujeres-ya-no-lloran-world-tour/",
+      "fecha": "Mon, 09 Nov 2026 23:59:59 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante colombiana Shakira regresará a Guatemala para ofrecer a su público un recorrido por su música, desde temas como Hips Don't Lie hasta canciones más recientes como Agua. Esto es lo que se conoce."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿324 mil hectáreas en riesgo? Por qué Donald Trump podrá construir un muro fronterizo en Texas",
+      "link": "https://www.prensalibre.com/internacional/324-mil-hectareas-en-riesgo-por-que-donald-trump-podra-construir-un-muro-fronterizo-en-texas/",
+      "fecha": "Mon, 09 Nov 2026 23:54:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "La Corte Suprema de EE. UU. autorizó a Donald Trump continuar con la construcción de un muro fronterizo en el oeste de Texas, donde está el parque Big Bend."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un congresista republicano inicia el proceso para el &#8220;impeachment&#8221; del secretario de Defensa de EE.UU. por la guerra en Irán",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-congresista-republicano-inicia-el-proceso-para-el-impeachment-del-secretario-de-defensa-de-ee-uu-por-la-guerra-en-iran/",
+      "fecha": "Mon, 09 Nov 2026 22:46:58 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Es probable que el intento fracase, pero el representante Thomas Massie quiere presionar a Trump para que despida a Hegseth antes de que los demócratas puedan iniciar su propio proceso de destitución."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La infidelidad que habría terminado en asesinato: localizan cadáver en Taxisco y esperan análisis del Inacif",
+      "link": "https://www.prensalibre.com/guatemala/justicia/la-infidelidad-que-habria-terminado-en-asesinato-localizan-cadaver-en-taxisco-y-esperan-analisis-del-inacif-breaking/",
+      "fecha": "Mon, 09 Nov 2026 22:37:07 +0000",
+      "categoria": "Justicia",
+      "resumen": "El MP localizó en Taxisco, Santa Rosa, un cadáver que podría ser de Manuel de Jesús Morales López, presunta víctima de “Los Infieles”. El Inacif estima que identificarlo podría tardar entre cuatro y seis semanas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salvadoreños con TPS en EE. UU., denuncian suspensión de sus pensiones: estos son los motivos",
+      "link": "https://www.prensalibre.com/internacional/salvadorenos-con-tps-en-ee-uu-denuncian-suspension-de-sus-pensiones-estos-son-los-motivos/",
+      "fecha": "Mon, 09 Nov 2026 22:17:35 +0000",
+      "categoria": "Internacional",
+      "resumen": "Salvadoreños en EE. UU. y que cuentan con el TPS han informado sobre la suspensión de sus jubilaciones."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "ROWOR F400 en Guatemala: precio, capacidad y características del nuevo camión",
+      "link": "https://www.guatemala.com/noticias/vida/rowor-f400.html",
+      "fecha": "Mon, 09 Nov 2026 22:14:58 +0000",
+      "categoria": "Vida",
+      "resumen": "El ROWOR F400 llega a Guatemala con 2.6 toneladas de carga, palangana de fábrica, motor diésel, seguridad y opciones de financiamiento. \nThe post ROWOR F400 en Guatemala: precio, capacidad y características del nuevo camión appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De su encuentro con Milei a la misa con 2 millones de personas: los momentos del papa León XIV en Argentina",
+      "link": "https://www.prensalibre.com/internacional/de-su-encuentro-con-milei-a-la-misa-con-2-millones-de-personas-los-momentos-del-papa-en-argentina/",
+      "fecha": "Mon, 09 Nov 2026 21:42:41 +0000",
+      "categoria": "Internacional",
+      "resumen": "En su primera misa en Argentina, el papa congregó a 2 millones de personas, la mayor asistencia a una celebración litúrgica de León XIV hasta la fecha."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pete Hegseth: las acusaciones que podrían llevar al jefe del Pentágono a un juicio político en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/por-que-el-jefe-del-pentagono-podria-enfrentar-un-juicio-politico-en-ee-uu-y-cual-fue-su-reaccion/",
+      "fecha": "Mon, 09 Nov 2026 21:10:50 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un congresista republicano abrió un proceso para someter a juicio político al jefe del Pentágono, Pete Hegseth y así buscar su destitución del cargo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "TSE no identifica violencia electoral en el crimen contra el diputado Julio Portillo",
+      "link": "https://www.prensalibre.com/guatemala/politica/tse-no-identifica-violencia-electoral-en-el-crimen-contra-el-diputado-julio-portillo/",
+      "fecha": "Mon, 09 Nov 2026 21:09:39 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Autoridades presentaron la Mesa Nacional de Prevención de la Conflictividad Electoral que busca prevenir escenarios de riesgo en las elecciones 2027."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Agencias guatemaltecas destacan en los Luum Awards 2026, premios a la publicidad con propósito",
+      "link": "https://www.guatemala.com/noticias/sociedad/guatemala-destaca-en-los-luum-awards-2026.html",
+      "fecha": "Mon, 09 Nov 2026 20:59:25 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Agencias Publicidad Comercial MullenLowe y Castillo de If fueron premiadas en los Luum Awards, los premios que celebran la publicidad con propósito.\nThe post Agencias guatemaltecas destacan en los Luum Awards 2026, premios a la publicidad con propósito appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sylvester Stallone recuerda su rivalidad con Schwarzenegger: de competir en el cine de acción a forjar una amistad",
+      "link": "https://www.prensalibre.com/vida/escenario/sylvester-stallone-recuerda-su-rivalidad-con-schwarzenegger-de-competir-en-el-cine-de-accion-a-forjar-una-amistad/",
+      "fecha": "Mon, 09 Nov 2026 20:56:08 +0000",
+      "categoria": "Escenario",
+      "resumen": "El actor estadounidense reveló cómo surgió la enemistad con Arnold Schwarzenegger, que marcó sus carreras en el cine de acción."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Trump busca una reunión con Putin y Xi Jinping en China: Irán y el desarme nuclear, entre los temas",
@@ -9,6 +217,14 @@
       "fecha": "Mon, 09 Nov 2026 19:47:15 +0000",
       "categoria": "Internacional",
       "resumen": "Trump habló sobre una posible reunión trilateral inédita con Xi Jinping y Vladimir Putin durante el Foro de Cooperación Económica Asia-Pacífico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gobierno designa a José Antonio López Leonardo como ministro de Agricultura tras la renuncia de María Fernanda Rivera",
+      "link": "https://www.prensalibre.com/guatemala/politica/gobierno-designa-a-jose-antonio-lopez-leonardo-como-ministro-de-agricultura-tras-la-renuncia-de-maria-fernanda-rivera-breaking/",
+      "fecha": "Mon, 09 Nov 2026 19:41:12 +0000",
+      "categoria": "Política",
+      "resumen": "El Gobierno anunció la designación de José Antonio López Leonardo como ministro de Agricultura, luego de que María Fernanda Rivera hiciera pública su renuncia, cuyos motivos aún se desconocen."
     },
     {
       "fuente": "Prensa Libre",
@@ -68,7 +284,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Roxana Baldetti sigue en su vivienda por falta de ambulancia para trasladarla a prisión y juez aplaza audiencia",
+      "titulo": "Roxana Baldetti sigue sin regresar a prisión y continúa en su vivienda mientras audiencia es aplazada",
       "link": "https://www.prensalibre.com/guatemala/justicia/roxana-baldetti-sigue-en-su-vivienda-por-falta-de-ambulancia-para-trasladarla-a-prision-y-juez-aplaza-audiencia-breaking/",
       "fecha": "Mon, 09 Nov 2026 17:42:20 +0000",
       "categoria": "Justicia",
@@ -611,206 +827,6 @@
       "resumen": "La reliquia y los restos del beato Augusto Ramírez Monasterio  se encuentran en el templo de San Francisco el Grande, donde se pueden venerar y solicitar su intercesión."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "XVII Festival Nacional de Teatro: un espacio de crecimiento y evolución",
-      "link": "https://www.prensalibre.com/vida/escenario/xvii-festival-nacional-de-teatro-un-espacio-de-crecimiento-y-evolucion/",
-      "fecha": "Sun, 08 Nov 2026 18:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El encuentro anual, que reúne desde piezas teatrales clásicas hasta novedosas puestas en escena, se celebra del 5 al 14 de noviembre en el Centro Cultural Miguel Ángel Asturias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién es Dana White, el empresario de los combates de la UFC al que Trump ofreció un puesto en la Casa Blanca",
-      "link": "https://www.prensalibre.com/internacional/quien-es-dana-white-el-empresario-de-los-combates-de-la-ufc-a-quien-trump-ofrecio-un-puesto-en-la-casa-blanca/",
-      "fecha": "Sun, 08 Nov 2026 17:52:25 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump describió a Dana White como un “luchador y guerrero feroz” al proponerle incorporarse a su equipo de comunicación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De Uruguay a la Argentina de Milei: El papa León XIV cierra su visita con un mensaje sobre la paz",
-      "link": "https://www.prensalibre.com/internacional/de-uruguay-a-la-argentina-de-milei-el-papa-leon-xiv-cierra-su-visita-con-un-mensaje-sobre-la-paz/",
-      "fecha": "Sun, 08 Nov 2026 17:39:40 +0000",
-      "categoria": "Internacional",
-      "resumen": "En Argentina se rumorea que el encuentro entre el papa y Milei podría ser tenso, dadas las críticas de la Iglesia católica a las medidas de austeridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un supuesto caso de infidelidad, un asesinato y un falso secuestro: cómo la PNC capturó a la banda “Los Infieles” en Escuintla",
-      "link": "https://www.prensalibre.com/guatemala/justicia/un-supuesto-caso-de-infidelidad-un-asesinato-y-un-falso-secuestro-como-la-pnc-capturo-a-la-banda-los-infieles-en-escuintla/",
-      "fecha": "Sun, 08 Nov 2026 17:23:55 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Una supuesta infidelidad habría desencadenado un asesinato en Escuintla. Según la PNC, la pareja de la víctima y su amante fingieron un secuestro para encubrir el crimen."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video: así fueron los golazos con los que Comunicaciones venció 2-0 a Marquense",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/video-asi-fueron-los-golazos-con-los-que-comunicaciones-vencio-2-0-a-marquense-breaking/",
-      "fecha": "Sun, 08 Nov 2026 17:23:03 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Paolo Dantaz puso un zurdazo en el ángulo y Nelso García sorprendió al portero desde el centro del campo, en una victoria de los cremas que dejó dos goles para el recuerdo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Russell Brand evitó que Katy Perry fuera mencionada en su juicio, pero ahora ella podría contar su historia",
-      "link": "https://www.prensalibre.com/vida/escenario/russell-brand-evito-que-katy-perry-fuera-mencionada-en-su-juicio-pero-ahora-ella-podria-contar-su-historia/",
-      "fecha": "Sun, 08 Nov 2026 16:59:33 +0000",
-      "categoria": "Escenario",
-      "resumen": "En el 2010 Katty Perry y Russel Brand  fueron una pareja icónica, pero la relación duró solamente 14 meses y terminó con un mensaje de texto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sam Altman y ChatGPT: India supera a EE. UU. en usuarios y la IA llega a las aerolíneas de América",
-      "link": "https://www.prensalibre.com/internacional/sam-altman-y-chatgpt-india-supera-a-ee-uu-en-usuarios-y-la-ia-llega-a-las-aerolineas-de-america/",
-      "fecha": "Sun, 08 Nov 2026 16:28:14 +0000",
-      "categoria": "Internacional",
-      "resumen": "Sam Altman dijo que los países con economías de crecimiento más rápido reciben mejor la inteligencia artificial que las economías más desarrolladas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Orgullo guatemalteco: Jorge Vega avanza a la final de gimnasia con el Spartak-Moscú en la liga de Rusia",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/orgullo-guatemalteco-jorge-vega-avanza-a-la-final-de-gimnasia-con-el-spartak-moscu-en-la-liga-de-rusia-breaking/",
-      "fecha": "Sun, 08 Nov 2026 16:27:56 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El equipo ruso superó las semifinales y disputará el título de la Liga Premier el próximo 6 de diciembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video: Rosario Central festejó por error un título que Boca terminó ganando en los últimos minutos",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-rosario-central-festejo-por-error-un-titulo-que-boca-termino-ganando-en-los-ultimos-minutos-breaking/",
-      "fecha": "Sun, 08 Nov 2026 16:19:12 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Los jugadores y aficionados de Rosario Central celebraron un gol que nunca existió, mientras en la Bombonera Boca ganaba 1-0 con un tanto de Enner Valencia y se quedaba con la Tabla Anual."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De 10 a 13 años en la PNC: las historias de los policías que murieron junto al diputado Julio Portillo",
-      "link": "https://www.prensalibre.com/guatemala/justicia/de-10-a-13-anos-en-la-pnc-las-historias-de-los-policias-que-murieron-junto-al-diputado-julio-portillo/",
-      "fecha": "Sun, 08 Nov 2026 16:17:06 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Las familias de los tres policías realizaron velatorios privados, con acompañamiento de la PNC. Julio Portillo también es velado en privado y bajo resguardo policial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Botín de Oro vuelve a ser de Messi: 26 goles y un récord que nadie había logrado en la MLS",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-botin-de-oro-vuelve-a-ser-de-messi-26-goles-y-un-record-que-nadie-habia-logrado-en-la-mls-breaking/",
-      "fecha": "Sun, 08 Nov 2026 15:45:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Lionel Messi hizo historia al convertirse en el primer jugador en ganar el Botín de Oro de la MLS dos años seguidos, tras superar a Petar Musa y Sam Surridge, y ahora aspira a su tercer premio al Jugador Más Valioso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bomberos localizan restos humanos en la zona 19 capitalina",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/bomberos-localizan-restos-humanos-en-la-zona-19-capitalina/",
-      "fecha": "Sun, 08 Nov 2026 15:02:08 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Paramédicos informaron sobre la localización de restos humanos que fueron dejados entre una bolsa plástica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aumenta precio del gas propano este domingo 8 de noviembre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/aumenta-precio-del-gas-propano-este-domingo-8-de-noviembre/",
-      "fecha": "Sun, 08 Nov 2026 14:19:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El costo del cilindro de gas propano reporta un incremento, según la información proporcionada por las distribuidoras en sus redes sociales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nueva Santa Rosa y Aguacatán clasifican a semifinales de la Primera División tras remontada y goleada",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/nueva-santa-rosa-y-aguacatan-clasifican-a-semifinales-de-la-primera-division-tras-remontada-y-goleada-breaking/",
-      "fecha": "Sun, 08 Nov 2026 13:28:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Nicolás Grasso marcó un golazo para sellar la clasificación de Nueva Santa Rosa ante Coatepeque, mientras Aguacatán goleó 4-0 a Juventud Copalera."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ataques contra Solórzano Foppa y Portillo exponen debilidades en seguridad en antesala electoral, afirman analistas",
-      "link": "https://www.prensalibre.com/guatemala/politica/muerte-de-solorzano-foppa-y-portillo-exponen-debilidades-del-gobierno-en-seguridad-a-meses-de-las-elecciones-2027-afirman-analistas/",
-      "fecha": "Sun, 08 Nov 2026 13:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Ambos actores políticos contaban con protección policial, que fue superada por los atacantes, quienes siguen sin ser localizados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Perico’s Moto Club: más de cuatro décadas de rodadas y apoyo social en Xela",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/pericos-moto-club-mas-de-cuatro-decadas-de-rodadas-y-apoyo-social-en-xela/",
-      "fecha": "Sun, 08 Nov 2026 12:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Motociclistas de Quetzaltenango organizan recorridos para recaudar fondos y entregar alimentos, equipo e insumos a bomberos, hospitales, guarderías y hogares de ancianos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La arriesgada misión para extraer de Polonia el cohete v2, el &#8220;arma milagrosa&#8221; de Hitler",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-arriesgada-mision-para-extraer-de-polonia-el-cohete-v2-el-arma-milagrosa-de-hitler/",
-      "fecha": "Sun, 08 Nov 2026 11:48:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "En un programa, la BBC rememoró el verano de 1944, cuando agentes aliados sacaron clandestinamente piezas del \"arma maravillosa\" de Hitler, y las ocultaron en el apartamento de un oficial alemán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“La clave está en no buscar una solución mágica”: qué necesita Guatemala para reducir la pobreza, según una Nobel de Economía",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/la-clave-esta-en-no-buscar-una-solucion-magica-que-necesita-guatemala-para-reducir-la-pobreza-segun-una-nobel-de-economia/",
-      "fecha": "Sun, 08 Nov 2026 11:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "En entrevista con Esther Duflo, ganadora del Nobel de Economía 2019, la economista propone evaluar las políticas sociales, probar soluciones contra la pobreza e invertir en la juventud, para transformar el futuro de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tener un segundo trabajo en Guatemala: cómo se reparten el tiempo y los ingresos más de 700 mil personas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/tener-un-segundo-trabajo-en-guatemala-como-se-reparten-el-tiempo-y-los-ingresos-mas-de-700-mil-personas/",
-      "fecha": "Sun, 08 Nov 2026 11:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Según la Encuesta Nacional de Empleo e Ingresos Continua (Eneic), más de 700 mil guatemaltecos reportaron una segunda actividad laboral en cada trimestre del 2025."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Epicentro",
-      "link": "https://www.prensalibre.com/opinion/caricatura/epicentro/",
-      "fecha": "Sun, 08 Nov 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Supremo testimonio",
-      "link": "https://www.prensalibre.com/opinion/editorial/supremo-testimonio/",
-      "fecha": "Sun, 08 Nov 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Es una coincidencia providencial que esta ceremonia ocurra en el mismo año en que se conmemoran los 800 años de la muerte de San Francisco de Asís, cuyo hábito abrazó el ahora beato Augusto Ramírez Monasterio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los hijos del Quijote",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/los-hijos-del-quijote/",
-      "fecha": "Sun, 08 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "“Por la libertad, así como por la honra, se puede y debe aventurar la vida”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuando la experiencia destruye talento",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/cuando-la-experiencia-destruye-talento/",
-      "fecha": "Sun, 08 Nov 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La mayor contradicción laboral consiste en exigir experiencia para tareas sin futuro."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Con reglas de ajedrez a una pelea de navajas",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/con-reglas-de-ajedrez-a-una-pelea-de-navajas/",
-      "fecha": "Sun, 08 Nov 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La marea azul apela a los indecisos. Miller y compañía prefieren enardecer a su base."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Implosión",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/implosion/",
-      "fecha": "Sun, 08 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La derrota de los republicanos con miras a las elecciones del 2028 y cómo esto afecta a Guatemala"
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Clima en Guatemala: pronóstico para el fin de semana del 7 y 8 de noviembre 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-7-y-8-noviembre-2026.html",
@@ -857,22 +873,6 @@
       "fecha": "Tue, 03 Nov 2026 23:56:34 +0000",
       "categoria": "Sociedad",
       "resumen": "Inauguraron la American Week 2026, una semana que celebra los lazos entre Estados Unidos y Guatemala con actividades en la Universidad del Valle.\nThe post Embajada de Estados Unidos inaugura la 13 edición del American Week en la Universidad del Valle appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Nuevo requisito que deben cumplir los guatemaltecos para viajar a Estados Unidos en noviembre de 2026",
-      "link": "https://www.guatemala.com/noticias/comunidad/nuevo-requisito-que-deben-cumplir-los-guatemaltecos-para-viajar-a-estados-unidos-desde-noviembre-de-2026.html",
-      "fecha": "Tue, 03 Nov 2026 17:23:14 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Conoce el nuevo requisito para viajar a Estados Unidos: los pasajeros deberán declarar que no estuvieron en la RDC durante 21 días.\nThe post Nuevo requisito que deben cumplir los guatemaltecos para viajar a Estados Unidos en noviembre de 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "UNO Plus en Guatemala, la plataforma que ofrece puntos, premios y promociones",
-      "link": "https://www.guatemala.com/noticias/tecnologia/nueva-plataforma-uno-plus-guatemala.html",
-      "fecha": "Tue, 03 Nov 2026 16:12:57 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Descubre cómo funciona UNO Plus en Guatemala, cómo acumular puntos y participar para ganar un año de combustible gratis esta Navidad.\nThe post UNO Plus en Guatemala, la plataforma que ofrece puntos, premios y promociones appeared first on Guatemala.com."
     }
   ]
 }
