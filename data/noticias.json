@@ -1,7 +1,183 @@
 {
-  "actualizado": "2026-11-10T20:22:08.794Z",
+  "actualizado": "2026-11-11T01:08:06.476Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala será el país invitado del festival Cinélatino 2027 en Francia",
+      "link": "https://www.prensalibre.com/vida/escenario/guatemala-sera-el-pais-invitado-del-festival-cinelatino-2027-en-francia/",
+      "fecha": "Wed, 11 Nov 2026 01:05:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La 39 edición de esta muestra cinematográfica abrirá las puertas a la producción guatemalteca a la que reconoce como una de las más notables de la región centroamericana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Oleoducto de Guatemala: MEM convoca a empresas para inspección previa a licitación",
+      "link": "https://www.prensalibre.com/economia/oleoducto-de-guatemala-mem-convoca-a-empresas-para-inspeccion-previa-a-licitacion/",
+      "fecha": "Wed, 11 Nov 2026 01:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Las empresas interesadas deberán inspeccionar la infraestructura petrolera entre Izabal y Petén, antes de presentar sus propuestas. El proceso se desarrolla después de la visita técnica al Campo Xan, realizada en octubre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Padre de Meghan Markle vuelve a prisión: qué hizo para que una jueza revocara su arresto domiciliario",
+      "link": "https://www.prensalibre.com/internacional/padre-de-meghan-markle-vuelve-a-prision-que-hizo-para-que-una-jueza-revocara-su-arresto-domiciliario/",
+      "fecha": "Wed, 11 Nov 2026 00:43:49 +0000",
+      "categoria": "Internacional",
+      "resumen": "El padre de Meghan Markle volvió a prisión en EE. UU. tras quitarse el localizador electrónico y violar las condiciones de su libertad condicional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una discusión, un hombre que regresó armado, dos muertos y un video: los detalles del ataque armado en Esquipulas",
+      "link": "https://www.prensalibre.com/guatemala/una-discusion-un-hombre-que-regreso-armado-dos-muertos-y-un-video-los-detalles-del-ataque-armado-en-esquipulas-breaking/",
+      "fecha": "Wed, 11 Nov 2026 00:40:27 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Una discusión habría precedido al ataque armado que dejó dos hombres muertos y uno herido en Esquipulas, Chiquimula. El hecho quedó grabado en video."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Expatrulleros se plantan frente al Congreso para exigir compensación económica contemplada en la iniciativa 6566",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/expatrulleros-se-plantan-frente-al-congreso-para-exigir-compensacion-economica-contemplada-en-la-iniciativa-6566-breaking/",
+      "fecha": "Wed, 11 Nov 2026 00:27:33 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Expatrulleros se plantan frente al Congreso para exigir que los diputados voten a favor de la iniciativa 6566, que contempla una compensación económica para exintegrantes de las PAC."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Miss Universe 2026, ¿cuándo se celebrará la gala del 75 aniversario?",
+      "link": "https://www.guatemala.com/noticias/sociedad/miss-universe-2026-cuando-y-donde-ver-competencia-traje-nacional-preliminar-y-final.html",
+      "fecha": "Wed, 11 Nov 2026 00:19:43 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Miss Universe celebrará su 75 edición en Puerto Rico y anunció las fechas oficiales de la competencia de trajes nacionales, preliminar y final. \nThe post Miss Universe 2026, ¿cuándo se celebrará la gala del 75 aniversario? appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Guatemalteca Adriana González se presentará por primera vez en el Metropolitan Opera de Nueva York",
+      "link": "https://www.guatemala.com/noticias/entretenimiento/adriana-gonzalez-debutara-metropolitan-opera-nueva-york.html",
+      "fecha": "Wed, 11 Nov 2026 00:06:17 +0000",
+      "categoria": "Entretenimiento",
+      "resumen": "La soprano guatemalteca Adriana González debutará en la Ópera Metropolitana de Nueva York con un papel protagonista en la tragedia de «Otelo».\nThe post Guatemalteca Adriana González se presentará por primera vez en el Metropolitan Opera de Nueva York appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque armado contra taxi pirata deja un hombre muerto y una mujer herida en parqueo de la zona 1",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-contra-taxi-pirata-deja-un-hombre-muerto-y-una-mujer-herida-en-parqueo-de-la-zona-1-breaking/",
+      "fecha": "Wed, 11 Nov 2026 00:05:50 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Un ataque armado contra un taxi pirata en un parqueo de la zona 1 de la capital dejó un hombre muerto y una mujer herida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Camilo Séptimo dedica canción a Jonathan Meléndez y a su familia. ¿Qué dice el tema musical?",
+      "link": "https://www.prensalibre.com/vida/escenario/camilo-septimo-dedica-cancion-a-jonathan-melendez-y-a-su-familia-que-dice-el-tema-musical/",
+      "fecha": "Wed, 11 Nov 2026 00:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La banda ofrece un homenaje a su tecladista con la composición inédita \"Kundalini\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ley de Ciberseguridad: Congreso rechaza objeciones y deja vía libre para enviar decreto a Arévalo",
+      "link": "https://www.prensalibre.com/guatemala/politica/ley-de-ciberseguridad-congreso-rechaza-objeciones-y-deja-via-libre-para-enviar-decreto-a-arevalo/",
+      "fecha": "Tue, 10 Nov 2026 23:44:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La nueva ley es cuestionada por diputados de oposición y analistas que ven riesgos por falta de claridad y posibles vulneraciones a derechos humanos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Primer empleo: estudio revela cómo disminuyen las oportunidades para jóvenes sin experiencia según su edad",
+      "link": "https://www.prensalibre.com/economia/primer-empleo-estudio-revela-como-disminuyen-las-oportunidades-para-jovenes-sin-experiencia-segun-su-edad/",
+      "fecha": "Tue, 10 Nov 2026 23:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Un estudio revela que las oportunidades de conseguir el primer empleo disminuyen conforme aumenta la edad de los jóvenes sin experiencia laboral."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las reacciones hacia Bukele y Haití tras el despliegue de soldados salvadoreños a Puerto Príncipe",
+      "link": "https://www.prensalibre.com/internacional/las-reacciones-hacia-bukele-y-haiti-tras-el-despliegue-de-soldados-salvadorenos-a-puerto-principe/",
+      "fecha": "Tue, 10 Nov 2026 22:36:53 +0000",
+      "categoria": "Internacional",
+      "resumen": "El despliegue de más de 2 mil soldados salvadoreños a Puerto Príncipe, por parte de Nayib Bukele para combatir las bandas armadas ha causado diversas reacciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trabajadores del Hospital de Amatitlán denuncian falta de medicamentos, hacinamiento y deterioro de las instalaciones",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/trabajadores-del-hospital-de-amatitlan-denuncian-falta-de-medicamentos-hacinamiento-y-deterioro-de-las-instalaciones/",
+      "fecha": "Tue, 10 Nov 2026 22:30:37 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Trabajadores del Hospital Nacional de Amatitlán denuncian crisis en el centro asistencial, y exigen intervención urgente para garantizar la atención de los pacientes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hasta 186 años de cárcel y Q300 mil de multa: así operaban los cinco condenados de “Los robafurgones del Atlántico”",
+      "link": "https://www.prensalibre.com/guatemala/justicia/hasta-186-anos-de-carcel-y-q300-mil-de-multa-asi-operaban-los-cinco-condenados-de-los-robafurgones-del-atlantico/",
+      "fecha": "Tue, 10 Nov 2026 22:22:08 +0000",
+      "categoria": "Justicia",
+      "resumen": "Cinco integrantes de la estructura criminal fueron condenados por su participación en el robo de 12 camiones entre el 2023 y el 2024. La banda utilizaba armas de fuego, vehículos y bloqueadores de señal para apoderarse de mercadería de alto valor."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Detienen a exportero mexicano: ¿A quién acusan de tráficar relojes falsos por casi US$6 millones?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/detienen-a-exportero-mexicano-a-quien-acusan-de-traficar-relojes-falsos-por-casi-us6-millones/",
+      "fecha": "Tue, 10 Nov 2026 22:17:11 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "De las porterías mexicanas a una detención en Estados Unidos: el exportero mexicano acusado de traficar relojes falsificados por más de US$5 millones."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "María «Lola» de Tezanos, la guatemalteca que conecta marcas de lujo con Guatemala",
+      "link": "https://www.guatemala.com/noticias/sociedad/maria-lola-de-tezanos-guatemalteca-conecta-marcas-lujo-guatemala.html",
+      "fecha": "Tue, 10 Nov 2026 22:09:27 +0000",
+      "categoria": "Sociedad",
+      "resumen": "María «Lola» de Tezanos es una empresaria guatemalteca que ha conectado marcas de lujo con el mercado latinoamericano por más de 10 años. \nThe post María «Lola» de Tezanos, la guatemalteca que conecta marcas de lujo con Guatemala appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bukele difunde video del ataque contra 400 Mawozo en Haití y afirma que destruyó su cuartel general",
+      "link": "https://www.prensalibre.com/internacional/bukele-difunde-video-del-ataque-contra-400-mawozo-en-haiti-y-afirma-que-destruyo-su-cuartel-general/",
+      "fecha": "Tue, 10 Nov 2026 22:01:20 +0000",
+      "categoria": "Internacional",
+      "resumen": "Bukele afirmó que destruyeron la vivienda de Wilson Joseph, líder de la pandilla 400 Mawozo, y su cuartel general en Haití, durante un ataque aéreo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "SS United States: Por qué un histórico transatlántico ubicado en el golfo de México será hundido",
+      "link": "https://www.prensalibre.com/internacional/ss-united-states-por-que-un-historico-transatlantico-ubicado-en-el-golfo-de-mexico-sera-hundido/",
+      "fecha": "Tue, 10 Nov 2026 21:49:18 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un buque construido a principios de 1950, con casi 300 metros de eslora y que se encuentra en el golfo de México será hundido por parte de las autoridades de Florida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Detienen en Reino Unido a un militar de alto rango de EE.UU. bajo sospecha de espiar para Rusia",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/detienen-en-reino-unido-a-un-militar-de-alto-rango-de-ee-uu-bajo-sospecha-de-espiar-para-rusia/",
+      "fecha": "Tue, 10 Nov 2026 21:23:17 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El militar de 41 años está acusado de colaborar con los rusos. Fue detenido en una base que sirve a EE.UU. y la OTAN en Inglaterra."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quiénes podrían competir contra Gianni Infantino en las elecciones de la Fifa?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/quienes-podrian-competir-contra-gianni-infantino-en-las-elecciones-de-la-fifa/",
+      "fecha": "Tue, 10 Nov 2026 21:11:47 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Arsène Wenger analiza postularse a la presidencia de la Fifa y podría convertirse en rival de Gianni Infantino en las elecciones de 2027. Según la BBC, el francés evalúa presentar su candidatura antes del 18 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Congreso califica como crimen político el ataque en contra del diputado Julio Portillo",
+      "link": "https://www.prensalibre.com/guatemala/politica/congreso-califica-como-crimen-politico-el-ataque-en-contra-del-diputado-julio-portillo/",
+      "fecha": "Tue, 10 Nov 2026 20:59:20 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El Congreso realizó su primera sesión luego del crimen contra el diputado Julio Portillo, y advirtieron un panorama desalentador en materia de seguridad para las elecciones del 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El secretario de Defensa de EE.UU. se enfrenta a un posible &#8220;impeachment&#8221; por la guerra en Irán, pero es Trump quien definirá su destino",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-secretario-de-defensa-de-ee-uu-se-enfrenta-a-un-posible-impeachment-por-la-guerra-en-iran-pero-es-trump-quien-definira-su-destino/",
+      "fecha": "Tue, 10 Nov 2026 20:33:02 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Pete Hegseth podría enfrentarse a un juicio político pero es Trump quien podría determinar su destino, plantea este análisis de Gary O'Donoghue."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "De California hasta Jalisco: Así terminó la búsqueda de &#8220;Beto el Mexa&#8221;, objetivo del FBI",
@@ -9,6 +185,30 @@
       "fecha": "Tue, 10 Nov 2026 19:52:28 +0000",
       "categoria": "Internacional",
       "resumen": "\"Beto el Mexa\" presuntamente confundió al padre de trillizos con un ladrón de vehículos y lo atacó en California junto con otros dos presuntos cómplices."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Paul McCartney ocupa el tercer lugar entre los músicos más ricos del mundo. ¿A cuánto asciende su fortuna?",
+      "link": "https://www.prensalibre.com/vida/escenario/paul-mccartney-ocupa-el-tercer-lugar-entre-los-musicos-mas-ricos-del-mundo-a-cuanto-asciende-su-fortuna/",
+      "fecha": "Tue, 10 Nov 2026 19:51:30 +0000",
+      "categoria": "Escenario",
+      "resumen": "El cantautor, que perteneció al legendario grupo Los Beatles, continúa trabajando, no solo en conciertos sino también creando música."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Exfiscal Stuardo Campo dejará de usar dispositivo de control telemático, aunque continuará en prisión preventiva",
+      "link": "https://www.prensalibre.com/guatemala/justicia/exfiscal-stuardo-campo-dejara-de-usar-dispositivo-de-control-telematico-aunque-continuara-en-prision-preventiva-breaking/",
+      "fecha": "Tue, 10 Nov 2026 19:41:50 +0000",
+      "categoria": "Justicia",
+      "resumen": "Un juez ordenó retirar el dispositivo de control telemático al exfiscal Stuardo Campo por el caso Alfa Siete. Sin embargo, continuará en prisión preventiva por otro proceso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "San Juan Sacatepéquez recibirá Festival Internacional de Música con maestros certificados y ensambles orquestales",
+      "link": "https://www.prensalibre.com/vida/escenario/san-juan-sacatepequez-recibira-festival-internacional-de-musica-con-maestros-certificados-y-ensambles-orquestales/",
+      "fecha": "Tue, 10 Nov 2026 19:00:02 +0000",
+      "categoria": "Escenario",
+      "resumen": "El municipio será sede del Sexto Festival Internacional Suzuki 2026, con diez días de música y clases impartidas por maestros internacionales."
     },
     {
       "fuente": "Prensa Libre",
@@ -33,6 +233,14 @@
       "fecha": "Tue, 10 Nov 2026 18:01:12 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Las autoridades aseguran que ya han devuelto sus ahorros a muchos de los clientes de Ueno Bank, pero todavía quedan grandes cantidades por reembolsar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La discusión que habría provocado la muerte de una mujer dentro de un crucero en Texas",
+      "link": "https://www.prensalibre.com/internacional/la-discusion-que-habria-provocado-la-muerte-de-una-mujer-dentro-de-un-crucero-en-texas/",
+      "fecha": "Tue, 10 Nov 2026 17:35:31 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un hombre fue detenido en Texas tras ser sospechoso de la muerte de una mujer dentro de su camarote en un crucero."
     },
     {
       "fuente": "Prensa Libre",
@@ -116,7 +324,7 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "MP y PNC investigan a Los Coyotes y Los Mamás por robos, sicariato y narcotráfico",
+      "titulo": "Capturan a 30 presuntos integrantes de Los Mamás y Los Coyotes durante allanamientos en Alta Verapaz y Zacapa",
       "link": "https://www.prensalibre.com/guatemala/justicia/mp-y-pnc-investigan-a-los-coyotes-y-los-mamas-por-robos-sicariato-y-narcotrafico/",
       "fecha": "Tue, 10 Nov 2026 15:05:19 +0000",
       "categoria": "Guatemala",
@@ -635,196 +843,12 @@
       "resumen": "Guatemala registró un ritmo inflacionario del 4.38% en octubre. Aunque el indicador mostró una disminución, se mantiene por encima del valor central de la meta de inflación. Según una fuente oficial, el precio del cilindro de gas influyó en el comportamiento de esta variable."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Messi regresa y Cristiano Ronaldo queda fuera: así quedó el Once Mundial 2026 de FIFPRO",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/messi-regresa-y-cristiano-ronaldo-queda-fuera-asi-quedo-el-once-mundial-2026-de-fifpro/",
-      "fecha": "Mon, 09 Nov 2026 19:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Lionel Messi regresa al Once Mundial Masculino de FIFPRO 2026 y amplía su récord con 18 apariciones en el equipo ideal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién es la supuesta espía china que tuvo una relación con el director de Nvidia, el gigante tecnológico de la IA (y otras claves del caso)",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-es-la-supuesta-espia-china-que-tuvo-una-relacion-con-el-director-de-nvidia-el-gigante-tecnologico-de-la-ia-y-otras-claves-del-caso/",
-      "fecha": "Mon, 09 Nov 2026 18:31:13 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El multimillonario de la industria tecnológica está inmerso en un escándalo de seguridad personal y nacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cambiará la política migratoria? Trump admite que las deportaciones fueron demasiado duras",
-      "link": "https://www.prensalibre.com/internacional/cambiara-la-politica-migratoria-trump-admite-que-las-deportaciones-fueron-demasiado-duras/",
-      "fecha": "Mon, 09 Nov 2026 18:20:36 +0000",
-      "categoria": "Internacional",
-      "resumen": "En su primera entrevista tras la derrota de los republicanos en las elecciones, Trump reconoció que su política de deportaciones fue \"demasiado dura\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Huité sale de Zacapa y pasa a un juzgado de Mayor Riesgo en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-huite-sale-de-zacapa-y-pasa-a-un-juzgado-de-mayor-riesgo-en-guatemala/",
-      "fecha": "Mon, 09 Nov 2026 18:06:25 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Tras la muerte de ocho personas y el señalamiento de militares, el caso Huité cambia a un juzgado de Mayor Riesgo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Roxana Baldetti sigue sin regresar a prisión y continúa en su vivienda mientras audiencia es aplazada",
-      "link": "https://www.prensalibre.com/guatemala/justicia/roxana-baldetti-sigue-en-su-vivienda-por-falta-de-ambulancia-para-trasladarla-a-prision-y-juez-aplaza-audiencia-breaking/",
-      "fecha": "Mon, 09 Nov 2026 17:42:20 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Sistema Penitenciario no ha trasladado a Baldetti a prisión debido a que, por sus padecimientos de columna, se ha solicitado que sea trasladada en ambulancia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Demandas inaceptables&#8221;: Por qué Marco Rubio dice que el diálogo de EE. UU. e Irán no ha sido productivo",
-      "link": "https://www.prensalibre.com/internacional/demandas-inaceptables-por-que-marco-rubio-dice-que-el-dialogo-de-ee-uu-e-iran-no-ha-sido-productivo/",
-      "fecha": "Mon, 09 Nov 2026 17:03:04 +0000",
-      "categoria": "Internacional",
-      "resumen": "Irán respondió a las declaraciones del secretario de estado de EE. UU. Marco Rubio, donde afirmó que el diálogo entre ambos países para finalizar la guerra \"no fue productivo\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Biden, sus memorias y el cáncer: las limitaciones que enfrenta y sus declaraciones sobre Trump",
-      "link": "https://www.prensalibre.com/internacional/biden-sus-memorias-y-el-cancer-las-limitaciones-que-enfrenta-y-sus-declaraciones-sobre-trump/",
-      "fecha": "Mon, 09 Nov 2026 16:41:50 +0000",
-      "categoria": "Internacional",
-      "resumen": "El expresidente Joe Biden criticó duramente a Donald Trump en sus próximas memorias, al afirmar que sus acciones \"deberían perseguirlo hasta la tumba\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pau Cubarsí gana el Golden Boy 2026 y sigue los pasos de Messi, Pedri, Gavi y Lamine Yamal",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/pau-cubarsi-gana-el-golden-boy-2026-y-sigue-los-pasos-de-messi-pedri-gavi-y-lamine-yamal/",
-      "fecha": "Mon, 09 Nov 2026 16:32:53 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El defensa español Pau Cubarsí, jugador del Barcelona, fue reconocido este lunes con el Golden Boy 2026, galardón que entrega el diario italiano Tuttosport al mejor futbolista menor de 21 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Amorío con una espía china? la investigación de Nvidia hacia su director, Jensen Huang",
-      "link": "https://www.prensalibre.com/internacional/amorio-con-una-espia-china-la-investigacion-de-nvidia-hacia-su-director-jensen-huang/",
-      "fecha": "Mon, 09 Nov 2026 16:07:07 +0000",
-      "categoria": "Internacional",
-      "resumen": "Nvidia investigará a su director, Jensen Huang, tras confirmarse que tuvo un amorío con una mujer que resultó ser una espía proveniente de China."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "¿Cómo estará el clima en Guatemala del 9 al 13 de noviembre 2026?",
       "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-del-9-al-13-noviembre-2026.html",
       "fecha": "Mon, 09 Nov 2026 16:01:40 +0000",
       "categoria": "Comunidad",
       "resumen": "El clima en Guatemala del 9 al 13 de noviembre estará marcado por condiciones frías y temperaturas máximas de hasta 36°C. Lee el pronóstico completo.\nThe post ¿Cómo estará el clima en Guatemala del 9 al 13 de noviembre 2026? appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala y Belice cruzan señalamientos por ingreso de embarcaciones militares a sus territorios",
-      "link": "https://www.prensalibre.com/guatemala/politica/guatemala-y-belice-cruzan-senalamientos-por-ingreso-de-embarcaciones-militares-a-sus-territorios-breaking/",
-      "fecha": "Mon, 09 Nov 2026 16:00:27 +0000",
-      "categoria": "Política",
-      "resumen": "El Ejército de Guatemala y el Ministerio de Relaciones Exteriores de Belice se pronuncian sobre el ingreso de embarcaciones militares a sus respectivos territorios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala vs. Canadá: José Bolaños habla de su segunda convocatoria y el desafío en la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-jose-bolanos-habla-de-su-segunda-convocatoria-y-el-desafio-en-la-liga-de-naciones/",
-      "fecha": "Mon, 09 Nov 2026 15:28:01 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "“Representar a tu país es un sueño”, afirmó José Ramón Bolaños al reincorporarse a la Selección Nacional, donde buscará ganarse un lugar para la serie decisiva contra Canadá."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Investigación revela cómo habría operado una sospechosa para estafar a mujeres emprendedoras",
-      "link": "https://www.prensalibre.com/guatemala/justicia/investigacion-revela-como-habria-operado-una-sospechosa-para-estafar-a-mujeres-emprendedoras-breaking/",
-      "fecha": "Mon, 09 Nov 2026 15:23:46 +0000",
-      "categoria": "Justicia",
-      "resumen": "Una mujer señalada del delito de estafa propia de forma continuada fue capturada en la zona 3 de Quetzaltenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La vida de Maduro y Cilia Flores en prisión: lecturas religiosas, pérdida de peso y problemas",
-      "link": "https://www.prensalibre.com/internacional/la-vida-de-maduro-y-cilia-flores-en-prision-lecturas-religiosas-perdida-de-peso-y-problemas/",
-      "fecha": "Mon, 09 Nov 2026 15:13:32 +0000",
-      "categoria": "Internacional",
-      "resumen": "Ahora, más de diez meses después de la captura de Maduro, una investigación revela nuevos detalles sobre la vida del expresidente y su esposa en prisión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Condenan al actor y comediante británico Russell Brand a más de 10 años de prisión por delitos sexuales",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/condenan-al-actor-y-comediante-britanico-russell-brand-a-mas-de-10-anos-de-prision-por-delitos-sexuales/",
-      "fecha": "Mon, 09 Nov 2026 15:08:35 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El condenado, de 51 años, permanecía en prisión preventiva desde que fue hallado culpable la semana pasada de los crímenes que se le atribuían."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC vigila con drones tramos estratégicos de la metrópoli para prevenir delitos: dónde opera el plan piloto y cuándo concluirá",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/pnc-vigila-con-drones-tramos-estrategicos-de-la-metropoli-para-prevenir-delitos-donde-opera-el-plan-piloto-y-cuando-concluira-breaking/",
-      "fecha": "Mon, 09 Nov 2026 13:55:13 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La Policía Nacional Civil afirmó que monitorea en tiempo real algunas calles y avenidas del área metropolitana para prevenir hechos delictivos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mbappé se acerca a Raphinha: así está la pelea por ser el máximo goleador de LaLiga",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mbappe-se-acerca-a-raphinha-asi-esta-la-pelea-por-ser-el-maximo-goleador-de-laliga/",
-      "fecha": "Mon, 09 Nov 2026 13:43:26 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La pelea por el título de goleador se intensifica: Raphinha, Mbappé y Lamine Yamal destacan."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Lamine Yamal no jugará con España contra República Checa?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/por-que-lamine-yamal-no-jugara-con-espana-contra-republica-checa/",
-      "fecha": "Mon, 09 Nov 2026 13:39:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La Real Federación Española de Futbol informó que los dos jugadores retrasarán su incorporación a la concentración en Las Rozas mientras continúan con sus respectivos procesos de recuperación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jensen Huang, el migrante taiwanés que pasó de lavar platos a fundar Nvidia y hoy enfrenta una investigación por su relación con una presunta espía china",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/jensen-huang-el-migrante-taiwanes-que-paso-de-lavar-platos-a-fundar-nvidia-y-hoy-enfrenta-una-investigacion-por-su-relacion-con-una-presunta-espia-china/",
-      "fecha": "Mon, 09 Nov 2026 13:19:23 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Habiendo emigrado a Estados Unidos con 9 años y sin hablar inglés, Jensen Huang terminó creando Nvidia, una de las empresas tecnológicas más valiosas del mundo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Frío en Guatemala: estas son las regiones donde persistirán las bajas temperaturas durante la semana",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/frio-en-guatemala-estas-son-las-regiones-donde-persistiran-las-bajas-temperaturas-durante-la-semana-breaking/",
-      "fecha": "Mon, 09 Nov 2026 13:16:40 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Del lunes 9 al viernes 13 de noviembre, algunas regiones de Guatemala tendrán ambiente frío y otras, cálido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miguel Martínez retira apelación contra fallo de EE. UU. por sanciones ligadas a presunta corrupción y vacunas Sputnik V",
-      "link": "https://www.prensalibre.com/guatemala/justicia/miguel-martinez-retira-apelacion-contra-fallo-de-ee-uu-por-sanciones-ligadas-a-presunta-corrupcion-y-vacunas-sputnik-v/",
-      "fecha": "Mon, 09 Nov 2026 12:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La justicia estadounidense respaldó las sanciones de la OFAC contra el exfuncionario durante el gobierno de Alejandro Giammattei por presuntos actos de corrupción vinculados con la compra de vacunas Sputnik V."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo el extraordinario crecimiento de la &#8220;escandalosamente barata&#8221; energía solar ha desafiado todas las proyecciones",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-el-extraordinario-crecimiento-de-la-escandalosamente-barata-energia-solar-ha-desafiado-todas-las-proyecciones/",
-      "fecha": "Mon, 09 Nov 2026 11:44:43 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La energía solar, debido a sus costos bajos, se ha convertido en una principales fuentes de energía en varios países del mundo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Avicultura en Guatemala: una industria que genera 390 mil empleos y apuesta por nuevas inversiones",
-      "link": "https://www.prensalibre.com/economia/avicultura-en-guatemala-una-industria-que-genera-390-mil-empleos-y-apuesta-por-nuevas-inversiones/",
-      "fecha": "Mon, 09 Nov 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La industria avícola guatemalteca busca fortalecer su competitividad mediante la innovación y la tecnología. OVUM 2026 reunirá a empresarios de más de 20 países para explorar oportunidades de inversión y negocios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Proponen limitar a funcionarios las dietas a Q5 mil y los gastos de representación a Q7 mil mensuales",
-      "link": "https://www.prensalibre.com/guatemala/politica/proponen-limitar-a-funcionarios-las-dietas-a-q5-mil-y-los-gastos-de-representacion-a-q7-mil-mensuales/",
-      "fecha": "Mon, 09 Nov 2026 11:00:00 +0000",
-      "categoria": "Política",
-      "resumen": "Propuesta busca limitar los pagos excesivos a funcionarios por concepto de dietas y gastos de representación."
     },
     {
       "fuente": "Guatemala.com",
@@ -849,30 +873,6 @@
       "fecha": "Thu, 05 Nov 2026 22:23:08 +0000",
       "categoria": "Comunidad",
       "resumen": "Conoce las tarifas de los parqueos cercanos a los establecimientos participantes en la Noche de los Museos 2026 en la Ciudad de Guatemala.\nThe post Parqueos para asistir a la Noche de los Museos 2026 en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Tráfico en Guatemala por actividades de fin de año 2026",
-      "link": "https://www.guatemala.com/noticias/comunidad/trafico-guatemala-2026-actividades-fin-de-ano.html",
-      "fecha": "Thu, 05 Nov 2026 20:54:13 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Entérate de las actividades de fin de año que podrían generar tráfico en distintas zonas de la Ciudad de Guatemala entre noviembre y diciembre 2026.\nThe post Tráfico en Guatemala por actividades de fin de año 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Inicia retorno de Miguel Ángel Asturias a Guatemala con la entrega de sus cenizas en París",
-      "link": "https://www.guatemala.com/noticias/cultura/francia-entrego-cenizas-miguel-angel-asturias-a-su-familia-para-retorno-guatemala.html",
-      "fecha": "Wed, 04 Nov 2026 22:12:40 +0000",
-      "categoria": "Cultura",
-      "resumen": "Familiares de Miguel Ángel Asturias recibieron las cenizas del autor para su retorno a Guatemala en un homenaje especial celebrado en París.\nThe post Inicia retorno de Miguel Ángel Asturias a Guatemala con la entrega de sus cenizas en París appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Revelan detalles del Festival Navideño de la Ciudad, Mapping y otras actividades de la época",
-      "link": "https://www.guatemala.com/noticias/entretenimiento/festival-navideno-ciudad-guatemala-2026-fechas-atracciones-y-mas.html",
-      "fecha": "Wed, 04 Nov 2026 20:02:17 +0000",
-      "categoria": "Entretenimiento",
-      "resumen": "Revelan detalles del Festival Navideño, mapping, bazares y actividades de la época en el Mapa en Relieve y la Ciudad de Guatemala para este 2026.\nThe post Revelan detalles del Festival Navideño de la Ciudad, Mapping y otras actividades de la época appeared first on Guatemala.com."
     }
   ]
 }
