@@ -1,7 +1,215 @@
 {
-  "actualizado": "2026-11-11T09:05:11.939Z",
+  "actualizado": "2026-11-11T17:47:56.088Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Accidente en pista de Alta Verapaz: aeronave despegaba cuando ocurrió percance con motocicleta",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-en-pista-de-alta-verapaz-aeronave-despegaba-cuando-ocurrio-percance-con-motocicleta-breaking/",
+      "fecha": "Wed, 11 Nov 2026 17:03:18 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Aeronáutica informó que las autoridades competentes tendrán que esclarecer el percance ocurrido en la pista de aviación de Fray Bartolomé de las Casas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En imágenes: decenas de detenidos en la primera huelga general en España en 14 años",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/en-imagenes-decenas-de-detenidos-en-la-primera-huelga-general-en-espana-en-14-anos/",
+      "fecha": "Wed, 11 Nov 2026 17:02:04 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Con un seguimiento de la huelga dispar, los españoles protestan este miércoles por la crisis de la vivienda y el alto costo de la vida en el país europeo."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Tráfico en Guatemala por actividades de fin de año 2026",
+      "link": "https://www.guatemala.com/noticias/comunidad/trafico-guatemala-2026-actividades-fin-de-ano.html",
+      "fecha": "Wed, 11 Nov 2026 16:51:47 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Entérate de las actividades de fin de año que podrían generar tráfico en distintas zonas de la Ciudad de Guatemala entre noviembre y diciembre 2026.\nThe post Tráfico en Guatemala por actividades de fin de año 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las dos caras de Trump en las memorias de Biden: Una carta afectuosa y el &#8220;peso del asalto&#8221;",
+      "link": "https://www.prensalibre.com/internacional/las-dos-caras-de-trump-en-las-memorias-de-biden-una-carta-afectuosa-y-el-peso-del-asalto/",
+      "fecha": "Wed, 11 Nov 2026 16:01:50 +0000",
+      "categoria": "Internacional",
+      "resumen": "En el libro de Biden, que saldrá a la venta el 17 de noviembre, el demócrata reconoció la contradicción y escribió que era \"como si hubiera dos Trump\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tráfico de drogas, una llamada interceptada y amenazas contra “Mosh”: el caso contra el lugarteniente de Los Huistas",
+      "link": "https://www.prensalibre.com/guatemala/justicia/trafico-de-drogas-una-llamada-interceptada-y-amenazas-contra-mosh-el-caso-contra-el-lugarteniente-de-los-huistas/",
+      "fecha": "Wed, 11 Nov 2026 16:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Axel Montejo, conocido como Mosh, fue capturado y ahora busca evitar que las autoridades de EE. UU. lo interroguen sin la presencia de su abogado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dónde serán las primeras nevadas en EE. UU. ante una tormenta que llegará esta semana",
+      "link": "https://www.prensalibre.com/internacional/donde-seran-las-primeras-nevadas-en-ee-uu-ante-una-tormenta-que-llegara-esta-semana/",
+      "fecha": "Wed, 11 Nov 2026 15:54:50 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las autoridades climáticas informan sobre una tormenta en EE. UU. que podría provocar nevadas en algunas zonas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fueron “unas pequeñas vacaciones”: Johnny Depp habla sobre su regreso a Hollywood como Ebenezer Scrooge",
+      "link": "https://www.prensalibre.com/vida/escenario/fueron-unas-pequenas-vacaciones-johnny-depp-habla-sobre-su-regreso-a-hollywood-como-ebenezer-scrooge/",
+      "fecha": "Wed, 11 Nov 2026 15:48:32 +0000",
+      "categoria": "Escenario",
+      "resumen": "El actor estadounidense pasó ocho años sin protagonizar una película de Hollywood, pero ahora regresa con \"Ebenezer: Los fantasmas de Navidad\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuándo y a qué hora llegará Canadá a Guatemala para enfrentar a la Azul y Blanco en la Liga de Naciones?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/cuando-y-a-que-hora-llegara-canada-a-guatemala-para-enfrentar-a-la-azul-y-blanco-en-la-liga-de-naciones/",
+      "fecha": "Wed, 11 Nov 2026 15:35:27 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Con sus principales estrellas, Canadá llegará a Guatemala para abrir una eliminatoria clave rumbo al Final Four."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Aprueban el Decreto 27-2026, Ley del Cine de Guatemala",
+      "link": "https://www.guatemala.com/noticias/sociedad/congreso-aprueba-decreto-27-2026-ley-del-cine-de-guatemala.html",
+      "fecha": "Wed, 11 Nov 2026 15:28:52 +0000",
+      "categoria": "Sociedad",
+      "resumen": "El Congreso de la República aprobó el Decreto 27-2026, Ley de Cine de Guatemala, normativa que promoverá el desarrollo de esta industria en el país.\nThe post Aprueban el Decreto 27-2026, Ley del Cine de Guatemala appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miguel Ángel Asturias: el día que recibió la noticia del Nobel de Literatura mientras celebraba su cumpleaños en París",
+      "link": "https://www.prensalibre.com/vida/escenario/miguel-angel-asturias-el-dia-que-recibio-la-noticia-del-nobel-de-literatura-mientras-celebraba-su-cumpleanos-en-paris/",
+      "fecha": "Wed, 11 Nov 2026 15:27:23 +0000",
+      "categoria": "Escenario",
+      "resumen": "Tras dedicar su vida a la literatura y la poesía, Miguel Ángel Asturias recibió el Premio Nobel de Literatura en 1967. ¿Cómo se enteró de que había obtenido el máximo reconocimiento de las letras?"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Violencia en Guatemala: hallan restos humanos en carretera y reportan tres muertos en ataques armados",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/violencia-en-guatemala-hallan-restos-humanos-en-carretera-y-reportan-tres-muertos-en-ataques-armados-breaking/",
+      "fecha": "Wed, 11 Nov 2026 15:04:50 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Hallan restos humanos en Amatitlán y tres personas mueren en ataques armados en la capital y Chimaltenango."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Pochettino podría dejar a EE. UU: Manchester United ya habría iniciado contactos para ficharlo",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/pochettino-podria-dejar-a-ee-uu-manchester-united-ya-habria-iniciado-contactos-para-ficharlo/",
+      "fecha": "Wed, 11 Nov 2026 14:48:12 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Mauricio Pochettino firmó en agosto una ampliación de su contrato para continuar al frente de la selección de EE. UU. hasta el Mundial del 2030."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Guatemala es un rival muy difícil&#8221;: Jesse Marsch habla antes de visitar El Trébol",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-es-un-rival-muy-dificil-jesse-marsch-habla-antes-de-visitar-el-trebol/",
+      "fecha": "Wed, 11 Nov 2026 14:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Canadá encara con respeto su visita a Guatemala, consciente de la dificultad que representa la Azul y Blanco en los cuartos de final de la Liga de Naciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Me gustaría que vinieras a un partido&#8221;: el mensaje de Vinícius Júnior a un niño sudanés",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/me-gustaria-que-vinieras-a-un-partido-el-mensaje-de-vinicius-junior-a-un-nino-sudanes/",
+      "fecha": "Wed, 11 Nov 2026 13:44:33 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El brasileño Vinícius Júnior sorprende a Zaher con una invitación al Real Madrid y un mensaje de esperanza para su recuperación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bernardo Arévalo sanciona ley que exonera de IVA y aranceles a importaciones del Departamento de Agricultura de EE. UU.",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/bernardo-arevalo-sanciona-ley-que-exonera-de-iva-y-aranceles-a-importaciones-del-departamento-de-agricultura-de-ee-uu-breaking/",
+      "fecha": "Wed, 11 Nov 2026 13:39:40 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El presidente Arévalo sancionó el Decreto 25-2026 del Congreso, que exonera del IVA y de los derechos arancelarios a las importaciones del Departamento de Agricultura de EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jehú Fajardo explica qué necesita Guatemala para competir contra Canadá en la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/fajardo-explica-que-necesita-guatemala-para-competir-contra-canada-en-la-liga-de-naciones/",
+      "fecha": "Wed, 11 Nov 2026 13:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Fajardo destaca la unión del grupo y asegura que Guatemala está lista para competir de tú a tú ante Canadá."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inversión en Guatemala: empresarios piden certeza jurídica y reglas claras para desarrollar carreteras, puertos, telecomunicaciones y energía",
+      "link": "https://www.prensalibre.com/economia/inversion-en-guatemala-empresarios-piden-certeza-juridica-y-reglas-claras-para-desarrollar-carreteras-puertos-telecomunicaciones-y-energia/",
+      "fecha": "Wed, 11 Nov 2026 13:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Guatemala tiene potencial para atraer inversiones en infraestructura crítica, pero necesita generar confianza, certeza jurídica y reglas claras para impulsar proyectos de carreteras, puertos, telecomunicaciones y energía eléctrica, según se expuso durante un foro empresarial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La inspiradora historia de Zaher, el niño que perdió sus dos piernas en Sudán y recibió el apoyo de su ídolo Vinicius Jr para volver a jugar al fútbol",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-inspiradora-historia-de-zaher-el-nino-que-perdio-sus-dos-piernas-en-sudan-y-recibio-el-apoyo-de-su-idolo-vinicius-jr-para-volver-a-jugar-al-futbol/",
+      "fecha": "Wed, 11 Nov 2026 12:41:36 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Zaher habló el año pasado con el Servicio Mundial de la BBC sobre su futbolista favorito y su sueño de poder volver a caminar y jugar a la pelota con sus amigos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MetroRiel en Guatemala: Arévalo sanciona la ley que permitirá implementar el tren de pasajeros",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/metroriel-en-guatemala-arevalo-sanciona-la-ley-que-permitira-implementar-el-tren-de-pasajeros-breaking/",
+      "fecha": "Wed, 11 Nov 2026 12:21:38 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Bernardo Arévalo sanciona el Decreto 24-2026, relacionado con el proyecto MetroRiel, que busca impulsar el transporte ferroviario en el área metropolitana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las huellas de Miguel Ángel Asturias en Guatemala: educación, radio, devoción y todo un legado que ha marcado la historia",
+      "link": "https://www.prensalibre.com/vida/escenario/las-huellas-de-miguel-angel-asturias-en-guatemala-educacion-radio-devocion-y-todo-un-legado-que-ha-marcado-la-historia/",
+      "fecha": "Wed, 11 Nov 2026 12:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Desde la Universidad Popular y el primer radioperiódico de Guatemala hasta la túnica de Jesús de Candelaria y los reconocimientos que llevan su nombre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ruta 66: la historia poco conocida de la carretera más famosa de EE.UU.",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ruta-66-la-historia-poco-conocida-de-la-carretera-mas-famosa-de-ee-uu/",
+      "fecha": "Wed, 11 Nov 2026 11:33:22 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La Ruta 66, que se extiende desde Chicago hasta Santa Mónica, en California, atraviesa territorios ancestrales de numerosos pueblos indígenas. Sin embargo, durante mucho tiempo sus voces quedaron al margen de la narrativa de la histórica carretera."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuánto costarán la gasolina y el diésel en 2027? Estas son las proyecciones de Estados Unidos",
+      "link": "https://www.prensalibre.com/economia/cuanto-costaran-la-gasolina-y-el-diesel-en-2027-estas-son-las-proyecciones-de-estados-unidos/",
+      "fecha": "Wed, 11 Nov 2026 11:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Estados Unidos elevó sus proyecciones de precios de la gasolina y el diésel para el 2027, ante la persistente escasez mundial de combustibles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por fin hay un tratamiento para la demencia de mi hijo de 5 años, pero tiene un costo de US$4 millones",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-fin-hay-un-tratamiento-para-la-demencia-de-mi-hijo-de-5-anos-pero-tiene-un-costo-de-us4-millones/",
+      "fecha": "Wed, 11 Nov 2026 10:46:19 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El tratamiento para la demencia infantil está disponible en Estados Unidos, pero su costo es demasiado elevado para quien no vive allí."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miguel Ángel Asturias: los lugares que marcaron su vida, su exilio y su deseo de volver a Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/miguel-angel-asturias-los-lugares-que-marcaron-su-vida-su-exilio-y-su-deseo-de-volver-a-guatemala/",
+      "fecha": "Wed, 11 Nov 2026 10:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La vida del \"Gran Moyas\" estuvo marcada por su literatura, familia, viajes y un exilio que lo llevó a habitar otras ciudades sin romper su vínculo con Guatemala. Esos lugares también cuentan su historia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Selección de Guatemala: así fue su camino desde la Liga C hasta enfrentar a Canadá en cuartos de final",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-asi-fue-su-camino-desde-la-liga-c-hasta-enfrentar-a-canada-en-cuartos-de-final/",
+      "fecha": "Wed, 11 Nov 2026 10:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Guatemala llega a la serie ante Canadá tras completar un proceso de crecimiento que la lleva desde la Liga C hasta ubicarse entre las ocho mejores selecciones de Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "SuperTex prevé iniciar operaciones en Guatemala en febrero de 2027, ¿cuántos empleos va a generar?",
+      "link": "https://www.prensalibre.com/economia/supertex-preve-iniciar-operaciones-en-guatemala-en-febrero-de-2027-cuantos-empleos-va-a-generar/",
+      "fecha": "Wed, 11 Nov 2026 10:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La compañía busca ampliar su presencia en Centroamérica y aprovechar las oportunidades comerciales del sector textil para exportar al mercado estadounidense."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Fed advierte sobre riesgos en bonos corporativos y financiamiento de proyectos de inteligencia artificial",
@@ -128,7 +336,7 @@
       "link": "https://www.prensalibre.com/guatemala/politica/ley-del-fondo-nacional-de-becas-se-aprueba-sin-discusion-pero-con-enmiendas-de-urgencia-nacional/",
       "fecha": "Wed, 11 Nov 2026 03:40:10 +0000",
       "categoria": "Guatemala",
-      "resumen": "La nueva ley planteba reforma a la Ley del IVA al reducir lo destinado a combatir el hambre, pero oficialistas descartaron el artículo a último momento."
+      "resumen": "La nueva ley planteaba reforma a la Ley del IVA al reducir lo destinado a combatir el hambre, pero oficialistas descartaron el artículo a último momento."
     },
     {
       "fuente": "Prensa Libre",
@@ -635,198 +843,6 @@
       "resumen": "Una mujer afirma que el jefe de una agencia la envió a sesiones de fotos en la casa de playa del delincuente sexual."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Johnny Depp regresa al cine con &#8220;Ebenezer: Los fantasmas de Navidad&#8221;: cuándo y dónde verla en Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/johnny-depp-regresa-al-cine-con-ebenezer-los-fantasmas-de-navidad-cuando-y-donde-verla-en-guatemala/",
-      "fecha": "Tue, 10 Nov 2026 10:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Irreconocible, como suele aparecer en la pantalla grande, Johnny Depp regresa al cine para interpretar a uno de los personajes clásicos de la Navidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Liga de Naciones: ¿cuándo serán los partidos de Guatemala frente a Canadá por los cuartos de final?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-de-naciones-cuando-seran-los-partidos-de-guatemala-frente-a-canada-por-los-cuartos-de-final/",
-      "fecha": "Tue, 10 Nov 2026 10:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Guatemala afina detalles para enfrentar a Canadá en los cuartos de final de la Liga de Naciones, una serie que también otorga un boleto directo a la Copa Oro 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump nombra a Stephen Miller jefe de gabinete y anticipa una etapa de confrontación con los demócratas",
-      "link": "https://www.prensalibre.com/internacional/trump-nombra-a-stephen-miller-jefe-de-gabinete-y-anticipa-una-etapa-de-confrontacion-con-los-democratas/",
-      "fecha": "Tue, 10 Nov 2026 06:59:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Stephen Miller, impulsor de las deportaciones de Donald Trump, asumirá la jefatura de gabinete de la Casa Blanca ante un Congreso controlado por demócratas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nuevo ministro del Maga asume con baja ejecución presupuestaria y una crisis agrícola por atender",
-      "link": "https://www.prensalibre.com/guatemala/politica/nuevo-ministro-del-maga-asume-con-baja-ejecucion-presupuestaria-y-una-crisis-agricola-por-atender/",
-      "fecha": "Tue, 10 Nov 2026 06:10:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La gestión de José López Leonardo abre una nueva etapa en el Ministerio de Agricultura, Ganadería y Alimentación (Maga), que enfrenta cuestionamientos por la ejecución de su presupuesto y desafíos relacionados con la seguridad alimentaria y la atención a los productores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Recaudación tributaria 2026: SAT prevé cumplir la meta por estrecho margen pese a exoneración de combustibles",
-      "link": "https://www.prensalibre.com/economia/recaudacion-tributaria-2026-sat-preve-cumplir-la-meta-por-estrecho-margen-pese-a-exoneracion-de-combustibles/",
-      "fecha": "Tue, 10 Nov 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Los cambios aprobados por el Congreso de la República, relacionados con la exoneración de impuestos a los combustibles, obligaron a revisar las proyecciones de recaudación tributaria para el último trimestre del año. Pese a estos ajustes, se prevé alcanzar la meta de recaudación, aunque de manera ajustada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El candidato de los disfraces",
-      "link": "https://www.prensalibre.com/opinion/caricatura/el-candidato-de-los-disfraces/",
-      "fecha": "Tue, 10 Nov 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Politiquería engulle presupuestos",
-      "link": "https://www.prensalibre.com/opinion/editorial/politiqueria-engulle-presupuestos/",
-      "fecha": "Tue, 10 Nov 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Hay componendas miopes que solo esperan la ocasión de dar otra dentellada a los recursos aportados por la ciudadanía productiva."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De apagones y emergencias",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/de-apagones-y-emergencias/",
-      "fecha": "Tue, 10 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La prudencia consiste en prepararse mientras todavía podemos escoger cómo hacerlo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Próximo presidente: Guatemala necesita que el Estado funcione",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/proximo-presidente-guatemala-necesita-que-el-estado-funcione/",
-      "fecha": "Tue, 10 Nov 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Guatemala está cansada de esperar. Hay recursos, urge actuar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Pactar con el crimen o enfrentarlo?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/pactar-con-el-crimen-o-enfrentarlo/",
-      "fecha": "Tue, 10 Nov 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El incremento de homicidios es un hecho en 16 departamentos, y la evolución de la violencia merece examinarse también a la luz de los cambios en el Ministerio de Gobernación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Blindar la justicia capturada",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/blindar-la-justicia-capturada/",
-      "fecha": "Tue, 10 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La coalición autoritaria no está dispuesta a ceder terreno."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy martes 10 de noviembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-10-de-noviembre-de-2026/",
-      "fecha": "Tue, 10 Nov 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Samuel Gregg, doctor &#8220;honoris causa&#8221;",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/samuel-gregg-doctor-honoris-causa/",
-      "fecha": "Tue, 10 Nov 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Invito a leer los libros de Gregg."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un nuevo modelo se incorpora a las aventuras en dos ruedas",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/un-nuevo-modelo-se-incorpora-a-las-aventuras-en-dos-ruedas/",
-      "fecha": "Tue, 10 Nov 2026 05:30:16 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Inspirada en un legado legendario de más de 20 años y diseñada para redefinir el concepto de versatilidad, estilo y dinamismo en el segmento de entrada a la aventura, se presenta la nueva motocicleta Suzuki V-Strom 160 con potencia, tecnología de vanguardia y frenos ABS de doble canal para dominar el tráfico urbano y los caminos de terracería."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Es insostenible&#8221;: El Hierro, la isla de 12.000 habitantes en Canarias a la que han llegado 8.000 migrantes en barca en las últimas 5 semanas",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/es-insostenible-el-hierro-la-isla-de-12-000-habitantes-en-canarias-a-la-que-han-llegado-8-000-migrantes-en-barca-en-las-ultimas-5-semanas/",
-      "fecha": "Tue, 10 Nov 2026 04:05:01 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La isla canaria de El Hierro vide desde hace unas semanas una mayor afluencia de cayucos y la acogida de migrantes pone el sistema sanitario al borde del colapso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fortalecen su comercialización e inventario con un nuevo centro de distribución",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/fortalecen-su-comercializacion-e-inventario-con-un-nuevo-centro-de-distribucion/",
-      "fecha": "Tue, 10 Nov 2026 04:02:39 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Ubicado en San Miguel Petapa, Distribuidora Mariscal (DM) inauguró su Centro de Distribución (CEDI) Álamos, con esta inversión, la empresa refuerza su compromiso de garantizar disponibilidad de producto y tiempos de entrega más ágiles para sus clientes, tiendas y proyectos en todo el país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La reina guatemalteca María Adelina Castillo llega a Puerto Rico en busca de la corona de Miss Universo 2026",
-      "link": "https://www.prensalibre.com/vida/escenario/la-reina-guatemalteca-maria-adelina-castillo-llega-a-puerto-rico-en-busca-de-la-corona-de-miss-universo-2026/",
-      "fecha": "Tue, 10 Nov 2026 03:53:16 +0000",
-      "categoria": "Escenario",
-      "resumen": "Miss Universo Guatemala ya se encuentra en Puerto Rico para participar en la 75.ª edición del certamen mundial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Consolida su presencia en el occidente del país",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/consolida-su-presencia-en-el-occidente-del-pais/",
-      "fecha": "Tue, 10 Nov 2026 03:37:47 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Grupo Continental Motores fortalece su presencia en el occidente del país con la inauguración oficial de las instalaciones de Volkswagen Xela, ubicada en la salida a San Marcos, frente a Interplaza Xela, Quetzaltenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MP logra la extinción de dominio de un picop decomisado a “Piolín”, hermano de la “Reyna del Sur” y extraditado a EE. UU.",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mp-logra-la-extincion-de-dominio-de-un-picop-decomisado-a-piolin-hermano-de-la-reyna-del-sur-y-extraditado-a-ee-uu-breaking/",
-      "fecha": "Tue, 10 Nov 2026 03:35:51 +0000",
-      "categoria": "Justicia",
-      "resumen": "El MP logró la extinción de dominio de un picop decomisado a Wilber Antonio Romero Mora, alias “Piolín”, hermano de la “Reyna del Sur”, quien fue extraditado a Estados Unidos por narcotráfico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Léster Martínez responde sobre una posible pelea con Canelo Álvarez en el Estadio Azteca",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/lester-martinez-responde-sobre-una-posible-pelea-con-canelo-alvarez-en-el-estadio-azteca/",
-      "fecha": "Tue, 10 Nov 2026 03:16:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El guatemalteco habló sobre la posibilidad de enfrentar al mexicano y aseguró que su objetivo es conquistar el título mundial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inauguran nuevo Centro de Canje en Santa Cruz del Quiché",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/inauguran-nuevo-centro-de-canje-en-santa-cruz-del-quiche/",
-      "fecha": "Tue, 10 Nov 2026 02:40:18 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Zeta Gas continúa premiando la preferencia y fidelidad de sus usuarios en Guatemala, con su programa de lealtad Zeta Premia, ahora acerca sus beneficios a más usuarios con la inauguración de un nuevo Centro de Canje en el Centro Comercial Los Celajes, kilómetro 165.5, aldea Chicorral, tercer nivel, local 305, que ofrece instalaciones más amplias y una ubicación estratégica para brindar una experiencia más cómoda y una mayor variedad de productos a sus clientes y usuarios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Drones de la PNC: el primer resultado del plan piloto tras la captura de un presunto asaltante",
-      "link": "https://www.prensalibre.com/guatemala/justicia/drones-de-la-pnc-el-primer-resultado-del-plan-piloto-tras-la-captura-de-un-presunto-asaltante/",
-      "fecha": "Tue, 10 Nov 2026 02:30:52 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC reportó la primera captura con apoyo de drones en la zona 7 capitalina, donde fue localizado un hombre señalado de asaltar a una mujer de 70 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una celebración diseñada para compartir, celebrar y agradecer",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-celebracion-disenada-para-compartir-celebrar-y-agradecer/",
-      "fecha": "Tue, 10 Nov 2026 02:01:55 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Cerveza Gallo invita a las familias guatemaltecas a reunirse este sábado 14 de noviembre a partir de las 7:00 de la noche en Plaza Obelisco, así como en 33 localidades más a nivel nacional, para disfrutar de un espectáculo que combinará música y luces, en el tradicional Festival Árbol Gallo 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué James Gunn y Peter Safran dejarán la dirección de DC Studios y quién tomará su lugar?",
-      "link": "https://www.prensalibre.com/vida/escenario/por-que-james-gunn-y-peter-safran-dejaran-la-direccion-de-dc-studios-y-quien-tomara-su-lugar/",
-      "fecha": "Tue, 10 Nov 2026 01:47:41 +0000",
-      "categoria": "Escenario",
-      "resumen": "Skydance anunció la salida de James Gunn y Peter Safran de la dirección de DC Studios y nombró a un nuevo responsable para liderar el universo de superhéroes."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "ROWOR F400 en Guatemala: precio, capacidad y características del nuevo camión",
       "link": "https://www.guatemala.com/noticias/vida/rowor-f400.html",
@@ -857,22 +873,6 @@
       "fecha": "Sun, 08 Nov 2026 20:30:00 +0000",
       "categoria": "Sociedad",
       "resumen": "Adelina Castillo, Miss Universe Guatemala 2026, llegó a Puerto Rico para iniciar su concentración en el certamen más importante de la belleza.\nThe post Adelina Castillo se encuentra en Puerto Rico representando a Guatemala en Miss Universe 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Clima en Guatemala: pronóstico para el fin de semana del 7 y 8 de noviembre 2026",
-      "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-7-y-8-noviembre-2026.html",
-      "fecha": "Fri, 06 Nov 2026 15:12:21 +0000",
-      "categoria": "Comunidad",
-      "resumen": "¿Lloverá? ¿Habrá calor? Descubre aquí cómo estará el clima en Guatemala este 7 y 8 de noviembre de 2026, el primer fin de semana del mes. \nThe post Clima en Guatemala: pronóstico para el fin de semana del 7 y 8 de noviembre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Parqueos para asistir a la Noche de los Museos 2026 en Guatemala",
-      "link": "https://www.guatemala.com/noticias/comunidad/noche-de-los-museos-2026-en-guatemala-parqueos.html",
-      "fecha": "Thu, 05 Nov 2026 22:23:08 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Conoce las tarifas de los parqueos cercanos a los establecimientos participantes en la Noche de los Museos 2026 en la Ciudad de Guatemala.\nThe post Parqueos para asistir a la Noche de los Museos 2026 en Guatemala appeared first on Guatemala.com."
     }
   ]
 }
