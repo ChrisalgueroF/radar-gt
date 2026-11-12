@@ -1,7 +1,207 @@
 {
-  "actualizado": "2026-11-12T00:20:15.849Z",
+  "actualizado": "2026-11-12T08:05:24.176Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027: analistas cuestionan pactos para aprobar leyes que no atienden las grandes demandas",
+      "link": "https://www.prensalibre.com/guatemala/politica/presupuesto-2027-analistas-cuestionan-pactos-para-aprobar-leyes-que-no-atienden-las-grandes-demandas/",
+      "fecha": "Thu, 12 Nov 2026 06:12:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La moneda de cambio para la aprobación de al menos cuatro decretos sería la futura discusión del presupuesto nacional que sería asignado en año electoral."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Subirán los precios en Guatemala en el 2027? Esto proyecta el Banguat",
+      "link": "https://www.prensalibre.com/economia/subiran-los-precios-en-guatemala-en-el-2027-esto-proyecta-el-banguat/",
+      "fecha": "Thu, 12 Nov 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El Banguat prevé que la inflación cierre el 2026 en 4.25% y se modere al 4% en el 2027, ante menores presiones externas y una normalización de las condiciones climáticas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El designado",
+      "link": "https://www.prensalibre.com/opinion/caricatura/el-designado/",
+      "fecha": "Thu, 12 Nov 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Limpiar ruta de inversión desde EE. UU. es vital",
+      "link": "https://www.prensalibre.com/opinion/editorial/limpiar-ruta-de-inversion-desde-ee-uu-es-vital/",
+      "fecha": "Thu, 12 Nov 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Partidos políticos y aspirantes serios deberían estar hablando ya de una agenda fundamental de consenso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tres increíbles maneras en que la inquietud beneficia su salud",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/tres-increibles-maneras-en-que-la-inquietud-beneficia-su-salud/",
+      "fecha": "Thu, 12 Nov 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Las contracciones musculares de las piernas, por ejemplo, ayudan a que la sangre regrese del tren inferior al corazón, manteniendo así un flujo sanguíneo saludable."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Se despertará un fuego",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/se-despertara-un-fuego/",
+      "fecha": "Thu, 12 Nov 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Nunca conocí personalmente a Asturias, pero lo conocí."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cine para unos, impuestos para todos",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/cine-para-unos-impuestos-para-todos/",
+      "fecha": "Thu, 12 Nov 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La ley es pésima, pues el gobierno se convierte en productor y promotor de la industria de cine, y esa no es su función."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El reloj de la historia",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-reloj-de-la-historia/",
+      "fecha": "Thu, 12 Nov 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Guatemala puede soñar con un futuro en paz y de bienestar para todos. Y puede lograrlo, a pesar de los momentos grises de su historia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por su propia boca",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/por-su-propia-boca/",
+      "fecha": "Thu, 12 Nov 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Su estilo fanfarrón, impredecible y confrontativo, cansó."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy jueves 12 de noviembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-12-de-noviembre-de-2026/",
+      "fecha": "Thu, 12 Nov 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Reporte de inventarios y los regímenes del ISR",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/reporte-de-inventarios-y-los-regimenes-del-isr/",
+      "fecha": "Thu, 12 Nov 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Las empresas de servicios, al no tener bienes para la venta, no reportan inventarios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Artista multifacético Alexander Ferrar publica su nueva obra literaria: una trilogía sobre el heroísmo y fuerza de la mujer",
+      "link": "https://www.prensalibre.com/revista-d/artista-multifacetico-alexander-ferrar-publica-su-nueva-obra-literaria-una-trilogia-sobre-el-heroismo-y-fuerza-de-la-mujer/",
+      "fecha": "Thu, 12 Nov 2026 06:00:00 +0000",
+      "categoria": "Revista D",
+      "resumen": "Alexander Ferrar, escritor y artista originario de Bahamas, radicado en Antigua Guatemala, presenta su más reciente obra literaria."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sloviansk, la ciudad devastada del frente de batalla que Rusia quiere que Ucrania le entregue",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/sloviansk-la-ciudad-devastada-del-frente-de-batalla-que-rusia-quiere-que-ucrania-le-entregue/",
+      "fecha": "Thu, 12 Nov 2026 04:45:07 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La BBC logró acceder a una unidad especializada en drones que protege la ciudad de Sloviansk, en el este de Ucrania, de los constantes ataques de Rusia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Grandes oportunidades para obtener premios semanales en efectivo",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/grandes-oportunidades-para-obtener-premios-semanales-en-efectivo/",
+      "fecha": "Thu, 12 Nov 2026 03:35:56 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Esta temporada de fin de año, Banco Azteca Guatemala invita a los guatemaltecos a poner su dinero a trabajar por sus metas y participar en el Ahorratón de Guardadito, para tener durante ocho semanas, la oportunidad de ganar premios en efectivo desde Q500 hasta Q200 mil."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;PNC de nuevo de luto&#8221;: asesinan a pareja de agentes en Jutiapa, tres menores resultan heridos y surgen dudas sobre el móvil del ataque",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/pnc-de-nuevo-de-luto-asesinan-a-pareja-de-agentes-en-jutiapa-tres-menores-resultan-heridos-y-surgen-dudas-sobre-el-movil-del-ataque/",
+      "fecha": "Thu, 12 Nov 2026 03:11:34 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Dos agentes de la PNC que eran pareja murieron junto con la madre de uno de ellos en un ataque armado en Jutiapa, que también dejó cuatro heridos, entre ellos tres menores de edad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "CC aclara al Congreso que no exige peritajes para verificar firmas de reformas constitucionales",
+      "link": "https://www.prensalibre.com/guatemala/cc-aclara-al-congreso-que-no-exige-peritajes-para-verificar-firmas-de-reformas-constitucionales/",
+      "fecha": "Thu, 12 Nov 2026 03:00:48 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La CC aclaró que el Registro de Ciudadanos del TSE debe cotejar las firmas que respaldan las propuestas de reformas constitucionales, sin necesidad de practicar peritajes grafotécnicos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“El universo de Miguel Ángel Asturias”: el sello postal conmemorativo del Premio Nobel de Literatura llevará su legado por el mundo",
+      "link": "https://www.prensalibre.com/vida/escenario/el-universo-de-miguel-angel-asturias-el-sello-postal-conmemorativo-del-premio-nobel-de-literatura-llevara-su-legado-por-el-mundo/",
+      "fecha": "Thu, 12 Nov 2026 03:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Como antesala a la repatriación de los restos de Miguel Ángel Asturias a Guatemala, Correos presentó una emisión postal dedicada al Premio Nobel de Literatura. Esto se conoce del sello postal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jensen Huang podría dejar de dirigir Nvidia: qué se sabe de la reunión que definirá su futuro",
+      "link": "https://www.prensalibre.com/vida/tecnologia/jensen-huang-podria-dejar-de-dirigir-nvidia-que-se-sabe-de-la-reunion-que-definira-su-futuro/",
+      "fecha": "Thu, 12 Nov 2026 02:45:37 +0000",
+      "categoria": "Tecnología",
+      "resumen": "La junta directiva de Nvidia analiza destituir a Jensen Huang, en medio de una controversia que ya provocó fuertes pérdidas bursátiles a la compañía."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Intervención de Ueno Bank en Paraguay: qué pasó y cuál es el impacto económico",
+      "link": "https://www.prensalibre.com/economia/intervencion-de-ueno-bank-en-paraguay-que-paso-y-cual-es-el-impacto-economico/",
+      "fecha": "Thu, 12 Nov 2026 02:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La crisis de Ueno Bank en Paraguay podría generar pérdidas de hasta el 2% del PIB y afectar miles de empleos, según estimaciones de gremios empresariales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Derrumbe en Nueva York deja dos muertos y 17 heridos: cómo avanza el rescate entre los escombros",
+      "link": "https://www.prensalibre.com/internacional/derrumbe-en-nueva-york-deja-dos-muertos-y-17-heridos-como-avanza-el-rescate-entre-los-escombros/",
+      "fecha": "Thu, 12 Nov 2026 02:24:48 +0000",
+      "categoria": "Internacional",
+      "resumen": "El derrumbe de un edificio de tres plantas en Brooklyn dejó dos muertos y 17 heridos, mientras los rescatistas buscan a posibles personas atrapadas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así piensa Pedro Cabrera, nominado como embajador de EE. UU. en Guatemala, sobre el futuro político de Latinoamérica",
+      "link": "https://www.prensalibre.com/guatemala/politica/asi-piensa-pedro-cabrera-nominado-como-embajador-de-ee-uu-en-guatemala-sobre-el-futuro-politico-de-latinoamerica/",
+      "fecha": "Thu, 12 Nov 2026 01:46:09 +0000",
+      "categoria": "Política",
+      "resumen": "Pedro Cabrera, nominado como embajador de EE. UU. en Guatemala, habló sobre el futuro de Latinoamérica en una entrevista concedida a Prensa Libre Radio en octubre pasado, en la que se abordó la orden de captura contra Raúl Castro."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Se unen para sumar esfuerzos por el desarrollo integral de Guatemala",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/se-unen-para-sumar-esfuerzos-por-el-desarrollo-integral-de-guatemala/",
+      "fecha": "Thu, 12 Nov 2026 01:02:54 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Con el propósito de sumar esfuerzos para favorecer el desarrollo integral de Guatemala, un grupo de fundaciones privadas presentó la iniciativa Alianza de Fundaciones Privadas por Guatemala, con la cual se busca fortalecer el trabajo conjunto mediante el intercambio de experiencias, conocimientos y aprendizajes, con énfasis en nutrición, educación y empoderamiento económico del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ixchiguán y Tajumulco: alcaldes exigen soluciones ante escalada del conflicto territorial en San Marcos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ixchiguan-y-tajumulco-alcaldes-exigen-soluciones-ante-escalada-del-conflicto-territorial-en-san-marcos/",
+      "fecha": "Thu, 12 Nov 2026 01:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "En medio de nuevos hechos de violencia entre Ixchiguán y Tajumulco, los alcaldes señalan la falta de soluciones del Estado para poner fin al conflicto territorial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La histórica victoria de Scott Colom, el primer senador negro del conservador estado de Misisipi en más de 140 años",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-historica-victoria-de-scott-colom-el-primer-senador-negro-del-conservador-estado-de-misisipi-en-mas-de-140-anos/",
+      "fecha": "Thu, 12 Nov 2026 00:49:39 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La victoria de Colom lo convierte además en el primer senador demócrata en Misisipi desde 1982."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Infidelidad con una ejecutiva de Nvidia? el nuevo escándalo que rodea a Jensen Huang",
+      "link": "https://www.prensalibre.com/internacional/infidelidad-con-una-ejecutiva-de-nvidia-el-nuevo-escandalo-que-rodea-a-jensen-huang-breaking/",
+      "fecha": "Thu, 12 Nov 2026 00:10:10 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un reportaje de The New York Times afirma que Jensen Huang, líder de Nvidia, habría tenido otra relación extramatrimonial con una ejecutiva de la empresa."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Jueza absuelve a Sergio Morataya y Heizel Morales por el caso de la ocupación del Paraninfo de la Usac",
@@ -72,7 +272,7 @@
       "link": "https://www.prensalibre.com/guatemala/politica/pedro-cabrera-del-gobierno-municipal-de-doral-florida-a-la-nominacion-como-embajador-en-guatemala/",
       "fecha": "Wed, 11 Nov 2026 21:22:30 +0000",
       "categoria": "Guatemala",
-      "resumen": "La nominación de Pedro Cabrera como próximo embajador de Estados Unidos en Guatemala pone en escena a un empresario de Florida con más de 19 años de trayectoria en la política municipal de Doral, donde ocupó una silla en el Concejo y ejerció como vicealcalde."
+      "resumen": "La nominación de Pete Cabrera como próximo embajador de Estados Unidos en Guatemala pone en escena a un empresario de Florida con más de 19 años de trayectoria en la política municipal de Doral, donde ocupó una silla en el Concejo y ejerció como vicealcalde."
     },
     {
       "fuente": "Prensa Libre",
@@ -619,94 +819,6 @@
       "resumen": "Una caravana de unos 2 mil migrantes salió del sur de México con la esperanza de llegar a EE. UU. tras las elecciones legislativas."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "José Eduardo Derbez niega complicidad en caso de abuso que enfrenta su hermano: &#8220;Yo respondo por mí&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/jose-eduardo-derbez-niega-complicidad-en-caso-de-abuso-que-enfrenta-su-hermano-yo-respondo-por-mi/",
-      "fecha": "Wed, 11 Nov 2026 02:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El actor y conductor niega haber sido testigo de ningún delito por parte de Vadhir Derbez y pide respeto a los medios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nvidia contrata a un exfiscal federal para investigar a Jensen Huang: qué alcance tendrá la pesquisa",
-      "link": "https://www.prensalibre.com/internacional/nvidia-contrata-a-un-exfiscal-federal-para-investigar-a-jensen-huang-que-alcance-tendra-la-pesquisa/",
-      "fecha": "Wed, 11 Nov 2026 01:58:54 +0000",
-      "categoria": "Internacional",
-      "resumen": "Nvidia encargó a un exfiscal federal y un reconocido bufete de abogados investigar la relación de Jensen Huang con una empresaria china."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala autoriza la importación de otras 60 mil toneladas de maíz sin aranceles ante la sequía",
-      "link": "https://www.prensalibre.com/economia/guatemala-autoriza-la-importacion-de-otras-60-mil-toneladas-de-maiz-sin-aranceles-ante-la-sequia-breaking/",
-      "fecha": "Wed, 11 Nov 2026 01:34:14 +0000",
-      "categoria": "Economía",
-      "resumen": "Guatemala autorizó la importación sin aranceles de otras 60 mil toneladas métricas de maíz blanco para garantizar el abastecimiento del grano, ante la sequía que afecta al país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Precios del gas: MEM y DIACO admiten que no han cobrado multas ni presentado denuncias penales por sobreprecios",
-      "link": "https://www.prensalibre.com/economia/precios-del-gas-propano-mem-y-diaco-admiten-que-no-han-cobrado-multas-ni-presentado-denuncias-penales-por-sobreprecios/",
-      "fecha": "Wed, 11 Nov 2026 01:30:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Luego de discutir los aumentos del precios del propano, los diputados han dado un ultimátum a las autoridades de la Diaco y un plazo hasta el miércoles a las 12.00 horas para entregar expedientes de denuncias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala será el país invitado del festival Cinélatino 2027 en Francia",
-      "link": "https://www.prensalibre.com/vida/escenario/guatemala-sera-el-pais-invitado-del-festival-cinelatino-2027-en-francia/",
-      "fecha": "Wed, 11 Nov 2026 01:05:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La 39 edición de esta muestra cinematográfica abrirá las puertas a la producción guatemalteca a la que reconoce como una de las más notables de la región centroamericana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Oficialismo recurre otra vez a negociaciones y aprueba la Ley de Cine de urgencia nacional",
-      "link": "https://www.prensalibre.com/guatemala/politica/oficialismo-recurre-otra-vez-a-negociaciones-y-aprueba-la-ley-de-cine-de-urgencia-nacional/",
-      "fecha": "Wed, 11 Nov 2026 01:03:47 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La diputada Victoria Godoy Palala, que encabeza el bloque oficialista, justificó que la ley se impulsó de urgencia para atender a una necesidad de cineastas desde hace 18 años."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El camino de Léster Martínez para enfrentar a Canelo Álvarez: esto necesita el guatemalteco para acercarse al título mundial",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/lester-martinez-camino-enfrentar-canelo-alvarez/",
-      "fecha": "Wed, 11 Nov 2026 01:00:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El guatemalteco deberá defender su título interino ante un rival del top 10, mientras Eddy Reynoso confirma cuándo regresaría el mexicano al ring."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Oleoducto de Guatemala: MEM convoca a empresas para inspección previa a licitación",
-      "link": "https://www.prensalibre.com/economia/oleoducto-de-guatemala-mem-convoca-a-empresas-para-inspeccion-previa-a-licitacion/",
-      "fecha": "Wed, 11 Nov 2026 01:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Las empresas interesadas deberán inspeccionar la infraestructura petrolera entre Izabal y Petén, antes de presentar sus propuestas. El proceso se desarrolla después de la visita técnica al Campo Xan, realizada en octubre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Padre de Meghan Markle vuelve a prisión: qué hizo para que una jueza revocara su arresto domiciliario",
-      "link": "https://www.prensalibre.com/internacional/padre-de-meghan-markle-vuelve-a-prision-que-hizo-para-que-una-jueza-revocara-su-arresto-domiciliario/",
-      "fecha": "Wed, 11 Nov 2026 00:43:49 +0000",
-      "categoria": "Internacional",
-      "resumen": "El padre de Meghan Markle volvió a prisión en EE. UU. tras quitarse el localizador electrónico y violar las condiciones de su libertad condicional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una discusión, un hombre que regresó armado, dos muertos y un video: los detalles del ataque armado en Esquipulas",
-      "link": "https://www.prensalibre.com/guatemala/una-discusion-un-hombre-que-regreso-armado-dos-muertos-y-un-video-los-detalles-del-ataque-armado-en-esquipulas-breaking/",
-      "fecha": "Wed, 11 Nov 2026 00:40:27 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Una discusión habría precedido al ataque armado que dejó dos hombres muertos y uno herido en Esquipulas, Chiquimula. El hecho quedó grabado en video."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Expatrulleros se plantan frente al Congreso para exigir compensación económica contemplada en la iniciativa 6566",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/expatrulleros-se-plantan-frente-al-congreso-para-exigir-compensacion-economica-contemplada-en-la-iniciativa-6566-breaking/",
-      "fecha": "Wed, 11 Nov 2026 00:27:33 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Expatrulleros se plantan frente al Congreso para exigir que los diputados voten a favor de la iniciativa 6566, que contempla una compensación económica para exintegrantes de las PAC."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Miss Universe 2026, ¿cuándo se celebrará la gala del 75 aniversario?",
       "link": "https://www.guatemala.com/noticias/sociedad/miss-universe-2026-cuando-y-donde-ver-competencia-traje-nacional-preliminar-y-final.html",
@@ -723,124 +835,12 @@
       "resumen": "La soprano guatemalteca Adriana González debutará en la Ópera Metropolitana de Nueva York con un papel protagonista en la tragedia de «Otelo».\nThe post Guatemalteca Adriana González se presentará por primera vez en el Metropolitan Opera de Nueva York appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Ataque armado contra taxi pirata deja un hombre muerto y una mujer herida en parqueo de la zona 1",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-contra-taxi-pirata-deja-un-hombre-muerto-y-una-mujer-herida-en-parqueo-de-la-zona-1-breaking/",
-      "fecha": "Wed, 11 Nov 2026 00:05:50 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un ataque armado contra un taxi pirata en un parqueo de la zona 1 de la capital dejó un hombre muerto y una mujer herida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Camilo Séptimo dedica canción a Jonathan Meléndez y a su familia. ¿Qué dice el tema musical?",
-      "link": "https://www.prensalibre.com/vida/escenario/camilo-septimo-dedica-cancion-a-jonathan-melendez-y-a-su-familia-que-dice-el-tema-musical/",
-      "fecha": "Wed, 11 Nov 2026 00:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La banda ofrece un homenaje a su tecladista con la composición inédita \"Kundalini\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ley de Ciberseguridad: Congreso rechaza objeciones y deja vía libre para enviar decreto a Arévalo",
-      "link": "https://www.prensalibre.com/guatemala/politica/ley-de-ciberseguridad-congreso-rechaza-objeciones-y-deja-via-libre-para-enviar-decreto-a-arevalo/",
-      "fecha": "Tue, 10 Nov 2026 23:44:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La nueva ley es cuestionada por diputados de oposición y analistas que ven riesgos por falta de claridad y posibles vulneraciones a derechos humanos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Primer empleo: estudio revela cómo disminuyen las oportunidades para jóvenes sin experiencia según su edad",
-      "link": "https://www.prensalibre.com/economia/primer-empleo-estudio-revela-como-disminuyen-las-oportunidades-para-jovenes-sin-experiencia-segun-su-edad/",
-      "fecha": "Tue, 10 Nov 2026 23:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Un estudio revela que las oportunidades de conseguir el primer empleo disminuyen conforme aumenta la edad de los jóvenes sin experiencia laboral."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las reacciones hacia Bukele y Haití tras el despliegue de soldados salvadoreños a Puerto Príncipe",
-      "link": "https://www.prensalibre.com/internacional/las-reacciones-hacia-bukele-y-haiti-tras-el-despliegue-de-soldados-salvadorenos-a-puerto-principe/",
-      "fecha": "Tue, 10 Nov 2026 22:36:53 +0000",
-      "categoria": "Internacional",
-      "resumen": "El despliegue de más de 2 mil soldados salvadoreños a Puerto Príncipe, por parte de Nayib Bukele para combatir las bandas armadas ha causado diversas reacciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trabajadores del Hospital de Amatitlán denuncian falta de medicamentos, hacinamiento y deterioro de las instalaciones",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/trabajadores-del-hospital-de-amatitlan-denuncian-falta-de-medicamentos-hacinamiento-y-deterioro-de-las-instalaciones/",
-      "fecha": "Tue, 10 Nov 2026 22:30:37 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Trabajadores del Hospital Nacional de Amatitlán denuncian crisis en el centro asistencial, y exigen intervención urgente para garantizar la atención de los pacientes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hasta 186 años de cárcel y Q300 mil de multa: así operaban los cinco condenados de “Los robafurgones del Atlántico”",
-      "link": "https://www.prensalibre.com/guatemala/justicia/hasta-186-anos-de-carcel-y-q300-mil-de-multa-asi-operaban-los-cinco-condenados-de-los-robafurgones-del-atlantico/",
-      "fecha": "Tue, 10 Nov 2026 22:22:08 +0000",
-      "categoria": "Justicia",
-      "resumen": "Cinco integrantes de la estructura criminal fueron condenados por su participación en el robo de 12 camiones entre el 2023 y el 2024. La banda utilizaba armas de fuego, vehículos y bloqueadores de señal para apoderarse de mercadería de alto valor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Detienen a exportero mexicano: ¿A quién acusan de tráficar relojes falsos por casi US$6 millones?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/detienen-a-exportero-mexicano-a-quien-acusan-de-traficar-relojes-falsos-por-casi-us6-millones/",
-      "fecha": "Tue, 10 Nov 2026 22:17:11 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "De las porterías mexicanas a una detención en Estados Unidos: el exportero mexicano acusado de traficar relojes falsificados por más de US$5 millones."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "María «Lola» de Tezanos, la guatemalteca que conecta marcas de lujo con Guatemala",
       "link": "https://www.guatemala.com/noticias/sociedad/maria-lola-de-tezanos-guatemalteca-conecta-marcas-lujo-guatemala.html",
       "fecha": "Tue, 10 Nov 2026 22:09:27 +0000",
       "categoria": "Sociedad",
       "resumen": "María «Lola» de Tezanos es una empresaria guatemalteca que ha conectado marcas de lujo con el mercado latinoamericano por más de 10 años. \nThe post María «Lola» de Tezanos, la guatemalteca que conecta marcas de lujo con Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bukele difunde video del ataque contra 400 Mawozo en Haití y afirma que destruyó su cuartel general",
-      "link": "https://www.prensalibre.com/internacional/bukele-difunde-video-del-ataque-contra-400-mawozo-en-haiti-y-afirma-que-destruyo-su-cuartel-general/",
-      "fecha": "Tue, 10 Nov 2026 22:01:20 +0000",
-      "categoria": "Internacional",
-      "resumen": "Bukele afirmó que destruyeron la vivienda de Wilson Joseph, líder de la pandilla 400 Mawozo, y su cuartel general en Haití, durante un ataque aéreo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "SS United States: Por qué un histórico transatlántico ubicado en el golfo de México será hundido",
-      "link": "https://www.prensalibre.com/internacional/ss-united-states-por-que-un-historico-transatlantico-ubicado-en-el-golfo-de-mexico-sera-hundido/",
-      "fecha": "Tue, 10 Nov 2026 21:49:18 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un buque construido a principios de 1950, con casi 300 metros de eslora y que se encuentra en el golfo de México será hundido por parte de las autoridades de Florida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Detienen en Reino Unido a un militar de alto rango de EE.UU. bajo sospecha de espiar para Rusia",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/detienen-en-reino-unido-a-un-militar-de-alto-rango-de-ee-uu-bajo-sospecha-de-espiar-para-rusia/",
-      "fecha": "Tue, 10 Nov 2026 21:23:17 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El militar de 41 años está acusado de colaborar con los rusos. Fue detenido en una base que sirve a EE.UU. y la OTAN en Inglaterra."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quiénes podrían competir contra Gianni Infantino en las elecciones de la Fifa?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/quienes-podrian-competir-contra-gianni-infantino-en-las-elecciones-de-la-fifa/",
-      "fecha": "Tue, 10 Nov 2026 21:11:47 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Arsène Wenger analiza postularse a la presidencia de la Fifa y podría convertirse en rival de Gianni Infantino en las elecciones de 2027. Según la BBC, el francés evalúa presentar su candidatura antes del 18 de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso califica como crimen político el ataque en contra del diputado Julio Portillo",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-califica-como-crimen-politico-el-ataque-en-contra-del-diputado-julio-portillo/",
-      "fecha": "Tue, 10 Nov 2026 20:59:20 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Congreso realizó su primera sesión luego del crimen contra el diputado Julio Portillo, y advirtieron un panorama desalentador en materia de seguridad para las elecciones del 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El secretario de Defensa de EE.UU. se enfrenta a un posible &#8220;impeachment&#8221; por la guerra en Irán, pero es Trump quien definirá su destino",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-secretario-de-defensa-de-ee-uu-se-enfrenta-a-un-posible-impeachment-por-la-guerra-en-iran-pero-es-trump-quien-definira-su-destino/",
-      "fecha": "Tue, 10 Nov 2026 20:33:02 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Pete Hegseth podría enfrentarse a un juicio político pero es Trump quien podría determinar su destino, plantea este análisis de Gary O'Donoghue."
     },
     {
       "fuente": "Guatemala.com",
