@@ -1,7 +1,143 @@
 {
-  "actualizado": "2026-11-14T02:07:12.409Z",
+  "actualizado": "2026-11-14T09:58:35.803Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Congreso aún no resuelve devolución de 16 mil firmas a Poder Ciudadano",
+      "link": "https://www.prensalibre.com/guatemala/politica/congreso-aun-no-resuelve-devolucion-de-16-mil-firmas-a-poder-ciudadano/",
+      "fecha": "Sat, 14 Nov 2026 06:10:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Edgar Ortiz, directivo de la organización, solicitó recuperar las firmas tras señalar amenazas, pero la CC ordena una evaluación minuciosa de cada firma."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Acusación de espionaje",
+      "link": "https://www.prensalibre.com/opinion/caricatura/acusacion-de-espionaje/",
+      "fecha": "Sat, 14 Nov 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Oportunidad para poner fin a la narcopolítica",
+      "link": "https://www.prensalibre.com/opinion/editorial/oportunidad-para-poner-fin-a-la-narcopolitica/",
+      "fecha": "Sat, 14 Nov 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Para Guatemala, esta sanción debe ser un parteaguas para poner un freno definitivo a la narcopolítica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La disciplina se aprende temprano en la vida",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-disciplina-se-aprende-temprano-en-la-vida/",
+      "fecha": "Sat, 14 Nov 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Los logros alcanzados reflejan sin duda una disciplina constante en todo su proceso."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El talento bien vivido: el silencio martirial",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-talento-bien-vivido-el-silencio-martirial/",
+      "fecha": "Sat, 14 Nov 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "El “secreto de confesión” es hoy atacado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Gana Guatemala al unir su voz a 134 países de G77 más China?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/gana-guatemala-al-unir-su-voz-a-134-paises-de-g77-mas-china/",
+      "fecha": "Sat, 14 Nov 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Los fondos actuales no alcanzan y exigen que los países desarrollados cumplan sus compromisos"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fray Augusto Ramírez Monasterio, beatificado",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/fray-augusto-ramirez-monasterio-beatificado/",
+      "fecha": "Sat, 14 Nov 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Fue un gran anfitrión, por lo que fui invitado a almorzar con regularidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy sábado 14 de noviembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-sabado-14-de-noviembre-de-2026/",
+      "fecha": "Sat, 14 Nov 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Licitación PEG-6: el riesgo que el contrato aún no define",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/licitacion-peg-6-el-riesgo-que-el-contrato-aun-no-define/",
+      "fecha": "Sat, 14 Nov 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Para preparar la oferta solo valen las respuestas de la Junta de Licitación y las adendas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fernando Tena y los errores de Guatemala ante Canadá que dejan al cuadro nacional contra las cuerdas",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/fernando-tena-y-los-errores-de-guatemala-ante-canada-que-dejan-al-cuadro-nacional-contra-las-cuerdas/",
+      "fecha": "Sat, 14 Nov 2026 04:48:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Azul y Blanco cayó 3-2 en la ida de los cuartos de final de la Liga de Naciones de Concacaf. Un primer tiempo plagado de errores defensivos y un mediocampo superado pesaron más que la reacción de la segunda mitad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Santis y Evans rescatan la esperanza de Guatemala ante Canadá, que se lleva un triunfo por 3-2 del Trébol en la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/santis-y-evans-rescatan-la-esperanza-de-guatemala-ante-canada-que-se-lleva-un-triunfo-por-3-2-del-trebol-en-la-liga-de-naciones-breaking/",
+      "fecha": "Sat, 14 Nov 2026 04:20:53 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Guatemala cayó 2-3 ante Canadá en el Estadio del Trébol, pero los goles de Óscar Santis y Matt Evans mantienen viva la esperanza de remontar la serie en Toronto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Starship de SpaceX: así se vio en los cielos de Guatemala el lanzamiento del cohete",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/starship-de-spacex-asi-se-vio-en-los-cielos-de-guatemala-el-lanzamiento-del-cohete/",
+      "fecha": "Sat, 14 Nov 2026 03:52:14 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Videos compartidos por usuarios en redes sociales muestran cómo se observó desde Guatemala el lanzamiento de Starship, el megacohete de SpaceX."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Asumo la responsabilidad&#8221; Luis Fernando Tena habla de la derrota de Guatemala de 3-2 contra Canadá",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/asumo-la-responsabilidad-luis-fernando-tena-habla-de-la-derrota-de-guatemala-de-3-2-contra-canada-breaking/",
+      "fecha": "Sat, 14 Nov 2026 03:43:53 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Guatemala perdió 3-2 frente a Canadá y buscará remontar la serie el próximo 16 de noviembre. Luis Fernando Tena habló en conferencia de su planteamiento táctico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un inflexible Putin eleva sus exigencias para alcanzar la paz con Ucrania",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-inflexible-putin-eleva-sus-exigencias-para-alcanzar-la-paz-con-ucrania/",
+      "fecha": "Sat, 14 Nov 2026 03:07:01 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "En Moscú se considera una victoria que la seguridad europea figure ahora en las conversaciones, señala Steve Rosenberg, editor de asuntos de Rusia de la BBC."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Edificio MP: juez modifica sentencia contra William Balz y ordena devolver inmueble adquirido por Q35 millones",
+      "link": "https://www.prensalibre.com/guatemala/justicia/edificio-mp-juez-modifica-sentencia-contra-william-balz-y-ordena-devolver-inmueble-adquirido-por-q35-millones/",
+      "fecha": "Sat, 14 Nov 2026 02:39:41 +0000",
+      "categoria": "Justicia",
+      "resumen": "Un juez ordenó devolver al Ministerio Público el edificio de la zona 5 cuya compra por Q35 millones fue judicializada. Además, impuso a William Balz Gallardo el pago de Q100 mil como reparación digna."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. designa como terroristas a Los Lorenzana, Los Huistas y Los Mendoza: ¿qué acciones tomará Guatemala contra estas estructuras?",
+      "link": "https://www.prensalibre.com/guatemala/politica/ee-uu-designa-como-terroristas-a-los-lorenzana-los-huistas-y-los-mendoza-que-acciones-tomara-guatemala-contra-estas-estructuras/",
+      "fecha": "Sat, 14 Nov 2026 02:34:34 +0000",
+      "categoria": "Política",
+      "resumen": "Washington impone nuevas medidas contra tres estructuras del narcotráfico guatemalteco para bloquear sus recursos y operaciones. En Guatemala, el anuncio abre el debate sobre la respuesta institucional y los riesgos de infiltración criminal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En los primeros cinco minutos: Por qué Alphonso Davies fue sustituido en el juego de Guatemala vs Canadá",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-los-primeros-cinco-minutos-por-que-alphonso-davies-fue-sustituido-en-el-juego-de-guatemala-vs-canada-breaking/",
+      "fecha": "Sat, 14 Nov 2026 02:14:33 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El jugador canadiense y figura del Bayern Múnich, Alphonso Davies, fue sustituido en los primeros cinco minutos del partido entre Guatemala y Canadá."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Reprograman audiencia de Horst Oberdick, alias El Tigre, señalado de dirigir una estructura dedicada al narcotráfico",
@@ -12,11 +148,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Miguel Ángel Asturias vuelve a la iglesia de Candelaria entre fe, poesía y la imagen de Jesús Nazareno a la que regaló una túnica",
+      "link": "https://www.prensalibre.com/vida/escenario/miguel-angel-asturias-vuelve-a-la-iglesia-de-candelaria-entre-fe-poesia-y-la-imagen-de-jesus-nazareno-a-la-que-regalo-una-tunica/",
+      "fecha": "Sat, 14 Nov 2026 01:22:04 +0000",
+      "categoria": "Escenario",
+      "resumen": "La iglesia Nuestra Señora de Candelaria, primera parroquia del premio Nobel de Literatura, celebró una eucaristía para pedir por su alma y le rindió honores ante la imagen de \"Cristo Rey\"."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Luto en Totonicapán por Edgar Sapón Gutiérrez, el migrante guatemalteco que murió en el derrumbe de Brooklyn",
       "link": "https://www.prensalibre.com/guatemala/comunitario/luto-en-totonicapan-por-edgar-sapon-gutierrez-el-migrante-guatemalteco-que-murio-en-el-derrumbe-de-brooklyn/",
       "fecha": "Sat, 14 Nov 2026 00:30:00 +0000",
       "categoria": "Comunitario",
       "resumen": "Edgar Santiago Sapón Gutiérrez, de 26 años, buscaba un futuro para su familia en EE. UU. y había emigrado hace tres años, donde trabajaba en la construcción. Su familia ahora espera apoyo para repatriar sus restos a la comunidad de Barraneché, donde nació."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. reanuda vuelos tras suspensión de casi 4 horas y esto explicaron las autoridades",
+      "link": "https://www.prensalibre.com/internacional/ee-uu-reanuda-vuelos-tras-suspension-de-casi-4-horas-y-esto-explicaron-las-autoridades-breaking/",
+      "fecha": "Sat, 14 Nov 2026 00:02:05 +0000",
+      "categoria": "Internacional",
+      "resumen": "La FAA levantó este viernes la suspensión nacional de despegues en EE. UU., que provocó más de 10 mil retrasos y al menos 4 mil 700 vuelos cancelados."
     },
     {
       "fuente": "Prensa Libre",
@@ -68,11 +220,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Guatemala vs. Canadá EN VIVO: sigue el minuto a minuto del partido de ida de los cuartos de final",
+      "titulo": "Guatemala pierde ante Canadá y buscará la remontada en Toronto en la Liga de Naciones",
       "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-en-vivo-sigue-el-minuto-a-minuto-del-partido-de-ida-de-los-cuartos-de-final-breaking/",
       "fecha": "Fri, 13 Nov 2026 22:30:00 +0000",
       "categoria": "Fútbol Nacional",
-      "resumen": "Guatemala recibe esta noche a Canadá en El Trébol, en un duelo clave por la ida de los cuartos de final de la Liga de Naciones de Concacaf."
+      "resumen": "Guatemala jugó dos partidos distintos. En el primer tiempo, Canadá la superó con un contundente 0-3; en el segundo, la Azul y Blanco mostró carácter y descontó con goles de Óscar Santis y Matthew Evans, aunque no le alcanzó para evitar una derrota (2-3) que deja la serie abierta, pero con la obligación de remontar en Canadá."
     },
     {
       "fuente": "Guatemala.com",
@@ -691,14 +843,6 @@
       "resumen": "El videojuego Among Us habría permitido el rescate de una adolescente que permaneció secuestrada por más de 500 días en un sótano de una casa en Oregón."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Sala deja sin efecto acuerdo que declaró lesiva la compra de edificio de Q35 millones para el MP",
-      "link": "https://www.prensalibre.com/guatemala/justicia/sala-deja-sin-efecto-acuerdo-que-declaro-lesiva-la-compra-de-edificio-de-q35-millones-para-el-mp/",
-      "fecha": "Thu, 12 Nov 2026 21:24:21 +0000",
-      "categoria": "Justicia",
-      "resumen": "Una Sala dejó sin efecto el acuerdo con el que la entonces fiscal general Consuelo Porras declaró lesiva, en el 2020, la compra de un edificio de Q35 millones para el Ministerio Público."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Rutas alternas y cierres por el encendido del Árbol Gallo 2026 en Ciudad Guatemala",
       "link": "https://www.guatemala.com/noticias/comunidad/cierres-encendido-arbol-gallo-2026-ciudad-guatemala.html",
@@ -707,156 +851,12 @@
       "resumen": "PMT de Ciudad Guatemala podría implementar desvíos vehiculares por el encendido del Árbol Gallo 2026 en la Plaza Obelisco. ¡Conoce las rutas alternas!\nThe post Rutas alternas y cierres por el encendido del Árbol Gallo 2026 en Ciudad Guatemala appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "De criminal raso a cabecilla del Clan del Golfo: quién era el &#8220;Negro Perea&#8221;, abatido en Colombia",
-      "link": "https://www.prensalibre.com/internacional/de-criminal-raso-a-cabecilla-del-clan-del-golfo-quien-era-el-negro-perea-abatido-en-colombia/",
-      "fecha": "Thu, 12 Nov 2026 21:03:21 +0000",
-      "categoria": "Internacional",
-      "resumen": "Haminton Mosquera, conocido como el Negro Perea, era subordinado directo de uno de los principales cabecillas de la organización criminal colombiana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Los Mamás: fotos revelan cómo son los sótanos y túneles que conectaban casas de seguridad en Cobán, Alta Verapaz",
-      "link": "https://www.prensalibre.com/guatemala/justicia/caso-los-mamas-fotos-revelan-como-son-los-sotanos-y-tuneles-que-conectaban-casas-de-seguridad-en-coban-alta-verapaz/",
-      "fecha": "Thu, 12 Nov 2026 21:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Al estilo de Joaquín “el Chapo” Guzmán, los Mamás utilizaban túneles para conectar viviendas en Cobán, Alta Verapaz, ocultar ilícitos y escapar de las autoridades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una falla en Microsoft deja fuera de servicio el correo electrónico de Outlook y otras plataformas",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/una-falla-en-microsoft-deja-fuera-de-servicio-el-correo-electronico-de-outlook-y-otras-plataformas/",
-      "fecha": "Thu, 12 Nov 2026 20:54:26 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La firma informó que registra fallas en sus servidores, luego de reportes de pérdida de conexión de servicios como Outlook, Microsoft 365 y Teams a nivel mundial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué se cayeron Outlook y Teams? Microsoft reporta una interrupción global de sus servicios",
-      "link": "https://www.prensalibre.com/vida/tecnologia/por-que-se-cayeron-outlook-y-teams-microsoft-reporta-una-interrupcion-global-de-sus-servicios-breaking/",
-      "fecha": "Thu, 12 Nov 2026 20:37:34 +0000",
-      "categoria": "Tecnología",
-      "resumen": "Microsoft confirmó una caída global que afecta Outlook, Teams, Copilot y otros servicios, mientras sus técnicos trabajan para restablecer la conexión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Viernes Verde lleva el rock guatemalteco a Estados Unidos y presenta el videoclip de &#8220;No me duelas así&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/viernes-verde-lleva-el-rock-guatemalteco-a-estados-unidos-y-presenta-el-videoclip-de-no-me-duelas-asi/",
-      "fecha": "Thu, 12 Nov 2026 19:31:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Con más de 33 años de trayectoria ininterrumpida, la banda guatemalteca Viernes Verde difunde su nueva propuesta sonora, estrena un videoclip y lleva su música a EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miss Bulgaria no asistirá a Miss Universo 2026 debido a un accidente: ¿qué otros países no participarán?",
-      "link": "https://www.prensalibre.com/vida/escenario/miss-bulgaria-no-asistira-a-miss-universo-2026-debido-a-un-accidente-que-otros-paises-no-participaran/",
-      "fecha": "Thu, 12 Nov 2026 19:30:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La reina de belleza sufrió el percance que la inhabilita para representar a su país, a pocos días de comenzar el evento internacional en Puerto Rico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump amenaza a México con duplicar aranceles si no detiene las caravanas de migrantes con destino a la frontera",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/trump-amenaza-a-mexico-con-duplicar-aranceles-si-no-detiene-las-caravanas-de-migrantes-con-destino-a-la-frontera/",
-      "fecha": "Thu, 12 Nov 2026 19:14:12 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Después de las elecciones de medio mandato en Estados Unidos, Donald Trump retomó su agenda migratoria y lanzó una advertencia a México."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "8 muertos, dos de ellos niños, y 19 heridos: ¿Qué se sabe del derrumbe del edificio en Nueva York?",
-      "link": "https://www.prensalibre.com/internacional/8-muertos-dos-de-ellos-ninos-y-19-heridos-que-se-sabe-del-derrumbe-del-edificio-en-nueva-york/",
-      "fecha": "Thu, 12 Nov 2026 19:13:16 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los registros de la ciudad reflejan que la alcaldía neoyorquina había emitido una orden e impuesto una multa por demoliciones no autorizadas en ese terreno."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El retorno de Miguel Ángel Asturias a Guatemala: un reencuentro con sus ideales, afectos y huellas en el país",
-      "link": "https://www.prensalibre.com/vida/escenario/el-retorno-de-miguel-angel-asturias-un-reencuentro-con-sus-ideales-afectos-y-huellas-en-el-pais/",
-      "fecha": "Thu, 12 Nov 2026 18:50:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Durante cuatro días se celebrarán múltiples homenajes en espacios significativos para el escritor y su obra, previo a la inhumación de sus restos en un monumento colocado en el centro cultural que lleva su nombre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién será el portero de Guatemala ante Canadá: Hagen o Navarro? Esto confirma Fernando Tena",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/quien-sera-el-portero-de-guatemala-ante-canada-hagen-o-navarro-esto-confirma-fernando-tena/",
-      "fecha": "Thu, 12 Nov 2026 18:15:10 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Luis Fernando Tena despeja las dudas y confirma quién será el portero de Guatemala ante Canadá en la ida de los cuartos de final de la Liga de Naciones de Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Escándalo de espionaje expone contradicciones en la política de Donald Trump hacia China",
-      "link": "https://www.prensalibre.com/internacional/escandalo-de-espionaje-expone-contradicciones-en-la-politica-de-donald-trump-hacia-china/",
-      "fecha": "Thu, 12 Nov 2026 18:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las sospechas sobre una presunta operación de inteligencia china contra el director ejecutivo de Nvidia, Jensen Huang, ponen a prueba la relación de Donald Trump con el sector tecnológico, a pocos días de su reunión con Xi Jinping."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Junta Monetaria emite opinión favorable sobre deuda para 2027, pese a inconformidades",
-      "link": "https://www.prensalibre.com/economia/junta-monetaria-emite-opinion-favorable-sobre-deuda-para-2027-pese-a-inconformidades/",
-      "fecha": "Thu, 12 Nov 2026 18:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La Junta Monetaria (JM) emitió opinión favorable para la emisión de Q42 mil 750 millones en bonos del Tesoro, destinados a financiar el presupuesto general del Estado para el 2027, en medio de diferencias de criterio entre sus integrantes."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Mauricio Trabanino destaca en Europa con 3 premios por banda sonora del corto ¿Qué comen los Dragones?",
       "link": "https://www.guatemala.com/noticias/musica/musica-mauricio-trabanino-conquisto-tres-premios-europa.html",
       "fecha": "Thu, 12 Nov 2026 17:47:31 +0000",
       "categoria": "Música",
       "resumen": "El compositor guatemalteco Mauricio Trabanino fue galardonado en España e Italia por la banda sonora del cortometraje español ¿Qué comen los Dragones?\nThe post Mauricio Trabanino destaca en Europa con 3 premios por banda sonora del corto ¿Qué comen los Dragones? appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;No solo estamos buscando neutralizarlos, sino hacerles daño&#8221;: esto dice Tena antes del Guatemala vs. Canadá",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/no-solo-estamos-buscando-neutralizarlos-sino-hacerles-dano-esto-dice-tena-antes-del-guatemala-vs-canada/",
-      "fecha": "Thu, 12 Nov 2026 17:24:35 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "\"Si dejamos espacios abiertos van a lucir esa velocidad\", advirtió Luis Fernando Tena sobre Canadá, rival al que Guatemala recibirá este viernes en el estadio Manuel Felipe Carrera, en el partido de ida de los cuartos de final de la Liga de Naciones de Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Incidente en casa de Jamie Foxx: ¿qué pasó con el supuesto apuñalado?",
-      "link": "https://www.prensalibre.com/vida/escenario/incidente-en-casa-de-jamie-foxx-que-paso-con-el-supuesto-apunalado/",
-      "fecha": "Thu, 12 Nov 2026 17:10:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Las autoridades descubrieron lo que hubo detrás de un reporte de agresión en una fiesta realizada en la residencia del artista."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala vs. Canadá en la Liga de Naciones: ¿Podrá la Azul y Blanco dar el golpe en El Trébol?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-en-la-liga-de-naciones-podra-la-azul-y-blanco-dar-el-golpe-en-el-trebol/",
-      "fecha": "Thu, 12 Nov 2026 17:08:53 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "A pesar de la dificultad, la selección de Guatemala debe luchar intensamente en casa para evitar llegar al partido de vuelta en Canadá bajo presión."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Corrí y escuché un golpe fuerte&#8221; el tiroteo en un gimnasio de Washngton que dejó dos fallecidos",
-      "link": "https://www.prensalibre.com/internacional/corri-y-escuche-un-golpe-fuerte-el-tiroteo-en-un-gimnasio-de-washngton-que-dejo-dos-fallecidos/",
-      "fecha": "Thu, 12 Nov 2026 16:58:56 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un tiroteo ocurrido en un gimnasio en Washington dejó dos fallecidos y cuatro heridos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala vs. Canadá: fecha, hora y dónde ver el partido de la Liga de Naciones de Concacaf",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-fecha-hora-y-donde-ver-el-partido-de-la-liga-de-naciones-de-concacaf/",
-      "fecha": "Thu, 12 Nov 2026 16:58:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Bicolor busca dar el primer golpe ante Canadá y acercarse al anhelado Final Four de la Liga de Naciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala registra dos temblores en pocas horas: Insivumeh informa sobre sus epicentros y profundidades",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-registra-dos-temblores-en-pocas-horas-insivumeh-informa-sobre-sus-epicentros-y-profundidades-breaking/",
-      "fecha": "Thu, 12 Nov 2026 16:57:35 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh informó sobre dos temblores registrados este jueves 12 de noviembre."
     },
     {
       "fuente": "Guatemala.com",
