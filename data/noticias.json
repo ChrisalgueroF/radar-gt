@@ -1,7 +1,167 @@
 {
-  "actualizado": "2026-11-13T21:19:20.960Z",
+  "actualizado": "2026-11-14T02:07:12.409Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Reprograman audiencia de Horst Oberdick, alias El Tigre, señalado de dirigir una estructura dedicada al narcotráfico",
+      "link": "https://www.prensalibre.com/guatemala/justicia/reprograman-audiencia-de-horst-oberdick-alias-el-tigre-senalado-de-dirigir-una-estructura-dedicada-al-narcotrafico/",
+      "fecha": "Sat, 14 Nov 2026 01:23:48 +0000",
+      "categoria": "Justicia",
+      "resumen": "Un juzgado de Mayor Riesgo suspendió la audiencia de Horst Overdick, señalado de narcotráfico, porque uno de los sindicados en el caso no fue trasladado al tribunal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Luto en Totonicapán por Edgar Sapón Gutiérrez, el migrante guatemalteco que murió en el derrumbe de Brooklyn",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/luto-en-totonicapan-por-edgar-sapon-gutierrez-el-migrante-guatemalteco-que-murio-en-el-derrumbe-de-brooklyn/",
+      "fecha": "Sat, 14 Nov 2026 00:30:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Edgar Santiago Sapón Gutiérrez, de 26 años, buscaba un futuro para su familia en EE. UU. y había emigrado hace tres años, donde trabajaba en la construcción. Su familia ahora espera apoyo para repatriar sus restos a la comunidad de Barraneché, donde nació."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Canadá, el más afectado por la suspensión de vuelos en EE.UU. con más de 170 retrasos",
+      "link": "https://www.prensalibre.com/internacional/canada-el-mas-afectado-por-la-suspension-de-vuelos-en-ee-uu-con-mas-de-170-retrasos/",
+      "fecha": "Fri, 13 Nov 2026 23:59:06 +0000",
+      "categoria": "Internacional",
+      "resumen": "Tras la suspensión de operaciones aéreas en EE. UU. se han registrado más de 80 vuelos cancelados en Toronto, Montreal y Vancouver."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miguel Ángel Asturias recorre las calles de su infancia y juventud en la zona 1",
+      "link": "https://www.prensalibre.com/vida/escenario/miguel-angel-asturias-recorre-las-calles-de-su-infancia-y-juventud-en-la-zona-1/",
+      "fecha": "Fri, 13 Nov 2026 23:25:44 +0000",
+      "categoria": "Escenario",
+      "resumen": "La urna con los restos del nobel guatemalteco pasó por sus antiguos centros de estudio y recorrió el barrio de Candelaria, donde creció."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Suspensión de despegues en EE. UU.: cómo puede afectar los vuelos desde y hacia Guatemala y qué pide Aeronáutica Civil",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/suspension-de-despegues-en-ee-uu-como-puede-afectar-los-vuelos-desde-y-hacia-guatemala-y-que-pide-aeronautica-civil-breaking/",
+      "fecha": "Fri, 13 Nov 2026 23:16:17 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La suspensión de despegues en Estados Unidos mantiene en alerta a Aeronáutica Civil de Guatemala, que emitió recomendaciones para los pasajeros que viajan entre ambos países."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las vacaciones se viven en la naturaleza",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/las-vacaciones-se-viven-en-la-naturaleza/",
+      "fecha": "Fri, 13 Nov 2026 23:12:33 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "El Zoológico La Aurora invita a los niños de 5 a 12 años a convertirse en exploradores de la vida silvestre con su CurZoo de Vacaciones se realiza hasta el 11 de diciembre de 2026, con actividades educativas, recorridos por el zoológico, experiencias para descubrir el fascinante mundo animal y fomentar el respeto por la naturaleza."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "CEMACO Pradera Concepción ofrece nuevos espacios para inspirarse y encontrar todo bajo un techo",
+      "link": "https://www.guatemala.com/noticias/sociedad/cemaco-pradera-concepcion-renueva-espacios-encontrar-todo-bajo-un-techo.html",
+      "fecha": "Fri, 13 Nov 2026 22:59:53 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Visita la tienda renovada de CEMACO Pradera Concepción y descubre showrooms de pisos, línea blanca y el Centro de Herramientas Inalámbricas.\nThe post CEMACO Pradera Concepción ofrece nuevos espacios para inspirarse y encontrar todo bajo un techo appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Colaboradores de Los Lorenzana podrían enfrentar cargos penales en EE. UU., advierte Embajada",
+      "link": "https://www.prensalibre.com/guatemala/colaboradores-de-los-lorenzana-podrian-enfrentar-cargos-penales-en-ee-uu-advierte-embajada/",
+      "fecha": "Fri, 13 Nov 2026 22:37:45 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Las sanciones también pueden alcanzar a quienes colaboren con estas estructuras, incluso fuera del país. Esto responde la Embajada de Estados Unidos a Prensa Libre sobre sus alcances y consecuencias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala vs. Canadá EN VIVO: sigue el minuto a minuto del partido de ida de los cuartos de final",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-en-vivo-sigue-el-minuto-a-minuto-del-partido-de-ida-de-los-cuartos-de-final-breaking/",
+      "fecha": "Fri, 13 Nov 2026 22:30:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Guatemala recibe esta noche a Canadá en El Trébol, en un duelo clave por la ida de los cuartos de final de la Liga de Naciones de Concacaf."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Conoce qué nos hace la Ciudad de la Buena Gente",
+      "link": "https://www.guatemala.com/noticias/comunidad/que-nos-hace-la-ciudad-de-la-buena-gente.html",
+      "fecha": "Fri, 13 Nov 2026 22:16:44 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Si te has preguntado ¿qué es lo que hace especial a la Ciudad de Guatemala?, acá te dejamos algunas razones que nos hacen amar nuestra capital. \nThe post Conoce qué nos hace la Ciudad de la Buena Gente appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuántos partidos de suspensión recibió Jesús Owono tras el incidente con Jesús de Miguel?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cuantos-partidos-de-suspension-recibio-jesus-owono-tras-el-incidente-con-jesus-de-miguel/",
+      "fecha": "Fri, 13 Nov 2026 22:10:15 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La RFEF sancionó al portero del Andorra, Jesús Owono, por la acción que provocó su expulsión en el duelo ante Tenerife, donde el delantero Jesús de Miguel sufrió lesiones que posteriormente le causaron la muerte."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Amenaza terrorista o ciberataque? Por qué EE. UU. suspendió los despegues de aviones en todo el país",
+      "link": "https://www.prensalibre.com/internacional/amenaza-terrorista-o-ciberataque-por-que-ee-uu-suspendio-los-despegues-de-aviones-en-todo-el-pais-breaking/",
+      "fecha": "Fri, 13 Nov 2026 22:08:50 +0000",
+      "categoria": "Internacional",
+      "resumen": "El secretario de Seguridad Nacional habló este 13 de noviembre de los motivos que provocaron la suspensión de despegues aéreos en todo EE. UU."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Mithy explora Guatemala, la serie infantil para conocer el país se estrenará en noviembre 2026",
+      "link": "https://www.guatemala.com/noticias/entretenimiento/guatemala-com-baleuko-presentan-mithy-explora-guatemala.html",
+      "fecha": "Fri, 13 Nov 2026 22:03:50 +0000",
+      "categoria": "Entretenimiento",
+      "resumen": "Guatemala.com y Baleuko presentan Mithy explora Guatemala, una nueva serie infantil animada que destacará lugares y tradiciones guatemaltecas.\nThe post Mithy explora Guatemala, la serie infantil para conocer el país se estrenará en noviembre 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Videos muestran cómo una barcaza choca contra un crucero con 129 personas a bordo en Luisiana y lo deja semihundido",
+      "link": "https://www.prensalibre.com/internacional/videos-muestran-como-una-barcaza-choca-contra-un-crucero-con-129-personas-a-bordo-en-luisiana-y-lo-deja-semihundido/",
+      "fecha": "Fri, 13 Nov 2026 21:57:09 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una barcaza impacta un crucero con 129 personas en el río Misisipi y lo deja semihundido en Luisiana"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La autoridad de aviación de EE.UU. ordena suspender los despegues de vuelos en todo el país por motivos de seguridad",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-autoridad-de-aviacion-de-ee-uu-ordena-suspender-los-despegues-de-vuelos-en-todo-el-pais-por-motivos-de-seguridad/",
+      "fecha": "Fri, 13 Nov 2026 21:50:23 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La Administración Federal de Aviación (FAA) ordenó este viernes suspender todos los despegues de vuelos en Estados Unidos hasta nuevo aviso, alegando \"circunstancias extraordinarias\" y motivos de seguridad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gobierno sigue sin definir estrategia de seguridad para Zacapa tras ataques armados que suman 17 muertos",
+      "link": "https://www.prensalibre.com/guatemala/politica/gobierno-sigue-sin-definir-estrategia-de-seguridad-para-zacapa-tras-ataques-armados-que-suman-17-muertos-breaking/",
+      "fecha": "Fri, 13 Nov 2026 21:35:49 +0000",
+      "categoria": "Política",
+      "resumen": "El Gobierno sigue sin anunciar medidas de seguridad para Zacapa, donde dos ataques armados dejaron nueve muertos en ocho días, además de las ocho víctimas de la matanza ocurrida en Huité en septiembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo el escándalo sexual del gigante tecnológico Nvidia está salpicando a la Casa Blanca",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-el-escandalo-sexual-del-gigante-tecnologico-nvidia-esta-salpicando-a-la-casa-blanca/",
+      "fecha": "Fri, 13 Nov 2026 21:30:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Puede que la vida personal de Jensen Huang haya desencadenado la crisis, pero ahora las preguntas llegan hasta la propia Casa Blanca."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Hasta nuevo aviso&#8221;: Por qué EE. UU. ordenó suspender los despegues de aviones en todo el país",
+      "link": "https://www.prensalibre.com/internacional/hasta-nuevo-aviso-por-que-ee-uu-ordeno-suspender-los-despegues-de-aviones-en-todo-el-pais-breaking/",
+      "fecha": "Fri, 13 Nov 2026 21:29:24 +0000",
+      "categoria": "Internacional",
+      "resumen": "La Administración Federal de Aviación ha comunicado que todos los vuelos de EE. UU. permanecerán en tierra \"hasta nuevo aviso\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miss Universo 2026 presenta su nueva corona: &#8220;El Resplandor del Legado Eterno&#8221;",
+      "link": "https://www.prensalibre.com/vida/escenario/miss-universo-2026-presenta-su-nueva-corona-el-resplandor-del-legado-eterno/",
+      "fecha": "Fri, 13 Nov 2026 21:24:09 +0000",
+      "categoria": "Escenario",
+      "resumen": "La corona que recibirá Miss Universo 2026 será distinta de la que recibió Fátima Bosch el año anterior. La organización presentó la nueva pieza para conmemorar el 75.º aniversario del certamen."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así se vivió el reencuentro de Miguel Ángel Asturias con la Universidad Popular",
+      "link": "https://www.prensalibre.com/vida/escenario/asi-se-vivio-el-reencuentro-de-miguel-angel-asturias-con-la-universidad-popular/",
+      "fecha": "Fri, 13 Nov 2026 21:05:07 +0000",
+      "categoria": "Escenario",
+      "resumen": "La entidad educativa y cultural, que el escritor contribuyó a fundar en 1922, le ofreció un homenaje lleno de reflexión y arte."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La magia de la navidad los hará estrenar un vehículo 2027",
@@ -9,6 +169,14 @@
       "fecha": "Fri, 13 Nov 2026 20:30:07 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "Centro Comercial Los Próceres agradece la preferencia de quienes lo eligen como destino de compras, gastronomía y experiencias en familia, lanzando la promoción La magia está en cada compra, que permitirá a sus clientes participar en el sorteo de un Toyota Land Cruiser Prado modelo 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más de 22 años en prisión: qué hacía &#8220;Tony Montana&#8221;, hermano de &#8220;El Mencho&#8221; dentro del CJNG, según EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/mas-de-22-anos-en-prision-que-hacia-tony-montana-hermano-de-el-mencho-dentro-del-cjng-segun-ee-uu/",
+      "fecha": "Fri, 13 Nov 2026 20:23:14 +0000",
+      "categoria": "Internacional",
+      "resumen": "EE. UU. informó que Antonio Oseguera Cervantes, hermano del exlíder del CJNG \"El Mencho\", fue condenado por delitos vinculados al narcotráfico."
     },
     {
       "fuente": "Prensa Libre",
@@ -691,46 +859,6 @@
       "resumen": "El Insivumeh informó sobre dos temblores registrados este jueves 12 de noviembre."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Fundesa advierte sobre costo fiscal sin límites en la Ley de Cine aprobada por el Congreso",
-      "link": "https://www.prensalibre.com/guatemala/politica/fundesa-advierte-sobre-costo-fiscal-sin-limites-en-la-ley-de-cine-aprobada-por-el-congreso/",
-      "fecha": "Thu, 12 Nov 2026 16:50:07 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Ley de Cine permitirá que empresas utilicen parte del Impuesto Sobre la Renta (ISR) que deben pagar para financiar producciones audiovisuales. Fundesa advierte que estos incentivos no tienen un límite anual y podrían reducir la recaudación del Estado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rescatan con vida a un adolescente en Australia que estuvo 6 días perdido en una zona boscosa",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/rescatan-con-vida-a-un-adolescente-en-australia-que-estuvo-6-dias-perdido-en-una-zona-boscosa/",
-      "fecha": "Thu, 12 Nov 2026 16:26:58 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La madre del joven de 17 años bromeó diciendo que está \"castigado de por vida\" y que \"nunca más saldrá de casa\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quiénes tomarán el cargo? La situación de Nvidia tras la renuncia de Jensen Huang",
-      "link": "https://www.prensalibre.com/internacional/quienes-tomaran-el-cargo-la-situacion-de-nvidia-tras-la-renuncia-de-jensen-huang/",
-      "fecha": "Thu, 12 Nov 2026 16:01:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Jensen Huang renunció este 12 de noviembre como CEO de Nvidia tras los escándalos vinculados a sus relaciones extramatrimoniales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En gráficos: cómo funcionaba Ueno Bank y las razones detrás del colapso que desató una crisis en Paraguay",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/en-graficos-como-funcionaba-ueno-bank-y-las-razones-detras-del-colapso-que-desato-una-crisis-en-paraguay/",
-      "fecha": "Thu, 12 Nov 2026 15:54:43 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Te contamos con gráficos cómo creció Ueno Bank, qué había detrás de sus operaciones y qué factores llevaron a su caída."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué pasa si Guatemala le gana a Canadá en la Liga de Naciones? El camino hacia la Copa Oro",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/que-pasa-si-guatemala-le-gana-a-canada-en-la-liga-de-naciones-el-camino-hacia-la-copa-oro/",
-      "fecha": "Thu, 12 Nov 2026 15:52:57 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Si Guatemala supera a Canadá, avanzará, por primera vez en su historia, al Final Four de la Liga de Naciones, que se disputará en Los Ángeles, California."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Exámenes de admisión 2027 al Conservatorio Nacional de Música «Germán Alcántara»",
       "link": "https://www.guatemala.com/noticias/sociedad/examenes-admision-2027-conservatorio-nacional-de-musica-german-alcantara.html",
@@ -739,140 +867,12 @@
       "resumen": "El Conservatorio Nacional de Música «Germán Alcántara» realizará sus exámenes de admisión para personas de 7 a 25 años en octubre y noviembre 2026. \nThe post Exámenes de admisión 2027 al Conservatorio Nacional de Música «Germán Alcántara» appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Netflix muestra el auge y caída de Russell Brand y cómo contó con la complicidad de la industria",
-      "link": "https://www.prensalibre.com/vida/escenario/netflix-muestra-el-auge-y-caida-de-russell-brand-y-como-conto-con-la-complicidad-de-la-industria/",
-      "fecha": "Thu, 12 Nov 2026 15:23:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El programa muestra exhibe lo que las investigaciones periodísticas descubrieron acerca del popular actor británico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Expertos urgen en México a transformar el abordaje del dolor con innovación en salud",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/expertos-urgen-en-mexico-a-transformar-el-abordaje-del-dolor-con-innovacion-en-salud/",
-      "fecha": "Thu, 12 Nov 2026 15:03:29 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Especialistas médicos y representantes de la industria farmacéutica urgieron transformar el abordaje del dolor crónico con una atención integral que combine evaluación metabólica, tecnología y mejoras regulatorias y de financiamiento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cateo en Baja Verapaz deja al descubierto taller clandestino vinculado presuntamente con motos robadas",
-      "link": "https://www.prensalibre.com/guatemala/justicia/allanamiento-en-baja-verapaz-deja-al-descubierto-taller-clandestino-vinculado-presuntamente-con-motos-robadas-breaking/",
-      "fecha": "Thu, 12 Nov 2026 14:50:18 +0000",
-      "categoria": "Justicia",
-      "resumen": "La Policía Nacional Civil decomisó tanques de gasolina, aros y cadenas en un taller clandestino en Baja Verapaz."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Adriana Ruano es la primera guatemalteca clasificada a Los Ángeles 2028 y gana plata mundial",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/adriana-ruano-clasifica-a-los-angeles-2028-y-conquista-la-plata-mundial-breaking/",
-      "fecha": "Thu, 12 Nov 2026 14:20:36 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La campeona olímpica de París 2024 subió al podio en Doha y aseguró la primera plaza de Guatemala para los Juegos Olímpicos de 2028."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jensen Huang renuncia como director ejecutivo de Nvidia tras el escándalo por sus relaciones extramatrimoniales",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/jensen-huang-renuncia-como-director-ejecutivo-de-nvidia-tras-el-escandalo-por-sus-relaciones-extramatrimoniales/",
-      "fecha": "Thu, 12 Nov 2026 14:15:46 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El ejecutivo había admitido el domingo pasado haber sido \"infiel\" a su esposa y pidió disculpas por haberla lastimado a ella y a sus hijos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Daddy Yankee recibe el premio Persona del Año de los Latin Grammy  como &#8220;un logro de toda una cultura&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/daddy-yankee-recibe-el-premio-persona-del-ano-de-los-latin-grammy-como-un-logro-de-toda-una-cultura/",
-      "fecha": "Thu, 12 Nov 2026 14:07:22 +0000",
-      "categoria": "Escenario",
-      "resumen": "Al puertorriqueño se le reconoce por sus aportes a la música y sus esfuerzos humanitarios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El exintegrante de las Brigadas Rojas italianas detenido en Argentina que escapó por un balcón usando un arnés",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-exintegrante-de-las-brigadas-rojas-italianas-detenido-en-argentina-que-escapo-por-un-balcon-usando-un-arnes/",
-      "fecha": "Thu, 12 Nov 2026 14:04:50 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Leonardo Bertulazzi, antiguo miembro del grupo guerrillero marxista Brigadas Rojas, estaba a punto de ser extraditado a Italia, su país de origen."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente en Escuintla: mujer muere en choque entre motocicleta y bus que dejó dos hombres heridos",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-en-escuintla-mujer-muere-en-choque-entre-motocicleta-y-bus-que-dejo-dos-hombres-heridos-breaking/",
-      "fecha": "Thu, 12 Nov 2026 14:00:26 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Accidente de tránsito deja una mujer fallecida y dos hombres heridos en Santa Lucía Cotzumalguapa, Escuintla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos triunfos y una clasificación memorable: los antecedentes de Guatemala frente a Canadá",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/dos-triunfos-y-una-clasificacion-memorable-los-antecedentes-de-guatemala-frente-a-canada/",
-      "fecha": "Thu, 12 Nov 2026 14:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Guatemala buscará repetir los triunfos de 1988 y 2004, las únicas veces que derrotó a Canadá en tiempo reglamentario."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "”El Canelo no tiene rivales”: El dardo de David Faitelson a Lester Martínez y Terence Crawford",
-      "link": "https://www.prensalibre.com/deportes/el-canelo-no-tiene-rivales-el-dardo-de-david-faitelson-a-lester-martinez-y-terence-crawford/",
-      "fecha": "Thu, 12 Nov 2026 13:56:48 +0000",
-      "categoria": "Deportes",
-      "resumen": "David Faitelson menospreció al boxeador guatemalteco Lester Martínez al asegurar que el petenero no tiene el nivel para enfrentar a Saúl \"el Canelo\" Álvarez."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Narcopolítica y elecciones del 2027: los desafíos que marcarán la agenda del próximo embajador de EE. UU. en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/politica/narcopolitica-y-elecciones-del-2027-los-desafios-que-marcarian-la-agenda-del-proximo-embajador-de-ee-uu-en-guatemala/",
-      "fecha": "Thu, 12 Nov 2026 13:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La nominación de Pete Cabrera como embajador de los Estados Unidos en Guatemala llega en la agenda bilateral contra el narcotráfico, el crimen organizado, y previo a las elecciones de 2027. Un exvicecanciller prevé un papel relevante para la representación diplomática."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El legado de Miguel Ángel Asturias llega a Guatemala: Francia entregará el Nobel, el Premio Lenin y otras 50 condecoraciones",
-      "link": "https://www.prensalibre.com/vida/escenario/el-legado-de-miguel-angel-asturias-llega-a-guatemala-francia-entregara-el-nobel-el-premio-lenin-y-otras-50-condecoraciones/",
-      "fecha": "Thu, 12 Nov 2026 12:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Parte de los reconocimientos recibidos por el escritor guatemalteco Miguel Ángel Asturias llegarán al país como parte del proceso de retorno de sus restos. Esto se conoce."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Condenan a dos hombres por alterar la escena del crimen tras ataque a blindado que transportaba Q8 millones",
-      "link": "https://www.prensalibre.com/guatemala/justicia/condenan-a-dos-hombres-por-alterar-la-escena-del-crimen-tras-ataque-a-blindado-que-transportaba-q8-millones-breaking/",
-      "fecha": "Thu, 12 Nov 2026 11:24:23 +0000",
-      "categoria": "Justicia",
-      "resumen": "Dos hombres fueron sentenciados como coautores de la muerte de un agente de seguridad durante un ataque a un vehículo de transporte de valores."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Cierres por el Festival de las Flores en Antigua Guatemala 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/cierres-festival-de-las-flores-en-antigua-guatemala-2026.html",
       "fecha": "Wed, 11 Nov 2026 19:32:15 +0000",
       "categoria": "Comunidad",
       "resumen": "Este 14 y 15 de noviembre 2026 se implementarán cierres vehiculares por el Festival de las Flores. Descubre aquí detalles de vías alternas y parqueos.\nThe post Cierres por el Festival de las Flores en Antigua Guatemala 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Tráfico en Guatemala por actividades de fin de año 2026",
-      "link": "https://www.guatemala.com/noticias/comunidad/trafico-guatemala-2026-actividades-fin-de-ano.html",
-      "fecha": "Wed, 11 Nov 2026 16:51:47 +0000",
-      "categoria": "Comunidad",
-      "resumen": "Entérate de las actividades de fin de año que podrían generar tráfico en distintas zonas de la Ciudad de Guatemala entre noviembre y diciembre 2026.\nThe post Tráfico en Guatemala por actividades de fin de año 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Aprueban el Decreto 27-2026, Ley del Cine de Guatemala",
-      "link": "https://www.guatemala.com/noticias/sociedad/congreso-aprueba-decreto-27-2026-ley-del-cine-de-guatemala.html",
-      "fecha": "Wed, 11 Nov 2026 15:28:52 +0000",
-      "categoria": "Sociedad",
-      "resumen": "El Congreso de la República aprobó el Decreto 27-2026, Ley de Cine de Guatemala, normativa que promoverá el desarrollo de esta industria en el país.\nThe post Aprueban el Decreto 27-2026, Ley del Cine de Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Miss Universe 2026, ¿cuándo se celebrará la gala del 75 aniversario?",
-      "link": "https://www.guatemala.com/noticias/sociedad/miss-universe-2026-cuando-y-donde-ver-competencia-traje-nacional-preliminar-y-final.html",
-      "fecha": "Wed, 11 Nov 2026 00:19:43 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Miss Universe celebrará su 75 edición en Puerto Rico y anunció las fechas oficiales de la competencia de trajes nacionales, preliminar y final. \nThe post Miss Universe 2026, ¿cuándo se celebrará la gala del 75 aniversario? appeared first on Guatemala.com."
     }
   ]
 }
