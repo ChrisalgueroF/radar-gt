@@ -1,7 +1,79 @@
 {
-  "actualizado": "2026-11-14T16:31:33.192Z",
+  "actualizado": "2026-11-14T21:13:57.092Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MetroRiel se prepara para la fase 1: las cuatro acciones previstas para 2027 y el reto del cambio de gobierno",
+      "link": "https://www.prensalibre.com/economia/metroriel-se-prepara-para-la-fase-1-las-cuatro-acciones-previstas-para-2027-y-el-reto-del-cambio-de-gobierno/",
+      "fecha": "Sat, 14 Nov 2026 20:47:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Tras concluir la fase 0 con apoyo del Reino Unido, el MetroRiel prevé definir su trazado, estaciones e iniciar las primeras obras en 2027, mientras enfrenta el reto de garantizar su continuidad ante el cambio de gobierno en 2028."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miguel Ángel Asturias y Rigoberta Menchú se reúnen en ceremonia maya",
+      "link": "https://www.prensalibre.com/vida/escenario/miguel-angel-asturias-y-rigoberta-menchu-se-reunen-en-ceremonia-maya/",
+      "fecha": "Sat, 14 Nov 2026 20:45:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El encuentro simbólico de los dos ganadores del Premio Nobel se da en el marco de los tributos que se le rinden al escritor cuyas cenizas serán  inhumadas el domingo 15 de noviembre en el centro cultural que lleva su nombre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "A pesar de levantar suspensión, por qué EE. UU. prevé 5 mil vuelos cancelados para este sábado",
+      "link": "https://www.prensalibre.com/internacional/a-pesar-de-levantar-suspension-por-que-ee-uu-preve-5-mil-vuelos-cancelados-para-este-sabado/",
+      "fecha": "Sat, 14 Nov 2026 20:12:21 +0000",
+      "categoria": "Internacional",
+      "resumen": "El jefe de la FAA admitió que este sábado se prevé 5 mil vuelos cancelados en EE. UU. tras la suspensión de despegues a nivel nacional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Xelajú MC vs. Guastatoya: siga el minuto a minuto de la jornada 20",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-xelaju-mc-vs-guastatoya-siga-el-minuto-a-minuto-de-la-jornada-20-breaking/",
+      "fecha": "Sat, 14 Nov 2026 20:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los superchivos reciben a los pechoamarillo hoy a las 3:00 PM en el estadio Mario Camposeco, en un duelo de equipos que pelean por la parte alta de la tabla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bayern Múnich espera a Alphonso Davies tras sufrir una lesión ante Guatemala",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/bayern-munich-espera-a-alphonso-davies-tras-sufrir-una-lesion-ante-guatemala-breaking/",
+      "fecha": "Sat, 14 Nov 2026 19:02:18 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La lesión del capitán canadiense en El Trébol enciende las alarmas antes del duelo que definirá el boleto a las semifinales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Joe Biden defiende su candidatura del 2024 en sus memorias y revela sus diferencias con Pelosi y Schumer",
+      "link": "https://www.prensalibre.com/internacional/joe-biden-defiende-su-candidatura-del-2024-en-sus-memorias-y-revela-sus-diferencias-con-pelosi-y-schumer/",
+      "fecha": "Sat, 14 Nov 2026 18:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "El expresidente estadounidense reivindica su decisión de buscar la reelección, cuestiona a los demócratas que lo presionaron para retirarse y aborda su relación con Donald Trump y su estado de salud."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelo cancelado: Fedefut confirma que Guatemala no podrá viajar a Canadá este sábado",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/vuelo-cancelado-fedefut-confirma-que-no-podra-viajar-a-canada-este-sabado-breaking/",
+      "fecha": "Sat, 14 Nov 2026 17:34:54 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Federación Nacional de Futbol (FFG)  informó que la aerolínea canceló el vuelo de la Selección Nacional.  Dentro de las alternativas se gestiona un vuelo chárter y un posible cambio de fecha del partido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Asere, corillo o chuchaqui: las &#8220;sopotocientas&#8221; palabras nuevas que incorporó el Diccionario de la lengua española (y el enorme aporte de América Latina)",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/asere-corillo-o-chuchaqui-las-sopotocientas-palabras-nuevas-que-incorporo-el-diccionario-de-la-lengua-espanola-y-el-enorme-aporte-de-america-latina/",
+      "fecha": "Sat, 14 Nov 2026 17:30:33 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "A la nueva edición del diccionario se han incorporado 1.490 gentilicios y 1.570 voces de uso exclusivo en los distintos países hispanohablantes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Operativos contra taxis piratas en Guatemala: dónde fueron capturados cinco pilotos y qué detectaron las autoridades",
+      "link": "https://www.prensalibre.com/guatemala/justicia/operativos-contra-taxis-piratas-en-guatemala-donde-fueron-capturados-cinco-pilotos-y-que-detectaron-las-autoridades-breaking/",
+      "fecha": "Sat, 14 Nov 2026 17:29:46 +0000",
+      "categoria": "Justicia",
+      "resumen": "Las autoridades compartieron detalles sobre la captura de pilotos de vehículos que prestan el servicio de transporte de personas sin autorización."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "DGAC fija límites de altura para construir cerca del aeropuerto La Aurora: estos son los tres escenarios",
@@ -761,78 +833,6 @@
       "fecha": "Fri, 13 Nov 2026 06:03:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Neto Bran ha demostrado durante más de una década que es un desastre administrativo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién vigila al vigilante?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/quien-vigila-al-vigilante/",
-      "fecha": "Fri, 13 Nov 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El miedo al delito informático no puede ser la excusa para correr los límites que la Constitución le pone al poder."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "No repetir errores del pasado",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/no-repetir-errores-del-pasado/",
-      "fecha": "Fri, 13 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Se cuentan dos generaciones desde el inicio de guerra interna."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy viernes 13 de noviembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-viernes-13-de-noviembre-de-2026/",
-      "fecha": "Fri, 13 Nov 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Cada acción protege, cada decisión cuenta&#8221;: Plan Belén 2026 capacitará a vendedores de pólvora para prevenir tragedias",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/cada-accion-protege-cada-decision-cuenta-plan-belen-2026-capacitara-a-vendedores-de-polvora-para-prevenir-tragedias/",
-      "fecha": "Fri, 13 Nov 2026 03:46:57 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Bomberos Municipales anuncian capacitaciones del 17 de noviembre al 17 de diciembre para prevenir accidentes con pólvora durante las fiestas de fin de año. Conozca los horarios, el costo y las medidas de seguridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Minex confirma que guatemalteco figura entre los muertos por derrumbe de edificio en Nueva York",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/minex-confirma-que-guatemalteco-figura-entre-los-muertos-por-derrumbe-de-edificio-en-nueva-york-breaking/",
-      "fecha": "Fri, 13 Nov 2026 03:03:26 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "El Minex confirmó la muerte de un guatemalteco de 26 años, originario de Totonicapán, en el derrumbe de un edificio en Brooklyn, Nueva York, que dejó al menos ocho fallecidos y 19 heridos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Rosalía, Aria Vega y CA7RIEL &#038; Paco Amoroso, entre los ganadores del Latin Grammy 2026",
-      "link": "https://www.prensalibre.com/vida/escenario/rosalia-aria-vega-y-ca7riel-paco-amoroso-entre-los-ganadores-del-latin-grammy-2026/",
-      "fecha": "Fri, 13 Nov 2026 02:40:14 +0000",
-      "categoria": "Escenario",
-      "resumen": "Las estrellas de la industria de la música se reunieron para celebrar la 27.ª edición de los Latin Grammy en el MGM Grand Garden Arena de Las Vegas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hijo de Miguel Ángel Asturias: &#8220;Hablé 14 horas con mi padre en el avión&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/hijo-de-miguel-angel-asturias-hable-14-horas-con-mi-padre-en-el-avion/",
-      "fecha": "Fri, 13 Nov 2026 02:16:06 +0000",
-      "categoria": "Escenario",
-      "resumen": "Miguel Ángel Asturias Amado enfatizó en el amor que su padre tenía a Guatemala y los valores que inculcó en su familia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;No podemos subestimar a Guatemala&#8221;: Jesse Marsch lanza una advertencia antes de enfrentar a la Bicolor",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/no-podemos-subestimar-a-guatemala-jesse-marsch-lanza-una-advertencia-antes-de-enfrentar-a-la-bicolor/",
-      "fecha": "Fri, 13 Nov 2026 02:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Con la mira puesta en el Final Four y en la Copa Oro 2027, Canadá desembarcó en Guatemala decidida a ganar el primer duelo de cuartos de final, sin confiarse de una Bicolor que ya les dio un golpe."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jensen Huang y su salida de Nvidia: qué dijo Trump sobre el impacto del escándalo en su familia",
-      "link": "https://www.prensalibre.com/internacional/jensen-huang-y-su-salida-de-nvidia-que-dijo-trump-sobre-el-impacto-del-escandalo-en-su-familia/",
-      "fecha": "Fri, 13 Nov 2026 01:32:23 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump aseguró que habló con Jensen Huang tras su salida de Nvidia y reveló cómo el escándalo ha afectado al empresario y a su familia."
     },
     {
       "fuente": "Guatemala.com",
