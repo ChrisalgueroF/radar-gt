@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-11-15T01:38:22.999Z",
+  "actualizado": "2026-11-15T09:00:41.057Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos puyas",
+      "link": "https://www.prensalibre.com/opinion/caricatura/dos-puyas-3/",
+      "fecha": "Sun, 15 Nov 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Me es necesario volver”",
+      "link": "https://www.prensalibre.com/opinion/editorial/me-es-necesario-volver/",
+      "fecha": "Sun, 15 Nov 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Regresó, repatriado como tantos compatriotas migrantes que se marcharon en busca de esperanzas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por la dignidad de los migrantes en EE. UU.",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/por-la-dignidad-de-los-migrantes-en-ee-uu/",
+      "fecha": "Sun, 15 Nov 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Hay signos de que la discusión política sobre una reforma migratoria tome nuevamente relevancia en los EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Quién protege al ciudadano?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/quien-protege-al-ciudadano/",
+      "fecha": "Sun, 15 Nov 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Cuando participar parece más riesgoso que guardar silencio, el problema deja de ser de una organización."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tragedia aérea en el corazón de la otra Guatemala",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/tragedia-aerea-en-el-corazon-de-la-otra-guatemala/",
+      "fecha": "Sun, 15 Nov 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La aeronave se estrelló con tal violencia que abrió un enorme cráter en el suelo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La gran cumbre",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-gran-cumbre/",
+      "fecha": "Sun, 15 Nov 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "En la reunión de la Apec de esta semana que se dará una cumbre tripartita al margen de todo entre los presidentes de China, Estados Unidos y Rusia"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy domingo 15 de noviembre de 2026",
+      "link": "https://www.prensalibre.com/vida/escenario/horoscopo-de-hoy-domingo-15-de-noviembre-de-2026/",
+      "fecha": "Sun, 15 Nov 2026 06:01:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Municipal se impone de visita 1-0 a Malacateco con gol de Elvi Elington",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/municipal-se-impone-de-visita-1-0-a-malacateco-con-gol-de-elvi-elington-breaking/",
+      "fecha": "Sun, 15 Nov 2026 03:00:10 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los escarlatas sufrieron en el segundo tiempo, pero las atajadas de Braulio Linares sostuvieron la ventaja que consiguieron en el primero y les permitieron sumar tres punto importantes ante malacateco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gobierno de Guatemala decreta estado de Sitio en Zacapa e Izabal por 30 días tras hechos violentos",
+      "link": "https://www.prensalibre.com/guatemala/politica/gobierno-de-guatemala-decreta-estado-de-sitio-en-zacapa-e-izabal-por-30-dias-tras-hechos-violentos-breaking/",
+      "fecha": "Sun, 15 Nov 2026 02:58:20 +0000",
+      "categoria": "Política",
+      "resumen": "El presidente Bernardo Arévalo decretó este 14 de noviembre estado de Sitio en los departamentos de Zacapa e Izabal por un plazo de 30 días."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miguel Ángel Asturias recibe homenaje público",
+      "link": "https://www.prensalibre.com/vida/escenario/miguel-angel-asturias-recibe-homenaje-publico/",
+      "fecha": "Sun, 15 Nov 2026 02:27:37 +0000",
+      "categoria": "Escenario",
+      "resumen": "Antes de su inhumación en el Centro Cultural Miguel Ángel Asturias, las cenizas del ganador del Premio Nobel de Literatura 1967 están expuestas en el Palacio Nacional de la Cultura."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Árbol Gallo 2026: espectáculo ilumina Guatemala y marca el inicio de la temporada navideña",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/arbol-gallo-2026-ilumina-guatemala-y-marca-el-inicio-de-la-temporada-navidena-breaking/",
+      "fecha": "Sun, 15 Nov 2026 01:01:11 +0000",
+      "categoria": "Comunitario",
+      "resumen": "En la Plaza Obelisco varios guatemaltecos se reunieron para presenciar el espectáculo del Árbol Gallo, una celebración con más de 40 años de existencia."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Comunicaciones vence 2-0 a Cobán Imperial y se acerca a la zona de clasificación",
@@ -25,6 +113,14 @@
       "fecha": "Sat, 14 Nov 2026 23:55:00 +0000",
       "categoria": "Economía",
       "resumen": "Los pasajeros con vuelos entre Guatemala y Estados Unidos, así como quienes esperan la llegada de familiares, deben verificar los itinerarios antes de trasladarse al Aeropuerto La Aurora. Las aerolíneas advierten que las demoras y cancelaciones podrían continuar durante los próximos días."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué es la diabetes y cómo la alimentación ayuda en su tratamiento y prevención",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/que-es-la-diabetes-y-como-la-alimentacion-ayuda-en-su-tratamiento-y-prevencion/",
+      "fecha": "Sat, 14 Nov 2026 23:53:25 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Cada 14 de noviembre se conmemora el Día Mundial de la Diabetes, una enfermedad que puede afectar a niños, jóvenes y adultos."
     },
     {
       "fuente": "Prensa Libre",
@@ -731,108 +827,12 @@
       "resumen": "El técnico argentino firmó hasta 2029 y tendrá la misión de sacar a los Diablos Rojos de la zona de descenso y devolverlos a la pelea por los títulos."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Lionel Messi volverá a Argentina con el Inter Miami para disputar un amistoso especial",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lionel-messi-volvera-a-argentina-con-el-inter-miami-para-disputar-un-amistoso-especial/",
-      "fecha": "Fri, 13 Nov 2026 15:02:05 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Lionel Messi volverá al estadio Monumental de Buenos Aires el 19 de enero de 2027 para disputar un amistoso de pretemporada con Inter Miami ante River Plate."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Derrumbe de edificio en Nueva York: quiénes son las víctimas, qué provocó el colapso y qué se sabe",
-      "link": "https://www.prensalibre.com/internacional/derrumbe-de-edificio-en-nueva-york-quienes-son-las-victimas-que-provoco-el-colapso-y-que-se-sabe/",
-      "fecha": "Fri, 13 Nov 2026 15:01:06 +0000",
-      "categoria": "Internacional",
-      "resumen": "La Policía de la Ciudad de Nueva York identificó a las personas fallecidas: dos ciudadanos ecuatorianos, tres colombianos y un guatemalteco."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Latin Grammy 2026: Rosalía entra de lleno entre los artistas más premiados en la historia de la Academia Latina de la Grabación",
-      "link": "https://www.prensalibre.com/vida/escenario/latin-grammy-2026-rosalia-entra-de-lleno-entre-los-artistas-mas-premiados-en-la-historia-de-la-academia-latina-de-la-grabacion/",
-      "fecha": "Fri, 13 Nov 2026 14:53:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Con los seis Latin Grammy que ganó el jueves 12 de noviembre, Rosalía se ha situado entre los artistas más galardonados por la Academia Latina de la Grabación, además de establecer el récord de lograr tres veces el reconocimiento a mejor álbum del año con tres discos consecutivos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cinco muertos en ataque en Zacapa: un comando armado, PNC atacada y un posible secuestro",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/cinco-muertos-en-ataque-en-zacapa-un-comando-armado-pnc-atacada-y-un-posible-secuestro-breaking/",
-      "fecha": "Fri, 13 Nov 2026 14:40:15 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Autoridades trabajan en la escena donde al menos cinco personas murieron en un ataque de un comando armado en Zacapa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala vs. Canadá: las posibles alineaciones para el partido en El Trébol en la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-las-posibles-alineaciones-para-el-partido-en-el-trebol-en-la-liga-de-naciones-breaking/",
-      "fecha": "Fri, 13 Nov 2026 13:56:55 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Guatemala intentará aprovechar su localía ante uno de los rivales más fuertes de Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tres muertos y 19 heridos dejan accidentes de tránsito en Alta Verapaz, ruta al Atlántico y Huehuetenango",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-muertos-y-cinco-heridos-dejan-accidentes-de-transito-en-alta-verapaz-y-la-ruta-al-atlantico-breaking/",
-      "fecha": "Fri, 13 Nov 2026 13:30:15 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Camión cae en barranco en Alta Verapaz,  motorista es arrollado en la ruta al Atlántico y microbús se accidenta en Huehuetenango."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De Alemania al Trébol: Alphonso Davies, la estrella del Bayern que jugará contra Guatemala",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/de-alemania-al-trebol-alphonso-davies-la-estrella-del-bayern-que-jugara-contra-guatemala/",
-      "fecha": "Fri, 13 Nov 2026 13:29:05 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Alphonso Davies se ha convertido en un nombre muy conocido en el Bayern de Múnich, donde ha demostrado su velocidad y capacidad de regate."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "AeroMetro: mapa muestra dónde estarán sus 67 torres y 12 estaciones",
-      "link": "https://www.prensalibre.com/economia/aerometro-mapa-muestra-donde-estaran-sus-67-torres-y-12-estaciones/",
-      "fecha": "Fri, 13 Nov 2026 13:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El AeroMetro conectará Plaza España y Molino de las Flores mediante dos líneas.  Dónde estarán sus 67 torres, las estaciones y cuándo comenzaría a funcionar."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Retorno de Miguel Ángel Asturias: Cenizas del autor ya se encuentra en Guatemala",
       "link": "https://www.guatemala.com/noticias/cultura/cenizas-miguel-angel-asturias-retornado-a-guatemala-despues-de-52-anos-en-francia.html",
       "fecha": "Fri, 13 Nov 2026 12:59:22 +0000",
       "categoria": "Cultura",
       "resumen": "Después de 52 años de descansar en el extranjero, Guatemala recibió las cenizas de Miguel Ángel Asturias en una ceremonia especial. \nThe post Retorno de Miguel Ángel Asturias: Cenizas del autor ya se encuentra en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Latin Grammy 2026: listado de ganadores y quiénes fueron las estrellas de la gala",
-      "link": "https://www.prensalibre.com/vida/escenario/latin-grammy-2026-listado-de-ganadores-y-quienes-fueron-las-estrellas-de-la-gala/",
-      "fecha": "Fri, 13 Nov 2026 12:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La gran ganadora de la noche fue Rosalía, quien conquistó seis premios, seguida por el cantautor argentino Milo J con cuatro galardones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué se sabe sobre la falla global que afectó Outlook y otros servicios de Microsoft",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/que-se-sabe-sobre-la-falla-global-que-afecto-outlook-y-otros-servicios-de-microsoft/",
-      "fecha": "Fri, 13 Nov 2026 11:47:56 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Microsoft ha afirmado que la interrupción del servicio no fue causada por un incidente de ciberseguridad, pero los esfuerzos por solucionar los problemas hasta el momento no han tenido mucho éxito."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala vs. Canadá: qué posibilidades tiene la Bicolor de ganar según la inteligencia artificial",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-que-posibilidades-tiene-la-bicolor-de-ganar-segun-la-inteligencia-artificial/",
-      "fecha": "Fri, 13 Nov 2026 10:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Selección de Guatemala recibirá este viernes a Canadá en El Trébol, en la ida de los cuartos de final de la Liga de Naciones de Concacaf, y la inteligencia artificial ya analizó las posibilidades de la Bicolor de un triunfo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Diabetes puede dañar la visión sin presentar síntomas: especialista explica cómo prevenirlo",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/diabetes-puede-danar-la-vision-sin-presentar-sintomas-especialista-explica-como-prevenirlo/",
-      "fecha": "Fri, 13 Nov 2026 10:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "La retinopatía diabética puede avanzar sin causar molestias visuales. Un especialista explica por qué los pacientes con diabetes deben someterse a evaluaciones oftalmológicas, incluso cuando consideran que ven bien."
     },
     {
       "fuente": "Guatemala.com",
