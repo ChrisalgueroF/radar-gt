@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-11-15T09:00:41.057Z",
+  "actualizado": "2026-11-15T16:53:01.923Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Canadá vs. Guatemala: fecha, hora y dónde ver el partido de vuelta de la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/canada-vs-guatemala-fecha-hora-y-donde-ver-el-partido-de-vuelta-de-la-liga-de-naciones-breaking/",
+      "fecha": "Sun, 15 Nov 2026 16:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Bicolor visita el BMO Field de Toronto con la obligación de revertir el 2-3 de la ida para avanzar a las semifinales del torneo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Embarcación transportaba 550 paquetes de cocaína: tres personas fueron capturadas en Escuintla",
+      "link": "https://www.prensalibre.com/guatemala/justicia/embarcacion-transportaba-550-paquetes-de-cocaina-tres-personas-fueron-capturadas-en-escuintla-breaking/",
+      "fecha": "Sun, 15 Nov 2026 14:49:32 +0000",
+      "categoria": "Justicia",
+      "resumen": "Las autoridades decomisaron más de 500 paquetes de droga que eran transportados en una embarcación en el Pacífico guatemalteco, en Escuintla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Empresarios respaldan lista contra el trabajo forzoso en Guatemala, pero piden reglas claras",
+      "link": "https://www.prensalibre.com/economia/empresarios-respaldan-lista-contra-el-trabajo-forzoso-en-guatemala-pero-piden-reglas-claras/",
+      "fecha": "Sun, 15 Nov 2026 13:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La Cámara de Industria de Guatemala (CIG) y la Cámara de Comercio Guatemalteco-Americana (AmCham) Guatemala respaldan el listado sobre trabajo forzoso, mientras el Ministerio de Economía y la Superintendencia de Administración Tributaria (SAT) deben completar procedimientos para restringir importaciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salida de Jensen Huang de Nvidia abre la puerta a más restricciones de EE. UU. contra los chips de IA de China",
+      "link": "https://www.prensalibre.com/internacional/salida-de-jensen-huang-de-nvidia-abre-la-puerta-a-mas-restricciones-de-ee-uu-contra-los-chips-de-ia-de-china/",
+      "fecha": "Sun, 15 Nov 2026 12:00:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Estados Unidos prepara restricciones al acceso chino a chips de inteligencia artificial tras la salida de Jensen Huang de Nvidia, mientras Pekín impulsa alternativas nacionales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jornadas médicas gratuitas en Guatemala: profesionales donan su tiempo para atender a comunidades",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/jornadas-medicas-gratuitas-en-guatemala-profesionales-donan-su-tiempo-para-atender-a-comunidades/",
+      "fecha": "Sun, 15 Nov 2026 12:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Jessica Ramírez y Merlyn Pérez forman parte de un grupo de profesionales que donan su tiempo para brindar atención médica gratuita a comunidades con necesidades en Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los Lorenzana después de las extradiciones: el relevo del clan y las pesquisas que el MP no recibió",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/los-lorenzana-despues-de-las-extradiciones-el-relevo-del-clan-y-las-pesquisas-que-el-mp-no-recibio/",
+      "fecha": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Ministerio Público señala que no recibió investigaciones estratégicas sobre narcotráfico. Expertos examinan el relevo de los Lorenzana y los recientes hechos violentos en Zacapa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trasplantes y donaciones de órganos en Guatemala: la espera de hasta ocho años y una ley que sigue sin reglamento",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/trasplantes-y-donaciones-de-organos-en-guatemala-la-espera-de-hasta-ocho-anos-y-una-ley-que-sigue-sin-reglamento/",
+      "fecha": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Decreto 5-2024 marcó un avance para organizar los trasplantes en Guatemala, pero su reglamento sigue pendiente y la lista nacional de espera aún no funciona. Mientras el país realiza unos 150 trasplantes al año, muchos pacientes esperan años o carecen de opciones en el sistema público."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Dos puyas",
@@ -68,11 +124,11 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Gobierno de Guatemala decreta estado de Sitio en Zacapa e Izabal por 30 días tras hechos violentos",
+      "titulo": "Gobierno de Guatemala decreta estado de Sitio en Zacapa e Izabal y qué medidas aplica",
       "link": "https://www.prensalibre.com/guatemala/politica/gobierno-de-guatemala-decreta-estado-de-sitio-en-zacapa-e-izabal-por-30-dias-tras-hechos-violentos-breaking/",
       "fecha": "Sun, 15 Nov 2026 02:58:20 +0000",
       "categoria": "Política",
-      "resumen": "El presidente Bernardo Arévalo decretó este 14 de noviembre estado de Sitio en los departamentos de Zacapa e Izabal por un plazo de 30 días."
+      "resumen": "El presidente Bernardo Arévalo decretó el 14 de noviembre estado de Sitio en  Zacapa e Izabal por un plazo de 30 días. Este domingo el decreto fue publicado en el Diario de Centro América."
     },
     {
       "fuente": "Prensa Libre",
@@ -769,62 +825,6 @@
       "fecha": "Fri, 13 Nov 2026 17:33:00 +0000",
       "categoria": "Escenario",
       "resumen": "La cantante guatemalteca Zelaya destacó el jueves 12 de noviembre durante su paso por la alfombra roja de los Latin Grammy, evento al que asistió por invitación especial."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Los Duvalier”: Quiénes son los colombianos capturados y trasladados a Guatemala por el caso de préstamos gota a gota",
-      "link": "https://www.prensalibre.com/guatemala/justicia/los-duvalier-quienes-son-los-colombianos-capturados-y-trasladados-a-guatemala-por-el-caso-de-prestamos-gota-a-gota-breaking/",
-      "fecha": "Fri, 13 Nov 2026 16:39:31 +0000",
-      "categoria": "Justicia",
-      "resumen": "Dos colombianos son requeridos por la justicia guatemalteca, señalados de cometer delitos mediante préstamos a comerciantes y particulares."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Grupo de presuntos mercenarios incursiona en La Majada, Zacapa, y secuestra a hombre, según la PNC",
-      "link": "https://www.prensalibre.com/guatemala/justicia/grupo-de-presuntos-mercenarios-incursiona-en-la-majada-zacapa-y-secuestra-a-hombre-segun-la-pnc/",
-      "fecha": "Fri, 13 Nov 2026 16:38:19 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Hombres armados, con uniformes similares a los militares, irrumpieron en La Majada, Zacapa, y dejaron cinco muertos y un posible secuestro, según la PNC."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una celebración de película para compartir en familia la llegada de la Navidad",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-celebracion-de-pelicula-para-compartir-en-familia-la-llegada-de-la-navidad/",
-      "fecha": "Fri, 13 Nov 2026 16:20:19 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Ciudad Cayalá dio la bienvenida a la temporada más especial del año con la celebración Una Navidad de Película donde los guatemaltecos empezaron a ser protagonistas de sus propias historias con la encendida del árbol."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inician trabajos para ampliar a cuatro carriles tramo de la CA-9 Norte, de El Rancho hacia Teculután",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/inician-trabajos-para-ampliar-a-cuatro-carriles-tramo-de-la-ca-9-norte-de-el-rancho-hacia-teculutan/",
-      "fecha": "Fri, 13 Nov 2026 16:02:38 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Con una inversión de Q990 millones, este viernes comenzaron los trabajos de ampliación a cuatro carriles de 32 kilómetros de la CA-9 Norte, entre El Rancho, El Progreso, y Teculután, Zacapa. El proyecto también contempla la sustitución de seis puentes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué la caída de Microsoft revela la vulnerabilidad de la dependencia tecnológica mundial",
-      "link": "https://www.prensalibre.com/vida/tecnologia/por-que-la-caida-de-microsoft-revela-la-vulnerabilidad-de-la-dependencia-tecnologica-mundial/",
-      "fecha": "Fri, 13 Nov 2026 16:00:00 +0000",
-      "categoria": "Tecnología",
-      "resumen": "La caída de muchos de los servicios que presta la multinacional tecnológica Microsoft pone de relieve, según los expertos consultados por EFE, la vulnerabilidad que genera la dependencia tecnológica mundial de un grupo de proveedores muy reducido."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE.UU. afirma que transfirió a Venezuela más de US$12.000 millones por sus exportaciones petroleras y de otros recursos",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/ee-uu-afirma-que-transfirio-a-venezuela-mas-de-us12-000-millones-por-sus-exportaciones-petroleras-y-de-otros-recursos/",
-      "fecha": "Fri, 13 Nov 2026 15:16:28 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El posible manejo del dinero y la falta de transparencia generan críticas dentro y fuera del país."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mauricio Pochettino deja la selección de Estados Unidos para dirigir al Manchester United",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mauricio-pochettino-deja-la-seleccion-de-estados-unidos-para-dirigir-al-manchester-united/",
-      "fecha": "Fri, 13 Nov 2026 15:15:02 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El técnico argentino firmó hasta 2029 y tendrá la misión de sacar a los Diablos Rojos de la zona de descenso y devolverlos a la pelea por los títulos."
     },
     {
       "fuente": "Guatemala.com",
