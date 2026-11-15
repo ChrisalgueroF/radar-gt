@@ -1,7 +1,87 @@
 {
-  "actualizado": "2026-11-15T16:53:01.923Z",
+  "actualizado": "2026-11-15T21:34:51.184Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; San Pedro vs. Marquense: siga el minuto a minuto de la jornada 20",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-san-pedro-vs-marquense-siga-el-minuto-a-minuto-de-la-jornada-20-breaking/",
+      "fecha": "Sun, 15 Nov 2026 20:34:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los gallos reciben a los leones hoy a las 3:00 PM en el estadio Municipal de San Pedro, en un duelo de equipos separados por un solo punto en la tabla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los Lorenzana, Mendoza y Huistas: qué pasó con sus casos ante la justicia de Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/justicia/los-lorenzana-mendoza-y-huistas-que-paso-con-sus-casos-ante-la-justicia-de-guatemala/",
+      "fecha": "Sun, 15 Nov 2026 20:00:00 +0000",
+      "categoria": "Justicia",
+      "resumen": "Los tres clanes del narcotráfico fueron sancionados por Estados Unidos. Los expedientes en Guatemala incluyen sobreseimientos, condenas, absoluciones y bienes bajo investigación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vuelos en Estados Unidos: Estos son los cinco aeropuertos con más retrasos y cancelaciones este 15 de noviembre",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/vuelos-en-estados-unidos-estos-son-los-cinco-aeropuertos-con-mas-retrasos-y-cancelaciones-este-15-de-noviembre/",
+      "fecha": "Sun, 15 Nov 2026 19:42:00 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "La paralización del viernes continúa afectando las operaciones aéreas en Estados Unidos. Este domingo 15 de noviembre, cinco aeropuertos concentran retrasos y cancelaciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Belinda brilla como invitada en el segundo concierto de Karol G en México",
+      "link": "https://www.prensalibre.com/vida/escenario/belinda-brilla-como-invitada-en-el-segundo-concierto-de-karol-g-en-mexico/",
+      "fecha": "Sun, 15 Nov 2026 19:35:23 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante mexicana subió al escenario, invitada por la colombiana, para interpretar tres de sus más emblemáticos temas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Zelensky pide a EE.UU. y a Elon Musk reestablecer el acceso total de Ucrania a Starlink para frenar los ataques rusos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/zelensky-pide-a-ee-uu-y-a-elon-musk-reestablecer-el-acceso-total-de-ucrania-a-starlink-para-frenar-los-ataques-rusos/",
+      "fecha": "Sun, 15 Nov 2026 19:31:12 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El presidente ucraniano afirma que las restricciones siguen vigentes y dificultan las operaciones defensivas de su ejército."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala viaja un día después de lo previsto para buscar las semifinales de la Liga de Naciones y el boleto a la Copa Oro 2027",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-viaja-un-dia-despues-de-lo-previsto-para-buscar-las-semifinales-de-la-liga-de-naciones-y-el-boleto-a-la-copa-oro-2027-breaking/",
+      "fecha": "Sun, 15 Nov 2026 18:38:51 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": ".img_fo{\n\t\t\t\t    aspect-ratio: 16/9;\n                    width: 100%;\n                    height: auto;\n                    margin-bottom: 8px;\n                    object-fit: contain;\n\t\t\t\t}\n\t\t\t\n    .canal-whatsapp,\n    .canal-whatsapp:hover,\n    .canal-whatsapp:focus,\n    .canal-whatsapp:visited {\n        text-decoration: none !important;\n    }\n\n    .canal-whatsapp {\n        display: inline-flex;\n        align-items: center;\n        gap: 8px;\n        background: #fff;\n        border-radius: 999px;\n        padding: 6px 14px 6px 6px !important;\n        text-decoration: none;\n    }\n    .canal-wh"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Droga oculta entre plátanos: MP revela cómo fue descubierto el cargamento en Retalhuleu",
+      "link": "https://www.prensalibre.com/guatemala/justicia/droga-oculta-entre-platanos-mp-revela-como-fue-descubierto-el-cargamento-en-retalhuleu-breaking/",
+      "fecha": "Sun, 15 Nov 2026 18:32:29 +0000",
+      "categoria": "Justicia",
+      "resumen": "Las autoridades decomisaron 120 paquetes de marihuana ocultos debajo de los racimos de plátanos que eran transportados en un camión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuáles son las 3 bandas criminales de Guatemala que EE.UU. designó como organizaciones terroristas extranjeras",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/cuales-son-las-3-bandas-criminales-de-guatemala-que-ee-uu-designo-como-organizaciones-terroristas-extranjeras/",
+      "fecha": "Sun, 15 Nov 2026 18:16:13 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Washington acusa a estos grupos de ser aliados de los carteles mexicanos de la droga y de colaborar con ellos en el tráfico de narcóticos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Faltan 90 minutos”: José Pinto confía en la Selección y fija el objetivo de Comunicaciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/faltan-90-minutos-jose-pinto-confia-en-la-seleccion-y-fija-el-objetivo-de-comunicaciones-breaking/",
+      "fecha": "Sun, 15 Nov 2026 17:27:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "José Carlos Pinto volvió a la capitanía de Comunicaciones en el triunfo 2-0 sobre Cobán y aseguró que la meta del club es clasificar, además de hablar sobre la serie de la Selección de Guatemala ante Canadá."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Rafa Márquez sigue sin ganar: México encaja su tercera derrota consecutiva ante Jamaica",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/rafa-marquez-sigue-sin-ganar-mexico-encaja-su-tercera-derrota-consecutiva-ante-jamaica-breaking/",
+      "fecha": "Sun, 15 Nov 2026 16:46:59 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La Selección Mexicana acumuló su tercera derrota al hilo y Rafa Márquez llegó a cinco partidos sin ganar, tras caer 3-2 ante Jamaica en el partido de ida de los cuartos de final de la Liga de Naciones."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Canadá vs. Guatemala: fecha, hora y dónde ver el partido de vuelta de la Liga de Naciones",
@@ -739,92 +819,12 @@
       "resumen": "EE. UU. informó que Antonio Oseguera Cervantes, hermano del exlíder del CJNG \"El Mencho\", fue condenado por delitos vinculados al narcotráfico."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué pasará con la tumba de Miguel Ángel Asturias en Francia? Esto harán con la estela maya",
-      "link": "https://www.prensalibre.com/vida/escenario/que-pasara-con-la-tumba-de-miguel-angel-asturias-en-francia-esto-haran-con-la-estela-maya/",
-      "fecha": "Fri, 13 Nov 2026 19:54:14 +0000",
-      "categoria": "Escenario",
-      "resumen": "Tras el retorno de Miguel Ángel Asturias a Guatemala, el embajador de Francia en el país revela qué pasará con la estela que se encontraba sobre la tumba del escritor en París."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jamaica vs. México: el Tri busca su primera victoria después del Mundial 2026; día y hora del partido",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/jamaica-vs-mexico-el-tri-busca-su-primera-victoria-despues-del-mundial-2026-dia-y-hora-del-partido/",
-      "fecha": "Fri, 13 Nov 2026 19:50:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "México visita este sábado a Jamaica en Kingston por la ida de los cuartos de final de la Liga de Naciones de Concacaf, en busca de su primera victoria tras el Mundial 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Debuta en el mercado internacional de bonos",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/debuta-en-el-mercado-internacional-de-bonos/",
-      "fecha": "Fri, 13 Nov 2026 19:23:18 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "BAC International Bank realiza una emisión por USD$500 millones (Senior Unsecured Bond), a un plazo de 5 años con un cupón de 6.75%. La favorable acogida de la emisión reflejó la confianza de los inversionistas en la solidez financiera, el modelo de negocio y la gestión de riesgos de BAC."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La voz y los poemas de Miguel Ángel Asturias resuenan en homenaje de la Embajada de Francia en Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/la-voz-y-los-poemas-de-miguel-angel-asturias-resuenan-en-homenaje-de-la-embajada-de-francia-en-guatemala/",
-      "fecha": "Fri, 13 Nov 2026 18:46:22 +0000",
-      "categoria": "Escenario",
-      "resumen": "Los restos de Miguel Ángel Asturias están en Guatemala y la Embajada de Francia le rindió honores con poesía, música y discursos. Vea los videos de los momentos más destacados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué implica la sanción de EE. UU. a Los Lorenzana, Los Huistas y Los Mendoza por apoyar a carteles narcoterroristas de México",
-      "link": "https://www.prensalibre.com/guatemala/politica/que-implica-la-sancion-de-ee-uu-a-los-lorenzana-los-huistas-y-los-mendoza-por-apoyar-a-carteles-narcoterroristas-de-mexico/",
-      "fecha": "Fri, 13 Nov 2026 18:39:39 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Washington vincula a Los Lorenzana, Los Huistas y Los Mendoza con el apoyo logístico y el tráfico de drogas para carteles mexicanos como Sinaloa y Jalisco Nueva Generación, y anuncia designaciones."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Guatemala tendrá un fin de semana con ambiente cálido, lluvias y temperaturas mínimas de 3°C",
       "link": "https://www.guatemala.com/noticias/comunidad/clima-guatemala-14-y-15-noviembre-2026.html",
       "fecha": "Fri, 13 Nov 2026 18:31:27 +0000",
       "categoria": "Comunidad",
       "resumen": "El clima en Guatemala este fin de semana del 14 y 15 de noviembre de 2026 estará marcado por temperaturas cálidas y frío en algunas regiones.\nThe post Guatemala tendrá un fin de semana con ambiente cálido, lluvias y temperaturas mínimas de 3°C appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala publica lista por trabajo forzoso: ¿qué empresas y productos aparecen?",
-      "link": "https://www.prensalibre.com/economia/guatemala-publica-lista-por-trabajo-forzoso-que-empresas-y-productos-aparecen-breaking/",
-      "fecha": "Fri, 13 Nov 2026 18:06:04 +0000",
-      "categoria": "Economía",
-      "resumen": "El Ministerio de Trabajo publicó 274 registros de empresas, entidades y actividades económicas relacionados con prácticas de trabajo forzoso, como parte de la normativa que prohíbe importar a Guatemala mercancías producidas bajo esas condiciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Mamá cortó a papá”: Niña habría revelado con gestos cómo su madre mató a su pareja en Florida",
-      "link": "https://www.prensalibre.com/internacional/mama-corto-a-papa-nina-habria-revelado-con-gestos-como-su-madre-mato-a-su-pareja-en-florida/",
-      "fecha": "Fri, 13 Nov 2026 18:05:35 +0000",
-      "categoria": "Internacional",
-      "resumen": "La niña de 3 años comenzó a llorar y a decir \"mamá, corta a papá\", mientras hacía gestos con las manos imitando un corte en sus brazos y también mencionaba la basura."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los Mendoza, Los Huistas y Los Lorenzana son designados como terroristas internacionales por EE. UU.",
-      "link": "https://www.prensalibre.com/guatemala/justicia/los-mendoza-los-huistas-y-los-lorenzanas-son-designados-como-terroristas-por-ee-uu/",
-      "fecha": "Fri, 13 Nov 2026 18:05:24 +0000",
-      "categoria": "Guatemala",
-      "resumen": "EE. UU. designó como terroristas a Los Mendoza, Los Huistas y Los Lorenzana por sus vínculos con carteles mexicanos y su participación en el narcotráfico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala enfrenta a Canadá por un boleto al Final Four: seis datos de una eliminatoria de alto voltaje",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-enfrenta-a-canada-por-un-boleto-al-final-four-seis-datos-de-una-eliminatoria-de-alto-voltaje/",
-      "fecha": "Fri, 13 Nov 2026 17:45:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Alphonso Davies y Jonathan David visitan El Trébol este viernes con una Canadá de nivel mundialista, pero Guatemala, líder de su grupo y con el estadio lleno, buscará dar el golpe en el partido de ida de los cuartos de final de la Liga de Naciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La cantante guatemalteca Zelaya deslumbra con su elegancia en la alfombra roja de los Latin Grammy 2026",
-      "link": "https://www.prensalibre.com/vida/escenario/la-cantante-guatemalteca-zelaya-deslumbra-con-su-elegancia-en-la-alfombra-roja-de-los-latin-grammy-2026/",
-      "fecha": "Fri, 13 Nov 2026 17:33:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La cantante guatemalteca Zelaya destacó el jueves 12 de noviembre durante su paso por la alfombra roja de los Latin Grammy, evento al que asistió por invitación especial."
     },
     {
       "fuente": "Guatemala.com",
