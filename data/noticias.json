@@ -1,7 +1,111 @@
 {
-  "actualizado": "2026-11-15T21:34:51.184Z",
+  "actualizado": "2026-11-16T01:43:14.425Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Antigua no pudo con Suchitepéquez y reparte puntos en un empate 1-1 en Mazatenango",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/antigua-no-pudo-con-suchitepequez-y-reparte-puntos-en-un-empate-1-1-en-mazatenango-breaking/",
+      "fecha": "Mon, 16 Nov 2026 01:29:41 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los coloniales y los venados empataron 1-1  en un partido en el que los locales jugaron con diez desde el minuto 39, el portero Jorge Moreno atajó un penal y el juego se interrumpió unos 20 minutos por una falla eléctrica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Panamá vence a Curazao y clasifica al Final Four de la Liga de Naciones y a la Copa Oro 2027",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/panama-vence-a-curazao-y-clasifica-al-final-four-de-la-liga-de-naciones-y-a-la-copa-oro-2027-breaking/",
+      "fecha": "Mon, 16 Nov 2026 01:12:11 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "José Fajardo marcó un doblete en el triunfo 2-0 de los canaleros, que avanzaron por cuarta edición consecutiva. Es el primer equipo que avanza a semifinales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Vas a dormir bajo tus cielos”: las palabras del hijo de Miguel Ángel Asturias durante el acto de inhumación en Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/vas-a-dormir-bajo-tus-cielos-las-palabras-del-hijo-de-miguel-angel-asturias-durante-el-acto-de-inhumacion-en-guatemala/",
+      "fecha": "Sun, 15 Nov 2026 23:41:16 +0000",
+      "categoria": "Escenario",
+      "resumen": "Los restos de Miguel Ángel Asturias llegan para quedarse y descansar definitivamente en su tierra, en el monumento construido en el Centro Cultural Miguel Ángel Asturias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estado de sitio en Zacapa: 84 necropsias por arma de fuego, nueve asesinatos recientes y dudas sobre los grupos criminales",
+      "link": "https://www.prensalibre.com/guatemala/justicia/estado-de-sitio-en-zacapa-84-necropsias-por-arma-de-fuego-nueve-asesinatos-recientes-y-dudas-sobre-los-grupos-criminales/",
+      "fecha": "Sun, 15 Nov 2026 23:33:24 +0000",
+      "categoria": "Justicia",
+      "resumen": "Zacapa registraba 84 necropsias por arma de fuego antes del estado de sitio. Gobierno reserva nombres de grupos criminales y EE. UU. emite alerta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Videos: varios turistas recorren Antigua Guatemala en la décima edición del Festival de las Flores",
+      "link": "https://www.prensalibre.com/vida/escenario/varios-turistas-recorren-antigua-guatemala-en-la-decima-edicion-del-festival-de-las-flores/",
+      "fecha": "Sun, 15 Nov 2026 23:32:22 +0000",
+      "categoria": "Escenario",
+      "resumen": "Varios turistas visitaron este fin de semana Antigua Guatemala para la décima edición del Festival de las Flores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga de Naciones UEFA: estos son los resultados del fin de semana y los clasificados a cuartos de final",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-de-naciones-uefa-estos-son-los-resultados-del-fin-de-semana-y-los-5-clasificados-a-cuartos-de-final-breaking/",
+      "fecha": "Sun, 15 Nov 2026 23:22:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Francia, Bélgica, Inglaterra, España y Portugal aseguraron su lugar en los cuartos de final de la Liga de Naciones de la UEFA, en un fin de semana con resultados sorpresivos en el fútbol europeo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salvadoreños y estadounidenses encabezan los movimientos migratorios de extranjeros en Guatemala",
+      "link": "https://www.prensalibre.com/economia/salvadorenos-y-estadounidenses-encabezan-los-movimientos-migratorios-de-extranjeros-en-guatemala/",
+      "fecha": "Sun, 15 Nov 2026 23:10:16 +0000",
+      "categoria": "Economía",
+      "resumen": "Desde Centroamérica hasta Asia y Europa, los registros migratorios revelan las nacionalidades con mayor movimiento en Guatemala, mientras que las estadísticas aéreas muestran desde qué países y ciudades llegan más pasajeros."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Igor Dos Santos guía con un doblete la victoria de San Pedro sobre Marquense",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/igor-dos-santos-guia-con-un-doblete-la-victoria-de-san-pedro-sobre-marquense-breaking/",
+      "fecha": "Sun, 15 Nov 2026 23:08:50 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los gallos se impusieron 2-0 en el estadio Municipal de San Pedro, con un penal en el primer tiempo y un disparo potente en el segundo, mientras Marquense jugó con diez desde el minuto 60."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Después de que me despojaran de la ciudadanía nicaragüense, España fue mi lugar de asilo y decidí bien&#8221;: el escritor Sergio Ramírez ingresa a la Real Academia Española",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/despues-de-que-me-despojaran-de-la-ciudadania-nicaraguense-espana-fue-mi-lugar-de-asilo-y-decidi-bien-el-escritor-sergio-ramirez-ingresa-a-la-real-academia-espanola/",
+      "fecha": "Sun, 15 Nov 2026 22:53:08 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Ramírez es autor de decenas de publicaciones entre novelas, cuentos, crónicas y ensayos y fue ganador del Premio Cervantes 2017."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nueva fusión en el sector azucarero: ingenios La Unión y Madre Tierra integran operaciones en Escuintla",
+      "link": "https://www.prensalibre.com/economia/nueva-fusion-en-el-sector-azucarero-ingenios-la-union-y-madre-tierra-integran-operaciones-en-escuintla/",
+      "fecha": "Sun, 15 Nov 2026 22:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Los ingenios azucareros La Unión y Madre Tierra, que operan en la costa sur de Guatemala, confirmaron su fusión para la zafra 2026-2027. Esta es la segunda operación de este tipo que se registra en el sector agroindustrial durante el año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amazonía, represión y un llamado a la paz: los temas que habló el papa León XIV en su visita a Perú",
+      "link": "https://www.prensalibre.com/internacional/amazonia-represion-y-un-llamado-a-la-paz-los-temas-que-hablo-el-papa-leon-xiv-en-su-visita-a-peru/",
+      "fecha": "Sun, 15 Nov 2026 22:11:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Este domingo 15 de noviembre es el penúltimo día del papa León XIV de su visita apostólica en Perú, que forma parte de su gira por Latinoamérica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miguel Ángel Félix Gallardo: lo que se sabe de la muerte del fundador del Cartel de Guadalajara",
+      "link": "https://www.prensalibre.com/internacional/miguel-angel-felix-gallardo-lo-que-se-sabe-de-la-muerte-del-fundador-del-cartel-de-guadalajara/",
+      "fecha": "Sun, 15 Nov 2026 22:04:15 +0000",
+      "categoria": "Internacional",
+      "resumen": "Medios de México reportan la muerte de Miguel Ángel Félix Gallardo, fundador del cartel de Guadalajara, tras ser hospitalizado el 13 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Suchitepéquez vs. Antigua GFC: siga el minuto a minuto de la jornada 20",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-suchitepequez-vs-antigua-gfc-siga-el-minuto-a-minuto-de-la-jornada-20-breaking/",
+      "fecha": "Sun, 15 Nov 2026 22:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los venados reciben al líder Antigua hoy a las 5:05 PM en el estadio Carlos Salazar Hijo, en un duelo en el que los coloniales buscan sostener la cima."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "EN VIVO &#124; San Pedro vs. Marquense: siga el minuto a minuto de la jornada 20",
@@ -699,22 +803,6 @@
       "resumen": "Visita la tienda renovada de CEMACO Pradera Concepción y descubre showrooms de pisos, línea blanca y el Centro de Herramientas Inalámbricas.\nThe post CEMACO Pradera Concepción ofrece nuevos espacios para inspirarse y encontrar todo bajo un techo appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Colaboradores de Los Lorenzana podrían enfrentar cargos penales en EE. UU., advierte Embajada",
-      "link": "https://www.prensalibre.com/guatemala/colaboradores-de-los-lorenzana-podrian-enfrentar-cargos-penales-en-ee-uu-advierte-embajada/",
-      "fecha": "Fri, 13 Nov 2026 22:37:45 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Las sanciones también pueden alcanzar a quienes colaboren con estas estructuras, incluso fuera del país. Esto responde la Embajada de Estados Unidos a Prensa Libre sobre sus alcances y consecuencias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala pierde ante Canadá y buscará la remontada en Toronto en la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-vs-canada-en-vivo-sigue-el-minuto-a-minuto-del-partido-de-ida-de-los-cuartos-de-final-breaking/",
-      "fecha": "Fri, 13 Nov 2026 22:30:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Guatemala jugó dos partidos distintos. En el primer tiempo, Canadá la superó con un contundente 0-3; en el segundo, la Azul y Blanco mostró carácter y descontó con goles de Óscar Santis y Matthew Evans, aunque no le alcanzó para evitar una derrota (2-3) que deja la serie abierta, pero con la obligación de remontar en Canadá."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Conoce qué nos hace la Ciudad de la Buena Gente",
       "link": "https://www.guatemala.com/noticias/comunidad/que-nos-hace-la-ciudad-de-la-buena-gente.html",
@@ -723,100 +811,12 @@
       "resumen": "Si te has preguntado ¿qué es lo que hace especial a la Ciudad de Guatemala?, acá te dejamos algunas razones que nos hacen amar nuestra capital. \nThe post Conoce qué nos hace la Ciudad de la Buena Gente appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Cuántos partidos de suspensión recibió Jesús Owono tras el incidente con Jesús de Miguel?",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cuantos-partidos-de-suspension-recibio-jesus-owono-tras-el-incidente-con-jesus-de-miguel/",
-      "fecha": "Fri, 13 Nov 2026 22:10:15 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "La RFEF sancionó al portero del Andorra, Jesús Owono, por la acción que provocó su expulsión en el duelo ante Tenerife, donde el delantero Jesús de Miguel sufrió lesiones que posteriormente le causaron la muerte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Amenaza terrorista o ciberataque? Por qué EE. UU. suspendió los despegues de aviones en todo el país",
-      "link": "https://www.prensalibre.com/internacional/amenaza-terrorista-o-ciberataque-por-que-ee-uu-suspendio-los-despegues-de-aviones-en-todo-el-pais-breaking/",
-      "fecha": "Fri, 13 Nov 2026 22:08:50 +0000",
-      "categoria": "Internacional",
-      "resumen": "El secretario de Seguridad Nacional habló este 13 de noviembre de los motivos que provocaron la suspensión de despegues aéreos en todo EE. UU."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Mithy explora Guatemala, la serie infantil para conocer el país se estrenará en noviembre 2026",
       "link": "https://www.guatemala.com/noticias/entretenimiento/guatemala-com-baleuko-presentan-mithy-explora-guatemala.html",
       "fecha": "Fri, 13 Nov 2026 22:03:50 +0000",
       "categoria": "Entretenimiento",
       "resumen": "Guatemala.com y Baleuko presentan Mithy explora Guatemala, una nueva serie infantil animada que destacará lugares y tradiciones guatemaltecas.\nThe post Mithy explora Guatemala, la serie infantil para conocer el país se estrenará en noviembre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Videos muestran cómo una barcaza choca contra un crucero con 129 personas a bordo en Luisiana y lo deja semihundido",
-      "link": "https://www.prensalibre.com/internacional/videos-muestran-como-una-barcaza-choca-contra-un-crucero-con-129-personas-a-bordo-en-luisiana-y-lo-deja-semihundido/",
-      "fecha": "Fri, 13 Nov 2026 21:57:09 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una barcaza impacta un crucero con 129 personas en el río Misisipi y lo deja semihundido en Luisiana"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La autoridad de aviación de EE.UU. ordena suspender los despegues de vuelos en todo el país por motivos de seguridad",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-autoridad-de-aviacion-de-ee-uu-ordena-suspender-los-despegues-de-vuelos-en-todo-el-pais-por-motivos-de-seguridad/",
-      "fecha": "Fri, 13 Nov 2026 21:50:23 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La Administración Federal de Aviación (FAA) ordenó este viernes suspender todos los despegues de vuelos en Estados Unidos hasta nuevo aviso, alegando \"circunstancias extraordinarias\" y motivos de seguridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gobierno sigue sin definir estrategia de seguridad para Zacapa tras ataques armados que suman 17 muertos",
-      "link": "https://www.prensalibre.com/guatemala/politica/gobierno-sigue-sin-definir-estrategia-de-seguridad-para-zacapa-tras-ataques-armados-que-suman-17-muertos-breaking/",
-      "fecha": "Fri, 13 Nov 2026 21:35:49 +0000",
-      "categoria": "Política",
-      "resumen": "El Gobierno sigue sin anunciar medidas de seguridad para Zacapa, donde dos ataques armados dejaron nueve muertos en ocho días, además de las ocho víctimas de la matanza ocurrida en Huité en septiembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo el escándalo sexual del gigante tecnológico Nvidia está salpicando a la Casa Blanca",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-el-escandalo-sexual-del-gigante-tecnologico-nvidia-esta-salpicando-a-la-casa-blanca/",
-      "fecha": "Fri, 13 Nov 2026 21:30:16 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Puede que la vida personal de Jensen Huang haya desencadenado la crisis, pero ahora las preguntas llegan hasta la propia Casa Blanca."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Hasta nuevo aviso&#8221;: Por qué EE. UU. ordenó suspender los despegues de aviones en todo el país",
-      "link": "https://www.prensalibre.com/internacional/hasta-nuevo-aviso-por-que-ee-uu-ordeno-suspender-los-despegues-de-aviones-en-todo-el-pais-breaking/",
-      "fecha": "Fri, 13 Nov 2026 21:29:24 +0000",
-      "categoria": "Internacional",
-      "resumen": "La Administración Federal de Aviación ha comunicado que todos los vuelos de EE. UU. permanecerán en tierra \"hasta nuevo aviso\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miss Universo 2026 presenta su nueva corona: &#8220;El Resplandor del Legado Eterno&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/miss-universo-2026-presenta-su-nueva-corona-el-resplandor-del-legado-eterno/",
-      "fecha": "Fri, 13 Nov 2026 21:24:09 +0000",
-      "categoria": "Escenario",
-      "resumen": "La corona que recibirá Miss Universo 2026 será distinta de la que recibió Fátima Bosch el año anterior. La organización presentó la nueva pieza para conmemorar el 75.º aniversario del certamen."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Así se vivió el reencuentro de Miguel Ángel Asturias con la Universidad Popular",
-      "link": "https://www.prensalibre.com/vida/escenario/asi-se-vivio-el-reencuentro-de-miguel-angel-asturias-con-la-universidad-popular/",
-      "fecha": "Fri, 13 Nov 2026 21:05:07 +0000",
-      "categoria": "Escenario",
-      "resumen": "La entidad educativa y cultural, que el escritor contribuyó a fundar en 1922, le ofreció un homenaje lleno de reflexión y arte."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La magia de la navidad los hará estrenar un vehículo 2027",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/la-magia-de-la-navidad-los-hara-estrenar-un-vehiculo-2027/",
-      "fecha": "Fri, 13 Nov 2026 20:30:07 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Centro Comercial Los Próceres agradece la preferencia de quienes lo eligen como destino de compras, gastronomía y experiencias en familia, lanzando la promoción La magia está en cada compra, que permitirá a sus clientes participar en el sorteo de un Toyota Land Cruiser Prado modelo 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Más de 22 años en prisión: qué hacía &#8220;Tony Montana&#8221;, hermano de &#8220;El Mencho&#8221; dentro del CJNG, según EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/mas-de-22-anos-en-prision-que-hacia-tony-montana-hermano-de-el-mencho-dentro-del-cjng-segun-ee-uu/",
-      "fecha": "Fri, 13 Nov 2026 20:23:14 +0000",
-      "categoria": "Internacional",
-      "resumen": "EE. UU. informó que Antonio Oseguera Cervantes, hermano del exlíder del CJNG \"El Mencho\", fue condenado por delitos vinculados al narcotráfico."
     },
     {
       "fuente": "Guatemala.com",
