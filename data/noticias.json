@@ -1,7 +1,247 @@
 {
-  "actualizado": "2026-11-16T20:09:53.444Z",
+  "actualizado": "2026-11-17T03:34:04.718Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Recibe por cuarto año consecutivo la distinción Multiplicador de Impacto",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/recibe-por-cuarto-ano-consecutivo-la-distincion-multiplicador-de-impacto/",
+      "fecha": "Tue, 17 Nov 2026 03:27:17 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Por su aporte a la promoción de la construcción sostenible en el país, Guatemala Green Building Council (GGBC) reconoció un año más a CMI Capital, agrupación de negocios de Corporación Multi Inversiones (CMI). La distinción fue entregada durante el congreso Guatemala se Construye Sostenible y Resiliente, organizado por el GGBC."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Guatemala quedó fuera de la Copa Oro 2027? Lo que le depara a la Bicolor tras perder ante Canadá",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-quedo-fuera-de-la-copa-oro-2027-lo-que-le-depara-a-la-bicolor-tras-perder-ante-canada/",
+      "fecha": "Tue, 17 Nov 2026 03:22:35 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El conjunto dirigido por Luis Fernando Tena fue inferior tanto en Guatemala como en Toronto, por lo que los canadienses avanzaron al Final Four de la Liga de Naciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estado de Sitio en Zacapa e Izabal pone bajo investigación la extracción ilegal de oro y jade",
+      "link": "https://www.prensalibre.com/guatemala/justicia/estado-de-sitio-en-zacapa-e-izabal-pone-bajo-investigacion-la-extraccion-ilegal-de-oro-y-jade/",
+      "fecha": "Tue, 17 Nov 2026 03:08:02 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Gobierno despliega fuerzas policiales y militares durante 30 días para combatir estructuras criminales y actividades extractivas sin licencia. La medida abre interrogantes sobre su aplicación tardía, las restricciones de derechos y la seguridad después del estado de sitio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Habrá un apagón en Guatemala el martes 17 de noviembre por simulacro de FEMA en EE. UU.? Esto dice EEGSA",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/habra-un-apagon-en-guatemala-el-martes-17-de-noviembre-por-simulacro-de-fema-en-ee-uu-esto-dice-eegsa-breaking/",
+      "fecha": "Tue, 17 Nov 2026 02:51:19 +0000",
+      "categoria": "Comunitario",
+      "resumen": "EEGSA aclaró si existe riesgo de un apagón en Guatemala por el simulacro de alerta de emergencias que Estados Unidos efectuará este martes 17 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El rey Carlos III celebra la elección de Robert Pattinson como el nuevo James Bond: &#8220;Bienvenido al Servicio Secreto de Su Majestad&#8221;",
+      "link": "https://www.prensalibre.com/vida/escenario/el-rey-carlos-iii-celebra-la-eleccion-de-robert-pattinson-como-el-nuevo-james-bond-bienvenido-al-servicio-secreto-de-su-majestad/",
+      "fecha": "Tue, 17 Nov 2026 02:21:37 +0000",
+      "categoria": "Escenario",
+      "resumen": "Con un mensaje publicado en las redes sociales de la familia real británica, el rey Carlos III reaccionó a la elección de Robert Pattinson para interpretar al agente secreto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Los guatemaltecos siempre estamos unidos”: Así vive la afición de la Bicolor el juego en Canadá",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/los-guatemaltecos-siempre-estamos-unidos-asi-vive-la-aficion-de-la-bicolor-el-juego-en-canada/",
+      "fecha": "Tue, 17 Nov 2026 02:00:28 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Pese a que la temperatura en Toronto es de 3 °C, muchos guatemaltecos viajaron a Canadá y portan la camisola con los colores de la bandera."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una oportunidad para reunir a las familias y fortalecer las tradiciones",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-oportunidad-para-reunir-a-las-familias-y-fortalecer-las-tradiciones/",
+      "fecha": "Tue, 17 Nov 2026 01:43:02 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Del 20 de noviembre al 20 de diciembre, a partir de las 10:00 de la mañana a 10:00 de la noche, se realizará el Festival Navideño de la Ciudad 2026, una experiencia llena de luz, música y momentos inolvidables que llenarán de vida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Periodista asesinado en Costa Rica: las amenazas que había recibido por denunciar al narcotráfico",
+      "link": "https://www.prensalibre.com/internacional/periodista-asesinado-en-costa-rica-las-amenazas-que-habia-recibido-por-denunciar-al-narcotrafico/",
+      "fecha": "Tue, 17 Nov 2026 01:27:19 +0000",
+      "categoria": "Internacional",
+      "resumen": "El periodista Camilo Rodríguez, conocido por denunciar casos de narcotráfico en redes sociales, fue asesinado a balazos en Costa Rica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Canadá pasa por encima de una débil Guatemala y la elimina de la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/canada-vs-guatemala-en-vivo-sigue-el-minuto-a-minuto-del-partido-por-un-boleto-a-las-semifinales/",
+      "fecha": "Tue, 17 Nov 2026 01:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Canadá goleó 4-1 a Guatemala en el BMO Field, selló el global de 7-3 y dejó a la Bicolor fuera de la Liga de Naciones de Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Niño amenaza la producción de caña de azúcar en Guatemala por sequía y altas temperaturas",
+      "link": "https://www.prensalibre.com/economia/el-nino-amenaza-la-produccion-de-cana-de-azucar-en-guatemala-por-sequia-y-altas-temperaturas/",
+      "fecha": "Tue, 17 Nov 2026 01:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La Asazgua prevé una reducción de 5% en la producción de caña de azúcar, y mermas en la generación de energía eléctrica a partir del bagazo durante la zafra 2026-2027, debido a los efectos asociados al fenómeno de El Niño. Sin embargo, garantiza el abastecimiento de azúcar para atender la demanda del mercado interno."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jueza Abelina Cruz beneficia a exdiputado vinculado al caso Asalto al Ministerio de Salud y cierra proceso en su contra",
+      "link": "https://www.prensalibre.com/guatemala/justicia/jueza-abelina-cruz-beneficia-a-exdiputado-vinculado-al-caso-asalto-al-ministerio-de-salud-y-cierra-proceso-en-su-contra/",
+      "fecha": "Tue, 17 Nov 2026 00:52:01 +0000",
+      "categoria": "Justicia",
+      "resumen": "La jueza Abelina Cruz Toscano dictó el sobreseimiento a favor del exdiputado Juan Pablo Urrea, vinculado al caso Asalto al Ministerio de Salud."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sin Hagen ni Rudy Muñoz: Así jugará Guatemala en Canadá para avanzar en la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/sin-hagen-ni-rudy-munoz-asi-jugara-guatemala-en-canada-para-avanzar-en-la-liga-de-naciones/",
+      "fecha": "Tue, 17 Nov 2026 00:36:58 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Algunas ausencias se deben a un cambio en el planteamiento de Tena, quien, en lugar de jugar con dos delanteros en un 4-4-2, regresa al tradicional 4-2-3-1."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Personal de juzgado denuncia intimidaciones de abogados que afirman representar al Comité Ejecutivo del COG",
+      "link": "https://www.prensalibre.com/guatemala/justicia/personal-de-juzgado-denuncia-intimidaciones-de-abogados-que-afirman-representar-al-comite-ejecutivo-del-cog/",
+      "fecha": "Tue, 17 Nov 2026 00:06:42 +0000",
+      "categoria": "Justicia",
+      "resumen": "Personal del Juzgado Segundo Penal denunció ante el MP presuntas intimidaciones de abogados que afirman representar al Comité Ejecutivo del COG."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué ocurre con United Airlines? Una falla generalizada afecta los vuelos de salida en EE.UU",
+      "link": "https://www.prensalibre.com/internacional/que-ocurre-con-united-airlines-una-falla-generalizada-afecta-los-vuelos-de-salida-en-ee-uu/",
+      "fecha": "Mon, 16 Nov 2026 23:41:12 +0000",
+      "categoria": "Internacional",
+      "resumen": "United Airlines sufre una falla generalizada en su sistema tres días después de que una inusual paralización de vuelos detuviera las salidas durante horas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estado de sitio en Zacapa e Izabal: Gobierno refuerza operativos para combatir a grupos criminales",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/estado-de-sitio-en-zacapa-e-izabal-gobierno-refuerza-operativos-para-combatir-a-grupos-criminales/",
+      "fecha": "Mon, 16 Nov 2026 23:03:11 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Gobierno de Guatemala reforzó la presencia policial y militar en Zacapa e Izabal, departamentos bajo estado de sitio durante 30 días, tras una serie de ataques armados que han dejado una veintena de muertos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Volverá Jensen Huang a Nvidia? Trump respalda su regreso, pero la directiva mantiene otra postura",
+      "link": "https://www.prensalibre.com/internacional/volvera-jensen-huang-a-nvidia-trump-respalda-su-regreso-pero-la-directiva-mantiene-otra-postura/",
+      "fecha": "Mon, 16 Nov 2026 22:39:48 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump aprovechó para restar gravedad al escándalo relacionado con una de las tres amantes de Huang, señalada como una presunta espía china."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alemania necesitó un tiempo para aplastar a Países Bajos y sellar su clasificación",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/alemania-necesito-un-tiempo-para-aplastar-a-paises-bajos-y-sellar-su-clasificacion/",
+      "fecha": "Mon, 16 Nov 2026 22:23:06 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Alemania goleó 5-0 a Países Bajos, con doblete de Florian Wirtz, y aseguró su clasificación a los cuartos de final de la Liga de Naciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Vive Salsa 2026: una noche con orquestas en vivo, pista de baile y artistas invitados",
+      "link": "https://www.prensalibre.com/vida/escenario/vive-salsa-una-noche-con-orquestas-en-vivo-pista-de-baile-y-artistas-invitados/",
+      "fecha": "Mon, 16 Nov 2026 22:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Un concierto que reunirá a dos orquestas de salsa, DJ, artistas invitados y bailarines profesionales, con una pista de baile a disposición del público."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Navidad 2026: ideas de manualidades para hacer en casa y colores recomendados",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/navidad-2026-ideas-de-manualidades-para-hacer-en-casa-y-colores-recomendados/",
+      "fecha": "Mon, 16 Nov 2026 21:59:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "El adviento está a punto de comenzar y hay que estar preparados con esos elementos que visten la casa para la temporada y con los obsequios que se intercambiarán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Conducen ante juzgado a adolescente de 14 años por posible vinculación con el femicidio de Madelin Chacach, de 5 años",
+      "link": "https://www.prensalibre.com/guatemala/justicia/conducen-ante-juzgado-a-adolescente-de-14-anos-por-posible-vinculacion-con-el-femicidio-de-madelin-chacach-de-5-anos/",
+      "fecha": "Mon, 16 Nov 2026 21:40:37 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Una cinta métrica y otros nueve indicios forman parte de la investigación por la muerte de la niña Madelin Chacach."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Precio de gasolina en Guatemala hoy, 16 de noviembre: regular baja hasta Q28.49",
+      "link": "https://www.prensalibre.com/economia/gasolina-regular-llega-a-q28-49-en-guatemala-asi-estan-los-precios-de-los-combustibles-este-16-de-noviembre/",
+      "fecha": "Mon, 16 Nov 2026 21:37:14 +0000",
+      "categoria": "Economía",
+      "resumen": "Las gasolinas regular y superior se acercan a los precios de enero de 2026. Sin embargo, el diésel sigue siendo el combustible con el mayor incremento acumulado frente al inicio del año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "5 países de la Unión Europea anuncian la creación de un centro de deportación de migrantes en Ruanda",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/5-paises-de-la-union-europea-anuncian-la-creacion-de-un-centro-de-deportacion-de-migrantes-en-ruanda/",
+      "fecha": "Mon, 16 Nov 2026 21:35:14 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Alemania, Dinamarca, Austria, Grecia y Países Bajos anunciaron la creación de un \"centro de retorno\" para los solicitantes de asilo cuyas peticiones hayan sido denegadas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Un extraño fue enterrado en la tumba que yo tenía reservada para estar cerca de mis padres&#8221;",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-extrano-fue-enterrado-en-la-tumba-que-yo-tenia-reservada-para-estar-cerca-de-mis-padres/",
+      "fecha": "Mon, 16 Nov 2026 21:18:50 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Marie Lane dice que \"ya no siente lo mismo\" por la tumba que había reservado y pagado, tras descubrir que un desconocido fue enterrado allí por error y posteriormente exhumado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Equipos antiguos? La razón que dio Trump sobre lo que provocó la suspensión de vuelos en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/equipos-antiguos-la-razon-que-dio-trump-sobre-lo-que-provoco-la-suspension-de-vuelos-en-ee-uu/",
+      "fecha": "Mon, 16 Nov 2026 21:17:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Donald Trump habló recientemente sobre lo que considera fue la razón principal de la suspensión total de vuelos en Estados Unidos que ocurrió el 13 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Inacif identifica a Sucely Areli Aguirre Quinteros como la mujer localizada envuelta en sábanas en la zona 19",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/inacif-identifica-a-sucely-areli-aguirre-quinteros-como-la-mujer-localizada-envuelta-en-sabanas-en-la-zona-19/",
+      "fecha": "Mon, 16 Nov 2026 21:07:44 +0000",
+      "categoria": "Sucesos",
+      "resumen": "El Inacif identificó como Sucely Aguirre Quinteros a la mujer cuyo cuerpo fue localizado envuelto en sábanas en la zona 19 capitalina. La víctima tenía una alerta Isabel-Claudina activa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caravana de migrantes sale de Honduras rumbo a Guatemala: Trump pide a México frenar su avance",
+      "link": "https://www.prensalibre.com/internacional/caravana-de-migrantes-sale-de-honduras-rumbo-a-guatemala-trump-pide-a-mexico-frenar-su-avance/",
+      "fecha": "Mon, 16 Nov 2026 21:06:16 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump amenazó con duplicar los aranceles a México si no logra detener a los migrantes y EE. UU. advirtió que las caravanas que \"crucen ilegalmente\" se enfrentarán a consecuencias legales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. recomienda a sus ciudadanos evitar Zacapa e Izabal por el estado de sitio",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ee-uu-recomienda-a-sus-ciudadanos-evitar-zacapa-e-izabal-por-el-estado-de-sitio/",
+      "fecha": "Mon, 16 Nov 2026 21:01:25 +0000",
+      "categoria": "Justicia",
+      "resumen": "Estados Unidos recomendó evitar Zacapa e Izabal por el estado de sitio decretado tras una ola de ataques armados que dejó una veintena de muertos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. ofrece recompensa de US$10 millones por &#8220;Mosh&#8221; y una cifra igual por &#8220;el Teniente Jr&#8221;, vinculados el cartel Chiapas-Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ee-uu-ofrece-recompensa-de-us10-millones-por-mosh-y-una-cifra-igual-por-el-teniente-jr-vinculados-el-cartel-chiapas-guatemala/",
+      "fecha": "Mon, 16 Nov 2026 20:58:45 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Mosh y el Teniente Jr. están vinculados  el cartel Chiapas-Guatemala, estructura que operan en la frontera con México y tienen nexos con el Cartel Jalisco Nueva Generación."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estado de Sitio se someterá a ratificación del Congreso este martes 17 de noviembre",
+      "link": "https://www.prensalibre.com/guatemala/politica/estado-de-sitio-se-sometera-a-ratificacion-del-congreso-este-martes-17-de-noviembre/",
+      "fecha": "Mon, 16 Nov 2026 20:53:39 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La instancia de jefes de bloques acordó conocer las medidas de excepción decretadas por el Ejecutivo en dos departamentos. Algunos diputados consideran que la medida debería de abarcar más lugares."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "TSE exigirá título universitario para integrar las juntas electorales departamentales, que serán convocadas en diciembre",
+      "link": "https://www.prensalibre.com/guatemala/politica/tse-exigira-titulo-universitario-para-integrar-las-juntas-electorales-convocatoria-sera-en-diciembre/",
+      "fecha": "Mon, 16 Nov 2026 20:13:23 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El TSE también anunció que no va a permitir que las Juntas Electorales hagan uso de algún sistema informático alterno como ocurrió en las elecciones 2023."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "&#8220;Pinta tu Ángel&#8221;: fecha, horario y precio del taller navideño en la capital",
@@ -569,246 +809,6 @@
       "fecha": "Sun, 15 Nov 2026 14:49:32 +0000",
       "categoria": "Justicia",
       "resumen": "Las autoridades decomisaron más de 500 paquetes de droga que eran transportados en una embarcación en el Pacífico guatemalteco, en Escuintla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Empresarios respaldan lista contra el trabajo forzoso en Guatemala, pero piden reglas claras",
-      "link": "https://www.prensalibre.com/economia/empresarios-respaldan-lista-contra-el-trabajo-forzoso-en-guatemala-pero-piden-reglas-claras/",
-      "fecha": "Sun, 15 Nov 2026 13:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La Cámara de Industria de Guatemala (CIG) y la Cámara de Comercio Guatemalteco-Americana (AmCham) Guatemala respaldan el listado sobre trabajo forzoso, mientras el Ministerio de Economía y la Superintendencia de Administración Tributaria (SAT) deben completar procedimientos para restringir importaciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Salida de Jensen Huang de Nvidia abre la puerta a más restricciones de EE. UU. contra los chips de IA de China",
-      "link": "https://www.prensalibre.com/internacional/salida-de-jensen-huang-de-nvidia-abre-la-puerta-a-mas-restricciones-de-ee-uu-contra-los-chips-de-ia-de-china/",
-      "fecha": "Sun, 15 Nov 2026 12:00:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Estados Unidos prepara restricciones al acceso chino a chips de inteligencia artificial tras la salida de Jensen Huang de Nvidia, mientras Pekín impulsa alternativas nacionales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jornadas médicas gratuitas en Guatemala: profesionales donan su tiempo para atender a comunidades",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/jornadas-medicas-gratuitas-en-guatemala-profesionales-donan-su-tiempo-para-atender-a-comunidades/",
-      "fecha": "Sun, 15 Nov 2026 12:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Jessica Ramírez y Merlyn Pérez forman parte de un grupo de profesionales que donan su tiempo para brindar atención médica gratuita a comunidades con necesidades en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Los Lorenzana después de las extradiciones: el relevo del clan y las pesquisas que el MP no recibió",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/los-lorenzana-despues-de-las-extradiciones-el-relevo-del-clan-y-las-pesquisas-que-el-mp-no-recibio/",
-      "fecha": "Sun, 15 Nov 2026 11:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Ministerio Público señala que no recibió investigaciones estratégicas sobre narcotráfico. Expertos examinan el relevo de los Lorenzana y los recientes hechos violentos en Zacapa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trasplantes y donaciones de órganos en Guatemala: la espera de hasta ocho años y una ley que sigue sin reglamento",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/trasplantes-y-donaciones-de-organos-en-guatemala-la-espera-de-hasta-ocho-anos-y-una-ley-que-sigue-sin-reglamento/",
-      "fecha": "Sun, 15 Nov 2026 11:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Decreto 5-2024 marcó un avance para organizar los trasplantes en Guatemala, pero su reglamento sigue pendiente y la lista nacional de espera aún no funciona. Mientras el país realiza unos 150 trasplantes al año, muchos pacientes esperan años o carecen de opciones en el sistema público."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos puyas",
-      "link": "https://www.prensalibre.com/opinion/caricatura/dos-puyas-3/",
-      "fecha": "Sun, 15 Nov 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Me es necesario volver”",
-      "link": "https://www.prensalibre.com/opinion/editorial/me-es-necesario-volver/",
-      "fecha": "Sun, 15 Nov 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Regresó, repatriado como tantos compatriotas migrantes que se marcharon en busca de esperanzas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por la dignidad de los migrantes en EE. UU.",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/por-la-dignidad-de-los-migrantes-en-ee-uu/",
-      "fecha": "Sun, 15 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Hay signos de que la discusión política sobre una reforma migratoria tome nuevamente relevancia en los EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién protege al ciudadano?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/quien-protege-al-ciudadano/",
-      "fecha": "Sun, 15 Nov 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Cuando participar parece más riesgoso que guardar silencio, el problema deja de ser de una organización."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tragedia aérea en el corazón de la otra Guatemala",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/tragedia-aerea-en-el-corazon-de-la-otra-guatemala/",
-      "fecha": "Sun, 15 Nov 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La aeronave se estrelló con tal violencia que abrió un enorme cráter en el suelo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La gran cumbre",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-gran-cumbre/",
-      "fecha": "Sun, 15 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "En la reunión de la Apec de esta semana que se dará una cumbre tripartita al margen de todo entre los presidentes de China, Estados Unidos y Rusia"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy domingo 15 de noviembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-domingo-15-de-noviembre-de-2026/",
-      "fecha": "Sun, 15 Nov 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Municipal se impone de visita 1-0 a Malacateco con gol de Elvi Elington",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/municipal-se-impone-de-visita-1-0-a-malacateco-con-gol-de-elvi-elington-breaking/",
-      "fecha": "Sun, 15 Nov 2026 03:00:10 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los escarlatas sufrieron en el segundo tiempo, pero las atajadas de Braulio Linares sostuvieron la ventaja que consiguieron en el primero y les permitieron sumar tres punto importantes ante malacateco."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gobierno de Guatemala decreta estado de Sitio en Zacapa e Izabal y qué medidas aplica",
-      "link": "https://www.prensalibre.com/guatemala/politica/gobierno-de-guatemala-decreta-estado-de-sitio-en-zacapa-e-izabal-por-30-dias-tras-hechos-violentos-breaking/",
-      "fecha": "Sun, 15 Nov 2026 02:58:20 +0000",
-      "categoria": "Política",
-      "resumen": "El presidente Bernardo Arévalo decretó el 14 de noviembre estado de Sitio en  Zacapa e Izabal por un plazo de 30 días. Este domingo el decreto fue publicado en el Diario de Centro América."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miguel Ángel Asturias recibe homenaje público",
-      "link": "https://www.prensalibre.com/vida/escenario/miguel-angel-asturias-recibe-homenaje-publico/",
-      "fecha": "Sun, 15 Nov 2026 02:27:37 +0000",
-      "categoria": "Escenario",
-      "resumen": "Antes de su inhumación en el Centro Cultural Miguel Ángel Asturias, las cenizas del ganador del Premio Nobel de Literatura 1967 están expuestas en el Palacio Nacional de la Cultura."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Árbol Gallo 2026: espectáculo ilumina Guatemala y marca el inicio de la temporada navideña",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/arbol-gallo-2026-ilumina-guatemala-y-marca-el-inicio-de-la-temporada-navidena-breaking/",
-      "fecha": "Sun, 15 Nov 2026 01:01:11 +0000",
-      "categoria": "Comunitario",
-      "resumen": "En la Plaza Obelisco varios guatemaltecos se reunieron para presenciar el espectáculo del Árbol Gallo, una celebración con más de 40 años de existencia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Comunicaciones vence 2-0 a Cobán Imperial y se acerca a la zona de clasificación",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/comunicaciones-vence-2-0-a-coban-imperia-hila-su-tercera-victoria-consecutiva-y-sigue-vivo-en-la-clasificacion-breaking/",
-      "fecha": "Sun, 15 Nov 2026 01:00:28 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Paolo Dantaz y Dewinder Bradley marcaron para los cremas, que resistieron con un hombre menos desde el minuto 40, suben puestos en la tabla y condenan a Cobán a su segunda derrota consecutiva."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Malacateco vs. Municipal: siga el minuto a minuto de la jornada 20",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-malacateco-vs-municipal-siga-el-minuto-a-minuto-de-la-jornada-20-breaking/",
-      "fecha": "Sun, 15 Nov 2026 00:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los toros reciben a los escarlatas este sábado a las 7:00 PM en el estadio Santa Lucía, en un duelo en el que Municipal busca sumar para no perder terreno en la tabla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aeropuerto Internacional La Aurora: vuelos hacia y desde Estados Unidos podrían registrar irregularidades por tres días más",
-      "link": "https://www.prensalibre.com/economia/aeropuerto-la-aurora-vuelos-hacia-y-desde-estados-unidos-podrian-registrar-irregularidades-por-tres-dias-mas/",
-      "fecha": "Sat, 14 Nov 2026 23:55:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Los pasajeros con vuelos entre Guatemala y Estados Unidos, así como quienes esperan la llegada de familiares, deben verificar los itinerarios antes de trasladarse al Aeropuerto La Aurora. Las aerolíneas advierten que las demoras y cancelaciones podrían continuar durante los próximos días."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Qué es la diabetes y cómo la alimentación ayuda en su tratamiento y prevención",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/que-es-la-diabetes-y-como-la-alimentacion-ayuda-en-su-tratamiento-y-prevencion/",
-      "fecha": "Sat, 14 Nov 2026 23:53:25 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Cada 14 de noviembre se conmemora el Día Mundial de la Diabetes, una enfermedad que puede afectar a niños, jóvenes y adultos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ejército moviliza hasta 600 soldados tras siete asesinatos en Zacapa e Izabal: qué revelan las investigaciones",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ejercito-moviliza-hasta-600-soldados-tras-siete-asesinatos-en-zacapa-e-izabal-que-revelan-las-investigaciones-breaking/",
-      "fecha": "Sat, 14 Nov 2026 23:15:00 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Ejército intensifica operativos en Zacapa, Chiquimula e Izabal, mientras la PNC investiga siete asesinatos y una posible venganza detrás del ataque en Puerto Barrios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Parcero”, presunto lugarteniente de “Haroldito” Lorenzana, fue asesinado en Zacapa y era buscado desde el 2025",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ataque-en-zacapa-presunto-colaborador-de-haroldito-lorenzana-murio-en-la-majada-y-era-buscado-desde-el-2025-breaking/",
-      "fecha": "Sat, 14 Nov 2026 23:00:00 +0000",
-      "categoria": "Justicia",
-      "resumen": "José Raúl Archila Romero, alias “Parcero”, murió en La Majada. Una fuente policial lo vincula con “Haroldito” Lorenzana; investigadores lo buscaron en el 2025."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Xelajú golea 4-0 a Guastatoya y da un paso firme hacia la clasificación directa del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/xelaju-golea-4-0-a-guastatoya-y-da-un-paso-firme-hacia-la-clasificacion-directa-del-apertura-2026-breaking/",
-      "fecha": "Sat, 14 Nov 2026 22:55:52 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Con goles de Juan Cardona, Steven Cárdenas y un doblete de Yair Jaén, los Superchivos golearon a Guastatoya, que quedó con diez jugadores, y se meten en el segundo lugar de la clasificación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Comunicaciones vs. Cobán Imperial: siga el minuto a minuto de la jornada",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-comunicaciones-vs-coban-imperial-siga-el-minuto-a-minuto-de-la-jornada/",
-      "fecha": "Sat, 14 Nov 2026 22:45:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los cremas reciben a los príncipes azules este sábado a las 5:00 PM en el estadio Cementos Progreso, con la misión de conseguir una victoria que les dé posibilidades en la clasificación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La Selección de Guatemala ya tiene nueva fecha de viaje a Canadá: saldrá el 15 de noviembre en chárter",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/la-seleccion-de-guatemala-ya-tiene-nueva-fecha-de-viaje-a-canada-saldra-manana-en-charter-breaking/",
-      "fecha": "Sat, 14 Nov 2026 22:03:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La delegación guatemalteca partirá a Canadá el domingo 15 de noviembre a la 1:00 PM, después de que Concacaf no aceptó reprogramar el partido de vuelta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente mortal en Escuintla: esto se sabe de la colisión entre motocicleta y camión que dejó dos fallecidos",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-mortal-en-escuintla-esto-se-sabe-de-la-colision-entre-motocicleta-y-camion-que-dejo-dos-fallecidos-breaking/",
-      "fecha": "Sat, 14 Nov 2026 21:20:43 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Dos personas murieron y una resultó herida en un accidente de tránsito en la ruta antigua que conduce de Escuintla hacia Puerto San José."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MetroRiel se prepara para la fase 1: las cuatro acciones previstas para 2027 y el reto del cambio de gobierno",
-      "link": "https://www.prensalibre.com/economia/metroriel-se-prepara-para-la-fase-1-las-cuatro-acciones-previstas-para-2027-y-el-reto-del-cambio-de-gobierno/",
-      "fecha": "Sat, 14 Nov 2026 20:47:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Tras concluir la fase 0 con apoyo del Reino Unido, el MetroRiel prevé definir su trazado, estaciones e iniciar las primeras obras en 2027, mientras enfrenta el reto de garantizar su continuidad ante el cambio de gobierno en 2028."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miguel Ángel Asturias y Rigoberta Menchú se reúnen en ceremonia maya",
-      "link": "https://www.prensalibre.com/vida/escenario/miguel-angel-asturias-y-rigoberta-menchu-se-reunen-en-ceremonia-maya/",
-      "fecha": "Sat, 14 Nov 2026 20:45:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El encuentro simbólico de los dos ganadores del Premio Nobel se da en el marco de los tributos que se le rinden al escritor cuyas cenizas serán  inhumadas el domingo 15 de noviembre en el centro cultural que lleva su nombre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "A pesar de levantar suspensión, por qué EE. UU. prevé 5 mil vuelos cancelados para este sábado",
-      "link": "https://www.prensalibre.com/internacional/a-pesar-de-levantar-suspension-por-que-ee-uu-preve-5-mil-vuelos-cancelados-para-este-sabado/",
-      "fecha": "Sat, 14 Nov 2026 20:12:21 +0000",
-      "categoria": "Internacional",
-      "resumen": "El jefe de la FAA admitió que este sábado se prevé 5 mil vuelos cancelados en EE. UU. tras la suspensión de despegues a nivel nacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Xelajú MC vs. Guastatoya: siga el minuto a minuto de la jornada 20",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-xelaju-mc-vs-guastatoya-siga-el-minuto-a-minuto-de-la-jornada-20-breaking/",
-      "fecha": "Sat, 14 Nov 2026 20:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los superchivos reciben a los pechoamarillo hoy a las 3:00 PM en el estadio Mario Camposeco, en un duelo de equipos que pelean por la parte alta de la tabla."
     },
     {
       "fuente": "Guatemala.com",
