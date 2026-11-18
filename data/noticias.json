@@ -1,7 +1,215 @@
 {
-  "actualizado": "2026-11-18T12:50:40.509Z",
+  "actualizado": "2026-11-18T21:14:47.325Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. condena ataque contra fiscal de delitos electorales y afirma que guatemaltecos merecen elecciones sin miedo",
+      "link": "https://www.prensalibre.com/guatemala/politica/ee-uu-condena-ataque-contra-fiscal-de-delitos-electorales-y-afirma-que-guatemaltecos-merecen-elecciones-sin-miedo-breaking/",
+      "fecha": "Wed, 18 Nov 2026 20:31:17 +0000",
+      "categoria": "Política",
+      "resumen": "Estados Unidos condenó el ataque armado contra la fiscal de delitos electorales Liseth Noemí Mazariegos y afirmó que los guatemaltecos merecen elecciones libres, justas y sin violencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¡La espera terminó! Anne Hathaway se convierte en madre por tercera vez y es captada mientras pasea con su bebé",
+      "link": "https://www.prensalibre.com/vida/escenario/la-espera-termino-anne-hathaway-se-convierte-en-madre-por-tercera-vez-y-es-captada-mientras-pasea-con-su-bebe/",
+      "fecha": "Wed, 18 Nov 2026 19:53:37 +0000",
+      "categoria": "Escenario",
+      "resumen": "La actriz de cine de 43 años, que en el 2026 estrenó cinco películas, celebra la llegada de su tercer hijo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trump, Putin y Xi Jinping: qué hay detrás de la histórica reunión y qué significa para el mundo",
+      "link": "https://www.prensalibre.com/internacional/trump-putin-y-xi-jinping-que-hay-detras-de-la-historica-reunion-y-que-significa-para-el-mundo/",
+      "fecha": "Wed, 18 Nov 2026 19:34:03 +0000",
+      "categoria": "Internacional",
+      "resumen": "Los tres hombres más poderosos del mundo se reunieron en China y lo que estará en juego es nada menos que la \"paz mundial\", según el presidente Xi Jinping."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataques informáticos, IA o actualizaciones pendientes: qué hay detrás de la ola de problemas tecnológicos de los últimos días",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/ataques-informaticos-ia-o-actualizaciones-pendientes-que-hay-detras-de-la-ola-de-problemas-tecnologicos-de-los-ultimos-dias/",
+      "fecha": "Wed, 18 Nov 2026 19:31:09 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "No hay pruebas de que estén relacionadas, pero la constante sucesión de disrupciones tecnológicas puede resultar inquietante."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Desfile de Bandas Navideñas 2026: fecha, horario y recorrido en la Ciudad de Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/desfile-de-bandas-navidenas-2026-fecha-horario-y-recorrido-en-la-ciudad-de-guatemala/",
+      "fecha": "Wed, 18 Nov 2026 19:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El desfile navideño reunirá a 85 bandas que llenarán de música y color el Centro Histórico. Conozca todos los detalles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Scaloni prepara una Argentina sin Messi: estos son los futbolistas que ganan protagonismo",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/scaloni-prepara-una-argentina-sin-messi-estos-son-los-futbolistas-que-ganan-protagonismo/",
+      "fecha": "Wed, 18 Nov 2026 18:25:47 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Sin Messi y con una nueva generación en marcha, la Albiceleste inicia una etapa de transición que Scaloni liderará hasta el Mundial 2030."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sheinbaum y Trump se reúnen en China: ¿Qué avances reporta México en las negociaciones?",
+      "link": "https://www.prensalibre.com/internacional/sheinbaum-y-trump-se-reunen-en-china-que-avances-reporta-mexico-en-las-negociaciones/",
+      "fecha": "Wed, 18 Nov 2026 18:01:34 +0000",
+      "categoria": "Internacional",
+      "resumen": "La reunión en China es la tercera entre Sheinbaum y Trump desde que el mandatario estadounidense asumió la presidencia el 20 de enero del 2025."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuenca Mirador, Petén: hallazgos arqueológicos revelan rostros de estuco, calzadas y cerámica de la civilización maya",
+      "link": "https://www.prensalibre.com/vida/escenario/cuenca-mirador-peten-hallazgos-arqueologicos-revelan-rostros-de-estuco-calzadas-y-ceramica-de-la-civilizacion-maya/",
+      "fecha": "Wed, 18 Nov 2026 18:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Rostros de estuco, antiguas calzadas y piezas de cerámica forman parte de los hallazgos arqueológicos en El Mirador, Petén, que aportan nuevas pistas sobre la civilización maya."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga Nacional cambia el horario del Guastatoya vs. Comunicaciones: esta es la nueva hora",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-cambia-el-horario-del-guastatoya-vs-comunicaciones-esta-es-la-nueva-hora/",
+      "fecha": "Wed, 18 Nov 2026 17:34:29 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Guastatoya y Comunicaciones tendrán un cambio de horario en su duelo de la jornada 21 del Apertura 2026, un partido clave en la lucha por la liguilla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quiénes son los 7 fundadores de Anthropic que están a punto de convertirse en multimillonarios",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/quienes-son-los-7-fundadores-de-anthropic-que-estan-a-punto-de-convertirse-en-multimillonarios/",
+      "fecha": "Wed, 18 Nov 2026 17:34:01 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La empresa de inteligencia artificial responsable de Claude está a punto de salir a bolsa, lo que hará muy ricos a sus fundadores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El regreso de la saga GTA reabre el debate sobre la violencia en los videojuegos: ¿hay razones para preocuparse?",
+      "link": "https://www.prensalibre.com/vida/escenario/el-regreso-de-la-saga-gta-reabre-el-debate-sobre-la-violencia-en-los-videojuegos-hay-razones-para-preocuparse/",
+      "fecha": "Wed, 18 Nov 2026 17:15:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El estreno de la sexta parte de la saga ha desatado inquietudes entre quienes ven una mala influencia en este tipo de diversión."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "España conserva el primer lugar del ranking Fifa y Marruecos alcanza una posición histórica: así quedan el top 10",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/espana-conserva-el-primer-lugar-del-ranking-fifa-y-marruecos-alcanza-una-posicion-historica-asi-quedan-el-top-10/",
+      "fecha": "Wed, 18 Nov 2026 16:59:02 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "A pesar de la derrota ante Inglaterra, España mantiene el primer lugar del Ranking Fifa; Marruecos hace historia al llegar al quinto puesto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque en Zacapa: más de 180 casquillos entre las evidencias del hecho que dejó cinco fallecidos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ataque-en-zacapa-mas-de-180-casquillos-entre-las-evidencias-del-hecho-que-dejo-cinco-fallecidos-breaking/",
+      "fecha": "Wed, 18 Nov 2026 16:46:01 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Ministerio Público continúa con la investigación del ataque en la aldea La Majada, Zacapa, y brinda detalles sobre los indicios hallados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Gobierno de Trump reduce a diez días el plazo para apelar una deportación: ¿A quiénes afecta?",
+      "link": "https://www.prensalibre.com/internacional/gobierno-de-trump-reduce-a-diez-dias-el-plazo-para-apelar-una-deportacion-a-quienes-afecta/",
+      "fecha": "Wed, 18 Nov 2026 16:32:29 +0000",
+      "categoria": "Internacional",
+      "resumen": "Los migrantes tendrán menos tiempo para conseguir representación legal, analizar la decisión del juez y presentar su caso desde un centro de detención."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;GTA VI&#8221; está a punto de llegar: ¿por qué rompe récords?",
+      "link": "https://www.prensalibre.com/vida/escenario/gta-vi-esta-a-punto-de-llegar-por-que-rompe-records/",
+      "fecha": "Wed, 18 Nov 2026 16:27:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Los expertos señalan que más que un videojuego es un retrato del lado más turbio de la cultura occidental."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Videos: fuertes inundaciones azotan Florida y por qué se esperan más en los próximos días",
+      "link": "https://www.prensalibre.com/internacional/videos-fuertes-inundaciones-azotan-florida-y-por-que-se-esperan-mas-en-los-proximos-dias/",
+      "fecha": "Wed, 18 Nov 2026 16:08:39 +0000",
+      "categoria": "Internacional",
+      "resumen": "Fuertes inundaciones se registraron desde la madrugada del 17 de noviembre en Florida, y se espera que hayan más con el paso de los días."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Persecución e intercambio de disparos terminan con la captura de dos presuntos asaltantes en la zona 12",
+      "link": "https://www.prensalibre.com/guatemala/justicia/persecucion-e-intercambio-de-disparos-terminan-con-la-captura-de-dos-presuntos-asaltantes-en-la-zona-12-breaking/",
+      "fecha": "Wed, 18 Nov 2026 15:54:36 +0000",
+      "categoria": "Justicia",
+      "resumen": "Dos presuntos asaltantes fueron capturados tras una persecución en la colonia La Reformita, zona 12."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala buscará mantener su presencia en la Copa Oro: este será su rival en las preliminares",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-buscara-mantener-su-presencia-en-la-copa-oro-este-sera-su-rival-en-las-preliminares/",
+      "fecha": "Wed, 18 Nov 2026 15:46:05 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Guatemala ya enfoca sus esfuerzos en asegurar su presencia en la Copa Oro 2027, uno de los principales objetivos del proceso encabezado por Luis Fernando Tena, tras quedarse sin el boleto directo al máximo torneo de selecciones de Concacaf."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Brad Pitt quiere ser el villano del Agente 007: ¿qué posibilidades tiene de ser tomado en cuenta?",
+      "link": "https://www.prensalibre.com/vida/escenario/brad-pitt-quiere-ser-el-villano-del-agente-007-que-posibilidades-tiene-de-ser-tomado-en-cuenta/",
+      "fecha": "Wed, 18 Nov 2026 15:17:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El actor estadounidense celebra la elección del británico Robert Pattinson e invita a los productores a evaluar la posibilidad de ser él quien se le enfrente en la pantalla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Murió baleada en su cumpleaños: Familia busca respuestas por el crimen de una madre en Dallas",
+      "link": "https://www.prensalibre.com/internacional/murio-baleada-en-su-cumpleanos-familia-busca-respuestas-por-el-crimen-de-una-madre-en-dallas/",
+      "fecha": "Wed, 18 Nov 2026 15:01:14 +0000",
+      "categoria": "Internacional",
+      "resumen": "La mujer hispana y madre de cuatro hijos murió horas antes de poder reunirse con su familia, que la esperaba en casa para celebrar su cumpleaños."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arda Güler renueva con el Real Madrid y busca convertirse en una leyenda del club",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/arda-guler-renueva-con-el-real-madrid-y-busca-convertirse-en-una-leyenda-del-club/",
+      "fecha": "Wed, 18 Nov 2026 14:43:34 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Real Madrid aseguró la continuidad de una de sus mayores apuestas de presente y futuro al renovar hasta 2032."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Interceptan picop en Izabal y descubren que tenía una orden de secuestro vigente emitida por juzgado",
+      "link": "https://www.prensalibre.com/guatemala/justicia/interceptan-picop-en-izabal-y-descubren-que-tenia-una-orden-de-secuestro-vigente-emitida-por-juzgado-breaking/",
+      "fecha": "Wed, 18 Nov 2026 14:32:23 +0000",
+      "categoria": "Justicia",
+      "resumen": "En Livingston, Izabal, las autoridades interceptaron un picop con una orden de secuestro vigente emitida por un juzgado del departamento de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Es mucho más divertido ser el malo&#8221;: la idea que inspiró a un pequeño estudio escocés a crear el exitoso videojuego GTA hace casi 30 años",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/es-mucho-mas-divertido-ser-el-malo-la-idea-que-inspiro-a-un-pequeno-estudio-escoces-a-crear-el-exitoso-videojuego-gta-hace-casi-30-anos/",
+      "fecha": "Wed, 18 Nov 2026 14:20:08 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Como se esperaba, la nueva entrega de la saga va en camino a convertirse en el lanzamiento de un videojuego más grande de la historia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Selección de Guatemala desciende en el ranking Fifa tras quedar eliminada de la Liga de Naciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-desciende-en-el-ranking-fifa-tras-quedar-eliminada-de-la-liga-de-naciones/",
+      "fecha": "Wed, 18 Nov 2026 13:56:06 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Luego de quedar eliminada frente a Canadá en los cuartos de final de la Liga de Naciones de Concacaf, la Selección de Guatemala aparece con cambios en la más reciente actualización del Ranking Fifa"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Canje de vidrio por vasos: una iniciativa en favor del planeta",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/canje-de-vidrio-por-vasos-una-iniciativa-en-favor-del-planeta/",
+      "fecha": "Wed, 18 Nov 2026 13:49:35 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Las jornadas de recolección en la capital, en Amatitlán y en Huehuetenango se realizan entre noviembre y diciembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Suchitepéquez tiene escrito su final: último lugar del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/suchitepequez-tiene-escrito-su-final-ultimo-lugar-del-apertura-2026-breaking/",
+      "fecha": "Wed, 18 Nov 2026 13:11:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Con 13 puntos y apenas dos victorias en 20 jornadas, los venados ocupan el último lugar del Apertura 2026."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Presunta estafa de Q4 mil 500 provoca intento de linchamiento contra dos hombres en Alta Verapaz",
@@ -20,11 +228,27 @@
     },
     {
       "fuente": "Prensa Libre",
-      "titulo": "Laura Guibert, gerente de Portales: Spectrum invierte US$85 millones en ampliación y espera superar los nueve millones de visitantes",
+      "titulo": "Spectrum invierte US$85 millones en ampliación de Portales y espera superar los nueve millones de visitantes",
       "link": "https://www.prensalibre.com/economia/laura-guibert-gerente-de-portales-spectrum-invierte-us85-millones-en-ampliacion-y-espera-superar-los-nueve-millones-de-visitantes/",
       "fecha": "Wed, 18 Nov 2026 12:00:00 +0000",
       "categoria": "Economía",
-      "resumen": "Con una inversión de US$85 millones, Portales amplía su oferta comercial y de entretenimiento, genera nuevos empleos y proyecta superar los nueve millones de visitantes anuales."
+      "resumen": "Con una inversión de US$85 millones, el Centro Comercial Portales, ubicado en zona 17, amplía su oferta comercial y de entretenimiento, genera nuevos empleos y proyecta superar los nueve millones de visitantes anuales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Encuentran una falla crítica en Java, el tercer lenguaje de programación más utilizado en el mundo del que dependen el 90% de las grandes compañías",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/encuentran-una-falla-critica-en-java-el-tercer-lenguaje-de-programacion-mas-utilizado-en-el-mundo-del-que-dependen-el-90-de-las-grandes-companias/",
+      "fecha": "Wed, 18 Nov 2026 11:56:35 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La misma empresa tecnológica emergente que descubrió una vulnerabilidad en PHP utilizó inteligencia artificial para descubrir un fallo crítico de software en uno de los lenguajes de programación más populares del mundo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/no-podiamos-pagar-una-casa-para-nuestra-familia-asi-que-compramos-una-con-desconocidos/",
+      "fecha": "Wed, 18 Nov 2026 11:50:36 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Hay personas y familias en Canadá que no pueden permitirse adquirir una vivienda por sus precios elevados y buscan cómo asociarse a otros que estén en su misma situación."
     },
     {
       "fuente": "Prensa Libre",
@@ -593,230 +817,6 @@
       "fecha": "Tue, 17 Nov 2026 14:27:59 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "La Curacao, Almacenes Tropigas y RadioShack dieron luz verde al Black Friday 2026. A partir del 12 y hasta el 29 de noviembre, más de 160 tiendas a nivel nacional abrirán sus puertas con la mayor concentración de ofertas de la temporada y acceso directo a los productos más codiciados del mercado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué el puente de Crimea se convirtió en uno de los grandes símbolos de la guerra entre Rusia y Ucrania y fue blanco de una &#8220;operación sin precedentes",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-el-puente-de-crimea-se-convirtio-en-uno-de-los-grandes-simbolos-de-la-guerra-entre-rusia-y-ucrania-y-fue-blanco-de-una-operacion-sin-precedentes/",
-      "fecha": "Tue, 17 Nov 2026 14:25:20 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El puente que une a Crimea y Rusia ha sufrido graves daños, mientras que dos rutas que atraviesan Kyiv permanecen cerradas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Concierto navideño al ritmo del jazz con entrada gratuita: así será &#8220;Swinging Christmas&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/concierto-navideno-al-ritmo-del-jazz-con-entrada-gratuita-asi-sera-swinging-christmas/",
-      "fecha": "Tue, 17 Nov 2026 13:59:28 +0000",
-      "categoria": "Escenario",
-      "resumen": "Una noche de jazz orquestal con los clásicos de Navidad y “El cascanueces” como gran protagonista. Conozca cómo asistir al concierto gratuito."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "White Fence es declarada organización terrorista en Guatemala: cómo surgió y dónde opera",
-      "link": "https://www.prensalibre.com/guatemala/justicia/white-fence-es-declarada-organizacion-terrorista-en-guatemala-como-surgio-y-donde-opera-breaking/",
-      "fecha": "Tue, 17 Nov 2026 13:27:45 +0000",
-      "categoria": "Justicia",
-      "resumen": "La Corte Suprema de Justicia publicó que designó a la organización White Fence como grupo criminal organizado transnacional y terrorista."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gukumatz 2026: segunda bienal de videoarte en Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/gukumatz-2026-segunda-bienal-de-videoarte-en-guatemala/",
-      "fecha": "Tue, 17 Nov 2026 13:25:50 +0000",
-      "categoria": "Escenario",
-      "resumen": "En esta edición, los 22 artistas participantes buscan, a través de sus obras, expresar su necesidad persistente de producir para comprender aquello que los rodea y lo que son."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cada kilómetro recorrido puede traducirse en oportunidades",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/cada-kilometro-recorrido-puede-traducirse-en-oportunidades/",
-      "fecha": "Tue, 17 Nov 2026 13:03:00 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Se viene la segunda edición de la carrera que busca crear consciencia sobre la desnutrición infantil aguda y crónica en el país, Cada Kilómetro Cuenta, realizada por Guatemaltecos por la Nutrición, programa creado por Castillo Hermanos para abordar las principales causas de la desnutrición infantil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo sanciona Ley marco de Ciberseguridad: qué contempla y cuál será su aplicación en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/justicia/arevalo-sanciona-ley-marco-de-ciberseguridad-que-contempla-y-cual-sera-su-aplicacion-en-guatemala-breaking/",
-      "fecha": "Tue, 17 Nov 2026 12:10:46 +0000",
-      "categoria": "Justicia",
-      "resumen": "El presidente Bernardo Arévalo sancionó el Decreto 26-2026 del Congreso, que da vida a la Ley Marco de Ciberseguridad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tendencias de diseño de interiores en Guatemala: colores, materiales y estilos para renovar el hogar",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/tendencias-de-diseno-de-interiores-en-guatemala-colores-materiales-y-estilos-para-renovar-el-hogar/",
-      "fecha": "Tue, 17 Nov 2026 12:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Los colores tierra, los materiales naturales y las texturas artesanales marcan las tendencias del diseño de interiores en Guatemala. Conozca estas ideas y recomendaciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aguacate Hass: Guatemala espera luz verde de EE. UU. para iniciar exportaciones",
-      "link": "https://www.prensalibre.com/guatemala/aguacate-hass-guatemala-espera-luz-verde-de-ee-uu-para-iniciar-exportaciones/",
-      "fecha": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Guatemala está a la espera de una firma clave de Estados Unidos para comenzar a exportar aguacate Hass. ¿Qué falta para iniciar los envíos y qué papel juegan los años de experiencia fitosanitaria del país?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La otra realidad que oculta la ciudad &#8220;paraíso de la IA&#8221; en la que China recibe a los líderes mundiales",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-otra-realidad-que-oculta-la-ciudad-paraiso-de-la-ia-en-la-que-china-recibe-a-los-lideres-mundiales/",
-      "fecha": "Tue, 17 Nov 2026 10:47:31 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Shenzhen se ha convertido en un símbolo de futuro para China. Pero no todos sus residentes lo ven como un lugar en donde pueden lograr sus sueños."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuándo se celebra Cristo Rey en el 2026: la solemnidad que marca el final del año litúrgico",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/cuando-se-celebra-cristo-rey-en-el-2026-la-solemnidad-que-marca-el-final-del-ano-liturgico/",
-      "fecha": "Tue, 17 Nov 2026 10:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Se acerca el día de Nuestro Señor Jesucristo, Rey del Universo, una solemnidad de la Iglesia católica que pone fin al año litúrgico y da paso al Adviento."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Guatemala puede competir bien, excepto por los costos de transporte”",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/guatemala-puede-competir-bien-excepto-por-los-costos-de-transporte/",
-      "fecha": "Tue, 17 Nov 2026 10:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Conforme se aleja del mercado guatemalteco, a Panifresh le cuesta más competir y debe invertir en plantas más cercanas a sus clientes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tesla, Nvidia y Meta: los gigantes tecnológicos que enfrentan riesgos por falta de sucesores",
-      "link": "https://www.prensalibre.com/economia/tesla-nvidia-y-meta-los-gigantes-tecnologicos-que-enfrentan-riesgos-por-falta-de-sucesores/",
-      "fecha": "Tue, 17 Nov 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La dependencia de sus principales ejecutivos genera preocupación entre los inversionistas, debido al impacto que una salida inesperada podría tener en los mercados financieros."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Allanamiento olímpico",
-      "link": "https://www.prensalibre.com/opinion/caricatura/allanamiento-olimpico/",
-      "fecha": "Tue, 17 Nov 2026 06:07:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricaturas de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Oneroso clientelismo con dinero ajeno",
-      "link": "https://www.prensalibre.com/opinion/editorial/oneroso-clientelismo-con-dinero-ajeno/",
-      "fecha": "Tue, 17 Nov 2026 06:06:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Disponer irresponsablemente de Q18 mil millones para repetir pagos que ya se hicieron en el pasado es un abuso que se paga en las urnas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Señales para tomar nota",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/senales-para-tomar-nota/",
-      "fecha": "Tue, 17 Nov 2026 06:05:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Un mundo con superinteligencia artificial en medio de ideologías y líderes con mentalidad de chimpancé."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La falta de cosechas se roba un tiempo de comida en Totonicapán",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/la-falta-de-cosechas-se-roba-un-tiempo-de-comida-en-totonicapan/",
-      "fecha": "Tue, 17 Nov 2026 06:05:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los tiempos de comida se reducen en la aldea Chocanuleu porque la ausencia de lluvia daño los cultivos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Iniciativa para compensar a exPAC costaría Q18 mil millones y varias bancadas están dispuestas a aprobarla",
-      "link": "https://www.prensalibre.com/guatemala/politica/iniciativa-para-compensar-a-expac-costaria-q18-mil-millones-y-varias-bancadas-estan-dispuestas-a-aprobarla/",
-      "fecha": "Tue, 17 Nov 2026 06:05:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La iniciativa de ley busca otorgar una compensación económica a unos 500 mil exintegrantes de las Patrullas de Autodefensa Civil mediante un pago de Q36 mil a cada uno."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Huevos o avena: ¿Qué desayuno es mejor?",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/huevos-o-avena-que-desayuno-es-mejor/",
-      "fecha": "Tue, 17 Nov 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Dado que el desayuno siempre ha sido considerado la comida más importante del día, puede generar mucha presión para prepararlo correctamente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Derrota electoral y escándalo de Nvidia debilitan a Trump ante sus reuniones con Xi y Putin",
-      "link": "https://www.prensalibre.com/internacional/derrota-electoral-y-escandalo-de-nvidia-debilitan-a-trump-ante-sus-reuniones-con-xi-y-putin/",
-      "fecha": "Tue, 17 Nov 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "El presidente estadounidense viaja a Asia con una agenda que incluye comercio, Ucrania y armas nucleares, mientras enfrenta divisiones internas y posibles investigaciones del Congreso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Que tu idioma materno no termine contigo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/que-tu-idioma-materno-no-termine-contigo/",
-      "fecha": "Tue, 17 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Nuestros hijos merecen recibir la sabiduría que heredamos de nuestros abuelos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El cine y el dinero de los espectadores",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-cine-y-el-dinero-de-los-espectadores/",
-      "fecha": "Tue, 17 Nov 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "No se cuestiona el cine ni su valor cultural, sino qué papel debe desempeñar el Estado y hasta dónde resulta ético utilizar recursos públicos para favorecer una actividad privada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La Guatemala que no se rinde",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-guatemala-que-no-se-rinde/",
-      "fecha": "Tue, 17 Nov 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "A pesar de los contextos hostiles, encuentran caminos democráticos para defender derechos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "León XIV en Uruguay, Argentina y Perú",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/leon-xiv-en-uruguay-argentina-y-peru/",
-      "fecha": "Tue, 17 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Su regreso a casa fue emotivo e inspirador"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy martes 17 de noviembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-17-de-noviembre-de-2026/",
-      "fecha": "Tue, 17 Nov 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Tenemos que mejorar en todo”: Luis Fernando Tena analiza la derrota de Guatemala en Canadá",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/tenemos-que-mejorar-en-todo-luis-fernando-tena-analiza-la-derrota-de-guatemala-en-canada/",
-      "fecha": "Tue, 17 Nov 2026 04:27:41 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "A pesar de haber logrado maquillar el resultado en Guatemala, Luis Fernando Tena fue expuesto por Canadá en Toronto, donde le pasaron por encima."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Violencia en Guatemala deja cinco muertos, entre ellos una menor, tras ataques armados en Escuintla, Sacatepéquez y la capital",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/violencia-en-guatemala-deja-cinco-muertos-entre-ellos-una-menor-tras-ataques-armados-en-escuintla-sacatepequez-y-la-capital-breaking/",
-      "fecha": "Tue, 17 Nov 2026 04:26:38 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Cinco personas, entre ellas una menor de edad, murieron en cuatro ataques armados registrados en Escuintla, Sacatepéquez y la capital. Los hechos también dejaron dos heridos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Recibe por cuarto año consecutivo la distinción Multiplicador de Impacto",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/recibe-por-cuarto-ano-consecutivo-la-distincion-multiplicador-de-impacto/",
-      "fecha": "Tue, 17 Nov 2026 03:27:17 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Por su aporte a la promoción de la construcción sostenible en el país, Guatemala Green Building Council (GGBC) reconoció un año más a CMI Capital, agrupación de negocios de Corporación Multi Inversiones (CMI). La distinción fue entregada durante el congreso Guatemala se Construye Sostenible y Resiliente, organizado por el GGBC."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Guatemala quedó fuera de la Copa Oro 2027? Lo que le depara a la Bicolor tras perder ante Canadá",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-quedo-fuera-de-la-copa-oro-2027-lo-que-le-depara-a-la-bicolor-tras-perder-ante-canada/",
-      "fecha": "Tue, 17 Nov 2026 03:22:35 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El conjunto dirigido por Luis Fernando Tena fue inferior tanto en Guatemala como en Toronto, por lo que los canadienses avanzaron al Final Four de la Liga de Naciones."
     },
     {
       "fuente": "Guatemala.com",
