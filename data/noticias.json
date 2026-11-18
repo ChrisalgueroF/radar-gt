@@ -1,7 +1,191 @@
 {
-  "actualizado": "2026-11-18T03:29:31.673Z",
+  "actualizado": "2026-11-18T12:50:40.509Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presunta estafa de Q4 mil 500 provoca intento de linchamiento contra dos hombres en Alta Verapaz",
+      "link": "https://www.prensalibre.com/guatemala/justicia/presunta-estafa-de-q4-mil-500-provoca-intento-de-linchamiento-contra-dos-hombres-en-alta-verapaz-breaking/",
+      "fecha": "Wed, 18 Nov 2026 12:03:33 +0000",
+      "categoria": "Justicia",
+      "resumen": "La Policía Nacional Civil informó sobre la captura de dos hombres señalados de efectuar una compra con un cheque sin fondos en Alta Verapaz."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Hasta que el cuerpo aguante&#8221;: una muestra para la memoria y el avance",
+      "link": "https://www.prensalibre.com/vida/escenario/hasta-que-el-cuerpo-aguante-una-muestra-para-la-memoria-y-el-avance/",
+      "fecha": "Wed, 18 Nov 2026 12:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El Centro Cultural de España presenta esta exposición  que explora las relaciones entre arte y transformación social."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Laura Guibert, gerente de Portales: Spectrum invierte US$85 millones en ampliación y espera superar los nueve millones de visitantes",
+      "link": "https://www.prensalibre.com/economia/laura-guibert-gerente-de-portales-spectrum-invierte-us85-millones-en-ampliacion-y-espera-superar-los-nueve-millones-de-visitantes/",
+      "fecha": "Wed, 18 Nov 2026 12:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Con una inversión de US$85 millones, Portales amplía su oferta comercial y de entretenimiento, genera nuevos empleos y proyecta superar los nueve millones de visitantes anuales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Planea visitar el Irtra en el fin de año 2026? Estos son los horarios y recomendaciones",
+      "link": "https://www.prensalibre.com/vida/escenario/planea-visitar-el-irtra-en-el-fin-de-ano-2026-estos-son-los-horarios-y-recomendaciones/",
+      "fecha": "Wed, 18 Nov 2026 10:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Si ha pensado aprovechar las vacaciones familiares o celebrar en los parques u hostales de esta entidad, es necesario que se apresure a planificar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Selección de Guatemala: ¿qué dicen los exseleccionados sobre el trabajo de Tena y el balance de su gestión?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-que-dicen-los-exseleccionados-sobre-el-trabajo-de-tena-y-el-balance-de-su-gestion/",
+      "fecha": "Wed, 18 Nov 2026 10:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Entre logros y reproches, Tena llega a casi cinco años con Guatemala: avances importantes, pero sin resultados que cierren el debate."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fraudes en propiedades: &#8220;El primer filtro para evitarlos es el notario&#8221;",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/fraudes-en-propiedades-el-primer-filtro-para-evitarlos-es-el-notario/",
+      "fecha": "Wed, 18 Nov 2026 10:00:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "Especialistas señalan la necesidad de modernizar los procedimientos notariales, fortalecer los controles y agilizar la justicia para proteger a los propietarios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El universo del maquillaje, de la creatividad y de la intensidad",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/el-universo-del-maquillaje-de-la-creatividad-y-de-la-intensidad/",
+      "fecha": "Wed, 18 Nov 2026 08:04:08 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Yves Saint Laurent (YSL) la prestigiosa casa de moda de lujo francesa fundada en 1961, atrevidos por ser poco convencionales, se instaló en el Centro Comercial Miraflores, con su universo de maquillaje de fragancias donde cada persona puede disfrutar desde el arte del maquillaje hasta el arte de los aromas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Propuesta de empadronamiento automático y voto ampliado en el extranjero requiere aval de la CC para 2027",
+      "link": "https://www.prensalibre.com/guatemala/politica/propuesta-de-empadronamiento-automatico-y-voto-ampliado-en-el-extranjero-requiere-aval-de-la-cc-para-2027/",
+      "fecha": "Wed, 18 Nov 2026 06:12:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La Comisión de Asuntos Electorales dictaminó favorablemente una iniciativa que propone el empadronamiento automático y la ampliación del voto migrante, aunque su aprobación definitiva dependerá de un control previo de constitucionalidad antes de ser conocida en el hemiciclo del Legislativo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué Guatemala enfrenta riesgos económicos en 2027 pese a que crecerá 4%?",
+      "link": "https://www.prensalibre.com/economia/por-que-guatemala-enfrenta-riesgos-economicos-en-2027-pese-a-que-crecera-4/",
+      "fecha": "Wed, 18 Nov 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El Banco de Guatemala prevé estabilidad económica, pero el aumento de la deuda pública, la desaceleración de las remesas y las elecciones generan preocupación. Explicamos cómo estos factores podrían afectar al país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Contrastes",
+      "link": "https://www.prensalibre.com/opinion/caricatura/contrastes-4/",
+      "fecha": "Wed, 18 Nov 2026 06:07:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricaturas de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sombras en entidades del deporte acusan desmanes",
+      "link": "https://www.prensalibre.com/opinion/editorial/sombras-en-entidades-del-deporte-acusan-desmanes/",
+      "fecha": "Wed, 18 Nov 2026 06:06:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "Todos esos abusos deben terminar, y es más probable que ello ocurra si existen precedentes ejemplares."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Al respecto del regreso de Miguel Ángel Asturias",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/al-respecto-del-regreso-de-miguel-angel-asturias/",
+      "fecha": "Wed, 18 Nov 2026 06:05:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Es justa la repatriación de Miguel Ángel Asturias, pero falta hacerle cambios al área del Teatro Nacional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuánta vida se podría ganar con una caminata de 10 minutos?",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/cuanta-vida-se-podria-ganar-con-una-caminata-de-10-minutos/",
+      "fecha": "Wed, 18 Nov 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Resultados de investigación representan un paso importante para cuantificar cómo el ejercicio se convierte en tiempo ganado, en lugar de tiempo invertido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La crisis de Nvidia pone al descubierto la creciente división dentro de la Casa Blanca de Trump",
+      "link": "https://www.prensalibre.com/internacional/la-crisis-de-nvidia-pone-al-descubierto-la-creciente-division-dentro-de-la-casa-blanca-de-trump/",
+      "fecha": "Wed, 18 Nov 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las diferencias entre los secretarios del Tesoro y de Comercio sobre las restricciones tecnológicas a China ponen de manifiesto las tensiones internas del Gobierno estadounidense."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Meditaciones ante el monumento de Reyna Barrios",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/meditaciones-ante-el-monumento-de-reyna-barrios/",
+      "fecha": "Wed, 18 Nov 2026 06:04:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Una lección es que pueden hacerse reflexiones cívicas importantes a partir de una obra de arte."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alerta, Presupuesto 2027",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/alerta-presupuesto-2027/",
+      "fecha": "Wed, 18 Nov 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La Ley Orgánica del Presupuesto no permite el uso del crédito público para cubrir gastos corrientes u operativos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ley de microfinanzas en 2013",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/ley-de-microfinanzas-en-2013/",
+      "fecha": "Wed, 18 Nov 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Se autorizó el funcionamiento de siete entidades fuera de plaza (Offshore)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tiyoox, el viaje a Chinautla",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/tiyoox-el-viaje-a-chinautla/",
+      "fecha": "Wed, 18 Nov 2026 06:01:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La comunidad nos dijo: \"Seguiremos empujando para que las municipalidades hagan lo que tienen que hacer, pero nuestra comunidad también tira la basura al río y queremos empezar por ser los primeros en dejar de contaminar. ¿Nos ayudan?\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy miércoles 18 de noviembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-18-de-noviembre-de-2026/",
+      "fecha": "Wed, 18 Nov 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tras presión pública diputados desisten de aprobar por urgencia nacional Ley de Contrataciones Públicas",
+      "link": "https://www.prensalibre.com/guatemala/politica/tras-presion-publica-diputados-desisten-de-aprobar-por-urgencia-nacional-ley-de-contrataciones-publicas/",
+      "fecha": "Wed, 18 Nov 2026 04:15:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Luego de horas de sesión y la aprobación de algunos decretos, el pleno  del Congreso se desintegró sin intentar promover la ley de compras presentada por el Ejecutivo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué la histórica cumbre entre Trump, Putin y Xi preocupa a Europa (y qué puede significar para el resto del mundo)",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-la-historica-cumbre-entre-trump-putin-y-xi-preocupa-a-europa-y-que-puede-significar-para-el-resto-del-mundo/",
+      "fecha": "Wed, 18 Nov 2026 04:04:16 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Los preparativos para la primera reunión trilateral de los líderes de China, Rusia y Estados Unidos han generado alarma en Europa, donde algunos ven paralelismos con la división del mundo en esferas de influencia tras la Segunda Guerra Mundial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Con las mejores marcas para estrenar en esta temporada navideña",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/con-las-mejores-marcas-para-estrenar-en-esta-temporada-navidena/",
+      "fecha": "Wed, 18 Nov 2026 03:41:00 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Elektra una unidad de negocio de Grupo Salinas, arranca con una de las temporadas comerciales más esperadas del año, el MEGA BLACK con las propuestas de oferta más agresivas en tecnología, electrodomésticos, muebles, motocicletas y productos para el hogar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Una imprudencia que pudo evitarse”: el riesgo de los giros prohibidos queda en evidencia tras choque de motorista y huida de automovilista",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/una-imprudencia-que-pudo-evitarse-el-riesgo-de-los-giros-prohibidos-queda-en-evidencia-tras-choque-de-motorista-y-huida-de-automovilista/",
+      "fecha": "Wed, 18 Nov 2026 03:39:43 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Una cámara captó el momento en que un automovilista hizo un giro prohibido en Quiché y provocó un choque con un motorista. El caso evidencia los riesgos de efectuar maniobras sin verificar las condiciones del tránsito."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La número uno en efectividad de marketing en Guatemala",
@@ -89,6 +273,14 @@
       "fecha": "Wed, 18 Nov 2026 00:55:55 +0000",
       "categoria": "BBC News Mundo",
       "resumen": "Uno de los símbolos de la ocupación rusa de Ucrania ha sufrido graves daños tras un ataque en siete fases perpetrado por Kyiv."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Congreso amplía la exoneración de impuestos a los combustibles hasta el 30 de junio de 2027",
+      "link": "https://www.prensalibre.com/guatemala/politica/el-congreso-amplia-la-exoneracion-de-impuestos-a-los-combustibles-hasta-el-30-de-junio-de-2027/",
+      "fecha": "Wed, 18 Nov 2026 00:36:40 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los diputados aprueban la medida para estabilizar el costo de los combustibles manteniendo el beneficio durante la campaña electoral y las votaciones del próximo año."
     },
     {
       "fuente": "Prensa Libre",
@@ -625,198 +817,6 @@
       "fecha": "Tue, 17 Nov 2026 03:22:35 +0000",
       "categoria": "Fútbol Nacional",
       "resumen": "El conjunto dirigido por Luis Fernando Tena fue inferior tanto en Guatemala como en Toronto, por lo que los canadienses avanzaron al Final Four de la Liga de Naciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Es Tena el principal responsable de la eliminación de Guatemala? Canadá desnuda las carencias de la Bicolor",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/es-tena-el-principal-responsable-de-la-eliminacion-de-guatemala-canada-desnuda-las-carencias-de-la-bicolor/",
-      "fecha": "Tue, 17 Nov 2026 03:12:58 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Guatemala se despidió de los cuartos de final de la Liga de Naciones de Concacaf con una derrota contundente: Canadá dominó los 180 minutos, ganó 7-3 en el global y dejó a la Bicolor sin respuestas. Con una serie en la que fue superada en todos los aspectos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estado de Sitio en Zacapa e Izabal pone bajo investigación la extracción ilegal de oro y jade",
-      "link": "https://www.prensalibre.com/guatemala/justicia/estado-de-sitio-en-zacapa-e-izabal-pone-bajo-investigacion-la-extraccion-ilegal-de-oro-y-jade/",
-      "fecha": "Tue, 17 Nov 2026 03:08:02 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Gobierno despliega fuerzas policiales y militares durante 30 días para combatir estructuras criminales y actividades extractivas sin licencia. La medida abre interrogantes sobre su aplicación tardía, las restricciones de derechos y la seguridad después del estado de sitio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Habrá un apagón en Guatemala el martes 17 de noviembre por simulacro de FEMA en EE. UU.? Esto dice EEGSA",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/habra-un-apagon-en-guatemala-el-martes-17-de-noviembre-por-simulacro-de-fema-en-ee-uu-esto-dice-eegsa-breaking/",
-      "fecha": "Tue, 17 Nov 2026 02:51:19 +0000",
-      "categoria": "Comunitario",
-      "resumen": "EEGSA aclaró si existe riesgo de un apagón en Guatemala por el simulacro de alerta de emergencias que Estados Unidos efectuará este martes 17 de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El rey Carlos III celebra la elección de Robert Pattinson como el nuevo James Bond: &#8220;Bienvenido al Servicio Secreto de Su Majestad&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/el-rey-carlos-iii-celebra-la-eleccion-de-robert-pattinson-como-el-nuevo-james-bond-bienvenido-al-servicio-secreto-de-su-majestad/",
-      "fecha": "Tue, 17 Nov 2026 02:21:37 +0000",
-      "categoria": "Escenario",
-      "resumen": "Con un mensaje publicado en las redes sociales de la familia real británica, el rey Carlos III reaccionó a la elección de Robert Pattinson para interpretar al agente secreto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Los guatemaltecos siempre estamos unidos”: Así vive la afición de la Bicolor el juego en Canadá",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/los-guatemaltecos-siempre-estamos-unidos-asi-vive-la-aficion-de-la-bicolor-el-juego-en-canada/",
-      "fecha": "Tue, 17 Nov 2026 02:00:28 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Pese a que la temperatura en Toronto es de 3 °C, muchos guatemaltecos viajaron a Canadá y portan la camisola con los colores de la bandera."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una oportunidad para reunir a las familias y fortalecer las tradiciones",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-oportunidad-para-reunir-a-las-familias-y-fortalecer-las-tradiciones/",
-      "fecha": "Tue, 17 Nov 2026 01:43:02 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Del 20 de noviembre al 20 de diciembre, a partir de las 10:00 de la mañana a 10:00 de la noche, se realizará el Festival Navideño de la Ciudad 2026, una experiencia llena de luz, música y momentos inolvidables que llenarán de vida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Periodista asesinado en Costa Rica: las amenazas que había recibido por denunciar al narcotráfico",
-      "link": "https://www.prensalibre.com/internacional/periodista-asesinado-en-costa-rica-las-amenazas-que-habia-recibido-por-denunciar-al-narcotrafico/",
-      "fecha": "Tue, 17 Nov 2026 01:27:19 +0000",
-      "categoria": "Internacional",
-      "resumen": "El periodista Camilo Rodríguez, conocido por denunciar casos de narcotráfico en redes sociales, fue asesinado a balazos en Costa Rica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Canadá pasa por encima de una débil Guatemala y la elimina de la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/canada-vs-guatemala-en-vivo-sigue-el-minuto-a-minuto-del-partido-por-un-boleto-a-las-semifinales/",
-      "fecha": "Tue, 17 Nov 2026 01:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Canadá goleó 4-1 a Guatemala en el BMO Field, selló el global de 7-3 y dejó a la Bicolor fuera de la Liga de Naciones de Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Niño amenaza la producción de caña de azúcar en Guatemala por sequía y altas temperaturas",
-      "link": "https://www.prensalibre.com/economia/el-nino-amenaza-la-produccion-de-cana-de-azucar-en-guatemala-por-sequia-y-altas-temperaturas/",
-      "fecha": "Tue, 17 Nov 2026 01:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La Asazgua prevé una reducción de 5% en la producción de caña de azúcar, y mermas en la generación de energía eléctrica a partir del bagazo durante la zafra 2026-2027, debido a los efectos asociados al fenómeno de El Niño. Sin embargo, garantiza el abastecimiento de azúcar para atender la demanda del mercado interno."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jueza Abelina Cruz beneficia a exdiputado vinculado al caso Asalto al Ministerio de Salud y cierra proceso en su contra",
-      "link": "https://www.prensalibre.com/guatemala/justicia/jueza-abelina-cruz-beneficia-a-exdiputado-vinculado-al-caso-asalto-al-ministerio-de-salud-y-cierra-proceso-en-su-contra/",
-      "fecha": "Tue, 17 Nov 2026 00:52:01 +0000",
-      "categoria": "Justicia",
-      "resumen": "La jueza Abelina Cruz Toscano dictó el sobreseimiento a favor del exdiputado Juan Pablo Urrea, vinculado al caso Asalto al Ministerio de Salud."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sin Hagen ni Rudy Muñoz: Así jugará Guatemala en Canadá para avanzar en la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/sin-hagen-ni-rudy-munoz-asi-jugara-guatemala-en-canada-para-avanzar-en-la-liga-de-naciones/",
-      "fecha": "Tue, 17 Nov 2026 00:36:58 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Algunas ausencias se deben a un cambio en el planteamiento de Tena, quien, en lugar de jugar con dos delanteros en un 4-4-2, regresa al tradicional 4-2-3-1."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Personal de juzgado denuncia intimidaciones de abogados que afirman representar al Comité Ejecutivo del COG",
-      "link": "https://www.prensalibre.com/guatemala/justicia/personal-de-juzgado-denuncia-intimidaciones-de-abogados-que-afirman-representar-al-comite-ejecutivo-del-cog/",
-      "fecha": "Tue, 17 Nov 2026 00:06:42 +0000",
-      "categoria": "Justicia",
-      "resumen": "Personal del Juzgado Segundo Penal denunció ante el MP presuntas intimidaciones de abogados que afirman representar al Comité Ejecutivo del COG."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué ocurre con United Airlines? Una falla generalizada afecta los vuelos de salida en EE.UU",
-      "link": "https://www.prensalibre.com/internacional/que-ocurre-con-united-airlines-una-falla-generalizada-afecta-los-vuelos-de-salida-en-ee-uu/",
-      "fecha": "Mon, 16 Nov 2026 23:41:12 +0000",
-      "categoria": "Internacional",
-      "resumen": "United Airlines sufre una falla generalizada en su sistema tres días después de que una inusual paralización de vuelos detuviera las salidas durante horas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estado de sitio en Zacapa e Izabal: Gobierno refuerza operativos para combatir a grupos criminales",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/estado-de-sitio-en-zacapa-e-izabal-gobierno-refuerza-operativos-para-combatir-a-grupos-criminales/",
-      "fecha": "Mon, 16 Nov 2026 23:03:11 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Gobierno de Guatemala reforzó la presencia policial y militar en Zacapa e Izabal, departamentos bajo estado de sitio durante 30 días, tras una serie de ataques armados que han dejado una veintena de muertos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Volverá Jensen Huang a Nvidia? Trump respalda su regreso, pero la directiva mantiene otra postura",
-      "link": "https://www.prensalibre.com/internacional/volvera-jensen-huang-a-nvidia-trump-respalda-su-regreso-pero-la-directiva-mantiene-otra-postura/",
-      "fecha": "Mon, 16 Nov 2026 22:39:48 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump aprovechó para restar gravedad al escándalo relacionado con una de las tres amantes de Huang, señalada como una presunta espía china."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Alemania necesitó un tiempo para aplastar a Países Bajos y sellar su clasificación",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/alemania-necesito-un-tiempo-para-aplastar-a-paises-bajos-y-sellar-su-clasificacion/",
-      "fecha": "Mon, 16 Nov 2026 22:23:06 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Alemania goleó 5-0 a Países Bajos, con doblete de Florian Wirtz, y aseguró su clasificación a los cuartos de final de la Liga de Naciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vive Salsa 2026: una noche con orquestas en vivo, pista de baile y artistas invitados",
-      "link": "https://www.prensalibre.com/vida/escenario/vive-salsa-una-noche-con-orquestas-en-vivo-pista-de-baile-y-artistas-invitados/",
-      "fecha": "Mon, 16 Nov 2026 22:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Un concierto que reunirá a dos orquestas de salsa, DJ, artistas invitados y bailarines profesionales, con una pista de baile a disposición del público."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Navidad 2026: ideas de manualidades para hacer en casa y colores recomendados",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/navidad-2026-ideas-de-manualidades-para-hacer-en-casa-y-colores-recomendados/",
-      "fecha": "Mon, 16 Nov 2026 21:59:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "El adviento está a punto de comenzar y hay que estar preparados con esos elementos que visten la casa para la temporada y con los obsequios que se intercambiarán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Conducen ante juzgado a adolescente de 14 años por posible vinculación con el femicidio de Madelin Chacach, de 5 años",
-      "link": "https://www.prensalibre.com/guatemala/justicia/conducen-ante-juzgado-a-adolescente-de-14-anos-por-posible-vinculacion-con-el-femicidio-de-madelin-chacach-de-5-anos/",
-      "fecha": "Mon, 16 Nov 2026 21:40:37 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Una cinta métrica y otros nueve indicios forman parte de la investigación por la muerte de la niña Madelin Chacach."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Precio de gasolina en Guatemala hoy, 16 de noviembre: regular baja hasta Q28.49",
-      "link": "https://www.prensalibre.com/economia/gasolina-regular-llega-a-q28-49-en-guatemala-asi-estan-los-precios-de-los-combustibles-este-16-de-noviembre/",
-      "fecha": "Mon, 16 Nov 2026 21:37:14 +0000",
-      "categoria": "Economía",
-      "resumen": "Las gasolinas regular y superior se acercan a los precios de enero de 2026. Sin embargo, el diésel sigue siendo el combustible con el mayor incremento acumulado frente al inicio del año."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "5 países de la Unión Europea anuncian la creación de un centro de deportación de migrantes en Ruanda",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/5-paises-de-la-union-europea-anuncian-la-creacion-de-un-centro-de-deportacion-de-migrantes-en-ruanda/",
-      "fecha": "Mon, 16 Nov 2026 21:35:14 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Alemania, Dinamarca, Austria, Grecia y Países Bajos anunciaron la creación de un \"centro de retorno\" para los solicitantes de asilo cuyas peticiones hayan sido denegadas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Un extraño fue enterrado en la tumba que yo tenía reservada para estar cerca de mis padres&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-extrano-fue-enterrado-en-la-tumba-que-yo-tenia-reservada-para-estar-cerca-de-mis-padres/",
-      "fecha": "Mon, 16 Nov 2026 21:18:50 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Marie Lane dice que \"ya no siente lo mismo\" por la tumba que había reservado y pagado, tras descubrir que un desconocido fue enterrado allí por error y posteriormente exhumado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Equipos antiguos? La razón que dio Trump sobre lo que provocó la suspensión de vuelos en EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/equipos-antiguos-la-razon-que-dio-trump-sobre-lo-que-provoco-la-suspension-de-vuelos-en-ee-uu/",
-      "fecha": "Mon, 16 Nov 2026 21:17:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Donald Trump habló recientemente sobre lo que considera fue la razón principal de la suspensión total de vuelos en Estados Unidos que ocurrió el 13 de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inacif identifica a Sucely Areli Aguirre Quinteros como la mujer localizada envuelta en sábanas en la zona 19",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/inacif-identifica-a-sucely-areli-aguirre-quinteros-como-la-mujer-localizada-envuelta-en-sabanas-en-la-zona-19/",
-      "fecha": "Mon, 16 Nov 2026 21:07:44 +0000",
-      "categoria": "Sucesos",
-      "resumen": "El Inacif identificó como Sucely Aguirre Quinteros a la mujer cuyo cuerpo fue localizado envuelto en sábanas en la zona 19 capitalina. La víctima tenía una alerta Isabel-Claudina activa."
     },
     {
       "fuente": "Guatemala.com",
