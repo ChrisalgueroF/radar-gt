@@ -1,7 +1,151 @@
 {
-  "actualizado": "2026-11-19T21:16:35.799Z",
+  "actualizado": "2026-11-20T02:54:14.846Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La era de hielo 6: fecha de estreno, nuevo tráiler y personajes que regresan",
+      "link": "https://www.prensalibre.com/vida/escenario/la-era-de-hielo-6-fecha-de-estreno-nuevo-trailer-y-personajes-que-regresan/",
+      "fecha": "Fri, 20 Nov 2026 02:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "“La era de hielo” regresa a la pantalla grande con una sexta entrega, esta vez en un “Mundo de lava”."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Precio del gas propano: cuánto cuesta el cilindro y qué sanciones enfrentan las distribuidoras por distorsionar precios",
+      "link": "https://www.prensalibre.com/economia/precio-del-gas-propano-cuanto-cuesta-el-cilindro-y-que-sanciones-enfrentan-las-distribuidoras-por-distorsionar-precios/",
+      "fecha": "Fri, 20 Nov 2026 02:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "El cilindro de propano de 25 libras cuesta entre Q138 y Q140 en Guatemala, mientras las distribuidoras sancionadas por distorsión y concertación de precios presentan sus argumentos ante el MEM. Conozca qué consecuencias enfrentarían si reinciden y cómo han variado los precios durante el 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemalteco llega de Cancún y es capturado en el Aeropuerto La Aurora por cargos de narcotráfico",
+      "link": "https://www.prensalibre.com/guatemala/justicia/guatemalteco-llega-de-cancun-y-es-capturado-en-el-aeropuerto-la-aurora-por-cargos-de-narcotrafico-breaking/",
+      "fecha": "Fri, 20 Nov 2026 01:43:38 +0000",
+      "categoria": "Justicia",
+      "resumen": "Un guatemalteco fue capturado en el Aeropuerto Internacional La Aurora, procedente de Cancún, México. Es el tercer detenido del día requerido por EE. UU. por cargos relacionados con el narcotráfico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Suscriben convenio para la construcción de CADI en Masagua",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/suscriben-convenio-para-la-construccion-de-cadi-en-masagua/",
+      "fecha": "Fri, 20 Nov 2026 01:31:06 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Bajo el esquema del programa De Hoy Para Siempre, de Grupo AG, y en unión con la Secretaría de Obras Sociales de la Esposa del Presidente (SOSEP) y la Municipalidad de Masagua, Escuintla; suscribieron un convenio de cooperación interinstitucional para la construcción del inmueble que ocupará el Centro de Atención y Desarrollo Infantil (CADI) de la aldea El Milagro del municipio de Masagua."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué el vuelo de Trump desde China será el más largo en la historia del Air Force One?",
+      "link": "https://www.prensalibre.com/internacional/por-que-el-vuelo-de-trump-desde-china-sera-el-mas-largo-en-la-historia-del-air-force-one/",
+      "fecha": "Fri, 20 Nov 2026 01:28:15 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump regresará de China a Washington en un vuelo de 15 horas sin escalas, una prueba de autonomía para el Air Force One y sus sistemas especiales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Vamos a contar mentiras”: una comedia para reír y dudar se presenta en la Universidad Popular",
+      "link": "https://www.prensalibre.com/vida/escenario/vamos-a-contar-mentiras-una-comedia-para-reir-y-dudar-se-presenta-en-la-universidad-popular/",
+      "fecha": "Fri, 20 Nov 2026 00:30:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Esta obra de teatro que combina risas y engaños ofrecerá sus últimas funciones. Entérese de todos los detalles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Una exposición que visibiliza la creatividad y el talento de sus artistas",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-exposicion-que-visibiliza-la-creatividad-y-el-talento-de-sus-artistas/",
+      "fecha": "Fri, 20 Nov 2026 00:27:09 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "FUNDABIEM presenta “Talento sin límites”, una exposición de arte del programa Habilitarte 2026, por medio del cual se potencia y visibiliza las habilidades artísticas de las personas con discapacidad que asisten al Taller Ocupacional brindado por FUNDABIEM."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quiénes son los rohinyás, la &#8220;minoría más perseguida del mundo&#8221; por la que Myanmar fue condenado por genocidio",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quienes-son-los-rohinyas-la-minoria-mas-perseguida-del-mundo-por-la-que-myanmar-fue-condenado-por-genocidio/",
+      "fecha": "Thu, 19 Nov 2026 23:52:26 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La Corte Internacional de Justicia dictaminó que Myanmar cometió genocidio contra este pueblo musulmán, que en gran medida se vio obligado al exilio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo descarta intervención de militares de Estados Unidos ante violencia en Zacapa e Izabal",
+      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-descarta-intervencion-de-militares-de-estados-unidos-ante-violencia-en-zacapa-e-izabal-breaking/",
+      "fecha": "Thu, 19 Nov 2026 23:49:35 +0000",
+      "categoria": "Política",
+      "resumen": "El presidente Bernardo Arévalo descartó solicitar autorización para que fuerzas militares de Estados Unidos operen en Guatemala ante los hechos de violencia en Zacapa e Izabal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos trabajadores de la Municipalidad de Guatemala son víctimas de hechos de violencia en menos de una semana",
+      "link": "https://www.prensalibre.com/guatemala/justicia/dos-trabajadores-de-la-municipalidad-de-guatemala-son-victimas-de-hechos-de-violencia-en-menos-de-una-semana/",
+      "fecha": "Thu, 19 Nov 2026 23:46:39 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Un sindicalista fue baleado y una promotora social fue localizada muerta. Ambos trabajaban para la Municipalidad de Guatemala, que lamentó los hechos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Robos a trenes en EE. UU.: detienen a 13 personas y revelan video de cómo saqueaban vagones",
+      "link": "https://www.prensalibre.com/internacional/robos-a-trenes-en-ee-uu-detienen-a-13-personas-y-revelan-video-de-como-saqueaban-vagones/",
+      "fecha": "Thu, 19 Nov 2026 23:22:56 +0000",
+      "categoria": "Internacional",
+      "resumen": "Al menos 13 personas fueron detenidas en EE. UU. por orquestar robos masivos a trenes para obtener mercancías valoradas en US$22 millones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La hipopótamo Fiona muere tras tragarse el gorro de un visitante en el zoológico de Cincinnati",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-hipopotamo-fiona-muere-tras-tragarse-el-gorro-de-un-visitante-en-el-zoologico-de-cincinnati/",
+      "fecha": "Thu, 19 Nov 2026 22:58:33 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "\"Luchó hasta que ya no pudo más\", declaró el zoológico de Cincinnati en un comunicado. Fiona enfermó pocos días después del incidente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Contraloría auditará becas del Conader tras denuncias de diputados",
+      "link": "https://www.prensalibre.com/guatemala/contraloria-auditara-becas-del-conader-tras-denuncias-de-diputados/",
+      "fecha": "Thu, 19 Nov 2026 22:38:59 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Los legisladores señalaron que familiares y allegados de dirigentes del COG y la CDAG recibieron becas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Don Omar agota las entradas para su concierto en Guatemala: &#8220;Otro Sold Out para la colección&#8221;",
+      "link": "https://www.prensalibre.com/vida/escenario/don-omar-agota-las-entradas-para-su-concierto-en-guatemala-otro-sold-out-para-la-coleccion/",
+      "fecha": "Thu, 19 Nov 2026 22:24:33 +0000",
+      "categoria": "Escenario",
+      "resumen": "Los boletos para el concierto de Don Omar en Guatemala se agotaron durante las primeras horas de la preventa, según anunció el artista."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan a un guatemalteco y un mexicano requeridos por EE. UU. por tráfico de fentanilo",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-a-un-guatemalteco-y-un-mexicano-requeridos-por-ee-uu-por-trafico-de-fentanilo-breaking/",
+      "fecha": "Thu, 19 Nov 2026 22:23:45 +0000",
+      "categoria": "Justicia",
+      "resumen": "El MP y la PNC capturaron a un guatemalteco y un mexicano requeridos por la justicia de Estados Unidos por su presunta participación en una red de tráfico de fentanilo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Precio del petróleo podría bajar en el 2027: Guatemala mantendrá exoneración de combustibles hasta junio",
+      "link": "https://www.prensalibre.com/economia/precio-del-petroleo-podria-bajar-en-el-2027-guatemala-mantendra-exoneracion-de-combustibles-hasta-junio/",
+      "fecha": "Thu, 19 Nov 2026 22:02:02 +0000",
+      "categoria": "Economía",
+      "resumen": "Las proyecciones contempladas en la reforma al Decreto 22-2026 sitúan el petróleo entre US$67 y US$73 por barril. La exoneración del IVA y del IDP tendrá un costo fiscal estimado de Q5 mil 836 millones durante el primer semestre del próximo año."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así fue el operativo en Haití que dejó al menos 34 miembros de una banda armada fallecidos",
+      "link": "https://www.prensalibre.com/internacional/asi-fue-el-operativo-en-haiti-que-dejo-al-menos-34-miembros-de-una-banda-armada-fallecidos/",
+      "fecha": "Thu, 19 Nov 2026 21:49:18 +0000",
+      "categoria": "Internacional",
+      "resumen": "La Policía Nacional de Haití compartió un video del operativo, donde se veían vehículos blindados mientras ingresaban a Martissant."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Automóviles inundados en las calle: Cuánto durarán las fuertes lluvias en Florida",
+      "link": "https://www.prensalibre.com/internacional/automoviles-inundados-en-las-calle-cuanto-duraran-las-fuertes-lluvias-en-florida/",
+      "fecha": "Thu, 19 Nov 2026 21:15:10 +0000",
+      "categoria": "Internacional",
+      "resumen": "El gobernador de Florida desplegó a la Guardia Nacional debido a las fuertes inundaciones en el estado por las lluvias torrenciales"
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Trump se quedó dormido? El video durante el discurso de Xi Jinping que se volvió viral en China",
@@ -12,11 +156,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba &#8220;la burbuja&#8221; de la IA y la posibilidad de que estalle",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/anthropic-por-que-el-mayor-debut-bursatil-de-la-historia-pone-a-prueba-la-burbuja-de-la-ia-y-la-posibilidad-de-que-estalle/",
+      "fecha": "Thu, 19 Nov 2026 20:58:50 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La empresa quedó situada entre las 10 empresas estadounidenses más valoradas en el mercado bursátil, pero su futuro es incierto."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "OIT pone fin a queja laboral contra Guatemala después de 14 años",
       "link": "https://www.prensalibre.com/guatemala/politica/oit-pone-fin-a-queja-laboral-contra-guatemala-despues-de-14-anos/",
       "fecha": "Thu, 19 Nov 2026 20:42:46 +0000",
       "categoria": "Guatemala",
-      "resumen": "Después de 14 años, la Organización Internacional del Trabajo (OIT) dio por terminada la queja contra el Estado de Guatemala por presunto incumplimiento de convenios laborales y sindicales, proceso que se inició en el 2012."
+      "resumen": "La Organización Internacional del Trabajo (OIT) dio por terminada la queja contra el Estado de Guatemala por presunto incumplimiento de convenios laborales y sindicales, proceso que se inició en el 2012."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Roxana Baldetti es ingresada al Hospital San Juan de Dios por orden judicial tras fallido traslado a prisión",
+      "link": "https://www.prensalibre.com/guatemala/justicia/roxana-baldetti-es-ingresada-al-hospital-san-juan-de-dios-por-orden-judicial-tras-fallido-traslado-a-prision-breaking/",
+      "fecha": "Thu, 19 Nov 2026 20:13:25 +0000",
+      "categoria": "Justicia",
+      "resumen": "La exvicepresidenta Roxana Baldetti fue ingresada al Hospital San Juan de Dios por orden judicial, luego de que no se concretara su traslado a una prisión."
     },
     {
       "fuente": "Guatemala.com",
@@ -41,6 +201,14 @@
       "fecha": "Thu, 19 Nov 2026 19:08:14 +0000",
       "categoria": "Internacional",
       "resumen": "Desde el regreso de Trump a la Casa Blanca, las denuncias por uso excesivo de la fuerza, agresiones físicas y abusos por parte de agentes del ICE han aumentado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los Pochos: dos extraditados a EE. UU. y sus vínculos con carteles mexicanos y el poder político en Ayutla",
+      "link": "https://www.prensalibre.com/guatemala/justicia/los-pochos-dos-extraditados-a-ee-uu-y-sus-vinculos-con-carteles-mexicanos-y-el-poder-politico-en-ayutla/",
+      "fecha": "Thu, 19 Nov 2026 18:55:27 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Juan Carlos Escobar y Jorge Peláez, presuntos miembros de Los Pochos, fueron extraditados a EE. UU. La red tendría nexos con carteles mexicanos y el poder político."
     },
     {
       "fuente": "Prensa Libre",
@@ -657,174 +825,6 @@
       "fecha": "Wed, 18 Nov 2026 16:08:39 +0000",
       "categoria": "Internacional",
       "resumen": "Fuertes inundaciones se registraron desde la madrugada del 17 de noviembre en Florida, y se espera que hayan más con el paso de los días."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Persecución e intercambio de disparos terminan con la captura de dos presuntos asaltantes en la zona 12",
-      "link": "https://www.prensalibre.com/guatemala/justicia/persecucion-e-intercambio-de-disparos-terminan-con-la-captura-de-dos-presuntos-asaltantes-en-la-zona-12-breaking/",
-      "fecha": "Wed, 18 Nov 2026 15:54:36 +0000",
-      "categoria": "Justicia",
-      "resumen": "Dos presuntos asaltantes fueron capturados tras una persecución en la colonia La Reformita, zona 12."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala buscará mantener su presencia en la Copa Oro: este será su rival en las preliminares",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-buscara-mantener-su-presencia-en-la-copa-oro-este-sera-su-rival-en-las-preliminares/",
-      "fecha": "Wed, 18 Nov 2026 15:46:05 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Guatemala ya enfoca sus esfuerzos en asegurar su presencia en la Copa Oro 2027, uno de los principales objetivos del proceso encabezado por Luis Fernando Tena, tras quedarse sin el boleto directo al máximo torneo de selecciones de Concacaf."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Brad Pitt quiere ser el villano del Agente 007: ¿qué posibilidades tiene de ser tomado en cuenta?",
-      "link": "https://www.prensalibre.com/vida/escenario/brad-pitt-quiere-ser-el-villano-del-agente-007-que-posibilidades-tiene-de-ser-tomado-en-cuenta/",
-      "fecha": "Wed, 18 Nov 2026 15:17:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El actor estadounidense celebra la elección del británico Robert Pattinson e invita a los productores a evaluar la posibilidad de ser él quien se le enfrente en la pantalla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Murió baleada en su cumpleaños: Familia busca respuestas por el crimen de una madre en Dallas",
-      "link": "https://www.prensalibre.com/internacional/murio-baleada-en-su-cumpleanos-familia-busca-respuestas-por-el-crimen-de-una-madre-en-dallas/",
-      "fecha": "Wed, 18 Nov 2026 15:01:14 +0000",
-      "categoria": "Internacional",
-      "resumen": "La mujer hispana y madre de cuatro hijos murió horas antes de poder reunirse con su familia, que la esperaba en casa para celebrar su cumpleaños."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arda Güler renueva con el Real Madrid y busca convertirse en una leyenda del club",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/arda-guler-renueva-con-el-real-madrid-y-busca-convertirse-en-una-leyenda-del-club/",
-      "fecha": "Wed, 18 Nov 2026 14:43:34 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El Real Madrid aseguró la continuidad de una de sus mayores apuestas de presente y futuro al renovar hasta 2032."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Interceptan picop en Izabal y descubren que tenía una orden de secuestro vigente emitida por juzgado",
-      "link": "https://www.prensalibre.com/guatemala/justicia/interceptan-picop-en-izabal-y-descubren-que-tenia-una-orden-de-secuestro-vigente-emitida-por-juzgado-breaking/",
-      "fecha": "Wed, 18 Nov 2026 14:32:23 +0000",
-      "categoria": "Justicia",
-      "resumen": "En Livingston, Izabal, las autoridades interceptaron un picop con una orden de secuestro vigente emitida por un juzgado del departamento de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Es mucho más divertido ser el malo&#8221;: la idea que inspiró a un pequeño estudio escocés a crear el exitoso videojuego GTA hace casi 30 años",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/es-mucho-mas-divertido-ser-el-malo-la-idea-que-inspiro-a-un-pequeno-estudio-escoces-a-crear-el-exitoso-videojuego-gta-hace-casi-30-anos/",
-      "fecha": "Wed, 18 Nov 2026 14:20:08 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Como se esperaba, la nueva entrega de la saga va en camino a convertirse en el lanzamiento de un videojuego más grande de la historia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Selección de Guatemala desciende en el ranking Fifa tras quedar eliminada de la Liga de Naciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-desciende-en-el-ranking-fifa-tras-quedar-eliminada-de-la-liga-de-naciones/",
-      "fecha": "Wed, 18 Nov 2026 13:56:06 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Luego de quedar eliminada frente a Canadá en los cuartos de final de la Liga de Naciones de Concacaf, la Selección de Guatemala aparece con cambios en la más reciente actualización del Ranking Fifa"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Canje de vidrio por vasos: una iniciativa en favor del planeta",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/canje-de-vidrio-por-vasos-una-iniciativa-en-favor-del-planeta/",
-      "fecha": "Wed, 18 Nov 2026 13:49:35 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Las jornadas de recolección en la capital, en Amatitlán y en Huehuetenango se realizan entre noviembre y diciembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Suchitepéquez tiene escrito su final: último lugar del Apertura 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/suchitepequez-tiene-escrito-su-final-ultimo-lugar-del-apertura-2026-breaking/",
-      "fecha": "Wed, 18 Nov 2026 13:11:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Con 13 puntos y apenas dos victorias en 20 jornadas, los venados ocupan el último lugar del Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presunta estafa de Q4 mil 500 provoca intento de linchamiento contra dos hombres en Alta Verapaz",
-      "link": "https://www.prensalibre.com/guatemala/justicia/presunta-estafa-de-q4-mil-500-provoca-intento-de-linchamiento-contra-dos-hombres-en-alta-verapaz-breaking/",
-      "fecha": "Wed, 18 Nov 2026 12:03:33 +0000",
-      "categoria": "Justicia",
-      "resumen": "La Policía Nacional Civil informó sobre la captura de dos hombres señalados de efectuar una compra con un cheque sin fondos en Alta Verapaz."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Hasta que el cuerpo aguante&#8221;: una muestra para la memoria y el avance",
-      "link": "https://www.prensalibre.com/vida/escenario/hasta-que-el-cuerpo-aguante-una-muestra-para-la-memoria-y-el-avance/",
-      "fecha": "Wed, 18 Nov 2026 12:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El Centro Cultural de España presenta esta exposición  que explora las relaciones entre arte y transformación social."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Spectrum invierte US$85 millones en ampliación de Portales y espera superar los nueve millones de visitantes",
-      "link": "https://www.prensalibre.com/economia/laura-guibert-gerente-de-portales-spectrum-invierte-us85-millones-en-ampliacion-y-espera-superar-los-nueve-millones-de-visitantes/",
-      "fecha": "Wed, 18 Nov 2026 12:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Con una inversión de US$85 millones Portales, ubicado en zona 17, amplía su oferta comercial y de entretenimiento, genera nuevos empleos y proyecta superar los nueve millones de visitantes anuales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Encuentran una falla crítica en Java, el tercer lenguaje de programación más utilizado en el mundo del que dependen el 90% de las grandes compañías",
-      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/encuentran-una-falla-critica-en-java-el-tercer-lenguaje-de-programacion-mas-utilizado-en-el-mundo-del-que-dependen-el-90-de-las-grandes-companias/",
-      "fecha": "Wed, 18 Nov 2026 11:56:35 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La misma empresa tecnológica emergente que descubrió una vulnerabilidad en PHP utilizó inteligencia artificial para descubrir un fallo crítico de software en uno de los lenguajes de programación más populares del mundo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/no-podiamos-pagar-una-casa-para-nuestra-familia-asi-que-compramos-una-con-desconocidos/",
-      "fecha": "Wed, 18 Nov 2026 11:50:36 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Hay personas y familias en Canadá que no pueden permitirse adquirir una vivienda por sus precios elevados y buscan cómo asociarse a otros que estén en su misma situación."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Planea visitar el Irtra en el fin de año 2026? Estos son los horarios y recomendaciones",
-      "link": "https://www.prensalibre.com/vida/escenario/planea-visitar-el-irtra-en-el-fin-de-ano-2026-estos-son-los-horarios-y-recomendaciones/",
-      "fecha": "Wed, 18 Nov 2026 10:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Si ha pensado aprovechar las vacaciones familiares o celebrar en los parques u hostales de esta entidad, es necesario que se apresure a planificar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Selección de Guatemala: ¿qué dicen los exseleccionados sobre el trabajo de Tena y el balance de su gestión?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/seleccion-de-guatemala-que-dicen-los-exseleccionados-sobre-el-trabajo-de-tena-y-el-balance-de-su-gestion/",
-      "fecha": "Wed, 18 Nov 2026 10:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Entre logros y reproches, Tena llega a casi cinco años con Guatemala: avances importantes, pero sin resultados que cierren el debate."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fraudes en propiedades: &#8220;El primer filtro para evitarlos es el notario&#8221;",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/fraudes-en-propiedades-el-primer-filtro-para-evitarlos-es-el-notario/",
-      "fecha": "Wed, 18 Nov 2026 10:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Especialistas señalan la necesidad de modernizar los procedimientos notariales, fortalecer los controles y agilizar la justicia para proteger a los propietarios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El universo del maquillaje, de la creatividad y de la intensidad",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/el-universo-del-maquillaje-de-la-creatividad-y-de-la-intensidad/",
-      "fecha": "Wed, 18 Nov 2026 08:04:08 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Yves Saint Laurent (YSL) la prestigiosa casa de moda de lujo francesa fundada en 1961, atrevidos por ser poco convencionales, se instaló en el Centro Comercial Miraflores, con su universo de maquillaje de fragancias donde cada persona puede disfrutar desde el arte del maquillaje hasta el arte de los aromas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Propuesta de empadronamiento automático y voto ampliado en el extranjero requiere aval de la CC para 2027",
-      "link": "https://www.prensalibre.com/guatemala/politica/propuesta-de-empadronamiento-automatico-y-voto-ampliado-en-el-extranjero-requiere-aval-de-la-cc-para-2027/",
-      "fecha": "Wed, 18 Nov 2026 06:12:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Comisión de Asuntos Electorales dictaminó favorablemente una iniciativa que propone el empadronamiento automático y la ampliación del voto migrante, aunque su aprobación definitiva dependerá de un control previo de constitucionalidad antes de ser conocida en el hemiciclo del Legislativo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué Guatemala enfrenta riesgos económicos en 2027 pese a que crecerá 4%?",
-      "link": "https://www.prensalibre.com/economia/por-que-guatemala-enfrenta-riesgos-economicos-en-2027-pese-a-que-crecera-4/",
-      "fecha": "Wed, 18 Nov 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El Banco de Guatemala prevé estabilidad económica, pero el aumento de la deuda pública, la desaceleración de las remesas y las elecciones generan preocupación. Explicamos cómo estos factores podrían afectar al país."
     },
     {
       "fuente": "Guatemala.com",
