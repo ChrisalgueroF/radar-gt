@@ -1,7 +1,247 @@
 {
-  "actualizado": "2026-11-20T11:09:52.535Z",
+  "actualizado": "2026-11-20T19:50:19.102Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Máquinas de Donación para apoyar causas benéficas",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/maquinas-de-donacion-para-apoyar-causas-beneficas/",
+      "fecha": "Fri, 20 Nov 2026 19:34:30 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "La Iglesia de Jesucristo de los Santos de los Últimos Días lanzó una nueva temporada de las Máquinas de Donación de la iniciativa Ilumina El Mundo, que este año llega a cuatro países de Centroamérica: Guatemala, El Salvador, Honduras y, por primera vez, Costa Rica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Marco Rubio buscará la presidencia de EE. UU? Su cambio de postura alimenta la especulación",
+      "link": "https://www.prensalibre.com/internacional/marco-rubio-buscara-la-presidencia-de-ee-uu-su-cambio-de-postura-alimenta-la-especulacion/",
+      "fecha": "Fri, 20 Nov 2026 19:15:32 +0000",
+      "categoria": "Internacional",
+      "resumen": "Mientras más suena el nombre de Marco Rubio, más crecen las dudas sobre el vicepresidente J. D. Vance, quien intentó distanciarse de la guerra con Irán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Luis del Llano responde a Sasha y jueza insiste en arresto",
+      "link": "https://www.prensalibre.com/vida/escenario/luis-del-llano-responde-a-sasha-y-jueza-insiste-en-arresto/",
+      "fecha": "Fri, 20 Nov 2026 18:54:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El productor mexicano se ha negado a emitir una disculpa pública bajo los términos que le fueron ordenados por los juzgados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En qué consiste y a quién beneficia el acuerdo de &#8220;reinicio&#8221; de las relaciones entre Reino Unido y la Unión Europea tras el Brexit",
+      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/en-que-consiste-y-a-quien-beneficia-el-acuerdo-de-reinicio-de-las-relaciones-entre-reino-unido-y-la-union-europea-tras-el-brexit/",
+      "fecha": "Fri, 20 Nov 2026 18:48:32 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Reino Unido y la Unión Europea llegaron, este viernes, a un nuevo acuerdo que cubre las exportaciones de alimentos, la movilidad de los jóvenes y las emisiones de carbono."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Conoce a las empresarias reconocidas con el Premio Emprendedora del Año 2026 en Guatemala",
+      "link": "https://www.guatemala.com/noticias/sociedad/ganadoras-premio-emprendedora-del-ano-2026-guatemala.html",
+      "fecha": "Fri, 20 Nov 2026 18:30:56 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Cinco empresarias fueron galardonadas con el Premio Emprendedora del Año 2026, en el marco del Día del Emprendimiento Femenino. \nThe post Conoce a las empresarias reconocidas con el Premio Emprendedora del Año 2026 en Guatemala appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Legión celebra su historia musical con &#8220;La fiesta va a continuar&#8221;, un concierto con propósito",
+      "link": "https://www.prensalibre.com/vida/escenario/legion-celebra-su-historia-musical-con-la-fiesta-va-a-continuar-un-concierto-con-proposito/",
+      "fecha": "Fri, 20 Nov 2026 18:26:13 +0000",
+      "categoria": "Escenario",
+      "resumen": "El grupo guatemalteco Legión festejará su trayectoria con un concierto especial que reunirá la música, recuerdos y canciones que han dejado huella."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aeropuerto La Aurora se prepara para fin de año: hasta 8 mil viajeros y 95 vuelos diarios",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/aeropuerto-la-aurora-se-prepara-para-fin-de-ano-hasta-8-mil-viajeros-y-95-vuelos-diarios-breaking/",
+      "fecha": "Fri, 20 Nov 2026 18:07:50 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La temporada alta en el Aeropuerto Internacional La Aurora se extenderá de noviembre del 2026 al 31 de enero del 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Interpelaciones",
+      "link": "https://www.prensalibre.com/opinion/caricatura/interpelaciones/",
+      "fecha": "Fri, 20 Nov 2026 18:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy viernes 20 de noviembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-viernes-20-de-noviembre-de-2026/",
+      "fecha": "Fri, 20 Nov 2026 18:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué pasará si Trump logra frenar la restitución del TPS que beneficia a miles de venezolanos",
+      "link": "https://www.prensalibre.com/internacional/que-pasara-si-trump-logra-frenar-la-restitucion-del-tps-que-beneficia-a-miles-de-venezolanos/",
+      "fecha": "Fri, 20 Nov 2026 17:45:17 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Gobierno de Trump ha pedido a la Corte Suprema frenar la restitución del TPS que beneficia a miles de venezolanos en EE. UU."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Esta fue la verdadera causa de la muerte de Patrick Stewart, conocido por &#8220;Star Trek&#8221; y &#8220;X-Men&#8221;",
+      "link": "https://www.prensalibre.com/vida/escenario/esta-fue-la-verdadera-causa-de-la-muerte-de-patrick-stewart-conocido-por-star-trek-y-x-men/",
+      "fecha": "Fri, 20 Nov 2026 17:40:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El actor, quien falleció en su casa a los 86 años sufría algunas condiciones previas que pudieron acelerar su final."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La familia de un alpinista desaparecido en el monte Fuji ofrece US$75.000 de recompensa entre advertencias de las autoridades",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-familia-de-un-alpinista-desaparecido-en-el-monte-fuji-ofrece-us75-000-de-recompensa-entre-advertencias-de-las-autoridades/",
+      "fecha": "Fri, 20 Nov 2026 17:39:18 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La cuantiosa recompensa ofrecida por la familia del joven chino Chen Jie ha desatado temores de que se produzcan más intentos de escalada temerarios."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque armado en Mixco: identifican a mujer fallecida y revelan diligencia del MP",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-mixco-identifican-a-mujer-fallecida-y-revelan-diligencia-del-mp-breaking/",
+      "fecha": "Fri, 20 Nov 2026 17:25:32 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Inacif identifica a mujer víctima de ataque armado en Mixco y el Ministerio Público informa sobre diligencias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Thanksgiving en EE. UU: Cuánto costará la cena, qué pasará con el tráfico y cómo afectará el clima",
+      "link": "https://www.prensalibre.com/internacional/thanksgiving-en-ee-uu-cuanto-costara-la-cena-que-pasara-con-el-trafico-y-como-afectara-el-clima/",
+      "fecha": "Fri, 20 Nov 2026 17:01:31 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Día de Acción de Gracias (Thanksgiving) tiene lugar el cuarto jueves de noviembre y marca el inicio de la temporada festiva, que se extiende hasta Año Nuevo y comienza antes del Black Friday."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dónde habrán tormentas eléctricas y nevadas en EE. UU. durante el fin de semana",
+      "link": "https://www.prensalibre.com/internacional/donde-habran-tormentas-y-nevadas-en-ee-uu-durante-el-fin-de-semana/",
+      "fecha": "Fri, 20 Nov 2026 16:51:44 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las autoridades climáticas de EE. UU. detallaron las condiciones que prevalecerán desde el 20 al 22 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Canelo Álvarez podría subir a las 175 libras: ¿Qué pasaría con Léster Martínez y el título del CMB?",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/canelo-alvarez-podria-subir-a-las-175-libras-que-pasaria-con-lester-martinez-y-el-titulo-del-cmb/",
+      "fecha": "Fri, 20 Nov 2026 16:00:29 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El mexicano tiene la posibilidad de disputar el campeonato semipesado ante Willy Hutchinson, mientras el guatemalteco espera una oportunidad por el título supermediano que está en manos de Canelo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Magistrados rechazan recurso de los abogados y el exfiscal Stuardo Campo seguirá en prisión preventiva",
+      "link": "https://www.prensalibre.com/guatemala/justicia/magistrados-rechazan-recurso-de-los-abogados-y-el-exfiscal-stuardo-campo-seguira-en-prision-preventiva-breaking/",
+      "fecha": "Fri, 20 Nov 2026 15:54:54 +0000",
+      "categoria": "Justicia",
+      "resumen": "Resolución de la  Sala Primera de la Corte de Apelaciones mantiene en prisión preventiva al exfiscal Stuardo Campo por el caso Zolic."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Clima en Guatemala para este fin de semana del 21 y 22 de noviembre de 2026",
+      "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-21-y-22-noviembre-2026.html",
+      "fecha": "Fri, 20 Nov 2026 15:31:18 +0000",
+      "categoria": "Comunidad",
+      "resumen": "Insivumeh anticipa la llegada del primer frente frío a Guatemala para finales de noviembre 2026. Descubre cómo estará el clima este fin de semana.\nThe post Clima en Guatemala para este fin de semana del 21 y 22 de noviembre de 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Nayib Bukele inscribe su candidatura para un tercer mandato en El Salvador: Así llega al 2027",
+      "link": "https://www.prensalibre.com/internacional/nayib-bukele-inscribe-su-candidatura-para-un-tercer-mandato-en-el-salvador-asi-llega-al-2027/",
+      "fecha": "Fri, 20 Nov 2026 15:19:30 +0000",
+      "categoria": "Internacional",
+      "resumen": "El presidente Nayib Bukele aseguró que \"El Salvador es ahora un ejemplo para muchos países\", no solo de América, sino de todo el mundo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "TikTok presenta una herramienta para verificar si un contenido fue creado con IA",
+      "link": "https://www.prensalibre.com/vida/tecnologia/sin-enganos-tiktok-presenta-una-herramienta-para-verificar-si-un-contenido-fue-creado-con-ia/",
+      "fecha": "Fri, 20 Nov 2026 15:17:00 +0000",
+      "categoria": "Tecnología",
+      "resumen": "La red social ofrece a sus usuarios una plataforma que les permitirá tener mayor control sobre los mensajes que reciben."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miss Universo 2026: representante de Francia sufre accidente",
+      "link": "https://www.prensalibre.com/vida/escenario/miss-universo-2026-representante-de-francia-sufre-accidente/",
+      "fecha": "Fri, 20 Nov 2026 15:10:14 +0000",
+      "categoria": "Escenario",
+      "resumen": "Garance Authié, de 22 años, quien representanta a Francia se lesionó durante uno de los ensayos de una de las coreografías."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Exdirigentes, atletas y una excontralora: quiénes integran el Comité Ejecutivo interino del COG",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/exdirigentes-atletas-y-una-excontralora-quienes-integran-el-comite-ejecutivo-interino-del-cog-breaking/",
+      "fecha": "Fri, 20 Nov 2026 14:45:47 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "La nueva integración reúne a un exdirigente de la CDAG, una excontralora, una atleta olímpica y dos figuras vinculadas a la dirigencia deportiva."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo estará el clima en Guatemala este fin de semana y cuándo se acercará un frente frío",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/como-estara-el-clima-en-guatemala-este-fin-de-semana-y-cuando-se-acercara-un-frente-frio-breaking/",
+      "fecha": "Fri, 20 Nov 2026 13:56:50 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Pronóstico del Insivumeh detalla cuáles serán las temperaturas máximas y qué regiones de Guatemala registrarán frío el 21 y 22 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video &#124; Niño de 10 años presuntamente mata a adolescente en EE. UU. por música a alto volumen",
+      "link": "https://www.prensalibre.com/internacional/video-nino-de-10-anos-presuntamente-mata-a-adolescente-en-ee-uu-por-musica-a-alto-volumen/",
+      "fecha": "Fri, 20 Nov 2026 13:53:27 +0000",
+      "categoria": "Internacional",
+      "resumen": "El video muestra cómo la pelea se intensifica y las dos mujeres se golpean y se tiran del pelo. Entonces, la madre le pide a su hijo de 10 años que le traiga la pistola."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Accidente de bus en Tecpán Guatemala deja 15 heridos y percances complican el tránsito en la metrópoli",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-de-bus-en-tecpan-guatemala-deja-15-heridos-y-percances-complican-el-transito-en-la-metropoli/",
+      "fecha": "Fri, 20 Nov 2026 13:12:29 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Bomberos y autoridades de tránsito informaron sobre percances viales en Tecpán Guatemala y en la metrópoli este viernes 20 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala y el proceso de Luis Fernando Tena: cinco años con la clasificación mundialista pendiente",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-y-el-proceso-de-luis-fernando-tena-cinco-anos-con-la-clasificacion-mundialista-pendiente/",
+      "fecha": "Fri, 20 Nov 2026 13:03:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La Bicolor ha pasado por diferentes entrenadores y procesos sin conseguir la clasificación. La eliminación rumbo a 2026 y los resultados recientes plantean nuevos desafíos de cara al Mundial de 2030."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Hasta 3 horas y 31 minutos por trayecto: los municipios donde más tiempo toma movilizarse en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/hasta-3-horas-y-31-minutos-por-trayecto-los-municipios-donde-mas-tiempo-toma-movilizarse-en-guatemala/",
+      "fecha": "Fri, 20 Nov 2026 13:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Los tiempos de traslado y los gastos de transporte varían según el municipio de residencia y el nivel de ingresos. Un estudio del Observatorio para las Ciudades revela dónde se registran los recorridos más prolongados y cuánto destinaron los guatemaltecos, en promedio, a movilizarse cada mes durante el 2025."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Festival Internacional de Poesía de Quetzaltenango celebra su 21 edición",
+      "link": "https://www.prensalibre.com/vida/escenario/festival-internacional-de-poesia-de-quetzaltenango-celebra-su-21-edicion/",
+      "fecha": "Fri, 20 Nov 2026 12:37:54 +0000",
+      "categoria": "Escenario",
+      "resumen": "En esta ocasión, el encuentro literario que se celebrará del 25 al 28 de noviembre será  dedicado a Roney Edelberto Alvarado-Gamarro y a su propuesta teórica “El Pueblo Originado\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ofrecían juegos de azar y presuntamente estafaban con billetes falsos: pareja termina capturada",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ofrecian-juegos-de-azar-y-presuntamente-estafaban-con-billetes-falsos-pareja-termina-capturada-breaking/",
+      "fecha": "Fri, 20 Nov 2026 12:14:29 +0000",
+      "categoria": "Justicia",
+      "resumen": "La Policía Nacional Civil capturó a una pareja que presuntamente utilizaba juegos de azar para cometer estafas en Nueva Santa Rosa, Santa Rosa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tamagotchi cumple 30 años: el juguete sin gráficos avanzados ni internet que enseñó a cuidar de una pantalla",
+      "link": "https://www.prensalibre.com/vida/tecnologia/tamagotchi-cumple-30-anos-el-juguete-sin-graficos-avanzados-ni-internet-que-enseno-a-cuidar-de-una-pantalla/",
+      "fecha": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "categoria": "Tecnología",
+      "resumen": "La mascota digital que cambió las reglas del ocio interactivo supera los 100 millones de unidades vendidas en todo el mundo."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "BCIE reconoce a 17 mipymes de Guatemala por sus prácticas sostenibles y entrega más de US$77 mil",
@@ -587,142 +827,6 @@
       "resumen": "Guatemala es uno de los países que extenderá hasta el 2027 las medidas fiscales para mitigar el impacto del aumento de los precios internacionales del petróleo y sus derivados, mediante la exención de impuestos a los combustibles. El costo fiscal de estas medidas podría alcanzar los Q10 mil 300 millones."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Cabezas de El Mirador",
-      "link": "https://www.prensalibre.com/opinion/caricatura/cabezas-de-el-mirador/",
-      "fecha": "Thu, 19 Nov 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ciudadanos al cuidado de la decisión ciudadana",
-      "link": "https://www.prensalibre.com/opinion/editorial/ciudadanos-al-cuidado-de-la-decision-ciudadana/",
-      "fecha": "Thu, 19 Nov 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "Aún no se tiene noticia de apercibimientos o sanciones a partidos políticos por evidentes campañas anticipadas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Donald Trump intenta dejar atrás la guerra con Irán, pero el conflicto aún no termina",
-      "link": "https://www.prensalibre.com/internacional/donald-trump-intenta-dejar-atras-la-guerra-con-iran-pero-el-conflicto-aun-no-termina/",
-      "fecha": "Thu, 19 Nov 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los ataques iraníes en el estrecho de Ormuz y contra países del Golfo Pérsico mantienen la tensión en la región, mientras persisten las diferencias entre Washington y Teherán y aumentan las consecuencias económicas de la guerra."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El dinero negro",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/el-dinero-negro/",
-      "fecha": "Thu, 19 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La tecnología y el dinero negro caminan más rápido y de manera más organizada que nuestros sistemas de justicia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto 2027: Deuda, despilfarro y cinismo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/presupuesto-2027-deuda-despilfarro-y-cinismo/",
-      "fecha": "Thu, 19 Nov 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El gasto corriente asciende al 13.5% del PIB, y parte de ese gasto creciente y desbordado es financiado con nueva deuda, lo cual es ilegal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sacrificar la estabilidad. ¿A qué costo?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/sacrificar-la-estabilidad-a-que-costo/",
-      "fecha": "Thu, 19 Nov 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La reforma del Estado no sería una idea utópica, si se contara con el concurso de las élites de todos los sectores."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sobre dos discursos de alto calibre",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/sobre-dos-discursos-de-alto-calibre/",
-      "fecha": "Thu, 19 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La necesidad de recuperar una idea de civilización que se ha vuelto incómoda."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy jueves 19 de noviembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-jueves-19-de-noviembre-de-2026/",
-      "fecha": "Thu, 19 Nov 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La diversidad del comercio internacional",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-diversidad-del-comercio-internacional/",
-      "fecha": "Thu, 19 Nov 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El comercio internacional es mucho más que la compra y venta de productos entre países."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué Putin ya es el ganador de la histórica reunión con Trump y Xi",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/por-que-putin-ya-es-el-ganador-de-la-historica-reunion-con-trump-y-xi/",
-      "fecha": "Thu, 19 Nov 2026 04:02:15 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La reunión de este jueves entre los líderes de Estados Unidos, China y Rusia le brindará a Vladimir Putin una gran plataforma, pero no lo acerca a ganar la guerra en Ucrania."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "CC mantiene resoluciones que favorecen a Manuel Baldizón en los casos Odebrecht y Transurbano",
-      "link": "https://www.prensalibre.com/guatemala/justicia/cc-mantiene-resoluciones-que-favorecen-a-manuel-baldizon-en-los-casos-odebrecht-y-transurbano-breaking/",
-      "fecha": "Thu, 19 Nov 2026 02:42:18 +0000",
-      "categoria": "Justicia",
-      "resumen": "La Corte de Constitucionalidad mantiene dos resoluciones que favorecen a Manuel Baldizón: el arresto domiciliario en el caso Transurbano y el cierre del proceso por el caso Odebrecht."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Una cita que termina en asesinato&#8221;: PNC investiga cuerpos envueltos en sábanas y busca identificar a los responsables de los crímenes",
-      "link": "https://www.prensalibre.com/guatemala/justicia/una-cita-que-termina-en-asesinato-pnc-investiga-cuerpos-envueltos-en-sabanas-y-busca-identificar-a-los-responsables-de-los-crimenes/",
-      "fecha": "Thu, 19 Nov 2026 02:25:23 +0000",
-      "categoria": "Justicia",
-      "resumen": "Las autoridades investigan si los cadáveres abandonados en la vía pública responden a un mismo patrón criminal. Las llamadas previas, los indicios forenses y las posibles disputas entre pandillas son claves para esclarecer los casos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un guante, 188 casquillos y el relato de un testigo: lo que investiga el MP tras la incursión en Zacapa que dejó cinco muertos",
-      "link": "https://www.prensalibre.com/guatemala/justicia/un-guante-188-casquillos-y-el-relato-de-un-testigo-lo-que-investiga-el-mp-tras-la-incursion-en-zacapa-que-dejo-cinco-muertos/",
-      "fecha": "Thu, 19 Nov 2026 02:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Un grupo armado con indumentaria de tipo militar irrumpió en una comunidad de Zacapa y mató a cinco personas, entre ellas un presunto lugarteniente de “Haroldito” Lorenzana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MEM impone multas por más de Q39 millones a cuatro distribuidoras de gas por distorsión de precios",
-      "link": "https://www.prensalibre.com/economia/mem-impone-multas-por-mas-de-q39-millones-a-cuatro-distribuidoras-de-gas-por-distorsion-de-precios-breaking/",
-      "fecha": "Thu, 19 Nov 2026 01:10:31 +0000",
-      "categoria": "Economía",
-      "resumen": "El Ministerio de Energía y Minas impuso multas por más de Q39.6 millones a cuatro distribuidoras de propano por concertación y distorsión de precios en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué eligieron a Robert Pattinson como el nuevo James Bond? Esto fue lo que vieron en el actor",
-      "link": "https://www.prensalibre.com/vida/escenario/por-que-eligieron-a-robert-pattinson-como-el-nuevo-james-bond-esto-fue-lo-que-vieron-en-el-actor/",
-      "fecha": "Thu, 19 Nov 2026 01:08:29 +0000",
-      "categoria": "Escenario",
-      "resumen": "El actor británico Robert Pattinson fue confirmado como el nuevo agente 007 en la próxima película de la saga."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Deco explica los planes del Barcelona para el mercado de fichajes de invierno",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/deco-explica-los-planes-del-barcelona-para-el-mercado-de-fichajes-de-invierno/",
-      "fecha": "Thu, 19 Nov 2026 01:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Deco, director de futbol del Barcelona, defendió a Balde, descartó su salida salvo que él la pida y calificó con un diez la plantilla de Flick."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mingob vuelve a evaluar compra de cámaras corporales para la PNC ante posible donación de software",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mingob-vuelve-a-evaluar-compra-de-camaras-corporales-para-la-pnc-ante-posible-donacion-de-software/",
-      "fecha": "Thu, 19 Nov 2026 01:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El Mingob vuelve a evaluar la compra de cámaras corporales para la PNC ante una posible donación del software, luego de anunciar el arrendamiento de los equipos por Q20 millones."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Tuti Furlán presentará el libro «7 preguntas incómodas que cambiarán tu vida (si quieres)» en Guatemala",
       "link": "https://www.guatemala.com/noticias/cultura/libro-7-preguntas-incomodas-que-cambiaran-tu-vida-si-quieres-tuti-furlan.html",
@@ -731,100 +835,12 @@
       "resumen": "Tuti Furlán presenta «7 preguntas incómodas que cambiarán tu vida (si quieres)», libro que invita a las personas a encontrar su propia forma de vivir.\nThe post Tuti Furlán presentará el libro «7 preguntas incómodas que cambiarán tu vida (si quieres)» en Guatemala appeared first on Guatemala.com."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Galardón a la Productividad 2026 del Intecap: estas son las seis empresas nominadas",
-      "link": "https://www.prensalibre.com/economia/galardon-a-la-productividad-2026-del-intecap-estas-son-las-seis-empresas-nominadas/",
-      "fecha": "Wed, 18 Nov 2026 23:32:29 +0000",
-      "categoria": "Economía",
-      "resumen": "El Intecap presentó a las seis empresas nominadas al Galardón a la Productividad y Competitividad Ricardo Castillo Sinibaldi 2026, un reconocimiento que distingue la innovación, el crecimiento y la capacitación empresarial en Guatemala. Las ganadoras se anunciarán el 2 de diciembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Error judicial provoca traslado a la capital de sindicados de “Los Mamás” y “Los Coyotes”",
-      "link": "https://www.prensalibre.com/guatemala/justicia/error-judicial-provoca-traslado-a-la-capital-de-sindicados-de-los-mamas-y-los-coyotes-breaking/",
-      "fecha": "Wed, 18 Nov 2026 23:32:27 +0000",
-      "categoria": "Justicia",
-      "resumen": "Un error en una orden judicial provocó el traslado a la capital de seis adultos y un menor vinculados con las bandas “Los Mamás” y “Los Coyotes”, pese a que el caso está asignado a un juzgado de Cobán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inicia plan para aplicar la eutanasia a diez hipopótamos de Pablo Escobar y así será la primera fase",
-      "link": "https://www.prensalibre.com/internacional/inicia-plan-para-aplicar-la-eutanasia-a-diez-hipopotamos-de-pablo-escobar-y-asi-sera-la-primera-fase/",
-      "fecha": "Wed, 18 Nov 2026 23:23:26 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las autoridades de Colombia iniciaron el plan para aplicar la eutanasia a diez hipopótamos que fueron traídos por Pablo Escobar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hegseth alardea de la captura de Maduro en la primera visita a Venezuela de un secretario de Defensa de EE.UU. en décadas",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/hegseth-alardea-de-la-captura-de-maduro-en-la-primera-visita-a-venezuela-de-un-secretario-de-defensa-de-ee-uu-en-decadas/",
-      "fecha": "Wed, 18 Nov 2026 23:11:09 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El secretario de Defensa de EE.UU. visitó Venezuela para firmar un acuerdo de cooperación militar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inteligencia artificial en Guatemala: cómo aplicarla en una empresa durante 30 días antes de invertir más",
-      "link": "https://www.prensalibre.com/economia/inteligencia-artificial-en-guatemala-como-aplicarla-en-una-empresa-durante-30-dias-antes-de-invertir-mas/",
-      "fecha": "Wed, 18 Nov 2026 23:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Agexport propone que las empresas guatemaltecas prueben la inteligencia artificial durante 30 días para reducir errores, ahorrar tiempo y evaluar resultados antes de ampliar sus inversiones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Homicidios superan cifras del 2025 por quinto mes consecutivo y cinco zonas concentran el 62% de los casos en la capital",
-      "link": "https://www.prensalibre.com/guatemala/justicia/homicidios-superan-cifras-del-2025-por-quinto-mes-y-cinco-zonas-concentran-el-62-de-los-casos-en-la-capital/",
-      "fecha": "Wed, 18 Nov 2026 23:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La tasa interanual de homicidios pasó de 16.77 por cada 100 mil habitantes en septiembre a 16.99 en octubre, que registró el mayor incremento de muertes violentas en comparación con el mismo mes de 2025."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Mi gente chapina”: Don Omar confirma fecha de su concierto en Guatemala y anuncia precios de entradas",
-      "link": "https://www.prensalibre.com/vida/escenario/mi-gente-chapina-don-omar-confirma-fecha-de-su-concierto-en-guatemala-y-anuncia-precios-de-entradas/",
-      "fecha": "Wed, 18 Nov 2026 23:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Don Omar anunció los precios y las localidades disponibles para su concierto en Guatemala. Entérese de cómo participar en la preventa y asegurar sus entradas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pidieron un viaje en la calle Martí y habrían asaltado al conductor al llegar a zona 1",
-      "link": "https://www.prensalibre.com/guatemala/justicia/pidieron-un-viaje-en-la-calle-marti-y-habrian-asaltado-al-conductor-al-llegar-a-zona-1/",
-      "fecha": "Wed, 18 Nov 2026 22:51:18 +0000",
-      "categoria": "Justicia",
-      "resumen": "Una mujer de 26 años y un hondureño de 29 fueron detenidos por la PNC, luego de que un conductor de transporte por aplicación denunciara que sus pasajeros lo agredieron y le robaron dos celulares al llegar a su destino."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Drones contra asaltantes: PNC reporta una captura directa y otras dos por coordinación policial en 10 días",
-      "link": "https://www.prensalibre.com/guatemala/justicia/drones-contra-asaltantes-pnc-reporta-una-captura-directa-y-otras-dos-por-coordinacion-policial-en-10-dias-breaking/",
-      "fecha": "Wed, 18 Nov 2026 22:12:54 +0000",
-      "categoria": "Justicia",
-      "resumen": "Una captura directa y otras dos detenciones por coordinación policial son los resultados de los primeros 10 días de operativos con drones que desarrolla la PNC."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Tráfico en Guatemala por actividades de fin de año 2026",
       "link": "https://www.guatemala.com/noticias/comunidad/trafico-guatemala-2026-actividades-fin-de-ano.html",
       "fecha": "Wed, 18 Nov 2026 21:49:23 +0000",
       "categoria": "Comunidad",
       "resumen": "Entérate de las actividades de fin de año que podrían generar tráfico en distintas zonas de la Ciudad de Guatemala entre noviembre y diciembre 2026.\nThe post Tráfico en Guatemala por actividades de fin de año 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "12 muertos, entre ellos niños, en Honduras: El Cártel del Diablo se atribuye las cuatro masacres",
-      "link": "https://www.prensalibre.com/internacional/12-muertos-entre-ellos-ninos-en-honduras-el-cartel-del-diablo-se-atribuye-las-cuatro-masacres/",
-      "fecha": "Wed, 18 Nov 2026 21:47:09 +0000",
-      "categoria": "Internacional",
-      "resumen": "Entre las víctimas hay hombres, mujeres y niños, y los autores podrían ser integrantes de una banda criminal identificada como el Cartel del Diablo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bebida intoxicada: El caso del soldado colombiano que fue envenenado por una joven en Ucrania",
-      "link": "https://www.prensalibre.com/internacional/bebida-intoxicada-el-caso-del-soldado-colombiano-que-fue-envenenado-por-una-joven-en-ucrania/",
-      "fecha": "Wed, 18 Nov 2026 21:36:45 +0000",
-      "categoria": "Internacional",
-      "resumen": "El ciudadano colombiano tenía 32 años y sirvió como soldado profesional en el ejército de Ucrania."
     },
     {
       "fuente": "Guatemala.com",
@@ -857,22 +873,6 @@
       "fecha": "Mon, 16 Nov 2026 19:06:29 +0000",
       "categoria": "Sociedad",
       "resumen": "Encuentra diferentes lugares, desde hoteles y restaurantes, con fiestas para despedir el año y celebrar el inicio del 2027 en Guatemala. ¡Vamos pues! \nThe post Lugares con fiestas para celebrar Año Nuevo 2027 en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Clima en Guatemala: Pronostican calor, lluvias y descenso de temperaturas del 16 al 20 de noviembre 2026",
-      "link": "https://www.guatemala.com/noticias/comunidad/pronostico-clima-guatemala-16-al-20-noviembre-2026.html",
-      "fecha": "Mon, 16 Nov 2026 15:46:23 +0000",
-      "categoria": "Comunidad",
-      "resumen": "El clima en Guatemala del 16 al 20 de noviembre 2026 estará marcado por días nublados y altas temperaturas, con valores de hasta 37°C en los lugares\nThe post Clima en Guatemala: Pronostican calor, lluvias y descenso de temperaturas del 16 al 20 de noviembre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "CEMACO Pradera Concepción ofrece nuevos espacios para inspirarse y encontrar todo bajo un techo",
-      "link": "https://www.guatemala.com/noticias/sociedad/cemaco-pradera-concepcion-renueva-espacios-encontrar-todo-bajo-un-techo.html",
-      "fecha": "Fri, 13 Nov 2026 22:59:53 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Visita la tienda renovada de CEMACO Pradera Concepción y descubre showrooms de pisos, línea blanca y el Centro de Herramientas Inalámbricas.\nThe post CEMACO Pradera Concepción ofrece nuevos espacios para inspirarse y encontrar todo bajo un techo appeared first on Guatemala.com."
     }
   ]
 }
