@@ -1,7 +1,159 @@
 {
-  "actualizado": "2026-11-20T19:50:19.102Z",
+  "actualizado": "2026-11-21T01:15:12.472Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "GTA VI: ¿Cuánto dinero generó en sus primeras 24 horas y qué récord logró romper?",
+      "link": "https://www.prensalibre.com/vida/tecnologia/gta-vi-cuanto-dinero-genero-en-sus-primeras-24-horas-y-que-record-logro-romper/",
+      "fecha": "Sat, 21 Nov 2026 00:51:45 +0000",
+      "categoria": "Tecnología",
+      "resumen": "El lanzamiento de GTA VI marca un hito en la industria del entretenimiento y supera las expectativas con cifras que sorprenden al sector de los videojuegos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Contraloría revisará nombramientos interinos en el COG, por posibles impedimentos legales",
+      "link": "https://www.prensalibre.com/guatemala/politica/contraloria-revisara-nombramientos-interinos-en-el-cog-por-posibles-impedimentos-legales/",
+      "fecha": "Sat, 21 Nov 2026 00:30:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "La CGC designará auditores para evaluar los nombramientos, mientras que la Cámara Penal de la CSJ reiteró su respaldó al personal judicial, ante presiones del COG."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Asalto al Ministerio de Salud: CC suspende resoluciones que anularon acuerdo de colaboración eficaz de Jorge Estévez",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-asalto-al-ministerio-de-salud-cc-suspende-resoluciones-que-anularon-acuerdo-de-colaboracion-eficaz-de-jorge-estevez/",
+      "fecha": "Sat, 21 Nov 2026 00:04:18 +0000",
+      "categoria": "Justicia",
+      "resumen": "La CC otorgó un amparo provisional al MP y suspendió las resoluciones que anularon el acuerdo de colaboración eficaz de Jorge Estuardo Estévez Cabrera, vinculado al caso Asalto al Ministerio de Salud."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Capturan en zona 10 a presunto cabecilla de red de narcotráfico en México; suman 45 extraditables en 2026",
+      "link": "https://www.prensalibre.com/guatemala/justicia/capturan-en-zona-10-a-presunto-cabecilla-de-red-de-narcotrafico-en-mexico-suman-45-extraditables-en-2026/",
+      "fecha": "Fri, 20 Nov 2026 23:30:57 +0000",
+      "categoria": "Justicia",
+      "resumen": "Hernán “N”, de 40 años, es requerido en Illinois por narcotráfico y señalado como presunto cabecilla de una red criminal en Guadalajara, México."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La bolsa de Wall Street cae con fuerza en medio del desplome de las acciones de las tecnológicas y registra su peor semana desde la pandemia",
+      "link": "https://www.prensalibre.com/tecnologia-mig/bbc-news-mundo-tecnologia/la-bolsa-de-wall-street-cae-con-fuerza-en-medio-del-desplome-de-las-acciones-de-las-tecnologicas-y-registra-su-peor-semana-desde-la-pandemia/",
+      "fecha": "Fri, 20 Nov 2026 23:15:49 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Las tecnológicas se han visto afectadas por la caída masiva del sector en los mercados bursátiles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un misil ruso impacta en Polonia mientras los aliados de Ucrania realizan ejercicios militares",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-misil-ruso-impacta-en-polonia-mientras-los-aliados-de-ucrania-realizan-ejercicios-militares/",
+      "fecha": "Fri, 20 Nov 2026 22:46:14 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Nadie resultó herido y no se han reportado daños, pero Varsovia calificó el incidente de \"provocación\" por parte de Moscú."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Exguardia de &#8220;Alligator Alcatraz&#8221; es condenado por agredir a un cubano y víctima relata lo ocurrido",
+      "link": "https://www.prensalibre.com/internacional/exguardia-de-alligator-alcatraz-es-condenado-por-agredir-a-un-cubano-y-victima-relata-lo-ocurrido/",
+      "fecha": "Fri, 20 Nov 2026 22:36:41 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un exguardia del centro migratorio de Florida, \"Alligator Alcatraz\", fue condenado por agredir a un migrante de origen cubano."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mujer de 75 años sobrevive tres días desaparecida en una zona boscosa de Chinautla",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/mujer-de-75-anos-sobrevive-tres-dias-desaparecida-en-una-zona-boscosa-de-chinautla-breaking/",
+      "fecha": "Fri, 20 Nov 2026 22:28:35 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Una mujer de 75 años sobrevivió tras permanecer tres días desaparecida en un sector boscoso de Chinautla, donde fue rescatada por socorristas y autoridades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;El Cascanueces&#8221; vuelve al Centro Cultural Miguel Ángel Asturias",
+      "link": "https://www.prensalibre.com/vida/escenario/el-cascanueces-vuelve-al-centro-cultural-miguel-angel-asturias/",
+      "fecha": "Fri, 20 Nov 2026 22:23:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La obra clásica de la Navidad vuelve a ser interpretada por el Ballet Nacional de Guatemala \"Christa Mertins\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mujeres son propietarias del 43.3% de las microempresas en Guatemala: cinco emprendedoras son reconocidas",
+      "link": "https://www.prensalibre.com/economia/mujeres-son-propietarias-del-43-3-de-las-microempresas-en-guatemala-cinco-emprendedoras-son-reconocidas/",
+      "fecha": "Fri, 20 Nov 2026 22:12:18 +0000",
+      "categoria": "Economía",
+      "resumen": "El emprendimiento femenino fortalece la economía guatemalteca. Cinco empresarias reciben el Premio Emprendedora del Año 2026 por su liderazgo, trayectoria y contribución al desarrollo de negocios en el país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Fueron ciberataques?: Trump responde por incidentes informáticos en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/fueron-ciberataques-trump-responde-por-incidentes-informaticos-en-ee-uu/",
+      "fecha": "Fri, 20 Nov 2026 22:03:32 +0000",
+      "categoria": "Internacional",
+      "resumen": "Donald Trump dijo que los recientes incidentes informáticos en EE. UU. se tratan de \"hechos independientes\" y desmintió un posible \"ciberataque coordinado\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Real Madrid busca su novena victoria consecutiva ante el Celta de Vigo en el regreso al Bernabéu",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-busca-su-novena-victoria-consecutiva-ante-el-celta-de-vigo-en-el-regreso-al-bernabeu-breaking/",
+      "fecha": "Fri, 20 Nov 2026 21:52:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El equipo de José Mourinho vuelve a casa después de un mes y buscará mantener su paso perfecto como local frente a un Celta que quiere dar la sorpresa."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "Dónde ver la preliminar y final de Miss Universe 2026 en Guatemala: fechas y horarios",
+      "link": "https://www.guatemala.com/noticias/sociedad/hora-donde-ver-miss-universe-2026-en-guatemala.html",
+      "fecha": "Fri, 20 Nov 2026 21:46:17 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Conoce las fechas, horarios y dónde ver la transmisión en vivo de Miss Universe 2026, donde Adelina Castillo representa a Guatemala. \nThe post Dónde ver la preliminar y final de Miss Universe 2026 en Guatemala: fechas y horarios appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP revela que el Barrio 18 ejecutó el asesinato de Juan Francisco Solórzano Foppa y Gustavo Aguilar",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mp-revela-que-el-barrio-18-ejecuto-el-asesinato-de-juan-francisco-solorzano-foppa-y-gustavo-aguilar-breaking/",
+      "fecha": "Fri, 20 Nov 2026 21:33:36 +0000",
+      "categoria": "Justicia",
+      "resumen": "El MP reveló que integrantes del Barrio 18 ejecutaron el asesinato de Juan Francisco Solórzano Foppa y Gustavo Adolfo Aguilar Gramajo, y que dos presuntos implicados están ligados a proceso por asesinato."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Solórzano Foppa: MP informa sobre avances en investigación del crimen contra exjefe de la SAT",
+      "link": "https://www.prensalibre.com/guatemala/justicia/el-fiscal-general-gabriel-garcia-luna-ofrece-una-conferencia-de-prensa-sobre-el-caso-solorzano-foppa-breaking/",
+      "fecha": "Fri, 20 Nov 2026 21:00:00 +0000",
+      "categoria": "Justicia",
+      "resumen": "Autoridades del Ministerio Público en conferencia de prensa este viernes 20 de noviembre sobre el caso del asesinato de Juan Francisco Solórzano Foppa, registrado el 17 de octubre del 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Muerte de mujer en Mixco lleva a investigar posible vínculo con otro ataque armado",
+      "link": "https://www.prensalibre.com/guatemala/justicia/muerte-de-mujer-en-mixco-lleva-a-investigar-posible-vinculo-con-otro-ataque-armado-breaking/",
+      "fecha": "Fri, 20 Nov 2026 20:47:08 +0000",
+      "categoria": "Justicia",
+      "resumen": "Las autoridades investigan si el ataque armado en el que murió una mujer de 46 años en Mixco tiene relación con otro hecho violento ocurrido este mes en el mismo sector."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cristiano Ronaldo queda a 14 goles de los 1,000: así fue su anotación con el Al Nassr",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-queda-a-14-goles-de-los-1000-asi-fue-su-anotacion-con-el-al-nassr-breaking/",
+      "fecha": "Fri, 20 Nov 2026 20:43:39 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El portugués llegó a 986 tantos en su carrera, pese a fallar un penalti en la derrota ante Al Ahli."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Bruno Mars llora la muerte de su padre: &#8220;Me enseñó todo lo que sé&#8221;",
+      "link": "https://www.prensalibre.com/vida/escenario/bruno-mars-llora-la-muerte-de-su-padre-me-enseno-todo-lo-que-se/",
+      "fecha": "Fri, 20 Nov 2026 20:33:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "El músico Peter Hernández falleció a los 74 años y su hijo reconoce su trabajo en la crianza de seis hijos además de su talento en el que se inspiró."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Violencia en el futbol guatemalteco? Marquense anuncia las medidas legales y exige explicaciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/violencia-en-el-futbol-guatemalteco-marquense-anuncia-las-medidas-legales-y-exige-explicaciones/",
+      "fecha": "Fri, 20 Nov 2026 20:32:30 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Marquense manifestó que desconoce el origen del video y señaló que existen indicios de que pudo haber sido editado o difundido fuera de contexto."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Máquinas de Donación para apoyar causas benéficas",
@@ -20,11 +172,27 @@
     },
     {
       "fuente": "Prensa Libre",
+      "titulo": "Por manipular explosivos: lo que se sabe de la muerte de dos salvadoreños en Haití",
+      "link": "https://www.prensalibre.com/internacional/por-manipular-explosivos-lo-que-se-sabe-de-la-muerte-de-dos-salvadorenos-en-haiti/",
+      "fecha": "Fri, 20 Nov 2026 19:11:01 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las fuerzas armadas de El Salvador informaron sobre dos salvadoreños fallecidos en Haití debido a la detonación de un explosivo."
+    },
+    {
+      "fuente": "Prensa Libre",
       "titulo": "Luis del Llano responde a Sasha y jueza insiste en arresto",
       "link": "https://www.prensalibre.com/vida/escenario/luis-del-llano-responde-a-sasha-y-jueza-insiste-en-arresto/",
       "fecha": "Fri, 20 Nov 2026 18:54:00 +0000",
       "categoria": "Escenario",
       "resumen": "El productor mexicano se ha negado a emitir una disculpa pública bajo los términos que le fueron ordenados por los juzgados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "MP allana inmuebles por ataque contra edificio donde funciona la Embajada de Israel en Guatemala",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mp-allana-inmuebles-por-ataque-contra-edificio-donde-funciona-la-embajada-de-israel-en-guatemala/",
+      "fecha": "Fri, 20 Nov 2026 18:50:21 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Las autoridades investigan el ataque armado contra el edificio donde funciona la Embajada de Israel en Guatemala."
     },
     {
       "fuente": "Prensa Libre",
@@ -659,172 +827,12 @@
       "resumen": "Esta es la millonaria suma que ganará el actor británico por interpretar al agente secreto más famoso del cine."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "El caso del hombre que &#8220;ofrecía&#8221; a su esposa drogada por internet en Reino Unido",
-      "link": "https://www.prensalibre.com/internacional/el-caso-del-hombre-que-ofrecia-a-su-esposa-drogada-por-internet-en-reino-unido/",
-      "fecha": "Thu, 19 Nov 2026 17:24:21 +0000",
-      "categoria": "Internacional",
-      "resumen": "Cuatro hombres son declarados culpables  por violación contra una mujer que habría sido drogada por su esposo por 13 años y era ofrecida a desconocidos por internet."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quiénes son los cabecillas de White Fence 13 y los otros 17 señalados por la PNC como integrantes de la pandilla declarada terrorista",
-      "link": "https://www.prensalibre.com/guatemala/justicia/quienes-son-los-cabecillas-de-white-fence-13-y-los-otros-17-senalados-por-la-pnc-como-integrantes-de-la-pandilla-declarada-terrorista/",
-      "fecha": "Thu, 19 Nov 2026 16:19:16 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La PNC identifica a los cabecillas de White Fence y a otros 17 presuntos integrantes, sus funciones, centros de reclusión y zonas donde opera la pandilla terrorista en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De la detención del ICE a su regreso a casa: Liberan a estudiante salvadoreña y a su mamá",
-      "link": "https://www.prensalibre.com/internacional/de-la-detencion-del-ice-a-su-regreso-a-casa-liberan-a-estudiante-salvadorena-y-a-su-mama/",
-      "fecha": "Thu, 19 Nov 2026 16:03:35 +0000",
-      "categoria": "Internacional",
-      "resumen": "Los agentes del ICE le dieron a elegir a la estudiante salvadoreña entre irse o quedarse con su mamá: si decidía quedarse, también sería detenida."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fuentes antinarcóticas confirman allanamientos contra Los Lorenzana y Los Mendoza en Zacapa e Izabal",
-      "link": "https://www.prensalibre.com/guatemala/justicia/fuentes-antinarcoticas-confirman-allanamientos-contra-los-lorenzana-y-los-mendoza-en-zacapa-e-izabal-breaking/",
-      "fecha": "Thu, 19 Nov 2026 16:01:44 +0000",
-      "categoria": "Justicia",
-      "resumen": "EE. UU. designó como terroristas a Los Mendoza y Los Lorenzana por sus vínculos con carteles. Autoridades confirman allanamientos contra ambos grupos en Guatemala."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Invitan a reciclar vidrio y canjearlo por vasos nuevos en Guatemala",
       "link": "https://www.guatemala.com/noticias/sociedad/canje-de-vasos-por-vidrio-campana-invita-reciclar-botellas-frascos-guatemala.html",
       "fecha": "Thu, 19 Nov 2026 15:49:34 +0000",
       "categoria": "Sociedad",
       "resumen": "La campaña Canje de Vasos por Vidrio invita a los guatemaltecos a reciclar botellas y frascos usados. Conoce las fechas de las próximas jornadas.\nThe post Invitan a reciclar vidrio y canjearlo por vasos nuevos en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ataque armado en Mixco: mujer muere a balazos mientras conducía y su automóvil termina accidentado",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-mixco-mujer-muere-a-balazos-mientras-conducia-y-su-automovil-termina-accidentado-breaking/",
-      "fecha": "Thu, 19 Nov 2026 15:01:13 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Ataque armado en la zona 4 de Mixco cobra la vida de una mujer que se movilizaba en automóvil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Trump, Putin y Xi Jinping se reúnen en China: Esto hablaron sobre Ucrania, Irán y las armas nucleares",
-      "link": "https://www.prensalibre.com/internacional/trump-putin-y-xi-jinping-se-reunen-en-china-esto-hablaron-sobre-ucrania-iran-y-las-armas-nucleares/",
-      "fecha": "Thu, 19 Nov 2026 14:29:44 +0000",
-      "categoria": "Internacional",
-      "resumen": "Xi Jinping, Donald Trump y Vladímir Putin concluyeron su inédita reunión trilateral, en la que abordaron asuntos como el desarme nuclear y las guerras en Ucrania e Irán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Terrence Crawford cuestiona al CMB por negar oportunidad a Léster Martínez ante Canelo Álvarez",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/terrence-crawford-cuestiona-al-cmb-por-negar-oportunidad-a-lester-martinez-ante-canelo-breaking/",
-      "fecha": "Thu, 19 Nov 2026 13:51:06 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El excampeón indiscutido de las 168 libras criticó los criterios del organismo y comparó el caso del guatemalteco con el de Christian Mbilli."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Denuncia anónima delata presunta transacción de droga en zona 16: incautan cocaína y armas",
-      "link": "https://www.prensalibre.com/guatemala/justicia/denuncia-anonima-delata-presunta-transaccion-de-droga-en-zona-16-incautan-cocaina-y-armas-breaking/",
-      "fecha": "Thu, 19 Nov 2026 13:37:54 +0000",
-      "categoria": "Justicia",
-      "resumen": "Autoridades incautan armas, dinero y droga en la zona 16 tras denuncia anónima."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Barcelona afronta un mes exigente: estos son los nueve partidos que jugará antes de terminar 2026",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/barcelona-afronta-un-mes-exigente-estos-son-los-nueve-partidos-que-jugara-antes-de-terminar-2026/",
-      "fecha": "Thu, 19 Nov 2026 13:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Nueve partidos en cuatro semanas: así es el maratón del Barcelona de Hansi Flick en la recta final del 2026, con LaLiga, Champions y Copa del Rey."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La ONU declara culpable de genocidio contra los rohingyas a Myanmar, el primer Estado condenado por este crimen",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-onu-declara-culpable-de-genocidio-contra-los-rohingyas-a-myanmar-el-primer-estado-condenado-por-este-crimen/",
-      "fecha": "Thu, 19 Nov 2026 12:40:29 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El histórico veredicto se alcanzó tras nueve votos a favor y seis en contra."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Se están quedando encerradas en sus casas sin un futuro&#8221;: el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/se-estan-quedando-encerradas-en-sus-casas-sin-un-futuro-el-drama-de-las-personas-con-discapacidad-afectadas-por-las-politicas-de-milei-en-argentina/",
-      "fecha": "Thu, 19 Nov 2026 12:18:55 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Familiares de personas con discapacidad han denunciado que la red de cuidados —terapeutas, hogares de cuidado y transportistas— ha colapsado. Ahora una ley intenta cambiarlo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Alzhéimer: cómo cuidar a un familiar y mejorar su calidad de vida",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/alzheimer-como-cuidar-a-un-familiar-y-mejorar-su-calidad-de-vida/",
-      "fecha": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "La mayoría de los familiares de una persona con alzhéimer se preguntan cómo pueden contribuir a su bienestar. Esto recomiendan los expertos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estado de sitio en Zacapa: Municipalidad de Huité suspende temporalmente las actividades sociales",
-      "link": "https://www.prensalibre.com/guatemala/justicia/estado-de-sitio-en-zacapa-municipalidad-de-huite-suspende-temporalmente-las-actividades-sociales-breaking/",
-      "fecha": "Thu, 19 Nov 2026 11:51:43 +0000",
-      "categoria": "Justicia",
-      "resumen": "La comuna de Huité considera importante adoptar medidas preventivas que contribuyan a preservar el orden público y la seguridad ciudadana ante el estado de sitio en Zacapa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asuetos en Guatemala 2026: estos son los descansos pendientes en diciembre",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/asuetos-en-guatemala-2026-estos-son-los-descansos-pendientes-en-diciembre/",
-      "fecha": "Thu, 19 Nov 2026 10:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "El 2026 está cerca de finalizar; sin embargo, el calendario aún marca algunos asuetos en el último mes del año. Esto dice la ley."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala confirma su primer amistoso de 2027: jugará ante la selección más ganadora de la Copa Oro",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-confirma-su-primer-amistoso-de-2027-jugara-ante-la-seleccion-mas-ganadora-de-la-copa-oro/",
-      "fecha": "Thu, 19 Nov 2026 10:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Con la mirada en las preliminares de marzo, Guatemala comenzará el año enfrentando a la selección más ganadora de la Copa Oro, en Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Más de mil denuncias por estafas inmobiliarias en 2026: ¿cómo proteger su propiedad?",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/mas-de-mil-denuncias-por-estafas-inmobiliarias-en-2026-como-proteger-su-propiedad/",
-      "fecha": "Thu, 19 Nov 2026 10:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Ante los casos registrados por el MP este año en Guatemala, especialistas recomiendan activar avisos sobre movimientos registrales y considerar la inmovilización voluntaria del inmueble."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Elecciones 2027: Expertos cuestionan que el TSE pida título universitario para integrar Juntas Electorales Departamentales",
-      "link": "https://www.prensalibre.com/guatemala/politica/elecciones-2027-expertos-cuestionan-que-el-tse-pida-titulo-universitario-para-integrar-juntas-electorales-departamentales/",
-      "fecha": "Thu, 19 Nov 2026 09:50:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Autoridades del TSE explican que el título universitario es preferente y que si bien es un requisito van a valorar con mayor peso la experiencia electoral."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "APEC: Trump asegura que su cumbre con Xi y Putin en China &#8220;está haciendo historia&#8221;",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/apec-trump-asegura-que-su-cumbre-con-xi-y-putin-en-china-esta-haciendo-historia/",
-      "fecha": "Thu, 19 Nov 2026 09:15:19 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Donald Trump, Xi Jinping y Vladimir Putin celebran en Shenzhen la primera reunión trilateral entre Estados Unidos, China y Rusia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Prisión preventiva: reformas extienden uso de brazalete electrónico para procesados por delitos graves",
-      "link": "https://www.prensalibre.com/guatemala/prision-preventiva-reformas-extienden-uso-de-brazalete-electronico-para-procesados-por-delitos-graves/",
-      "fecha": "Thu, 19 Nov 2026 06:21:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Los jueces deberán actuar cuando se atrasen los procesos penales. Incluso acusados de delitos graves podrán optar por control telemático a costa del Estado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala amplía exención de impuestos a gasolinas y diésel hasta junio del 2027: costo fiscal llegaría a Q10 mil 300 millones",
-      "link": "https://www.prensalibre.com/economia/guatemala-amplia-exencion-de-impuestos-a-gasolinas-y-diesel-hasta-junio-del-2027-costo-fiscal-llegaria-a-q10-mil-300-millones/",
-      "fecha": "Thu, 19 Nov 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Guatemala es uno de los países que extenderá hasta el 2027 las medidas fiscales para mitigar el impacto del aumento de los precios internacionales del petróleo y sus derivados, mediante la exención de impuestos a los combustibles. El costo fiscal de estas medidas podría alcanzar los Q10 mil 300 millones."
     },
     {
       "fuente": "Guatemala.com",
@@ -865,14 +873,6 @@
       "fecha": "Tue, 17 Nov 2026 19:34:15 +0000",
       "categoria": "Cultura",
       "resumen": "Cuéntame tu Cuento 2027 invita a niños y jóvenes de 5 a 17 años a escribir su propio libro y presentarlo en Filgua. ¡Descubre cómo inscribirte!\nThe post Niños y jóvenes podrán escribir su propio libro con el programa Cuéntame tu Cuento 2027 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Lugares con fiestas para celebrar Año Nuevo 2027 en Guatemala",
-      "link": "https://www.guatemala.com/noticias/sociedad/fiestas-de-ano-nuevo-2027-guatemala.html",
-      "fecha": "Mon, 16 Nov 2026 19:06:29 +0000",
-      "categoria": "Sociedad",
-      "resumen": "Encuentra diferentes lugares, desde hoteles y restaurantes, con fiestas para despedir el año y celebrar el inicio del 2027 en Guatemala. ¡Vamos pues! \nThe post Lugares con fiestas para celebrar Año Nuevo 2027 en Guatemala appeared first on Guatemala.com."
     }
   ]
 }
