@@ -1,7 +1,95 @@
 {
-  "actualizado": "2026-11-21T09:28:04.807Z",
+  "actualizado": "2026-11-21T17:14:21.643Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "El Grinch llega a McDonald’s Guatemala con nuevos menús y postres navideños este 2026",
+      "link": "https://www.guatemala.com/noticias/vida/el-grinch-llega-a-mcdonalds-guatemala-2026.html",
+      "fecha": "Sat, 21 Nov 2026 16:53:24 +0000",
+      "categoria": "Vida",
+      "resumen": "El Grinch llega a McDonald’s Guatemala con nuevos menús, bebidas y postres para disfrutar en familia durante las celebraciones de fin de año. \nThe post El Grinch llega a McDonald’s Guatemala con nuevos menús y postres navideños este 2026 appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Disparos, explosivos y bloqueos en Sinaloa: lo que se sabe de la captura del Chapo Isidro",
+      "link": "https://www.prensalibre.com/internacional/disparos-explosivos-y-bloqueos-en-sinaloa-lo-que-se-sabe-de-la-captura-del-chapo-isidro/",
+      "fecha": "Sat, 21 Nov 2026 16:46:26 +0000",
+      "categoria": "Internacional",
+      "resumen": "El Chapo Isidro, uno de los 10 fugitivos más buscados por el FBI, fue capturado en Sinaloa. Estados Unidos ofrecía hasta US$5 millones por información que condujera a su detención o condena."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Atlético Mineiro vs. Boca Juniors: horario, dónde ver y alineaciones de la final de la Copa Sudamericana",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/atletico-mineiro-vs-boca-juniors-horario-donde-ver-y-alineaciones-de-la-final-de-la-copa-sudamericana-breaking/",
+      "fecha": "Sat, 21 Nov 2026 16:02:03 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Atlético Mineiro y Boca Juniors protagonizan se miden por la corona sudamericana. El conjunto brasileño buscará de nuevo conquistar el cetro que perdió el año pasado y los argentinos van por su tercer título."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El anillo invisible que protege al aeropuerto La Aurora y limita la altura de los edificios en zona 11",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/el-anillo-invisible-que-protege-al-aeropuerto-la-aurora-y-limita-la-altura-de-los-edificios-en-zona-11/",
+      "fecha": "Sat, 21 Nov 2026 15:58:50 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Así como existen carreteras para los vehículos, también hay rutas definidas para los aviones. La DGAC explica cómo funcionan las superficies que protegen el espacio aéreo de La Aurora y por qué fue necesario modificar los límites de altura de las construcciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque armado en discoteca: Estas son las vías cerradas por matanza en zona 9 capitalina",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataque-armado-en-discoteca-estas-son-las-vias-cerradas-por-matanza-en-zona-9-capitalina-breaking/",
+      "fecha": "Sat, 21 Nov 2026 15:43:04 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Autoridades cierran varias vías e instan a buscar rutas alternas tras ataque armado anoche."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amarini Villatoro busca hacer historia en Costa Rica: los dos títulos que puede ganar con Cartaginés",
+      "link": "https://www.prensalibre.com/guatemala/amarini-villatoro-busca-hacer-historia-en-costa-rica-los-dos-titulos-que-puede-ganar-con-cartagines/",
+      "fecha": "Sat, 21 Nov 2026 14:34:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El técnico guatemalteco disputa el liderato de la Liga costarricense y se prepara para enfrentar a Alajuelense en la final regional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Tras intensos enfrentamientos, México captura al &#8220;Chapo Isidro&#8221;, uno de los fugitivos más buscados",
+      "link": "https://www.prensalibre.com/internacional/tras-intensos-enfrentramientos-mexico-captura-al-chapo-isidro-uno-de-los-mas-buscados-breaking/",
+      "fecha": "Sat, 21 Nov 2026 14:22:28 +0000",
+      "categoria": "Internacional",
+      "resumen": "Operación apoyada por el FBI desata pánico y enfrentamientos armados en una de las regiones más golpeadas por el narcotráfico en Sinaloa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Balacera en discoteca deja cuatro muertos y cinco heridos en la zona 9 capitalina",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/balacera-en-discoteca-deja-cuatro-muertos-y-cinco-heridos-en-la-zona-9-capitalina-breaking/",
+      "fecha": "Sat, 21 Nov 2026 13:27:20 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Una \"intensa\" balacera anoche desató el pánico en una discoteca, informaron los Bomberos Municipales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Apertura 2026: La lucha por el liderato y el sexto puesto se intensifica en la jornada 21",
+      "link": "https://www.prensalibre.com/guatemala/apertura-2026-la-lucha-por-el-liderato-y-el-sexto-puesto-se-intensifica-en-la-jornada-21/",
+      "fecha": "Sat, 21 Nov 2026 13:15:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Antigua lidera la clasificación, mientras Xelajú, Mixco y Municipal buscan los dos primeros lugares. San Pedro defiende el sexto puesto ante sus perseguidores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Hay una parte de mí que va aprendiendo a ser viejo, pero hay otra a la que le cuesta muchísimo&#8221;: Jorge Drexler",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/hay-una-parte-de-mi-que-va-aprendiendo-a-ser-viejo-pero-hay-otra-a-la-que-le-cuesta-muchisimo-jorge-drexler/",
+      "fecha": "Sat, 21 Nov 2026 12:21:22 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El músico uruguayo ganó tres premios Latin Grammy la semana pasada y recibió ahora dos nominaciones al Grammy anglosajón."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lo que podemos aprender de una antigua ciudad subterránea de Turquía sobre cómo escapar del calor y el frío extremos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/lo-que-podemos-aprender-de-una-antigua-ciudad-subterranea-de-turquia-sobre-como-escapar-del-calor-y-el-frio-extremos/",
+      "fecha": "Sat, 21 Nov 2026 09:10:42 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Hace siglos, los habitantes de la Capadocia, una región histórica en Turquía, se escondieron bajo tierra para escapar de sus enemigos. Allí también encontraron refugio frente a las condiciones climáticas extremas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿Cuáles serán las prioridades de Unicef en Guatemala para 2027-2030?",
@@ -739,86 +827,6 @@
       "resumen": "El cilindro de propano de 25 libras cuesta entre Q138 y Q140 en Guatemala, mientras las distribuidoras sancionadas por distorsión y concertación de precios presentan sus argumentos ante el MEM. Conozca qué consecuencias enfrentarían si reinciden y cómo han variado los precios durante el 2026."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemalteco llega de Cancún y es capturado en el Aeropuerto La Aurora por cargos de narcotráfico",
-      "link": "https://www.prensalibre.com/guatemala/justicia/guatemalteco-llega-de-cancun-y-es-capturado-en-el-aeropuerto-la-aurora-por-cargos-de-narcotrafico-breaking/",
-      "fecha": "Fri, 20 Nov 2026 01:43:38 +0000",
-      "categoria": "Justicia",
-      "resumen": "Un guatemalteco fue capturado en el Aeropuerto Internacional La Aurora, procedente de Cancún, México. Es el tercer detenido del día requerido por EE. UU. por cargos relacionados con el narcotráfico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Suscriben convenio para la construcción de CADI en Masagua",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/suscriben-convenio-para-la-construccion-de-cadi-en-masagua/",
-      "fecha": "Fri, 20 Nov 2026 01:31:06 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Bajo el esquema del programa De Hoy Para Siempre, de Grupo AG, y en unión con la Secretaría de Obras Sociales de la Esposa del Presidente (SOSEP) y la Municipalidad de Masagua, Escuintla; suscribieron un convenio de cooperación interinstitucional para la construcción del inmueble que ocupará el Centro de Atención y Desarrollo Infantil (CADI) de la aldea El Milagro del municipio de Masagua."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Por qué el vuelo de Trump desde China será el más largo en la historia del Air Force One?",
-      "link": "https://www.prensalibre.com/internacional/por-que-el-vuelo-de-trump-desde-china-sera-el-mas-largo-en-la-historia-del-air-force-one/",
-      "fecha": "Fri, 20 Nov 2026 01:28:15 +0000",
-      "categoria": "Internacional",
-      "resumen": "Trump regresará de China a Washington en un vuelo de 15 horas sin escalas, una prueba de autonomía para el Air Force One y sus sistemas especiales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Vamos a contar mentiras”: una comedia para reír y dudar se presenta en la Universidad Popular",
-      "link": "https://www.prensalibre.com/vida/escenario/vamos-a-contar-mentiras-una-comedia-para-reir-y-dudar-se-presenta-en-la-universidad-popular/",
-      "fecha": "Fri, 20 Nov 2026 00:30:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Esta obra de teatro que combina risas y engaños ofrecerá sus últimas funciones. Entérese de todos los detalles."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Una exposición que visibiliza la creatividad y el talento de sus artistas",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/una-exposicion-que-visibiliza-la-creatividad-y-el-talento-de-sus-artistas/",
-      "fecha": "Fri, 20 Nov 2026 00:27:09 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "FUNDABIEM presenta “Talento sin límites”, una exposición de arte del programa Habilitarte 2026, por medio del cual se potencia y visibiliza las habilidades artísticas de las personas con discapacidad que asisten al Taller Ocupacional brindado por FUNDABIEM."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quiénes son los rohinyás, la &#8220;minoría más perseguida del mundo&#8221; por la que Myanmar fue condenado por genocidio",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quienes-son-los-rohinyas-la-minoria-mas-perseguida-del-mundo-por-la-que-myanmar-fue-condenado-por-genocidio/",
-      "fecha": "Thu, 19 Nov 2026 23:52:26 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La Corte Internacional de Justicia dictaminó que Myanmar cometió genocidio contra este pueblo musulmán, que en gran medida se vio obligado al exilio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo descarta intervención de militares de Estados Unidos ante violencia en Zacapa e Izabal",
-      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-descarta-intervencion-de-militares-de-estados-unidos-ante-violencia-en-zacapa-e-izabal-breaking/",
-      "fecha": "Thu, 19 Nov 2026 23:49:35 +0000",
-      "categoria": "Política",
-      "resumen": "El presidente Bernardo Arévalo descartó solicitar autorización para que fuerzas militares de Estados Unidos operen en Guatemala ante los hechos de violencia en Zacapa e Izabal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Dos trabajadores de la Municipalidad de Guatemala son víctimas de hechos de violencia en menos de una semana",
-      "link": "https://www.prensalibre.com/guatemala/justicia/dos-trabajadores-de-la-municipalidad-de-guatemala-son-victimas-de-hechos-de-violencia-en-menos-de-una-semana/",
-      "fecha": "Thu, 19 Nov 2026 23:46:39 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Un sindicalista fue baleado y una promotora social fue localizada muerta. Ambos trabajaban para la Municipalidad de Guatemala, que lamentó los hechos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Robos a trenes en EE. UU.: detienen a 13 personas y revelan video de cómo saqueaban vagones",
-      "link": "https://www.prensalibre.com/internacional/robos-a-trenes-en-ee-uu-detienen-a-13-personas-y-revelan-video-de-como-saqueaban-vagones/",
-      "fecha": "Thu, 19 Nov 2026 23:22:56 +0000",
-      "categoria": "Internacional",
-      "resumen": "Al menos 13 personas fueron detenidas en EE. UU. por orquestar robos masivos a trenes para obtener mercancías valoradas en US$22 millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La hipopótamo Fiona muere tras tragarse el gorro de un visitante en el zoológico de Cincinnati",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-hipopotamo-fiona-muere-tras-tragarse-el-gorro-de-un-visitante-en-el-zoologico-de-cincinnati/",
-      "fecha": "Thu, 19 Nov 2026 22:58:33 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "\"Luchó hasta que ya no pudo más\", declaró el zoológico de Cincinnati en un comunicado. Fiona enfermó pocos días después del incidente."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "¿Dónde comprar árboles de Navidad en Guatemala?",
       "link": "https://www.guatemala.com/noticias/sociedad/lugares-para-comprar-pinabetes-en-guatemala.html",
@@ -865,14 +873,6 @@
       "fecha": "Tue, 17 Nov 2026 22:06:32 +0000",
       "categoria": "Comunidad",
       "resumen": "La construcción del AeroMetro continúa y a partir del 20 de noviembre de 2026 se reducirá la circulación en una nueva área del Bulevar Liberación.\nThe post Anuncian reducción de carril en el Bulevar Liberación por AeroMetro, noviembre y diciembre 2026 appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Niños y jóvenes podrán escribir su propio libro con el programa Cuéntame tu Cuento 2027",
-      "link": "https://www.guatemala.com/noticias/cultura/abrieron-inscripciones-cuentame-tu-cuento-2027-ninos-jovenes-guatemala.html",
-      "fecha": "Tue, 17 Nov 2026 19:34:15 +0000",
-      "categoria": "Cultura",
-      "resumen": "Cuéntame tu Cuento 2027 invita a niños y jóvenes de 5 a 17 años a escribir su propio libro y presentarlo en Filgua. ¡Descubre cómo inscribirte!\nThe post Niños y jóvenes podrán escribir su propio libro con el programa Cuéntame tu Cuento 2027 appeared first on Guatemala.com."
     }
   ]
 }
