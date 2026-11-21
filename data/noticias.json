@@ -1,7 +1,111 @@
 {
-  "actualizado": "2026-11-21T17:14:21.643Z",
+  "actualizado": "2026-11-21T22:56:33.521Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Real Madrid remonta 2-1 al Celta con gol de Carlos Espí y alcanza al Barcelona en puntos",
+      "link": "https://www.prensalibre.com/deportes/la-liga/real-madrid-remonta-2-1-al-celta-con-gol-de-carlos-espi-y-alcanza-al-barcelona-en-puntos-breaking/",
+      "fecha": "Sat, 21 Nov 2026 21:57:00 +0000",
+      "categoria": "La Liga",
+      "resumen": "Tras ir perdiendo al descanso y fallar un penal con Mbappé, el Real Madrid remontó al Celta de Vigo en el Bernabéu y llegó a 33 puntos, los mismos que el Barcelona en LaLiga."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jesús de la Caída culmina su peregrinación en Antigua Guatemala: estos son los recorridos, horarios y el recibimiento que le espera",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/jesus-de-la-caida-culmina-su-peregrinacion-en-antigua-guatemala-estos-son-los-recorridos-horarios-y-el-recibimiento-que-le-espera/",
+      "fecha": "Sat, 21 Nov 2026 21:02:26 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Después de tres semanas de peregrinación, la imagen de Jesús Nazareno de la Caída regresará al templo de San Bartolomé Becerra. Estos son los recorridos de este fin de semana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Doblete de Yilton Díaz guía la victoria de Xelajú 3-1 sobre Suchitepéquez",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/doblete-de-yilton-diaz-guia-la-victoria-de-xelaju-3-1-sobre-suchitepequez-breaking/",
+      "fecha": "Sat, 21 Nov 2026 21:02:23 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Con dos goles de Yilton Díaz en el primer tiempo, Xelajú MC dominó a Suchitepéquez, sufrió tras el descuento de los venados y cerró con un gol de Yair Jaén su quinta victoria consecutiva."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Haití: 54 presuntos pandilleros mueren en dos días con apoyo de empresa militar privada y presunta participación salvadoreña",
+      "link": "https://www.prensalibre.com/internacional/haiti-54-presuntos-pandilleros-mueren-en-dos-dias-con-apoyo-de-empresa-militar-privada-y-presunta-participacion-salvadorena/",
+      "fecha": "Sat, 21 Nov 2026 20:55:13 +0000",
+      "categoria": "Internacional",
+      "resumen": "Drones, vehículos blindados y una fuerza de trabajo vinculada a una empresa militar privada forman parte de las operaciones contra las bandas armadas en Haití. La Policía Nacional reportó 54 presuntos integrantes de estos grupos muertos en dos días."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Mixco vs. Malacateco: siga el minuto a minuto de la jornada 21",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-mixco-vs-malacateco-siga-el-minuto-a-minuto-de-la-jornada-21-breaking/",
+      "fecha": "Sat, 21 Nov 2026 20:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los chicharroneros reciben a los toros hoy a las 3:00 PM en el Santo Domingo de Guzmán, con el pase directo a semifinales en la mira."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Mapa en Relieve se iluminará con la &#8220;Navidad Encantada 2026&#8221;: bosque encantado, fogatas, música en vivo y otras actividades",
+      "link": "https://www.prensalibre.com/vida/escenario/el-mapa-en-relieve-se-iluminara-con-la-navidad-encantada-2026-bosque-encantado-fogatas-musica-en-vivo-y-otras-actividades/",
+      "fecha": "Sat, 21 Nov 2026 19:31:14 +0000",
+      "categoria": "Escenario",
+      "resumen": "El Hipódromo del Norte se convertirá en un espacio para disfrutar de la temporada navideña, con el Mapa en Relieve como escenario."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Disputa territorial entre pandillas habría causado matanza en discoteca de zona 9",
+      "link": "https://www.prensalibre.com/guatemala/justicia/disputa-territorial-de-los-caradura-y-barrio-18-habria-causado-matanza-en-discoteca-de-zona-9/",
+      "fecha": "Sat, 21 Nov 2026 19:28:36 +0000",
+      "categoria": "Justicia",
+      "resumen": "Pandillas son señaladas de controlar el narcomenudeo en varias regiones del país, especialmente en la ciudad capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alerta en el FBI: investigan posible acceso a una base de datos con órdenes de arresto y personas buscadas",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/alerta-en-el-fbi-investigan-posible-acceso-a-una-base-de-datos-con-ordenes-de-arresto-y-personas-buscadas/",
+      "fecha": "Sat, 21 Nov 2026 19:04:19 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "El FBI investiga una posible intrusión en una base de datos utilizada por agencias policiales de EE. UU. para consultar órdenes de arresto e información sobre personas buscadas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Real Madrid vs. Celta: siga el minuto a minuto de la jornada 13 de LaLiga",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/en-vivo-real-madrid-vs-celta-siga-el-minuto-a-minuto-de-la-jornada-13-de-laliga-breaking/",
+      "fecha": "Sat, 21 Nov 2026 19:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Los merengues reciben al Celta de Vigo este sábado en el Santiago Bernabéu, con la intención de seguir presionando al líder Barcelona."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Flick confirma bajas en defensa del Barcelona: Christensen fuera, y Cubarsí al banquillo ante el Villarreal",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/flick-confirma-bajas-en-defensa-del-barcelona-christensen-fuera-y-cubarsi-al-banquillo-ante-el-villarreal-breaking/",
+      "fecha": "Sat, 21 Nov 2026 18:34:33 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El técnico azulgrana recupera a Koundé, Eric García y Raphinha para recibir mañana al líder del Villarreal en el Camp Nou, pero llega con problemas atrás."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Xelajú vs. Suchitepéquez: siga el minuto a minuto de la jornada 21",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-xelaju-vs-suchitepequez-siga-el-minuto-a-minuto-de-la-jornada-21-breaking/",
+      "fecha": "Sat, 21 Nov 2026 18:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los superchivos reciben a los venados hoy a la 1:00 PM en el Mario Camposeco en el partido que abre la penúltima jornada y con el pase directo a semifinales en juego."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La llamada al 911 que permitió escuchar lo que ocurría antes de que una familia murieran en Florida",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/la-llamada-al-911-que-permitio-escuchar-lo-que-ocurria-antes-de-que-una-familia-murieran-en-florida/",
+      "fecha": "Sat, 21 Nov 2026 17:55:57 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Una mujer y sus tres hijos fueron encontrados muertos junto al padre de los menores en Florida. Las autoridades revelaron qué escucharon durante la llamada de emergencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así se jugará la jornada 21 del Apertura 2026: qué necesita cada equipo para clasificar",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/asi-se-jugara-la-jornada-21-del-apertura-2026-que-necesita-cada-equipo-para-clasificar-breaking/",
+      "fecha": "Sat, 21 Nov 2026 17:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Este sábado 21 y domingo 22 se disputa la penúltima jornada del Apertura 2026, en la que Antigua, Xelajú, Mixco y Municipal pelean directamente por los dos pases a semifinales."
+    },
     {
       "fuente": "Guatemala.com",
       "titulo": "El Grinch llega a McDonald’s Guatemala con nuevos menús y postres navideños este 2026",
@@ -17,6 +121,14 @@
       "fecha": "Sat, 21 Nov 2026 16:46:26 +0000",
       "categoria": "Internacional",
       "resumen": "El Chapo Isidro, uno de los 10 fugitivos más buscados por el FBI, fue capturado en Sinaloa. Estados Unidos ofrecía hasta US$5 millones por información que condujera a su detención o condena."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Con fusil y granada: PNC copa a supuestos sicarios tras ataque en discoteca de la zona 9 capitalina",
+      "link": "https://www.prensalibre.com/guatemala/justicia/con-fusil-y-granada-pnc-copa-a-supuestos-sicarios-tras-ataque-en-discoteca-de-la-zona-9-capitalina/",
+      "fecha": "Sat, 21 Nov 2026 16:43:00 +0000",
+      "categoria": "Justicia",
+      "resumen": "Autoridades informan de un supuesto pandillero abatido y un menor de edad remitido tras enfrentamiento en la zona 18 capitalina."
     },
     {
       "fuente": "Prensa Libre",
@@ -713,118 +825,6 @@
       "fecha": "Fri, 20 Nov 2026 06:05:00 +0000",
       "categoria": "Guatemala",
       "resumen": "El oficialismo insiste en que los cambios a la Ley de Contrataciones se deben conocer de urgencia nacional, mientras sectores empresariales, sociales y academia, advierten riesgos de apresurar el proceso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Investigaciones contra Trump: negocios familiares, deportaciones y archivos de Epstein entre las prioridades demócratas",
-      "link": "https://www.prensalibre.com/internacional/investigaciones-contra-trump-negocios-familiares-deportaciones-y-archivos-de-epstein-entre-las-prioridades-democratas/",
-      "fecha": "Fri, 20 Nov 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "El congresista Robert García solicitó a familiares, asesores y funcionarios del presidente Donald Trump conservar documentos ante posibles investigaciones sobre su Gobierno."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Diputados no ven condiciones para votar reformas constitucionales junto con las elecciones del 2027",
-      "link": "https://www.prensalibre.com/guatemala/politica/diputados-no-ven-condiciones-para-votar-reformas-constitucionales-junto-con-las-elecciones-del-2027/",
-      "fecha": "Fri, 20 Nov 2026 06:05:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Corte de Constitucionalidad ordenó suspender provisionalmente el trámite de la propuesta presentada por Poder Ciudadano y verificar las firmas que la respaldan."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La advertencia de EE. UU. y las próximas elecciones",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-advertencia-de-ee-uu-y-las-proximas-elecciones/",
-      "fecha": "Fri, 20 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Numerosas figuras políticas guatemaltecas han recibido serias sanciones de Estados Unidos, pero su significado ha sido conocido hasta ahora."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La reunión del siglo, un nuevo reparto del mundo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-reunion-del-siglo-un-nuevo-reparto-del-mundo/",
-      "fecha": "Fri, 20 Nov 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "81 años después de Yalta, tres líderes vuelven a sentarse frente al destino del mundo. Esta vez, el poder va mucho más allá de las fronteras."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿A cambio de qué?",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/a-cambio-de-que/",
-      "fecha": "Fri, 20 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Si cuajaba, su suerte, sería el negocio de su vida, ganarse Q10 mil millones de un zarpazo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Alza del gas propano: cómo afecta el aumento a hogares, comedores y tortillerías en Guatemala",
-      "link": "https://www.prensalibre.com/economia/alza-del-gas-propano-como-afecta-el-aumento-a-hogares-comedores-y-tortillerias-en-guatemala/",
-      "fecha": "Fri, 20 Nov 2026 06:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El gas propano sube hasta Q92, mientras el MEM sanciona a cuatro distribuidoras. Surgen dudas sobre el control de precios, el peso de los cilindros y el cumplimiento de las multas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Calvino, la ética laboral y la productividad en el siglo XXI",
-      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/calvino-la-etica-laboral-y-la-productividad-en-el-siglo-xxi/",
-      "fecha": "Fri, 20 Nov 2026 06:00:00 +0000",
-      "categoria": "Plumas invitadas",
-      "resumen": "La excelencia técnica y el orden riguroso no son opcionales; son la manifestación visible de un trabajo ofrecido al Creador."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Clamor por desarticular pandillas",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/clamor-por-desarticular-pandillas/",
-      "fecha": "Fri, 20 Nov 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Mientras El Salvador tensa el músculo, el país confía en el derroche."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Nueva sede de lavado automatizado",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/nueva-sede-de-lavado-automatizado/",
-      "fecha": "Fri, 20 Nov 2026 05:42:40 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Rocket Carwash abre su quinta sucursal en Guatemala, ahora en Bulevar El Naranjo, zona 4 de Mixco, llevando su propuesta que combina rapidez y calidad de servicio, con lavados individuales y membresías que permiten mantener el vehículo limpio con regularidad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Antinarcóticos capturan a un hombre y descubren arsenal en Zacapa durante operativos en busca del clan Los Lorenzana",
-      "link": "https://www.prensalibre.com/guatemala/justicia/antinarcoticos-capturan-a-un-hombre-y-descubren-arsenal-en-zacapa-durante-operativos-en-busca-del-clan-los-lorenzana-breaking/",
-      "fecha": "Fri, 20 Nov 2026 05:02:05 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC descubrió 11 armas de fuego y capturó a un hombre de 22 años durante allanamientos en Zacapa, en medio de los operativos relacionados con el clan Los Lorenzana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Aquí los drones no vuelan&#8221;: la BBC en el interior del gasoducto desde el que Ucrania libra una guerra subterránea contra Rusia",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/aqui-los-drones-no-vuelan-la-bbc-en-el-interior-del-gasoducto-desde-el-que-ucrania-libra-una-guerra-subterranea-contra-rusia/",
-      "fecha": "Fri, 20 Nov 2026 04:06:38 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las fuerzas ucranianas combaten contra las tropas rusas en un antiguo túnel soviético en la región de Járkiv en condiciones extremas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "COG nombra a miembros interinos de su Comité Ejecutivo en medio de investigación por presuntas irregularidades",
-      "link": "https://www.prensalibre.com/deportes/cog-nombra-a-miembros-interinos-de-su-comite-ejecutivo-en-medio-de-investigacion-por-presuntas-irregularidades-breaking/",
-      "fecha": "Fri, 20 Nov 2026 03:03:01 +0000",
-      "categoria": "Deportes",
-      "resumen": "El Comité Olímpico Guatemalteco anunció el nombramiento de miembros interinos de su Comité Ejecutivo, horas después de un allanamiento del MP por presuntas irregularidades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La era de hielo 6: fecha de estreno, nuevo tráiler y personajes que regresan",
-      "link": "https://www.prensalibre.com/vida/escenario/la-era-de-hielo-6-fecha-de-estreno-nuevo-trailer-y-personajes-que-regresan/",
-      "fecha": "Fri, 20 Nov 2026 02:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "“La era de hielo” regresa a la pantalla grande con una sexta entrega, esta vez en un “Mundo de lava”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Precio del gas propano: cuánto cuesta el cilindro y qué sanciones enfrentan las distribuidoras por distorsionar precios",
-      "link": "https://www.prensalibre.com/economia/precio-del-gas-propano-cuanto-cuesta-el-cilindro-y-que-sanciones-enfrentan-las-distribuidoras-por-distorsionar-precios/",
-      "fecha": "Fri, 20 Nov 2026 02:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El cilindro de propano de 25 libras cuesta entre Q138 y Q140 en Guatemala, mientras las distribuidoras sancionadas por distorsión y concertación de precios presentan sus argumentos ante el MEM. Conozca qué consecuencias enfrentarían si reinciden y cómo han variado los precios durante el 2026."
     },
     {
       "fuente": "Guatemala.com",
