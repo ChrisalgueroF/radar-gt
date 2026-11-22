@@ -1,7 +1,119 @@
 {
-  "actualizado": "2026-11-22T11:03:11.876Z",
+  "actualizado": "2026-11-22T19:16:38.093Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alfredo Caxaj: &#8220;Lo que he logrado se lo dedico a mis hermanos&#8221;",
+      "link": "https://www.prensalibre.com/revista-d/alfredo-caxaj-lo-que-he-logrado-se-lo-dedico-a-mis-hermanos/",
+      "fecha": "Sun, 22 Nov 2026 18:01:00 +0000",
+      "categoria": "Revista D",
+      "resumen": "En 1985 llegó como refugiado a Canadá y sufrió discriminación. Cuatro décadas después, su trabajo en favor de la diversidad cultural le ha valido los más importantes reconocimientos  en el país que lo acogió."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tras más de cuatro años cerrado, el Museo Carlos Mérida inicia una nueva etapa para el arte en Guatemala",
+      "link": "https://www.prensalibre.com/vida/escenario/tras-mas-de-cuatro-anos-cerrado-el-museo-carlos-merida-inicia-una-nueva-etapa-para-el-arte-en-guatemala/",
+      "fecha": "Sun, 22 Nov 2026 18:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La obra del maestro Carlos Mérida volverá a exhibirse en el museo nacional que lleva su nombre, luego de más de cuatro años de cierre por trabajos de reparación. Conozca qué mejoras se realizaron y cómo será la reapertura."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Era superanfitriona de Airbnb en Miami, pero terminó arrestada por un presunto fraude con una casa de US$1.4 millones",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/era-superanfitriona-de-airbnb-en-miami-pero-termino-arrestada-por-un-presunto-fraude-con-una-casa-de-us1-4-millones/",
+      "fecha": "Sun, 22 Nov 2026 17:48:29 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Una casa valorada en US$1.4 millones, una transferencia por apenas US$10 y documentos cuestionados forman parte de un caso de presunto fraude inmobiliario en Florida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video&#124; Lionel Messi protagoniza polémico incidente tras lanzar un pelotazo al rostro de un rival en la MLS",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-lionel-messi-protagoniza-polemico-incidente-tras-lanzar-un-pelotazo-al-rostro-de-un-rival-en-la-mls-breaking/",
+      "fecha": "Sun, 22 Nov 2026 17:22:27 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El capitán del Inter Miami protagonizó un tenso enfrentamiento con el chileno Gonzalo Tapia durante la derrota ante Columbus Crew. Ambos futbolistas recibieron tarjeta amarilla tras el incidente."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Autoridades lanzan la Línea Morada 120 para atender a mujeres víctimas de violencia",
+      "link": "https://www.prensalibre.com/guatemala/justicia/autoridades-lanzan-la-linea-morada-120-para-atender-a-mujeres-victimas-de-violencia/",
+      "fecha": "Sun, 22 Nov 2026 17:20:25 +0000",
+      "categoria": "Justicia",
+      "resumen": "Programa de asistencia telefónica busca dar orientación, erradicación y seguimiento de casos de violencia contra la mujer, que es un flagelo nacional."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué pasó con Delta? La falla técnica que retrasa miles de vuelos en el aeropuerto de Atlanta",
+      "link": "https://www.prensalibre.com/internacional/que-paso-con-delta-la-falla-tecnica-que-retrasa-miles-de-vuelos-en-el-aeropuerto-de-atlanta/",
+      "fecha": "Sun, 22 Nov 2026 17:12:36 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una falla en el sistema de peso y equilibrio de Delta provocó retrasos de más de una hora en miles de vuelos con origen o destino en Atlanta."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos motoristas mueren quemados tras chocar de frente e incendiarse sus motocicletas en la ruta al Pacífico",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-motoristas-mueren-quemados-tras-chocar-de-frente-e-incendiarse-sus-motocicletas-en-la-ruta-al-pacifico-breaking/",
+      "fecha": "Sun, 22 Nov 2026 16:46:39 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos motocicletas chocaron de frente y se incendiaron en la ruta al Pacífico. Los bomberos confirmaron la muerte de ambos conductores y revelaron detalles de la emergencia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataque en discoteca de zona 9: Inacif identifica a víctimas y revela causa de muertes",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ataque-en-discoteca-de-zona-9-inacif-identifica-a-victimas-y-revela-causa-de-muertes-breaking/",
+      "fecha": "Sun, 22 Nov 2026 15:59:37 +0000",
+      "categoria": "Justicia",
+      "resumen": "Matanza pudo haber sido causada por pleitos de territorio entre pandillas, según las autoridades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El Barcelona vence 3-2 al Villarreal tras una remontada liderada por Pedri y Lamine Yamal",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-barcelona-vence-3-2-al-villarreal-tras-una-remontada-liderada-por-pedri-y-lamine-yamal-breaking/",
+      "fecha": "Sun, 22 Nov 2026 15:58:51 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El conjunto azulgrana superó un inicio complicado en el que recibió dos goles en apenas siete minutos. El equipo de Hansi Flick firmó una remontada para quedarse con los tres puntos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Video: Leandro Paredes se desmaya por un presunto golpe de calor tras el título de Boca",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/video-leandro-paredes-se-desmaya-por-un-presunto-golpe-de-calor-tras-el-titulo-de-boca-breaking/",
+      "fecha": "Sun, 22 Nov 2026 15:39:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El capitán xeneize Leandro Paredes, perdió el conocimiento durante una entrevista tras la final de la Copa Sudamericana y, horas después, publicó un mensaje en redes para tranquilizar a los aficionados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Primera División: Nueva Santa Rosa vence a Fraijanes y avanza a la final del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/primera-division-nueva-santa-rosa-vence-a-fraijanes-y-avanza-a-la-final-del-apertura-2026-breaking/",
+      "fecha": "Sun, 22 Nov 2026 14:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Un global de 7-6, construido con la victoria 4-3 de la ida y el empate 3-3 de la vuelta, le dio a Nueva Santa Rosa el boleto a la final, donde enfrentará al ganador de la llave entre Mictlán y Aguacatán."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo dos neveras abandonadas por el ejército de EE.UU. en Toscana dieron origen al helado italiano",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/como-dos-neveras-abandonadas-por-el-ejercito-de-ee-uu-en-toscana-dieron-origen-al-helado-italiano/",
+      "fecha": "Sun, 22 Nov 2026 13:46:12 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El gelato es sinónimo de Italia, pero sus orígenes modernos se remontan a una humilde lechería de la Toscana y a un par de refrigeradores abandonados tras la Segunda Guerra Mundial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Atrapados entre los hierros&#8221;: Accidentes de tránsito dejan al menos tres muertos y varios heridos",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/atrapados-entre-los-hierros-accidentes-de-transito-dejan-al-menos-tres-muertos-y-varios-heridos/",
+      "fecha": "Sun, 22 Nov 2026 13:30:17 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Los cuerpos de socorro reportaron varios accidentes acontecidos en el país este fin de semana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estado de Sitio en Zacapa: incautan 37 armas, 943 municiones, nueve vehículos y más de Q99 mil durante operativos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/estado-de-sitio-en-zacapa-incautan-37-armas-943-municiones-nueve-vehiculos-y-mas-de-q99-mil-durante-operativos/",
+      "fecha": "Sun, 22 Nov 2026 12:00:00 +0000",
+      "categoria": "Justicia",
+      "resumen": "La PNC y el MP efectuaron operativos en Huité y Teculután, Zacapa, donde localizaron escopetas, carabinas, pistolas, un rifle y dinero en efectivo. Las diligencias forman parte de las acciones de seguridad durante el estado de sitio vigente en Zacapa e Izabal."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Los nombres cambian de puesto, pero permanecen en el deporte de Guatemala: contratos, dietas y vínculos familiares",
@@ -707,124 +819,12 @@
       "resumen": "El MP reveló que integrantes del Barrio 18 ejecutaron el asesinato de Juan Francisco Solórzano Foppa y Gustavo Adolfo Aguilar Gramajo, y que dos presuntos implicados están ligados a proceso por asesinato."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Caso Solórzano Foppa: MP informa sobre avances en investigación del crimen contra exjefe de la SAT",
-      "link": "https://www.prensalibre.com/guatemala/justicia/el-fiscal-general-gabriel-garcia-luna-ofrece-una-conferencia-de-prensa-sobre-el-caso-solorzano-foppa-breaking/",
-      "fecha": "Fri, 20 Nov 2026 21:00:00 +0000",
-      "categoria": "Justicia",
-      "resumen": "Autoridades del Ministerio Público en conferencia de prensa este viernes 20 de noviembre sobre el caso del asesinato de Juan Francisco Solórzano Foppa, registrado el 17 de octubre del 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Muerte de mujer en Mixco lleva a investigar posible vínculo con otro ataque armado",
-      "link": "https://www.prensalibre.com/guatemala/justicia/muerte-de-mujer-en-mixco-lleva-a-investigar-posible-vinculo-con-otro-ataque-armado-breaking/",
-      "fecha": "Fri, 20 Nov 2026 20:47:08 +0000",
-      "categoria": "Justicia",
-      "resumen": "Las autoridades investigan si el ataque armado en el que murió una mujer de 46 años en Mixco tiene relación con otro hecho violento ocurrido este mes en el mismo sector."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cristiano Ronaldo queda a 14 goles de los 1,000: así fue su anotación con el Al Nassr",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cristiano-ronaldo-queda-a-14-goles-de-los-1000-asi-fue-su-anotacion-con-el-al-nassr-breaking/",
-      "fecha": "Fri, 20 Nov 2026 20:43:39 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El portugués llegó a 986 tantos en su carrera, pese a fallar un penalti en la derrota ante Al Ahli."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Bruno Mars llora la muerte de su padre: &#8220;Me enseñó todo lo que sé&#8221;",
-      "link": "https://www.prensalibre.com/vida/escenario/bruno-mars-llora-la-muerte-de-su-padre-me-enseno-todo-lo-que-se/",
-      "fecha": "Fri, 20 Nov 2026 20:33:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El músico Peter Hernández falleció a los 74 años y su hijo reconoce su trabajo en la crianza de seis hijos además de su talento en el que se inspiró."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Violencia en el futbol guatemalteco? Marquense anuncia las medidas legales y exige explicaciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/violencia-en-el-futbol-guatemalteco-marquense-anuncia-las-medidas-legales-y-exige-explicaciones/",
-      "fecha": "Fri, 20 Nov 2026 20:32:30 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Marquense manifestó que desconoce el origen del video y señaló que existen indicios de que pudo haber sido editado o difundido fuera de contexto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Máquinas de Donación para apoyar causas benéficas",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/maquinas-de-donacion-para-apoyar-causas-beneficas/",
-      "fecha": "Fri, 20 Nov 2026 19:34:30 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "La Iglesia de Jesucristo de los Santos de los Últimos Días lanzó una nueva temporada de las Máquinas de Donación de la iniciativa Ilumina El Mundo, que este año llega a cuatro países de Centroamérica: Guatemala, El Salvador, Honduras y, por primera vez, Costa Rica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Marco Rubio buscará la presidencia de EE. UU? Su cambio de postura alimenta la especulación",
-      "link": "https://www.prensalibre.com/internacional/marco-rubio-buscara-la-presidencia-de-ee-uu-su-cambio-de-postura-alimenta-la-especulacion/",
-      "fecha": "Fri, 20 Nov 2026 19:15:32 +0000",
-      "categoria": "Internacional",
-      "resumen": "Mientras más suena el nombre de Marco Rubio, más crecen las dudas sobre el vicepresidente J. D. Vance, quien intentó distanciarse de la guerra con Irán."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por manipular explosivos: lo que se sabe de la muerte de dos salvadoreños en Haití",
-      "link": "https://www.prensalibre.com/internacional/por-manipular-explosivos-lo-que-se-sabe-de-la-muerte-de-dos-salvadorenos-en-haiti/",
-      "fecha": "Fri, 20 Nov 2026 19:11:01 +0000",
-      "categoria": "Internacional",
-      "resumen": "Las fuerzas armadas de El Salvador informaron sobre dos salvadoreños fallecidos en Haití debido a la detonación de un explosivo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Luis del Llano responde a Sasha y jueza insiste en arresto",
-      "link": "https://www.prensalibre.com/vida/escenario/luis-del-llano-responde-a-sasha-y-jueza-insiste-en-arresto/",
-      "fecha": "Fri, 20 Nov 2026 18:54:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "El productor mexicano se ha negado a emitir una disculpa pública bajo los términos que le fueron ordenados por los juzgados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "MP allana inmuebles por ataque contra edificio donde funciona la Embajada de Israel en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mp-allana-inmuebles-por-ataque-contra-edificio-donde-funciona-la-embajada-de-israel-en-guatemala/",
-      "fecha": "Fri, 20 Nov 2026 18:50:21 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Las autoridades investigan el ataque armado contra el edificio donde funciona la Embajada de Israel en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "En qué consiste y a quién beneficia el acuerdo de &#8220;reinicio&#8221; de las relaciones entre Reino Unido y la Unión Europea tras el Brexit",
-      "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/en-que-consiste-y-a-quien-beneficia-el-acuerdo-de-reinicio-de-las-relaciones-entre-reino-unido-y-la-union-europea-tras-el-brexit/",
-      "fecha": "Fri, 20 Nov 2026 18:48:32 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Reino Unido y la Unión Europea llegaron, este viernes, a un nuevo acuerdo que cubre las exportaciones de alimentos, la movilidad de los jóvenes y las emisiones de carbono."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "Conoce a las empresarias reconocidas con el Premio Emprendedora del Año 2026 en Guatemala",
       "link": "https://www.guatemala.com/noticias/sociedad/ganadoras-premio-emprendedora-del-ano-2026-guatemala.html",
       "fecha": "Fri, 20 Nov 2026 18:30:56 +0000",
       "categoria": "Sociedad",
       "resumen": "Cinco empresarias fueron galardonadas con el Premio Emprendedora del Año 2026, en el marco del Día del Emprendimiento Femenino. \nThe post Conoce a las empresarias reconocidas con el Premio Emprendedora del Año 2026 en Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Legión celebra su historia musical con &#8220;La fiesta va a continuar&#8221;, un concierto con propósito",
-      "link": "https://www.prensalibre.com/vida/escenario/legion-celebra-su-historia-musical-con-la-fiesta-va-a-continuar-un-concierto-con-proposito/",
-      "fecha": "Fri, 20 Nov 2026 18:26:13 +0000",
-      "categoria": "Escenario",
-      "resumen": "El grupo guatemalteco Legión festejará su trayectoria con un concierto especial que reunirá la música, recuerdos y canciones que han dejado huella."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aeropuerto La Aurora se prepara para fin de año: hasta 8 mil viajeros y 95 vuelos diarios",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/aeropuerto-la-aurora-se-prepara-para-fin-de-ano-hasta-8-mil-viajeros-y-95-vuelos-diarios-breaking/",
-      "fecha": "Fri, 20 Nov 2026 18:07:50 +0000",
-      "categoria": "Comunitario",
-      "resumen": "La temporada alta en el Aeropuerto Internacional La Aurora se extenderá de noviembre del 2026 al 31 de enero del 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Interpelaciones",
-      "link": "https://www.prensalibre.com/opinion/caricatura/interpelaciones/",
-      "fecha": "Fri, 20 Nov 2026 18:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
     },
     {
       "fuente": "Guatemala.com",
