@@ -1,7 +1,135 @@
 {
-  "actualizado": "2026-11-21T22:56:33.521Z",
+  "actualizado": "2026-11-22T02:57:22.106Z",
   "total": 109,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos hombres mueren en ataque armado en Zacapa durante el estado de sitio; reportan otro hecho en la capital",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/dos-hombres-mueren-en-ataque-armado-en-zacapa-durante-el-estado-de-sitio-reportan-otro-hecho-en-la-capital/",
+      "fecha": "Sun, 22 Nov 2026 02:16:22 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Dos hombres murieron en un ataque armado ocurrido la noche del sábado 21 de noviembre en San Jorge, Zacapa, mientras el departamento permanece bajo estado de sitio. En otro hecho de violencia, una persona resultó herida frente al parque Erick Barrondo, en la zona 7 de la Ciudad de Guatemala."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Columbus Crew de Nicholas Hagen golea al Inter Miami de Lionel Messi",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/columbus-crew-de-nicholas-hagen-golea-al-inter-miami-de-lionel-messi-breaking/",
+      "fecha": "Sun, 22 Nov 2026 01:58:01 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Inter Miami sufrió una contundente derrota ante Columbus Crew en el inicio de los playoffs de la MLS y ahora está obligado a ganar sus próximos dos compromisos para mantener vivo el sueño del título."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entre luces y diversión, de la pista de hielo al árbol de 15 metros: así se vive en la capital el primer fin de semana del Festival Navideño",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/entre-luces-y-diversion-de-la-pista-de-hielo-al-arbol-de-15-metros-asi-se-vive-en-la-capital-el-primer-fin-de-semana-del-festival-navideno/",
+      "fecha": "Sun, 22 Nov 2026 01:38:12 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Plaza de la Constitución se llena de familias que disfrutan de la pista de hielo, el tobogán congelado, el Expreso Polar y un árbol navideño de 15 metros. El festival estará abierto hasta el 20 de diciembre, de 10.00 a 22.00 horas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los juegos del hambre: Amanecer en la cosecha y las sorprendentes cifras que marcan su estreno en cines",
+      "link": "https://www.prensalibre.com/vida/escenario/los-juegos-del-hambre-amanecer-en-la-cosecha-y-las-sorprendentes-cifras-que-marcan-su-estreno-en-cines/",
+      "fecha": "Sun, 22 Nov 2026 01:23:27 +0000",
+      "categoria": "Escenario",
+      "resumen": "La recién estrenada película de ciencia ficción conquista las taquillas con una historia que se remonta al pasado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ciberataque al FBI: qué información podría salir a la luz y por qué Trump habla de “engaños”",
+      "link": "https://www.prensalibre.com/internacional/ciberataque-al-fbi-que-informacion-podria-salir-a-la-luz-y-por-que-trump-habla-de-enganos/",
+      "fecha": "Sun, 22 Nov 2026 01:06:02 +0000",
+      "categoria": "Internacional",
+      "resumen": "Trump confirmó el ciberataque al FBI y sugirió que la intrusión podría revelar información sobre investigaciones y supuestos engaños en su contra."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EN VIVO &#124; Guastatoya vs. Comunicaciones: siga el minuto a minuto de la jornada 21",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-guastatoya-vs-comunicaciones-siga-el-minuto-a-minuto-de-la-jornada-21-breaking/",
+      "fecha": "Sun, 22 Nov 2026 01:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los pecho amarillo reciben a los cremas hoy a las 8:00 PM, en un duelo en el que Comunicaciones se juega la clasificación a la fase final del Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Él tal vez presentía algo”: lo que contó la esposa del guatemalteco Edwin Villeda antes de su desaparición en Maryland",
+      "link": "https://www.prensalibre.com/guatemala/migrantes/el-tal-vez-presentia-algo-lo-que-conto-la-esposa-del-guatemalteco-edwin-villeda-antes-de-su-desaparicion-en-maryland/",
+      "fecha": "Sun, 22 Nov 2026 00:52:42 +0000",
+      "categoria": "Migrantes",
+      "resumen": "Vidrios rotos, rastros de sangre y un vehículo incendiado forman parte de los hallazgos relacionados con la desaparición de Edwin Villeda, guatemalteco de 35 años cuyo posible cuerpo fue localizado en Virginia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miss Universo 2026: Adelina Castillo representa a Guatemala con un traje inspirado en las alfombras de Semana Santa",
+      "link": "https://www.prensalibre.com/vida/escenario/miss-universo-2026-adelina-castillo-representa-a-guatemala-con-un-traje-inspirado-en-las-alfombras-de-semana-santa/",
+      "fecha": "Sun, 22 Nov 2026 00:38:59 +0000",
+      "categoria": "Escenario",
+      "resumen": "La reina guatemalteca participó en el desfile de trajes nacionales, previo a la gran final de Miss Universo 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Boca Juniors rompe 18 años de sequía internacional y se corona campeón de la Copa Sudamericana",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/boca-juniors-rompe-18-anos-de-sequia-internacional-y-se-corona-campeon-de-la-copa-sudamericana-breaking/",
+      "fecha": "Sun, 22 Nov 2026 00:11:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Xeneize venció 2-0 a Atlético Mineiro con goles de Santiago Ascacíbar y Miguel Merentiel, y se convirtió en el primer equipo con tres títulos en el torneo."
+    },
+    {
+      "fuente": "Guatemala.com",
+      "titulo": "National Costume de Miss Universo Guatemala 2026, conoce el traje de Adelina Castillo",
+      "link": "https://www.guatemala.com/noticias/sociedad/national-costume-miss-universo-guatemala-2026.html",
+      "fecha": "Sun, 22 Nov 2026 00:10:15 +0000",
+      "categoria": "Sociedad",
+      "resumen": "Conoce el National Costume de Miss Universo Guatemala 2026 que lució Adelina Castillo y los detalles del traje con el que representó al país.\nThe post National Costume de Miss Universo Guatemala 2026, conoce el traje de Adelina Castillo appeared first on Guatemala.com."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Temporada alta de turismo 2026: hoteles reportan reservas y destinos de Guatemala esperan mayor afluencia",
+      "link": "https://www.prensalibre.com/economia/temporada-alta-de-turismo-2026-hoteles-reportan-reservas-y-destinos-de-guatemala-esperan-mayor-afluencia/",
+      "fecha": "Sun, 22 Nov 2026 00:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Una mayor afluencia de turistas nacionales y extranjeros comienza a registrarse con el inicio de la temporada alta, mientras que hoteles, restaurantes y centros recreativos reportan reservas. El Inguat proyecta la llegada de más de 671 mil visitantes no residentes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Temporada de frío en Guatemala: dónde se esperan las temperaturas más bajas y cuánto podrían descender",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/temporada-de-frio-en-guatemala-donde-se-esperan-las-temperaturas-mas-bajas-y-cuanto-podrian-descender/",
+      "fecha": "Sat, 21 Nov 2026 23:24:45 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La Conred reportó siete fallecimientos por hipotermia o causas relacionadas con las bajas temperaturas durante 2025. Ante una nueva temporada fría, las autoridades llaman a proteger especialmente a personas en situación de calle, niños y adultos mayores."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué dijo el príncipe Harry sobre Robert Pattinson como el nuevo intérprete de James Bond?",
+      "link": "https://www.prensalibre.com/vida/escenario/que-dijo-el-principe-harry-sobre-robert-pattinson-como-el-nuevo-interprete-de-james-bond/",
+      "fecha": "Sat, 21 Nov 2026 23:07:41 +0000",
+      "categoria": "Escenario",
+      "resumen": "El duque de Sussex reveló cuál es su franquicia favorita de espionaje y expresó su opinión sobre el actor que protagonizará la próxima película del agente 007."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mixco cumple en casa: gana 2-0 a Malacateco y sigue en la pelea por el pase directo",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/mixco-cumple-en-casa-gana-2-0-a-malacateco-y-sigue-en-la-pelea-por-el-pase-directo-breaking/",
+      "fecha": "Sat, 21 Nov 2026 23:02:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Mixco se impuso 2-0 a Malacateco en el estadio Santo Domingo de Guzmán, con goles de Martín Angulo y Yonathan Pozuelos por la jornada 21 del Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Venezolano deportado pasó seis meses bajo custodia de ICE y revela lo que vivió: “Necesitaba estar dopado para aguantar”",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/venezolano-deportado-paso-seis-meses-bajo-custodia-de-ice-y-revela-lo-que-vivio-necesitaba-estar-dopado-para-aguantar/",
+      "fecha": "Sat, 21 Nov 2026 22:37:25 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Eros Ramírez tenía permiso de trabajo y estaba constituyendo su empresa en Estados Unidos cuando fue detenido por ICE. Tras seis meses bajo custodia, revela lo que vivió antes de regresar a Venezuela."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Rosalía arrasa en LOS40 Music Awards: estos son los galardones que recibió y los otros artistas premiados",
+      "link": "https://www.prensalibre.com/vida/escenario/rosalia-arrasa-en-los40-music-awards-estos-son-los-galardones-que-recibio-y-los-otros-artistas-premiados/",
+      "fecha": "Sat, 21 Nov 2026 22:01:32 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante española sigue sumando premios gracias a su álbum \"Lux\", por el que recibió cuatro galardones en LOS40 Music Awards."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Real Madrid remonta 2-1 al Celta con gol de Carlos Espí y alcanza al Barcelona en puntos",
@@ -707,126 +835,6 @@
       "resumen": "La nueva integración reúne a un exdirigente de la CDAG, una excontralora, una atleta olímpica y dos figuras vinculadas a la dirigencia deportiva."
     },
     {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo estará el clima en Guatemala este fin de semana y cuándo se acercará un frente frío",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/como-estara-el-clima-en-guatemala-este-fin-de-semana-y-cuando-se-acercara-un-frente-frio-breaking/",
-      "fecha": "Fri, 20 Nov 2026 13:56:50 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Pronóstico del Insivumeh detalla cuáles serán las temperaturas máximas y qué regiones de Guatemala registrarán frío el 21 y 22 de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Video &#124; Niño de 10 años presuntamente mata a adolescente en EE. UU. por música a alto volumen",
-      "link": "https://www.prensalibre.com/internacional/video-nino-de-10-anos-presuntamente-mata-a-adolescente-en-ee-uu-por-musica-a-alto-volumen/",
-      "fecha": "Fri, 20 Nov 2026 13:53:27 +0000",
-      "categoria": "Internacional",
-      "resumen": "El video muestra cómo la pelea se intensifica y las dos mujeres se golpean y se tiran del pelo. Entonces, la madre le pide a su hijo de 10 años que le traiga la pistola."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Accidente de bus en Tecpán Guatemala deja 15 heridos y percances complican el tránsito en la metrópoli",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-de-bus-en-tecpan-guatemala-deja-15-heridos-y-percances-complican-el-transito-en-la-metropoli/",
-      "fecha": "Fri, 20 Nov 2026 13:12:29 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Bomberos y autoridades de tránsito informaron sobre percances viales en Tecpán Guatemala y en la metrópoli este viernes 20 de noviembre."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala y el proceso de Luis Fernando Tena: cinco años con la clasificación mundialista pendiente",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/guatemala-y-el-proceso-de-luis-fernando-tena-cinco-anos-con-la-clasificacion-mundialista-pendiente/",
-      "fecha": "Fri, 20 Nov 2026 13:03:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La Bicolor ha pasado por diferentes entrenadores y procesos sin conseguir la clasificación. La eliminación rumbo a 2026 y los resultados recientes plantean nuevos desafíos de cara al Mundial de 2030."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Hasta 3 horas y 31 minutos por trayecto: los municipios donde más tiempo toma movilizarse en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/hasta-3-horas-y-31-minutos-por-trayecto-los-municipios-donde-mas-tiempo-toma-movilizarse-en-guatemala/",
-      "fecha": "Fri, 20 Nov 2026 13:00:00 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los tiempos de traslado y los gastos de transporte varían según el municipio de residencia y el nivel de ingresos. Un estudio del Observatorio para las Ciudades revela dónde se registran los recorridos más prolongados y cuánto destinaron los guatemaltecos, en promedio, a movilizarse cada mes durante el 2025."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Festival Internacional de Poesía de Quetzaltenango celebra su 21 edición",
-      "link": "https://www.prensalibre.com/vida/escenario/festival-internacional-de-poesia-de-quetzaltenango-celebra-su-21-edicion/",
-      "fecha": "Fri, 20 Nov 2026 12:37:54 +0000",
-      "categoria": "Escenario",
-      "resumen": "En esta ocasión, el encuentro literario que se celebrará del 25 al 28 de noviembre será  dedicado a Roney Edelberto Alvarado-Gamarro y a su propuesta teórica “El Pueblo Originado\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ofrecían juegos de azar y presuntamente estafaban con billetes falsos: pareja termina capturada",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ofrecian-juegos-de-azar-y-presuntamente-estafaban-con-billetes-falsos-pareja-termina-capturada-breaking/",
-      "fecha": "Fri, 20 Nov 2026 12:14:29 +0000",
-      "categoria": "Justicia",
-      "resumen": "La Policía Nacional Civil capturó a una pareja que presuntamente utilizaba juegos de azar para cometer estafas en Nueva Santa Rosa, Santa Rosa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tamagotchi cumple 30 años: el juguete sin gráficos avanzados ni internet que enseñó a cuidar de una pantalla",
-      "link": "https://www.prensalibre.com/vida/tecnologia/tamagotchi-cumple-30-anos-el-juguete-sin-graficos-avanzados-ni-internet-que-enseno-a-cuidar-de-una-pantalla/",
-      "fecha": "Fri, 20 Nov 2026 12:00:00 +0000",
-      "categoria": "Tecnología",
-      "resumen": "La mascota digital que cambió las reglas del ocio interactivo supera los 100 millones de unidades vendidas en todo el mundo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "BCIE reconoce a 17 mipymes de Guatemala por sus prácticas sostenibles y entrega más de US$77 mil",
-      "link": "https://www.prensalibre.com/economia/bcie-reconoce-a-17-mipymes-de-guatemala-por-sus-practicas-sostenibles-y-entrega-mas-de-us77-mil/",
-      "fecha": "Fri, 20 Nov 2026 11:00:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Las empresas reconocidas, ubicadas en cuatro departamentos del país, implementaron medidas de adaptación climática para mejorar su producción y fortalecer sus negocios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Apertura 2026: 133 jugadores han celebrado goles y Héctor Morales domina la clasificación",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-133-jugadores-han-celebrado-goles-y-hector-morales-domina-la-clasificacion-breaking/",
-      "fecha": "Fri, 20 Nov 2026 10:04:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "El atacante de Aurora FC suma 11 tantos y Municipal encabeza el registro de goleadores por equipo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miss Universo 2026: Quiénes serán los presentadores del certamen de belleza internacional",
-      "link": "https://www.prensalibre.com/vida/escenario/miss-universo-2026-quienes-seran-los-presentadores-del-certamen-de-belleza-internacional/",
-      "fecha": "Fri, 20 Nov 2026 10:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La organización del certamen de belleza, por sus siglas en ingles (MUO), reveló a los presentadores de la gran final de Miss Universo 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "JM da opinión favorable a préstamos por US$500 millones: ¿en qué se invertirán y qué falta para aprobarlos?",
-      "link": "https://www.prensalibre.com/economia/junta-monetaria-da-opinion-favorable-a-prestamos-por-us500-millones-en-que-se-invertiran-y-que-falta-para-aprobarlos/",
-      "fecha": "Fri, 20 Nov 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "La Junta Monetaria (JM) emitió opinión favorable sobre dos operaciones de crédito por US$250 millones cada una, con el Banco Mundial (BM), destinadas a financiar proyectos de infraestructura para la transición energética y la recuperación de la aviación civil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Un asalto o una intimidación anticipada?",
-      "link": "https://www.prensalibre.com/opinion/editorial/un-asalto-o-una-intimidacion-anticipada/",
-      "fecha": "Fri, 20 Nov 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "El Ministerio Público tendrá una misión muy delicada al investigar denuncias de recursos ilícitos en campañas electorales."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué pueden dolerle las articulaciones con el frío y qué puede hacer",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/por-que-pueden-dolerle-las-articulaciones-con-el-frio-y-que-puede-hacer/",
-      "fecha": "Fri, 20 Nov 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Los vasos sanguíneos se contraen con el frío, lo que puede reducir el flujo sanguíneo a las articulaciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso se apresura a dictaminar las reformas a la Ley de Contrataciones, mientras analistas advierten riesgos de opacidad y corrupción",
-      "link": "https://www.prensalibre.com/guatemala/politica/congreso-se-apresura-a-dictaminar-las-reformas-a-la-ley-de-contrataciones-mientras-analistas-advierten-riesgos-de-opacidad-y-corrupcion/",
-      "fecha": "Fri, 20 Nov 2026 06:05:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El oficialismo insiste en que los cambios a la Ley de Contrataciones se deben conocer de urgencia nacional, mientras sectores empresariales, sociales y academia, advierten riesgos de apresurar el proceso."
-    },
-    {
       "fuente": "Guatemala.com",
       "titulo": "¿Dónde comprar árboles de Navidad en Guatemala?",
       "link": "https://www.guatemala.com/noticias/sociedad/lugares-para-comprar-pinabetes-en-guatemala.html",
@@ -865,14 +873,6 @@
       "fecha": "Tue, 17 Nov 2026 23:30:15 +0000",
       "categoria": "Tecnología",
       "resumen": "La app Vivi MuniGuate cuenta con un asistente de Inteligencia Artificial y otras opciones para conocer cómo está el tráfico en Ciudad Guatemala.\nThe post Vivi MuniGuate, la nueva app para conocer cómo está el tráfico en Ciudad Guatemala appeared first on Guatemala.com."
-    },
-    {
-      "fuente": "Guatemala.com",
-      "titulo": "Anuncian reducción de carril en el Bulevar Liberación por AeroMetro, noviembre y diciembre 2026",
-      "link": "https://www.guatemala.com/noticias/comunidad/anuncian-nueva-reduccion-carril-bulevar-liberacion-aerometro-2026.html",
-      "fecha": "Tue, 17 Nov 2026 22:06:32 +0000",
-      "categoria": "Comunidad",
-      "resumen": "La construcción del AeroMetro continúa y a partir del 20 de noviembre de 2026 se reducirá la circulación en una nueva área del Bulevar Liberación.\nThe post Anuncian reducción de carril en el Bulevar Liberación por AeroMetro, noviembre y diciembre 2026 appeared first on Guatemala.com."
     }
   ]
 }
