@@ -1,7 +1,287 @@
 {
-  "actualizado": "2026-11-24T05:48:06.222Z",
+  "actualizado": "2026-11-24T17:19:32.534Z",
   "total": 99,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las lecciones que el regreso de Jensen Huang a Nvidia le enseña a Xi Jinping sobre cómo tratar a Trump",
+      "link": "https://www.prensalibre.com/guatemala/las-lecciones-que-el-regreso-de-jensen-huang-a-nvidia-le-ensena-a-xi-jinping-sobre-como-tratar-a-trump/",
+      "fecha": "Tue, 24 Nov 2026 16:49:32 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El regreso de Huang al frente de Nvidia no garantiza ningún alivio para Pekín, pero si le da pistas sobre cómo tratar a Trump."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quién era alias &#8220;El Coletas&#8221;, el narco colombiano que murió tras ser baleado en un estacionamiento en España",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-era-alias-el-coletas-el-narco-colombiano-que-murio-tras-ser-baleado-en-un-estacionamiento-en-espana/",
+      "fecha": "Tue, 24 Nov 2026 16:13:29 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El ataque ocurrió en el estacionamiento en Madrid. El ciudadano colombiano había sido requerido por las autoridades españolas y estadounidenses."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Copa América 2028 tendrá 16 selecciones y se jugará en EE. UU.: ¿qué necesita Guatemala para conseguir un boleto?",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/copa-america-2028-tendra-16-selecciones-y-se-jugara-en-ee-uu-que-necesita-guatemala-para-conseguir-un-boleto/",
+      "fecha": "Tue, 24 Nov 2026 15:55:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Tras confirmarse que Estados Unidos albergará el certamen con 16 participantes, la Bicolor tendrá como primer desafío clasificar a la Copa Oro 2027, torneo que servirá como vía de acceso para los seis representantes de la región en la máxima competición sudamericana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Roxana Baldetti llega en ambulancia a tribunal para la colocación de dispositivo de control telemático",
+      "link": "https://www.prensalibre.com/guatemala/justicia/roxana-baldetti-llega-en-ambulancia-a-tribunal-para-la-colocacion-de-dispositivo-de-control-telematico-breaking/",
+      "fecha": "Tue, 24 Nov 2026 15:51:00 +0000",
+      "categoria": "Justicia",
+      "resumen": "Roxana Baldetti porta dispositivo de control telemático tras resolución del tribunal en el caso Agua Mágica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Del regreso del Capitán América a los X-Men: las revelaciones que deja el tráiler final de Doomsday",
+      "link": "https://www.prensalibre.com/vida/escenario/del-regreso-del-capitan-america-a-los-x-men-las-revelaciones-que-deja-el-trailer-final-de-doomsday/",
+      "fecha": "Tue, 24 Nov 2026 15:43:22 +0000",
+      "categoria": "Escenario",
+      "resumen": "Los hermanos Russo han adelantado que Doomsday será lo opuesto a Endgame, pues apostará por la supervivencia, la tensión y el terror en lugar de una celebración triunfal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "A seis años de la muerte de Diego Armando Maradona: cuándo se conocerá la sentencia del juicio",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/a-seis-anos-de-la-muerte-de-diego-armando-maradona-cuando-se-conocera-la-sentencia-del-juicio/",
+      "fecha": "Tue, 24 Nov 2026 15:32:48 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Seis años después de la muerte de Diego Maradona, la justicia argentina se prepara para emitir una sentencia histórica en el juicio contra seis integrantes del equipo médico que lo atendió."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Motoristas intentan asaltar a un conductor y abandonan la motocicleta en medio del tránsito en la zona 3",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/motoristas-intentan-asaltar-a-un-conductor-y-abandonan-la-motocicleta-en-medio-del-transito-en-la-zona-3-breaking/",
+      "fecha": "Tue, 24 Nov 2026 15:26:34 +0000",
+      "categoria": "Sucesos",
+      "resumen": "La Policía Municipal de Tránsito (PMT) informó que una motocicleta fue abandonada tras un intento de asalto en la zona 3 de la capital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué el Barcelona y Florentino Pérez están citados en los juzgados de Madrid?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/por-que-el-barcelona-y-florentino-perez-estan-citados-en-los-juzgados-de-madrid/",
+      "fecha": "Tue, 24 Nov 2026 14:35:19 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Florentino Pérez y el Barcelona se citan en Madrid por las acusaciones del presidente blanco sobre los árbitros, en un pulso judicial ligado al caso Negreira."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miss Universo 2026: tres candidatas centroamericanas destacan en la votación de trajes nacionales",
+      "link": "https://www.prensalibre.com/vida/escenario/miss-universo-2026-tres-candidatas-centroamericanas-destacan-en-la-votacion-de-trajes-nacionales/",
+      "fecha": "Tue, 24 Nov 2026 14:33:33 +0000",
+      "categoria": "Escenario",
+      "resumen": "A pocas horas de la gran final de Miss Universo 2026, la organización compartió los nombres de las candidatas que lideran la votación de trajes nacionales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Amarini Villatoro y Cartaginés remontan ante Alajuelense y pelean por el liderato en Costa Rica",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/amarini-villatoro-y-cartagines-remontan-ante-alajuelense-y-pelean-por-el-liderato-en-costa-rica/",
+      "fecha": "Tue, 24 Nov 2026 14:16:25 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "El Cartaginés del guatemalteco Marvin Amarini Villatoro dio vuelta al marcador, venció 2-1 a Alajuelense y se mantiene en la lucha por el liderato del Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miss Universo 2026: cuándo y cómo ver el concurso de belleza internacional",
+      "link": "https://www.prensalibre.com/vida/escenario/miss-universo-2026-cuando-y-como-ver-el-concurso-de-belleza-internacional/",
+      "fecha": "Tue, 24 Nov 2026 13:55:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La sustituta de la mexicana Fátima Bosch será seleccionada el martes 24 de noviembre durante la gala que se celebrará en Puerto Rico."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso COG: MP y PNC buscan capturar a Gerardo Aguirre y otros exdirectivos durante allanamientos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/mp-y-pnc-desarrollan-allanamientos-en-seguimiento-a-un-caso-vinculado-con-el-comite-olimpico-guatemalteco-breaking/",
+      "fecha": "Tue, 24 Nov 2026 13:22:42 +0000",
+      "categoria": "Justicia",
+      "resumen": "Investigadores desarrollan ocho allanamientos este martes en seguimiento a un caso bajo reserva vinculado con el Comité Olímpico Guatemalteco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Policías auxilian a motorista accidentado y descubren que llevaba una pistola ilegal",
+      "link": "https://www.prensalibre.com/guatemala/justicia/policias-auxilian-a-motorista-accidentado-y-descubren-que-llevaba-una-pistola-ilegal-breaking/",
+      "fecha": "Tue, 24 Nov 2026 13:04:21 +0000",
+      "categoria": "Justicia",
+      "resumen": "Agentes de la Policía Nacional Civil auxilian a un motorista accidentado en Puerto Barrios, Izabal, y descubren que porta un arma de fuego de manera ilegal."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Primera División: Edy Arenas y Klissman Lemus protagonizan el duelo de técnicos guatemaltecos en la final del Apertura",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/primera-division-edy-arenas-y-klissman-lemus-protagonizan-el-duelo-de-tecnicos-guatemaltecos-en-la-final-del-apertura-breaking/",
+      "fecha": "Tue, 24 Nov 2026 13:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Atlético Mictlán y Nueva Santa Rosa disputarán el campeonato bajo la dirección de dos estrategas guatemaltecos que buscan hacer historia en la Primera División."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Accidente en la ruta al Atlántico deja dos muertos y complica el tránsito hacia el norte de la capital",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-en-la-ruta-al-atlantico-deja-dos-muertos-y-complica-el-transito-hacia-el-norte-de-la-capital-breaking/",
+      "fecha": "Tue, 24 Nov 2026 12:32:20 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Un accidente mortal en la ruta al Atlántico complica el tránsito en ambos sentidos y obliga a las autoridades a modificar el carril reversible en la zona 17."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Temblor de magnitud 5.3 este 24 de noviembre: esto informa el Insivumeh",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-magnitud-5-3-este-24-de-noviembre-esto-informa-el-insivumeh-breaking/",
+      "fecha": "Tue, 24 Nov 2026 12:26:07 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Insivumeh proporcionó detalles sobre el temblor registrado este martes 24 de noviembre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dos películas católicas se proyectan en cines de Guatemala por tiempo limitado",
+      "link": "https://www.prensalibre.com/vida/escenario/dos-peliculas-catolicas-se-proyectan-en-cines-de-guatemala-por-tiempo-limitado/",
+      "fecha": "Tue, 24 Nov 2026 12:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "\"Recen por mí: la historia de Francisco\" y \"Las valientes de Dios\" estarán disponibles en cartelera solo por unos días. Conozca todos los detalles."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jesús Nazareno de Candelaria: cuándo será la procesión extraordinaria por los 100 años bajo la advocación de Cristo Rey",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/jesus-nazareno-de-candelaria-anuncian-procesion-extraordinaria-por-cumplir-100-anos-bajo-la-advocacion-de-cristo-rey/",
+      "fecha": "Tue, 24 Nov 2026 10:00:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "La imagen de Jesús Nazareno de Candelaria, “Cristo Rey”, recorrerá las calles de la ciudad de Guatemala justo antes del inicio de la Cuaresma del 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Quienes hoy son oficialistas no han hecho absolutamente nada por cambiar el sistema”: Paul Boteo, sobre negociaciones del Presupuesto 2027",
+      "link": "https://www.prensalibre.com/guatemala/politica/quienes-hoy-son-oficialistas-no-han-hecho-absolutamente-nada-por-cambiar-el-sistema-paul-boteo-sobre-negociaciones-del-presupuesto-2027/",
+      "fecha": "Tue, 24 Nov 2026 10:00:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Paul Boteo, analista de la Fundación Libertad y Desarrollo, expone los riesgos que corre el país si los diputados aprueban de urgencia nacional el Presupuesto 2027 y los cambios a la Ley de Contrataciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "IGM y Salud mantienen vigilancia en el ingreso de viajeros para prevenir posibles casos de sarampión",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/igm-y-salud-mantienen-vigilancia-en-el-ingreso-de-viajeros-para-prevenir-posibles-casos-de-sarampion/",
+      "fecha": "Tue, 24 Nov 2026 10:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "El Instituto Guatemalteco de Migración trabaja con el Ministerio de Salud en la identificación de posibles casos importados de sarampión, mediante controles y protocolos de vigilancia en fronteras, puertos y aeropuertos, ante la circulación del virus en varios países de América."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Real Madrid vs. PSV Eindhoven: fecha, hora y dónde ver el partido de Champions League",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-vs-psv-eindhoven-fecha-hora-y-donde-ver-el-partido-de-champions-league/",
+      "fecha": "Tue, 24 Nov 2026 10:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Real Madrid y PSV Eindhoven vuelven a verse las caras en Europa 37 años después, con los blancos buscando su décimo triunfo consecutivo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Condado Naranjo: &#8220;Necesitamos una ciudad donde la gente pueda caminar&#8221;",
+      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/condado-naranjo-necesitamos-una-ciudad-donde-la-gente-pueda-caminar/",
+      "fecha": "Tue, 24 Nov 2026 10:00:00 +0000",
+      "categoria": "Guatemala No Se Detiene",
+      "resumen": "Miguel Fernández, director de Condado Naranjo, plantea acercar empleos, comercios y servicios a la vivienda \"para que la gente pueda pasar menos tiempo en el carro\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Hoy de nuevo me encuentro humillada, expuesta y herida&#8221;: Gisèle Pelicot denuncia que enviaron fotos desnudas suyas a los medios",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/hoy-de-nuevo-me-encuentro-humillada-expuesta-y-herida-gisele-pelicot-denuncia-que-enviaron-fotos-desnudas-suyas-a-los-medios/",
+      "fecha": "Tue, 24 Nov 2026 08:49:49 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Esta mujer francesa se hizo conocida tras renunciar al anonimato en el juicio contra su marido que fue condenado por violarla mientras dormía y permitir que otros hombres lo hicieran."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Puerto Quetzal elimina medidas especiales y reactiva cobros: qué cambiará para transportistas e importadores",
+      "link": "https://www.prensalibre.com/economia/puerto-quetzal-elimina-medidas-especiales-y-reactiva-cobros-que-cambiara-para-transportistas-e-importadores/",
+      "fecha": "Tue, 24 Nov 2026 06:10:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La Empresa Portuaria Quetzal (EPQ), en Escuintla, informó que levantará las medidas de facilitación de las operaciones portuarias adoptadas en el 2024, debido al incremento de buques en fondeo y a los problemas de hundimiento registrados durante el invierno en el kilómetro 44 de la autopista Palín-Escuintla, que provocaron demoras en el transporte de carga."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El regreso",
+      "link": "https://www.prensalibre.com/opinion/caricatura/el-regreso-5/",
+      "fecha": "Tue, 24 Nov 2026 06:06:00 +0000",
+      "categoria": "Caricatura",
+      "resumen": "Caricatura de Fo"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Disturbios en Soloma repiten sombrío síntoma",
+      "link": "https://www.prensalibre.com/opinion/editorial/disturbios-en-soloma-repiten-sombrio-sintoma/",
+      "fecha": "Tue, 24 Nov 2026 06:05:00 +0000",
+      "categoria": "Editorial",
+      "resumen": "La ruta es generar confianza con resultados efectivos y coherencia de acción."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tan solo un minuto de esta actividad puede reducir los picos de azúcar en la sangre",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/tan-solo-un-minuto-de-esta-actividad-puede-reducir-los-picos-de-azucar-en-la-sangre/",
+      "fecha": "Tue, 24 Nov 2026 06:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Las fiestas de fin de año y los convivios traen alegría y emoción, pero son un riesgo para el control de su azúcar en sangre."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Netanyahu podría perder protección en su juicio por corrupción si deja de ser primer ministro de Israel",
+      "link": "https://www.prensalibre.com/internacional/netanyahu-podria-perder-proteccion-en-su-juicio-por-corrupcion-si-deja-de-ser-primer-ministro-de-israel/",
+      "fecha": "Tue, 24 Nov 2026 06:05:00 +0000",
+      "categoria": "Internacional",
+      "resumen": "Tras perder la mayoría parlamentaria, Benjamin Netanyahu enfrenta negociaciones para formar gobierno, mientras su defensa judicial y una posible salida hacia la presidencia cobran relevancia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Análisis: el interés electoral marca la agenda del Congreso al final del periodo de sesiones",
+      "link": "https://www.prensalibre.com/guatemala/politica/analisis-el-interes-electoral-marca-la-agenda-del-congreso-al-final-del-periodo-de-sesiones/",
+      "fecha": "Tue, 24 Nov 2026 06:04:00 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El presupuesto del 2027 se perfila como el principal objetivo de los acuerdos políticos en el Congreso, según analistas, quienes consideran que la aprobación de varias leyes forma parte de negociaciones para distribuir recursos públicos entre las bancadas con fines electorales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Más presupuesto, pero ¿mejores resultados?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/mas-presupuesto-pero-mejores-resultados/",
+      "fecha": "Tue, 24 Nov 2026 06:03:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Guatemala se encamina a aprobar un exorbitante presupuesto para 2027 en pleno año electoral."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un gobierno sin autoridad",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/un-gobierno-sin-autoridad/",
+      "fecha": "Tue, 24 Nov 2026 06:02:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "La tibieza con la que el Ejecutivo aborda estos episodios transmite una peligrosa sensación de debilidad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Particularidades del cafecito",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/particularidades-del-cafecito/",
+      "fecha": "Tue, 24 Nov 2026 06:01:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "Así que, lectores, no olviden de beber café negro por la mañana."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Horóscopo de hoy martes 24 de noviembre de 2026",
+      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-martes-24-de-noviembre-de-2026/",
+      "fecha": "Tue, 24 Nov 2026 06:01:00 +0000",
+      "categoria": "Vida",
+      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Qué tan abultada es, y puede ser, la burocracia?",
+      "link": "https://www.prensalibre.com/opinion/columnasdiarias/que-tan-abultada-es-y-puede-ser-la-burocracia/",
+      "fecha": "Tue, 24 Nov 2026 06:00:00 +0000",
+      "categoria": "Columnas Diarias",
+      "resumen": "Evitemos la espiral de la muerte."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las “midterms” y Venezuela",
+      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/las-midterms-y-venezuela/",
+      "fecha": "Tue, 24 Nov 2026 06:00:00 +0000",
+      "categoria": "Plumas invitadas",
+      "resumen": "Trump no puede concluir su mandato sin que Venezuela deje de tener un gobierno liderizado por personas que han sido aliados del Irán de los Ayatollas, de China, Rusia, Hezbollah y Hamas."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La promoción que premiará la confianza de los clientes de remesas",
@@ -513,286 +793,6 @@
       "fecha": "Mon, 23 Nov 2026 06:05:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Como toda reunión de jefes con alto nivel mundial, los documentos recogen declaraciones tras cortinas de niebla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Reino Unido da un paso para revertir el Brexit: los acuerdos con la Unión Europea y lo que podría cambiar",
-      "link": "https://www.prensalibre.com/internacional/reino-unido-da-un-paso-para-revertir-el-brexit-los-acuerdos-con-la-union-europea-y-lo-que-podria-cambiar/",
-      "fecha": "Mon, 23 Nov 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "El Gobierno británico alcanza acuerdos comerciales y de movilidad con Bruselas, mientras crece el respaldo ciudadano a recuperar vínculos con la Unión Europea."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La ley de contrataciones debe analizarse a fondo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-ley-de-contrataciones-debe-analizarse-a-fondo/",
-      "fecha": "Mon, 23 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "No por correr amanece más temprano"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La justicia que tarda",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-justicia-que-tarda/",
-      "fecha": "Mon, 23 Nov 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La justicia penal es el mayor reto para fortalecer el Estado de derecho en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Remesas que compran menos",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/remesas-que-compran-menos/",
-      "fecha": "Mon, 23 Nov 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El menor dinamismo de las remesas exige acelerar reformas que generen inversión y empleo formal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ejecución presupuestaria del Estado",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/ejecucion-presupuestaria-del-estado/",
-      "fecha": "Mon, 23 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Los diputados se aumentaron el sueldo mensual a Q66,300.00."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Congreso entra en semana decisiva: presupuesto 2027 y Ley de Contrataciones reciben críticas por deuda, gasto y transparencia",
-      "link": "https://www.prensalibre.com/economia/congreso-entra-en-semana-decisiva-presupuesto-2027-y-ley-de-contrataciones-criticas-por-deuda-gasto-y-transparencia/",
-      "fecha": "Mon, 23 Nov 2026 06:01:00 +0000",
-      "categoria": "Economía",
-      "resumen": "El Organismo Legislativo se prepara para conocer esta semana iniciativas relacionadas con la política fiscal, en medio de crecientes críticas y cuestionamientos al proyecto de presupuesto para el 2027 y a las reformas a la Ley de Contrataciones del Estado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy lunes 23 de noviembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-lunes-23-de-noviembre-de-2026/",
-      "fecha": "Mon, 23 Nov 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La entrevista de la BBC a Litvinenko tras el envenenamiento que cambió la relación de Rusia con Occidente hace 20 años",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-entrevista-de-la-bbc-a-litvinenko-tras-el-envenenamiento-que-cambio-la-relacion-de-rusia-con-occidente-hace-20-anos/",
-      "fecha": "Mon, 23 Nov 2026 04:01:03 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Doce días antes de su muerte, de la que se cumplen dos décadas, Alexander Litvinenko concedió una breve entrevista a la BBC. Resultó ser la última grabación de una conversación suya que se hizo pública."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Golpe para Aurora: Marquense lo remonta 2-1 y lo complica en la clasificación",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/golpe-para-aurora-marquense-lo-remonta-2-1-y-lo-complica-en-la-clasificacion-breaking/",
-      "fecha": "Mon, 23 Nov 2026 03:12:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Aurora se puso arriba en su primera llegada, pero Marquense no se descontroló: empató antes del descanso y encontró en el segundo tiempo el gol que lo sacó de una mala racha."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Traje de baño y vestido de gala: así fue la presentación de la guatemalteca Adelina Castillo en la competencia preliminar de Miss Universo 2026",
-      "link": "https://www.prensalibre.com/vida/escenario/traje-de-bano-y-vestido-de-gala-asi-fue-la-presentacion-de-la-guatemalteca-adelina-castillo-en-la-competencia-preliminar-de-miss-universo-2026/",
-      "fecha": "Mon, 23 Nov 2026 02:03:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "Adelina Castillo desfiló por la pasarela de Miss Universo 2026 este domingo 22 de noviembre, a la espera de la clasificación a la gran final."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El Olimpia de Tim Payne se corona campeón en Paraguay tras una remontada agónica que desató la celebración",
-      "link": "https://www.prensalibre.com/deportes/deporte-internacional/el-olimpia-de-tim-payne-se-corona-campeon-en-paraguay-tras-una-remontada-agonica-que-desato-la-celebracion/",
-      "fecha": "Mon, 23 Nov 2026 01:33:07 +0000",
-      "categoria": "Deporte Internacional",
-      "resumen": "Olimpia remontó ante Trinidense y conquistó anticipadamente el Clausura paraguayo, sumando su título 49 y logrando un histórico doblete en 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mictlán golea a Aguacatán y se clasifica a la final, en la que enfrentará a Nueva Santa Rosa",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/mictlan-golea-a-aguacatan-y-se-clasifica-a-la-final-en-la-que-enfrentara-a-nueva-santa-rosa-breaking/",
-      "fecha": "Mon, 23 Nov 2026 01:18:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los finalistas de la Primera División ya están definidos: Mictlán goleó 5-1 a Aguacatán este domingo y se unió a Nueva Santa Rosa en la lucha por el título del Apertura 2026, en una final de ida y vuelta."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Municipal no puede en casa: Antigua le saca el empate en un partido de tres expulsados",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/municipal-no-puede-en-casa-antigua-le-saca-el-empate-en-un-partido-de-tres-expulsados-breaking/",
-      "fecha": "Mon, 23 Nov 2026 01:02:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Luis Morán sostuvo a Antigua con tres atajadas de mérito y Municipal no logró romper el cero, en un partido de expulsiones, protestas y revisiones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Vuelos en Navidad y Año Nuevo: por qué el 12 de diciembre podría ser una fecha clave para los viajeros en EE. UU.",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/vuelos-en-navidad-y-ano-nuevo-por-que-el-12-de-diciembre-podria-ser-una-fecha-clave-para-los-viajeros-en-ee-uu/",
-      "fecha": "Mon, 23 Nov 2026 00:46:43 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Millones de viajeros podrían enfrentar dificultades para reunirse con sus familias esta Navidad. Un posible cierre del Gobierno estadounidense amenaza con generar retrasos, cancelaciones y largas filas en los aeropuertos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miley Cyrus y Maxx Morando se casan: así fue su boda en California",
-      "link": "https://www.prensalibre.com/vida/escenario/miley-cyrus-y-maxx-morando-se-casan-asi-fue-su-boda-en-california/",
-      "fecha": "Mon, 23 Nov 2026 00:44:54 +0000",
-      "categoria": "Escenario",
-      "resumen": "Los artistas contrajeron matrimonio este fin de semana en una ceremonia que reunió a familiares y amigos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Marquense vs. Aurora: siga el minuto a minuto de la jornada 21",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-marquense-vs-aurora-siga-el-minuto-a-minuto-de-la-jornada-21-breaking/",
-      "fecha": "Mon, 23 Nov 2026 00:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los leones reciben a los aurinegros hoy a las 7:10 PM en el Marquesa de la Ensenada, en el cierre de la jornada 21, un duelo de equipos igualados con 25 puntos que buscan sumar para acercarse al sexto lugar, aunque con pocas probabilidades de clasificar a la fase final."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gobierno de Colombia pide a X suspender la cuenta de Gustavo Petro: ¿qué publicó el expresidente?",
-      "link": "https://www.prensalibre.com/internacional/gobierno-de-colombia-pide-a-x-suspender-la-cuenta-de-gustavo-petro-que-publico-el-expresidente/",
-      "fecha": "Sun, 22 Nov 2026 23:49:22 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una publicación de Gustavo Petro desató una solicitud del Gobierno colombiano a X. El mensaje del expresidente llama a exigir la renuncia de Abelardo de la Espriella."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cobán se mete en la pelea: gana 2-0 a San Pedro y llega a la última fecha con opciones",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/coban-se-mete-en-la-pelea-gana-2-0-a-san-pedro-y-llega-a-la-ultima-fecha-con-opciones-breaking/",
-      "fecha": "Sun, 22 Nov 2026 23:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Cobán Imperial venció 2-0 a San Pedro en el estadio José Ángel Rossi, por la jornada 21 del Apertura 2026 con goles de Uri Amaral y Janderson Pereira."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tráiler daña el puente Universidad en zona 12: Municipalidad evalúa riesgos y posible responsabilidad por reparaciones",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/trailer-dana-el-puente-universidad-en-zona-12-municipalidad-evalua-riesgos-y-posible-responsabilidad-por-reparaciones/",
-      "fecha": "Sun, 22 Nov 2026 22:50:08 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Un furgón impactó el puente Universidad al intentar pasar por un área destinada al Transmetro. La Municipalidad evalúa los daños y las posibles responsabilidades legales del conductor."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemaltecos ganan competencia y crean campaña para &#8220;The Chosen&#8221; Latinoamérica",
-      "link": "https://www.prensalibre.com/vida/escenario/guatemaltecos-ganan-competencia-y-crean-campana-para-the-chosen-latinoamerica/",
-      "fecha": "Sun, 22 Nov 2026 22:28:43 +0000",
-      "categoria": "Escenario",
-      "resumen": "Estudiantes de la Universidad Rafael Landívar ganan una competencia promovida por los productores de \"The Chosen\" para la sexta temporada de la serie."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala hace valer su localía y conquista tres oros en el International Series 2026",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/guatemala-hace-valer-su-localia-y-conquista-tres-oros-en-el-international-series-2026-breaking/",
-      "fecha": "Sun, 22 Nov 2026 22:00:18 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La delegación nacional tuvo una destacada actuación en el Guatemala International Series 2026, disputado en el Coliseo Deportivo, con Kevin Cordón como una de las grandes figuras."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Municipal vs. Antigua: siga el minuto a minuto de la jornada 21",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-municipal-vs-antigua-siga-el-minuto-a-minuto-de-la-jornada-21-breaking/",
-      "fecha": "Sun, 22 Nov 2026 22:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los escarlatas reciben al líder colonial hoy a las 5:05 PM en el estadio Manuel Felipe Carrera, del Trébol, en uno de los partidos más atractivos de la jornada."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un familiar de Rafael Caro Quintero muere a balazos en México: esto revelaron las autoridades sobre el ataque",
-      "link": "https://www.prensalibre.com/internacional/un-familiar-de-rafael-caro-quintero-muere-a-balazos-en-mexico-esto-revelaron-las-autoridades-sobre-el-ataque/",
-      "fecha": "Sun, 22 Nov 2026 21:51:43 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un familiar del narcotraficante Rafael Caro Quintero y su escolta, un militar retirado, murieron en un ataque armado en Puebla. Las autoridades investigan el doble homicidio."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Matan a empresario y exconcejal de Coatepeque durante actividad religiosa en Retalhuleu",
-      "link": "https://www.prensalibre.com/guatemala/sucesos/matan-a-empresario-y-exconcejal-de-coatepeque-durante-actividad-religiosa-en-retalhuleu/",
-      "fecha": "Sun, 22 Nov 2026 21:48:43 +0000",
-      "categoria": "Sucesos",
-      "resumen": "Hains Udiel Muñoz Rabanales, de 64 años, fue atacado a balazos en el caserío La Ceibilla, en el sector de Caballo Blanco. La víctima era empresario de telecomunicaciones y había integrado el Concejo Municipal de Coatepeque."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Frío en Guatemala: dónde están los albergues habilitados y cómo solicitar ayuda",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/frio-en-guatemala-donde-estan-los-albergues-habilitados-y-como-solicitar-ayuda/",
-      "fecha": "Sun, 22 Nov 2026 21:10:06 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Conred identifica más de 2 mil espacios que podrían funcionar como albergues temporales. Los refugios habilitados generalmente atienden de 18.00 a 6.00 horas y ofrecen alimentación, abrigo y artículos de higiene."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pago semanal y jornadas de cinco horas: la oferta de Chiapas para que los migrantes no sigan hacia Estados Unidos",
-      "link": "https://www.prensalibre.com/migrantes-2/pago-semanal-y-jornadas-de-cinco-horas-la-oferta-de-chiapas-para-que-los-migrantes-no-sigan-hacia-estados-unidos/",
-      "fecha": "Sun, 22 Nov 2026 21:07:48 +0000",
-      "categoria": "migrantes",
-      "resumen": "El Gobierno de Chiapas ofrece empleo, pagos semanales y estancia temporal a migrantes para evitar que continúen hacia Estados Unidos, mientras Trump amenaza con duplicar aranceles a México."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Combustibles en Guatemala: MEM reporta baja en precios de gasolinas y diésel",
-      "link": "https://www.prensalibre.com/economia/mem-reporta-baja-en-precios-de-combustibles/",
-      "fecha": "Sun, 22 Nov 2026 20:54:11 +0000",
-      "categoria": "Economía",
-      "resumen": "Ministerio atribuye descenso en precios a una tendencia internacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "PNC captura a dos personas requeridas por Estados Unidos por transporte ilegal de migrantes",
-      "link": "https://www.prensalibre.com/guatemala/migrantes/pnc-captura-a-dos-personas-requeridas-por-estados-unidos-por-transporte-ilegal-de-migrantes/",
-      "fecha": "Sun, 22 Nov 2026 20:40:58 +0000",
-      "categoria": "Migrantes",
-      "resumen": "Greysy “G”, de 39 años, y Luis “T”, de 38, fueron detenidos en La Gomera, Escuintla, por una orden de extradición relacionada con el transporte y alojamiento de migrantes indocumentados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Estado de sitio podría extenderse más allá de Zacapa e Izabal: lo que dijo el ministro Villeda",
-      "link": "https://www.prensalibre.com/guatemala/justicia/estado-de-sitio-podria-extenderse-mas-alla-de-zacapa-e-izabal-lo-que-dijo-el-ministro-villeda-breaking/",
-      "fecha": "Sun, 22 Nov 2026 20:04:16 +0000",
-      "categoria": "Justicia",
-      "resumen": "La ampliación del estado de sitio podría discutirse con el presidente Bernardo Arévalo y en el Consejo Nacional de Seguridad. Esto explicó el ministro Marco Antonio Villeda."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EN VIVO &#124; Cobán Imperial vs. San Pedro: siga el minuto a minuto de la jornada 21",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/en-vivo-coban-imperial-vs-san-pedro-siga-el-minuto-a-minuto-de-la-jornada-21-breaking/",
-      "fecha": "Sun, 22 Nov 2026 20:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los príncipes azules reciben a los gallos hoy a las 3:00 PM en el partido que abre la jornada dominical, un duelo clave por el sexto lugar de la clasificación del Apertura 2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "COP31: ¿Por qué fracasó la cumbre climática y qué revela sobre la cooperación entre países?",
-      "link": "https://www.prensalibre.com/internacional/cop31-por-que-fracaso-la-cumbre-climatica-y-que-revela-sobre-la-cooperacion-entre-paises/",
-      "fecha": "Sun, 22 Nov 2026 19:41:13 +0000",
-      "categoria": "Internacional",
-      "resumen": "La COP31 terminó sin un acuerdo global tras más de 44 horas adicionales de negociación. Las diferencias entre países impidieron alcanzar un consenso."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Partido político Raíces celebra asamblea y elige a Román Castellanos como secretario general",
-      "link": "https://www.prensalibre.com/guatemala/politica/partido-politico-raices-celebra-asamblea-y-elige-a-roman-castellanos-como-secretario-general/",
-      "fecha": "Sun, 22 Nov 2026 19:27:49 +0000",
-      "categoria": "Política",
-      "resumen": "Los diputados Samuel Pérez, Andrea Villagrán y Patricia Orantes también fueron electos dentro del comité ejecutivo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "San Marcos se lleva la corona de Señora Guatemala 2026",
-      "link": "https://www.prensalibre.com/vida/escenario/san-marcos-se-lleva-la-corona-de-senora-guatemala-2026/",
-      "fecha": "Sun, 22 Nov 2026 19:19:40 +0000",
-      "categoria": "Escenario",
-      "resumen": "Este fin de semana se celebró la XIV edición del certamen Mrs. Guatemala, en la que fue coronada Ana María Lam."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es el Chapo Isidro, el narcotraficante que desafió al Chapo Guzmán y terminó capturado en Sinaloa?",
-      "link": "https://www.prensalibre.com/internacional/quien-es-el-chapo-isidro-el-narcotraficante-que-desafio-al-chapo-guzman-y-termino-capturado-en-sinaloa/",
-      "fecha": "Sun, 22 Nov 2026 19:02:24 +0000",
-      "categoria": "Internacional",
-      "resumen": "De aliado de los Beltrán Leyva a rival del Chapo Guzmán. La historia criminal del Chapo Isidro incluye disputas territoriales, nexos políticos y una presunta alianza con Los Mayos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Alfredo Caxaj: &#8220;Lo que he logrado se lo dedico a mis hermanos&#8221;",
-      "link": "https://www.prensalibre.com/revista-d/alfredo-caxaj-lo-que-he-logrado-se-lo-dedico-a-mis-hermanos/",
-      "fecha": "Sun, 22 Nov 2026 18:01:00 +0000",
-      "categoria": "Revista D",
-      "resumen": "En 1985 llegó como refugiado a Canadá y sufrió discriminación. Cuatro décadas después, su trabajo en favor de la diversidad cultural le ha valido los más importantes reconocimientos  en el país que lo acogió."
     }
   ]
 }
