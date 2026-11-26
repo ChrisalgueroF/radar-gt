@@ -1,7 +1,127 @@
 {
-  "actualizado": "2026-11-25T22:16:03.177Z",
+  "actualizado": "2026-11-26T04:49:02.087Z",
   "total": 99,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Apertura 2026: Municipal consigue un sufrido triunfo ante Aurora con doblete de José Carlos Martínez",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-municipal-consigue-un-sufrido-triunfo-ante-aurora-con-doblete-de-jose-carlos-martinez/",
+      "fecha": "Thu, 26 Nov 2026 04:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Los escarlatas se llevaron un triunfo trabajado en el juego reprogramado de la jornada 19 del Apertura 2026, mientras el conjunto aurinegro quedó eliminado de la liguilla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Salvadoreño gana US$1 millón en la lotería en EE. UU. y termina capturado por el ICE: ¿qué pasará con su premio?",
+      "link": "https://www.prensalibre.com/internacional/estados-unidos/salvadoreno-gana-us1-millon-en-la-loteria-en-ee-uu-y-termina-capturado-por-el-ice-que-pasara-con-su-premio-breaking/",
+      "fecha": "Thu, 26 Nov 2026 03:42:49 +0000",
+      "categoria": "Estados Unidos",
+      "resumen": "Un salvadoreño pasó de ganar US$1 millón en la lotería de Massachusetts a quedar bajo custodia del ICE, que defendió su captura al reivindicar los derechos y privilegios exclusivos de los estadounidenses."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;La violencia de género no discrimina&#8221;: femicidio de Sucely Aguirre alerta sobre los riesgos del abuso de poder en las relaciones de pareja",
+      "link": "https://www.prensalibre.com/guatemala/justicia/la-violencia-de-genero-no-discrimina-femicidio-de-sucely-aguirre-alerta-sobre-los-riesgos-del-abuso-de-poder-en-las-relaciones-de-pareja/",
+      "fecha": "Thu, 26 Nov 2026 03:20:51 +0000",
+      "categoria": "Justicia",
+      "resumen": "Las cámaras de seguridad y los indicios forenses permitieron identificar al principal sospechoso del femicidio de Sucely Aguirre, un caso que reaviva el debate sobre la violencia de pareja y la búsqueda de justicia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fátima Bosch, Miss Universo 2025, presenta a su novio: ¿quién es y qué hace el enamorado?",
+      "link": "https://www.prensalibre.com/vida/escenario/fatima-bosch-miss-universo-2025-presenta-a-su-novio-quien-es-y-que-hace-el-enamorado/",
+      "fecha": "Thu, 26 Nov 2026 03:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La reina de belleza mexicana no quiso dejar pasar ni un día para expresar públicamente su amor por quien tuvo la paciencia de vivir junto a ella las exigencias que le impuso su título."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala cerrará el 2026 con una tasa de interés líder de 3.50% y una inflación proyectada de 4.25%",
+      "link": "https://www.prensalibre.com/economia/guatemala-cerrara-el-2026-con-una-tasa-de-interes-lider-de-3-50-y-una-inflacion-proyectada-de-4-25/",
+      "fecha": "Thu, 26 Nov 2026 01:30:00 +0000",
+      "categoria": "Economía",
+      "resumen": "En  su última sesión del año para evaluar la tasa de interés líder de política monetaria, la Junta Monetaria (JM) decidió mantenerla en 3.50%, informaron esta noche las autoridades monetarias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo califica de “vergonzoso” el presupuesto del 2027 y anuncia acciones para frenar lo aprobado por el Congreso",
+      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-califica-de-vergonzoso-el-presupuesto-del-2027-y-anuncia-acciones-para-frenar-lo-aprobado-por-el-congreso-breaking/",
+      "fecha": "Thu, 26 Nov 2026 01:24:18 +0000",
+      "categoria": "Política",
+      "resumen": "El presidente Bernardo Arévalo cuestionó los recortes en salud, educación y seguridad y anunció medidas para frenar el presupuesto del 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Municipal vs. Aurora EN VIVO: siga el minuto a minuto del partido reprogramado de la jornada 19",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/municipal-vs-aurora-en-vivo-siga-el-minuto-a-minuto-del-partido-reprogramado-de-la-jornada-19/",
+      "fecha": "Thu, 26 Nov 2026 01:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Municipal y Aurora FC se juegan mucho en El Trébol. Ambos necesitan ganar este miércoles, a las 20 horas, en el partido pendiente de la jornada 19."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Del cuchubal al ahorro digital: por qué cuesta ahorrar de manera formal en Guatemala",
+      "link": "https://www.prensalibre.com/economia/del-cuchubal-al-ahorro-digital-por-que-cuesta-ahorrar-de-manera-formal-en-guatemala/",
+      "fecha": "Thu, 26 Nov 2026 00:53:26 +0000",
+      "categoria": "Economía",
+      "resumen": "Aunque cerca de cuatro de cada 10 guatemaltecos tienen una cuenta de ahorro formal, persisten los mecanismos informales y el predominio del efectivo. Las fintech buscan contribuir a transformar estos hábitos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De qué murió Andy Taylor, guitarrista de Duran Duran, a sus 65 años",
+      "link": "https://www.prensalibre.com/vida/escenario/de-que-murio-andy-taylor-guitarrista-de-duran-duran-a-sus-65-anos/",
+      "fecha": "Thu, 26 Nov 2026 00:39:54 +0000",
+      "categoria": "Escenario",
+      "resumen": "El grupo Duran Duran informó este 25 de noviembre sobre la muerte de Andy Taylor, su guitarrista, a los 65 años de edad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Desfile de Macy’s por el Día de Acción de Gracias en Nueva York se pospone: estos son los motivos y la nueva fecha",
+      "link": "https://www.prensalibre.com/internacional/desfile-de-macys-por-el-dia-de-accion-de-gracias-en-nueva-york-se-pospone-estos-son-los-motivos-y-la-nueva-fecha-breaking/",
+      "fecha": "Thu, 26 Nov 2026 00:10:48 +0000",
+      "categoria": "Internacional",
+      "resumen": "El desfile de la gran cadena de almacenes que se lleva a cabo en Nueva York cada Día de Acción de Gracias, ha sido pospuesto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Quiénes son las personas “sándwich” y por qué se les conoce como la generación sobrecargada",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/quienes-son-las-personas-sandwich-y-por-que-se-les-conoce-como-la-generacion-sobrecargada/",
+      "fecha": "Wed, 25 Nov 2026 23:55:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Muchas mujeres y hombres de mediana edad están “emparedados” entre dos responsabilidades que requieren una considerable dedicación y pueden mermar el tiempo propio y el bienestar de quienes las asumen: apoyar a hijos que aún dependen de ellos y atender a padres mayores que necesitan cuidados."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Su quinta tienda en la Ciudad de Guatemala se inauguró en zona 17",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/su-quinta-tienda-en-la-ciudad-de-guatemala-se-inauguro-en-zona-17/",
+      "fecha": "Wed, 25 Nov 2026 23:32:20 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Con más de 5 mil metros cuadrados de espacio comercial, Almacenes SIMAN abrió sus puertas en su nueva tienda en Centro Comercial Portales, con una renovada propuesta en moda, belleza, hogar, tecnología y la experiencia de Café SIMAN para las familias del norte de la ciudad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Jorge Vega brilla en Rusia: gana plata y tendrá un nuevo desafío con el Spartak de Moscú",
+      "link": "https://www.prensalibre.com/deportes/deporte-nacional/jorge-vega-brilla-en-rusia-gana-plata-y-tendra-un-nuevo-desafio-con-el-spartak-de-moscu-breaking/",
+      "fecha": "Wed, 25 Nov 2026 23:30:53 +0000",
+      "categoria": "Deporte Nacional",
+      "resumen": "El gimnasta guatemalteco Jorge Vega ganó la medalla de plata en suelo de la Voronin Cup 2026, en Rusia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "EE. UU. afirma que junto a Guatemala interrumpe las operaciones de los carteles del narcotráfico",
+      "link": "https://www.prensalibre.com/guatemala/justicia/ee-uu-afirma-que-junto-a-guatemala-interrumpe-las-operaciones-de-los-carteles-del-narcotrafico/",
+      "fecha": "Wed, 25 Nov 2026 23:18:58 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Comando Sur de Estados Unidos afirma que la cooperación con Guatemala permite interrumpir las operaciones del narcotráfico, tras una jornada de coordinación militar en Petén."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo afectará a EE. UU. la &#8220;fuerte tormenta costera&#8221; durante el Día de Acción de Gracias",
+      "link": "https://www.prensalibre.com/internacional/como-afectara-a-ee-uu-la-fuerte-tormenta-costera-durante-el-dia-de-accion-de-gracias/",
+      "fecha": "Wed, 25 Nov 2026 22:25:34 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una \"fuerte tormenta costera\" afectará a EE. UU. durante las celebraciones del Día de Acción de Gracias."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Impacto social de ENERGUATE obtiene reconocimiento internacional",
@@ -9,6 +129,22 @@
       "fecha": "Wed, 25 Nov 2026 22:14:53 +0000",
       "categoria": "Vida Empresarial",
       "resumen": "Por su liderazgo en iniciativas de sostenibilidad con resultados positivos para Guatemala, y por su compromiso con el crecimiento profesional, el bienestar y el fortalecimiento de las capacidades de las personas que integran su organización, ENERGUATE, es reconocida con dos importantes premios, durante el Transformation Day by AmCham."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Fuerza Regida en Guatemala 2027: la agrupación de música regional mexicana confirma un concierto en el país",
+      "link": "https://www.prensalibre.com/vida/escenario/fuerza-regida-en-guatemala-2027-la-agrupacion-de-musica-regional-mexicana-confirma-un-concierto-en-el-pais/",
+      "fecha": "Wed, 25 Nov 2026 22:10:43 +0000",
+      "categoria": "Escenario",
+      "resumen": "Fuerza Regida confirmó que ofrecerá un concierto en Guatemala en 2027 como parte de la ampliación de su gira \"This Is Our Dream Tour\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Champions League: así quedó la tabla de posiciones después de la quinta jornada, con el Real Madrid como líder",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/champions-league-asi-quedo-la-tabla-de-posiciones-despues-de-la-quinta-jornada-con-el-real-madrid-como-lider/",
+      "fecha": "Wed, 25 Nov 2026 22:10:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Entre goleadas y resultados inesperados, como la caída del Bayern, la quinta jornada de la Champions dejó al Real Madrid como único líder invicto en victorias."
     },
     {
       "fuente": "Prensa Libre",
@@ -57,14 +193,6 @@
       "fecha": "Wed, 25 Nov 2026 20:35:22 +0000",
       "categoria": "Escenario",
       "resumen": "La nueva película promete ser uno de los atractivos de este fin de año en la plataforma de streaming."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Champions League: así quedó la tabla de posiciones después de la quinta jornada, con el Real Madrid como líder",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/champions-league-asi-quedo-la-tabla-de-posiciones-despues-de-la-quinta-jornada-con-el-real-madrid-como-lider/",
-      "fecha": "Wed, 25 Nov 2026 20:12:34 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Entre goleadas y resultados inesperados, como la caída del Bayern, la quinta jornada de la Champions dejó al Real Madrid como único líder invicto en victorias."
     },
     {
       "fuente": "Prensa Libre",
@@ -168,7 +296,7 @@
       "link": "https://www.prensalibre.com/guatemala/justicia/mp-pide-a-juez-autorizacion-para-investigar-movimientos-financieros-de-roberto-arzu-y-yury-monroy/",
       "fecha": "Wed, 25 Nov 2026 17:01:03 +0000",
       "categoria": "Guatemala",
-      "resumen": "La Fiscalía busca determinar la procedencia de los fondos que Yury Monroy supuestamente entregó a Roberto Arzú para asegurar su participación electoral."
+      "resumen": "La Fiscalía busca determinar la procedencia de los fondos que Yury Monroy supuestamente entregó a Roberto Arzú para asegurar su participación electoral; el político niega los señalamientos y califica como falsa la denuncia."
     },
     {
       "fuente": "Prensa Libre",
@@ -665,134 +793,6 @@
       "fecha": "Tue, 24 Nov 2026 19:06:45 +0000",
       "categoria": "Guatemala",
       "resumen": "Desde el futbolista guatemalteco Luis Bradley hasta el físico Stephen Hawking, el creador de Bob Esponja y el actor Eric Dane, la Esclerosis Lateral Amiotrófica ha marcado la vida de distintas personalidades. Roxana Baldetti afirma haber recibido el mismo diagnóstico."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Real Madrid vs. PSV EN VIVO: sigue el minuto a minuto del partido de Champions League",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-vs-psv-en-vivo-sigue-el-minuto-a-minuto-del-partido-de-champions-league/",
-      "fecha": "Tue, 24 Nov 2026 19:00:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Los merengues buscan su quinta victoria consecutiva en el torneo ante un PSV que necesita sumar para seguir con opciones de avanzar."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Baywatch”: Joseph Baena, hijo de Arnold Schwarzenegger, actuará en la nueva versión de la serie",
-      "link": "https://www.prensalibre.com/vida/escenario/baywatch-joseph-baena-hijo-de-arnold-schwarzenegger-actuara-en-la-nueva-version-de-la-serie/",
-      "fecha": "Tue, 24 Nov 2026 18:33:34 +0000",
-      "categoria": "Escenario",
-      "resumen": "El hijo de Arnold Schwarzenegger y de madre guatemalteca sigue los pasos de su padre y ahora participará en la nueva versión de “Guardianes de la bahía”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“He visto al diablo”: Las confesiones que dejó escritas el papa Francisco en su diario privado",
-      "link": "https://www.prensalibre.com/internacional/he-visto-al-diablo-las-confesiones-que-dejo-escritas-el-papa-francisco-en-su-diario-privado/",
-      "fecha": "Tue, 24 Nov 2026 18:23:17 +0000",
-      "categoria": "Internacional",
-      "resumen": "Jorge Mario Bergoglio escribió 86 páginas antes de su elección papal y otras 55 cuando ya era papa de la Iglesia católica y soberano del Vaticano."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "CC mantiene el IUSI en cero para viviendas a partir de enero de 2027",
-      "link": "https://www.prensalibre.com/guatemala/politica/cc-mantiene-el-iusi-en-cero-para-viviendas-a-partir-de-enero-de-2027/",
-      "fecha": "Tue, 24 Nov 2026 17:57:27 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La decisión fue tomada por cuatro magistrados titulares y un suplente quienes validaron la reforma al IUSI hecha por los diputados en el decreto 18-2026."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Por qué el &#8220;Chapo Isidro&#8221; será juzgado en México pese a que EE. UU. pidió su extradición",
-      "link": "https://www.prensalibre.com/internacional/por-que-el-chapo-isidro-sera-juzgado-en-mexico-pese-a-que-ee-uu-pidio-su-extradicion/",
-      "fecha": "Tue, 24 Nov 2026 17:46:44 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una fiscal informó que el \"Chapo Isidro\", detenido el 20 de noviembre, será juzgado en México, pese a una solicitud de extradición de EE. UU."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto 2027: Comisión de Finanzas recorta más de Q20 mil millones a la propuesta del Ejecutivo",
-      "link": "https://www.prensalibre.com/economia/presupuesto-2027-comision-de-finanzas-recorta-mas-de-q20-mil-millones-a-la-propuesta-del-ejecutivo-breaking/",
-      "fecha": "Tue, 24 Nov 2026 17:30:53 +0000",
-      "categoria": "Economía",
-      "resumen": "La Comisión de Finanzas del Congreso emite dictamen favorable al proyecto de Presupuesto General de Ingresos y Egresos del Estado para el 2027, por un monto de Q172 mil millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Sarampión en América: ¿Por qué Estados Unidos perderá su estatus y qué ocurrirá en Guatemala?",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/sarampion-en-america-por-que-estados-unidos-perdera-su-estatus-y-que-ocurrira-en-guatemala/",
-      "fecha": "Tue, 24 Nov 2026 17:25:26 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "La OPS considera que la transmisión del sarampión se ha restablecido en Estados Unidos y México, como podría ocurrir próximamente en Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Senegal es declarado campeón de la Copa Africana de Naciones tras decisión del TAS",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/senegal-es-declarado-campeon-de-la-copa-africana-de-naciones-tras-decision-del-tas/",
-      "fecha": "Tue, 24 Nov 2026 17:14:48 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "El TAS falló a favor de Senegal y confirmó a los Leones de la Teranga como campeones de la Copa Africana de Naciones, al revertir la decisión que otorgaba el título a Marruecos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Miss Universo 2026: las favoritas del público y los pronósticos de los expertos",
-      "link": "https://www.prensalibre.com/vida/escenario/quien-se-quedara-con-la-corona-de-miss-universo-2026-las-favoritas-del-publico-y-los-pronosticos-de-los-expertos/",
-      "fecha": "Tue, 24 Nov 2026 17:05:55 +0000",
-      "categoria": "Escenario",
-      "resumen": "¿Quién se quedará con la corona? Este martes 24 de noviembre se celebrará la gala final de Miss Universo 2026, en la que se conocerá a las 30 semifinalistas y se elegirá a la nueva soberana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Gerardo Aguirre: de presidente de CDAG a las disputas por el Comité Olímpico y la orden de captura en su contra",
-      "link": "https://www.prensalibre.com/guatemala/justicia/gerardo-aguirre-de-presidente-de-cdag-a-las-disputas-por-el-comite-olimpico-y-la-orden-de-captura-en-su-contra/",
-      "fecha": "Tue, 24 Nov 2026 16:54:27 +0000",
-      "categoria": "Justicia",
-      "resumen": "La PNC confirmó una orden de aprehensión contra Gerardo Aguirre por una investigación del Ministerio Público relacionada con presuntas irregularidades en documentos presupuestarios del Comité Olímpico Guatemalteco."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Las lecciones que el regreso de Jensen Huang a Nvidia le enseña a Xi Jinping sobre cómo tratar a Trump",
-      "link": "https://www.prensalibre.com/guatemala/las-lecciones-que-el-regreso-de-jensen-huang-a-nvidia-le-ensena-a-xi-jinping-sobre-como-tratar-a-trump/",
-      "fecha": "Tue, 24 Nov 2026 16:49:32 +0000",
-      "categoria": "Guatemala",
-      "resumen": "El regreso de Huang al frente de Nvidia no garantiza ningún alivio para Pekín, pero si le da pistas sobre cómo tratar a Trump."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quién era alias &#8220;El Coletas&#8221;, el narco colombiano que murió tras ser baleado en un estacionamiento en España",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/quien-era-alias-el-coletas-el-narco-colombiano-que-murio-tras-ser-baleado-en-un-estacionamiento-en-espana/",
-      "fecha": "Tue, 24 Nov 2026 16:13:29 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "El ataque ocurrió en el estacionamiento en Madrid. El ciudadano colombiano había sido requerido por las autoridades españolas y estadounidenses."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo estará el clima en EE. UU. en la semana y durante el Día de Acción de Gracias",
-      "link": "https://www.prensalibre.com/internacional/como-estara-el-clima-en-ee-uu-en-la-semana-y-durante-el-dia-de-accion-de-gracias/",
-      "fecha": "Tue, 24 Nov 2026 15:55:35 +0000",
-      "categoria": "Internacional",
-      "resumen": "Durante esta semana en Estados Unidos se prevé varias zonas que registrarán fuertes lluvias, nevadas e incluso riesgo de inundaciones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Copa América 2028 tendrá 16 selecciones y se jugará en EE. UU.: ¿qué necesita Guatemala para conseguir un boleto?",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/copa-america-2028-tendra-16-selecciones-y-se-jugara-en-ee-uu-que-necesita-guatemala-para-conseguir-un-boleto/",
-      "fecha": "Tue, 24 Nov 2026 15:55:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Tras confirmarse que Estados Unidos albergará el certamen con 16 participantes, la Bicolor tendrá como primer desafío clasificar a la Copa Oro 2027, torneo que servirá como vía de acceso para los seis representantes de la región en la máxima competición sudamericana."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Roxana Baldetti llega en ambulancia a tribunal para la colocación de dispositivo de control telemático",
-      "link": "https://www.prensalibre.com/guatemala/justicia/roxana-baldetti-llega-en-ambulancia-a-tribunal-para-la-colocacion-de-dispositivo-de-control-telematico-breaking/",
-      "fecha": "Tue, 24 Nov 2026 15:51:00 +0000",
-      "categoria": "Justicia",
-      "resumen": "Roxana Baldetti porta dispositivo de control telemático tras resolución del tribunal en el caso Agua Mágica."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Del regreso del Capitán América a los X-Men: las revelaciones que deja el tráiler final de Doomsday",
-      "link": "https://www.prensalibre.com/vida/escenario/del-regreso-del-capitan-america-a-los-x-men-las-revelaciones-que-deja-el-trailer-final-de-doomsday/",
-      "fecha": "Tue, 24 Nov 2026 15:43:22 +0000",
-      "categoria": "Escenario",
-      "resumen": "Los hermanos Russo han adelantado que Doomsday será lo opuesto a Endgame, pues apostará por la supervivencia, la tensión y el terror en lugar de una celebración triunfal."
     }
   ]
 }
