@@ -1,7 +1,247 @@
 {
-  "actualizado": "2026-11-26T14:52:14.084Z",
+  "actualizado": "2026-11-26T23:37:08.875Z",
   "total": 99,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "De tener la plata dormida a verla crecer todos los días",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/de-tener-la-plata-dormida-a-verla-crecer-todos-los-dias/",
+      "fecha": "Thu, 26 Nov 2026 22:35:46 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Nequi la app financiera 100% digital, respaldada por Bam y con el soporte regional de Grupo Cibest, presenta su propuesta de valor: más que ser una app para enviar dinero les trae a los chapines herramientas para el control y organización de su pisto."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Arévalo vetará el Presupuesto 2027 por recortes a servicios públicos y señala intereses electorales",
+      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-vetara-el-presupuesto-2027-por-recortes-a-servicios-publicos-y-senala-intereses-electorales-breaking/",
+      "fecha": "Thu, 26 Nov 2026 21:53:30 +0000",
+      "categoria": "Política",
+      "resumen": "Bernardo Arévalo anunció que vetará el Presupuesto 2027 por los recortes a ministerios y el aumento de fondos para los Codedes en un año electoral."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Desarticulan estructura criminal “Limpieza Humana” en Petén: capturan a 15 personas, entre ellas agentes de la PNC",
+      "link": "https://www.prensalibre.com/guatemala/justicia/desarticulan-estructura-criminal-limpieza-humana-en-peten-capturan-a-15-personas-entre-ellas-agentes-de-la-pnc/",
+      "fecha": "Thu, 26 Nov 2026 21:36:09 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Las fuerzas de seguridad  desarticularon una organización que es investigada por su presunta vinculación con más de 40 asesinatos.  Gobernación confirmó que aún hay integrantes pendientes de capturar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "AeroMetro: así instalarán, con ayuda de drones, el cable de la Línea 1, que prevé operar en agosto de 2027",
+      "link": "https://www.prensalibre.com/economia/aerometro-asi-instalaran-con-ayuda-de-drones-el-cable-de-la-linea-1-que-preve-operar-en-agosto-de-2027/",
+      "fecha": "Thu, 26 Nov 2026 21:24:47 +0000",
+      "categoria": "Economía",
+      "resumen": "El montaje comenzará en la primera semana de febrero de 2027. El cable tractor moverá 135 cabinas entre la Plaza España y El Trébol."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "La decoración navideña: ¿cuáles son los adornos más comunes en Guatemala?",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/la-decoracion-navidena-cuales-son-los-adornos-mas-comunes-en-guatemala/",
+      "fecha": "Thu, 26 Nov 2026 21:05:00 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Aunque hace mucho tiempo la decoración navideña en el país sigue tendencias internacionales, existen algunos ornamentos propios del país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Dijo que él se quitó la vida: la mujer de Georgia condenada por disparar a su esposo",
+      "link": "https://www.prensalibre.com/internacional/dijo-que-el-se-quito-la-vida-la-mujer-de-georgia-condenada-por-disparar-a-su-esposo/",
+      "fecha": "Thu, 26 Nov 2026 20:48:06 +0000",
+      "categoria": "Internacional",
+      "resumen": "Una mujer de 43 años es declarada culpable del asesinato de su esposo, tras decirle a las autoridades que él se había quitado la vida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Haga su propio gorro navideño: pasos simples para su elaboración",
+      "link": "https://www.prensalibre.com/vida/salud-y-familia/haga-su-propio-gorro-navideno-pasos-simples-para-su-elaboracion/",
+      "fecha": "Thu, 26 Nov 2026 20:21:47 +0000",
+      "categoria": "Salud y Familia",
+      "resumen": "Un accesorio divertido que puede lucirse en las fotografías familiares y darle un toque festivo al atuendo elegido para celebrar."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Cuántos datos habrían obtenido los responsables del ciberataque contra la Fifa?",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/cuantos-datos-habrian-obtenido-los-responsables-del-ciberataque-contra-la-fifa/",
+      "fecha": "Thu, 26 Nov 2026 18:25:47 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La Fifa confirmó este jueves que sufrió un ciberataque que permitió el acceso no autorizado a información personal y empresarial, y condenó enérgicamente lo ocurrido."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Día de Acción de Gracias bajo alerta en EE. UU: Tormentas, inundaciones y nieve afectan al país",
+      "link": "https://www.prensalibre.com/internacional/dia-de-accion-de-gracias-bajo-alerta-en-ee-uu-tormentas-inundaciones-y-nieve-afectan-al-pais/",
+      "fecha": "Thu, 26 Nov 2026 18:03:36 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las alertas de congelamiento abarcan incluso tres estados fronterizos con México: Arizona, Nuevo México y Texas, donde se pronostican tormentas eléctricas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cómo pasó OSMO, la fintech guatemalteca, de vender bitcoin por WhatsApp a facilitar transferencias entre países",
+      "link": "https://www.prensalibre.com/economia/de-vender-bitcoin-por-whatsapp-a-llegar-a-18-paises-el-crecimiento-de-osmo-la-fintech-guatemalteca/",
+      "fecha": "Thu, 26 Nov 2026 18:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Piero Coen, fundador de OSMO, comparte cómo sus primeros negocios, sus aprendizajes y una mala experiencia en Londres dieron origen a la fintech guatemalteca."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Las reuniones, los negocios de cocaína y los nexos del exalcalde Romeo Ramos Cruz que describe la fiscalía de EE. UU.",
+      "link": "https://www.prensalibre.com/guatemala/justicia/las-reuniones-los-negocios-de-cocaina-y-los-nexos-del-exalcalde-romeo-ramos-cruz-que-describe-la-fiscalia-de-ee-uu/",
+      "fecha": "Thu, 26 Nov 2026 17:41:54 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Romeo Ramos Cruz se describía como “el talento” de una operación de narcotráfico mientras era alcalde de Santa Lucía Cotzumalguapa, Escuintla. La Fiscalía de EE. UU. pide nueve años de cárcel para el exfuncionario."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;La suerte se le terminó&#8221;: el migrante que fue detenido por ICE en EE.UU. días después de ganar la lotería",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/la-suerte-se-le-termino-el-migrante-que-fue-detenido-por-ice-en-ee-uu-dias-despues-de-ganar-la-loteria/",
+      "fecha": "Thu, 26 Nov 2026 17:33:12 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Ariel Velásquez había comprado la semana pasada un boleto de lotería instantánea en la ciudad de Boston."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Uno de las víctimas era Marine: qué se sabe del helicóptero accidentado en California",
+      "link": "https://www.prensalibre.com/internacional/uno-de-las-victimas-era-marine-que-se-sabe-del-helicoptero-accidentado-en-california/",
+      "fecha": "Thu, 26 Nov 2026 17:29:18 +0000",
+      "categoria": "Internacional",
+      "resumen": "El pasado 23 de noviembre se registró un accidente de helicóptero en el sur de California que dejó dos personas fallecidas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso COG: allanan de nuevo el Palacio de los Deportes tras designación de directivos interinos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-cog-allanan-de-nuevo-el-palacio-de-los-deportes-tras-designacion-de-directivos-interinos-breaking/",
+      "fecha": "Thu, 26 Nov 2026 17:17:51 +0000",
+      "categoria": "Justicia",
+      "resumen": "El Ministerio Público allana de nuevo el Palacio de los Deportes en busca de indicios de un caso relacionado con el Comité Olímpico Guatemalteco."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Alejandro Cabeza deja Municipal: llegó entre grandes expectativas y se marcha con solo cuatro goles",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/alejandro-cabeza-deja-municipal-llego-entre-grandes-expectativas-y-se-marcha-con-solo-cuatro-goles/",
+      "fecha": "Thu, 26 Nov 2026 17:11:30 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "Municipal confirmó la salida de su delantero ecuatoriano, quien rescindió contrato de mutuo acuerdo por motivos personales, en plena recta final del Apertura 2026."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Por qué la tumba de Matthew Perry ya no alude a &#8220;Friends&#8221;?",
+      "link": "https://www.prensalibre.com/vida/escenario/por-que-la-tumba-de-matthew-perry-ya-no-alude-a-friends/",
+      "fecha": "Thu, 26 Nov 2026 16:56:09 +0000",
+      "categoria": "Escenario",
+      "resumen": "Los fanáticos del personaje Chandler Bing se sorprendieron con el cambio de inscripción en la lápida."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un petrolero con 7.000 toneladas de combustible se hunde cerca de las costas de la isla de Ibiza",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/un-petrolero-con-7-000-toneladas-de-combustible-se-hunde-cerca-de-las-costas-de-la-isla-de-ibiza/",
+      "fecha": "Thu, 26 Nov 2026 16:38:46 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El servicio español de salvamento marítimo aún está evaluando los posibles daños medioambientales"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Impune por 35 años: el caso del médico que abusó de la mejor amiga de su esposa en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/impune-por-35-anos-el-caso-del-medico-que-abuso-de-la-mejor-amiga-de-su-esposa-en-ee-uu/",
+      "fecha": "Thu, 26 Nov 2026 16:34:04 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un médico en EE. UU. deberá pagar más de US$90 millones por abusar de la mejor amiga de su esposa y no levantar sospechas por casi 35 años."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Presupuesto 2027: Cacif reconoce recorte de Q20 mil millones, pero pide reforzar la fiscalización",
+      "link": "https://www.prensalibre.com/economia/presupuesto-2027-cacif-reconoce-recorte-de-q20-mil-millones-pero-pide-reforzar-la-fiscalizacion-breaking/",
+      "fecha": "Thu, 26 Nov 2026 16:33:42 +0000",
+      "categoria": "Economía",
+      "resumen": "Carlos Arias, presidente del Cacif, pide fiscalizar los fondos asignados a los Codedes y las oenegés en el presupuesto del 2027."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Desfile de Macy’s 2026: ¿Por qué se pospone la celebración de Thanksgiving y cuándo se verá?",
+      "link": "https://www.prensalibre.com/internacional/desfile-de-macys-2026-por-que-se-pospone-la-celebracion-de-thanksgiving-y-cuando-se-vera/",
+      "fecha": "Thu, 26 Nov 2026 16:03:14 +0000",
+      "categoria": "Internacional",
+      "resumen": "El desfile de Acción de Gracias de Macy’s fue pospuesto por primera vez en su historia debido al pronóstico de vientos fuertes y potencialmente dañinos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Miss Universo 2026: así fueron las preguntas del jurado y las respuestas de las cinco finalistas",
+      "link": "https://www.prensalibre.com/vida/escenario/miss-universo-2026-asi-fueron-las-preguntas-del-jurado-y-las-respuestas-de-las-cinco-finalistas/",
+      "fecha": "Thu, 26 Nov 2026 16:02:46 +0000",
+      "categoria": "Escenario",
+      "resumen": "Las intervenciones de la ganadora del concurso, quien respondió primero en español y luego en inglés, dividieron opiniones entre el público."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Starmind, el polémico proyecto de Elon Musk aprobado por EE.UU. para construir centros de datos en el espacio",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/starmind-el-polemico-proyecto-de-elon-musk-aprobado-por-ee-uu-para-construir-centros-de-datos-en-el-espacio/",
+      "fecha": "Thu, 26 Nov 2026 15:56:19 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "La constelación Starmind pretende ser la forma más rentable y energéticamente eficiente de satisfacer la creciente demanda de capacidad de procesamiento para la inteligencia artificial."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga Nacional: estos son los tres equipos eliminados del Apertura 2026 antes de la última jornada",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-estos-son-los-tres-equipos-eliminados-del-apertura-2026-antes-de-la-ultima-jornada/",
+      "fecha": "Thu, 26 Nov 2026 15:56:17 +0000",
+      "categoria": "Deportes",
+      "resumen": "La liga cierra este sábado la fase de clasificación con seis partidos simultáneos, y tres equipos jugarán sin opción de avanzar a la liguilla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Ataques armados en Escuintla y San Marcos dejan tres muertos: identifican a las víctimas",
+      "link": "https://www.prensalibre.com/guatemala/sucesos/ataques-armados-en-escuintla-y-san-marcos-dejan-tres-muertos-identifican-a-las-victimas-breaking/",
+      "fecha": "Thu, 26 Nov 2026 15:41:03 +0000",
+      "categoria": "Sucesos",
+      "resumen": "Dos mujeres y un hombre mueren en ataques armados en Escuintla y San Marcos en las últimas horas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Q250 mil de cuota inicial y Q15 mil cada semana: las extorsiones que dejan sin buses la ruta entre Antigua Guatemala y la capital",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/q250-mil-de-cuota-inicial-y-q15-mil-semanales-las-extorsiones-que-paralizan-el-transporte-entre-antigua-guatemala-y-la-capital-breaking/",
+      "fecha": "Thu, 26 Nov 2026 15:36:45 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Los transportistas denuncian amenazas de muerte contra pilotos, ayudantes e incluso pasajeros y advierten que no reanudarán el servicio hasta que las autoridades garanticen su seguridad."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El poco conocido origen mexicano del pavo que se come en Acción de Gracias en Estados Unidos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/el-poco-conocido-origen-mexicano-del-pavo-que-se-come-en-accion-de-gracias-en-estados-unidos/",
+      "fecha": "Thu, 26 Nov 2026 15:27:53 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "El plato central de la cena de Acción de Gracias en EE.UU. es el pavo, un ave que fue domesticada hace siglos en la región mesoamericana de México y Centroamérica."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Copa Libertadores 2026: cuánto dinero recibirá el campeón de la final entre Palmeiras y Estudiantes",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/copa-libertadores-2026-cuanto-dinero-recibira-el-campeon-de-la-final-entre-palmeiras-y-estudiantes/",
+      "fecha": "Thu, 26 Nov 2026 15:26:36 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": ".img_fo{\n\t\t\t\t    aspect-ratio: 16/9;\n                    width: 100%;\n                    height: auto;\n                    margin-bottom: 8px;\n                    object-fit: contain;\n\t\t\t\t}\n\t\t\t\n    .canal-whatsapp,\n    .canal-whatsapp:hover,\n    .canal-whatsapp:focus,\n    .canal-whatsapp:visited {\n        text-decoration: none !important;\n    }\n\n    .canal-whatsapp {\n        display: inline-flex;\n        align-items: center;\n        gap: 8px;\n        background: #fff;\n        border-radius: 999px;\n        padding: 6px 14px 6px 6px !important;\n        text-decoration: none;\n    }\n    .canal-wh"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Real Madrid recupera una racha que no conseguía desde hace cinco años y apunta a un récord histórico",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-recupera-una-racha-que-no-conseguia-desde-hace-cinco-anos-y-apunta-a-un-record-historico/",
+      "fecha": "Thu, 26 Nov 2026 15:18:13 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El equipo dirigido por José Mourinho ha encadenado triunfos en LaLiga y la Liga de Campeones desde el pasado 10 de octubre, con un balance de 31 goles a favor y 10 en contra."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Del cierre de Wall Street a las alertas por mal tiempo: así transcurre el Thanksgiving en EE. UU.",
+      "link": "https://www.prensalibre.com/internacional/del-cierre-de-wall-street-a-las-alertas-por-mal-tiempo-asi-transcurre-el-thanksgiving-en-ee-uu/",
+      "fecha": "Thu, 26 Nov 2026 15:01:03 +0000",
+      "categoria": "Internacional",
+      "resumen": "Las autoridades indicaron que se esperan fuertes ráfagas de viento, precipitaciones intensas y posibles inundaciones en varias zonas vulnerables."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Confesión: Jennifer López dice cómo se sintió tras su divorcio de Marc Anthony",
+      "link": "https://www.prensalibre.com/vida/escenario/confesion-jennifer-lopez-dice-como-se-sintio-tras-su-divorcio-de-marc-anthony/",
+      "fecha": "Thu, 26 Nov 2026 14:46:05 +0000",
+      "categoria": "Escenario",
+      "resumen": "La actriz señala que estuvo a punto de renunciar al amor luego de la ruptura con el hombre con quien concibió a sus hijos."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "La plaza Berlín se iluminará con más de cien estructuras que representan las tradiciones navideñas guatemaltecas",
@@ -9,6 +249,14 @@
       "fecha": "Thu, 26 Nov 2026 14:18:14 +0000",
       "categoria": "Escenario",
       "resumen": "Con el tema “El Sendero de luz y tradiciones”, llega la sexta edición de Alumbrados EEGSA, que iluminará la plaza Berlín durante la temporada navideña."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "¿Firmarán la paz?: Angelina Jolie y Brad Pitt acuerdan cerrar una demanda que derivó en acusaciones de abuso",
+      "link": "https://www.prensalibre.com/vida/escenario/firmaran-la-paz-angelina-jolie-y-brad-pitt-acuerdan-cerrar-una-demanda-que-derivo-en-acusaciones-de-abuso/",
+      "fecha": "Thu, 26 Nov 2026 14:11:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La batalla por un viñedo reveló detalles sobre lo que, según afirmó Jolie, fue un comportamiento abusivo de Pitt hacia ella y sus hijos en 2016."
     },
     {
       "fuente": "Prensa Libre",
@@ -545,254 +793,6 @@
       "fecha": "Wed, 25 Nov 2026 15:18:54 +0000",
       "categoria": "Fútbol Internacional",
       "resumen": "Mbappé continúa rompiendo marcas en Europa y se acerca a los registros históricos de Lionel Messi y Cristiano Ronaldo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Asesinato de Foppa: Congresistas de Estados Unidos reclaman una investigación independiente",
-      "link": "https://www.prensalibre.com/internacional/asesinato-de-foppa-congresistas-de-estados-unidos-reclaman-una-investigacion-independiente/",
-      "fecha": "Wed, 25 Nov 2026 15:07:43 +0000",
-      "categoria": "Internacional",
-      "resumen": "20 congresistas instaron al Gobierno de EE. UU. a seguir presionando para que se lleve a cabo una investigación \"exhaustiva, creíble, independiente y transparente\" del asesinato de Solórzano Foppa."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Olger Escobar: CF Montréal toma una decisión sobre el futuro del jugador guatemalteco",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/olger-escobar-cf-montreal-toma-una-decision-sobre-el-futuro-del-jugador-guatemalteco/",
-      "fecha": "Wed, 25 Nov 2026 14:51:09 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Olger Escobar seguirá creciendo en la MLS. El joven mediocampista guatemalteco de 20 años fue renovado por el CF Montréal para 2027, con la meta de ganar más minutos y protagonismo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Frente frío influye en Guatemala: dónde podría llover este miércoles 25 de noviembre",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/frente-frio-influye-en-guatemala-donde-podria-llover-este-miercoles-25-de-noviembre/",
-      "fecha": "Wed, 25 Nov 2026 14:47:56 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Los efectos indirectos de un frente frío favorecerán el incremento de la nubosidad y la posibilidad de lluvias en algunas regiones de Guatemala."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Están obsesionados con hablar del Barça&#8221;: Laporta responde al Real Madrid",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/estan-obsesionados-con-hablar-del-barca-laporta-responde-al-real-madrid/",
-      "fecha": "Wed, 25 Nov 2026 14:29:04 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Joan Laporta criticó la “obsesión” del Real Madrid con el Barcelona y anunció que el club analizará nuevas acciones judiciales contra Florentino Pérez."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Entre flores y colibríes: un taller de acuarela botánica en la ciudad de Guatemala",
-      "link": "https://www.prensalibre.com/vida/escenario/entre-flores-y-colibries-un-taller-de-acuarela-botanica-en-la-ciudad-de-guatemala/",
-      "fecha": "Wed, 25 Nov 2026 14:21:57 +0000",
-      "categoria": "Escenario",
-      "resumen": "Un espacio de creatividad inspirado en la naturaleza abre sus puertas este fin de semana para despedir noviembre “Entre flores y colibríes”."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Medio millón de muertos&#8221;: la filtración de datos que revela las abrumadoras bajas rusas en la guerra de Ucrania",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/medio-millon-de-muertos-la-filtracion-de-datos-que-revela-las-abrumadoras-bajas-rusas-en-la-guerra-de-ucrania/",
-      "fecha": "Wed, 25 Nov 2026 14:07:51 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Las cifras obtenidas por unos hackers muestran cómo la invasión a gran escala de Ucrania ha transformado significativamente los patrones de mortalidad en Rusia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mil municiones y tres carabinas: lo que la PNC decomisó durante un operativo en Sololá",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mil-municiones-y-tres-carabinas-lo-que-la-pnc-decomiso-durante-un-operativo-en-solola-breaking/",
-      "fecha": "Wed, 25 Nov 2026 14:00:53 +0000",
-      "categoria": "Justicia",
-      "resumen": "Capturan a hombre que transportaba armas, mil municiones y tolvas en Santa Lucía Utatlán, Sololá."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Quién es Jennifer Barreto, la nueva Miss Universo puertorriqueña?",
-      "link": "https://www.prensalibre.com/vida/escenario/quien-es-jennifer-barreto-la-nueva-miss-universo-puertorriquena/",
-      "fecha": "Wed, 25 Nov 2026 13:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La modelo y madre de familia que ostenta la corona cuenta con dos maestrías y es conocida en su país como \"La Barreto\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Café, pelotas y piedras de moler: los artículos restringidos en el equipaje de mano del Aeropuerto Internacional La Aurora",
-      "link": "https://www.prensalibre.com/guatemala/cafe-pelotas-y-piedras-de-moler-los-articulos-restringidos-en-el-equipaje-de-mano-del-aeropuerto-internacional-la-aurora/",
-      "fecha": "Wed, 25 Nov 2026 13:00:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Qué artículos tienen restricciones en el equipaje de mano en La Aurora y cuáles son los límites para transportar café, líquidos y otros productos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Municipal recibirá a Aurora en un duelo clave: los rojos buscan acercarse a semis y los aurinegros pelean por la liguilla",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/municipal-recibira-a-aurora-en-un-duelo-clave-los-rojos-buscan-acercarse-a-semis-y-los-aurinegros-pelean-por-la-liguilla/",
-      "fecha": "Wed, 25 Nov 2026 13:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Municipal recibe a Aurora en un duelo clave por sus aspiraciones de clasificar directamente a semifinales, mientras los militares se juegan sus últimas opciones de avanzar a la liguilla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Apertura 2026: cuatro equipos pelean por los boletos directos a semifinales",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-cuatro-equipos-pelean-por-los-boletos-directos-a-semifinales-breaking/",
-      "fecha": "Wed, 25 Nov 2026 10:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "La última jornada del Torneo Apertura 2026 definirá al líder y los dos clasificados directos a semifinales, en una disputa que todavía mantiene a cuatro equipos con posibilidades."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Marimba Femenina de Concierto invita a encender las &#8220;Luces de Navidad&#8221; con música",
-      "link": "https://www.prensalibre.com/vida/escenario/marimba-femenina-de-concierto-invita-a-encender-las-luces-de-navidad-con-musica/",
-      "fecha": "Wed, 25 Nov 2026 10:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "En su temporada navideña,  la institución artística ofrecerá cuatro presentaciones gratuitas en el Centro Cultural Miguel Ángel Asturias"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ruta al Atlántico es la misma desde los 50s: ¿Qué obras urgen? &#124; El Antecedente",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/ruta-al-atlantico-es-la-misma-desde-los-50s-que-obras-urgen-el-antecedente/",
-      "fecha": "Wed, 25 Nov 2026 10:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "La construcción del puente Belice 2 o Ch'utb'al busca ampliar la conectividad al Atlántico, mientras exportadores advierten sobre falta de rutas alternas,  costos del transporte y las inversiones de movilidad pendientes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Codedes recibirán Q5 mil millones más en el presupuesto 2027",
-      "link": "https://www.prensalibre.com/guatemala/politica/comision-de-finanzas-dictamina-q5-mil-millones-mas-para-los-codedes-en-el-presupuesto-2027/",
-      "fecha": "Wed, 25 Nov 2026 06:12:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La Comisión de Finanzas recortó Q19 mil 624 millones al proyecto de presupuesto 2027 y casi duplicó la asignación para los Codedes, que subió a Q12 mil 31 millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala coloca eurobonos por US$800 millones: en qué se gastarán los recursos y cuánto costará la nueva deuda",
-      "link": "https://www.prensalibre.com/economia/guatemala-coloca-eurobonos-por-us800-millones-en-que-se-gastaran-los-recursos-y-cuanto-costara-la-nueva-deuda/",
-      "fecha": "Wed, 25 Nov 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Por tercer año consecutivo, el Ministerio de Finanzas realizó una emisión de eurobonos, esta vez por US$800 millones, equivalentes a unos Q6 mil 100 millones, que se destinarán al financiamiento de diversos programas de gasto público. Al cierre de septiembre del 2026, el saldo total de la deuda pública ascendió a Q252 mil millones y se prevé que aumente al finalizar el ejercicio fiscal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Aquellos tiempos",
-      "link": "https://www.prensalibre.com/opinion/caricatura/aquellos-tiempos/",
-      "fecha": "Wed, 25 Nov 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Lesiva chambonería presupuestaria",
-      "link": "https://www.prensalibre.com/opinion/editorial/lesiva-chamboneria-presupuestaria/",
-      "fecha": "Wed, 25 Nov 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "¿Con qué cara van a salir ahora a ofrecer mejor educación, salud, desarrollo o carreteras, si sus bancadas solo quitaron a lo tosco?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La acidez estomacal aumenta durante las fiestas de fin de año: ¿cómo evitarla?",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/la-acidez-estomacal-aumenta-durante-las-fiestas-de-fin-de-ano-como-evitarla/",
-      "fecha": "Wed, 25 Nov 2026 06:05:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Unos pocos cambios estratégicos le ayudarán a disfrutar de su época favorita del año sin los incómodos efectos secundarios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Anoche vi la entrada al infierno”: las revelaciones del diario secreto del papa Francisco",
-      "link": "https://www.prensalibre.com/internacional/anoche-vi-la-entrada-al-infierno-las-revelaciones-del-diario-secreto-del-papa-francisco/",
-      "fecha": "Wed, 25 Nov 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "Un libro basado en escritos personales de Francisco, conservados durante décadas, expone experiencias espirituales, episodios de angustia y reflexiones que no compartió públicamente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Urgencia para aprobar burdos remedos legales",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/urgencia-para-aprobar-burdos-remedos-legales/",
-      "fecha": "Wed, 25 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Los seis primeros meses del año entrante serán un caos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Contexto económico",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/contexto-economico/",
-      "fecha": "Wed, 25 Nov 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El Banco de Guatemala proyecta un crecimiento de 4.3% en 2026 y de 4.0% en 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Pacto colectivo de trabajo del Banguat en 2014",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/pacto-colectivo-de-trabajo-del-banguat-en-2014/",
-      "fecha": "Wed, 25 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La Junta Monetaria aprobó emisión de bonos del tesoro por Q17,665 en el 2014."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La semilla del emprendedor",
-      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/la-semilla-del-emprendedor/",
-      "fecha": "Wed, 25 Nov 2026 06:01:00 +0000",
-      "categoria": "Plumas invitadas",
-      "resumen": "El valor de estos programas está en que enseñan haciendo."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Horóscopo de hoy miércoles 25 de noviembre de 2026",
-      "link": "https://www.prensalibre.com/vida/horoscopo-de-hoy-miercoles-25-de-noviembre-de-2026/",
-      "fecha": "Wed, 25 Nov 2026 06:01:00 +0000",
-      "categoria": "Vida",
-      "resumen": "Conozca su horóscopo del día según su signo zodiacal: Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario, Piscis."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La nueva Guatemala de la innovación",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-nueva-guatemala-de-la-innovacion/",
-      "fecha": "Wed, 25 Nov 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Hace 250 años, Guatemala tuvo que tomar la decisión de construir una nueva ciudad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "COP31: Cuando los intereses petroleros pesan más que la vida en el planeta",
-      "link": "https://www.prensalibre.com/opinion/plumas-invitadas/cop31-cuando-los-intereses-petroleros-pesan-mas-que-la-vida-en-el-planeta/",
-      "fecha": "Wed, 25 Nov 2026 06:00:00 +0000",
-      "categoria": "Plumas invitadas",
-      "resumen": "Ganó el egoísmo. Perdió la justicia climática."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;Le digo a mi hijo que son solo fuegos artificiales&#8221;: cómo es vivir en una ciudad de Yemen sitiada por los rebeldes hutíes",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/le-digo-a-mi-hijo-que-son-solo-fuegos-artificiales-como-es-vivir-en-una-ciudad-de-yemen-sitiada-por-los-rebeldes-huties/",
-      "fecha": "Wed, 25 Nov 2026 04:47:25 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "Taiz, la tercera ciudad más grande de Yemen, lleva semanas aislada del mundo, bajo asedio de los hutíes. La BBC habló con personas atrapadas allí."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Costa Rica celebra su designación como sede de Miss Universo 2027",
-      "link": "https://www.prensalibre.com/vida/escenario/costa-rica-celebra-su-designacion-como-sede-de-miss-universo-2027/",
-      "fecha": "Wed, 25 Nov 2026 04:31:29 +0000",
-      "categoria": "Escenario",
-      "resumen": "El anuncio oficial se realizó durante la gala de la 75a. edición del certamen internacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala y EE. UU. refuerzan la coordinación estratégica contra el narcotráfico y el crimen organizado transnacional",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/guatemala-y-ee-uu-refuerzan-la-coordinacion-estrategica-contra-el-narcotrafico-y-el-crimen-organizado-transnacional/",
-      "fecha": "Wed, 25 Nov 2026 03:30:02 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El comandante del Comando Sur de Estados Unidos visita Petén para reforzar la coordinación militar con Guatemala frente al narcotráfico y al crimen organizado transnacional."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Roxana Baldetti afirma padecer ELA: 11 años de problemas de salud, dictámenes contradictorios y medidas judiciales",
-      "link": "https://www.prensalibre.com/guatemala/justicia/roxana-baldetti-afirma-padecer-ela-11-anos-de-problemas-de-salud-dictamenes-contradictorios-y-medidas-judiciales/",
-      "fecha": "Wed, 25 Nov 2026 02:07:27 +0000",
-      "categoria": "Guatemala",
-      "resumen": "La exvicepresidenta asegura padecer una enfermedad neurodegenerativa, mientras sus antecedentes médicos reavivan el debate sobre los peritajes forenses y las medidas judiciales otorgadas por razones de salud."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jennifer Barreto de Puerto Rico es Miss Universo 2026",
-      "link": "https://www.prensalibre.com/vida/escenario/jennifer-barreto-de-puerto-rico-es-miss-universo-2026/",
-      "fecha": "Wed, 25 Nov 2026 01:48:58 +0000",
-      "categoria": "Escenario",
-      "resumen": "La triunfadora tuvo como principales rivales a las representantes de Filipinas, República Dominicana, Nueva Zelanda y Venezuela."
     }
   ]
 }
