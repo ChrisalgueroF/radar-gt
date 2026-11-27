@@ -1,7 +1,175 @@
 {
-  "actualizado": "2026-11-27T07:43:32.577Z",
+  "actualizado": "2026-11-27T17:58:52.517Z",
   "total": 99,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Posible hackeo a la Fuerza Aérea de Estados Unidos: ¿Qué datos podrían estar en riesgo?",
+      "link": "https://www.prensalibre.com/internacional/posible-hackeo-a-la-fuerza-aerea-de-estados-unidos-que-datos-podrian-estar-en-riesgo/",
+      "fecha": "Fri, 27 Nov 2026 17:31:35 +0000",
+      "categoria": "Internacional",
+      "resumen": "Unos jáqueres presuntamente vulneraron la plataforma de la Fuerza Aérea de EE. UU, un suceso que podría poner en peligro una gran cantidad de datos confidenciales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "“Estábamos viendo el futuro”: directora de “Crepúsculo” revela cómo surgió la referencia que vincula a Robert Pattinson con James Bond",
+      "link": "https://www.prensalibre.com/vida/escenario/estabamos-viendo-el-futuro-directora-de-crepusculo-revela-como-surgio-la-referencia-que-vincula-a-robert-pattinson-con-james-bond/",
+      "fecha": "Fri, 27 Nov 2026 17:21:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Una escena de “Crepúsculo”, estrenada en el 2008, vincula a Robert Pattinson con James Bond, algo que se hizo realidad 18 años después."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Greysy Galindo Ayala rechaza ser extraditada a EE. UU. por caso de transporte ilegal de migrantes",
+      "link": "https://www.prensalibre.com/guatemala/justicia/greysy-galindo-ayala-rechaza-ser-extraditada-a-ee-uu-por-caso-de-transporte-ilegal-de-migrantes-breaking/",
+      "fecha": "Fri, 27 Nov 2026 16:46:11 +0000",
+      "categoria": "Justicia",
+      "resumen": "Greysy Galindo Ayala, señalada de transportar y alojar a migrantes indocumentados, rechaza ser extraditada a Estados Unidos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Palmeiras vs. Estudiantes: fecha, horario y dónde ver en vivo la final de la Copa Libertadores 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/palmeiras-vs-estudiantes-fecha-horario-y-donde-ver-en-vivo-la-final-de-la-copa-libertadores-2026/",
+      "fecha": "Fri, 27 Nov 2026 16:32:23 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "Palmeiras y Estudiantes de La Plata vuelven a encontrarse en una final de Copa Libertadores, más de medio siglo después de aquella histórica definición de 1968."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "El asalto en Mixco que permitió descubrir a &#8220;Los Enanos&#8221;, la banda que robaba vehículos de alta gama para comercializarlos en Honduras",
+      "link": "https://www.prensalibre.com/guatemala/justicia/el-asalto-en-mixco-que-permitio-descubrir-a-los-enanos-la-banda-que-robaba-vehiculos-de-alta-gama-para-comercializarlos-en-honduras/",
+      "fecha": "Fri, 27 Nov 2026 16:22:08 +0000",
+      "categoria": "Guatemala",
+      "resumen": "El robo de un vehículo en Mixco fue el punto de partida de una investigación contra una banda señalada de modificar automotores robados y comercializarlos en Honduras"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Los estafadores que engañaron a miles de migrantes detenidos en EE.UU. con servicios de fianzas fraudulentos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/los-estafadores-que-enganaron-a-miles-de-migrantes-detenidos-en-ee-uu-con-servicios-de-fianzas-fraudulentos/",
+      "fecha": "Fri, 27 Nov 2026 16:18:31 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Ganaron millones de dólares a costa de migrantes detenidos y eludieron los intentos de desmantelar su negocio."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Aplazan de nuevo audiencia de aceptación de cargos de Roxana Baldetti en el caso Cooptación del Estado",
+      "link": "https://www.prensalibre.com/guatemala/justicia/aplazan-de-nuevo-audiencia-de-aceptacion-de-cargos-de-roxana-baldetti-en-el-caso-cooptacion-del-estado-breaking/",
+      "fecha": "Fri, 27 Nov 2026 15:45:57 +0000",
+      "categoria": "Justicia",
+      "resumen": "El abogado defensor de Roxana Baldetti presentó una excusa, por lo que reprogramaron la audiencia de aceptación de cargos en el caso Cooptación del Estado."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "En video: así fue la captura de ICE en California de un presunto integrante salvadoreño de la MS-13",
+      "link": "https://www.prensalibre.com/internacional/en-video-asi-fue-la-captura-de-ice-en-california-de-un-presunto-integrante-salvadoreno-de-la-ms-13/",
+      "fecha": "Fri, 27 Nov 2026 15:31:36 +0000",
+      "categoria": "Internacional",
+      "resumen": "En El Salvador, Jose Luis Rosales Ayala tiene órdenes de detención por otros delitos, entre ellos homicidio, extorsión, tráfico de drogas, privación ilegal de libertad y robo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Liga Nacional: día, horarios, partidos y lo que está en juego en la última jornada del Apertura 2026",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/liga-nacional-dia-horarios-partidos-y-lo-que-esta-en-juego-en-la-ultima-jornada-del-apertura-2026/",
+      "fecha": "Fri, 27 Nov 2026 15:26:43 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "La fase de clasificación del Torneo Apertura 2026 llega a su desenlace este sábado con una última jornada de alta tensión, en la que se definen los boletos directos a semifinales y el último clasificado a la liguilla."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Puerta cerrada&#8221;: Mourinho es contundente sobre el mercado de fichajes del Real Madrid",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/puerta-cerrada-mourinho-es-contundente-sobre-el-mercado-de-fichajes-del-real-madrid/",
+      "fecha": "Fri, 27 Nov 2026 15:07:43 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "José Mourinho cerró de forma tajante la puerta a cualquier movimiento en el mercado de enero y pone el foco en mantener la competitividad del Real Madrid, tanto en LaLiga como en la Champions League."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Trabajos en la calle Martí: cuándo comenzarán, cuánto durarán y qué cambios habrá en la circulación vehicular",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/trabajos-en-la-calle-marti-cuando-comenzaran-cuanto-duraran-y-que-cambios-habra-en-la-circulacion-vehicular-breaking/",
+      "fecha": "Fri, 27 Nov 2026 14:55:17 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Un tramo de la calle Martí será intervenido y la comuna capitalina explica cuál es el plan de movilidad mientras duren los trabajos"
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;No estaría aquí si no fuera por usted&#8221;: el conmovedor encuentro de una joven con el hombre que la salvó de un ataque con cuchillo en un tren",
+      "link": "https://www.prensalibre.com/guatemala/no-estaria-aqui-si-no-fuera-por-usted-el-conmovedor-encuentro-de-una-joven-con-el-hombre-que-la-salvo-de-un-ataque-con-cuchillo-en-un-tren/",
+      "fecha": "Fri, 27 Nov 2026 13:39:22 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Crean y Astrid se conocieron en medio de una emergencia: un ataque con cuchillo en un tren."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sheinbaum cuestiona a la DEA: ¿Qué hay detrás de los canales para denunciar narcos en México?",
+      "link": "https://www.prensalibre.com/internacional/sheinbaum-cuestiona-a-la-dea-que-hay-detras-de-los-canales-para-denunciar-narcos-en-mexico/",
+      "fecha": "Fri, 27 Nov 2026 13:35:33 +0000",
+      "categoria": "Internacional",
+      "resumen": "Sheinbaum habló sobre la apertura de canales de la DEA para recibir información acerca de miembros y socios del cartel de Sinaloa, así como de funcionarios presuntamente vinculados con la organización."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Lionel Messi se prepara para jugar en Argentina, estos son los detalles",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/lionel-messi-se-prepara-jugar-en-argentina-estos-son-los-detalles-breaking/",
+      "fecha": "Fri, 27 Nov 2026 13:00:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "La Bombonera reunirá a grandes figuras del futbol mundial el próximo 20 de diciembre, en una jornada especial que marcará el regreso de Messi a Argentina."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Entre calor y frío: así estará el clima en Guatemala este 28 y 29 de noviembre",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/entre-calor-y-frio-asi-estara-el-clima-en-guatemala-este-28-y-29-de-noviembre-breaking/",
+      "fecha": "Fri, 27 Nov 2026 12:53:43 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Para el fin de semana, Guatemala tendrá tiempo cálido en algunas regiones y frío en otras, según el pronóstico del Insivumeh."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Tres sismos se registran en menos de cinco horas en Guatemala y frente a las costas de México",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/temblor-de-hoy-27-de-noviembre-en-guatemala-breaking/",
+      "fecha": "Fri, 27 Nov 2026 12:17:43 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Izabal, Escuintla y el océano Pacífico fueron los escenarios de tres sismos registrados entre la noche del jueves 26 de noviembre y la madrugada de este viernes."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "IA agéntica: por qué las empresas siguen sin obtener los resultados que esperan de esta tecnología",
+      "link": "https://www.prensalibre.com/economia/ia-agentica-por-que-las-empresas-siguen-sin-obtener-los-resultados-que-esperan-de-esta-tecnologia/",
+      "fecha": "Fri, 27 Nov 2026 12:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "La adaptación de agentes de IA requiere una transformación profunda y superar obstáculos como el temor e incluso el saboteo de los propios colaboradores, aseguran los expertos."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Festival de danza japonesa en el Centro Histórico",
+      "link": "https://www.prensalibre.com/vida/escenario/festival-de-danza-japonesa-en-el-centro-historico/",
+      "fecha": "Fri, 27 Nov 2026 10:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "Será una jornada en la que los guatemaltecos podrán disfrutar de diversas presentaciones de danza y una exposición de trajes tradicionales, entre otras actividades."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Ahora tenemos que esperar el milagro&#8221;: Dairon Reyes analiza el panorama de Comunicaciones",
+      "link": "https://www.prensalibre.com/deportes/futbol-nacional/ahora-tenemos-que-esperar-el-milagro-dairon-reyes-analiza-el-panorama-de-comunicaciones/",
+      "fecha": "Fri, 27 Nov 2026 10:00:00 +0000",
+      "categoria": "Fútbol Nacional",
+      "resumen": "\"Tenemos que esperar el milagro\", admitió Dairon Reyes, mientras Comunicaciones llega a la última jornada obligado a ganar y a esperar combinaciones."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Autopista Escuintla-Puerto Quetzal: Convía confirma fase de recepción y explica qué falta para iniciar el cobro de peaje",
+      "link": "https://www.prensalibre.com/economia/autopista-escuintla-puerto-quetzal-convia-confirma-fase-de-recepcion-y-explica-que-falta-para-iniciar-el-cobro-de-peaje/",
+      "fecha": "Fri, 27 Nov 2026 10:00:00 +0000",
+      "categoria": "Economía",
+      "resumen": "Dos nuevas controversias surgieron en torno a la entrega de las obras de construcción y rehabilitación de la autopista Escuintla-Puerto Quetzal (AEPQ), prevista para el 11 de noviembre. Mientras tanto, las partes involucradas coordinan la recepción de la obra, prevista para los próximos días."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cruces escolares, curvas peligrosas y paradas de buses: cómo es la nueva guía de seguridad vial",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/cruces-escolares-curvas-peligrosas-y-paradas-de-buses-como-es-la-nueva-guia-de-seguridad-vial/",
+      "fecha": "Fri, 27 Nov 2026 10:00:00 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Herramientas técnicas plantean medidas para reducir los riesgos en las carreteras. El Automóvil Club de Guatemala busca que su aplicación sea obligatoria y que se evalúen los avances cada seis meses."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "¿En qué debería invertir Guatemala los Q172 mil 420 millones del presupuesto 2027? Estas son las prioridades, según sectores y analistas",
@@ -117,9 +285,9 @@
     {
       "fuente": "Prensa Libre",
       "titulo": "Miss Universo es la primera mujer casada que obtiene el título: ¿Quién es el esposo de Jennifer Barreto?",
-      "link": "https://www.prensalibre.com/guatemala/miss-universo-es-la-primera-mujer-casada-que-obtiene-el-titulo-quien-es-el-esposo-de-jennifer-barreto/",
+      "link": "https://www.prensalibre.com/vida/escenario/miss-universo-es-la-primera-mujer-casada-que-obtiene-el-titulo-quien-es-el-esposo-de-jennifer-barreto/",
       "fecha": "Fri, 27 Nov 2026 03:00:00 +0000",
-      "categoria": "Guatemala",
+      "categoria": "Escenario",
       "resumen": "La nueva soberana puertorriqueña es esposa de un militar  y madre de una niña de siete años."
     },
     {
@@ -625,174 +793,6 @@
       "fecha": "Thu, 26 Nov 2026 06:00:00 +0000",
       "categoria": "Columnas Diarias",
       "resumen": "Las deducciones auténticas protegen la capacidad de pago del contribuyente."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Iniciativa &#8220;Un milagro por Guate&#8221; mejora indicadores nutricionales",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/iniciativa-un-milagro-por-guate-mejora-indicadores-nutricionales/",
-      "fecha": "Thu, 26 Nov 2026 05:23:30 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Como parte de su programa Unidos por la Nutrición: ¡Un milagro por Guate!, Fundación Azteca Guatemala presentó los resultados de su intervención nutricional 2026, mediante la cual se donaron 3,800 bolsas de Chispuditos (1,710 kilogramos) en beneficio de más de 800 niñas y niños (en su mayoría menores de cinco años) de Chimaltenango, Guatemala, Sacatepéquez, El Progreso, Zacapa e Izabal."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Apertura 2026: Municipal consigue un sufrido triunfo ante Aurora con doblete de José Carlos Martínez",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-municipal-consigue-un-sufrido-triunfo-ante-aurora-con-doblete-de-jose-carlos-martinez/",
-      "fecha": "Thu, 26 Nov 2026 04:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Los escarlatas se llevaron un triunfo trabajado en el juego reprogramado de la jornada 19 del Apertura 2026, mientras el conjunto aurinegro quedó eliminado de la liguilla."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Salvadoreño gana US$1 millón en la lotería en EE. UU. y termina capturado por el ICE: ¿qué pasará con su premio?",
-      "link": "https://www.prensalibre.com/internacional/estados-unidos/salvadoreno-gana-us1-millon-en-la-loteria-en-ee-uu-y-termina-capturado-por-el-ice-que-pasara-con-su-premio-breaking/",
-      "fecha": "Thu, 26 Nov 2026 03:42:49 +0000",
-      "categoria": "Estados Unidos",
-      "resumen": "Un salvadoreño pasó de ganar US$1 millón en la lotería de Massachusetts a quedar bajo custodia del ICE, que defendió su captura al reivindicar los derechos y privilegios exclusivos de los estadounidenses."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "&#8220;La violencia de género no discrimina&#8221;: femicidio de Sucely Aguirre alerta sobre los riesgos del abuso de poder en las relaciones de pareja",
-      "link": "https://www.prensalibre.com/guatemala/justicia/la-violencia-de-genero-no-discrimina-femicidio-de-sucely-aguirre-alerta-sobre-los-riesgos-del-abuso-de-poder-en-las-relaciones-de-pareja/",
-      "fecha": "Thu, 26 Nov 2026 03:20:51 +0000",
-      "categoria": "Justicia",
-      "resumen": "Las cámaras de seguridad y los indicios forenses permitieron identificar al principal sospechoso del femicidio de Sucely Aguirre, un caso que reaviva el debate sobre la violencia de pareja y la búsqueda de justicia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fátima Bosch, Miss Universo 2025, presenta a su novio: ¿quién es y qué hace el enamorado?",
-      "link": "https://www.prensalibre.com/vida/escenario/fatima-bosch-miss-universo-2025-presenta-a-su-novio-quien-es-y-que-hace-el-enamorado/",
-      "fecha": "Thu, 26 Nov 2026 03:00:00 +0000",
-      "categoria": "Escenario",
-      "resumen": "La reina de belleza mexicana no quiso dejar pasar ni un día para expresar públicamente su amor por quien tuvo la paciencia de vivir junto a ella las exigencias que le impuso su título."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Guatemala cerrará el 2026 con una tasa de interés líder de 3.50% y una inflación proyectada de 4.25%",
-      "link": "https://www.prensalibre.com/economia/guatemala-cerrara-el-2026-con-una-tasa-de-interes-lider-de-3-50-y-una-inflacion-proyectada-de-4-25/",
-      "fecha": "Thu, 26 Nov 2026 01:30:00 +0000",
-      "categoria": "Economía",
-      "resumen": "En  su última sesión del año para evaluar la tasa de interés líder de política monetaria, la Junta Monetaria (JM) decidió mantenerla en 3.50%, informaron esta noche las autoridades monetarias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Arévalo califica de “vergonzoso” el presupuesto del 2027 y anuncia acciones para frenar lo aprobado por el Congreso",
-      "link": "https://www.prensalibre.com/guatemala/politica/arevalo-califica-de-vergonzoso-el-presupuesto-del-2027-y-anuncia-acciones-para-frenar-lo-aprobado-por-el-congreso-breaking/",
-      "fecha": "Thu, 26 Nov 2026 01:24:18 +0000",
-      "categoria": "Política",
-      "resumen": "El presidente Bernardo Arévalo cuestionó los recortes en salud, educación y seguridad y anunció medidas para frenar el presupuesto del 2027."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Municipal vs. Aurora EN VIVO: siga el minuto a minuto del partido reprogramado de la jornada 19",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/municipal-vs-aurora-en-vivo-siga-el-minuto-a-minuto-del-partido-reprogramado-de-la-jornada-19/",
-      "fecha": "Thu, 26 Nov 2026 01:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Municipal y Aurora FC se juegan mucho en El Trébol. Ambos necesitan ganar este miércoles, a las 20 horas, en el partido pendiente de la jornada 19."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Del cuchubal al ahorro digital: por qué cuesta ahorrar de manera formal en Guatemala",
-      "link": "https://www.prensalibre.com/economia/del-cuchubal-al-ahorro-digital-por-que-cuesta-ahorrar-de-manera-formal-en-guatemala/",
-      "fecha": "Thu, 26 Nov 2026 00:53:26 +0000",
-      "categoria": "Economía",
-      "resumen": "Aunque cerca de cuatro de cada 10 guatemaltecos tienen una cuenta de ahorro formal, persisten los mecanismos informales y el predominio del efectivo. Las fintech buscan contribuir a transformar estos hábitos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "De qué murió Andy Taylor, guitarrista de Duran Duran, a sus 65 años",
-      "link": "https://www.prensalibre.com/vida/escenario/de-que-murio-andy-taylor-guitarrista-de-duran-duran-a-sus-65-anos/",
-      "fecha": "Thu, 26 Nov 2026 00:39:54 +0000",
-      "categoria": "Escenario",
-      "resumen": "El grupo Duran Duran informó este 25 de noviembre sobre la muerte de Andy Taylor, su guitarrista, a los 65 años de edad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Desfile de Macy’s por el Día de Acción de Gracias en Nueva York se pospone: estos son los motivos y la nueva fecha",
-      "link": "https://www.prensalibre.com/internacional/desfile-de-macys-por-el-dia-de-accion-de-gracias-en-nueva-york-se-pospone-estos-son-los-motivos-y-la-nueva-fecha-breaking/",
-      "fecha": "Thu, 26 Nov 2026 00:10:48 +0000",
-      "categoria": "Internacional",
-      "resumen": "El desfile de la gran cadena de almacenes que se lleva a cabo en Nueva York cada Día de Acción de Gracias, ha sido pospuesto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Quiénes son las personas “sándwich” y por qué se les conoce como la generación sobrecargada",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/quienes-son-las-personas-sandwich-y-por-que-se-les-conoce-como-la-generacion-sobrecargada/",
-      "fecha": "Wed, 25 Nov 2026 23:55:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Muchas mujeres y hombres de mediana edad están “emparedados” entre dos responsabilidades que requieren una considerable dedicación y pueden mermar el tiempo propio y el bienestar de quienes las asumen: apoyar a hijos que aún dependen de ellos y atender a padres mayores que necesitan cuidados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Su quinta tienda en la Ciudad de Guatemala se inauguró en zona 17",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/su-quinta-tienda-en-la-ciudad-de-guatemala-se-inauguro-en-zona-17/",
-      "fecha": "Wed, 25 Nov 2026 23:32:20 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Con más de 5 mil metros cuadrados de espacio comercial, Almacenes SIMAN abrió sus puertas en su nueva tienda en Centro Comercial Portales, con una renovada propuesta en moda, belleza, hogar, tecnología y la experiencia de Café SIMAN para las familias del norte de la ciudad."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Jorge Vega brilla en Rusia: gana plata y tendrá un nuevo desafío con el Spartak de Moscú",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/jorge-vega-brilla-en-rusia-gana-plata-y-tendra-un-nuevo-desafio-con-el-spartak-de-moscu-breaking/",
-      "fecha": "Wed, 25 Nov 2026 23:30:53 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "El gimnasta guatemalteco Jorge Vega ganó la medalla de plata en suelo de la Voronin Cup 2026, en Rusia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "EE. UU. afirma que junto a Guatemala interrumpe las operaciones de los carteles del narcotráfico",
-      "link": "https://www.prensalibre.com/guatemala/justicia/ee-uu-afirma-que-junto-a-guatemala-interrumpe-las-operaciones-de-los-carteles-del-narcotrafico/",
-      "fecha": "Wed, 25 Nov 2026 23:18:58 +0000",
-      "categoria": "Justicia",
-      "resumen": "El Comando Sur de Estados Unidos afirma que la cooperación con Guatemala permite interrumpir las operaciones del narcotráfico, tras una jornada de coordinación militar en Petén."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cómo afectará a EE. UU. la &#8220;fuerte tormenta costera&#8221; durante el Día de Acción de Gracias",
-      "link": "https://www.prensalibre.com/internacional/como-afectara-a-ee-uu-la-fuerte-tormenta-costera-durante-el-dia-de-accion-de-gracias/",
-      "fecha": "Wed, 25 Nov 2026 22:25:34 +0000",
-      "categoria": "Internacional",
-      "resumen": "Una \"fuerte tormenta costera\" afectará a EE. UU. durante las celebraciones del Día de Acción de Gracias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Impacto social de ENERGUATE obtiene reconocimiento internacional",
-      "link": "https://www.prensalibre.com/economia/vida-empresarial/impacto-social-de-energuate-obtiene-reconocimiento-internacional/",
-      "fecha": "Wed, 25 Nov 2026 22:14:53 +0000",
-      "categoria": "Vida Empresarial",
-      "resumen": "Por su liderazgo en iniciativas de sostenibilidad con resultados positivos para Guatemala, y por su compromiso con el crecimiento profesional, el bienestar y el fortalecimiento de las capacidades de las personas que integran su organización, ENERGUATE, es reconocida con dos importantes premios, durante el Transformation Day by AmCham."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Fuerza Regida en Guatemala 2027: la agrupación de música regional mexicana confirma un concierto en el país",
-      "link": "https://www.prensalibre.com/vida/escenario/fuerza-regida-en-guatemala-2027-la-agrupacion-de-musica-regional-mexicana-confirma-un-concierto-en-el-pais/",
-      "fecha": "Wed, 25 Nov 2026 22:10:43 +0000",
-      "categoria": "Escenario",
-      "resumen": "Fuerza Regida confirmó que ofrecerá un concierto en Guatemala en 2027 como parte de la ampliación de su gira \"This Is Our Dream Tour\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Champions League: así quedó la tabla de posiciones después de la quinta jornada, con el Real Madrid como líder",
-      "link": "https://www.prensalibre.com/deportes/futbol-internacional/champions-league-asi-quedo-la-tabla-de-posiciones-despues-de-la-quinta-jornada-con-el-real-madrid-como-lider/",
-      "fecha": "Wed, 25 Nov 2026 22:10:00 +0000",
-      "categoria": "Fútbol Internacional",
-      "resumen": "Entre goleadas y resultados inesperados, como la caída del Bayern, la quinta jornada de la Champions dejó al Real Madrid como único líder invicto en victorias."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El frío continúa en Guatemala: Conred mantiene albergues activos en cuatro departamentos ante bajas temperaturas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/el-frio-continua-en-guatemala-conred-mantiene-albergues-activos-en-cuatro-departamentos-ante-bajas-temperaturas/",
-      "fecha": "Wed, 25 Nov 2026 21:40:27 +0000",
-      "categoria": "Comunitario",
-      "resumen": "El Insivumeh prevé que las temperaturas continúen descendiendo durante las próximas horas, principalmente en los altiplanos Central y Occidental. La Conred reporta siete personas atendidas en albergues."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Mujeres exigen justicia ante 536 muertes violentas en Guatemala durante 2026",
-      "link": "https://www.prensalibre.com/guatemala/justicia/mujeres-exigen-justicia-ante-536-muertes-violentas-en-guatemala-durante-2026/",
-      "fecha": "Wed, 25 Nov 2026 21:28:01 +0000",
-      "categoria": "Justicia",
-      "resumen": "Más de 200 mujeres y niñas marcharon por el Centro Histórico de la capital para exigir justicia, el fin de la impunidad y mayores recursos para atender a víctimas de violencia."
     }
   ]
 }
