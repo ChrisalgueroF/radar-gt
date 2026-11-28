@@ -1,7 +1,183 @@
 {
-  "actualizado": "2026-11-27T17:58:52.517Z",
+  "actualizado": "2026-11-28T01:22:05.932Z",
   "total": 99,
   "noticias": [
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Por qué Costa Rica negó el ingreso a Francesca Albanese y cómo recibió su doctorado honoris causa desde un aeropuerto",
+      "link": "https://www.prensalibre.com/internacional/por-que-costa-rica-nego-el-ingreso-a-francesca-albanese-y-como-recibio-su-doctorado-honoris-causa-desde-un-aeropuerto/",
+      "fecha": "Sat, 28 Nov 2026 00:50:05 +0000",
+      "categoria": "Internacional",
+      "resumen": "La relatora de la ONU Francesca Albanese recibió un doctorado honoris causa por videoconferencia desde un aeropuerto de Costa Rica, tras negársele el ingreso al país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Real Madrid vs. Alavés: horario en Guatemala y dónde ver el encuentro de la jornada 14",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/real-madrid-vs-alaves-horario-en-guatemala-y-donde-ver-el-encuentro-de-la-jornada-14/",
+      "fecha": "Sat, 28 Nov 2026 00:30:00 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El Real Madrid busca su triunfo número 11 al hilo cuando enfrente al Alavés este sábado 28 de noviembre en el Bernabéu, por la jornada 14 de LaLiga."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Preparar profesionales capaces de liderar proyectos de alto impacto",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/preparar-profesionales-capaces-de-liderar-proyectos-de-alto-impacto/",
+      "fecha": "Sat, 28 Nov 2026 00:11:02 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "La Universidad Panamericana de Guatemala (UPANA), institución comprometida con la innovación, la calidad académica y la formación orientada a las demandas globales del mercado laboral, lanza su nueva oferta académica para el ciclo 2027, dos nuevas licenciaturas y una innovadora ruta de posgrados articulada con la Maestría en Industrias Creativas Aplicadas: tres posgrados especializados de un año que dan acceso a la fase de maestría; dentro de la Facultad de Ciencias de la Comunicación (FACOM)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Turista sigue desaparecido en Atitlán pese al uso de tecnología especializada e inmersiones de buzos",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/turista-sigue-desaparecido-en-atitlan-pese-al-uso-de-tecnologia-especializada-e-inmersiones-de-buzos-breaking/",
+      "fecha": "Sat, 28 Nov 2026 00:01:47 +0000",
+      "categoria": "Comunitario",
+      "resumen": "Los Hombres Rana de los Bomberos Voluntarios continúan la búsqueda de un turista extranjero desaparecido en el Lago de Atitlán, pese al uso de un sonar y un dron subacuático."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Así fue el supuesto ataque contra un avión iraní dentro del aeropuerto Bushehr",
+      "link": "https://www.prensalibre.com/internacional/asi-fue-el-supuesto-ataque-contra-un-avion-irani-dentro-del-aeropuerto-bushehr/",
+      "fecha": "Fri, 27 Nov 2026 23:57:45 +0000",
+      "categoria": "Internacional",
+      "resumen": "Un video publicado por Irán muestra un ataque en contra de un avión en el aeropuerto de Bushehr."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Un hijo asesinado y otro capturado: la historia de los hijos de la narcotraficante Marta Julia Lorenzana",
+      "link": "https://www.prensalibre.com/guatemala/justicia/un-hijo-asesinado-y-otro-capturado-la-historia-de-los-hijos-de-la-narcotraficante-marta-julia-lorenzana/",
+      "fecha": "Fri, 27 Nov 2026 23:54:27 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Casi cinco años después de la extradición de Marta Julia Lorenzana a Estados Unidos, otro sus hijos fue capturado durante el Estado de Sitio en Zacapa."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Qué ver en Netflix en diciembre del 2026: las series y películas que llegan este mes",
+      "link": "https://www.prensalibre.com/vida/escenario/que-ver-en-netflix-en-diciembre-del-2026-las-series-y-peliculas-que-llegan-este-mes/",
+      "fecha": "Fri, 27 Nov 2026 23:52:35 +0000",
+      "categoria": "Escenario",
+      "resumen": "Netflix despide el 2026 con nuevas series, películas y documentales, entre los que destaca la temporada final de \"Emily en París\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Guatemala y México acuerdan fortalecer la seguridad fronteriza y coordinar el retorno de migrantes",
+      "link": "https://www.prensalibre.com/guatemala/migrantes/guatemala-y-mexico-acuerdan-fortalecer-la-seguridad-fronteriza-y-coordinar-el-retorno-de-migrantes-breaking/",
+      "fecha": "Fri, 27 Nov 2026 23:24:24 +0000",
+      "categoria": "Migrantes",
+      "resumen": "México y Guatemala acordaron fortalecer la seguridad fronteriza, facilitar el retorno de migrantes y coordinar la búsqueda de personas desaparecidas."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Estrenos de Disney Plus en diciembre del 2026: series, películas y especiales",
+      "link": "https://www.prensalibre.com/vida/escenario/estrenos-de-disney-plus-en-diciembre-del-2026-series-peliculas-y-especiales/",
+      "fecha": "Fri, 27 Nov 2026 22:30:25 +0000",
+      "categoria": "Escenario",
+      "resumen": "Disney Plus amplía su catálogo en diciembre del 2026 con nuevas series, películas, producciones animadas y especiales navideños para toda la familia."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Conciertos, convivios y ofertas en más de 75 centros comerciales podrían complicar el tránsito este fin de semana",
+      "link": "https://www.prensalibre.com/guatemala/comunitario/conciertos-convivios-y-ofertas-en-mas-de-75-centros-comerciales-podrian-complicar-el-transito-este-fin-de-semana-breaking/",
+      "fecha": "Fri, 27 Nov 2026 22:07:47 +0000",
+      "categoria": "Comunitario",
+      "resumen": "La PMT alerta por posibles complicaciones en el tránsito de la capital este fin de semana debido a conciertos, actividades navideñas y ofertas en más de 75 centros comerciales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Mourinho recupera a un futbolista del Real Madrid tras casi siete meses de ausencia",
+      "link": "https://www.prensalibre.com/deportes/futbol-internacional/mourinho-recupera-a-un-futbolista-del-real-madrid-tras-casi-siete-meses-de-ausencia/",
+      "fecha": "Fri, 27 Nov 2026 21:14:07 +0000",
+      "categoria": "Fútbol Internacional",
+      "resumen": "El regreso del francés Ferland Mendy es la principal novedad en la convocatoria del Real Madrid para el partido ante el Alavés, por la jornada 14 de LaLiga."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Cuántos años suman las condenas de Roxana Baldetti y por qué sigue suspendida su extradición a Estados Unidos",
+      "link": "https://www.prensalibre.com/guatemala/justicia/cuantos-anos-suman-las-condenas-de-roxana-baldetti-y-por-que-sigue-suspendida-su-extradicion-a-estados-unidos/",
+      "fecha": "Fri, 27 Nov 2026 21:05:55 +0000",
+      "categoria": "Guatemala",
+      "resumen": "Roxana Baldetti volvió a su residencia con brazalete electrónico por razones de salud, mientras siguen proceso en su contra y su entrega a Estados Unidos está aplazada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Calendario lunar diciembre 2026: Fase de la Luna, Superluna de Nochebuena y la lluvia de estrellas",
+      "link": "https://www.prensalibre.com/vida/ciencia/calendario-lunar-diciembre-2026-fase-de-la-luna-superluna-de-nochebuena-y-la-lluvia-de-estrellas/",
+      "fecha": "Fri, 27 Nov 2026 20:31:46 +0000",
+      "categoria": "Ciencia",
+      "resumen": "El mes de diciembre presentará una particularidad en el calendario lunar del 2026: registrará cinco fases lunares en lugar de las cuatro habituales."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Impuesto de circulación 2027: buscador para consultar cuánto pagará y qué vehículos estarán exentos",
+      "link": "https://www.prensalibre.com/economia/impuesto-de-circulacion-2027-como-calcular-el-pago-y-que-vehiculos-estaran-exentos/",
+      "fecha": "Fri, 27 Nov 2026 20:13:57 +0000",
+      "categoria": "Economía",
+      "resumen": "Desde el 1 de enero, los vehículos particulares convencionales pagarán la mitad del impuesto indicado en la tabla. Los híbridos tendrán exenciones, entre el 100% y 80%, según el modelo."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso COG: Juez suma tres delitos a exdirectivos en rebeldía y buscan establecer si dos salieron del país",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-cog-juez-suma-tres-delitos-a-exdirectivos-en-rebeldia-y-buscan-establecer-si-dos-salieron-del-pais-breaking/",
+      "fecha": "Fri, 27 Nov 2026 20:08:34 +0000",
+      "categoria": "Justicia",
+      "resumen": "El juez Mario Hichos sumó tres delitos a exdirectivos del COG declarados en rebeldía. Las autoridades solicitarán un reporte migratorio ante la sospecha de que dos de los señalados hayan abandonado el país."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Sasha Sokol critica la serie de Timbiriche por distorsionar su historia de abuso y convertirla en entretenimiento",
+      "link": "https://www.prensalibre.com/vida/escenario/sasha-sokol-critica-la-serie-de-timbiriche-por-distorsionar-su-historia-de-abuso-y-convertirla-en-entretenimiento/",
+      "fecha": "Fri, 27 Nov 2026 20:07:58 +0000",
+      "categoria": "Escenario",
+      "resumen": "Sigue la polémica por la serie de Timbiriche. La cantante Sasha Sokol criticó la producción y lamentó que, a su juicio, la retraten de forma equivocada."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Shakira en Guatemala 2027: agotan las entradas de preventa y habilitan la venta general para el concierto del 23 de enero",
+      "link": "https://www.prensalibre.com/vida/escenario/shakira-en-guatemala-2027-agotan-las-entradas-de-preventa-y-habilitan-la-venta-general-para-el-concierto-del-23-de-enero/",
+      "fecha": "Fri, 27 Nov 2026 20:00:00 +0000",
+      "categoria": "Escenario",
+      "resumen": "La cantante colombiana Shakira regresará a Guatemala y sus admiradores en el país podrán disfrutar de la exitosa gira mundial \"Las mujeres ya no lloran World Tour\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Recargas desde cualquier parte del mundo de manera fácil y rápida",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/recargas-desde-cualquier-parte-del-mundo-de-manera-facil-y-rapida/",
+      "fecha": "Fri, 27 Nov 2026 19:48:52 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Para estas fechas tan especiales de fin de año, Claro trae el Superpack Internacional, todo Incluido desde 7GB por USD$7, los superpacks incluyen redes sociales (Instagram, Tiktok, WhatsApp, X)."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Céline Dion celebra su regreso a los escenarios con un emotivo mensaje de Acción de Gracias",
+      "link": "https://www.prensalibre.com/vida/escenario/celine-dion-celebra-su-regreso-a-los-escenarios-con-un-emotivo-mensaje-de-accion-de-gracias/",
+      "fecha": "Fri, 27 Nov 2026 19:30:39 +0000",
+      "categoria": "Escenario",
+      "resumen": "El 2026 marcó el regreso de Céline Dion a los escenarios, tras años de padecer una enfermedad que incluso le impedía moverse. Esto dijo en el Día de Acción de Gracias."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "&#8220;Ni EE.UU. llegó tan lejos&#8221;: por qué Costa Rica le impidió la entrada al país a Francesca Albanese, relatora especial de la ONU sobre los territorios palestinos",
+      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ni-ee-uu-llego-tan-lejos-por-que-costa-rica-le-impidio-la-entrada-al-pais-a-francesca-albanese-relatora-especial-de-la-onu-sobre-los-territorios-palestinos/",
+      "fecha": "Fri, 27 Nov 2026 18:39:57 +0000",
+      "categoria": "BBC News Mundo",
+      "resumen": "Albanese había sido invitada al país para recibir este viernes un doctorado honoris causa por la Universidad de Costa Rica, desde donde dijeron que \"lamentan profundamente esta situación\"."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Caso Los Calavera: juez ordena investigar a fiscalía por ausentarse de audiencia",
+      "link": "https://www.prensalibre.com/guatemala/justicia/caso-los-calavera-juez-ordena-investigar-a-fiscalia-por-ausentarse-de-audiencia-breaking/",
+      "fecha": "Fri, 27 Nov 2026 18:23:45 +0000",
+      "categoria": "Justicia",
+      "resumen": "Juez ordena investigar a los fiscales a cargo del caso Los Calavera por ausentarse de una audiencia. La estructura está señalada por el crimen de dos directivos de un hospital."
+    },
+    {
+      "fuente": "Prensa Libre",
+      "titulo": "Casa Camporal: el desarrollo residencial que comienza a tomar forma en Escuintla",
+      "link": "https://www.prensalibre.com/economia/vida-empresarial/casa-camporal-el-desarrollo-residencial-que-comienza-a-tomar-forma-en-escuintla/",
+      "fecha": "Fri, 27 Nov 2026 18:14:04 +0000",
+      "categoria": "Vida Empresarial",
+      "resumen": "Inmobiliaria Amaranto inició la urbanización de Casa Camporal, un exclusivo proyecto residencial que apuesta por integrar naturaleza, seguridad y amenidades para ofrecer una experiencia de vida diferenciada. El desarrollo contempla 470 viviendas y prevé entregar las primeras en 2027."
+    },
     {
       "fuente": "Prensa Libre",
       "titulo": "Posible hackeo a la Fuerza Aérea de Estados Unidos: ¿Qué datos podrían estar en riesgo?",
@@ -617,182 +793,6 @@
       "fecha": "Thu, 26 Nov 2026 14:11:00 +0000",
       "categoria": "Escenario",
       "resumen": "La batalla por un viñedo reveló detalles sobre lo que, según afirmó Jolie, fue un comportamiento abusivo de Pitt hacia ella y sus hijos en 2016."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Marcha de salubristas complica el tránsito en la capital este 26 de noviembre: estas son las rutas alternas",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/marcha-de-salubristas-complica-el-transito-en-la-capital-este-26-de-noviembre-estas-son-las-rutas-alternas-breaking/",
-      "fecha": "Thu, 26 Nov 2026 14:06:24 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Trabajadores de Salud bloquean carriles de la avenida Bolívar y se desplazan hacia el Centro Histórico. Conozca las vías alternas que recomienda la PMT."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "“Guatemala en movimiento”: el debut de la nueva agrupación de danza del Inguat",
-      "link": "https://www.prensalibre.com/vida/escenario/guatemala-en-movimiento-el-debut-de-la-nueva-agrupacion-de-danza-del-inguat/",
-      "fecha": "Thu, 26 Nov 2026 13:37:01 +0000",
-      "categoria": "Escenario",
-      "resumen": "En su  primera aparición oficial el grupo dancístico presentará un espectáculo inspirado en  la ruta \"El Camino del tiempo\"."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Inés Gómez Mont, la exestrella de TV acusada de delincuencia organizada que causa un roce diplomático entre México y EE.UU.",
-      "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/ines-gomez-mont-la-exestrella-de-tv-acusada-de-delincuencia-organizada-que-causa-un-roce-diplomatico-entre-mexico-y-ee-uu/",
-      "fecha": "Thu, 26 Nov 2026 13:31:08 +0000",
-      "categoria": "BBC News Mundo",
-      "resumen": "La presentadora aceptó salir de forma voluntaria de EE.UU. y fue enviada a España. México pidió su extradición en 2025."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tres temblores este 26 de noviembre: dónde fueron los epicentros y qué magnitudes alcanzaron",
-      "link": "https://www.prensalibre.com/guatemala/comunitario/tres-temblores-este-26-de-noviembre-donde-fueron-los-epicentros-y-que-magnitudes-alcanzaron-breaking/",
-      "fecha": "Thu, 26 Nov 2026 13:14:29 +0000",
-      "categoria": "Comunitario",
-      "resumen": "Al menos tres temblores se han registrado en las primeras horas de este 26 de noviembre, según los reportes."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Apertura 2026: con el calendario al día, así queda la clasificación con una última jornada de infarto",
-      "link": "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-con-el-calendario-al-dia-asi-queda-la-clasificacion-con-una-ultima-jornada-de-infarto-breaking/",
-      "fecha": "Thu, 26 Nov 2026 13:00:00 +0000",
-      "categoria": "Fútbol Nacional",
-      "resumen": "Cinco equipos ya aseguraron su presencia en la fase final, mientras otros tres mantienen posibilidades de quedarse con el último boleto."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Robo de motocicleta y celular: la pista que llevó a la PNC hasta una guarida de presuntos pandilleros con armas y municiones",
-      "link": "https://www.prensalibre.com/guatemala/justicia/robo-de-motocicleta-y-celular-la-pista-que-llevo-a-la-pnc-hasta-una-guarida-de-presuntos-pandilleros-con-armas-y-municiones-breaking/",
-      "fecha": "Thu, 26 Nov 2026 12:21:18 +0000",
-      "categoria": "Justicia",
-      "resumen": "Capturan en Puerto Barrios, Izabal, a dos presuntos pandilleros que podrían están vinculados con robos y ataques armados."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Árbol de Navidad: El tradicional pinabete llega al Mercado de Artesanías y otros puntos de la ciudad",
-      "link": "https://www.prensalibre.com/vida/salud-y-familia/la-feria-del-pinabete-ya-se-encuentra-en-el-mercado-de-artesanias-de-la-zona-13/",
-      "fecha": "Thu, 26 Nov 2026 12:00:00 +0000",
-      "categoria": "Salud y Familia",
-      "resumen": "Quienes gustan de ornamentar sus hogares con árboles, guirnaldas y ramillas de pinabete tienen la oportunidad de adquirir estos elementos de manera legal en estos espacios."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cae banda “Los Enanos”: robaba vehículos de alta gama en Guatemala, los modificaba y ¿a qué país los llevaba?",
-      "link": "https://www.prensalibre.com/guatemala/justicia/cae-banda-los-enanos-robaba-vehiculos-de-alta-gama-en-guatemala-los-modificaba-y-a-que-pais-los-llevaba-breaking/",
-      "fecha": "Thu, 26 Nov 2026 11:26:35 +0000",
-      "categoria": "Justicia",
-      "resumen": "Capturan a integrantes de la banda “Los Enanos”, dedicada al robo, desmantelamiento y comercialización ilegal de vehículos de alta gama en Guatemala, según la Policía Nacional Civil."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Cuánto puede costar esperar por un permiso de construcción en Guatemala",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/cuanto-puede-costar-esperar-por-un-permiso-de-construccion-en-guatemala/",
-      "fecha": "Thu, 26 Nov 2026 10:05:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "Un informe de la Cámara Guatemalteca de la Industria de la Construcción (CGIC) alerta que 60 proyectos de vivienda mantienen gestiones por completar. El sector alerta la urgencia de renovar la Ventanilla Ágil de la Construcción (VAC)."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Astrid Santos hace historia al ganar medalla de bronce en el Mundial Juvenil de Billar",
-      "link": "https://www.prensalibre.com/deportes/deporte-nacional/astrid-santos-hace-historia-al-ganar-medalla-de-bronce-en-el-mundial-juvenil-de-billar-breaking/",
-      "fecha": "Thu, 26 Nov 2026 10:00:00 +0000",
-      "categoria": "Deporte Nacional",
-      "resumen": "La quetzalteca se convirtió en la primera guatemalteca en subir al podio de un Mundial de esta categoría, tras destacar en la modalidad de Bola 9 en Estados Unidos."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "IA y futuro del trabajo: qué empleos cambiarán y cuáles serán las habilidades necesarias",
-      "link": "https://www.prensalibre.com/vida/ciencia/ia-y-futuro-del-trabajo-que-empleos-cambiaran-y-cuales-seran-las-habilidades-necesarias/",
-      "fecha": "Thu, 26 Nov 2026 10:00:00 +0000",
-      "categoria": "Ciencia",
-      "resumen": "La tecnología es una oportunidad para Latinoamérica, pero muchos trabajadores tendrán que desarrollar nuevas habilidades y cambiar de rol, según datos de McKinsey Global Institute."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Ventanilla Ágil de la Construcción: &#8220;El tema se quedó paralizado en el Ministerio de Economía&#8221;",
-      "link": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/ventanilla-agil-de-la-construccion-el-tema-se-quedo-paralizado-en-el-ministerio-de-economia/",
-      "fecha": "Thu, 26 Nov 2026 10:00:00 +0000",
-      "categoria": "Guatemala No Se Detiene",
-      "resumen": "El vencimiento del convenio de la Ventanilla Ágil de la Construcción (VAC) mantiene expedientes suspendidos y genera incertidumbre sobre 60 proyectos habitacionales con trámites pendientes, que representan una inversión declarada de Q3 mil 500 millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto 2027 de Guatemala: sectores valoran la reducción del déficit fiscal, pero advierten riesgos por la deuda y los recortes",
-      "link": "https://www.prensalibre.com/economia/presupuesto-2027-de-guatemala-sectores-valoran-la-reduccion-del-deficit-fiscal-pero-advierten-riesgos-por-la-deuda-y-los-recortes/",
-      "fecha": "Thu, 26 Nov 2026 06:10:00 +0000",
-      "categoria": "Economía",
-      "resumen": "Diversas posturas han surgido tras la aprobación del presupuesto del 2027 por parte del Congreso de la República, que redujo en Q19 mil 624 millones la propuesta original de unos Q192 mil millones. El techo presupuestario aprobado quedó en Q172 mil 420 millones."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "El señor de los anillos",
-      "link": "https://www.prensalibre.com/opinion/caricatura/el-senor-de-los-anillos/",
-      "fecha": "Thu, 26 Nov 2026 06:06:00 +0000",
-      "categoria": "Caricatura",
-      "resumen": "Caricatura de Fo"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Un bodrio a la medida del hambre electorera",
-      "link": "https://www.prensalibre.com/opinion/editorial/un-bodrio-a-la-medida-del-hambre-electorera/",
-      "fecha": "Thu, 26 Nov 2026 06:05:00 +0000",
-      "categoria": "Editorial",
-      "resumen": "El incremento de deuda pública sigue alto —Q30 mil millones en bonos— y no hubo visos de efectuar o exigir una criba del personal burocrático."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La intervención de Trump en Nvidia plantea una pregunta: ¿hasta dónde puede influir la Casa Blanca en las empresas?",
-      "link": "https://www.prensalibre.com/internacional/la-intervencion-de-trump-en-nvidia-plantea-una-pregunta-hasta-donde-puede-influir-la-casa-blanca-en-las-empresas/",
-      "fecha": "Thu, 26 Nov 2026 06:05:00 +0000",
-      "categoria": "Internacional",
-      "resumen": "El regreso de Jensen Huang a Nvidia, impulsado por Donald Trump, genera cuestionamientos sobre la influencia presidencial en decisiones corporativas y sus consecuencias económicas."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Tramocracia",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/tramocracia/",
-      "fecha": "Thu, 26 Nov 2026 06:04:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El libro será lanzado en los próximos días al mercado."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Presupuesto sin austeridad",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/presupuesto-sin-austeridad/",
-      "fecha": "Thu, 26 Nov 2026 06:03:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "El déficit fiscal sigue siendo enorme: 3.2% del PIB. El Gobierno gasta más de lo que recauda."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "Crónica de una jornada",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/cronica-de-una-jornada/",
-      "fecha": "Thu, 26 Nov 2026 06:02:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "La situación vial es crítica, ¿no debiera eso obligar a las autoridades competentes a aguzar el ingenio?"
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "La voluntad de la mayoría del mundo",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/la-voluntad-de-la-mayoria-del-mundo/",
-      "fecha": "Thu, 26 Nov 2026 06:01:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Hay una dosis considerable de arrogancia."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "¿Qué perdió el Gobierno con la aprobación del presupuesto 2027?",
-      "link": "https://www.prensalibre.com/guatemala/que-perdio-el-gobierno-con-la-aprobacion-del-presupuesto-2027/",
-      "fecha": "Thu, 26 Nov 2026 06:01:00 +0000",
-      "categoria": "Guatemala",
-      "resumen": "Los recortes en las asignaciones de Salud y Desarrollo Social contrastan con los recursos que tendrán a su disposición los Consejos Departamentales de Desarrollo (Codedes), en un presupuesto que provoca cuestionamientos entre analistas por las prioridades del gasto público en año electoral."
-    },
-    {
-      "fuente": "Prensa Libre",
-      "titulo": "ISR: deducciones, créditos y Ley de Cine",
-      "link": "https://www.prensalibre.com/opinion/columnasdiarias/isr-deducciones-creditos-y-ley-de-cine/",
-      "fecha": "Thu, 26 Nov 2026 06:00:00 +0000",
-      "categoria": "Columnas Diarias",
-      "resumen": "Las deducciones auténticas protegen la capacidad de pago del contribuyente."
     }
   ]
 }
